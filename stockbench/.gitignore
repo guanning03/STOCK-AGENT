@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Storage - LLM response cache and output reports (not reusable assets)
+storage/cache/llm/
+storage/reports/
+
+# Logs
+*.log
+logs/
+
+# Environment / secrets
+.env
+.env.*
+*.key
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
