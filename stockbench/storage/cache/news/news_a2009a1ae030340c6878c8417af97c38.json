@@ -1,0 +1,151 @@
+{
+  "items": [
+    {
+      "title": "Unease About Warren Buffett’s Retirement Overshadows Berkshire Earnings Beat",
+      "description": "For the 12th consecutive quarter, Berkshire Hathaway was a net seller of stocks, offloading $6 billion worth.",
+      "published_utc": "2025-11-04T06:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9e07cc3f39a6952350d1cfc0059b240b974c3884b4536647de5b598890368ea1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137351079,
+      "datetime": 1762255800
+    },
+    {
+      "title": "Earnings Positivity: 2 Companies Raising Guidance",
+      "description": "So far, AXP and ROKU have raised guidance in one way or another, reflecting positive business momentum.",
+      "published_utc": "2025-11-03T19:38:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7f9f2d5abcfe2fd3d24050b6b20054108c5f14ff3ef35379a94a2c28a6eefdda",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137311737,
+      "datetime": 1762216680
+    },
+    {
+      "id": "6f278acba4c7ba56a65ed33ba4d89d6931861d4accc5e5a3eb42eebd2ae7638d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Billionaire Warren Buffett's $184 Billion Warning to Wall Street Has Hit a Deafening Roar",
+      "author": "Sean Williams",
+      "published_utc": "2025-11-04T08:06:00Z",
+      "article_url": "https://www.fool.com/investing/2025/11/04/warren-buffett-184-billion-warning-to-wall-street/?source=iedfolrf0000001",
+      "tickers": [
+        "BRK.A",
+        "BRK.B",
+        "KO",
+        "AXP",
+        "OXY",
+        "OXY.WS"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/840747/buffett9-tmf.jpg",
+      "description": "Warren Buffett has been selling more stocks than buying for 12 consecutive quarters, signaling concerns about current market valuations. Despite having $381.6 billion in cash, Berkshire Hathaway is cautious about stock purchases due to high market-cap-to-GDP ratios and expensive stock market conditions.",
+      "keywords": [
+        "Warren Buffett",
+        "stock market",
+        "valuation",
+        "selling activity",
+        "investment strategy"
+      ],
+      "insights": [
+        {
+          "ticker": "BRK.A",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Cautious investment approach with significant cash reserves, maintaining long-term core positions while being selective about new stock purchases"
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Cautious investment approach with significant cash reserves, maintaining long-term core positions while being selective about new stock purchases"
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Considered an 'indefinite' holding in Buffett's long-term investment strategy"
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Considered an 'indefinite' holding in Buffett's long-term investment strategy"
+        },
+        {
+          "ticker": "OXY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Considered an 'indefinite' holding in Buffett's long-term investment strategy"
+        },
+        {
+          "ticker": "OXY.WS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Considered an 'indefinite' holding in Buffett's long-term investment strategy"
+        }
+      ]
+    },
+    {
+      "id": "b8fbbca7ad94b19e9916949342a58718fce7a2eeb45de117f448c08a50d4ff08",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Warren Buffett Is 2 Months From Retirement -- and He Just Sent Out a Fresh $381 Billion Warning to Wall Street",
+      "author": "Adria Cimino",
+      "published_utc": "2025-11-04T02:10:00Z",
+      "article_url": "https://www.fool.com/investing/2025/11/03/buffett-near-retirement-warning-to-wall-street/?source=iedfolrf0000001",
+      "tickers": [
+        "BRK.A",
+        "BRK.B",
+        "KO",
+        "AXP"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/840755/buffett11-tmf.jpg",
+      "description": "Warren Buffett is preparing to step down as Berkshire Hathaway CEO, warning Wall Street about expensive stock valuations by accumulating a record $381 billion cash reserve and selling stocks for 12 consecutive quarters.",
+      "keywords": [
+        "Warren Buffett",
+        "retirement",
+        "stock market",
+        "value investing",
+        "market valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "BRK.A",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Preparing for leadership transition while maintaining cautious investment strategy"
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Preparing for leadership transition while maintaining cautious investment strategy"
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as one of Buffett's long-term dividend stock holdings"
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as one of Buffett's top holdings with consistent dividend payments"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:29:53.811359+00:00",
+    "cache_key": "news_a2009a1ae030340c6878c8417af97c38",
+    "count": 4
+  }
+}

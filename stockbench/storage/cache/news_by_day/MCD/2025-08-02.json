@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Walt Disney, McDonald's, Palantir Set To Report Earnings",
+      "description": "Key earnings this week will include PLTR, ON, AMD, CAT, & PFE. With Trump's revised tariff orders, investors will be keeping an eye on economic reports releasing next week.",
+      "published_utc": "2025-08-02T07:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6b01d90a3aa94ed1d22b3a8ccf34fa50bcd6abbd9f1688f6929cb5c7c424164d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136182108,
+      "datetime": 1754132400
+    },
+    {
+      "title": "How McDonald’s (MCD) Maintains its Status as a Leading Income Stock",
+      "description": "McDonald’s Corporation (NYSE:MCD) is included among the 11 Best Income Stocks to Buy According to Hedge Funds. McDonald’s Corporation (NYSE:MCD) is easily recognized by its golden arches, but most of its locations— around 95 percent— are run by franchisees rather than the company itself. These franchised restaurants generate roughly 60% of the company’s yearly revenue. […]",
+      "published_utc": "2025-08-02T00:59:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ff60aa9ba2255baa25c1ffb966a5b977cde147fda50f62610c5cc3d19381317d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136183286,
+      "datetime": 1754110762
+    }
+  ]
+}

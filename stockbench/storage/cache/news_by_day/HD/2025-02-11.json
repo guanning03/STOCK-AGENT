@@ -1,0 +1,93 @@
+{
+  "items": [
+    {
+      "id": "8dcac5daa23f6142ed6cdfbb4d766c12acf9d58d2091994f68caf85258788b5c",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "February Winter Weather Set To Bring Northeast Snow, Soak California Fire Zones",
+      "author": "Erica Kollmann",
+      "published_utc": "2025-02-11T16:10:26Z",
+      "article_url": "https://www.benzinga.com/general/travel/25/02/43629878/february-winter-weather-set-to-bring-northeast-snow-soak-california-fire-zones",
+      "tickers": [
+        "AAL",
+        "DAL",
+        "WMT",
+        "HD",
+        "ALL",
+        "ALLpB",
+        "ALLpH",
+        "ALLpI",
+        "ALLpJ",
+        "CB"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/02/11/Traffic-Jam-Caused-By-Heavy-Snowfall.jpeg?width=1200&height=800&fit=crop",
+      "description": "A major winter storm is set to hit the Northeast with snow and ice, while an atmospheric river will bring heavy rains to fire-scarred areas of California, potentially causing flooding and debris flows.",
+      "keywords": [
+        "winter weather",
+        "snow",
+        "ice",
+        "atmospheric river",
+        "California",
+        "fire zones",
+        "flooding",
+        "debris flows"
+      ],
+      "insights": [
+        {
+          "ticker": "AAL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that the winter storm in the MidAtlantic region will trigger plowing operations and deicing activity at airports, which could lead to delays and disruptions for airlines like American Airlines Group."
+        },
+        {
+          "ticker": "DAL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Similar to American Airlines Group, the article suggests that the MidAtlantic snow storm could cause travel disruptions for Delta Air Lines."
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article indicates that grocery and home improvement stores like Walmart may see increased traffic as people stock up on essentials before the Northeast storm, which could boost their revenue."
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that home improvement stores like Home Depot could see a boost in revenue from storm-related sales as people prepare for the Northeast storm."
+        },
+        {
+          "ticker": "ALL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that residents and insurance companies in Southern California, like Allstate, may face further damage from the heavy rains and potential landslides and debris flows in the fire-ravaged areas."
+        },
+        {
+          "ticker": "ALLpB",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that residents and insurance companies in Southern California, like Allstate, may face further damage from the heavy rains and potential landslides and debris flows in the fire-ravaged areas."
+        },
+        {
+          "ticker": "ALLpH",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that residents and insurance companies in Southern California, like Allstate, may face further damage from the heavy rains and potential landslides and debris flows in the fire-ravaged areas."
+        },
+        {
+          "ticker": "ALLpI",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that residents and insurance companies in Southern California, like Allstate, may face further damage from the heavy rains and potential landslides and debris flows in the fire-ravaged areas."
+        },
+        {
+          "ticker": "ALLpJ",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that residents and insurance companies in Southern California, like Allstate, may face further damage from the heavy rains and potential landslides and debris flows in the fire-ravaged areas."
+        },
+        {
+          "ticker": "CB",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Similar to Allstate, the article indicates that insurance companies like Chubb may be impacted by the damage caused by the heavy rains and potential landslides and debris flows in the fire-affected areas of Southern California."
+        }
+      ]
+    }
+  ]
+}

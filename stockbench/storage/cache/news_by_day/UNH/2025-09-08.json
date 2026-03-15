@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Why UnitedHealth Group (UNH) Outpaced the Stock Market Today",
+      "description": "The latest trading day saw UnitedHealth Group (UNH) settling at $320.37, representing a +1.58% change from its previous close.",
+      "published_utc": "2025-09-08T19:33:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7a4b45c9a700726dcf3d4581a986b9b35b8e54c8682d2d0af0bc784b1a616ddc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136674260,
+      "datetime": 1757374388
+    },
+    {
+      "title": "Sector Update: Health Care Stocks Softer Late Afternoon",
+      "description": "Health care stocks declined late Monday afternoon, with the NYSE Health Care Index and the Health Ca",
+      "published_utc": "2025-09-08T15:54:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=248fd45680f7a2cb8e421aaaad87a2c8c3f7be3448ec95d64b7b0d78e2583700",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136674261,
+      "datetime": 1757361284
+    },
+    {
+      "title": "UnitedHealth & AI: Can Technology Redefine Healthcare Efficiency?",
+      "description": "UNH is leveraging AI to streamline insurance and care delivery, aiming to boost efficiency and improve patient outcomes.",
+      "published_utc": "2025-09-08T12:19:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e91646bfe180004bf49321dc676a3ae6ceebba3a9b9f1371d3d79334fea39beb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136674262,
+      "datetime": 1757348340
+    },
+    {
+      "title": "IBM, Walmart share gains contribute to Dow's 134-point climb",
+      "description": "IBM, Walmart share gains contribute to Dow's 134-point climb",
+      "published_utc": "2025-09-08T11:55:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f5942408e1f80e4f897bb4667b53263e2bb85f9296e5a9529a571dad3d2a7bba",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136713116,
+      "datetime": 1757346900
+    },
+    {
+      "title": "Berkshire Hathaway Buys UnitedHealth Shares: Should You Follow Suit?",
+      "description": "The Oracle of Omaha's Berkshire Hathaway is buying into troubled UnitedHealth.",
+      "published_utc": "2025-09-08T10:46:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=95ece53738a3711b9955ff9639337839a9c74fc16f145a190ae68ac705c27e26",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136669174,
+      "datetime": 1757342760
+    }
+  ]
+}

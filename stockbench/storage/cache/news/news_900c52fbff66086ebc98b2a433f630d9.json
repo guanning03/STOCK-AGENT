@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "3 tools used by technical analysts that can give stock pickers a second opinion",
+      "description": "Here are some basic technical metrics that every investor should be aware of. They can be used as a check on our fundamental analysis.",
+      "published_utc": "2026-02-16T07:16:52",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=2a406a6d55044f3ea2cd066686c5b7df4ec9180fb71f73792f92611c8d762439",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108262719-1770403913046-108262719-1770403735063-gettyimages-2259635850-FARM_IPO.jpg?v=1770913967&w=1920&h=1080",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139115325,
+      "datetime": 1771244212
+    },
+    {
+      "title": "Companies Are Replacing CEOs in Record Numbers—and They’re Getting Younger",
+      "description": "There hasn’t been such a big crop of new leaders running Corporate America in at least 16 years, and they have their hands full.",
+      "published_utc": "2026-02-15T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9e1401137b0f8799eaca5a78bfccb11a7854d631886af790fbc935854bd319c8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139110111,
+      "datetime": 1771207200
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:11:07.707644+00:00",
+    "cache_key": "news_900c52fbff66086ebc98b2a433f630d9",
+    "count": 2
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Home Depot: The Canary In The Coal Mine",
+      "description": "",
+      "published_utc": "2026-02-02T12:14:44",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=49b8752bf51108dc94fce22ecab6a155523f98341858cecaaff0c37c315fe381",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138336615,
+      "datetime": 1770052484
+    },
+    {
+      "title": "ETFs in Spotlight as Tesla Tops Q4 Earnings, Dips on Revenue Miss",
+      "description": "ETFs move into focus after Tesla beats on Q4 EPS but misses on revenues, sending shares lower despite record energy storage and heavy AI spending plans.",
+      "published_utc": "2026-02-02T09:46:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a943d4c5c3d8b5116030dc688653602e74e272e9eb6cf4560e71e13318da3bbb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138332385,
+      "datetime": 1770043560
+    },
+    {
+      "title": "Brokers Suggest Investing in Home Depot (HD): Read This Before Placing a Bet",
+      "description": "Based on the average brokerage recommendation (ABR), Home Depot (HD) should be added to one's portfolio. Wall Street analysts' overly optimistic recommendations cast doubt on the effectiveness of this highly sought-after metric. So, is the stock worth buying?",
+      "published_utc": "2026-02-02T09:30:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=01663f5ed918afb8468d2a52547581058fad7a6c415c15ca36df8dc9f76a9c7c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138332426,
+      "datetime": 1770042603
+    },
+    {
+      "title": "The Home Depot, Inc. (HD) is Attracting Investor Attention: Here is What You Should Know",
+      "description": "Recently, Zacks.com users have been paying close attention to Home Depot (HD). This makes it worthwhile to examine what the stock has in store.",
+      "published_utc": "2026-02-02T09:00:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=55ac635484b117bbcd42c9a1fca40e135bfc35723512cda0f2db278efdb5ec9f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138332427,
+      "datetime": 1770040805
+    },
+    {
+      "title": "Home Depot Reshapes Workforce While Betting On AI And Sustainable Growth",
+      "description": "Home Depot (NYSE:HD) is cutting about 800 corporate jobs as part of a broad restructuring. The company is requiring corporate staff to return to the office five days a week. Home Depot is rolling out a Material List Builder AI tool aimed at professional customers. The retailer is expanding sustainable offerings with a nationwide launch of organic seeds. For you as an investor, these moves touch both the front and back of the Home Depot story. The company is a major US home improvement...",
+      "published_utc": "2026-02-01T20:05:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cb70e94949e7efcbce42af158eb8ffb17425f8c95e49c4aaf4a7cf2533953cbe",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138328371,
+      "datetime": 1769994359
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:26:26.178801+00:00",
+    "cache_key": "news_7f7e59835e3b80daea161ac3103536bc",
+    "count": 5
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Crypto Payments Firm Truther to Launch Non-Custodial USDT Visa Card in El Salvador",
+      "description": "The card doesn't require preloading funds or custodial services, and carries a 2% fee on currency conversions, with no IOF tax for Brazilian users.",
+      "published_utc": "2025-11-29T11:42:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1ac3fef501bf345608f8409197e8a657ee97b5a668913421d5b75493431306f7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137649841,
+      "datetime": 1764434527
+    },
+    {
+      "title": "Visa: Sneaky Winner Of Persistent Inflation",
+      "description": "Discover why Visa offers strong investment potential with double-digit growth, digital expansion, and stability.",
+      "published_utc": "2025-11-29T05:51:34",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bde82af8752356b758f9683c2f1792f34dda201dd92e05f1c9144016087548ba",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/487418477/image_487418477.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137637196,
+      "datetime": 1764413494
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:42:06.288230+00:00",
+    "cache_key": "news_8b42b15728d5e15218302078429e8fc9",
+    "count": 2
+  }
+}

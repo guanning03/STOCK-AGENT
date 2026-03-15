@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Chipotle CEO says chain has no plans to raise prices amid consumer pullback",
+      "description": "Chipotle CEO Scott Boatwright talks tariffs, price increases, and more.",
+      "published_utc": "2025-04-23T17:21:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f220ed2da41dfe8e8a2e6b951b46d8ffae778d2ee1be1dd0b3bf984ded81ff73",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134059338,
+      "datetime": 1745443304
+    },
+    {
+      "title": "Chipotle stock drops after company reports first same-store sales decline since the pandemic",
+      "description": "Chipotle is out with its first quarter results.",
+      "published_utc": "2025-04-23T16:12:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c126e3bf2bd73d802dc7e4075600b145b615155109446dd148835ea576bdbdd2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134059339,
+      "datetime": 1745439143
+    },
+    {
+      "title": "Chipotle Isn't So Hot Ahead Of Earnings: Will ETFs Push The Plate Away?",
+      "description": "Chipotle&#39;s stock is falling due to analysts cutting price targets and tempering expectations. Are ETFs rethinking its spice factor?",
+      "published_utc": "2025-04-23T11:36:08",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=4c21322deb3b3be6029bf7a40c5584c673534b054fd7f09854d5006ce8816569",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/04/23/San-Francisco--Ca--Usa---May-1--2022-Chi_0.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138645641,
+      "datetime": 1745422568
+    },
+    {
+      "title": "TGI Friday's after bankruptcy: Heavy alcohol pours and hand-breaded chicken fingers",
+      "description": "Can TGI Fridays be saved? One person is betting it can.",
+      "published_utc": "2025-04-23T10:49:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1f194d87bcc04ce73fe295d2afdd92ca1ad74ca4de9fda71457f4394a5a276bb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134046359,
+      "datetime": 1745419773
+    },
+    {
+      "title": "Wall Street Lunch: Bessent Comments On China Tariffs",
+      "description": "",
+      "published_utc": "2025-04-23T10:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e7ea83e080f16c21c176159e721c5c7fd7205b37567f23db5202d27b2d3f878b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134045825,
+      "datetime": 1745418600
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T23:28:34.516816+00:00",
+    "cache_key": "news_64fd5a21a4370a3f0b94a0c4d1a66d4a",
+    "count": 5
+  }
+}

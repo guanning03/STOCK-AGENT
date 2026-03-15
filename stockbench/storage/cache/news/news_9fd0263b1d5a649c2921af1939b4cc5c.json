@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar Inc. stock outperforms competitors on strong trading day",
+      "description": "Caterpillar Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2026-02-24T11:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f8e3ae82c40e502fe5db6331eb2e7c9a935e37367bb7760ad0c0617ea487f0f4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139251121,
+      "datetime": 1771950720
+    },
+    {
+      "title": "Tesla, Nucor And These Companies May Be Safest From Trump's Tariff Shock",
+      "description": "Tesla, Nucor, Caterpillar, Deere may be best positioned with a key advantage as Trump&#39;s 10% tariff hits global supply chains.",
+      "published_utc": "2026-02-24T05:13:01",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=b0111828277ab7de85963b18d880be380b5b8c9f9385ee6495f6124dd745ecbc",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/02/24/Tariffs-Cited-As-Key-Reason.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139196866,
+      "datetime": 1771927981
+    },
+    {
+      "title": "Diesel Gensets Market Competitive Landscape Report 2025: Company Analysis, Profiles, Strategic Developments, Mergers, Product Innovations, Revenue Insights, and Future Forecasts to 2033",
+      "description": "The global diesel generator market is projected to expand significantly from USD 21.08 billion in 2025 to USD 36.33 billion by 2033, experiencing a CAGR of 7.04%. Key growth drivers include escalating energy demand and the need for reliable backup power solutions amid rapid industrialization. Diesel generators, converting diesel fuel into electricity, are crucial for sectors like healthcare, telecom, and manufacturing. Top manufacturers include Aggreko, Atlas Copco, and Caterpillar. Recent innov",
+      "published_utc": "2026-02-24T04:11:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=280c5c3b0078104c7f164f89421bf9669be10e3c3dd84266d8d64972185ebb7c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139192441,
+      "datetime": 1771924260
+    },
+    {
+      "title": "ElevenEs held 1st Closing of its Series B Investment Round Backed by Caterpillar Venture Capital Inc.",
+      "description": "SUBOTICA, Serbia & LUXEMBOURG, February 24, 2026--ElevenEs has completed the first closing of its Series B investment round, backed by Caterpillar Venture Capital Inc., a wholly owned subsidiary of Caterpillar Inc. (NYSE: CAT) - the world’s leading manufacturer of construction and mining equipment, off-highway diesel and natural gas engines, industrial gas turbines and diesel-electric locomotives. Additionally, an affiliate of BST (HK) Ltd., a leading Hong Kong-based commodity trading house, par",
+      "published_utc": "2026-02-24T03:24:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac60e1efa83ce082594abae399066b31a7274b5e2125e35da5de15156cda679f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139192442,
+      "datetime": 1771921440
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:35:47.353935+00:00",
+    "cache_key": "news_9fd0263b1d5a649c2921af1939b4cc5c",
+    "count": 4
+  }
+}

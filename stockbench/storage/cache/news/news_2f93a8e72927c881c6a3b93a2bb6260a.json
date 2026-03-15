@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "These Industrials Lead Dow Jones Stocks Through January; Apple, Microsoft Lag",
+      "description": "Honeywell led the Dow industrials with a 16.6% gain in January, its best month since October 2022. Apple. and Microsoft lagged.",
+      "published_utc": "2026-02-02T15:43:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=366500612f39b16431d45124694180a4a6475a22a03560da8e3162d1ca05e580",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138336177,
+      "datetime": 1770065006
+    },
+    {
+      "title": "This Beaten-Down AI Stock Could Stage a Comeback in 2026",
+      "description": "Salesforce had a rough 2025 but remains fundamentally strong. Is it worth a look in 2026?",
+      "published_utc": "2026-02-02T15:29:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3e54de4c17152c84b4a4c8a50bf6b342f8dff12d0fc6375ed49a0426a9800579",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138336321,
+      "datetime": 1770064140
+    },
+    {
+      "title": "Jim Cramer Says Salesforce is “Really Great” But He Accepts the Market’s Judgment",
+      "description": "Salesforce, Inc. (NYSE:CRM) is one of the stocks Jim Cramer shared his thoughts on. Discussing that Wall Street believes that ServiceNow’s growth cannot be counted on any longer, Cramer said: It’s saying the same thing, by the way, about Salesforce, another software company that’s doing fabulously with a stock that’s also seeing multiple compression… Personally, […]",
+      "published_utc": "2026-02-02T15:18:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=06374ffb498378e09b5856db9aa199b022d1e6e7f2419b60b08c4c2667f908c7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138336322,
+      "datetime": 1770063522
+    },
+    {
+      "title": "Jim Cramer on Palantir: “I Can’t Back Away From It Right Here”",
+      "description": "Palantir Technologies Inc. (NASDAQ:PLTR) is one of the stocks Jim Cramer shared his thoughts on. When a caller asked if Cramer still likes the company, he stated: Yes, I like Palantir. Now, Palantir’s trading right now with the cohort that is ServiceNow and Salesforce. By the way, those are great companies. But I think that […]",
+      "published_utc": "2026-02-02T15:18:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=52c2461e9e9f23b2fe42469cde5e448c841fa7bde6549b38e818da0606c2cc42",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138336280,
+      "datetime": 1770063513
+    },
+    {
+      "title": "Exalate Introduces a New Experience for Running Integrations as Business Infrastructure",
+      "description": "A clearer way to oversee integrations as they grow in scope, ownership, and impactANTWERP, Belgium, Feb. 02, 2026 (GLOBE NEWSWIRE) -- Integrations are taking on a more central role in business operations. As organizations operate across more tools, teams, and external partners, they increasingly influence how work progresses, how data moves, and how reliably collaboration holds together. Exalate today introduced a new experience designed to help organizations oversee and adapt integrations as th",
+      "published_utc": "2026-02-02T12:46:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a72208001eed62c5b1a23a70d3407f1876800286269ddc663ba9385b79d0ba4f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138333751,
+      "datetime": 1770054360
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:28:23.794320+00:00",
+    "cache_key": "news_2f93a8e72927c881c6a3b93a2bb6260a",
+    "count": 5
+  }
+}

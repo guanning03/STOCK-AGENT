@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "id": "45c0ac51220cb2087c4045b91eb9d998d491c050927d59544c55237d5abd304d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Reasons Why This 4%-Yielding Dividend King Is the Ultimate Passive Income Powerhouse to Buy Now",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-09T10:14:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/09/3-reasons-why-this-4-yielding-dividend-king-is-the/?source=iedfolrf0000001",
+      "tickers": [
+        "PEP",
+        "CELH",
+        "KO",
+        "PG"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806502/gettyimages-1236903031-1200x800-5b2df79-2.jpg",
+      "description": "PepsiCo is a diversified food and beverage company facing near-term challenges, but its low valuation, high dividend yield, and long-term growth potential make it an attractive investment opportunity for patient investors.",
+      "keywords": [
+        "PepsiCo",
+        "dividend",
+        "value stock",
+        "passive income"
+      ],
+      "insights": [
+        {
+          "ticker": "PEP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights PepsiCo's diversification, long-term growth potential, and attractive valuation and dividend yield, making it a compelling investment opportunity despite near-term challenges."
+        },
+        {
+          "ticker": "CELH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions PepsiCo's distribution agreement and minority stake in Celsius Holdings, but does not provide a clear sentiment on the company."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares PepsiCo's diversification to Coca-Cola's focus on non-alcoholic beverages, but does not provide a clear sentiment on Coca-Cola."
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares PepsiCo's dividend yield to that of Procter & Gamble, but does not provide a clear sentiment on Procter & Gamble."
+        }
+      ]
+    }
+  ]
+}

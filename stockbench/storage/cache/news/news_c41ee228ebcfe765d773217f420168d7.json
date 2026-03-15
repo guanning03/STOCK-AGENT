@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Dow Jones Futures: Nvidia Earnings Are Next Test After Powell-Led Stock Market Rally",
+      "description": "Fed chief Powell's dovish speech triggered a big Friday rally, with the S&P 500 and Dow Jones hitting new highs and several stocks flashing buy signals. Nvidia earnings loom.",
+      "published_utc": "2025-08-23T12:45:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cc06eff43e078f39fab2ea13d665b386389c58dd2a4f496fcd4dd4b77dfc2296",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136495840,
+      "datetime": 1755967502
+    },
+    {
+      "title": "Uber Leads 5 Stocks Near Buy Points As Market Rebounds",
+      "description": "Uber, JPMorgan and RTX are stocks to watch. The market jumped Friday as Fed chief Powell hinted at rate cuts.",
+      "published_utc": "2025-08-23T07:57:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fc9ae986803f27e71040dc5c625bad88160a208f28466293144ea725e1ee26ce",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136495999,
+      "datetime": 1755950273
+    },
+    {
+      "title": "JPMorgan (JPM) and MUFG Eye $22B Loan for Texas AI-Driven Data Hub",
+      "description": "JPMorgan Chase & Co. (NYSE:JPM) is one of the best stocks to buy according to billionaire Ken Fisher. On August 20, JPMorgan Chase and Mitsubishi UFJ Financial Group entered talks to underwrite a $22 billion loan for a major data center project in Texas, led by Vantage Data Centers, backed by Silver Lake and DigitalBridge. […]",
+      "published_utc": "2025-08-22T23:57:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=43f7ffc9c620705cbae70a525b4629340e903b34f1694f1118b14d8e5ad9c0a7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136496000,
+      "datetime": 1755921428
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:37:05.898539+00:00",
+    "cache_key": "news_c41ee228ebcfe765d773217f420168d7",
+    "count": 3
+  }
+}

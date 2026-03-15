@@ -1,0 +1,89 @@
+{
+  "items": [
+    {
+      "title": "Home Depot: Home Improvements 'Winter' Lingers On",
+      "description": "Home Depot faces structural growth limitations and trades below its 2021 peak. Read why I rate HD stock Hold and suggest investors look elsewhere.",
+      "published_utc": "2025-10-26T18:34:07",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=91e63b154b98cbf8e6f2b3c2af8fe6182f35faf40e3d8e5248bfb28278432111",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1209677273/image_1209677273.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137214712,
+      "datetime": 1761518047
+    },
+    {
+      "title": "The Fed's Most Dangerous Gamble Could Be Our Biggest Opportunity",
+      "description": "Investors should be aware of current economic shifts and what the Fed and government are doing, including the risks. Find out what the investors should focus on.",
+      "published_utc": "2025-10-26T03:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=04df3967f29cad88a57888e77624f5f1493b7396e0f90513fb6ed281953b19a6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1425579462/image_1425579462.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137211672,
+      "datetime": 1761463800
+    },
+    {
+      "id": "8b70235e4956485d452578543996e6e89bab4e0182720513cf0eb444851316e0",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Can This Ultra-High Dividend Stock Shield Your Portfolio From a Market Crash?",
+      "author": "Matt Dilallo",
+      "published_utc": "2025-10-26T22:08:00Z",
+      "article_url": "https://www.fool.com/investing/2025/10/26/can-this-ultra-high-dividend-stock-shield-your-por/?source=iedfolrf0000001",
+      "tickers": [
+        "O",
+        "FDX",
+        "HD",
+        "WMT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/837794/realty_income_logo_on_phone_o.jpg",
+      "description": "Realty Income, a real estate investment trust (REIT), offers potential portfolio protection during market downturns through its recession-resistant commercial real estate portfolio, consistent dividend payments, and low stock volatility.",
+      "keywords": [
+        "REIT",
+        "dividend",
+        "market crash",
+        "real estate",
+        "portfolio protection"
+      ],
+      "insights": [
+        {
+          "ticker": "O",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Demonstrates strong financial stability, consistent dividend growth since 1994, low volatility (beta of 0.5), and resilient cash flows from recession-resistant tenants like FedEx, Home Depot, and Walmart"
+        },
+        {
+          "ticker": "FDX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as one of Realty Income's tenants without specific performance details"
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as one of Realty Income's tenants without specific performance details"
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as one of Realty Income's tenants without specific performance details"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:56:29.921530+00:00",
+    "cache_key": "news_76e82cb91d9423994dd35f467b114b87",
+    "count": 3
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "3 Stocks to Buy and Hold Forever",
+      "description": "These stocks are built for the long run.",
+      "published_utc": "2025-09-06T07:42:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9148ab03f956c8134a21ef2acdd1cd20333648c384cdbdc26d29f34b35ecf700",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136669087,
+      "datetime": 1757158920
+    },
+    {
+      "title": "RYBREVANT®▼ (amivantamab) plus LAZCLUZE®▼ (lazertinib) reduces acquired resistance versus osimertinib in first-line EGFR-mutated advanced non-small cell lung cancer",
+      "description": "New data demonstrate amivantamab combination significantly reduces common EGFR and MET resistance mutations seen with EGFR TKIs1 BEERSE, BELGIUM , Sept. 06, 2025 (GLOBE NEWSWIRE) -- Janssen-Cilag International NV, a Johnson & Johnson company, today announced new analyses from the Phase 3 MARIPOSA study showing that first-line treatment with RYBREVANT®▼ (amivantamab) plus LAZCLUZE®▼ (lazertinib) significantly reduces the development of epidermal growth factor receptor (EGFR)- and MET-driven resis",
+      "published_utc": "2025-09-06T04:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b154e29f286c14d0e27168f121831265f2672f681e103484c95d7a1688ee0b20",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136669112,
+      "datetime": 1757146200
+    },
+    {
+      "title": "RYBREVANT® (amivantamab-vmjw) plus LAZCLUZE® (lazertinib) prevents acquired resistance versus osimertinib in first-line EGFR-mutated non-small cell lung cancer",
+      "description": "Johnson & Johnson (NYSE:JNJ) today announced new analyses from the Phase 3 MARIPOSA study showing that first-line treatment with RYBREVANT® (amivantamab-vmjw) plus LAZCLUZE® (lazertinib) significantly reduces the development of epidermal growth factor receptor (EGFR)- and MET-driven resistance compared with osimertinib in patients with EGFR-mutated non-small cell lung cancer (NSCLC) with exon 19 deletion (ex19del) or L858R mutations (Poster Abstract PT1.03).1 These resistance data build on the c",
+      "published_utc": "2025-09-06T04:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=012cd5ea0a8b5aa4ee32ae69eb905ff73a6e7e8572fac88536b20de00b8fdda3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136669113,
+      "datetime": 1757145600
+    }
+  ]
+}

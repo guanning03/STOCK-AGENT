@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Is Sherwin-Williams Still a Buy After Its 115,000% Run?",
+      "description": "Sherwin-Williams could soon hit a milestone that barely 1 in 1,000 stocks have reached.",
+      "published_utc": "2025-12-20T16:50:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e8768445aafb003792d42ae41ba27e3f0a836974ea096a5919f34da6210f6a4a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137856991,
+      "datetime": 1766267400
+    },
+    {
+      "title": "Should You Think About Buying The Sherwin-Williams Company (NYSE:SHW) Now?",
+      "description": "Let's talk about the popular The Sherwin-Williams Company ( NYSE:SHW ). The company's shares saw significant share...",
+      "published_utc": "2025-12-20T07:00:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2b45fc9396b85dbb5c492f20632a233deae108fe91fad3e49db8c4a74cae3020",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137843664,
+      "datetime": 1766232018
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:51:22.211405+00:00",
+    "cache_key": "news_4034d00e39bdd839b329aeb8942b6d73",
+    "count": 2
+  }
+}

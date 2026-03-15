@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Boeing Just Received Good 737 MAX News. The Stock Should React Well.",
+      "description": "Friday, the Federal Aviation Administration lifted the cap on Boeing’s 737 MAX production to 42 per month from 38.",
+      "published_utc": "2025-10-18T13:55:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7c54347401eb6b177d9fbeebf6ddeece00058488c64e3bb8b6c470d1e09940df",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137164486,
+      "datetime": 1760810100
+    },
+    {
+      "title": "FIDU: Industrials Dashboard For October",
+      "description": "FIDU offers broad industrial exposure, with transportation undervalued and aerospace overvalued, while XLI shows better liquidity. Learn why FIDU ETF is a hold.",
+      "published_utc": "2025-10-18T03:11:56",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2e7044996c7434b72b1922f9a1c0072ea8d55fda3a46e3232bd232a8d3fedd25",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1442424540/image_1442424540.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137133624,
+      "datetime": 1760771516
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:31:51.145999+00:00",
+    "cache_key": "news_ce588814a67890e246a204306b0bc98e",
+    "count": 2
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "S&P 500 Earnings: Financial Sector Earnings Push Forward Estimates Higher",
+      "description": "Despite the worries over the regional bank credit situation this week, it didnât seem to impact the forward estimates for the financial sector or the S&P 500 in general. Read more here...",
+      "published_utc": "2025-10-19T19:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=878aea6bd3884754da8060e23790c40b39f0ee2fc3ff84fd3374bcf473c90b3f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2220025422/image_2220025422.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137162825,
+      "datetime": 1760917500
+    },
+    {
+      "title": "Stock Volatility Has Increased Since The 10/11 Plunge - Solution? AI Dilution",
+      "description": "Navigate market volatility with smart investment strategiesâdiversify, use technical analysis, and prepare to capitalize on earnings season trends.",
+      "published_utc": "2025-10-19T16:46:16",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8ba0689d69784a8cff3e12077ac7b88e2f4af7ccc37eafde47192575dbdc3a47",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2150090203/image_2150090203.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137161901,
+      "datetime": 1760906776
+    },
+    {
+      "title": "S&P 500: Resolution Is Due (Technical Analysis)",
+      "description": "The S&P 500 is stuck in a volatile range, with neither bulls nor bears gaining the upper hand. Read why a correction should be a buying opportunity.",
+      "published_utc": "2025-10-19T12:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=dcafcb71dee25dfb3c66e7a7ff949001d22a6b747aa1e02cda6d01f5b691ce4b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2234875955/image_2234875955.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137160076,
+      "datetime": 1760889600
+    },
+    {
+      "title": "This Unbelievably Strong Stock Market",
+      "description": "Economic Strategist Hardika Singh is shocked by how strong this market has been even though there's been so many curveballs thrown at it.",
+      "published_utc": "2025-10-19T08:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=42cd55f266454d54be108a75365699f4f9b86b9d5a62af8a156b910ffed74c5a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2216425295/image_2216425295.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137158905,
+      "datetime": 1760877000
+    },
+    {
+      "title": "A Perfect Storm May Be Brewing Beneath The Market's Surface",
+      "description": "The S&P 500 faces heightened risk as post-options expiration removes stabilizing gamma flows. Click here to read more about the market.",
+      "published_utc": "2025-10-19T05:55:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=299835817886a55f09100ddaf64774b0a3bf6b5ac43658fb46e2ac218cfd6362",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/920345084/image_920345084.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137158262,
+      "datetime": 1760867700
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:37:31.549828+00:00",
+    "cache_key": "news_f7bfda47a497e37a16cdb9d60bcae3c7",
+    "count": 5
+  }
+}

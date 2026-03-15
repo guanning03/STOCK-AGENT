@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "China’s premier meets with U.S. delegation, urges ‘dialogue over confrontation’",
+      "description": "China’s premier meets with U.S. delegation, urges ‘dialogue over confrontation’",
+      "published_utc": "2025-03-23T11:48:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=0db17f78ca69fa93e46fcc68e4b74a245363bbf69e0e9ea765ac469dc655aa1b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133341947,
+      "datetime": 1742744880
+    },
+    {
+      "title": "Robinhood, Roku And Shopify Are Among Top 10 Large-Cap Gainers Last Week (Mar 17-Mar 21): Are The Others In Your Portfolio?",
+      "description": "Best performing large-cap stocks last week: Alnylam Pharma up 16%, Roku up 14%, Elbit Systems up 13%, Venture Global up 12%, Boeing up 11%. Are they in your portfolio?",
+      "published_utc": "2025-03-23T07:16:03",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=46415dfb10091e32a1217397164a1e31e442179165ec9026974b83146a471a31",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/03/23/The-Robinhood-Trade.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138699040,
+      "datetime": 1742728563
+    },
+    {
       "title": "Lockheed Martin says ‘disappointed’ in outcome of Air Force contract decision",
       "description": "Lockheed Martin (LMT) issued the following statement after Boeing (BA) was selected to build a new, next-generation U.S. Air Force fighter jet: “Lockheed Martin continues to work to advance critical technologies to outpace emerging threats and deliver true 21st Century Security solutions to our nation’s military forces. We are committed to advancing the state of the art in air dominance to ensure America has the most revolutionary systems to counter the rapidly evolving threat environment. While",
       "published_utc": "2025-03-23T00:40:10",

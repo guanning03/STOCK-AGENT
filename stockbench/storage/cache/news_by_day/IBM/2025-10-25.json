@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Weekly Market Wrap: IBM, Grindr, and Ford",
+      "description": "We are now in the second-longest government shutdown era, and its impact can be felt in growing dissatisfaction among furloughed workers, economic instability in regional banks, and increasing uncertainty over back pay. Meanwhile, the stock market remains largely unaffected, and once again, on ...",
+      "published_utc": "2025-10-25T20:27:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9f6df4e9e1042d750b204b9a2aa2825e4983476f756487ed0cc9911682d731c6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137210986,
+      "datetime": 1761438451
+    },
+    {
+      "title": "TSLA, BYND, IBM And More: 5 Stocks That Dominated Investor Buzz This Week",
+      "description": "Retail investors buzzed about 5 stocks, from Oct. 20 to Oct. 24, on X and Reddit&#39;s r/WallStreetBets: TSLA, BYND, RGTI, IBM, AMZN.",
+      "published_utc": "2025-10-25T08:01:32",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=9a780aa4785e6e790fbf23d9a90bf4bf27d03ceece947005589e73a609efd90c",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/10/25/London---May-21-Ibm-Logo-On-The-Ibm-Clie.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138480666,
+      "datetime": 1761393692
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": "3d79e0d145912f08ab5ba29f41a6c124ee449a4913fc3adb458f32daf617d125",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Heavy Construction Equipment Industry Report 2024: Global Market to Reach $277.45 Billion by 2029 - Rise of Smart Cities and Advancements in Infrastructure Fueling Demand for Innovative Machinery",
+      "author": "Researchandmarkets.Com",
+      "published_utc": "2024-12-24T15:22:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2024/12/24/3001727/28124/en/Heavy-Construction-Equipment-Industry-Report-2024-Global-Market-to-Reach-277-45-Billion-by-2029-Rise-of-Smart-Cities-and-Advancements-in-Infrastructure-Fueling-Demand-for-Innovativ.html",
+      "tickers": [
+        "TEX",
+        "CAT",
+        "MTW",
+        "ASTE"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The global heavy construction equipment market is expected to grow to $277.45 billion by 2029, driven by government investments in infrastructure, advancements in technology, and a focus on sustainable construction practices.",
+      "keywords": [
+        "heavy construction equipment",
+        "infrastructure",
+        "automation",
+        "IoT",
+        "sustainable construction"
+      ],
+      "insights": [
+        {
+          "ticker": "TEX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that the heavy construction equipment market is expected to grow, which suggests that companies like Terex Corporation that operate in this industry could benefit from the increased demand."
+        },
+        {
+          "ticker": "CAT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that the heavy construction equipment market is expected to grow, which suggests that companies like Caterpillar Inc. that operate in this industry could benefit from the increased demand."
+        },
+        {
+          "ticker": "MTW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that the heavy construction equipment market is expected to grow, which suggests that companies like The Manitowoc Company, Inc. that operate in this industry could benefit from the increased demand."
+        },
+        {
+          "ticker": "ASTE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that the heavy construction equipment market is expected to grow, which suggests that companies like Astec Industries, Inc. that operate in this industry could benefit from the increased demand."
+        }
+      ]
+    }
+  ]
+}

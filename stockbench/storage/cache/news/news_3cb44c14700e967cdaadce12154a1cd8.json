@@ -1,0 +1,153 @@
+{
+  "items": [
+    {
+      "title": "Sherwin-Williams Board of Directors Elects Benjamin E. Meisenzahl as CFO Effective January 1, 2026",
+      "description": "The Sherwin-Williams Company (NYSE: SHW) announced today that its Board of Directors has elected Benjamin E. Meisenzahl to serve as the Company's next Chief Financial Officer (CFO), effective January 1, 2026. Mr. Meisenzahl, 44, has served as Senior Vice President – Finance for the last two and a half years and brings 22 years of overall Sherwin-Williams experience to his new role. He will assume the CFO duties currently held by Allen J. Mistysyn, 57, who will assume a short-term transition role",
+      "published_utc": "2025-11-03T16:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=67052d4042daae75db0d613232c3a770b29818fcaa203040e86941af77c0b128",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137308508,
+      "datetime": 1762204500
+    },
+    {
+      "title": "Sherwin Williams Names Meisenzahl CFO",
+      "description": "Sherwin Williams Names Meisenzahl CFO",
+      "published_utc": "2025-11-03T13:45:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=aad1f957ec53afdf58ad160f7c0f18cfdb911292a2f4c2616a2275e6472830da",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137562410,
+      "datetime": 1762195500
+    },
+    {
+      "title": "Sherwin-Williams Elects Benjamin E. Meisenzahl CFO, Effective Jan. 1, 2026 , Succeeding Allen J. Mistysyn",
+      "description": "The Sherwin-Williams Company (NYSE: SHW) announced today that its Board of Directors has elected Benjamin E. Meisenzahl to serve as the Company&#39;s next Chief Financial Officer (CFO), effective January 1, 2026. Mr.",
+      "published_utc": "2025-11-03T12:25:32",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=7f67d3953af7b4c97a934536c0200f30bce49a23e3fc04358fa7f9d9cfbc3209",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138872171,
+      "datetime": 1762190732
+    },
+    {
+      "id": "93e9e608e4fd01da9ed3507eabafcd1e11d39e43113e7f2e44536a6a00391512",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "What I Wish I Had Known Before Creating My Own Investing Blueprint",
+      "author": "Reuben Gregg Brewer",
+      "published_utc": "2025-11-03T14:18:00Z",
+      "article_url": "https://www.fool.com/investing/2025/11/03/what-i-wish-i-had-known-before-creating-my/?source=iedfolrf0000001",
+      "tickers": [
+        "SHW",
+        "BRK.A",
+        "BRK.B"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/838021/25_02_27-a-close-up-of-warren-buffett-smiling-_mf-dload-image-source-motley-fool-buffett1-tmf.jpg",
+      "description": "An experienced investor shares his personal investment journey, highlighting the importance of emotional control, long-term dividend-focused investing, and avoiding impulsive decisions driven by greed or market noise.",
+      "keywords": [
+        "dividend investing",
+        "long-term strategy",
+        "behavioral investing",
+        "Warren Buffett",
+        "emotional control"
+      ],
+      "insights": [
+        {
+          "ticker": "SHW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The author regrets selling Sherwin-Williams stock early and recognizes it as a missed opportunity for significant long-term gains"
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Referenced as Warren Buffett's company, used as an example of a sound long-term investment strategy"
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Referenced as Warren Buffett's company, used as an example of a sound long-term investment strategy"
+        }
+      ]
+    },
+    {
+      "id": "6abb7cbb1c1635faf0db87dc11f444a912074fad0c7e7c215b05de7ecbb2248d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Dividend Stocks That Can Help You Become a Millionaire",
+      "author": "Justin Pope",
+      "published_utc": "2025-11-03T00:35:00Z",
+      "article_url": "https://www.fool.com/investing/2025/11/02/dividend-stocks-that-can-help-you-become-a-million/?source=iedfolrf0000001",
+      "tickers": [
+        "MSFT",
+        "MCD",
+        "ADP",
+        "SHW",
+        "WMT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/840209/wealthy-person-putting-cash-in-their-suit-pocket.jpg",
+      "description": "The article highlights five blue-chip dividend stocks with consistent dividend growth potential that could help investors build long-term wealth through patient, strategic investing across diverse sectors.",
+      "keywords": [
+        "dividend stocks",
+        "long-term investing",
+        "wealth building",
+        "blue-chip companies"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong technology presence, consistent 23-year dividend growth, diverse business model with innovation in AI and cloud computing"
+        },
+        {
+          "ticker": "MCD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Global franchise model, 49-year dividend growth streak, steady revenue from royalties and global expansion potential"
+        },
+        {
+          "ticker": "ADP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Trusted enterprise HR solutions, 50-year dividend growth history, resilient business model in human resources management"
+        },
+        {
+          "ticker": "SHW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Industry-leading paint and coatings company, 46-year dividend growth, technology-resistant business model"
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Largest US retailer, extensive store network, over five decades of dividend increases, adaptable to economic conditions"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:24:27.085016+00:00",
+    "cache_key": "news_3cb44c14700e967cdaadce12154a1cd8",
+    "count": 5
+  }
+}

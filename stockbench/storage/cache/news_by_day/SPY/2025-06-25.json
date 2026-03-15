@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Stock market today: S&P 500 has record in sight, Dow and Nasdaq climb as stock rally continues",
+      "description": "Bets on interest rate cuts are rising as President Trump appears to get closer to naming his replacement for Federal Reserve Chair Jerome Powell.",
+      "published_utc": "2025-06-25T19:33:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1da3c56b762c1965724fe040d2b766bd4728b927a4e98dc2dcb5affdd01bd2a4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135563308,
+      "datetime": 1750894405
+    },
+    {
+      "title": "NVDA Hits New High as Analyst Sets Lofty Price Target",
+      "description": "- The AI chip giant hit a fresh high for the first time since January. - Nvidia is now the most valuable company in the world.",
+      "published_utc": "2025-06-25T18:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=45daec6fe66cb86e0ed2c56369236031aa9231cbf83a97967252374ecc2ffabd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135529978,
+      "datetime": 1750890600
+    },
+    {
+      "title": "Assets Move to Industrials, Away From Energy as Flows Shift",
+      "description": "- XLI added over $1B in assets Tuesday, while XLE saw outflows. - SPY and IVV gained, but VOO lost assets on the day.",
+      "published_utc": "2025-06-25T17:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5770b8d57421ca8b7e35956a13d68d1f2a4492dbac1d1d7888a552123a03725b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135530588,
+      "datetime": 1750887900
+    },
+    {
+      "title": "Why Small-Caps Could Outperform In The Next Economic Cycle",
+      "description": "Small-cap stocksâ tendency to outperform during recessions and early-stage expansions may be related to interest rate sensitivity. Click to read.",
+      "published_utc": "2025-06-25T12:16:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=340800b4f0b4b5a344537392c348ace048a65a9667218c8847ff7f2b51aa3af7",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1256967959/image_1256967959.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135528524,
+      "datetime": 1750868160
+    },
+    {
+      "title": "Benzinga Market Summary: S&P Flat And Oil Rises As Investors Assess Middle East Situation, NY Real Estate Stocks Fall Amid Democratic Mayoral Primary",
+      "description": "",
+      "published_utc": "2025-06-25T11:45:19",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=468e820e17aba1be50b0791f5056aeb975e95402508f1869067bc1c5e15bcb99",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138885512,
+      "datetime": 1750866319
+    }
+  ]
+}

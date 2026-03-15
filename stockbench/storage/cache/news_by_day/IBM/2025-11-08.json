@@ -1,0 +1,97 @@
+{
+  "items": [
+    {
+      "title": "Cisco, Walt Disney To Report Earnings Next Week While U.S. Shutdown Drags On",
+      "description": "Stay ahead with Wall Street Week Ahead: get key market previews, earnings reports, dividend alerts, and insights on upcoming economic events.",
+      "published_utc": "2025-11-08T06:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8c7a8a31310ec0d491f7458a4829687876cc6b1fbfd02adcf0bad5a5ed9e419c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137379367,
+      "datetime": 1762599600
+    },
+    {
+      "id": "20cb0c9eff0ed1f4db393c9c77934fdf3d59a57f7aac1bc832435f70cf3dea7a",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "IBM Outpaces Nvidia in 2025 Rally as Enterprise AI Drives Blue-Chip Revival",
+      "author": "Shane Neagle",
+      "published_utc": "2025-11-08T04:09:00Z",
+      "article_url": "https://www.investing.com/analysis/ibm-outpaces-nvidia-in-2025-rally-as-enterprise-ai-drives-bluechip-revival-200669816",
+      "tickers": [
+        "IBM",
+        "NVDA",
+        "MSFT",
+        "AMZN",
+        "GOOG",
+        "GOOGL"
+      ],
+      "amp_url": "https://m.investing.com/analysis/ibm-outpaces-nvidia-in-2025-rally-as-enterprise-ai-drives-bluechip-revival-200669816?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "IBM's stock has climbed 44.99% year-to-date, outperforming Nvidia, by focusing on enterprise AI solutions and cloud services, with its WatsonX platform gaining significant traction among corporate clients.",
+      "keywords": [
+        "AI",
+        "enterprise technology",
+        "cloud services",
+        "stock performance",
+        "technology investment"
+      ],
+      "insights": [
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong year-to-date stock performance, rapid AI business growth, raised cash flow guidance, successful enterprise AI strategy"
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Facing export restrictions and sustainability concerns in AI infrastructure spending, despite maintaining AI chip market leadership"
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a competitive force in cloud services without specific performance details"
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a competitive force in cloud services without specific performance details"
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a competitive force in cloud services without specific performance details"
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a competitive force in cloud services without specific performance details"
+        }
+      ]
+    },
+    {
+      "title": "Melius Research Reaffirms Buy on IBM, Citing Strong Quantum Prospects",
+      "description": "International Business Machines Corporation (NYSE:IBM) is included among the 15 Best DRIP Stocks to Own Right Now. Aft​er spending a day at IBM’s (IBM) quant​um l‍aboratory and holding discussions with Jay Ga‌mbe‌tta, Direct⁠or of I‌B‍M Research, Melius Rese⁠ar‍c‍h re⁠affirmed its Buy rating on the stock on November 6, as reported by The Fly. The‍ firm […]",
+      "published_utc": "2025-11-08T00:31:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2f02cba52ea6bf785916729acdc433feb1e318f71668649b27124985f5609665",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137378353,
+      "datetime": 1762579901
+    }
+  ]
+}

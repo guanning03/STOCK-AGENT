@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Bank Stocks Hold Gains. Fed Sees Improved Growth, but More Rate Cuts.",
+      "description": "Bank stocks are moving higher in the wake of the Federal Reserve rate decision, which included forecasts for firmer growth with largely steady inflation.  Goldman Sachs, the top-performing Dow stock of the year, was 0.8% higher at $790.44.  Fed officials lifted their 2025 GDP forecast to 1.6% from 1.4%, and nudged their 2026 estimate to 1.8% from 1.6%.",
+      "published_utc": "2025-09-17T15:51:45",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dfc8adbb95194a904b4f21807790c8e909c06d3419ebec471d658c034792c00c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136797575,
+      "datetime": 1758138705
+    },
+    {
+      "title": "Is JPMorgan's Recent Dividend Hike Enough to Buy the Stock?",
+      "description": "JPM boosts its dividend for the second time this year, rewarding shareholders. Is the stock worth betting on based on this dividend income?",
+      "published_utc": "2025-09-17T12:55:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a6ae8da3fc1d0fc5fa4be584131b16cfc1b22dbf38e27b60a0205a69490366c1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136791559,
+      "datetime": 1758128100
+    },
+    {
+      "title": "Sports, Entertainment & IPOs: LA CorpGov Forum Video Highlights",
+      "description": "CorpGov is pleased to share video highlights of the first LA CorpGov Forum held on Sept. 4, 2025, at 1500 N El Centro Ave, Los Angeles, California, in the heart of Hollywood. The event was hosted together with Edelman Smithfield and featured over a hundred institutional investors, corporate executives, and USC alumni in an afternoon […] The post Sports, Entertainment & IPOs: LA CorpGov Forum Video Highlights appeared first on CorpGov.",
+      "published_utc": "2025-09-17T12:22:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=68cabcd74854b18721237003e530985d33a69d8727e3e3dce68ac07031deed69",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136789888,
+      "datetime": 1758126170
+    },
+    {
+      "title": "JPMorgan predicts small-caps to lead with 30–60% outperformance vs large-caps",
+      "description": "Investing.com -- JPMorgan analysts see small- and mid-cap stocks entering a period of significant outperformance relative to large-caps, forecasting gains of up to 60% over the next three years.",
+      "published_utc": "2025-09-17T09:19:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=604aba17f620b3a23ff6d70c6685d12f2c45b678b874401952d8bc84ca3f4261",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136789006,
+      "datetime": 1758115157
+    },
+    {
+      "title": "'Deutsche Bank Backs Proposed Global Defence Bank' - Reuters News",
+      "description": "https://www.reuters.com/sustainability/boards-policy-regulation/deutsche-bank-backs-proposed-global-defence-bank-2025-09-17/",
+      "published_utc": "2025-09-17T09:04:14",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=49dbe343e4379ace44fd4774b312cc5dbd43201dc626afc2f8d59a8e4984626b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138893265,
+      "datetime": 1758114254
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:59:35.106731+00:00",
+    "cache_key": "news_1ca03290d209cf5f4edd34adbe8e89d8",
+    "count": 5
+  }
+}

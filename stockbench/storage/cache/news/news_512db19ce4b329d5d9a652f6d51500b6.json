@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The 1-Minute Market Report - October 5, 2025",
+      "description": "The S&P 500 notched 3 new highs last week, closing September up 3.5% and continuing its strong bull run since October 2022. Read more about the market here.",
+      "published_utc": "2025-10-04T18:22:42",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8720c1302dcb820690ee20a211a64ce46f6b38886fd7813902c3a73331257440",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213764535/image_1213764535.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136975674,
+      "datetime": 1759616562
+    },
+    {
+      "title": "FEPI: Rare Moment When 25%+ Yield Is Suitable For Durable Income Investors",
+      "description": "FEPI's 25% yield stands out from typical covered call ETFs. See how its investment case has strengthenedâread the latest analysis now!",
+      "published_utc": "2025-10-04T05:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b3d2cba45490d107f7c295d09ca42961950e04ad30942635f05008f42c5b0d5a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1466761446/image_1466761446.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136971718,
+      "datetime": 1759569300
+    },
+    {
+      "title": "5 Dividend Stocks I Can't Wait To Buy In October (Plus Macro Update)",
+      "description": "Tech stocks dominate the US market, and explore strategies for a cautious, defensive investment tilt amid todayâs market concentration.",
+      "published_utc": "2025-10-04T04:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c92d364416b74fc08f0f6d7f979ebf0360daa9fa37adef6eb248d9313ecc0f59",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2219691301/image_2219691301.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136971551,
+      "datetime": 1759565700
+    },
+    {
+      "title": "Weekly Commentary: A Feature, Not A Bug",
+      "description": "Companies borrowed a record $207B in the US investment-grade market in Sept., more than Wall Street's top underwriter of the debt, Bank of America, expected. Read more here.",
+      "published_utc": "2025-10-03T23:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=baeda45f3a8d07bf65b89ffabb8c76a36657bfe2e32d05dabb73f6197d2a40d6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1389361449/image_1389361449.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136970399,
+      "datetime": 1759548900
+    },
+    {
+      "title": "Government Shutdown 2025: Why Prolonged Gridlock Could Trigger Sharp Interest Rate Cuts",
+      "description": "Government shutdowns impact markets, jobs, and investment strategies. Read here for an analysis of the current economy here.",
+      "published_utc": "2025-10-03T22:41:59",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1c58670185aceb29ee505652123d951df01c1b59ed586f4715fc64b6a7a0090a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2195702653/image_2195702653.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136970174,
+      "datetime": 1759545719
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T04:51:43.199640+00:00",
+    "cache_key": "news_512db19ce4b329d5d9a652f6d51500b6",
+    "count": 5
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Dow Jones Futures Rise; Dow Above 50K With Apple, Boeing, These AI Stocks New Buys. But Market Is Still Divided.",
+      "description": "The Dow has topped 50,000 for the first time, with JPMorgan, Apple and Boeing in buy areas. The Nasdaq is still below key support, but these AI stocks are reviving.",
+      "published_utc": "2026-02-08T18:49:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=99e787ea32080842023f2fca142b17fe46b48d4492faceff35004c16423a5b80",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138397518,
+      "datetime": 1770594569
+    },
+    {
+      "title": "AI Eating Software Is Just Wrong; Let's Look At Microsoft",
+      "description": "Microsoft sell-off creates a 29% discount despite strong earnings and Azure demand. Read why MSFT stock discount is a steal.",
+      "published_utc": "2026-02-08T18:45:41",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d7cf1a216be517c2dc3d4014da726a2480c6db2f1322a8eccd8c32a3a21dd801",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/96667888/image_96667888.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138398911,
+      "datetime": 1770594341
+    },
+    {
+      "title": "Worried About Amazon's AI Spending? 9 Words From Andy Jassy That Should Ease Your Mind",
+      "description": "Amazon offers AI customers access to AI chips and other key products and services.",
+      "published_utc": "2026-02-08T18:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3f2be079f76423deb10d5c698245d53051ffd888e8bdcd4f45308336a48fad55",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138397527,
+      "datetime": 1770593400
+    },
+    {
+      "title": "Why Amazon Stock Dropped This Week",
+      "description": "The cloud computing colossus is spending like mad to win the artificial intelligence (AI) race.",
+      "published_utc": "2026-02-08T18:08:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e5ff115bcd97bec09915a3c70445d57fa80f0b716d824d241e861aa3f56bc1ba",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138397528,
+      "datetime": 1770592110
+    },
+    {
+      "title": "Daniel Newman Backs Amazon As UBS Forecasts AWS Growth Doubling To 38% In 2026: 'One Of Our Best Ideas,' Says Futurum CEO",
+      "description": "Futurum CEO Daniel Newman and UBS turned bullish on Amazon, citing expectations that AWS growth could double to 38% in 2026 as heavy AI and cloud investments drive accelerating demand despite recent weakness in the stock.",
+      "published_utc": "2026-02-08T17:45:34",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=659c573988549f493307601cf6c9271e40d1508f9f1626b9fd1483d0400ef116",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/02/08/Toronto--On--Canada--August-1--2024-View_0.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138683668,
+      "datetime": 1770590734
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:47:47.455730+00:00",
+    "cache_key": "news_1b18240da3e44c21aa171371a43a7f7b",
+    "count": 5
+  }
+}

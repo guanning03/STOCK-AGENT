@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Winners, Losers, Wild Opinions: Benzinga Chat, Show Co-Host Look At 2025, 2026",
+      "description": "2025 was a rollercoaster for Benzinga chat room participants, with mixed opinions on various stocks; 2026 may see escalation of China/Taiwan issue.",
+      "published_utc": "2025-12-31T12:06:12",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=c53ad1b63ecbb88122bf6901a55e17f9cc8164b581137f3b522c21b7a00cb6e6",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/12/31/Road-Signs-Indicate-The-Path-To-The-New-.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138418249,
+      "datetime": 1767200772
+    },
+    {
+      "title": "Plexo Capital's Lo Toney: AI 'inference economics' important to watch in 2026",
+      "description": "Plexo Capital's Lo Toney joins 'Closing Bell Overtime' to talk what the AI trade will look like in 2026 and who will benefit from it.",
+      "published_utc": "2025-12-31T12:03:24",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=405364f5e47b2da95670cf25c49a68bb1bdebf0f2a457c46c615a52b2821b88f",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108247261-17672167671767216764-43265238311-1080pnbcnews.jpg?v=1767216766&w=1920&h=1080",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137958449,
+      "datetime": 1767200604
+    },
+    {
+      "title": "Robo-Taxis and Home Runs? 40 Overlooked Bargain Stocks for 2026.",
+      "description": "Uber Technologies and the Braves are on the latest Forgotten Forty list of value stocks from John Boyar.",
+      "published_utc": "2025-12-31T11:34:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=106d5bcf3a9655d8a8a84b6a2e23d6b057765535f1c48e2ed50a93a5818d4936",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137950014,
+      "datetime": 1767198840
+    },
+    {
+      "title": "TSMC Shares Rise on AI Demand and Next-Gen Chip Launch",
+      "description": "Nvidia and Apple Orders Drive TSMC Latest Chip Surge",
+      "published_utc": "2025-12-31T11:09:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6a176c0e58cba8b48011574540b27d933c4ab76fe3d46ea2e7f8ac4335ff66f2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137950004,
+      "datetime": 1767197354
+    },
+    {
+      "title": "Google wraps up best year on Wall Street since 2009, beating megacap peers as AI story strengthens",
+      "description": "Shares of Alphabet rallied in 2025 as the company responded to skepticism of its position in artificial intelligence with new products that excited investors.",
+      "published_utc": "2025-12-31T11:06:31",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=1c41be2584f58f488f36a5bf54e8dc205f9b52af7d9a1f157e804a1b1dff6c97",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108198798-17579466992025-02-11t084341z_1641640951_rc28scafuh29_rtrmadp_0_ai-summit.jpeg?v=1767218227&w=1920&h=1080",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137958438,
+      "datetime": 1767197191
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T00:48:45.413516+00:00",
+    "cache_key": "news_d6705f227e955b6a4d9f6e853b4a7f2f",
+    "count": 5
+  }
+}

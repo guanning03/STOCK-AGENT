@@ -1,0 +1,149 @@
+{
+  "items": [
+    {
+      "id": "124209cfe4bc70c179d6b5aab12406059bdf239fcc4385c0a13a9d5bc65ee5a6",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Deutsche Bank Scores Big On Gold, Targets Rejoining The Elite Club",
+      "author": "Stjepan Kalinic",
+      "published_utc": "2025-11-23T15:20:37Z",
+      "article_url": "https://www.benzinga.com/markets/commodities/25/11/49022351/deutsche-bank-scores-big-on-gold-targets-rejoining-the-elite-club?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+      "tickers": [
+        "DB",
+        "DGP",
+        "DGZ",
+        "DZZ",
+        "C",
+        "CpN",
+        "MS",
+        "MSpA",
+        "MSpE",
+        "MSpF",
+        "MSpI",
+        "MSpK",
+        "MSpL",
+        "MSpO",
+        "MSpP",
+        "MSpQ",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/11/23/Crypto-Speculators-Switching-Toward-Gold.jpeg?width=1200&height=800&fit=crop",
+      "description": "Deutsche Bank has generated over $100 million in gold-trading revenue in the first half of the year and is seeking to rejoin the London Bullion Market Association, marking a significant step in its post-crisis recovery.",
+      "keywords": [
+        "gold trading",
+        "precious metals",
+        "market recovery",
+        "financial restructuring"
+      ],
+      "insights": [
+        {
+          "ticker": "DB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The bank has successfully generated significant gold-trading revenue, is recovering from past scandals, and is strategically repositioning itself in global markets"
+        },
+        {
+          "ticker": "DGP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The bank has successfully generated significant gold-trading revenue, is recovering from past scandals, and is strategically repositioning itself in global markets"
+        },
+        {
+          "ticker": "DGZ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The bank has successfully generated significant gold-trading revenue, is recovering from past scandals, and is strategically repositioning itself in global markets"
+        },
+        {
+          "ticker": "DZZ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The bank has successfully generated significant gold-trading revenue, is recovering from past scandals, and is strategically repositioning itself in global markets"
+        },
+        {
+          "ticker": "C",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as seeking clearing-bank status, but no specific performance details provided"
+        },
+        {
+          "ticker": "CpN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as seeking clearing-bank status, but no specific performance details provided"
+        },
+        {
+          "ticker": "MS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as seeking clearing-bank status, but no specific performance details provided"
+        },
+        {
+          "ticker": "MSpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as seeking clearing-bank status, but no specific performance details provided"
+        },
+        {
+          "ticker": "MSpE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as seeking clearing-bank status, but no specific performance details provided"
+        },
+        {
+          "ticker": "MSpF",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as seeking clearing-bank status, but no specific performance details provided"
+        },
+        {
+          "ticker": "MSpI",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as seeking clearing-bank status, but no specific performance details provided"
+        },
+        {
+          "ticker": "MSpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as seeking clearing-bank status, but no specific performance details provided"
+        },
+        {
+          "ticker": "MSpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as seeking clearing-bank status, but no specific performance details provided"
+        },
+        {
+          "ticker": "MSpO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as seeking clearing-bank status, but no specific performance details provided"
+        },
+        {
+          "ticker": "MSpP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as seeking clearing-bank status, but no specific performance details provided"
+        },
+        {
+          "ticker": "MSpQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as seeking clearing-bank status, but no specific performance details provided"
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned in context of gold price forecasts, but no direct performance assessment"
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned in context of gold price forecasts, but no direct performance assessment"
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned in context of gold price forecasts, but no direct performance assessment"
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned in context of gold price forecasts, but no direct performance assessment"
+        }
+      ]
+    }
+  ]
+}

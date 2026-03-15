@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Consumer Confidence Dips Slightly In August",
+      "description": "The Conference Board's Consumer Confidence Index dipped slightly in August, falling 1.3 points to 97.4.",
+      "published_utc": "2025-08-26T16:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a5e2fb6cf78fde546aee4505a8cb086738916e06bb714bc255950363bc2c4c97",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1388210026/image_1388210026.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136532487,
+      "datetime": 1756238700
+    },
+    {
+      "title": "Dollar Index Outlook: What's Driving The U.S. Dollar After Powell's Friday Remarks? (Technical Analysis)",
+      "description": "The US dollar has been in a weird trading zone since the contradicting NFP report from the beginning of the month and the strong PPI report that has shown the appearance of tariff effects.",
+      "published_utc": "2025-08-26T15:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c35e2947010e179c47db3c60c137ce8194e1d9bbc4a560839b0fc26924b09e3d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2151292893/image_2151292893.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136532407,
+      "datetime": 1756237500
+    },
+    {
+      "title": "Nvidia Q2 Preview: 'Saying This Is The Most Important Stock In The World Is An Understatement' (CORRECTED)",
+      "description": "Experts break down the key numbers and items to watch in Nvidia&#39;s second quarter earnings.",
+      "published_utc": "2025-08-26T15:05:37",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=38baf88cfcba68cec13cba7d4d3cdf7131196ba5eeff271cbc38ae3aa5e9efe6",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/08/26/Nvidia_2.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138760914,
+      "datetime": 1756235137
+    },
+    {
+      "title": "The Fed's Coming Stagflation Trap",
+      "description": "Stagflation risk is rising. Read how investors should navigate the volatility created by economic turmoil.",
+      "published_utc": "2025-08-26T14:55:03",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=00907625fe3ed9e99ee48f9596321db54fdc1dd88ac0b34c0a95c54257176c5a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1389124826/image_1389124826.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136532157,
+      "datetime": 1756234503
+    },
+    {
+      "title": "Fed's Reverse Repo Is Finally Drained",
+      "description": "The Fed's Overnight Reverse Repo Facility (RRP) has plummeted from a $2.5T peak in late 2022 to just $22B, nearly empty. Read the full analysis about what this means for investors here.",
+      "published_utc": "2025-08-26T14:28:58",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c1e4d76d3b329d59f3ece07528d10f1cb9831e4b628dfa7fab26d4c1fbef4a00",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/515672176/image_515672176.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136532039,
+      "datetime": 1756232938
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:52:35.025666+00:00",
+    "cache_key": "news_67d915704bd0094a9ea9d1d7cacd0e27",
+    "count": 5
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Rates Spark: Positive Impulses, But Treasuries Are Not Moving",
+      "description": "Wednesday probably sees daylight on the Supreme Court's decision on the IEEPA tariffs.",
+      "published_utc": "2026-01-13T17:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ddbb710161990ff5095e47cd3567c5c0bc0e6a78051076eae4869f357dadc15f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1436441539/image_1436441539.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138089874,
+      "datetime": 1768342500
+    },
+    {
+      "title": "Benign U.S. Inflation Keeps The Door Open For At Least Two Further Rate Cuts",
+      "description": "The December inflation data was weaker than anticipated and confirms that tariffs are not having the immediate impact on prices that most feared.",
+      "published_utc": "2026-01-13T17:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1219e5344ff0e39752a3021589ce40e4e43e8382b6e7a5db4c70cb444d288675",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1692418614/image_1692418614.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138089841,
+      "datetime": 1768341600
+    },
+    {
+      "title": "Weird Breadth From Small Businesses",
+      "description": "This morning's release from the NFIB indicated a modest uptick in small business optimism to end 2025.",
+      "published_utc": "2026-01-13T14:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4a345d65671004a97ceb011c2b27b07a241d9d57626d4ef43361a3ffd0c2d228",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1320936550/image_1320936550.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138089121,
+      "datetime": 1768332900
+    },
+    {
+      "title": "My Ultimate Dividend ETF Combo For 5%+ Yield And 10%+ Annual Growth",
+      "description": "",
+      "published_utc": "2026-01-13T13:36:52",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=17b09b79084af5d34016163d9c599810046ddbbe03ff2bff542efc6b21c28bea",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138088869,
+      "datetime": 1768329412
+    },
+    {
+      "title": "Consumer Price Index: Inflation At 2.7% In December, As Expected",
+      "description": "Inflation cooled for a second straight month in December as the headline figure for the Consumer Price Index came in at 2.68% year-over-year.",
+      "published_utc": "2026-01-13T13:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=efafce9fa5261dcee7596541d0ca74f46da46f2b576904cd2b3aaba12d1bb1fc",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2209777691/image_2209777691.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138088872,
+      "datetime": 1768329000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:30:37.686541+00:00",
+    "cache_key": "news_be17f9ee06b8012ac76c5c383043c5c6",
+    "count": 5
+  }
+}

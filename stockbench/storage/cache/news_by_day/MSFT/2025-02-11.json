@@ -1,0 +1,340 @@
+{
+  "items": [
+    {
+      "id": "06b7f3d3139f8839862191f76a3d74f27368c718b5731f425fad7ba066e0bcf6",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Geomarketing Market to Reach USD 116.96 Billion by 2032, Driven by Location Data and Emerging Technologies | Research by SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-02-11T15:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/11/3024311/0/en/Geomarketing-Market-to-Reach-USD-116-96-Billion-by-2032-Driven-by-Location-Data-and-Emerging-Technologies-Research-by-SNS-Insider.html",
+      "tickers": [
+        "IBM",
+        "MSFT",
+        "CSCO",
+        "ORCL",
+        "ADBE",
+        "CRM"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The geomarketing market is rapidly expanding, driven by the increasing use of location-specific data and emerging technologies like AI and machine learning. This is enabling more personalized marketing strategies, particularly in industries like retail, real estate, and tourism.",
+      "keywords": [
+        "geomarketing",
+        "location data",
+        "AI",
+        "machine learning",
+        "personalized marketing"
+      ],
+      "insights": [
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IBM is mentioned as a key player in the geomarketing market, with its incorporation of AI into cloud applications and consumer research initiatives, which are expected to contribute to the growth of location-based marketing."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is also highlighted as a major player in the geomarketing market, with its Azure Maps and Power BI offerings, which are expected to drive the growth of location-based services and analytics."
+        },
+        {
+          "ticker": "CSCO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Cisco is mentioned as a key player in the geomarketing market, with its Cisco Meraki and Cisco Digital Network Architecture solutions, which are expected to contribute to the development of location-based marketing strategies."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Oracle is highlighted as a major player in the geomarketing market, with its incorporation of AI into its cloud applications, which is expected to enhance location-based marketing capabilities."
+        },
+        {
+          "ticker": "ADBE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Adobe is mentioned as a key player in the geomarketing market, with its Adobe Analytics and Adobe Experience Cloud offerings, which are expected to contribute to the development of location-based marketing strategies."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce is highlighted as a major player in the geomarketing market, with its Salesforce Marketing Cloud and Salesforce Maps solutions, which are expected to drive the growth of location-based marketing."
+        }
+      ]
+    },
+    {
+      "id": "87ae092ce5ca387cc4eec74cdef903be7b5bf04b9573c237db00f6a70f23067d",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Cloud Applications Market to USD 2230.4 Billion by 2032, Owing to Increased Cloud Adoption and Digital Transformation | Research by SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-02-11T15:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/11/3024310/0/en/Cloud-Applications-Market-to-USD-2230-4-Billion-by-2032-Owing-to-Increased-Cloud-Adoption-and-Digital-Transformation-Research-by-SNS-Insider.html",
+      "tickers": [
+        "CRM",
+        "MSFT",
+        "ORCL",
+        "SAP",
+        "IBM",
+        "WDAY"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The cloud applications market is expected to grow rapidly, reaching $2.23 trillion by 2032, driven by the increasing adoption of cloud-based solutions and digital transformation initiatives across industries. Key factors fueling this growth include the need for remote collaboration tools, cloud-native applications, and multi-cloud environments.",
+      "keywords": [
+        "cloud applications",
+        "digital transformation",
+        "cloud adoption",
+        "remote collaboration",
+        "cloud-native applications",
+        "multi-cloud environments"
+      ],
+      "insights": [
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce is a leading provider of cloud-based CRM solutions, which are expected to see strong demand as businesses embrace digital transformation and cloud-based technologies."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft's cloud platform, Azure, is a major player in the cloud applications market, and the company's suite of cloud-based productivity and enterprise solutions are well-positioned to benefit from the industry's growth."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Oracle has been expanding its cloud-based enterprise offerings, which are expected to contribute to the growth of the cloud applications market."
+        },
+        {
+          "ticker": "SAP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "SAP is a leading provider of cloud-based enterprise resource planning (ERP) solutions, which are a key component of the cloud applications market."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IBM's cloud-based services and solutions are likely to benefit from the growth in the cloud applications market."
+        },
+        {
+          "ticker": "WDAY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Workday is a leading provider of cloud-based human capital management (HCM) and financial management solutions, which are expected to see strong demand as businesses adopt cloud-based applications."
+        }
+      ]
+    },
+    {
+      "id": "21a98e4f00ed3abd747535acdc1ef983c374448e0d24d227289d9e5a4c300c03",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Tesla Stock Is Having a Rough Start of the Year",
+      "author": "Neil Rozenbaum",
+      "published_utc": "2025-02-11T14:40:51Z",
+      "article_url": "https://www.fool.com/investing/2025/02/11/tesla-stock-is-having-a-rough-start-of-the-year/?source=iedfolrf0000001",
+      "tickers": [
+        "TSLA",
+        "AAPL",
+        "NVDA",
+        "MSFT",
+        "AMZN",
+        "GOOG",
+        "GOOGL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807109/tesla-sales-center-with-tesla-logo-on-building-for-tesla-sales.png",
+      "description": "Elon Musk predicts that Tesla will be bigger than Apple, Nvidia, Microsoft, Amazon, and Alphabet combined due to a $10 trillion opportunity unrelated to its car business.",
+      "keywords": [
+        "Tesla",
+        "Elon Musk",
+        "opportunity",
+        "car business"
+      ],
+      "insights": [
+        {
+          "ticker": "TSLA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Tesla has a $10 trillion opportunity that could make it bigger than the largest tech companies, indicating a very positive outlook for the company."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares Tesla's potential to be bigger than Apple, but does not provide any specific information about Apple's outlook."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares Tesla's potential to be bigger than Nvidia, but does not provide any specific information about Nvidia's outlook."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares Tesla's potential to be bigger than Microsoft, but does not provide any specific information about Microsoft's outlook."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares Tesla's potential to be bigger than Amazon, but does not provide any specific information about Amazon's outlook."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares Tesla's potential to be bigger than Alphabet, but does not provide any specific information about Alphabet's outlook."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares Tesla's potential to be bigger than Alphabet, but does not provide any specific information about Alphabet's outlook."
+        }
+      ]
+    },
+    {
+      "id": "a0a221cde82e1589a93d824154ef0e81940d8f0b404b03c5756da214b5e6b71a",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Questex’s Fierce Network Debuts FNTV Live Coverage at Mobile World Congress 2025",
+      "author": "N/A",
+      "published_utc": "2025-02-11T14:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/11/3024196/0/en/Questex-s-Fierce-Network-Debuts-FNTV-Live-Coverage-at-Mobile-World-Congress-2025.html",
+      "tickers": [
+        "ERIC",
+        "NOK",
+        "MSFT",
+        "T",
+        "TBB",
+        "TpA",
+        "TpC",
+        "YAMCY",
+        "SONY",
+        "TMUS",
+        "TEF",
+        "AMZN"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/8cf9fd8b-3ce6-4c32-8db4-ee3fb14b37f3",
+      "description": "Fierce Network, a leading portal for the global communications industry, has announced the launch of Fierce Network TV (FNTV), an innovative video platform that aims to reshape how the industry consumes news, insights, and analysis. FNTV will provide exclusive coverage and programming from leading companies in the telecom industry, focusing on critical issues such as the use of AI and 5G technology.",
+      "keywords": [
+        "Fierce Network",
+        "FNTV",
+        "global communications industry",
+        "video platform",
+        "telecom industry",
+        "AI",
+        "5G"
+      ],
+      "insights": [
+        {
+          "ticker": "ERIC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Ericsson is mentioned as one of the companies that will be featured in FNTV's exclusive programming, indicating that the company is seen as a key player in the telecom industry."
+        },
+        {
+          "ticker": "NOK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nokia is mentioned as one of the companies that will be featured in FNTV's exclusive programming, indicating that the company is seen as a key player in the telecom industry."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is mentioned as one of the companies that will be featured in FNTV's exclusive programming, indicating that the company is seen as a key player in the telecom industry."
+        },
+        {
+          "ticker": "T",
+          "sentiment": "positive",
+          "sentiment_reasoning": "AT&T is mentioned as one of the companies that will be featured in FNTV's exclusive programming, indicating that the company is seen as a key player in the telecom industry."
+        },
+        {
+          "ticker": "TBB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "AT&T is mentioned as one of the companies that will be featured in FNTV's exclusive programming, indicating that the company is seen as a key player in the telecom industry."
+        },
+        {
+          "ticker": "TpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "AT&T is mentioned as one of the companies that will be featured in FNTV's exclusive programming, indicating that the company is seen as a key player in the telecom industry."
+        },
+        {
+          "ticker": "TpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "AT&T is mentioned as one of the companies that will be featured in FNTV's exclusive programming, indicating that the company is seen as a key player in the telecom industry."
+        },
+        {
+          "ticker": "YAMCY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Yamaha is mentioned as one of the companies that will be featured in FNTV's exclusive programming, indicating that the company is seen as a key player in the telecom industry."
+        },
+        {
+          "ticker": "SONY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Sony is mentioned as one of the companies that will be featured in FNTV's exclusive programming, indicating that the company is seen as a key player in the telecom industry."
+        },
+        {
+          "ticker": "TMUS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "T-Mobile is mentioned as one of the companies that will be featured in FNTV's exclusive programming, indicating that the company is seen as a key player in the telecom industry."
+        },
+        {
+          "ticker": "TEF",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Telefónica is mentioned as one of the companies that will be featured in FNTV's exclusive programming, indicating that the company is seen as a key player in the telecom industry."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "AWS is mentioned as one of the companies that will be featured in FNTV's exclusive programming, indicating that the company is seen as a key player in the telecom industry."
+        }
+      ]
+    },
+    {
+      "id": "39302917ea83c855f790e3974aeed99cf6872c33a097090a40fbfcd5bb307847",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Alphabet a No-Brainer Bargain Buy Right Now?",
+      "author": "Adria Cimino",
+      "published_utc": "2025-02-11T09:50:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/11/is-alphabet-a-no-brainer-bargain-buy-right-now/?source=iedfolrf0000001",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807104/gettyimages-903626078.jpg",
+      "description": "Alphabet (GOOG, GOOGL) is a tech giant with a strong track record of earnings growth and market leadership. Despite a recent revenue miss and higher capital spending plans, the company's key businesses, including Google Search and Google Cloud, continue to show significant growth potential. With the stock trading at a lower valuation, the author believes Alphabet is a no-brainer bargain stock to buy.",
+      "keywords": [
+        "Alphabet",
+        "Google",
+        "Google Cloud",
+        "Earnings",
+        "Valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Alphabet's strong track record of earnings growth, market leadership, and growth potential in its key businesses, including Google Search and Google Cloud. Despite a recent revenue miss and higher capital spending plans, the author believes the stock is currently undervalued and a 'no-brainer bargain' to buy."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Alphabet's strong track record of earnings growth, market leadership, and growth potential in its key businesses, including Google Search and Google Cloud. Despite a recent revenue miss and higher capital spending plans, the author believes the stock is currently undervalued and a 'no-brainer bargain' to buy."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Microsoft in the context of a disclosure policy, but does not provide any specific analysis or sentiment regarding the company."
+        }
+      ]
+    }
+  ]
+}

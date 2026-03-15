@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Jamie Dimon Dismisses Fears Over How AI Will Hit JPMorgan",
+      "description": "The bank’s top executives held an in-person update with investors in Manhattan after some 20 inches of snow fell in the city.",
+      "published_utc": "2026-02-23T19:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d54db6d1c82d381ce330d3983d0793d24ace22cf673add40059b0ea6fb284fe9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139189468,
+      "datetime": 1771891200
+    },
+    {
+      "title": "From Jamie Dimon’s ‘cockroaches’ to the Blue Owl freeze: How stress is spreading in private credit",
+      "description": "Private credit's meteoric rise to a roughly $3 trillion cornerstone of global finance was fueled by demand for lending outside the traditional banking system.",
+      "published_utc": "2026-02-23T18:52:45",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=3fa699d931c9cd7a9ee9243c9d8521b0587fddf8eb8ef73bc3cae44b0d902846",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108126711-1743780405245-gettyimages-2208503188-anotherday11613947_821rsm0i.jpeg?v=1757379675&w=1920&h=1080",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139198042,
+      "datetime": 1771890765
+    },
+    {
+      "title": "JPMorgan maintains 2026 adjusted expenses forecast at USD105 billion",
+      "description": "",
+      "published_utc": "2026-02-23T18:04:58",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=8dbc170e89d204ebdc1c2f7ea67c5b8b6845b74afc40be20c9c5ac563bac9c95",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139188554,
+      "datetime": 1771887898
+    },
+    {
+      "title": "JPMorgan Chase & Co. (JPM) Dips More Than Broader Market: What You Should Know",
+      "description": "In the closing of the recent trading day, JPMorgan Chase & Co. (JPM) stood at $297.67, denoting a -4.22% move from the preceding trading day.",
+      "published_utc": "2026-02-23T17:45:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e5426930a6cc1224820c846f25c348c2982de42f574a7cfb7ee21c8582355e3f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139189469,
+      "datetime": 1771886704
+    },
+    {
+      "title": "Stock Market Today, Feb. 23: Nvidia Earnings Loom as Tariff Concerns Drive Dow 800 Points Lower",
+      "description": "AI jitters, tariff shock, and looming Nvidia results have investors fleeing growth for perceived safety, today, Feb. 23, 2026.",
+      "published_utc": "2026-02-23T17:31:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ba8070610858ab3a8f211085a882dbfd79b64fee552fb6198f8fbcb9f815e6eb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139188619,
+      "datetime": 1771885915
+    }
+  ]
+}

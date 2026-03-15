@@ -1,0 +1,221 @@
+{
+  "items": [
+    {
+      "id": "8d0823545d91c799192af4d9fa0b35b0f94c634093f98168aadd2fe5cd6e6677",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Nvidia Shares Fall on New AI Chip Export Rules. Is This a Golden Opportunity to Buy the Stock?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-15T23:00:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/15/nvidia-shares-falls-on-new-ai-chip-export-rules-is/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803928/gettyimages-1402452876.jpg",
+      "description": "The Biden administration has imposed new restrictions on the export of advanced AI chips, including Nvidia's GPUs. This has caused Nvidia's stock price to fall, but the article suggests that the impact may be limited as large tech companies can still obtain the necessary chips. The article concludes that Nvidia's valuation and growth potential make it a solid buy for investors.",
+      "keywords": [
+        "Nvidia",
+        "AI chips",
+        "export restrictions",
+        "stock valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Nvidia's valuation and growth potential make it a solid buy for investors, despite the new export restrictions on its AI chips."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alphabet is mentioned as a member of The Motley Fool's board of directors, but the article does not provide any specific insights about the company."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alphabet is mentioned as a member of The Motley Fool's board of directors, but the article does not provide any specific insights about the company."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Amazon is mentioned as a large hyperscaler customer of Nvidia, but the article does not provide any specific insights about the company."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Microsoft has partnered with the United Arab Emirates to help countries obtain the necessary AI chips, suggesting a positive outlook for the company."
+        }
+      ]
+    },
+    {
+      "id": "12f8a4d406143c07b77f30fb24e61c5242aca8531f50c875eba349bd589bdfd5",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "Best AI Stocks to Hold in 2025",
+      "author": "The Tokenist",
+      "published_utc": "2025-01-15T20:31:00Z",
+      "article_url": "https://www.investing.com/analysis/best-ai-stocks-to-hold-in-2025-200656273",
+      "tickers": [
+        "MU",
+        "AMZN",
+        "QCOM"
+      ],
+      "amp_url": "https://m.investing.com/analysis/best-ai-stocks-to-hold-in-2025-200656273?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "The article discusses several AI-related stocks that could be good long-term investments, including Micron Technology, Amazon, and Qualcomm. It analyzes the companies' recent performance and future prospects in the AI and technology sectors.",
+      "keywords": [
+        "AI stocks",
+        "Micron Technology",
+        "Amazon",
+        "Qualcomm"
+      ],
+      "insights": [
+        {
+          "ticker": "MU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Micron is a leading memory supplier and benefits from the growing demand for AI-supporting chips. The company reported strong financial results and is well-positioned to fill the gaps in semiconductor supply due to export restrictions."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon's AWS cloud platform is a major provider of AI and machine learning services, and the company is expected to continue dominating the cloud infrastructure market. Its discounted cash flow valuation also suggests potential upside."
+        },
+        {
+          "ticker": "QCOM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Qualcomm is a leading supplier of mobile chipsets and has made significant improvements to its AI capabilities. Despite some recent setbacks, the company is expected to continue powering the world's mobile and AI computing needs."
+        }
+      ]
+    },
+    {
+      "id": "5fa5bcb4d91b414241cb0d375e93673a634c13a8f77b2842aca03d088867ff5c",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "New Mystery Romance Novel Blends Past With Present Storylines For A Delightful 1980s-Themed Read",
+      "author": "Debra Ann Davis",
+      "published_utc": "2025-01-15T20:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/15/3010388/0/en/New-Mystery-Romance-Novel-Blends-Past-With-Present-Storylines-For-A-Delightful-1980s-Themed-Read.html",
+      "tickers": [
+        "AMZN"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/783070aa-f072-427a-9909-95feac003336",
+      "description": "Maria Anderson, a young librarian, becomes the new owner of a historic Cape Cod house and embarks on a quest to discover the identity of an enigmatic woman from the 1800s. As she searches, she finds herself caught in a love triangle with her realtor, Keith, and her father's colleague, Dr. Benjamin Watson.",
+      "keywords": [
+        "mystery",
+        "romance",
+        "family",
+        "self-discovery"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The book is available for purchase on Amazon.com, indicating it is a commercial product that is being promoted."
+        }
+      ]
+    },
+    {
+      "id": "c5f83477bd2a1c8f34516683e2664ceb407447f9f1eecb4c4c6df878705b715a",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "New Book THE INCREDIBLE SHRINKING MEN Rewrites the Hegemonic Norms of Western Masculinity",
+      "author": "Dr. Ryan J. Seidlitz",
+      "published_utc": "2025-01-15T16:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/15/3010214/0/en/New-Book-THE-INCREDIBLE-SHRINKING-MEN-Rewrites-the-Hegemonic-Norms-of-Western-Masculinity.html",
+      "tickers": [
+        "AMZN"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/703d499f-9739-469a-82bc-594e07416fb3",
+      "description": "Therapist and social worker Dr. Ryan J. Seidlitz's new book 'The Incredible Shrinking Men' encourages men to embrace their emotions and vulnerability as a path to a healthier masculinity, challenging the traditional norms that have been damaging to men and society.",
+      "keywords": [
+        "masculinity",
+        "emotion",
+        "vulnerability",
+        "healing",
+        "mental health"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The book is available for purchase on Amazon.com, indicating it is being distributed through this major online retailer."
+        }
+      ]
+    },
+    {
+      "id": "11f03d3a922b334f0a60aa6c8ad51f95e1b44bb6d0a8d943c03a9d52bf5ed018",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Ultimate High-Yield Dividend ETF to Buy With $500 Right Now",
+      "author": "Leo Sun",
+      "published_utc": "2025-01-15T15:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/15/the-ultimate-high-yield-dividend-etf-to-buy-with/?source=iedfolrf0000001",
+      "tickers": [
+        "JEPQ",
+        "AAPL",
+        "NVDA",
+        "MSFT",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803816/hundred-dollar-bills-stuffed-into-a-piggy-bank.jpg",
+      "description": "As interest rates are expected to fall in 2024-2025, income investors may gradually rotate back towards higher-yielding dividend stocks and ETFs. The JPMorgan Nasdaq Equity Premium Income ETF (JEPQ) is highlighted as a dependable way to earn a near-10% yield through its covered call strategy, offsetting market volatility with diversification.",
+      "keywords": [
+        "dividend stocks",
+        "ETFs",
+        "interest rates",
+        "JPMorgan Nasdaq Equity Premium Income ETF"
+      ],
+      "insights": [
+        {
+          "ticker": "JEPQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the JPMorgan Nasdaq Equity Premium Income ETF as a dependable way to earn a high yield of nearly 10% through its covered call strategy, which offsets market volatility with diversification."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Apple is mentioned as one of the top holdings of the JPMorgan Nasdaq Equity Premium Income ETF, but the article does not provide a specific sentiment towards the company."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Nvidia is mentioned as one of the top holdings of the JPMorgan Nasdaq Equity Premium Income ETF, but the article does not provide a specific sentiment towards the company."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Microsoft is mentioned as one of the top holdings of the JPMorgan Nasdaq Equity Premium Income ETF, but the article does not provide a specific sentiment towards the company."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Amazon is mentioned as one of the top holdings of the JPMorgan Nasdaq Equity Premium Income ETF, but the article does not provide a specific sentiment towards the company."
+        }
+      ]
+    }
+  ]
+}

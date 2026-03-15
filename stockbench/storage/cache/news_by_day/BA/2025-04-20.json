@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "title": "China begins returning Boeing aircraft to US",
+      "description": "A Boeing 737 Max that was getting readied for a Chinese airline has reportedly returned to Seattle due to the ongoing tariff war between China and the U.S.",
+      "published_utc": "2025-04-20T13:19:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5359bc376d48dbcd4f86cc918fa7a1e6757e965d97379c11890e9294c9c349f2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134022924,
+      "datetime": 1745169579
+    },
+    {
+      "title": "1 Stock to Buy, 1 Stock to Sell This Week: Philip Morris, Boeing",
+      "description": "• Tesla, Alphabet earnings, and more Trump tariff news will be in focus this week.",
+      "published_utc": "2025-04-20T09:32:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d7496e044a8ac4384dea5cbe01ba7835b962dfe0950ab796d7b3178bdfbbf4a5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134022781,
+      "datetime": 1745155943
+    },
+    {
+      "title": "Tesla, Alphabet highlight earnings rush as tariff fallout drives markets: What to know this week",
+      "description": "More than 100 S&P 500 companies are set to report earnings as the market looks to find footing as the fallout from President Trump's tariffs has sent stocks into a tailspin.",
+      "published_utc": "2025-04-20T07:39:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d80ffc803a436d9254f49eec8fa5b9bd4f1818ea269c058082635ede6f0c2cb3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134001247,
+      "datetime": 1745149156
+    },
+    {
       "title": "Boeing jet returns to US from China, a victim of Trump's tariff war",
       "description": "A Boeing jet intended for use by a Chinese airline landed back at the planemaker's U.S. production hub on Sunday, a victim of the tit-for-tat bilateral tariffs launched by President Donald Trump in...",
       "published_utc": "2025-04-20T07:13:48",
@@ -14,6 +59,36 @@
       "api_source": "finnhub_company",
       "id": 133976662,
       "datetime": 1745104428
+    },
+    {
+      "title": "Google, Tesla, and IBM earnings lead a make-or-break week for stocks",
+      "description": "Shaken by geopolitical shocks, the S&P 500 was flat last week and the Nasdaq nosed just into the red — but the Dow Jones Industrial Average finished significantly lower, weighed down by a double blow from UnitedHealth (UNH) and Nvidia (NVDA).",
+      "published_utc": "2025-04-20T07:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=12a584176f72505ed5d382c15935e3a77441e611cb3dafc2a85d3d07299ace82",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134022650,
+      "datetime": 1745146800
+    },
+    {
+      "title": "Jet2: Holiday And Airline Buys Do Not Come Stronger Than This",
+      "description": "",
+      "published_utc": "2025-04-20T06:10:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f19a1cf2c6b779c4ecffe8dbc1501e0d76143adb141ce9bb41c0f3a384b0ab97",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133978413,
+      "datetime": 1745143800
     },
     {
       "title": "Boeing Investors: Here's What the Latest Big News From Delta Air Lines Means for You",

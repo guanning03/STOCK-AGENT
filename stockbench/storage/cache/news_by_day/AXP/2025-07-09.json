@@ -1,6 +1,81 @@
 {
   "items": [
     {
+      "title": "Trillion-dollar companies: 9 most valuable mega-cap stocks",
+      "description": "These are the largest publicly traded companies and members of the trillion-dollar club.",
+      "published_utc": "2025-07-09T14:58:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9ace389f618e87202271028fffc132fce4a1fc902b5f822625cadff8f187f1b0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135839019,
+      "datetime": 1752087480
+    },
+    {
+      "title": "Fees, Fines & Gains: Mastercard's 13% 3-Month Rise Laughs at Headlines",
+      "description": "MA's 13% rally shrugs off lawsuits, fee caps and fintech threats as it doubles down on crypto and services.",
+      "published_utc": "2025-07-09T09:54:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=404025d123412c85734447e6d2cae437407381b3eab2175fd6fe5d54ae0a8ff8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135835673,
+      "datetime": 1752069240
+    },
+    {
+      "title": "3 Dividend Stocks to Double Up on Right Now",
+      "description": "Realty Income is a REIT that boasts stable income and a monthly dividend.  Target has been battered by a tough economy, but the retailer should see a recovery.  Credit card powerhouse American Express has begun resonating with younger consumers.",
+      "published_utc": "2025-07-09T09:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d03c0440d74541a2c9e54a85f1a2a1cae6028eb96f1f8b5c2daeb0a313363c30",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135835891,
+      "datetime": 1752068700
+    },
+    {
+      "title": "27.3% of Warren Buffett's $258.7 Billion Portfolio Is Invested in These 2 American Stocks",
+      "description": "Warren Buffett has often said to never bet against the American economy.  American Express is one of Berkshire Hathaway's largest investment positions.  Bank of America is a banking giant with durable earnings power.",
+      "published_utc": "2025-07-09T08:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8287c4d67858eced8951c975b1b87d47fe7ac941608443d28884bcb84f42a48c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135835892,
+      "datetime": 1752063300
+    },
+    {
+      "title": "EonX Accelerates Global Expansion with Key Executive Appointments",
+      "description": "TORONTO, ONTARIO / ACCESS Newswire / July 9, 2025 /EonX Technologies Inc. (CSE:EONX), (\"EonX\" or the \"Company\") is pleased to announce significant expansion of its global operations with strategic executive appointments. The Company has appointed ...",
+      "published_utc": "2025-07-09T08:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e52bb0d2e7e59f1346365c08934d38f64237fe7d55db39a3534b962cdca169d9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135835699,
+      "datetime": 1752062400
+    },
+    {
       "title": "American Express (AXP) Falls More Steeply Than Broader Market: What Investors Need to Know",
       "description": "The latest trading day saw American Express (AXP) settling at $316.98, representing a -1.78% change from its previous close.",
       "published_utc": "2025-07-09T05:50:02",

@@ -1,0 +1,83 @@
+{
+  "items": [
+    {
+      "id": "7c6162ed2816d531ce6fef17593af9cf63ca2d64dda941601ff7334abae8cfb9",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Web Performance Market Size to Surpass USD 12.70 Billion by 2032 | SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-02-26T15:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/26/3033054/0/en/Web-Performance-Market-Size-to-Surpass-USD-12-70-Billion-by-2032-SNS-Insider.html",
+      "tickers": [
+        "AKAM",
+        "NET",
+        "DT",
+        "IBM",
+        "RDWR",
+        "FSLY",
+        "SWI",
+        "MSFT"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The Web Performance Market is expected to grow from $5.86 billion in 2023 to $12.70 billion by 2032, driven by the increasing demand for fast and responsive websites, especially in the e-commerce and IT/telecom sectors. The market is dominated by cloud-based solutions and large enterprises, while SMEs are also witnessing rapid growth.",
+      "keywords": [
+        "web performance",
+        "e-commerce",
+        "IT/telecom",
+        "cloud",
+        "enterprise size"
+      ],
+      "insights": [
+        {
+          "ticker": "AKAM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Akamai is a leading provider of web performance solutions, and the article mentions its expansion of its micro-segmentation solution, indicating the company's continued innovation and growth in the market."
+        },
+        {
+          "ticker": "NET",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Cloudflare is listed as a major player in the web performance market, but the article does not provide any specific details about the company's performance or growth."
+        },
+        {
+          "ticker": "DT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Dynatrace is mentioned as a major player in the web performance market, but the article does not provide any additional information about the company's performance or offerings."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "IBM is listed as a major player in the web performance market, but the article does not provide any specific details about the company's performance or growth."
+        },
+        {
+          "ticker": "RDWR",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Radware Ltd. is mentioned as a major player in the web performance market, but the article does not provide any additional information about the company's performance or offerings."
+        },
+        {
+          "ticker": "FSLY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Fastly is listed as a major player in the web performance market, but the article does not provide any specific details about the company's performance or growth."
+        },
+        {
+          "ticker": "SWI",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "SolarWinds is mentioned as a major player in the web performance market, but the article does not provide any additional information about the company's performance or offerings."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft Azure is mentioned as a major player in the web performance market, indicating the company's web performance solutions are in demand."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T22:27:02.341667+00:00",
+    "cache_key": "news_032ebe05869266ade84c19fb3c2ae1a1",
+    "count": 1
+  }
+}

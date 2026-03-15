@@ -1,0 +1,403 @@
+{
+  "items": [
+    {
+      "id": "96042dd32b8bff763d971d69753463629d30533d7d9f8759e88b268fb844b6e4",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "2 ETFs That Went Up 30% or More in 2024: Will They Do It Again in 2025?",
+      "author": "Matt Frankel",
+      "published_utc": "2025-01-20T09:48:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/20/2-etfs-that-went-up-30-or-more-in-2024-will-they-d/?source=iedfolrf0000001",
+      "tickers": [
+        "XLF",
+        "ARKQ",
+        "TSLA",
+        "BRK.A",
+        "BRK.B",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804383/stock-trader-2022-a.jpg",
+      "description": "The article discusses the strong performance of the Financial Select Sector SPDR ETF (XLF) and the Ark Autonomous Technology & Robotics ETF (ARKQ) in 2024, and the potential catalysts for their continued outperformance in 2025. It also highlights the factors that contributed to the financial sector's outperformance and the risks that could affect the future performance of these ETFs.",
+      "keywords": [
+        "Financial Select Sector SPDR ETF",
+        "Ark Autonomous Technology & Robotics ETF",
+        "AI stocks",
+        "bank stocks",
+        "financial sector"
+      ],
+      "insights": [
+        {
+          "ticker": "XLF",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The ETF had a strong performance in 2024, gaining 31%, and the article suggests it could continue to outperform the market in 2025 due to factors like lower interest rates and potential political tailwinds."
+        },
+        {
+          "ticker": "ARKQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The ETF had a 34% return in 2024 and is seen as an intriguing option for investors, as it focuses on lesser-known AI and robotics companies with significant growth potential."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Tesla is mentioned as the top holding of the Ark Autonomous Technology & Robotics ETF, but the article does not provide a specific sentiment or outlook for the company."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire Hathaway is listed as the top holding of the Financial Select Sector SPDR ETF, but the article does not provide a specific sentiment or outlook for the company."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire Hathaway is listed as the top holding of the Financial Select Sector SPDR ETF, but the article does not provide a specific sentiment or outlook for the company."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is mentioned as a top holding of the Financial Select Sector SPDR ETF, but the article does not provide a specific sentiment or outlook for the company."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is mentioned as a top holding of the Financial Select Sector SPDR ETF, but the article does not provide a specific sentiment or outlook for the company."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is mentioned as a top holding of the Financial Select Sector SPDR ETF, but the article does not provide a specific sentiment or outlook for the company."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is mentioned as a top holding of the Financial Select Sector SPDR ETF, but the article does not provide a specific sentiment or outlook for the company."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is mentioned as a top holding of the Financial Select Sector SPDR ETF, but the article does not provide a specific sentiment or outlook for the company."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is mentioned as a top holding of the Financial Select Sector SPDR ETF, but the article does not provide a specific sentiment or outlook for the company."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is mentioned as a top holding of the Financial Select Sector SPDR ETF, but the article does not provide a specific sentiment or outlook for the company."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is mentioned as a top holding of the Financial Select Sector SPDR ETF, but the article does not provide a specific sentiment or outlook for the company."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as a top holding of the Financial Select Sector SPDR ETF, but the article does not provide a specific sentiment or outlook for the company."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as a top holding of the Financial Select Sector SPDR ETF, but the article does not provide a specific sentiment or outlook for the company."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as a top holding of the Financial Select Sector SPDR ETF, but the article does not provide a specific sentiment or outlook for the company."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as a top holding of the Financial Select Sector SPDR ETF, but the article does not provide a specific sentiment or outlook for the company."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as a top holding of the Financial Select Sector SPDR ETF, but the article does not provide a specific sentiment or outlook for the company."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as a top holding of the Financial Select Sector SPDR ETF, but the article does not provide a specific sentiment or outlook for the company."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as a top holding of the Financial Select Sector SPDR ETF, but the article does not provide a specific sentiment or outlook for the company."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as a top holding of the Financial Select Sector SPDR ETF, but the article does not provide a specific sentiment or outlook for the company."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as a top holding of the Financial Select Sector SPDR ETF, but the article does not provide a specific sentiment or outlook for the company."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as a top holding of the Financial Select Sector SPDR ETF, but the article does not provide a specific sentiment or outlook for the company."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as a top holding of the Financial Select Sector SPDR ETF, but the article does not provide a specific sentiment or outlook for the company."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as a top holding of the Financial Select Sector SPDR ETF, but the article does not provide a specific sentiment or outlook for the company."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as a top holding of the Financial Select Sector SPDR ETF, but the article does not provide a specific sentiment or outlook for the company."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as a top holding of the Financial Select Sector SPDR ETF, but the article does not provide a specific sentiment or outlook for the company."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as a top holding of the Financial Select Sector SPDR ETF, but the article does not provide a specific sentiment or outlook for the company."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as a top holding of the Financial Select Sector SPDR ETF, but the article does not provide a specific sentiment or outlook for the company."
+        }
+      ]
+    },
+    {
+      "id": "0d1c15261e4902efa0604c263be2d2b47b392e3e72e6f4e07c479df0983a94d6",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Billionaire Stanley Druckenmiller Is Buying a High-Yield Warren Buffett Stock That Looks Like a Bargain Now",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-20T08:56:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/20/billionaire-stanley-druckenmiller-is-buying-a-high/?source=iedfolrf0000001",
+      "tickers": [
+        "C",
+        "CpN",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "BRK.A",
+        "BRK.B"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804468/stock-market-trader-at-home-getty.jpg",
+      "description": "Billionaire investor Stanley Druckenmiller has opened a new position in Citigroup, a stock that is also owned by Warren Buffett's Berkshire Hathaway. Citigroup is trading at a low valuation and has made progress in simplifying its operations, which could lead to improved profitability.",
+      "keywords": [
+        "Citigroup",
+        "Stanley Druckenmiller",
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "bank stocks"
+      ],
+      "insights": [
+        {
+          "ticker": "C",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights that Citigroup is trading at a low valuation, has made progress in simplifying its operations, and has the potential for improved profitability, which makes it an attractive investment for billionaire investors like Druckenmiller and Buffett."
+        },
+        {
+          "ticker": "CpN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights that Citigroup is trading at a low valuation, has made progress in simplifying its operations, and has the potential for improved profitability, which makes it an attractive investment for billionaire investors like Druckenmiller and Buffett."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as a peer to Citigroup, but does not provide any specific insights or sentiment about the company."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as a peer to Citigroup, but does not provide any specific insights or sentiment about the company."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as a peer to Citigroup, but does not provide any specific insights or sentiment about the company."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as a peer to Citigroup, but does not provide any specific insights or sentiment about the company."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as a peer to Citigroup, but does not provide any specific insights or sentiment about the company."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as a peer to Citigroup, but does not provide any specific insights or sentiment about the company."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as a peer to Citigroup, but does not provide any specific insights or sentiment about the company."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as a peer to Citigroup, but does not provide any specific insights or sentiment about the company."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as a peer to Citigroup, but does not provide any specific insights or sentiment about the company."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as a peer to Citigroup, but does not provide any specific insights or sentiment about the company."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as a peer to Citigroup, but does not provide any specific insights or sentiment about the company."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as a peer to Citigroup, but does not provide any specific insights or sentiment about the company."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as a peer to Citigroup, but does not provide any specific insights or sentiment about the company."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as a peer to Citigroup, but does not provide any specific insights or sentiment about the company."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as a peer to Citigroup, but does not provide any specific insights or sentiment about the company."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Bank of America as a peer to Citigroup, but does not provide any specific insights or sentiment about the company."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as a peer to Citigroup, but does not provide any specific insights or sentiment about the company."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as a peer to Citigroup, but does not provide any specific insights or sentiment about the company."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as a peer to Citigroup, but does not provide any specific insights or sentiment about the company."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as a peer to Citigroup, but does not provide any specific insights or sentiment about the company."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as a peer to Citigroup, but does not provide any specific insights or sentiment about the company."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as a peer to Citigroup, but does not provide any specific insights or sentiment about the company."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as a peer to Citigroup, but does not provide any specific insights or sentiment about the company."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as a peer to Citigroup, but does not provide any specific insights or sentiment about the company."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Warren Buffett's Berkshire Hathaway is a major shareholder of Citigroup, which suggests that Buffett sees value in the stock."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Warren Buffett's Berkshire Hathaway is a major shareholder of Citigroup, which suggests that Buffett sees value in the stock."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:01:16.947981+00:00",
+    "cache_key": "news_e7966cc53b4b427e737cccaf4e6124e4",
+    "count": 2
+  }
+}

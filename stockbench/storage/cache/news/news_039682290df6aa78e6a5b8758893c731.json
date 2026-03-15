@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "S&P 500 turns positive in major comeback as traders buy the dip after U.S.-Iran attacks: Live updates",
+      "description": "The war between the U.S. and Iran is threatening to widen and jolt global energy supplies.",
+      "published_utc": "2026-03-01T13:04:42",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=d412d1ad4c0859090078ec3cf581c3b50907d4cfbd305e639a4f1a9c150d7291",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108271997-1772463528796-gettyimages-2263875914-AFP_99LH3Y9.jpeg?v=1772463568&w=1920&h=1080",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139278430,
+      "datetime": 1772388282
+    },
+    {
+      "title": "Has Caterpillar (CAT) Rallied Too Far After Strong Multi Year Share Price Gains",
+      "description": "If you are wondering whether Caterpillar's current share price still reflects good value or if the stock has run too far, this article walks through the key numbers in a plain spoken way. Caterpillar's share price recently closed at US$742.83, with returns of 13.0% over 30 days, 24.1% year to date, 118.9% over 1 year, 205.5% over 3 years and 270.0% over 5 years, which naturally raises questions about risk, reward and what is already priced in. Recent coverage has focused on Caterpillar's...",
+      "published_utc": "2026-03-01T12:10:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=db4c47d169fa3cf0c616448ce285751fe43ddf7767cfdb8673d56010197fccc4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139271177,
+      "datetime": 1772385036
+    },
+    {
+      "title": "Can Caterpillar's Momentum Continue in 2026 and Beyond?",
+      "description": "Caterpillar's emergence as an AI play propelled the stock to stratospheric heights, but there are other reasons it can extend its momentum.",
+      "published_utc": "2026-03-01T10:50:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8deb4c61eb689d8ba4925733c5ab7e813251d827e1d0a37c0583967b006efb4a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139270540,
+      "datetime": 1772380200
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:49:32.494868+00:00",
+    "cache_key": "news_039682290df6aa78e6a5b8758893c731",
+    "count": 3
+  }
+}

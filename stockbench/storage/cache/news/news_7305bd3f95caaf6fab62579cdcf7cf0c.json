@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Prediction: All \"Ten Titans\" Stocks Will Surpass $1 Trillion in Market Cap by 2030",
+      "description": "The Ten Titans already make up 38% of the S&P 500, but their share could grow if companies keep delivering on investor expectations.",
+      "published_utc": "2025-08-24T19:12:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=21506a32bd26bd2e8cb299d0693e1834738da72b97c33b4ccc8a045bbd406e21",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136507773,
+      "datetime": 1756077120
+    },
+    {
+      "title": "If I Could Only Buy and Hold a Single Stock, This Would Be It",
+      "description": "The artificial intelligence (AI) megatrend has benefited myriad businesses, but only one may be truly capable of creating generational wealth for investors.",
+      "published_utc": "2025-08-24T18:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ae244b7c08717a303607768d485017415d1e057a5e08c8f0681de5f33d620c8e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136507775,
+      "datetime": 1756073100
+    },
+    {
+      "title": "2 No-Brainer AI Stocks to Buy Right Now",
+      "description": "Two tech giants are turning AI demand into durable, high-margin growth engines.",
+      "published_utc": "2025-08-24T11:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3b69b547205d3e50c9b7ff563fe4fcee674a105d2de62520796ec5193992d8a5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136502554,
+      "datetime": 1756049400
+    },
+    {
+      "title": "Want AI Exposure With Less Volatility? This Stock Is a Top Choice.",
+      "description": "Chasing highfliers gets old fast. Here's a calmer AI strategy built on cash flow and dividends.",
+      "published_utc": "2025-08-24T11:19:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f926c96ba1c5f0ad135e8cf7c85fc0dc7deacd47650aa55ea03d6d39588fb2b1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136502529,
+      "datetime": 1756048740
+    },
+    {
+      "title": "The \"Ten Titans\" Stocks Now Make Up 38% of the S&P 500. Here's What It Means for Your Investment Portfolio",
+      "description": "Massive growth stocks are driving the performance of the S&P 500, for better or for worse.",
+      "published_utc": "2025-08-24T11:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0beed2ea303bafdbcdee6489b172454ab0df5c2c868733b172d80693a4b795d7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136502531,
+      "datetime": 1756047600
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:39:16.814367+00:00",
+    "cache_key": "news_7305bd3f95caaf6fab62579cdcf7cf0c",
+    "count": 5
+  }
+}

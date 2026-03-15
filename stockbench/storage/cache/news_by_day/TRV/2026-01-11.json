@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "3 Large-Cap Stocks Worth Investigating",
+      "description": "Large-cap stocks have the power to shape entire industries thanks to their size and widespread influence. With such vast footprints, however, finding new areas for growth is much harder than for smaller, more agile players.",
+      "published_utc": "2026-01-11T23:38:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3b4048bc548a3eeda537832f4a79d4fe2ef5a394bdb395163bd3daf941f798e4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138071525,
+      "datetime": 1768192698
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "items": [
+    {
+      "id": "361c2b2702f33f805a7198c9cf5df73b6ec6c9c434476815d21bf98d1b33d64b",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Meet the Supercharged Growth Stock That Could Make You a Millionaire",
+      "author": "Lee Samaha",
+      "published_utc": "2024-12-09T11:30:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/09/meet-the-supercharged-growth-stock-that-could-make/?source=iedfolrf0000001",
+      "tickers": [
+        "CGNX",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799900/gettyimages-1055961984-1201x801-d21b45d.jpg",
+      "description": "Cognex, a machine vision company, has faced a slowdown due to cyclical factors in its key end markets, but its long-term growth potential remains strong. The company's revenue is expected to grow at a 15% annual rate, and if it delivers on this target, the stock has significant upside potential.",
+      "keywords": [
+        "Cognex",
+        "machine vision",
+        "automation",
+        "AI",
+        "digital transformation",
+        "manufacturing"
+      ],
+      "insights": [
+        {
+          "ticker": "CGNX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Cognex's long-term growth potential, with management expecting a 15% annual revenue growth rate. The company's machine vision solutions are well-positioned to benefit from the increasing adoption of automation, AI, and digital transformation in manufacturing."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Apple is mentioned as a customer of Cognex, but the article does not provide any specific insights or commentary about the company."
+        }
+      ]
+    }
+  ]
+}

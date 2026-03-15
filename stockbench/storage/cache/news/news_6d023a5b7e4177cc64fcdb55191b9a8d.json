@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Apple earnings, mortgage rates, jobless claims: What to Watch",
+      "description": "Asking for a Trend Host Josh Lipton previews several of the biggest stories to come tomorrow, Thursday, January 29, including earnings results from companies like Apple (AAPL), Visa (V), and Lockheed Martin (LMT); the latest reading on US mortgage rates; and weekly initial jobless claims data.To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend.",
+      "published_utc": "2026-01-28T19:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=acb8f2723405be015eb048b33dace80c84b2ae4226e797e2f19ba7ddc103331f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138290986,
+      "datetime": 1769644800
+    },
+    {
+      "title": "Berkeley Loads Up on Morningstar, Buys $3.8 Million of the Stock",
+      "description": "Morningstar delivers independent investment research and financial data solutions to professionals and institutions worldwide.",
+      "published_utc": "2026-01-28T18:21:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=50b46eebedf9ef5c4bbc41f44436880612277885c34037f782d4f2022597b5c3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138290196,
+      "datetime": 1769642487
+    },
+    {
+      "title": "Dow Futures Down 150 Points After Fed Leaves Rates Unchanged, Investors Fixate On Big Tech Earnings: Gold Sets A New Record",
+      "description": "U.S. stock futures are in the red on Wednesday evening after President Donald Trump issued a fresh warning to Iran, saying that a &#34;massive Armada&#34; led by U.S. aircraft carrier Abraham Lincoln was headed towards the country.",
+      "published_utc": "2026-01-28T17:14:17",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=6136f66cde5e017fd751985660287a89933824c81e090a23617aa0d72efeb7e3",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/01/28/Blue-Candlestick-Stock-Chart-With-Market.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138452587,
+      "datetime": 1769638457
+    },
+    {
+      "title": "Cortland Associates Ditches First Advantage Shares in $5.6 Million Sale, According to Recent Filing",
+      "description": "First Advantage delivers technology-driven screening and compliance solutions for employers worldwide, serving a broad range of industries.",
+      "published_utc": "2026-01-28T16:48:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b9c6c277b65e7f19d3a1c974c2c492be97dde9040688cae5fb1765358ced5562",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138289012,
+      "datetime": 1769636882
+    },
+    {
+      "title": "Investment Manager Sells $10.1 Million Worth of Blue Owl Stock, According to Recent SEC Filing",
+      "description": "Blue Owl Capital delivers direct lending, GP capital, and real estate solutions, generating steady fee income from institutional clients.",
+      "published_utc": "2026-01-28T16:45:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d269d2dfe680a3321aa175fc17823623cccda6cf85af4503191bfc9a1d26ae0b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138289013,
+      "datetime": 1769636722
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:12:50.782581+00:00",
+    "cache_key": "news_6d023a5b7e4177cc64fcdb55191b9a8d",
+    "count": 5
+  }
+}

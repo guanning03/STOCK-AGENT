@@ -1,0 +1,208 @@
+{
+  "items": [
+    {
+      "id": "a99e0e3db57707820d9ce5bee4b25f8c8701165d8b22d09befd6eebfd988b227",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why MongoDB Stock Is Crashing Despite Crushing Expectations",
+      "author": "Anders Bylund",
+      "published_utc": "2024-12-10T18:20:52Z",
+      "article_url": "https://www.fool.com/investing/2024/12/10/why-mongodb-stock-crashed-on-tuesday/?source=iedfolrf0000001",
+      "tickers": [
+        "MDB",
+        "MSFT",
+        "ORCL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800573/confused-head-scratching.jpg",
+      "description": "MongoDB reported strong Q3 results, but the stock plunged due to the announcement of the departure of its longtime CFO and COO. Investors are concerned about the leadership change and the impact it may have on the company's operations.",
+      "keywords": [
+        "MongoDB",
+        "earnings",
+        "CFO departure",
+        "leadership change"
+      ],
+      "insights": [
+        {
+          "ticker": "MDB",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article indicates that MongoDB's stock plunged despite strong financial results, due to the announcement of the departure of its longtime CFO and COO. Investors are concerned about the leadership change and the impact it may have on the company's operations."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions a partnership between MongoDB and Microsoft, but does not provide any specific details or sentiment about the impact of this partnership."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares MongoDB's valuation to that of its larger and more profitable rival, Oracle, but does not express any specific sentiment about Oracle's performance or prospects."
+        }
+      ]
+    },
+    {
+      "id": "bc22d074c6167a8482f1098b3a2eff0b4d105f218ab748b73d37a1168a396b32",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Will the Stock Market Crash in 2025?",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-10T11:45:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/10/will-the-stock-market-crash-in-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "NVDA",
+        "MSFT",
+        "GOOG",
+        "GOOGL",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800213/gettyimages-1373109638.jpg",
+      "description": "The article discusses the current high valuation of the S&P 500 and the potential impact of artificial intelligence (AI) on the market's performance. It suggests that the market's future will largely depend on how much companies benefit from AI and their willingness to invest in improving it.",
+      "keywords": [
+        "S&P 500",
+        "valuation",
+        "artificial intelligence",
+        "market crash"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Apple, along with Nvidia and Microsoft, represents about 20% of the S&P 500 index, but does not provide a clear sentiment on the company."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that as long as the competition for developing the best AI models continues, it should be good for Nvidia, as companies need exponentially more computing power to advance their AI models."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Microsoft, along with Apple and Nvidia, represents about 20% of the S&P 500 index, but does not provide a clear sentiment on the company."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide a clear sentiment on Alphabet, but mentions that the company, along with Amazon and Microsoft, has seen strong revenue and operating income growth from their cloud computing segments."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide a clear sentiment on Alphabet, but mentions that the company, along with Amazon and Microsoft, has seen strong revenue and operating income growth from their cloud computing segments."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide a clear sentiment on Amazon, but mentions that the company, along with Microsoft and Alphabet, has seen strong revenue and operating income growth from their cloud computing segments."
+        }
+      ]
+    },
+    {
+      "id": "044e04598861d2b7d95b60a7a775a71b4b1f206c1a875fcc07753cde62da7493",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Prediction: This Relentless Vanguard ETF Will Crush the S&P 500 Again in 2025",
+      "author": "Anthony Di Pizio",
+      "published_utc": "2024-12-10T09:21:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/10/prediction-vanguard-etf-will-crush-sp-500-in-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "VOOG",
+        "AAPL",
+        "MSFT",
+        "AMZN",
+        "META"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800173/a-golden-bull-figurine-on-top-of-a-strip-of-money.jpg",
+      "description": "The Vanguard S&P 500 Growth ETF (VOOG) has outperformed the S&P 500 in 2024 and is expected to do so again in 2025, driven by its focus on high-growth technology stocks that have benefited from the AI boom.",
+      "keywords": [
+        "Vanguard S&P 500 Growth ETF",
+        "S&P 500",
+        "technology stocks",
+        "AI",
+        "growth investing"
+      ],
+      "insights": [
+        {
+          "ticker": "VOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article predicts that the Vanguard S&P 500 Growth ETF will continue to outperform the S&P 500 in 2025, driven by its focus on high-growth technology stocks that have benefited from the AI boom."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Apple could have a strong year in 2025 as it continues to roll out its new Apple Intelligence software and upgrade its Siri voice assistant."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Microsoft will continue building new data center infrastructure fitted with the latest chips, as AI developers demand more computing power than ever before."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Amazon is one of the top five holdings in the Vanguard S&P 500 Growth ETF, and that it will continue building new data center infrastructure to support the growing demand for AI computing power."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Meta Platforms will build more infrastructure to support the launch of its Llama 4 large language model (LLM) in 2025, which could be the most advanced AI model in the industry."
+        }
+      ]
+    },
+    {
+      "id": "a1c94c7e1e9e67f00ea89d4825cbeb41eac116d7fa2f07448bb7cf7b3f4a9be4",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Bill Gates Could Go Bankrupt If Tesla Stock Surges 200% To Become The Top Company, Says Elon Musk",
+      "author": "Kaustubh Bagalkote",
+      "published_utc": "2024-12-10T09:15:21Z",
+      "article_url": "https://www.benzinga.com/news/global/24/12/42406893/bill-gates-could-go-bankrupt-if-tesla-stock-surges-200-to-become-the-top-company-says-elon-musk",
+      "tickers": [
+        "TSLA",
+        "MSFT",
+        "AAPL"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2024/12/10/Gates-Resume.jpeg?width=1200&height=800&fit=crop",
+      "description": "Elon Musk claims that if Tesla becomes the world's most valuable company, Bill Gates could face bankruptcy due to his undisclosed short position in Tesla stock, escalating their long-running dispute.",
+      "keywords": [
+        "Tesla",
+        "Bill Gates",
+        "Elon Musk",
+        "Microsoft",
+        "Apple"
+      ],
+      "insights": [
+        {
+          "ticker": "TSLA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that if Tesla's stock surges 200% to become the top company, it could lead to the bankruptcy of Bill Gates due to his short position in the company, indicating Tesla's potential for significant growth."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Microsoft as the company co-founded by Bill Gates, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Apple as a tech giant, but does not provide any specific information about the company's performance or outlook."
+        }
+      ]
+    }
+  ]
+}

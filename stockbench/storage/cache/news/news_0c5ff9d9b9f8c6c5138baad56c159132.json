@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": "75606fb95ce04f021fd0fd712eaa6171c60c6bd02335f4afc49ea6d020fd250a",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Best Artificial Intelligence (AI) Stocks to Buy in January",
+      "author": "Geoffrey Seiler",
+      "published_utc": "2025-01-12T20:17:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/12/3-best-artificial-intelligence-ai-stocks-to-buy-in/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "MSFT",
+        "CRM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803438/gettyimages-1480633240.jpg",
+      "description": "The article discusses the growth opportunities in the AI sector, particularly for companies like Nvidia, Microsoft, and Salesforce. Nvidia's GPUs are driving the AI infrastructure build-out, while Microsoft and Salesforce are leveraging AI in their cloud computing and productivity offerings.",
+      "keywords": [
+        "AI",
+        "Nvidia",
+        "Microsoft",
+        "Salesforce"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia's revenue has skyrocketed due to the demand for its GPUs, which are essential for AI infrastructure. The company has a dominant 90% market share in the GPU space and is well-positioned to benefit from the continued growth in AI spending."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is planning to spend around $80 billion this year on AI data centers, which is expected to drive growth for its Azure cloud computing unit and AI-powered productivity tools. The company is also addressing capacity constraints to meet the growing demand for its AI services."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce is positioning itself as a leader in agentic AI, which is the next evolution of AI beyond generative AI. The company's Agentforce platform has seen rapid adoption, and it aims to have 1 billion Agentforce AI agents deployed by the end of fiscal 2026."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:38:05.452986+00:00",
+    "cache_key": "news_0c5ff9d9b9f8c6c5138baad56c159132",
+    "count": 1
+  }
+}

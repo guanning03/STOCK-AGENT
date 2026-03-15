@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Home Depot Targeted in Los Angeles Immigration Raids",
+      "description": "The Home Depot, Inc. (NYSE:HD) is one of the best Dow stocks to invest in. Recently, the company has become a focal point in the recent federal immigration raids and the protests that followed in Los Angeles. On June 6, federal agents targeted a Home Depot in the Westlake area, along with other sites like […]",
+      "published_utc": "2025-06-11T17:09:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e4e46f4c3c7df40c6324ebfce7a149fb12636aaf0c10f79aa5187734b938762b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135197246,
+      "datetime": 1749676198
+    },
+    {
+      "title": "Home Depot Inc. stock outperforms competitors despite losses on the day",
+      "description": "Home Depot Inc. stock outperforms competitors despite losses on the day",
+      "published_utc": "2025-06-11T12:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=ee9580e34bc4fedb2a4af3ae499c9954bb3df58fe3a845360f347ee03c15656e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135214675,
+      "datetime": 1749659460
+    },
+    {
+      "title": "How Home Depot Became Ground Zero in Trump’s Deportation Push",
+      "description": "The White House told ICE to target the retail giant, disrupting the company’s symbiotic relationship with the day laborers outside its stores.",
+      "published_utc": "2025-06-11T05:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6d97c1fd08f63d3351bd978a0c5d609e04fa71e274f54ae5de52f1167d271095",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135179533,
+      "datetime": 1749634200
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T00:23:49.325986+00:00",
+    "cache_key": "news_75dbb0498c702a058da3ab38c6b9513b",
+    "count": 3
+  }
+}

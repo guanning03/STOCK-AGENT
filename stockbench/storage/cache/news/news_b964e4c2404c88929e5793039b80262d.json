@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Trump tariffs 'imposition' on Americans, says US chief justice. Why raising revenue 'domestically' may make them illegal",
+      "description": "Trump's tariffs are bringing in record revenue and he's promised $2K checks to Americans, but they may not survive the Supreme Court.",
+      "published_utc": "2025-11-10T14:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a119cebafc6834fbdee903a5b1dfb14279203fe9894c971d1a83143ed99fd26b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137437682,
+      "datetime": 1762803000
+    },
+    {
+      "title": "Technology Helps Push US Equity Indexes Higher Amid Progress in Ending Federal Government Shutdown",
+      "description": "US equity indexes rose after midday on Monday following gains in technology, communication services,",
+      "published_utc": "2025-11-10T13:11:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5901d4b3203e2555cefa5323462d3b4cf5b195f737390f1aea2317057ea64491",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137396605,
+      "datetime": 1762798304
+    },
+    {
+      "title": "US Equity Indexes Rise as Technology Tops Sector Charts Amid Expectations of Federal Shutdown Ending",
+      "description": "US equity indexes rose, led by gains in technology, communication services, and consumer discretiona",
+      "published_utc": "2025-11-10T12:22:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2f97bca9d2700a5580c38fb224b87496c42d83a65145ec64e9a92e47e9af7f4e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137396606,
+      "datetime": 1762795373
+    },
+    {
+      "title": "Home Is Where The Pain Is",
+      "description": "It's been a painful year for homebuilders. The iShares Home Construction ETF (ITB) remains stuck in a steep short-term downtrend, below its 200-DMA and much closer to 52-week lows than highs",
+      "published_utc": "2025-11-10T10:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fba0b5dc4dc44d89148e3aafd5930b0d3b14676e4f8f7f9f91ea4aeef25e33f2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/144280696/image_144280696.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137403095,
+      "datetime": 1762788600
+    },
+    {
+      "title": "Wall Street Lunch: Generative AI Powers October E-Commerce Spending",
+      "description": "Adobe (ADBE) says U.S. online spending rose 8.2% year-over-year in October to $88.7 billion.",
+      "published_utc": "2025-11-10T09:53:48",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=dce4f4231faca8f9bae441f731fdbb91b49bee3e3629e999aca01894e710bf46",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2227981382/image_2227981382.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137400733,
+      "datetime": 1762786428
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:46:55.339069+00:00",
+    "cache_key": "news_b964e4c2404c88929e5793039b80262d",
+    "count": 5
+  }
+}

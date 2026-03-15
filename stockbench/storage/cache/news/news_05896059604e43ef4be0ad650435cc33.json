@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Earnings live: IBM stock surges, Whirlpool slides; Meta, Microsoft, Tesla report beats across the board",
+      "description": "The fourth quarter earnings season kicks into high gear this week, with Big Tech results from Microsoft, Meta, Tesla, and Apple headlining the earnings calendar.",
+      "published_utc": "2026-01-28T16:39:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=101d3989b2adbcbaa12c0372880869b52269ededccf6700e8ebae8dae0e40914",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138288984,
+      "datetime": 1769636388
+    },
+    {
+      "title": "Down 46% Over the Past Year, Should You Sell UnitedHealth Stock?",
+      "description": "UNH’s slump ties to Medicare uncertainty and restructuring costs, leaving investors weighing near-term pain against historically cheap valuation.",
+      "published_utc": "2026-01-28T12:58:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a30b5c0cbc99ee39391b2de1fb4172f23ebe2b8aad3bdaa4a25931b93ffca7f7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138289093,
+      "datetime": 1769623137
+    },
+    {
+      "title": "Elevance Health Earnings Add to Medicare Pain. Why The Stock Is Rising Anyway.",
+      "description": "Elevance stock tumbled after the Trump administration proposed keeping Medicare rates roughly flat in 2027.",
+      "published_utc": "2026-01-28T12:35:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2c817608b244909b6bafe3e315894069080f5de9dff7c064ccc7f49069274e2b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138287539,
+      "datetime": 1769621700
+    },
+    {
+      "title": "UnitedHealth Says Trump's 2027 Medicare Rates 'Profoundly Negative' For Seniors",
+      "description": "UnitedHealth Group, Inc. (NYSE:UNH) experienced a historic market rout on Tuesday, with its stock plunging 20% in a single day. The catalyst was a double whammy: a disappointing fourth-quarter earnings report coupled with a shockingly low 2027 rate proposal from the Centers for Medicare & Medicaid Services (CMS). CMS Rate Shock The primary driver of the sell-off was the CMS 2027 Advance Notice, which proposed a net payment increase of just 0.09%. The basically flat rate figure was a staggering m",
+      "published_utc": "2026-01-28T12:31:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7ea8a07c6e0764a15f84be79f0b55e88a44531a06a906cc680de2794db34b803",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138285078,
+      "datetime": 1769621473
+    },
+    {
+      "title": "Why UnitedHealth Group Stock Just Bounced Back",
+      "description": "UnitedHealth stock crashed yesterday. This is your chance to buy.",
+      "published_utc": "2026-01-28T12:30:34",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6674d3af4a4cff1b57762778e42f4afed0a0e36399e146c05fc4f29eca7a3807",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138285079,
+      "datetime": 1769621434
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:13:43.281549+00:00",
+    "cache_key": "news_05896059604e43ef4be0ad650435cc33",
+    "count": 5
+  }
+}

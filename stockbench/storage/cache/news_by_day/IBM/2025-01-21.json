@@ -1,0 +1,158 @@
+{
+  "items": [
+    {
+      "id": "8a01430c48fe37b1cb6c14a17a881aed8cdc49db57ed6deae846321f0b5c143d",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Clickstream Analytics Market Projected to Exceed USD 1.71 Billion by 2025 | Straits Research",
+      "author": "N/A",
+      "published_utc": "2025-01-21T13:05:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/21/3012633/0/en/Clickstream-Analytics-Market-Projected-to-Exceed-USD-1-71-Billion-by-2025-Straits-Research.html",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "HPE",
+        "HPEpC",
+        "IBM",
+        "MSFT",
+        "ORCL",
+        "SAP"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/0772b43c-9649-415d-a2b8-bd58fd4badd8",
+      "description": "The global clickstream analytics market is projected to grow from $1.71 billion in 2025 to $4.84 billion by 2033, driven by the rise of e-commerce and the trend of predictive marketing. North America and Europe are expected to be the key regional markets.",
+      "keywords": [
+        "clickstream analytics",
+        "e-commerce",
+        "predictive marketing",
+        "North America",
+        "Europe"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Google LLC as a key player in the clickstream analytics market, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Google LLC as a key player in the clickstream analytics market, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "HPE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Hewlett Packard Enterprise as a key player in the clickstream analytics market, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "HPEpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Hewlett Packard Enterprise as a key player in the clickstream analytics market, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions IBM Corporation as a key player in the clickstream analytics market, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Microsoft Corporation as a key player in the clickstream analytics market, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Oracle Corporation has released a new clickstream analytics product, which suggests the company is actively investing in and expanding its capabilities in this market."
+        },
+        {
+          "ticker": "SAP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions SAP SE as a key player in the clickstream analytics market, but does not provide any specific information about the company's performance or outlook."
+        }
+      ]
+    },
+    {
+      "id": "945cdf40f9408d01b1744a2b19e749121d7d21b8ce1b29a582bfd57a2f0ac7a4",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Telecom Analytics Market Analysis, 2025-2030: Revenues Reached $7.07 Billion in 2024, and are Forecast to Cross $16.2 Billion by 2030",
+      "author": "Na",
+      "published_utc": "2025-01-21T09:58:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/21/3012416/28124/en/Telecom-Analytics-Market-Analysis-2025-2030-Revenues-Reached-7-07-Billion-in-2024-and-are-Forecast-to-Cross-16-2-Billion-by-2030.html",
+      "tickers": [
+        "ADBE",
+        "CSCO",
+        "SAP",
+        "HPE",
+        "HPEpC",
+        "IBM",
+        "MSFT",
+        "MSTR",
+        "ORCL"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The global telecom analytics market is expected to grow at a CAGR of 14.9% from 2025 to 2030, reaching $16.21 billion by 2030. The Asia-Pacific region is expected to see the highest growth, driven by increasing investments in advanced technologies like IoT and Big Data.",
+      "keywords": [
+        "telecom analytics",
+        "market analysis",
+        "Asia-Pacific",
+        "IoT",
+        "Big Data"
+      ],
+      "insights": [
+        {
+          "ticker": "ADBE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Adobe Inc. as one of the key players in the telecom analytics market, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "CSCO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Cisco Systems, Inc. as one of the key players in the telecom analytics market, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "SAP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions SAP SE as one of the key players in the telecom analytics market, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "HPE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Hewlett Packard Enterprise Development L.P. as one of the key players in the telecom analytics market, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "HPEpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Hewlett Packard Enterprise Development L.P. as one of the key players in the telecom analytics market, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions IBM as one of the key players in the telecom analytics market, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Microsoft as one of the key players in the telecom analytics market, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "MSTR",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions MicroStrategy Incorporated as one of the key players in the telecom analytics market, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Oracle as one of the key players in the telecom analytics market, but does not provide any specific information about the company's performance or outlook."
+        }
+      ]
+    }
+  ]
+}

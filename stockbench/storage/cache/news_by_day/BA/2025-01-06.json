@@ -1,0 +1,72 @@
+{
+  "items": [
+    {
+      "id": "43fd9fa020750e2469497a8022e85c3bf17b42e6d56ada0553aca66933d86e85",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Carbon Fiber Reinforced Plastics (CFRP) Market to Reach USD 32.80 Billion by 2032 | CFRP's Role in Revolutionizing Aerospace and Automotive Efficiency",
+      "author": "Sns Insider",
+      "published_utc": "2025-01-06T14:52:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/06/3004751/0/en/Carbon-Fiber-Reinforced-Plastics-CFRP-Market-to-Reach-USD-32-80-Billion-by-2032-CFRP-s-Role-in-Revolutionizing-Aerospace-and-Automotive-Efficiency.html",
+      "tickers": [
+        "HXL",
+        "OC",
+        "HUN",
+        "BA",
+        "BApA",
+        "TM",
+        "TSLA"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The Carbon Fiber Reinforced Plastics (CFRP) market is expected to grow significantly, driven by the increasing adoption of CFRP in the aerospace and automotive industries due to its lightweight and high-strength properties, which enhance fuel efficiency and performance.",
+      "keywords": [
+        "Carbon Fiber Reinforced Plastics",
+        "CFRP",
+        "Aerospace",
+        "Automotive",
+        "Efficiency"
+      ],
+      "insights": [
+        {
+          "ticker": "HXL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Hexcel Corporation is listed as a key player in the CFRP market, suggesting its importance and participation in the industry."
+        },
+        {
+          "ticker": "OC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article includes Owens Corning as a key player in the CFRP market, suggesting its involvement and contribution to the industry."
+        },
+        {
+          "ticker": "HUN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Huntsman Corporation as a key player in the CFRP market, indicating its significant role and presence in the industry."
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article includes Boeing as a key player in the CFRP market, suggesting its involvement and contribution to the industry."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article includes Boeing as a key player in the CFRP market, suggesting its involvement and contribution to the industry."
+        },
+        {
+          "ticker": "TM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Toyota as a key player in the CFRP market, indicating its significant role and presence in the industry."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Tesla as a key player in the CFRP market, highlighting its importance and participation in the industry."
+        }
+      ]
+    }
+  ]
+}

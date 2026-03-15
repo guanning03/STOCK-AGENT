@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Why Circle Stock Jumped Today",
+      "description": "A digital payments giant is embracing stablecoins.",
+      "published_utc": "2025-12-16T17:41:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6f26766bbc9ea70b268924358052da806b520ac1ec60fde500d99d3a535a52d3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137806021,
+      "datetime": 1765924889
+    },
+    {
+      "title": "Moving Money 24/7 Across Institutions: Visa Head Of Crypto",
+      "description": "Visa will allow US institutions to settle transactions using Circle's USDC token over the Solana blockchain. Cuy Sheffield, Head of Crypto at Visa discusses his outlook on this change and how on-chain settlement is already live and growing, with rising demand from global clients using stablecoins. He had the conversation on \"Bloomberg Markets\" with Scarlet Fu and Tim Stenovec.",
+      "published_utc": "2025-12-16T14:31:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c72d384142d14e102d1e4108038dae0b46b3e8dfcca2c9c4d5c9f843ee5630e3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137806022,
+      "datetime": 1765913478
+    },
+    {
+      "title": "Visa Launches Stablecoin Settlement for U.S. Banks. Circle Stock Is the Big Winner.",
+      "description": "FEATURE   Visa will allow banks in the U.S. to settle transactions with Visa using USDC the stablecoin, the payments provider announced Tuesday, marking a big win for Circle Internet Group  The move is part of Visa’s stablecoin settlement pilot program.",
+      "published_utc": "2025-12-16T14:26:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dc10ea27f725ddede8328b33c5c873ae6b47cd99f736852ce1ac93d5c7c6a364",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137806023,
+      "datetime": 1765913160
+    },
+    {
+      "title": "Ripple President Monica Long Says Stablecoins to Move From Pilot to Production by 2026",
+      "description": "Stablecoins are poised to become a foundational layer of global finance over the next two years, according to Ripple President Monica Long, who says the asset class is shifting from experimental pilots to full-scale production across mainstream payments.In commentary outlining her expectations through 2026, Long argues that stablecoins are no ...",
+      "published_utc": "2025-12-16T12:58:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a73a0f81634ce89a7d919bbc561c8d8e34ab9aca9caea096341dbb908ca361c5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137806024,
+      "datetime": 1765907897
+    },
+    {
+      "title": "Visa Begins US Stablecoin Settlement via USDC on Solana",
+      "description": "Visa is expanding its stablecoin settlements to the U.S. using USDC for settlement on the Solana blockchain with its first two partners.",
+      "published_utc": "2025-12-16T11:13:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c46c1f2ef4f5fe5fbe04805f977726543ec2737b9b759012151fa08bae7035f8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137806025,
+      "datetime": 1765901610
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:42:00.055532+00:00",
+    "cache_key": "news_2c15bb7cb0305089cd6b86bf40441c69",
+    "count": 5
+  }
+}

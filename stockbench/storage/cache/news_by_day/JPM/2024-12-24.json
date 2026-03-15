@@ -1,0 +1,125 @@
+{
+  "items": [
+    {
+      "id": "b43181466a2ab9905ddb6b1aefa2b0bd7614337b7046f76d5a6de123a81944bb",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Think SoFi Is Expensive? This Chart Might Change Your Mind.",
+      "author": "Jennifer Saibil",
+      "published_utc": "2024-12-24T09:20:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/24/think-sofi-is-expensive-this-chart-might-change-yo/?source=iedfolrf0000001",
+      "tickers": [
+        "SOFI",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "WFC",
+        "WFCpA",
+        "WFCpC",
+        "WFCpD",
+        "WFCpL",
+        "WFCpY",
+        "WFCpZ"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799365/students-looking-at-their-phones-together.jpg",
+      "description": "SoFi Technologies, a fast-growing fintech platform, may appear expensive at first glance, but its strong growth and innovative business model make it an attractive investment opportunity compared to traditional banks.",
+      "keywords": [
+        "SoFi Technologies",
+        "fintech",
+        "banking",
+        "valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "SOFI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights SoFi's strong growth, profitability, and innovative business model, which make it an attractive investment despite its seemingly high valuation. The article suggests that SoFi's growth potential and differentiated fintech approach justify a premium valuation compared to traditional banks."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares SoFi's revenue growth to that of JPMorgan Chase, noting that SoFi's revenue has grown much faster. However, the article does not provide a clear sentiment on JPMorgan Chase itself."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares SoFi's revenue growth to that of JPMorgan Chase, noting that SoFi's revenue has grown much faster. However, the article does not provide a clear sentiment on JPMorgan Chase itself."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares SoFi's revenue growth to that of JPMorgan Chase, noting that SoFi's revenue has grown much faster. However, the article does not provide a clear sentiment on JPMorgan Chase itself."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares SoFi's revenue growth to that of JPMorgan Chase, noting that SoFi's revenue has grown much faster. However, the article does not provide a clear sentiment on JPMorgan Chase itself."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares SoFi's revenue growth to that of JPMorgan Chase, noting that SoFi's revenue has grown much faster. However, the article does not provide a clear sentiment on JPMorgan Chase itself."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares SoFi's revenue growth to that of JPMorgan Chase, noting that SoFi's revenue has grown much faster. However, the article does not provide a clear sentiment on JPMorgan Chase itself."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares SoFi's revenue growth to that of JPMorgan Chase, noting that SoFi's revenue has grown much faster. However, the article does not provide a clear sentiment on JPMorgan Chase itself."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares SoFi's revenue growth to that of JPMorgan Chase, noting that SoFi's revenue has grown much faster. However, the article does not provide a clear sentiment on JPMorgan Chase itself."
+        },
+        {
+          "ticker": "WFC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares SoFi's revenue growth to that of Wells Fargo, noting that SoFi's revenue has grown much faster. However, the article does not provide a clear sentiment on Wells Fargo itself."
+        },
+        {
+          "ticker": "WFCpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares SoFi's revenue growth to that of Wells Fargo, noting that SoFi's revenue has grown much faster. However, the article does not provide a clear sentiment on Wells Fargo itself."
+        },
+        {
+          "ticker": "WFCpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares SoFi's revenue growth to that of Wells Fargo, noting that SoFi's revenue has grown much faster. However, the article does not provide a clear sentiment on Wells Fargo itself."
+        },
+        {
+          "ticker": "WFCpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares SoFi's revenue growth to that of Wells Fargo, noting that SoFi's revenue has grown much faster. However, the article does not provide a clear sentiment on Wells Fargo itself."
+        },
+        {
+          "ticker": "WFCpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares SoFi's revenue growth to that of Wells Fargo, noting that SoFi's revenue has grown much faster. However, the article does not provide a clear sentiment on Wells Fargo itself."
+        },
+        {
+          "ticker": "WFCpY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares SoFi's revenue growth to that of Wells Fargo, noting that SoFi's revenue has grown much faster. However, the article does not provide a clear sentiment on Wells Fargo itself."
+        },
+        {
+          "ticker": "WFCpZ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares SoFi's revenue growth to that of Wells Fargo, noting that SoFi's revenue has grown much faster. However, the article does not provide a clear sentiment on Wells Fargo itself."
+        }
+      ]
+    }
+  ]
+}

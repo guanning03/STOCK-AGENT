@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "This Ohio-Based Company's Stock Is Up Over 850% in the Past 5 Years. Is Now the Best Time to Buy?",
+      "description": "A partnership with Nvidia has helped supercharge this Ohio business' prospects.",
+      "published_utc": "2025-10-26T17:46:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ffcbb1ad3116037516d90a6acf4c4fc038772337949db1d0140a2587c66146bd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137215706,
+      "datetime": 1761515160
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:59:59.541462+00:00",
+    "cache_key": "news_ca40dbec9785fe3873350a4f04bf7481",
+    "count": 1
+  }
+}

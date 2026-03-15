@@ -1,0 +1,244 @@
+{
+  "items": [
+    {
+      "id": "80f6c21c61b98c8b4284c8b60ad76db4425ee7fd300395f669043c6d71c22f13",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Expand Your Awareness Of The World Around You With 500 Meticulously Curated Multicultural Teachings and Proverbs",
+      "author": "Sharron Montague Loree",
+      "published_utc": "2025-01-07T17:53:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/07/3005765/0/en/Expand-Your-Awareness-Of-The-World-Around-You-With-500-Meticulously-Curated-Multicultural-Teachings-and-Proverbs.html",
+      "tickers": [
+        "AMZN"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/3a7b6ac7-cc64-4e59-a0b0-91824206b16c",
+      "description": "Sharron Montague Loree, a painter and author, has compiled over 500 unique proverbs from around the world in her book 'This Emerging Wisdom'. The proverbs illustrate meaningful life lessons and can help readers grow their self-awareness.",
+      "keywords": [
+        "proverbs",
+        "multicultural wisdom",
+        "self-awareness"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The book is available for purchase on Amazon.com, indicating it is widely accessible to readers."
+        }
+      ]
+    },
+    {
+      "id": "f8ebdec6c48656495cb96b33e67b8bafc7bdee974de1d8134aa0a7aef1af08d7",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Cathie Wood Goes Bargain Hunting: 3 Stocks She Just Bought",
+      "author": "Rick Munarriz",
+      "published_utc": "2025-01-07T16:55:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/07/cathie-wood-goes-bargain-hunting-3-stocks-she-just/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "GTLB",
+        "PACB"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803127/gettyimages-576603370.jpg",
+      "description": "Ark Invest has been adding to its positions in Amazon, GitLab, and Pacific Biosciences of California. Amazon's stock hit an all-time high last month, and analysts see further upside. GitLab's recent financial results exceeded expectations, while Pacific Biosciences has struggled but Ark remains a believer in its long-term potential.",
+      "keywords": [
+        "Amazon",
+        "GitLab",
+        "Pacific Biosciences of California",
+        "Ark Invest",
+        "stock market"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon's stock has been performing well, hitting an all-time high last month. Analysts see further upside potential, with one analyst raising the price target to $260 and another to $270, implying 14% and 19% upside, respectively. The article notes that Amazon's net sales growth may slow, but it should continue to be a bottom-line growth story."
+        },
+        {
+          "ticker": "GTLB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "GitLab's recent financial results exceeded expectations, with revenue growth of 31% and earnings beating estimates by 44%. The company also raised its guidance for the full fiscal year, indicating strong performance. While the stock declined 10% in 2024, the article suggests that GitLab has not fallen out of favor, with analysts raising their price targets after the strong results."
+        },
+        {
+          "ticker": "PACB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Pacific Biosciences of California's stock plummeted 81% in 2024, and the company has faced challenges, with revenue growth turning negative. However, the article notes that Ark Invest has been a buyer of the stock, suggesting the firm believes in the long-term potential of the gene sequencing industry, despite the recent struggles."
+        }
+      ]
+    },
+    {
+      "id": "21d7f1803d467d3252aa1e6f2b26d8614fa1b49339866a2ddc7ccb6d72b531e1",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Best Stocks to Buy for 2025: Amazon Stock vs. Costco Stock",
+      "author": "Parkev Tatevosian, Cfa",
+      "published_utc": "2025-01-07T16:13:42Z",
+      "article_url": "https://www.fool.com/investing/2025/01/07/best-stocks-to-buy-for-2025-amazon-stock-vs-costco/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "COST"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803067/retired-man-finances-laptop-review.jpg",
+      "description": "The article compares Amazon and Costco, two excellent businesses, to determine which is the better investment. It provides analysis and insights to help readers make an informed decision.",
+      "keywords": [
+        "Amazon",
+        "Costco",
+        "investment",
+        "comparison"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide a clear sentiment on Amazon, as it is simply comparing it to Costco without making a definitive recommendation."
+        },
+        {
+          "ticker": "COST",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide a clear sentiment on Costco, as it is simply comparing it to Amazon without making a definitive recommendation."
+        }
+      ]
+    },
+    {
+      "id": "72418a308a9df3a5da938bab6d7b300bcc1cd370b152ce122a6d539aed573f9d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "If I Could Buy Only 1 \"Magnificent Seven\" Stock in 2025, This Would Be It",
+      "author": "Adam Spatacco",
+      "published_utc": "2025-01-07T16:13:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/07/if-i-could-only-buy-1-magnificent-seven-stock-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "MSFT",
+        "NVDA",
+        "TSLA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802939/gettyimages-1903282976.jpg",
+      "description": "The article discusses Amazon as the top pick among the 'Magnificent Seven' tech stocks, citing its strong partnership with AI startup Anthropic and the potential for AI to transform its entire business ecosystem. The author believes Amazon's current valuation presents a compelling opportunity for investors.",
+      "keywords": [
+        "Amazon",
+        "Anthropic",
+        "Artificial Intelligence",
+        "Magnificent Seven"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Amazon's strong partnership with Anthropic, which is leveraging Amazon's cloud and chip infrastructure to develop its AI models. The author believes Amazon's AI investments across its e-commerce, cloud, and other business segments provide significant long-term growth potential, and the current valuation is attractive compared to historical levels."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Microsoft is the only 'Magnificent Seven' stock that did not outperform the S&P 500 and Nasdaq Composite last year, but the author does not provide any specific commentary on Microsoft."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article briefly mentions Nvidia as a popular semiconductor stock, but does not provide any further analysis or sentiment on the company."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article notes that Tesla is known for its work in self-driving cars and humanoid robotics, but does not offer any specific commentary on the company."
+        }
+      ]
+    },
+    {
+      "id": "41bd330a6c91c97271ea430509c98abecbe9989e008809f8d8a7c556178201c8",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "These Were the 5 Top-Performing Stocks in the Dow Jones Industrial Average in 2024",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-07T15:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/07/these-were-the-5-top-performing-stocks-in-the-dow/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "WMT",
+        "AXP",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802374/2024-on-a-financial-chart.jpg",
+      "description": "The article discusses the top-performing Dow Jones stocks of 2024, including Nvidia, Walmart, American Express, and Goldman Sachs. It highlights the factors that contributed to their strong performance, such as AI enthusiasm, e-commerce growth, and consistent earnings growth.",
+      "keywords": [
+        "Dow Jones",
+        "stock performance",
+        "Nvidia",
+        "Walmart",
+        "American Express",
+        "Goldman Sachs"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia was the best-performing Dow Jones stock in 2024, benefiting from enthusiasm surrounding artificial intelligence (AI)."
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Walmart's e-commerce initiatives showed success in 2024, with strong comparable sales growth in the U.S. and international businesses."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "American Express remained a prominent position in the Berkshire Hathaway portfolio, providing investors with reasons to buy the stock."
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Goldman Sachs achieved consistent year-over-year earnings-per-share growth, which was one of the reasons why investors chose to buy the banking stock."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Goldman Sachs achieved consistent year-over-year earnings-per-share growth, which was one of the reasons why investors chose to buy the banking stock."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Goldman Sachs achieved consistent year-over-year earnings-per-share growth, which was one of the reasons why investors chose to buy the banking stock."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Goldman Sachs achieved consistent year-over-year earnings-per-share growth, which was one of the reasons why investors chose to buy the banking stock."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon stock rose notably in 2024, as investors were attracted to its prominent position in AI and its commanding e-commerce presence."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:25:24.404507+00:00",
+    "cache_key": "news_89c1ab170c2c73ede9b55f63d328b1ac",
+    "count": 5
+  }
+}

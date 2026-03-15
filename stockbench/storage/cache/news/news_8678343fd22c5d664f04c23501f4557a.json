@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Tracking Ken Fisher's Fisher Asset Management Portfolio - Q4 2025 Update",
+      "description": "",
+      "published_utc": "2026-02-09T14:12:28",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0abbb3227bd515de67f1b934418308e121aad51e8be139c6280bd23e929b33b0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138899241,
+      "datetime": 1770664348
+    },
+    {
+      "title": "Dow extends record, S&P 500 rises as software shares bounce: Live updates",
+      "description": "Tech stocks rallied Monday, building on their Friday comeback and helping lift the overall market.",
+      "published_utc": "2026-02-09T13:12:29",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=cf280f1898627b885e4b902bf3ef2058781c3fd5f56123d7b096c1f9adce9f90",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108262785-1770411351481-108262785-17704095742026-02-06t202512z_1722185053_rc2igjazwzau_rtrmadp_0_usa-stocks.jpeg?v=1770411369&w=1920&h=1080",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139032827,
+      "datetime": 1770660749
+    },
+    {
+      "title": "Visa Q1 Earnings: Growth Engine Roars, Stablecoin Dilemma Looms",
+      "description": "V's fiscal Q1 beat showcases strong volume growth and rising services momentum, but stablecoin uncertainty adds a fresh layer of strategic debate.",
+      "published_utc": "2026-02-09T12:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0858032788e366c073c7ecb2ef2a50d862a7d2db1459aa7a644cf6b6397992cf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138693773,
+      "datetime": 1770657000
+    },
+    {
+      "title": "This Buffett Stock Has Crushed the Market During the Past 5 Years. Here's Why It's Still a Buy Today.",
+      "description": "American Express is investing in the future.",
+      "published_utc": "2026-02-09T05:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1f2079e377a620123cdd0ecf2e7b25dff59a03faccff5e212246a42afdcc51c7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138401142,
+      "datetime": 1770631500
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:50:37.520723+00:00",
+    "cache_key": "news_8678343fd22c5d664f04c23501f4557a",
+    "count": 4
+  }
+}

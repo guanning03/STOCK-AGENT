@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Morgan Stanley Maintains Caterpillar (CAT) Underweight Recommendation",
+      "description": "",
+      "published_utc": "2025-12-10T18:30:38",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=798ea3d59d1aaa4db2785a159b0da4b2978b3b4d3a8e95ad91e65355c91397fb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137752121,
+      "datetime": 1765409438
+    },
+    {
+      "title": "Stock Market Today: Indexes Eye Record Highs On Fed Rate Cut, Powell's Comments; Palantir Jumps (Live Coverage)",
+      "description": "Stock Market Today: The Dow Jones index rises Wednesday after the Fed rate cut. Microsoft stock sold off.",
+      "published_utc": "2025-12-10T16:32:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=53193e008199c611e26b23f08cd9c23663ba42de90b82ebb146c8306450ba0de",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137755721,
+      "datetime": 1765402333
+    },
+    {
+      "title": "Jim Cramer names stocks to buy in the wake of the Fed's rate cut",
+      "description": "CNBC's Jim Cramer explains what the Fed's rate cuts means for stocks.",
+      "published_utc": "2025-12-10T13:29:40",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=1b014d7d6db99bb40c7afed9fa33cf87edaafff911ecf15157a909b1c2dec719",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/107113454-NUP_198430_00638r.jpg?v=1695164732&w=1920&h=1080",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137759265,
+      "datetime": 1765391380
+    },
+    {
+      "title": "Deere Calls 2026 the Bottom as Caterpillar Rides Energy Growth Past Estimates",
+      "description": "Caterpillar (NYSE: CAT) and Deere & Company (NYSE: DE) both reported results showing the same headwinds hitting in very different ways. Caterpillar beat estimates with modest earnings pressure. Deere missed badly, with full-year net income down 29% as the agricultural downcycle crushed core segments. One Diversifies Through the Storm. One Takes It on the Chin. ... Deere Calls 2026 the Bottom as Caterpillar Rides Energy Growth Past Estimates",
+      "published_utc": "2025-12-10T11:59:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=607de8ccea3076c85ee768d868d54702e77ecf82a1527558227cf108c255e6a0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137750037,
+      "datetime": 1765385957
+    },
+    {
+      "title": "Construction Slump to Continue Through 2026 With Recovery Expected in 2027, Morgan Stanley Says",
+      "description": "US non-residential construction spending is expected to remain under pressure through 2026 before re",
+      "published_utc": "2025-12-10T11:23:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7242a3d6e6be8b5368a23e3218aacd3bdea3caa5e8bb257ec8f8938a828a4b37",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137750038,
+      "datetime": 1765383794
+    }
+  ]
+}

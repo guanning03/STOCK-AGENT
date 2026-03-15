@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Visa reports surprising earnings, eyes stablecoins",
+      "description": "Visa reports a strong Q3 with earnings and revenue beating expectations, driven by robust consumer spending and transaction growth.",
+      "published_utc": "2025-07-29T19:35:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=426df5f6a4b08f359479ffdd67d990fa5881d51b4cf22257cbbe9f0b05a95d38",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136129665,
+      "datetime": 1753832141
+    },
+    {
+      "title": "Visa Inc. 2025 Q3 - Results - Earnings Call Presentation",
+      "description": "",
+      "published_utc": "2025-07-29T19:26:27",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e98f268b44a157ffaacfe04c3b6f7af956204834b831aef06d5f7b35fac786fe",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136127080,
+      "datetime": 1753831587
+    },
+    {
+      "title": "Visa Inc. (V) Q3 2025 Earnings Call Transcript",
+      "description": "",
+      "published_utc": "2025-07-29T19:25:29",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b19efae8a9c69e433fdcfd4b5df89c4f55687ca15a694fe5b454ec0c5a3432cb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136127081,
+      "datetime": 1753831529
+    },
+    {
+      "title": "Markets Give Up Gains Amid Major News Week",
+      "description": "Q2 earnings reports, while demonstrating a healthy quarter overall, has begun to show some dents in the armor, especially in non-Big Tech spaces.",
+      "published_utc": "2025-07-29T18:02:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aac3cc8b0b6c2a124cb87a3f9b6510baef5dba421b734dbf99d9ea4deab207de",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136129666,
+      "datetime": 1753826520
+    },
+    {
+      "title": "Visa (V) Reports Q3 Earnings: What Key Metrics Have to Say",
+      "description": "Although the revenue and EPS for Visa (V) give a sense of how its business performed in the quarter ended June 2025, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
+      "published_utc": "2025-07-29T18:00:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c41db2a2360425c0b369a6d424752052de1241d52da7fc7c6de5e9a3d3b65781",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136129667,
+      "datetime": 1753826402
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:18:07.168072+00:00",
+    "cache_key": "news_aaede5430544b9b658854dd329ccde31",
+    "count": 5
+  }
+}

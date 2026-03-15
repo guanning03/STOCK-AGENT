@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Chase’s newest Sapphire Lounge, complete with champagne service, makes a case for its $795 price tag",
+      "description": "Locked in a rewards arms race with Citi, Amex, and Capital One, the finance giant leans into lavishness for its new lounge at the Harry Reid Airport.",
+      "published_utc": "2025-12-02T15:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=633edfcf925d9dd9f3fa8173c14c708ea7cc398adee789fec17486f0ef98e19a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137677917,
+      "datetime": 1764705600
+    },
+    {
+      "title": "Mastercard: 4 Reasons Why The Stock Is A Strong Buy",
+      "description": "Discover why Mastercard is rated a Strong Buy, offering high margins, a wide moat, and attractive valuation.",
+      "published_utc": "2025-12-02T14:05:27",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=212c1cebe11824d43f3b2605d91ff554232e006e1e9d1f0232dcc89013d8600e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/520548260/image_520548260.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137665292,
+      "datetime": 1764702327
+    },
+    {
+      "title": "Dow rises as investors shake off weak jobs data, Microsoft decline: Live updates",
+      "description": "Stocks ended higher across the board on Tuesday as several tech stocks and bitcoin gained.",
+      "published_utc": "2025-12-02T13:05:08",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=41097fadb43a7a6bdbffc262e6be014411f1aad8668b4aa3dbabe510e5fc59a2",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108235931-1764773610586-gettyimages-2249102661-AFP_86YD9MF.jpeg?v=1764773625&w=1920&h=1080",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137672299,
+      "datetime": 1764698708
+    },
+    {
+      "title": "Warren Buffett’s 52% Portfolio Rests on These Three Dividend Giants",
+      "description": "A globally recognized investor, Warren Buffett is one of the greatest investors of all time. He identifies stocks at the right time, and his investments have paid off for years. While it can be interesting to follow his decisions, you must be cautious when you mimic a billionaire’s moves. Based on the recent 13F filing, ... Warren Buffett’s 52% Portfolio Rests on These Three Dividend Giants",
+      "published_utc": "2025-12-02T12:37:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a14d7fe3a53f5852219e86580e3b8191a790fb2b3f5907eda5a1356db6caf9d8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137667792,
+      "datetime": 1764697034
+    },
+    {
+      "title": "Preview the Chase Sapphire Lounge at Las Vegas International Airport — and learn how to get in",
+      "description": "The new Chase Sapphire Lounge at Harry Reid International Airport in Las Vegas features complimentary food, drinks and a new champagne parlor.",
+      "published_utc": "2025-12-02T10:01:01",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=42b3f5601cc7f8f990ee21765de20308154e2db05359b790cd11e38b85761e36",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108232638-1764178177029-LAS_CSLBTC_7.jpg?v=1764178422&w=1920&h=1080",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137672340,
+      "datetime": 1764687661
+    }
+  ]
+}

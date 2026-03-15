@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Prediction: 2025's Second-Worst-Performing Dow Jones Stock Will Beat the Market in 2026",
+      "description": "Salesforce can still be a winning long-term investment, even if it isn't the high-octane growth stock it used to be.",
+      "published_utc": "2025-11-30T13:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fbf6abe158243aa370fb59b1c168942c6fb9e353be06f98cf93cb382f9e166b1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137650012,
+      "datetime": 1764525660
+    },
+    {
+      "title": "Reuters Reported UnitedHealth Group Agreed To Sell South American Unit Banmedica To Patria Investments For $1B, With Final Agreement Signed Saturday, Announcement Expected Monday",
+      "description": "",
+      "published_utc": "2025-11-30T09:25:02",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=c99846f9a7996644230fce37c1e5dae18153865dc8c088ead36fb7a533edc3e5",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138442013,
+      "datetime": 1764512702
+    },
+    {
+      "title": "American Century Ultra Fund Q3 2025 Contributors/Detractors And Notable Trades",
+      "description": "Googleâs parent company received a relatively benign antitrust ruling that would not force Alphabet to sell its Chrome browser or Android operating system. Read more here.",
+      "published_utc": "2025-11-30T04:23:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=92a294235162af7bc040cc3b3bd18078bf6f88b77eda695fb6fb19b9c1b8683c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2204922269/image_2204922269.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137644085,
+      "datetime": 1764494580
+    }
+  ]
+}

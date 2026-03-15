@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Berkshire Hathaway: Load Up While The Market Ignores",
+      "description": "Berkshire Hathaway is deploying its $344B cash pile into undervalued stocks like UnitedHealth, while trimming Apple and BAC. See why BRK.A stock is a buy.",
+      "published_utc": "2025-08-16T07:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5c2c7832af9597f5e63561027435663315325b3243b2b28b725390dbd4556d13",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/518096704/image_518096704.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136378753,
+      "datetime": 1755343800
+    },
+    {
+      "title": "Vulcan Value Partners Q2 2025 Letter",
+      "description": "Vulcan Value Partners navigated Q2 volatility with disciplined repositioning into discounted, stable-value stocks. Explore their strategy and portfolio moves now.",
+      "published_utc": "2025-08-16T07:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=12abdc81739c06110a2f8b09103d445f1ad49eeaf4f56a1591cf4292b0b57f3b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1434073578/image_1434073578.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136378639,
+      "datetime": 1755342000
+    },
+    {
+      "title": "Investing.com’s stocks of the week",
+      "description": "Investing.com -- It has been a very positive week for U.S. equities as earnings season winds down, with the S&P 500 hitting a new high. While Friday saw traders take some gains off the table, stocks appear poised to close the week higher.",
+      "published_utc": "2025-08-16T05:01:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=479c22c9e54389d0a6388604a88be7ba1599dd2bdc4519e2cd7666737559c058",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136376269,
+      "datetime": 1755334881
+    },
+    {
+      "title": "IHF: Attractive U.S. Healthcare Valuations Amid Sector's Recovery",
+      "description": "IHF offers exposure to large-cap healthcare, AI-driven growth, and demographic trends, with a recent dip creating a strong entry point. See why IHF ETF is a buy.",
+      "published_utc": "2025-08-16T04:30:05",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=304a91749c8146a8b0b289751ae6e4391498eba8fad75210d3b5227e763e200b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2154850841/image_2154850841.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136377773,
+      "datetime": 1755333005
+    },
+    {
+      "title": "Benzinga Bulls And Bears: Intel, UNH, Rigetti — And All Eyes On Powell",
+      "description": "Benzinga examined the prospects for many investors&#39; favorite stocks over the last week — here&#39;s a look at some of our top stories.",
+      "published_utc": "2025-08-16T04:01:43",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=59b2d2fe9c478d1e409a399fbc347e19d7ad6c0870464bf398b3cb614e32a152",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/08/16/Bulls-and-Bears-1.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138495993,
+      "datetime": 1755331303
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:13:05.501184+00:00",
+    "cache_key": "news_9e6edabb1492d6d4bc0710bc0129389d",
+    "count": 5
+  }
+}

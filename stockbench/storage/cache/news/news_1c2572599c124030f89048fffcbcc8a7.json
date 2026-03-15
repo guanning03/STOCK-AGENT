@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Oracle is under pressure from more than $100 billion in debt and massive layoffs as it pushes ahead with Larry Ellison’s 3-step transformation",
+      "description": "The Larry Ellison-led software giant is remaking its cloud infrastructure to rival Amazon and Microsoft.",
+      "published_utc": "2026-03-09T19:49:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=acb17f9e76b756f26ecfe6dc2ec4fac2c35d68eff15ae61121647a28585e286d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139358982,
+      "datetime": 1773100156
+    },
+    {
+      "title": "Prediction: The Artificial Intelligence (AI) Pick-and-Shovel Trade Isn't Over. Here Are 2 Stocks to Buy for 2026",
+      "description": "Artificial intelligence spending is only going up across the whole of the tech industry. These two companies stand to benefit from all of it.",
+      "published_utc": "2026-03-09T18:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3b400212beb9af7ba64e93e9372a1692faf43e62a0e96bd5832f316f6992f085",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139357224,
+      "datetime": 1773093780
+    },
+    {
+      "title": "3 Reasons Investors Love Synchrony Financial (SYF)",
+      "description": "Over the past six months, Synchrony Financial’s stock price fell to $66.59. Shareholders have lost 12.5% of their capital, which is disappointing considering the S&P 500 has climbed by 4.8%. This might have investors contemplating their next move.",
+      "published_utc": "2026-03-09T17:39:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=89c65127586240dc917b357cc5a969454f1696b8e28edee7579fec614b9b09a9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139356301,
+      "datetime": 1773092356
+    },
+    {
+      "title": "Stock Market Today, March 9: Amazon Edges Higher on Zoox Robotaxi Expansion",
+      "description": "Zoox's robotaxi rollout and delivery network spotlight Amazon’s evolving logistics and AI strategy, today, March 9, 2026.",
+      "published_utc": "2026-03-09T17:22:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d9351fdad7ba0f95e97c301a3a4e2822d53e9d02350ca5d888b9b3a568230e39",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139356293,
+      "datetime": 1773091324
+    },
+    {
+      "title": "Oracle to report Q3 earnings as Wall Street questions AI spending",
+      "description": "Oracle will report its Q3 earnings after the bell on Tuesday.",
+      "published_utc": "2026-03-09T16:35:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=800ace391859bf23c83932ec120d087eafb462ed7a75567a2b8ee467c5deba8c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139356296,
+      "datetime": 1773088555
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T04:19:28.824637+00:00",
+    "cache_key": "news_1c2572599c124030f89048fffcbcc8a7",
+    "count": 5
+  }
+}

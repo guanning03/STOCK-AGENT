@@ -1,6 +1,236 @@
 {
   "items": [
     {
+      "id": "d8d48afd4a608fbd479acccef2ec9ac41b999a8f6b0e6037f7ee516dd7958ef7",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "VOCIC Launches AX12 Electric Toilet Lift Seat Enhancing Bathroom Safety and Independence",
+      "author": "N/A",
+      "published_utc": "2025-02-26T21:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/26/3033303/0/en/VOCIC-Launches-AX12-Electric-Toilet-Lift-Seat-Enhancing-Bathroom-Safety-and-Independence.html",
+      "tickers": [
+        "AMZN"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/37a0d186-8a27-40e7-a7ab-a0e4685acbd8",
+      "description": "The AX12 Electric Toilet Lift Seat is designed to provide added comfort, stability, and ease of use for individuals with mobility challenges, promoting greater bathroom safety and independence. It features a motorized lifting mechanism, ergonomic design, and safety features to enhance the bathroom experience.",
+      "keywords": [
+        "AX12",
+        "Electric Toilet Lift Seat",
+        "bathroom mobility",
+        "independence",
+        "safety"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that the AX12 Electric Toilet Lift Seat is available for purchase on the Amazon platform, indicating that Amazon is a distribution channel for this product."
+        }
+      ]
+    },
+    {
+      "id": "35002f5d831b8167ce12dbe509bf19c913abb73873ac1e7042ac131137f8760b",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "Amazon's $35B Robotics Bet: Redefining Retail Efficiency and Market Leadership",
+      "author": "The Tokenist",
+      "published_utc": "2025-02-26T20:24:00Z",
+      "article_url": "https://www.investing.com/analysis/amazons-35b-robotics-bet-redefining-retail-efficiency-and-market-leadership-200657774",
+      "tickers": [
+        "AMZN"
+      ],
+      "amp_url": "https://m.investing.com/analysis/amazons-35b-robotics-bet-redefining-retail-efficiency-and-market-leadership-200657774?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "Amazon is investing $35 billion to enhance its retail network with a focus on automation and robotics-powered warehouses, aiming to boost efficiency and delivery times. The company has also unveiled an updated version of its Alexa digital assistant with generative AI capabilities.",
+      "keywords": [
+        "Amazon",
+        "robotics",
+        "retail",
+        "Alexa",
+        "AI"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon is making a significant investment in robotics and AI to improve its retail operations, which is expected to enhance efficiency and competitiveness. The company is also upgrading its Alexa assistant with advanced AI features, which could lead to new revenue streams."
+        }
+      ]
+    },
+    {
+      "id": "d658c1ebf7b77887400cbbb39265ad08e809a0bb481b2362769d329c08e727dd",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "2 No-Brainer Warren Buffett Stocks to Buy Right Now",
+      "author": "Motley Fool",
+      "published_utc": "2025-02-26T14:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/26/2-no-brainer-warren-buffett-stocks-to-buy-now/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "V"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808095/gettyimages-1130455930-1.jpg",
+      "description": "Berkshire Hathaway's top long-term stock picks are Amazon and Visa. Amazon's diverse business model and leading position in cloud computing make it a strong investment, while Visa's network effect and high-margin transaction fees provide a solid foundation for growth.",
+      "keywords": [
+        "Berkshire Hathaway",
+        "Amazon",
+        "Visa",
+        "long-term investing"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon has a diverse business model, including e-commerce and cloud computing, and is well-positioned for long-term growth. Its revenue and profitability have been impressive, and it is a leading player in the growing cloud computing market."
+        },
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Visa benefits from a strong network effect, as it is the most widely accepted payment card globally. Its transaction-fee-based business model provides a high-margin, capital-light growth opportunity as digital payments continue to expand worldwide."
+        }
+      ]
+    },
+    {
+      "id": "50b06054411b5448400d9b4bbe4284e89551a27b5f283b3b4bd0a1c4973fea2e",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "Nvidia Q4 Earnings Preview: A Make-or-Break Moment for the AI Trade?",
+      "author": "Jesse Cohen",
+      "published_utc": "2025-02-26T14:20:00Z",
+      "article_url": "https://www.investing.com/analysis/nvidia-q4-earnings-preview-a-makeorbreak-moment-for-the-ai-trade-200657750",
+      "tickers": [
+        "NVDA",
+        "AMZN",
+        "MSFT",
+        "GOOG",
+        "GOOGL",
+        "META",
+        "AMD",
+        "AVGO",
+        "PLTR",
+        "SMCI"
+      ],
+      "amp_url": "https://m.investing.com/analysis/nvidia-q4-earnings-preview-a-makeorbreak-moment-for-the-ai-trade-200657750?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "Nvidia's Q4 earnings report will be a crucial test for the tech sector and the broader market, as investors assess the sustainability of the AI boom. A strong performance could boost sentiment, while a disappointment could trigger a market correction.",
+      "keywords": [
+        "Nvidia",
+        "AI",
+        "tech sector",
+        "earnings report"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that a strong Q4 earnings report and guidance from Nvidia could reignite investor enthusiasm for AI-related investments and potentially reverse the recent pullback in growth stocks."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Nvidia's dominance in AI and GPUs is fueled by robust demand from major tech players like Amazon, which are collectively pouring over $200 billion into AI infrastructure in 2025."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Nvidia's dominance in AI and GPUs is fueled by robust demand from major tech players like Microsoft, which are collectively pouring over $200 billion into AI infrastructure in 2025."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Nvidia's dominance in AI and GPUs is fueled by robust demand from major tech players like Alphabet, which are collectively pouring over $200 billion into AI infrastructure in 2025."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Nvidia's dominance in AI and GPUs is fueled by robust demand from major tech players like Alphabet, which are collectively pouring over $200 billion into AI infrastructure in 2025."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Nvidia's dominance in AI and GPUs is fueled by robust demand from major tech players like Meta, which are collectively pouring over $200 billion into AI infrastructure in 2025."
+        },
+        {
+          "ticker": "AMD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that if Nvidia beats expectations and raises guidance, it could boost sentiment across the tech sector, including semiconductor peers like AMD."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that if Nvidia beats expectations and raises guidance, it could boost sentiment across the tech sector, including semiconductor peers like Broadcom."
+        },
+        {
+          "ticker": "PLTR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that if Nvidia beats expectations and raises guidance, it could boost sentiment across the tech sector, including AI software stocks like Palantir."
+        },
+        {
+          "ticker": "SMCI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that if Nvidia beats expectations and raises guidance, it could boost sentiment across the tech sector, including AI software stocks like Super Micro Computer."
+        }
+      ]
+    },
+    {
+      "id": "40fadc399e74d054d1f78e6a8d344594f83f904486635fd6a337a4dcaba86610",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Alphabet's Cloud Segment Is Quickly Catching Amazon's Cloud Business",
+      "author": "Parkev Tatevosian, Cfa",
+      "published_utc": "2025-02-26T10:35:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/26/alphabets-cloud-segment-is-quickly-catching-amazon/?source=iedfolrf0000001",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808944/stock-market-person-studying-computer.jpg",
+      "description": "The Motley Fool is a financial services company dedicated to making the world smarter, happier, and richer. It reaches millions of people through its premium investing solutions, free guidance, market analysis, personal finance education, top-rated podcasts, and non-profit foundation.",
+      "keywords": [
+        "investing",
+        "financial services",
+        "cloud computing"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet is mentioned as a leader in the lucrative cloud computing business, indicating its strong position in the industry."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet is mentioned as a leader in the lucrative cloud computing business, indicating its strong position in the industry."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon is also mentioned as a leader in the cloud computing business, suggesting its strong performance in this growing market."
+        }
+      ]
+    },
+    {
       "title": "Alphabet: Cloud Growth Uncertainty And Declining Management Sentiment Concern, But It's Still Attractive",
       "description": "Alphabet's Q4 results highlight mixed performance: EPS beat, revenue missed. Read here for growth challenges, $75B capex concerns, and shifting market sentiment.",
       "published_utc": "2025-02-26T03:21:17",

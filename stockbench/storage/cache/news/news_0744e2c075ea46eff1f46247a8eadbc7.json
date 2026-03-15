@@ -1,0 +1,245 @@
+{
+  "items": [
+    {
+      "id": "54fab269c8e2c06cae2956dc2ccc55176612a6aaa873ed5c5ead4c9d25383e2b",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Stock Market Mistakes Investors Should Avoid in 2025",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-08T13:05:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/08/3-stock-market-mistakes-investors-avoid-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "MSFT",
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "TSLA",
+        "NVDA",
+        "META"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799988/gettyimages-1399376478-1200x793-9025b6f-2.jpg",
+      "description": "The article advises against making hasty investment decisions based on short-term market trends or political changes. It emphasizes the importance of maintaining a long-term investment strategy and avoiding the temptation to rotate in and out of sectors or companies that are temporarily underperforming.",
+      "keywords": [
+        "investment strategy",
+        "market cycles",
+        "short-term trends",
+        "long-term investing"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the combined market capitalization of Apple and other mega-cap growth stocks, which have seen a significant rally since 2022, indicating the potential for long-term growth."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the combined market capitalization of Microsoft and other mega-cap growth stocks, which have seen a significant rally since 2022, indicating the potential for long-term growth."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the combined market capitalization of Alphabet and other mega-cap growth stocks, which have seen a significant rally since 2022, indicating the potential for long-term growth."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the combined market capitalization of Alphabet and other mega-cap growth stocks, which have seen a significant rally since 2022, indicating the potential for long-term growth."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the combined market capitalization of Amazon and other mega-cap growth stocks, which have seen a significant rally since 2022, indicating the potential for long-term growth."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the combined market capitalization of Tesla and other mega-cap growth stocks, which have seen a significant rally since 2022, indicating the potential for long-term growth."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Nvidia as an example of a company that has successfully monetized AI and broken out to new highs, suggesting its potential for continued growth."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the combined market capitalization of Meta Platforms and other mega-cap growth stocks, which have seen a significant rally since 2022, indicating the potential for long-term growth."
+        }
+      ]
+    },
+    {
+      "id": "3516baef36fec41241cae76ffebd70c207cea234680c3404fbe985ffb0d2fb98",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is It Safe to Invest in the Stock Market Right Now? Here's What Warren Buffett Is Doing.",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-08T09:53:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/08/is-it-safe-to-invest-in-the-stock-market-right-now/?source=iedfolrf0000001",
+      "tickers": [
+        "BRK.A",
+        "BRK.B",
+        "AAPL",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK",
+        "DPZ",
+        "HEI",
+        "HEI.A",
+        "POOL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800111/buffett17-tmf.jpg",
+      "description": "The article discusses the current state of the stock market, which is considered overvalued by various experts. It examines Warren Buffett's approach, who is being cautious by selling some stocks, building a large cash stockpile, and being selective in his investments.",
+      "keywords": [
+        "stock market",
+        "Warren Buffett",
+        "investing",
+        "valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "BRK.A",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett is not panicking and has Berkshire Hathaway heavily invested in stocks, but he has been a net seller of stocks for eight consecutive quarters, indicating he is apprehensive about valuations."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett is not panicking and has Berkshire Hathaway heavily invested in stocks, but he has been a net seller of stocks for eight consecutive quarters, indicating he is apprehensive about valuations."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has slashed Berkshire Hathaway's stake in Apple, suggesting he is being more selective in his investments."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has slashed Berkshire Hathaway's stake in Bank of America, suggesting he is being more selective in his investments."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has slashed Berkshire Hathaway's stake in Bank of America, suggesting he is being more selective in his investments."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has slashed Berkshire Hathaway's stake in Bank of America, suggesting he is being more selective in his investments."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has slashed Berkshire Hathaway's stake in Bank of America, suggesting he is being more selective in his investments."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has slashed Berkshire Hathaway's stake in Bank of America, suggesting he is being more selective in his investments."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has slashed Berkshire Hathaway's stake in Bank of America, suggesting he is being more selective in his investments."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has slashed Berkshire Hathaway's stake in Bank of America, suggesting he is being more selective in his investments."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has slashed Berkshire Hathaway's stake in Bank of America, suggesting he is being more selective in his investments."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has slashed Berkshire Hathaway's stake in Bank of America, suggesting he is being more selective in his investments."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has slashed Berkshire Hathaway's stake in Bank of America, suggesting he is being more selective in his investments."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has slashed Berkshire Hathaway's stake in Bank of America, suggesting he is being more selective in his investments."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has slashed Berkshire Hathaway's stake in Bank of America, suggesting he is being more selective in his investments."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has slashed Berkshire Hathaway's stake in Bank of America, suggesting he is being more selective in his investments."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has slashed Berkshire Hathaway's stake in Bank of America, suggesting he is being more selective in his investments."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has slashed Berkshire Hathaway's stake in Bank of America, suggesting he is being more selective in his investments."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has slashed Berkshire Hathaway's stake in Bank of America, suggesting he is being more selective in his investments."
+        },
+        {
+          "ticker": "DPZ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Buffett has bought Domino's Pizza, indicating he sees value in some stocks."
+        },
+        {
+          "ticker": "HEI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Buffett has bought Heico, indicating he sees value in some stocks."
+        },
+        {
+          "ticker": "HEI.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Buffett has bought Heico, indicating he sees value in some stocks."
+        },
+        {
+          "ticker": "POOL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Buffett has bought Pool, indicating he sees value in some stocks."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:04:49.675491+00:00",
+    "cache_key": "news_0744e2c075ea46eff1f46247a8eadbc7",
+    "count": 2
+  }
+}

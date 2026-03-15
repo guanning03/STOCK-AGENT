@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today, March 11: Oracle Surges After Earnings Beat and Upbeat Long-Term Revenue Guidance",
+      "description": "Today, March 11, 2026, investors are weighing blockbuster cloud and AI growth against massive data center spending and cash flow pressure.",
+      "published_utc": "2026-03-11T17:31:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9823b13a95b27be9af60401db8c0856015334e6d529817498b564272fccd433e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139382398,
+      "datetime": 1773264701
+    },
+    {
+      "title": "Lam Research IBM Alliance Targets Sub 1nm Logic And AI Chip Demand",
+      "description": "Lam Research (NasdaqGS:LRCX) has entered a long-term collaboration with IBM focused on next-generation semiconductor technologies. The partnership targets sub-1nm logic scaling through joint work on advanced materials, fabrication processes, and High NA EUV lithography. The alliance aims to support future semiconductor roadmaps and deepen Lam Research's engagement with research partners and customers. Lam Research, a key provider of wafer fabrication equipment and services, sits at the...",
+      "published_utc": "2026-03-11T17:19:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=255c796a7797bd0aa86741120092c15f813900d6e4ac30c2bc51dc9af82a7acb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139382467,
+      "datetime": 1773263951
+    },
+    {
+      "title": "REPLAY: Fireside Chat with Xanadu Founder & CEO Christian Weedbrook",
+      "description": "Watch Xanadu Fireside Chat Below: IPO Edge hosted a fireside chat with Xanadu on March 11, 2026. The live event featured Christian Weedbrook, founder and Chief Executive Officer of Xanadu, […]",
+      "published_utc": "2026-03-11T17:08:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1d680bf5b6a6eaba05938b2a8a6a994253cc9611233225f46a7a5d678ff4d6ca",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139382407,
+      "datetime": 1773263312
+    },
+    {
+      "title": "E.SUN BANK Partners with IBM to Launch Enterprise-Grade AI Governance Framework and AI Governance White Paper for Banking",
+      "description": "E.SUN BANK has partnered with IBM (NYSE: IBM) Consulting to develop Taiwan's first enterprise-grade AI governance framework for the financial sector, establishing new standards for responsible AI adoption in banking.",
+      "published_utc": "2026-03-11T15:02:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=db2fd2670d335e03d908cb694a90bd3e401619770d8a937589dd3ef7afbd4760",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139381855,
+      "datetime": 1773255720
+    },
+    {
+      "title": "1 Cash-Producing Stock to Own for Decades and 2 Facing Challenges",
+      "description": "While strong cash flow is a key indicator of stability, it doesn’t always translate to superior returns. Some cash-heavy businesses struggle with inefficient spending, slowing demand, or weak competitive positioning.",
+      "published_utc": "2026-03-11T12:10:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2a35c263ddfac1ab729411780738b29826640fcdf311abfe5fb8ca48bb62257b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139381113,
+      "datetime": 1773245413
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T04:28:02.523200+00:00",
+    "cache_key": "news_6d00063db6e2cf650726b5b2d763cb60",
+    "count": 5
+  }
+}

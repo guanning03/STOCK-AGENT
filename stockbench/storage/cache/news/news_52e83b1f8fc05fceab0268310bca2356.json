@@ -1,0 +1,89 @@
+{
+  "items": [
+    {
+      "title": "International Business Machines Corp. stock underperforms Tuesday when compared to competitors",
+      "description": "International Business Machines Corp. stock underperforms Tuesday when compared to competitors",
+      "published_utc": "2025-12-02T11:33:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=6a78a8f53177adf5dab58317bf994d7e9ea825c55dc4616dd01eb9c8694b73b1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137682041,
+      "datetime": 1764693180
+    },
+    {
+      "title": "Investors Heavily Search International Business Machines Corporation (IBM): Here is What You Need to Know",
+      "description": "IBM (IBM) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+      "published_utc": "2025-12-02T09:00:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9fcdda0af080af53ff8518f5a371423164d725e2005005dae8f0c52f639c8456",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137667740,
+      "datetime": 1764684007
+    },
+    {
+      "id": "4ab61b4476308303a7d4e231129f4a7ffa0fa4be96c067e3e6a2cd83c2f6a0f7",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Skyhawk Security Strengthens Autonomous Red Team with Agentic AI, Enabling Continuous Security Control Validation",
+      "author": "Chen Burshan",
+      "published_utc": "2025-12-02T14:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/12/02/3197994/0/en/Skyhawk-Security-Strengthens-Autonomous-Red-Team-with-Agentic-AI-Enabling-Continuous-Security-Control-Validation.html",
+      "tickers": [
+        "IBM",
+        "AMZN",
+        "MSFT",
+        "CRWD"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/3f6198ed-fcd9-4629-9333-a22d7fb87fd9",
+      "description": "Skyhawk Security launches AI-powered capabilities for its Red Team platform, enabling continuous security control validation across cloud environments by integrating with various security tools and providing comprehensive threat detection and prevention insights.",
+      "keywords": [
+        "AI",
+        "cloud security",
+        "breach simulation",
+        "red team",
+        "cybersecurity"
+      ],
+      "insights": [
+        {
+          "ticker": "IBM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an integrated QRadar SIEM tool"
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned for CloudWatch integration and hosting the conference"
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned for Microsoft Defender integration"
+        },
+        {
+          "ticker": "CRWD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an endpoint security control integrated into the platform"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:58:02.275457+00:00",
+    "cache_key": "news_52e83b1f8fc05fceab0268310bca2356",
+    "count": 3
+  }
+}

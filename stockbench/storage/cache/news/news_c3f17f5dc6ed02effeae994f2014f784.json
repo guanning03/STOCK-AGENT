@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Tech billionaires cashed out $16 billion in 2025 as stocks soared",
+      "description": "Jeff Bezos led the way. The Amazon founder sold 25 million shares for $5.7 billion in June and July, right around the time he was getting hitched to Lauren Sanchez in Venice.",
+      "published_utc": "2026-01-03T18:45:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=18f57144cff8f0b1d060b6fa83a54d55128bbeb4f0f9a7486e3c812e60b072e8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137985633,
+      "datetime": 1767483907
+    },
+    {
+      "title": "Chamath Palihapitiya Says People Worth $500 Billion 'Scrambled And Left California' Over Billionaire Tax, Warns That It Will Deepen Budget Deficit",
+      "description": "Venture capitalist Chamath Palihapitiya says a proposed California billionaire tax is already driving ultra-wealthy residents out of the state, a move he warns could worsen the budget deficit rather than fix it. Chamath Says $500 Billion Wealth Exit Over Proposed Billionaire Tax On Thursday, Palihapitiya took to X that people he knows with a combined net worth of about $500 billion moved to leave California permanently after the state floated a proposed \"billionaire tax,\" which he described as a",
+      "published_utc": "2026-01-03T17:30:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=42cd7e52e481b8e2201a50c3d521964e9596f91723b1f23c39f97ac7387d34de",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137980076,
+      "datetime": 1767479410
+    },
+    {
+      "title": "Best Stock to Buy Right Now: Amazon vs. Costco",
+      "description": "These large-cap companies have significantly outperformed the market in the past decade.",
+      "published_utc": "2026-01-03T13:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eec6cc609f7b31b0d2196ae2c3f848d949e032bf5565f694f3fdb319549f6ea2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137985635,
+      "datetime": 1767463500
+    },
+    {
+      "title": "History of Costco: Company timeline and facts",
+      "description": "Costco is a retailer that sells goods at wholesale prices. It pioneered the membership warehouse club model 50 years ago. Costco sells a wide variety of goods ranging from produce and other grocery items to clothes, TV sets, and even luxury items such as gold bars and Rolex watches that can sell ...",
+      "published_utc": "2026-01-03T11:36:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1b476393ed26659a70e25ce244e3f7e84685f27186c1bf70362340dd5823e2fe",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137985636,
+      "datetime": 1767458160
+    },
+    {
+      "title": "Stock Funds Rose 12.8% in 2025",
+      "description": "Stock Funds Rose 12.8% in 2025",
+      "published_utc": "2026-01-03T05:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=2b6535fdc419b6748da77d13f5fda028ed388001a013cccc1a5808b2073b4fc4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138002879,
+      "datetime": 1767434400
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T00:53:07.423700+00:00",
+    "cache_key": "news_c3f17f5dc6ed02effeae994f2014f784",
+    "count": 5
+  }
+}

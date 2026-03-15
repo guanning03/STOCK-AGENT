@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Microsoft: A Cautious Buy Ahead Of Q1 Earnings",
+      "description": "Microsoft has solid cloud and AI momentum, improving margins, and balanced asymmetry. Check out the earnings preview of MSFT stock.",
+      "published_utc": "2025-10-20T19:36:16",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e13bfe59933b39372da16208aeda09be1a9d9a7b99896b377ca96339166d5a06",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2152500824/image_2152500824.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137172201,
+      "datetime": 1761003376
+    },
+    {
+      "title": "Microsoft: Very Bullish Into Upcoming Earnings",
+      "description": "Microsoft's diversified AI strategy and strong partnerships drive innovation and growth. Valuation is reasonable at 33x forward EPS. See ore on MSFT here.",
+      "published_utc": "2025-10-20T19:20:59",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8b46d84837cf965296c62a052f68c2fec616dbc4d4cddb42c6d2a36437a35436",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1408775753/image_1408775753.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137172131,
+      "datetime": 1761002459
+    },
+    {
+      "title": "Top OpenAI, Google Brain researchers set off a $300M VC frenzy for their startup Periodic Labs",
+      "description": "When Liam Fedus announced he was quitting OpenAI, VCs swarmed. One even wrote a love letter. Here's how Felicis' Peter Deng won the deal.",
+      "published_utc": "2025-10-20T17:15:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d093ac01673b7b1bf23b0923d5eec8f1ffcf35a6ebefb613083f083dd73835d9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137173859,
+      "datetime": 1760994924
+    },
+    {
+      "title": "These Stocks Moved the Most Today: Apple, Amazon, TSMC, Cleveland-Cliffs, Super Micro, Cooper Cos., Tesla, Netflix, and More",
+      "description": "Apple stock rises after analysts at Loop Capital boost their rating on the iPhone maker to Buy from Hold, while Nvidia unveils the first Blackwell wafer made in the U.S. with a chip produced by Taiwan Semiconductor Manufacturing.",
+      "published_utc": "2025-10-20T16:56:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=05871916112fa0035a4d6c6732d540cba06b73ad649f5195f05a01626e2f3197",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137173850,
+      "datetime": 1760993760
+    },
+    {
+      "title": "Apple Stock Hits New Record on Report of Strong iPhone Sales",
+      "description": "Early sales of the new iPhone 17 are outpacing last year’s launch of the iPhone 16 in the U.S. and China, a research firm says.",
+      "published_utc": "2025-10-20T16:48:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b3e3417f49500288565829d717bdcc0661874aa9c0c7263fd9a08140cc212eb2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137173851,
+      "datetime": 1760993280
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:37:57.690986+00:00",
+    "cache_key": "news_54581e2339b74d3a377ddf86164dc274",
+    "count": 5
+  }
+}

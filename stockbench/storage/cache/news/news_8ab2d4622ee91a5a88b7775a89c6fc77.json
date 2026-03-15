@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Minivan sales surge 21% in 2025 as millennial dads lead demand for cars offering the 'best bang for your buck'",
+      "description": "Most carmakers are only focused on the truck and SUV buyer, but one model saw a surge in popularity last year — the trusty family minivan.",
+      "published_utc": "2026-01-31T09:30:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7466d134c04c4aca012c6b4e1fb3b842a474b420e5f4d1f6531d389bd6c3b8f5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138315755,
+      "datetime": 1769869822
+    },
+    {
+      "title": "Corporate America faces growing shareholder pressure to talk about Trump’s immigration policies",
+      "description": "Corporate America faces growing shareholder pressure to talk about Trump’s immigration policies",
+      "published_utc": "2026-01-31T04:45:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=252fdebf69f4b2c205ee1fd0067ceaee6b3a3b92f46dcec9e359a9b7832fb88c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139059089,
+      "datetime": 1769852700
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:17:12.705005+00:00",
+    "cache_key": "news_8ab2d4622ee91a5a88b7775a89c6fc77",
+    "count": 2
+  }
+}

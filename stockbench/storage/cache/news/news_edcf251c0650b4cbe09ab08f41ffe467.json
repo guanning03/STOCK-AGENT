@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Dow notches record-high close while tech-heavy Nasdaq slips",
+      "description": "STORY: Wall Street's main indexes ended mixed on Wednesday, with the Dow gaining more than two-thirds of a percent to notch another record high close, the S&P 500 ending roughly flat and the Nasdaq slipping a quarter of a percent.Investors focused on a likely end to the longest government shutdown in U.S. history, with the House of Representatives poised to vote on a stopgap funding package. If passed, President Donald Trump is expected to sign the bill into law.That propped up Dow stalwarts such as Goldman Sachs and UnitedHealth Group, with each gaining 3.5%.But the Nasdaq slid again, as some tech-related heavyweights lost ground. Tesla and Amazon fell about 2%, Palantir lost about 3.5% and Oracle declined nearly 4%.Kevin Nicholson is an investment expert at RiverFront Investment Group.\"Well, the Nasdaq has been volatile over the last couple of weeks just because you had so many companies that are chasing the AI train, and some are being successful at it, and others aren't. And, you know, the market is really concerned about the level of spending that is going towards AI for each individual company. And for some companies, it makes sense, and for others, it doesn't. And so right now, I think the market is trying to pick the winners and losers thus far as it pertains to AI.\":: AMDAmong Wednesday's winners, AMD rallied 9% after the chip designer unveiled a $100 billion data-center revenue target.:: FileAnd Cisco Systems, up 3% at the close, soared higher in extended trading after the company raised its forecast for full-year profit and revenue, banking on multi-billion-dollar data center expansions.",
+      "published_utc": "2025-11-12T18:30:28",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=064f6fb6529cae06476d7fe58f5fa5b78b9e44def906c5b6ed157fe417dd057a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137465073,
+      "datetime": 1762990228
+    },
+    {
+      "title": "Dow closes above 48,000 for first time, 17th record close of 2025",
+      "description": "Investors drove the Dow to back-to-back record gains, shrugging off concerns about an AI bubble and the lack of economic data tied to the government shutdown.",
+      "published_utc": "2025-11-12T17:30:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ba04c8e445b29594b465c1cff7e2f9f9663cd200b9766c4c2bfb80900d0ff2ff",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137466864,
+      "datetime": 1762986620
+    },
+    {
+      "title": "Dow Rallies Above 48000, Tech Stocks Take a Back Seat",
+      "description": "Investor optimism about an expected end to the U.S. government shutdown propelled the Dow Jones Industrial Average above 48000 for the first time, setting a contrast to continued weakness in technology stocks.  The prospect that the shutdown would resolve as early as Wednesday lifted large banks, airline companies and consumer products makers, reflecting anticipation that air travel-restrictions will be lifted and that government employees will start getting paid again, boosting economic activity.  The Dow finished the day 0.7%, or 327 points higher, to 48254.82, its 17th record closing high of the year.",
+      "published_utc": "2025-11-12T16:54:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c2476579555a10eee827e7b3ced3fe5e17c629ba1503b1b09efb9da801d6e655",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137466865,
+      "datetime": 1762984440
+    },
+    {
+      "title": "Top Analyst Reports for Apple, Procter & Gamble and UnitedHealth",
+      "description": "Apple, Procter & Gamble, and UnitedHealth headline fresh analyst insights, with growth forecasts, cost challenges, and strategic updates driving investor focus.",
+      "published_utc": "2025-11-12T16:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=016dac64dbcb0f75ee355f738f07c74b4fda4b7399ba5f93a3d4daa1ff8f0319",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137466588,
+      "datetime": 1762982100
+    },
+    {
+      "title": "As Trump Calls Insurers ‘BIG,’ ‘BAD,’ and ‘Money Sucking,’ How Should You Play UnitedHealth Stock?",
+      "description": "UnitedHealth shares dipped earlier this week as Trump’s populist healthcare remarks rattled insurers, but fundamentals and long-term guidance may tell a more resilient story.",
+      "published_utc": "2025-11-12T15:17:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=978cc79fa616588f5f2d775791e2972b0de5f03ac4ec3470fd694897be4c66fe",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137466867,
+      "datetime": 1762978671
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:57:10.820813+00:00",
+    "cache_key": "news_edcf251c0650b4cbe09ab08f41ffe467",
+    "count": 5
+  }
+}

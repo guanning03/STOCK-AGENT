@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Best Dividend Aristocrats For February 2026",
+      "description": "Dividend Aristocrats lagged the S&P 500 in 2025 but started 2026 strong.",
+      "published_utc": "2026-01-30T23:31:14",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=800289596e0fb58f29b2e1070377b29fa7b3a4d167bb115d6581677c59423fb0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2249594654/image_2249594654.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138313889,
+      "datetime": 1769833874
+    },
+    {
+      "title": "This Top Dividend Stock Could Achieve a Major Milestone This Year. Is It a Buy?",
+      "description": "Johnson & Johnson is a picture of stability.",
+      "published_utc": "2026-01-30T22:38:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=54a37c1a00b8c95aff35856c5356803bc3cc187d6fa5e98da9a3e641687fdb6a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138312569,
+      "datetime": 1769830680
+    }
+  ]
+}

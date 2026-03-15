@@ -1,0 +1,132 @@
+{
+  "items": [
+    {
+      "id": "bfc0525587d593420c89c0dbc6ebad34b1a11bba14ad2cac4fb8208a990913b4",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "How Good Has GE Aerospace Stock Actually Been?",
+      "author": "Lee Samaha",
+      "published_utc": "2026-01-04T13:21:00Z",
+      "article_url": "https://www.fool.com/investing/2026/01/04/how-good-has-ge-stock-actually-been/?source=iedfolrf0000001",
+      "tickers": [
+        "GE",
+        "BA",
+        "BApA",
+        "GEHC",
+        "GEV"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F844209%2Fwoman-flying-in-plane-travel-transportation-1200x800-5b2df79.jpg&w=1200&op=resize",
+      "description": "GE Aerospace has delivered exceptional returns, appreciating nearly 85% in its first full year as a standalone company. The company maintains a dominant position in commercial aerospace with 3 out of 4 commercial flights powered by GE or CFM International engines. Strong service revenue from legacy CFM56 engines combined with easing supply chain issues supporting LEAP engine ramp-up positions the company for double-digit revenue growth through 2028, with EPS expected to rise from $6.10 to $8.40.",
+      "keywords": [
+        "GE Aerospace",
+        "commercial aerospace engines",
+        "CFM International",
+        "LEAP engine",
+        "service revenue",
+        "supply chain",
+        "long-term growth",
+        "market dominance"
+      ],
+      "insights": [
+        {
+          "ticker": "GE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong stock performance (85% appreciation), dominant market position with 75% of commercial flights using GE engines, favorable razor-and-blade business model with recurring service revenue, supply chain improvements enabling LEAP delivery ramp-up, and management guidance for double-digit revenue growth and EPS expansion through 2028."
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a customer of CFM International's LEAP engine (sole engine on Boeing 737 MAX), but no specific sentiment expressed about Boeing's performance or outlook in the article."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a customer of CFM International's LEAP engine (sole engine on Boeing 737 MAX), but no specific sentiment expressed about Boeing's performance or outlook in the article."
+        },
+        {
+          "ticker": "GEHC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a market leader in imaging equipment following GE's spinoff, but not the focus of the article and no performance analysis provided."
+        },
+        {
+          "ticker": "GEV",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a market leader in gas turbines following GE's spinoff, but not the focus of the article and no performance analysis provided."
+        }
+      ]
+    },
+    {
+      "id": "b19754a8bb1d1e45f7ea648be345534f2ceb802d0a617ebf4eef98ce6470aeba",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Who Will Build President Trump's New Golden Fleet Battleships?",
+      "author": "Rich Smith",
+      "published_utc": "2026-01-04T12:07:00Z",
+      "article_url": "https://www.fool.com/investing/2026/01/04/who-will-build-president-trumps-new-golden-fleet-b/?source=iedfolrf0000001",
+      "tickers": [
+        "HII",
+        "GD",
+        "BA",
+        "BApA",
+        "NOC",
+        "RTX",
+        "BAESY"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F849238%2Fartists-conception-of-the-uss-defiant-battleship-is-us-navy.jpg&w=1200&op=resize",
+      "description": "President Trump is initiating a major U.S. Navy modernization program, including a new frigate fleet and the Trump-class battleship USS Defiant. The USS Defiant, expected to cost $9-14 billion and launch in the early-to-mid 2030s, will feature advanced weapons systems including hypersonic missiles, railguns, and laser cannons. Defense contractors Huntington Ingalls Industries and General Dynamics are positioned to be primary beneficiaries, along with suppliers like BAE Systems, Boeing, Northrop Grumman, and RTX.",
+      "keywords": [
+        "defense spending",
+        "naval modernization",
+        "battleship construction",
+        "military contracts",
+        "hypersonic missiles",
+        "defense contractors"
+      ],
+      "insights": [
+        {
+          "ticker": "HII",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Already awarded frigate fleet contract with stock up 82% by year-end; positioned as primary warship builder with 50-50 split policy with General Dynamics; likely to receive significant portion of new battleship program revenue"
+        },
+        {
+          "ticker": "GD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Expected to receive USS Defiant hull construction contract under Pentagon's 50-50 warship construction split policy; potential for multiple battleship contracts to accelerate production"
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Has produced laser cannon prototypes for Pentagon; expected to intensify laser weapons development efforts for Defiant's offensive and defensive systems"
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Has produced laser cannon prototypes for Pentagon; expected to intensify laser weapons development efforts for Defiant's offensive and defensive systems"
+        },
+        {
+          "ticker": "NOC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Has developed laser cannon prototypes; positioned to benefit from increased laser weapons development and integration on new battleship platform"
+        },
+        {
+          "ticker": "RTX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Major defense contractor with experience in advanced weapons systems; positioned to supply components for USS Defiant's complex weapons suite"
+        },
+        {
+          "ticker": "BAESY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Leading contractor in experimental railgun development; positioned to resume and expand railgun research for USS Defiant's electromagnetic railgun system"
+        }
+      ]
+    }
+  ]
+}

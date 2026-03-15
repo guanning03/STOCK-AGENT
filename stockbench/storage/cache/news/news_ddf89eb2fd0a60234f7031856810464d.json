@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Boeing Beats Airbus in January Deliveries, Orders",
+      "description": "Boeing's (BA) deliveries and orders increased year over year in January, outperforming its European",
+      "published_utc": "2026-02-10T14:57:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7c8660f746053b3ddf7acf3ab56d9e1d2192c7890261b7c1e3719c9e0091268c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139034943,
+      "datetime": 1770753430
+    },
+    {
+      "title": "'Boeing plans to open fourth 737 production line in mid-summer'- Reuters",
+      "description": "https://www.reuters.com/business/aerospace-defense/boeing-plans-open-fourth-737-production-line-mid-summer-2026-02-10/",
+      "published_utc": "2026-02-10T10:38:27",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=99ee753867211b1ed06a6f1e2151221013810ab7214f1afbf89e0f34855da493",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139044587,
+      "datetime": 1770737907
+    },
+    {
+      "title": "Jim Cramer on TAT Technologies (TATT): “I Think That That Is Exactly Where To Be”",
+      "description": "TAT Technologies Ltd. (NASDAQ:TATT) is one of the stocks Jim Cramer looked at recently. Noting the presence of an “aging global fleet of aircraft and the backlog of Boeing,” a caller mentioned that the company is benefiting from it. Cramer commented: Yeah, that is a really interesting stock. I know it’s moved up a lot, […]",
+      "published_utc": "2026-02-10T09:49:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d5bbdef5eb5c0ae83a52dfd264eb337f8e3f3d7f27329fe743725906334d68bf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139031967,
+      "datetime": 1770734971
+    },
+    {
+      "title": "VergeIO Records Strong Growth as Private Cloud Operating System Strategy Accelerates",
+      "description": "ANN ARBOR, Mich., February 10, 2026--VergeIO, the VMware alternative redefining infrastructure as a Private Cloud Operating System, recorded its strongest year to date with annual recurring revenue growing more than 80% year over year. The company exceeded its 2025 ARR plan by more than 25%, driven by increased enterprise adoption of VergeOS and a growing shift away from traditional virtualization toward cloud-style operations on customer-controlled infrastructure.",
+      "published_utc": "2026-02-10T08:55:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9d9bbd5530d5a40e20186b9541d2568fd75a6d4b8b74cb4a37a82a0ebc981bf3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139031968,
+      "datetime": 1770731700
+    },
+    {
+      "title": "Non-Destructive Testing Equipment Market to Reach US$ 5,639.70 Million by 2033 Driven by Infrastructure Safety Mandates and Predictive Maintenance Adoption | Astute Analytica",
+      "description": "Driven by rising manufacturing output, stringent regulations, and critical infrastructure safety requirements across aerospace, oil and gas, and defense sectors. Integration of predictive maintenance is creating long-term growth opportunities, with NDT data being crucial for monitoring pipeline wall thickness, corrosion in storage tanks, and weld integrity in pressure vessels.Chicago, Feb. 10, 2026 (GLOBE NEWSWIRE) -- The global non-destructive testing equipment market was valued at 2,961.35 mil",
+      "published_utc": "2026-02-10T07:48:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a43a693c345871f2a7a64221da318d4d3b563b9742d5aa1458fac8164ec309d2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139029630,
+      "datetime": 1770727680
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:56:43.631905+00:00",
+    "cache_key": "news_ddf89eb2fd0a60234f7031856810464d",
+    "count": 5
+  }
+}

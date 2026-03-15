@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Are Wall Street Analysts Bullish on Sherwin-Williams Stock?",
+      "description": "Sherwin-Williams has underperformed the broader market over the past year, but analysts are cautiously optimistic about the stock’s prospects.",
+      "published_utc": "2025-11-12T07:59:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4333aee8f39c93e936ff6316dd887445455c5c69feb2cbfa530152953068840e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137460381,
+      "datetime": 1762952351
+    }
+  ]
+}

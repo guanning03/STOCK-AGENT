@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "title": "Forget the 2.8% Social Security Increase. These Aristocrats Pay You 4% to 7% More Annually",
+      "description": "The Social Security Administration announced in October that beneficiaries will receive a 2.8% cost-of-living adjustment (COLA) in 2026, following a 2.5% increase in 2025. While these adjustments help protect purchasing power for 71 million Americans, dividend growth stocks have historically delivered substantially higher annual increases. Five blue-chip companies with multi-decade dividend growth streaks have consistently ... Forget the 2.8% Social Security Increase. These Aristocrats Pay You 4",
+      "published_utc": "2025-12-14T10:51:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c1645da26b989e7a1c3b9e7071079949ca1b2caf4f664254567cfe14873353c1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137792122,
+      "datetime": 1765727501
+    },
+    {
+      "id": "ffd32edfcdf0a916dfa6da98432a78303c4a685a549b8caa9733c327fb570064",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Looking for a Consumer Staples ETF? Here's How XLP and RSPS Compare on Cost, Risk, and Earnings",
+      "author": "Katie Brockman",
+      "published_utc": "2025-12-14T23:23:53Z",
+      "article_url": "https://www.fool.com/coverage/etfs/2025/12/14/looking-for-a-consumer-staples-etf-here-s-how-xlp-and-rsps-compare-on-cost-risk-and-earnings/?source=iedfolrf0000001",
+      "tickers": [
+        "XLP",
+        "WMT",
+        "COST",
+        "PG"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Ff2894ef3e59a57033e3d12497757ed4ec0c197b2-1401x1251.png%3Fw%3D1401%26h%3D1251&w=1200&op=resize",
+      "description": "Two consumer staples ETFs, XLP and RSPS, offer different investment approaches: XLP focuses on market-cap-weighted large companies with lower fees, while RSPS provides equal-weighted exposure across the sector with broader diversification.",
+      "keywords": [
+        "ETF",
+        "consumer staples",
+        "investment",
+        "sector exposure",
+        "diversification"
+      ],
+      "insights": [
+        {
+          "ticker": "XLP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Lower expense ratio (0.08%), larger assets under management ($15.5 billion), and focused strategy on sector leaders with potential for higher returns"
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Top holding in XLP, representing a significant portion of the ETF's assets"
+        },
+        {
+          "ticker": "COST",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Top holding in XLP, contributing to the fund's strong market position"
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Top holding in XLP, adding stability to the consumer staples ETF"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:35:46.477510+00:00",
+    "cache_key": "news_46a6b5be3daf7e29bcf31c49e092b7c0",
+    "count": 2
+  }
+}

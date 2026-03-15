@@ -1,0 +1,55 @@
+{
+  "items": [
+    {
+      "id": "4d22f8485f6b1939315d4d1827f3218a5608a394fab77548362bc41f22360e41",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 No-Brainer Dividend Stocks to Buy in 2025",
+      "author": "Jennifer Saibil",
+      "published_utc": "2025-01-19T09:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/19/3-no-brainer-dividend-stocks-to-buy-in-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "O",
+        "HD",
+        "KO"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804193/two-people-wondow-shopping-and-holding-shopping-bags-in-a-strip-outdoor-mall.jpg",
+      "description": "The article discusses three excellent dividend stocks: Realty Income, Home Depot, and Coca-Cola. Realty Income is a REIT with a stable and growing business, high yield, and a long history of dividend payments. Home Depot is meeting the omnichannel moment and generating higher revenue despite a slow housing market. Coca-Cola is a Dividend King with pricing power and diverse beverage categories.",
+      "keywords": [
+        "dividend stocks",
+        "Realty Income",
+        "Home Depot",
+        "Coca-Cola",
+        "REIT",
+        "omnichannel",
+        "Dividend King"
+      ],
+      "insights": [
+        {
+          "ticker": "O",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Realty Income is described as a top dividend stock with an excellent business, high yield, and growing dividend. It has a stable and growing business, a long track record of consecutive dividend payments and increases, and a dividend yield of 5.9%."
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Home Depot is the largest home improvement chain in the world, and it is meeting the omnichannel moment and generating higher revenue despite a slow housing market. The company is constantly upgrading its platform and has an excellent dividend with a yield of 2.2%."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Coca-Cola is described as a classic great dividend stock, being a Dividend King with a commitment to raising its dividend annually for the past 62 years. It has pricing power in its loved brands and opportunities for growth in its diverse beverage categories, with a dividend yield of 3.1%."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:54:29.425199+00:00",
+    "cache_key": "news_87ec90ee52646c260b90892866f1413e",
+    "count": 1
+  }
+}

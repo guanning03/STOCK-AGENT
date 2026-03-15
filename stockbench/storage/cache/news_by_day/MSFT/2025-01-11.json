@@ -1,0 +1,300 @@
+{
+  "items": [
+    {
+      "id": "cf579a9e79ebc286a87a9cbc753f1b106efb21cb2408efeb350743fc6c8a9bc3",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "80 Billion Reasons Why These 2 Top Artificial Intelligence (AI) Stocks Could Crush the Market Again in 2025",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-11T16:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/11/80-billion-reasons-why-these-2-top-artificial-inte/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "TSM",
+        "MSFT",
+        "META",
+        "AMZN",
+        "GOOG",
+        "GOOGL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803128/ai-written-on-cloud-silhoutte.jpg",
+      "description": "Microsoft, Meta, Amazon, and Alphabet are expected to significantly increase their capital spending on AI infrastructure in 2025, which bodes well for Nvidia and TSMC as they ramp up AI chip production to meet the growing demand.",
+      "keywords": [
+        "Artificial Intelligence",
+        "AI Stocks",
+        "Nvidia",
+        "TSMC",
+        "Microsoft",
+        "Meta",
+        "Amazon",
+        "Alphabet"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Nvidia's focus on quickly adding capacity to serve the high and growing demand for AI chips from major cloud service providers should set the company up for another year of terrific gains."
+        },
+        {
+          "ticker": "TSM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article indicates that TSMC is significantly increasing its AI chip production capacity, which should enable Nvidia to meet the growing demand from major cloud service providers and drive stronger revenue and earnings growth for both companies."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights that Microsoft is planning to significantly increase its capital expenditures on AI infrastructure in 2025, which will drive demand for the AI chips designed by Nvidia and manufactured by TSMC."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Meta Platforms is also expected to significantly increase its capital spending on AI infrastructure in 2025, which will further boost the demand for Nvidia and TSMC's AI chips."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article indicates that the combined spending of major cloud computing players, including Amazon, on AI infrastructure is expected to reach $300 billion in 2025, up from around $200 billion in 2024, which will benefit Nvidia and TSMC."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that the combined spending of major cloud computing players, including Alphabet, on AI infrastructure is expected to reach $300 billion in 2025, up from around $200 billion in 2024, which will benefit Nvidia and TSMC."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that the combined spending of major cloud computing players, including Alphabet, on AI infrastructure is expected to reach $300 billion in 2025, up from around $200 billion in 2024, which will benefit Nvidia and TSMC."
+        }
+      ]
+    },
+    {
+      "id": "c11b1498a3e787ed819f284f3df42bd48dec63a7e9bc6e47ab3e76b50994a6f0",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Where Will Amazon Stock Be in 5 Years?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-11T15:17:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/11/where-will-amazon-stock-be-in-5-years/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "MSFT",
+        "NFLX",
+        "DIS",
+        "COST",
+        "WMT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802335/amazon-workers-with-packages.png",
+      "description": "Amazon is well-positioned for continued growth in e-commerce, cloud computing, and streaming. Its e-commerce platform is gaining market share, its AWS cloud division is a leader in the industry, and its streaming business is competitive. The company's investments in AI and acquisitions are expected to drive further expansion.",
+      "keywords": [
+        "Amazon",
+        "e-commerce",
+        "cloud computing",
+        "streaming",
+        "AI",
+        "acquisitions"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Amazon's strong performance in 2024, its dominant position in e-commerce, its leadership in cloud computing through AWS, and its competitive streaming business. The company's investments in AI and acquisitions are also expected to drive future growth."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Microsoft Azure as the second-largest cloud computing platform after AWS, but does not provide any specific commentary on Microsoft's performance or outlook."
+        },
+        {
+          "ticker": "NFLX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article notes that Amazon has rolled out an ad-supported tier for its streaming service, similar to Netflix, but does not make any direct comparisons or assessments of Netflix's performance."
+        },
+        {
+          "ticker": "DIS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Amazon has rolled out an ad-supported tier for its streaming service, similar to Walt Disney, but does not provide any further analysis or commentary on Disney's streaming business."
+        },
+        {
+          "ticker": "COST",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article discusses how Costco is leveraging its physical store footprint to offer omnichannel options like store pickup, which is a competitive advantage over Amazon, but does not make any overall assessment of Costco's performance or outlook."
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article discusses how Walmart is leveraging its physical store footprint to offer omnichannel options like store pickup, which is a competitive advantage over Amazon, but does not make any overall assessment of Walmart's performance or outlook."
+        }
+      ]
+    },
+    {
+      "id": "4c9dcac61733c567afa69372d08bbb94e36be5222cb5c0168341d59ba003bcfb",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Consumer Tech News (Jan 6-10): Microsoft Pauses Ambitious Data Center Project, Blackstone Makes $300 Million Investment In AI & More",
+      "author": "Lekha Gupta",
+      "published_utc": "2025-01-11T13:30:21Z",
+      "article_url": "https://www.benzinga.com/news/large-cap/25/01/42932422/consumer-tech-news-jan-6-10-microsoft-pauses-ambitious-data-center-project-blackstone-makes-300-mi",
+      "tickers": [
+        "AAPL",
+        "MSFT",
+        "NVDA",
+        "BX"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/11/Milan--Italy--June-1--2024-Microsoft-Sig.jpeg?width=1200&height=800&fit=crop",
+      "description": "This article covers various updates in the consumer tech industry, including Apple facing restrictions in Indonesia, Microsoft pausing a data center project, Nvidia launching new GPUs and a personal AI supercomputer, and Blackstone investing $300 million in an AI company.",
+      "keywords": [
+        "Apple",
+        "Microsoft",
+        "Nvidia",
+        "Blackstone",
+        "AI",
+        "data centers",
+        "consumer tech"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Apple is facing restrictions in Indonesia due to not meeting local content requirements for smartphone sales."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Microsoft has decided to temporarily pause construction on parts of its ambitious data center project."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia launched its latest GeForce RTX 5000 GPU series and a $3,000 personal AI supercomputer."
+        },
+        {
+          "ticker": "BX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Blackstone is making a significant $300 million investment in an AI company, DDN."
+        }
+      ]
+    },
+    {
+      "id": "62fd789724cc88c48a0c3ff67df53a3d41b68893c10db07d3d5f27d0631cd342",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Warren Buffett Owns 2 S&P 500 Index Funds. They Could Soar 153%, According to a Top Wall Street Analyst",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-11T09:28:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/11/warren-buffett-sp-500-funds-soar-153-wall-street/?source=iedfolrf0000001",
+      "tickers": [
+        "VOO",
+        "SPY",
+        "AAPL",
+        "NVDA",
+        "MSFT",
+        "BRK.A",
+        "BRK.B"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803282/warren-buffett-smiling-surrounded-by-cameras.jpg",
+      "description": "Warren Buffett's Berkshire Hathaway owns two S&P 500 index funds, the Vanguard S&P 500 ETF and the SPDR S&P 500 ETF Trust, which a top Wall Street analyst believes could see a 153% gain by 2030 due to factors like AI and the prime earning years of millennials and Gen Zers.",
+      "keywords": [
+        "Warren Buffett",
+        "S&P 500 index funds",
+        "Vanguard S&P 500 ETF",
+        "SPDR S&P 500 ETF Trust",
+        "Wall Street analyst",
+        "AI",
+        "millennials",
+        "Gen Zers"
+      ],
+      "insights": [
+        {
+          "ticker": "VOO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests the Vanguard S&P 500 ETF could see a 153% gain by 2030 based on a Wall Street analyst's forecast, and it has a lower expense ratio compared to the SPDR S&P 500 ETF Trust."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests the SPDR S&P 500 ETF Trust could see a 153% gain by 2030 based on a Wall Street analyst's forecast, though it has a slightly higher expense ratio compared to the Vanguard S&P 500 ETF."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple is mentioned as one of the top three holdings in the S&P 500, along with Nvidia and Microsoft, indicating its significant influence on the index's performance."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia is mentioned as one of the top three holdings in the S&P 500, along with Apple and Microsoft, indicating its significant influence on the index's performance."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is mentioned as one of the top three holdings in the S&P 500, along with Apple and Nvidia, indicating its significant influence on the index's performance."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Berkshire Hathaway, Warren Buffett's investment company, owns the two S&P 500 index funds mentioned, indicating Buffett's confidence in the long-term performance of the S&P 500."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Berkshire Hathaway, Warren Buffett's investment company, owns the two S&P 500 index funds mentioned, indicating Buffett's confidence in the long-term performance of the S&P 500."
+        }
+      ]
+    },
+    {
+      "id": "3b2b0b047def75b0f58010dc922d2bfdcd03d9968cd316fdf732ccc584f1c759",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Prediction: Nvidia Will Be the Biggest Winner in Microsoft's $80 Billion AI Spending Spree",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-11T08:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/11/prediction-nvidia-win-microsoft-ai-spending/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803316/gettyimages-1204583606.jpg",
+      "description": "Microsoft is set to spend $80 billion on AI infrastructure, and Nvidia is expected to be the biggest beneficiary as its largest customer. Nvidia's GPU and AI accelerator chips are well-positioned to capitalize on this increased spending, and the company's stock is attractively valued.",
+      "keywords": [
+        "Nvidia",
+        "Microsoft",
+        "AI",
+        "data centers",
+        "GPUs",
+        "AI infrastructure"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia is expected to be the biggest winner from Microsoft's $80 billion AI spending spree, as it is Microsoft's largest customer for GPUs and AI accelerator chips. Nvidia's dominant market share and software platform give it a strong competitive advantage, and the company's stock is attractively valued."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is significantly increasing its investment in AI infrastructure, with plans to spend $80 billion on data centers and cloud computing. This increased spending is expected to drive strong demand for Nvidia's products, benefiting the chipmaker."
+        }
+      ]
+    }
+  ]
+}

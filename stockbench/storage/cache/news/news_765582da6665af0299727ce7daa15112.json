@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The 1-Minute Market Report - November 9, 2025",
+      "description": "The S&P 500 declined 1.6% last week as weak jobs data and high valuations triggered a reassessment of bullish sentiment. Read more about the market here.",
+      "published_utc": "2025-11-08T16:58:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ab3ccc1ecd0940e8ca6a82ee047901fe77e408cf682577a2cb4dc9e0a9fbc981",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213764535/image_1213764535.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137383305,
+      "datetime": 1762639080
+    },
+    {
+      "title": "President Trump, In Truth Social Post, Urges Senate GOP To Redirect Hundreds Of Billions Of Dollars Sent To Insurance Firms, To Individuals For Healthcare, Calls For End Of Obamacare And Filibuster",
+      "description": "https://trumpstruth.org/statuses/33744",
+      "published_utc": "2025-11-08T05:23:58",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=ae8c153a0ee6c277704c2ced016e2d193535df17cbf0a34516198b85de19c70f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138425561,
+      "datetime": 1762597438
+    },
+    {
+      "title": "Why Investors Should Expect October 2025 Consumer Price Index To Rise",
+      "description": "Get insights on October's CPI report, inflation trends, sector performance, and how these factors shape Fed rate decisions.",
+      "published_utc": "2025-11-08T03:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6e6a8bb03302d89b068ef209deff048abb29b0331c5faf93277ee1992bbfd5d6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2221912056/image_2221912056.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137378383,
+      "datetime": 1762589700
+    },
+    {
+      "title": "Weekly Indicators: Profits Up Sharply While Transport Sinks",
+      "description": "Get the latest US economic outlook with high-frequency indicators, insights on leading signals, and timely trends. Click for the latest update.",
+      "published_utc": "2025-11-08T03:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=39871af3131eb8cfdb186f454561051ec406a2e94c4fc6482693ca5c923c2a13",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1472143072/image_1472143072.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137378182,
+      "datetime": 1762588800
+    },
+    {
+      "title": "The One Chart Every S&P 500 Investor Needs To See Right Now",
+      "description": "The S&P 500 is highly concentrated in the Mag 7, making diversification beyond Big Tech increasingly attractive for long-term investors. Discover the full analysis here.",
+      "published_utc": "2025-11-08T02:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8e306871d6a09f5b8f35c1eca345b522b993e07efce60a856f83edcd31782e82",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2208260093/image_2208260093.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137378089,
+      "datetime": 1762587000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:41:40.928684+00:00",
+    "cache_key": "news_765582da6665af0299727ce7daa15112",
+    "count": 5
+  }
+}

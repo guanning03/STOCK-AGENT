@@ -1,0 +1,97 @@
+{
+  "items": [
+    {
+      "title": "Goldman Sachs Sees Market Warning Signs – But Likes These 2 Stocks",
+      "description": "Is everything old new again? We had a financial crisis in 2008, and while market moods are better than that these days, some analysts are starting to see some disturbing parallels. That’s the view of Goldman Sachs strategist Peter Oppenheimer, who notes that risk premia in the equity markets are down and are running at levels we haven’t seen since the run-up to the 2008 crisis. While that might present a presentiment of the bad old days, Oppenheimer isn’t all doom-and-gloom; in a recent note, he",
+      "published_utc": "2026-03-07T06:50:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=909bae043b2c3797e00e1732a70fa768aef2611f251998108220a35b47a1a6e1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139331973,
+      "datetime": 1772884200
+    },
+    {
+      "title": "Goldman Sachs Remains A Stock To Hold, Despite Uncertainty In Markets (Downgrade)",
+      "description": "",
+      "published_utc": "2026-03-06T21:17:52",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=70b28cc71a5cb76d3d4f76e9f4c92bb704f471535ae8826b2e1c8ab992da9541",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139331046,
+      "datetime": 1772849872
+    },
+    {
+      "id": "317dfbb08e54693fc1c5791b62b9d48e34e4e6f59933bd0f4a3440ce24d54439",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "This Glorious Growth Stock Is Down 60%. Here's Why You Should Buy It Hand Over Fist.",
+      "author": "Harsh Chauhan",
+      "published_utc": "2026-03-07T16:30:00Z",
+      "article_url": "https://www.fool.com/investing/2026/03/07/this-glorious-growth-stock-is-down-60-heres-why-yo/?source=iedfolrf0000001",
+      "tickers": [
+        "CRWV",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F859120%2Fclock-time-to-buy.jpg&w=1200&op=resize",
+      "description": "CoreWeave, a neocloud infrastructure company, has seen its stock plunge 60% from its 52-week high following disappointing Q4 2025 results. Despite massive capital expenditures ($14.9B in 2025) and current losses, the company is well-positioned for growth with a $67B revenue backlog and plans to reach $17-19B annualized revenue by end of 2026. The article argues the stock pullback presents a buying opportunity, projecting potential 23% upside if the company achieves its 2028 earnings targets.",
+      "keywords": [
+        "AI infrastructure",
+        "data center capacity",
+        "capital expenditure",
+        "revenue backlog",
+        "neocloud",
+        "growth stock",
+        "cloud computing"
+      ],
+      "insights": [
+        {
+          "ticker": "CRWV",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Despite current losses and stock decline, the company demonstrates strong fundamentals including 168% YoY revenue growth, massive $67B backlog, and clear path to profitability with projected 25-30% operating margins by 2028. The aggressive capex spending is justified by massive market demand for AI data center capacity."
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned only as a source for market research data regarding U.S. data center power capacity shortfalls. No direct investment recommendation or analysis provided."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned only as a source for market research data regarding U.S. data center power capacity shortfalls. No direct investment recommendation or analysis provided."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned only as a source for market research data regarding U.S. data center power capacity shortfalls. No direct investment recommendation or analysis provided."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned only as a source for market research data regarding U.S. data center power capacity shortfalls. No direct investment recommendation or analysis provided."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T04:06:46.929567+00:00",
+    "cache_key": "news_c01e32544ede1155b917a0192234d541",
+    "count": 3
+  }
+}

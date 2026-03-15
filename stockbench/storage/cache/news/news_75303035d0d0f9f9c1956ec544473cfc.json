@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Software startup deploys Singapore’s first quantum computer for commercial use",
+      "description": "Singapore-based software firm Horizon Quantum Computing has become the first private firm to deploy a quantum computer for commercial use in the city-state.",
+      "published_utc": "2025-12-03T18:39:02",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=525fafebdc09e12a0e894104e9cc5d6451916d2016c79acdc6eae0ff5eea63e6",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108236416-1764822837230-Screenshot_2025-12-04_123338.png?v=1764823524&w=1920&h=1080",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137683866,
+      "datetime": 1764805142
+    },
+    {
+      "title": "Apple, Nvidia, Verizon, IBM, & more: 2025's stock pick standouts",
+      "description": "Apple (AAPL), Nvidia (NVDA), Amazon (AMZN), and Microsoft (MSFT) are just some of the stocks in focus as Yahoo Finance Data and Markets Editor Jared Blikre and Trader Talk host Kenny Polcari take a closer look at the standout names of 2025. Watch the video above to hear more top stock picks and key investment themes. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.",
+      "published_utc": "2025-12-03T17:35:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4dc88741c2fc1376a423f05f3faa818196bf9f54ad485dbcda6fd4bf6a6e7e3a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137677593,
+      "datetime": 1764801351
+    },
+    {
+      "title": "IBM CEO warns there’s ‘no way’ hyperscalers like Google and Amazon will be able to turn a profit at the rate of their data center spending",
+      "description": "The profits needed to justify massive data center spending don’t add up, said Arvind Krishna.",
+      "published_utc": "2025-12-03T12:41:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a1cfa91b6c6e92e84709023be76d829bf53064dbd3e47433fb8365ee0f370bc2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137677740,
+      "datetime": 1764783717
+    },
+    {
+      "title": "Why Analysts Think IBM’s Story Is Shifting As Quantum Hopes Lift Fair Value",
+      "description": "International Business Machines is seeing a quiet but meaningful reset in its narrative, as our fair value estimate edges up from about $287.09 to $290.89 per share alongside a slight lift in assumed revenue growth from roughly 5.14% to 5.16% annually. These tweaks reflect increasing confidence that IBM's growing quantum and automation businesses can more than offset lingering questions around core software momentum. Read on to see how these evolving assumptions can help you stay informed...",
+      "published_utc": "2025-12-03T12:16:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=593c3ac3ffa49b4dfdab0387330ffc474d6b9ca81a7e9e1df8297df3b160ecbd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137677857,
+      "datetime": 1764782172
+    },
+    {
+      "title": "United States Business Intelligence Software Market Analysis 2025-2033 by Technology, Deployment, Enterprise, End User, States and Competitive Landscape",
+      "description": "The United States Business Intelligence Software Market is set for significant growth, increasing from US$ 11.35 Billion in 2024 to US$ 27.49 Billion by 2033 with a CAGR of 10.33% from 2025 to 2033. Key drivers include rising data-driven decision-making, enhanced analytics, and demand for data visualization tools across industries like finance and healthcare. Cloud-based BI solutions are becoming prominent due to scalability and cost-effectiveness, particularly among SMEs. Integration with AI, I",
+      "published_utc": "2025-12-03T11:52:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eaa42ebaaf57e3e1c135e142040446ae8861a4af1768dbf4da59e403c7c2d4bd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137672661,
+      "datetime": 1764780720
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:02:36.663940+00:00",
+    "cache_key": "news_75303035d0d0f9f9c1956ec544473cfc",
+    "count": 5
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "id": "9c270129d55860a15ac913cc192ccc40a21934a35ccb73cc023158bfc7138998",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Here's How Much a $50-Per-Week Investment in the S&P 500 Can Grow Over 25 Years",
+      "author": "David Jagielski",
+      "published_utc": "2025-03-08T14:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/08/heres-how-much-a-50-per-week-investment-in-the-sp/?source=iedfolrf0000001",
+      "tickers": [
+        "SPY"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/809472/advisor-reviewing-data-on-a-laptop-with-a-family.jpg",
+      "description": "The article discusses how investing $50 per week in an S&P 500 index fund like the SPDR S&P 500 ETF Trust (SPY) can lead to significant wealth growth over a 25-year period, even with a conservative annual return of 8%. It highlights the benefits of a simple, long-term investing strategy in the stock market.",
+      "keywords": [
+        "investing",
+        "S&P 500",
+        "ETF",
+        "wealth building",
+        "long-term"
+      ],
+      "insights": [
+        {
+          "ticker": "SPY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article recommends investing in the SPDR S&P 500 ETF Trust as a simple and effective way to gain exposure to the S&P 500 index, which has historically averaged around 10% annual returns. The low expense ratio of 0.09% is also highlighted as a benefit."
+        }
+      ]
+    },
+    {
+      "id": "47d717085dd8a0cb621f2e5a3844f58a8d6071308476482bb4345d5decbbad19",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why You Can Do Better Than the SPDR S&P 500 ETF Trust",
+      "author": "Reuben Gregg Brewer",
+      "published_utc": "2025-03-08T09:55:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/08/why-you-can-do-better-than-spdr-sp-500-etf-trust/?source=iedfolrf0000001",
+      "tickers": [
+        "SPY",
+        "VOO",
+        "IVV"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/810105/24_07_01-a-person-with-their-hands-out-as-if-weighing-their-options-_mf-dload-gettyimages-1125894475-1199x800-cfc1e94.jpg",
+      "description": "The article discusses the evolution of the ETF market since the introduction of the SPDR S&P 500 ETF Trust (SPY), the first ETF. It argues that while SPY was a revolutionary product, investors now have better options with lower expense ratios, such as the Vanguard S&P 500 ETF (VOO) and the iShares Core S&P 500 ETF (IVV).",
+      "keywords": [
+        "ETF",
+        "S&P 500",
+        "index fund",
+        "expense ratio"
+      ],
+      "insights": [
+        {
+          "ticker": "SPY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article acknowledges the historical significance of SPY as the first ETF, but suggests that it is now an expensive option compared to other S&P 500 index funds."
+        },
+        {
+          "ticker": "VOO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights VOO as a better alternative to SPY, with a lower expense ratio of 0.03% compared to SPY's 0.09%."
+        },
+        {
+          "ticker": "IVV",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article also mentions IVV as a cheaper option than SPY, with the same 0.03% expense ratio as VOO."
+        }
+      ]
+    }
+  ]
+}

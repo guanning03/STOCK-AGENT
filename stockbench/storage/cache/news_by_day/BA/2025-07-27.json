@@ -1,6 +1,81 @@
 {
   "items": [
     {
+      "title": "This Overlooked, Simple Reason Might Justify Today's High Valuation For Stocks",
+      "description": "Current high stock valuations can be justified by the scarcity value, amplifying demand and supporting higher P/E ratios. Learn more about the market here.",
+      "published_utc": "2025-07-27T17:48:34",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3b708327e3091d9f6c3057f15990694dcf404d54e062c36e6270b2e8bf1107ce",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/952679438/image_952679438.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136104119,
+      "datetime": 1753652914
+    },
+    {
+      "title": "Boeing Defense Workers Gear Up for Strike",
+      "description": "Boeing Defense Workers Gear Up for Strike",
+      "published_utc": "2025-07-27T15:36:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b91526b03630927f8458f2d3ae3cfcf2089be18340d427764a80aa6180914f81",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136169137,
+      "datetime": 1753644960
+    },
+    {
+      "title": "Boeing's contract offer rejected by union members",
+      "description": "Boeing's proposal, which was sent on Tuesday to more than 3,200 members of the International Association of Machinists and Aerospace Workers (IAM) District 837, included a 20% general wage increase over four years and a $5,000 ratification bonus, as well as more vacation time and sick leave.  \"The proposal from Boeing Defense fell short of addressing the priorities and sacrifices of the skilled IAM Union workforce,\" the IAM union said.",
+      "published_utc": "2025-07-27T13:54:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=10bf3ba12195ada2cda46a60b04f599cb30e84e6482d9d8db19fa726ca01e11b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101830,
+      "datetime": 1753638857
+    },
+    {
+      "title": "Tech Earnings, Tariff Deadline and Other Key Things to Watch this Week",
+      "description": "Markets face a pivotal week as the S&P 500 navigates a perfect storm of Federal Reserve policy decisions, mega-cap technology earnings, and critical trade developments.",
+      "published_utc": "2025-07-27T13:00:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4dee95ba73588ccdcd202ad1320a2884b432bb335cfd907a68dcefad3512282f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101516,
+      "datetime": 1753635602
+    },
+    {
+      "title": "Bangladesh orders 25 Boeing planes as part of push to ease US tariffs",
+      "description": "DHAKA (Reuters) -Bangladesh has ordered 25 aircraft from Boeing and ramped up imports of key American goods in an effort to defuse trade tensions and bring down the steep tariffs imposed by the Trump administration, a senior official said on Sunday.  The moves are part of a broader strategy to narrow a $6 billion U.S. trade deficit with Bangladesh and avoid a looming 35% tariff hike that has rattled the country's export sector, especially the garments industry which risks losing competitiveness in one of its largest markets.  \"We need new aircraft urgently, possibly within the next couple of years,\" Commerce Secretary Mahbubur Rahman told reporters.",
+      "published_utc": "2025-07-27T12:10:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3573a57bb6870b1a7695b4f4531050305b0f6edff3191bc30de70f9907349712",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101832,
+      "datetime": 1753632618
+    },
+    {
       "title": "EPU: Peru Isn't One Of My Top LatAm Picks Right Now",
       "description": "Peru's political instability and upcoming elections present significant risks, particularly vs. other countries in the region. Read why EPU ETF is a Hold.",
       "published_utc": "2025-07-27T09:03:35",

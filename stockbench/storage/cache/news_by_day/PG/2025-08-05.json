@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Commentary: Tariffs are denting profits, and maybe soon your portfolio",
+      "description": "Dozens of companies are reporting lower profits caused by Trump's tariffs. Stock values haven't adjusted — yet.",
+      "published_utc": "2025-08-05T15:34:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e7347708873d9ef4dadaed4b6509bc0ed65324c16396cb31bf6713272d3a4eca",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136232117,
+      "datetime": 1754422461
+    },
+    {
+      "title": "Tariffs are denting profits, and maybe soon your portfolio",
+      "description": "Dozens of companies are reporting lower profits caused by Trump's tariffs. Stock values haven't adjusted — yet.",
+      "published_utc": "2025-08-05T15:34:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=301f829f2259a856d871a9066e15cec28259770b9d7f270d7fba346715c121ac",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136217077,
+      "datetime": 1754422461
+    },
+    {
+      "title": "Do Wall Street Analysts Like Procter & Gamble Stock?",
+      "description": "While Procter & Gamble has lagged behind the broader market over the past year, Wall Street analysts maintain a moderately optimistic outlook on the stock’s prospects.",
+      "published_utc": "2025-08-05T10:33:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b1f8b35f29ae709e0173a9109c6ddaf5c48b8eebf8e5126a1fb11086e026891d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136214903,
+      "datetime": 1754404437
+    }
+  ]
+}

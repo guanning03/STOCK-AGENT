@@ -1,6 +1,81 @@
 {
   "items": [
     {
+      "title": "Boeing (BA) Gains As Market Dips: What You Should Know",
+      "description": "In the closing of the recent trading day, Boeing (BA) stood at $139.24, denoting a +0.27% change from the preceding trading day.",
+      "published_utc": "2025-04-08T17:45:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f7ad37e7e07ed1e0c1c632a364aa70229b63a96e33bf8fd1ed98eca5ae7f6683",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133823792,
+      "datetime": 1744148714
+    },
+    {
+      "title": "Cellphones, clothes, TVs, toys: This is all the stuff the U.S. buys from China",
+      "description": "Cellphones, clothes, TVs, toys: This is all the stuff the U.S. buys from China",
+      "published_utc": "2025-04-08T17:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=186b64aa9ba25a52cfca60dd0c16ca8776c01763facfdf9b255f9b64ab96e87c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133823009,
+      "datetime": 1744147920
+    },
+    {
+      "title": "CVS, Boeing, Wayfair: Trending Tickers",
+      "description": "Julie Hyman takes a closer look at some of today's trending tickers. CVS (CVS) shares pop after the company hired a new CFO and said it would meet or exceed its outlook. Boeing (BA) is in focus after reporting a 41% year-over-year increase in deliveries in March. Wayfair (W) stock plunges after Bank of America analysts cut its price target to $33 from $41, citing tariff impacts on prices. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+      "published_utc": "2025-04-08T16:50:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a0790ec51adb011c917528dab288e7010dfb2f37a5bec25927f2bb519a67ffcf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133816172,
+      "datetime": 1744145438
+    },
+    {
+      "title": "Boeing First-Quarter Deliveries, Orders Increase Annually; Shares Rise",
+      "description": "Boeing (BA) on Tuesday reported increases in both deliveries and orders for the first quarter on an",
+      "published_utc": "2025-04-08T15:20:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fd17755a64376c503a24339bc18fc2bcc3cccc8a22085ecc4cb066ac97d818b2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133823796,
+      "datetime": 1744140037
+    },
+    {
+      "title": "Boeing Tops Q1 Deliveries Estimates as Production Rises",
+      "description": "Boeing on Tuesday topped first-quarter delivery estimates after safety incidents and a strike slowed its plane manufacturing last year.",
+      "published_utc": "2025-04-08T14:52:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aeddcae943e70664b72c8b4fa182131237956c06f522f74533964c044f146d89",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133823797,
+      "datetime": 1744138324
+    },
+    {
       "title": "Boeing: Trade War Hurts 737 MAX In China",
       "description": "Boeing continues to eye 737 MAX deliveries to China, but tariffs pose significant risks. Click here to find out why BA stock is a Buy.",
       "published_utc": "2025-04-08T00:35:59",

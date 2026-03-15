@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise as Tesla, Meta, Microsoft diverge after earnings",
+      "description": "Wall Street is in the middle of Big Tech earnings, with the 'Magnificent Seven' leading moves in both directions.",
+      "published_utc": "2026-01-28T18:43:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b3ecac2cefa2c1ca6a88a00ff811443cc1bf148c9742a4fc837438f86d05abc7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138292578,
+      "datetime": 1769643789
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip as Tesla, Meta, Microsoft diverge after earnings",
+      "description": "Wall Street is in the middle of Big Tech earnings, with the 'Magnificent Seven' leading moves in both directions.",
+      "published_utc": "2026-01-28T18:43:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ffe03a46d832b31388478b8a8a80087559337e864b8da864f4782c3fe10e108e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138291520,
+      "datetime": 1769643789
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures mixed as Tesla, Meta, Microsoft diverge after earnings",
+      "description": "Wall Street is in the middle of Big Tech earnings, with the 'Magnificent Seven' leading big moves in both directions.",
+      "published_utc": "2026-01-28T18:43:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1f020d64cebf2788b8818eca4407b024627afb20c6e6ef3ba7f32b8531c030fa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138290123,
+      "datetime": 1769643789
+    },
+    {
+      "title": "Earnings live: IBM stock surges, Whirlpool slides; Meta, Microsoft, Tesla report beats across the board",
+      "description": "The fourth quarter earnings season kicks into high gear this week, with Big Tech results from Microsoft, Meta, Tesla, and Apple headlining the earnings calendar.",
+      "published_utc": "2026-01-28T16:39:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=101d3989b2adbcbaa12c0372880869b52269ededccf6700e8ebae8dae0e40914",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138288984,
+      "datetime": 1769636388
+    },
+    {
+      "title": "Airline loyalty programs seen at risk if Trump caps credit-card interest rates",
+      "description": "By Padraic Halpin and Tim Hepher DUBLIN, Jan 28 (Reuters) - A proposal by U.S.",
+      "published_utc": "2026-01-28T15:50:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a5da02164f08508d92f9b3e99fcb2ea3464fa24c6457bb27e2e0a79f1defc196",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138289135,
+      "datetime": 1769633459
+    }
+  ]
+}

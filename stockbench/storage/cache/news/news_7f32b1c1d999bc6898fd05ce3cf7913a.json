@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "HIG Q2 Earnings Beat on Premium Growth in Business Insurance Unit",
+      "description": "Hartford's Q2 earnings benefit from strong premium gains and improved loss ratios in Business Insurance and Personal Insurance units, partly offset by higher benefit costs.",
+      "published_utc": "2025-07-29T14:58:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3b94396b880a62a5735f40b06b136a2510ca51ea8bdf7642ffe21ea7a6c57f60",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136130354,
+      "datetime": 1753815480
+    },
+    {
+      "title": "Travelers Cos. Inc. stock outperforms competitors on strong trading day",
+      "description": "Travelers Cos. Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-07-29T12:47:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=55f9d3f6aa72b00f60b696c4cdceb59f5460f455b905e1225ff5079aff4bcdf4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136139581,
+      "datetime": 1753807620
+    },
+    {
+      "title": "Principal Financial Q2 Earnings Beat, Revenues Miss, Dividend Raised",
+      "description": "PFG's second-quarter results reflect higher operating earnings across most of the segments, improved AUM, and lower expenses.",
+      "published_utc": "2025-07-29T10:53:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d4f09bb13bc3ad9a62f5dca090bf696c22f5a5f6cf6084cc079662898b8c726f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136119351,
+      "datetime": 1753800780
+    },
+    {
+      "title": "ClearBridge Appreciation Portfolios Q2 2025 Commentary",
+      "description": "The ClearBridge Appreciation Portfolios showed strong upside participation in the S&P 500 Indexâs rally in the second quarter, trailing the benchmark modestly.",
+      "published_utc": "2025-07-29T06:26:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1b55d59ef1596c22872892fa2ae9ae91cabfb4535eaa71934f022fbd8e0e3494",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1659934937/image_1659934937.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136118338,
+      "datetime": 1753784760
+    },
+    {
+      "title": "ClearBridge Dividend Strategy Portfolios Q2 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-07-29T00:20:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=28f85d407616429c16deb9637fb7662963939cf302eb903ca3d76bed560037c0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136115765,
+      "datetime": 1753762800
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:19:25.409265+00:00",
+    "cache_key": "news_7f32b1c1d999bc6898fd05ce3cf7913a",
+    "count": 5
+  }
+}

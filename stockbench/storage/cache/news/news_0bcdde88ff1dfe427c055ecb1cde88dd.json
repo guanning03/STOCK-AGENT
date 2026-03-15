@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Dow slides 800 points as sell-off ramps up following Trump's global tariff hike: Live updates",
+      "description": "Wall Street is coming off a volatile session on Friday after the Supreme Court struck down President Donald Trump’s tariffs.",
+      "published_utc": "2026-02-22T13:06:18",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=3b75b9c091756ed4e4919ad422fb0910adebde867d4edc7efb23dfa7ed79daa5",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108267883-1771600340652-gettyimages-2262113458-AFP_98CY9UB.jpeg?v=1771863059&w=1920&h=1080",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139185766,
+      "datetime": 1771783578
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:27:16.958400+00:00",
+    "cache_key": "news_0bcdde88ff1dfe427c055ecb1cde88dd",
+    "count": 1
+  }
+}

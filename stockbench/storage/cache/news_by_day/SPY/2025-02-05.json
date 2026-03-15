@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": "3606b7cb4c70256d48b49cc16bcdb37817cf041beb348266b1c1c337bb478e55",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Private Employment Rises By 183,000, Beats Estimates In January: 'Consumer-Facing Industries Drove Hiring'",
+      "author": "Piero Cingari",
+      "published_utc": "2025-02-05T13:48:05Z",
+      "article_url": "https://www.benzinga.com/25/02/43494246/private-employment-rises-by-183000-beats-estimates-in-january-consumer-facing-industries-drove-hiring",
+      "tickers": [
+        "AAPL",
+        "GOOG",
+        "GOOGL",
+        "SPY"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/02/05/jobs-shutter.jpeg?width=1200&height=800&fit=crop",
+      "description": "Private employers added 183,000 jobs in January, surpassing expectations and December's upwardly revised 176,000. Service-providing industries gained 190,000 jobs, while goods-producing sectors lost 6,000, with manufacturing shedding 13,000.",
+      "keywords": [
+        "employment",
+        "private sector",
+        "job growth",
+        "service industry",
+        "manufacturing"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Apple's stock was 2.4% lower in premarket trading, weighing on tech-heavy indices."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Alphabet's stock was 7.2% lower in premarket trading, weighing on tech-heavy indices."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Alphabet's stock was 7.2% lower in premarket trading, weighing on tech-heavy indices."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Futures on major U.S. indices, including the SPDR S&P 500 ETF Trust, edged lower during premarket trading."
+        }
+      ]
+    }
+  ]
+}

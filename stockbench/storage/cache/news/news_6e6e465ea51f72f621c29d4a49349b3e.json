@@ -1,0 +1,77 @@
+{
+  "items": [
+    {
+      "id": "54c98c21f008678db35f0b3ed79138a4ddc5692c8bb88ecab3904a0fd3cf9adb",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "All Eyes On December Fed Meeting As Traders Await Interest Rate Projections",
+      "author": "Piero Cingari",
+      "published_utc": "2024-12-18T14:18:48Z",
+      "article_url": "https://www.benzinga.com/economics/macro-economic-events/24/12/42554114/all-eyes-on-december-fed-meeting-as-traders-await-interest-rate-projections",
+      "tickers": [
+        "SPY"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2024/12/18/jerome-powell-ai14.png?width=1200&height=800&fit=crop",
+      "description": "The Federal Reserve is expected to cut interest rates by 0.25% at its December meeting, bringing the federal funds rate to 4.25%-4.50%. Traders are more focused on the Fed's updated economic projections and guidance, which could reshape expectations for 2025 rate cuts.",
+      "keywords": [
+        "Federal Reserve",
+        "interest rates",
+        "economic projections",
+        "inflation"
+      ],
+      "insights": [
+        {
+          "ticker": "SPY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that buying the S&P 500 index (tracked by the SPDR S&P 500 ETF) around Fed meetings has historically yielded positive returns, indicating a positive sentiment towards the ETF."
+        }
+      ]
+    },
+    {
+      "id": "23299e3afeb77fa1c0c03b097bb5494d5c30e643d37929e2c554e414adb075fc",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The S&P 500 Recently Hit Another Record High. Should You Wait Until the New Year to Invest in It?",
+      "author": "Stefon Walters",
+      "published_utc": "2024-12-18T12:15:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/18/the-sp-500-recently-hit-another-record-high-should/?source=iedfolrf0000001",
+      "tickers": [
+        "VOO",
+        "SPY"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800967/woman-smartphone2-getty.jpg",
+      "description": "The S&P 500 has hit a new all-time high, leading some to hesitate about investing. However, the article advises against trying to time the market and instead recommends using dollar-cost averaging to invest in the S&P 500 consistently over time.",
+      "keywords": [
+        "S&P 500",
+        "investing",
+        "dollar-cost averaging",
+        "ETFs"
+      ],
+      "insights": [
+        {
+          "ticker": "VOO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article recommends the Vanguard S&P 500 ETF as a low-cost and liquid option to invest in the S&P 500 index."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares the Vanguard S&P 500 ETF to the SPDR S&P 500 Trust ETF, noting that the Vanguard ETF has a lower expense ratio."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:42:19.740427+00:00",
+    "cache_key": "news_6e6e465ea51f72f621c29d4a49349b3e",
+    "count": 2
+  }
+}

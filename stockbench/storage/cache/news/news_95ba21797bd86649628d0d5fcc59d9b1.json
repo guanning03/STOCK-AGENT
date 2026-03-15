@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Christmas Day 2025: What’s open & what’s closed?",
+      "description": "The year-end holiday season is upon us, and millions of Americans will be celebrating Christmas Day, a major U.S. holiday. Christmas Day in 2025 takes place on Thursday, December 25. While many Americans will be celebrating at home with family and friends, others will be traveling abroad. ...",
+      "published_utc": "2025-12-24T11:49:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e6a3f24af6a09a2438834b7425cb8f311f2a0517a028fd9e70240c3f1de0f7ce",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137897411,
+      "datetime": 1766594940
+    },
+    {
+      "title": "Fidelity Contrafund’s Will Danoff Is Getting Closer to Handing Off the Reins",
+      "description": "The legendary manager has taken on two co-managers to help him run the mammoth fund. Just don’t use the word “retirement.”",
+      "published_utc": "2025-12-24T01:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=054f6c39e11ee74d4746df020dca22da3909b367a7636a2d7e74a94806fd461b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137897185,
+      "datetime": 1766556000
+    },
+    {
+      "title": "Fidelity Contrafund’s Will Danoff Is Getting Closer to Handing Over the Reins",
+      "description": "Fidelity Contrafund’s Will Danoff Is Getting Closer to Handing Over the Reins",
+      "published_utc": "2025-12-23T20:00:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=7f7cdb85f74734bb7b19576bbe055ef3d93614f2260c209058c624ac83369bf7",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138003016,
+      "datetime": 1766538000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T09:05:33.698285+00:00",
+    "cache_key": "news_95ba21797bd86649628d0d5fcc59d9b1",
+    "count": 3
+  }
+}

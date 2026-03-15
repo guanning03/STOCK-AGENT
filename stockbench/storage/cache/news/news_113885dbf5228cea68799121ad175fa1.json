@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Quality Over Hype: Investing Wisely for the Long Term",
+      "description": "Nancy Tengler shares her market outlook and favorite stocks.",
+      "published_utc": "2025-11-10T16:38:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=318f01388ff3cd246cc805213f41b00cb2305906cd20d69772806272d5835f9d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137437566,
+      "datetime": 1762810680
+    },
+    {
+      "title": "Wall Street Ups Mastercard's Earnings View, But the Price Tag Bites",
+      "description": "MA's rising earnings outlook and global momentum fuel optimism, but premium valuation and mounting regulatory risks temper enthusiasm.",
+      "published_utc": "2025-11-10T11:32:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e3acc985c08a9304413987dbf03ea6d58c50472cf9bdd960d2cfe3a04a0f7a03",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137396567,
+      "datetime": 1762792320
+    },
+    {
+      "title": "10 Financials Stocks With Whale Alerts In Today's Session",
+      "description": "",
+      "published_utc": "2025-11-10T08:35:27",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=a189a412ed6717b1733118acf8ed9369f720e98448afa4668812eff3ef3f276a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138623231,
+      "datetime": 1762781727
+    },
+    {
+      "title": "2 Top Buffett Stocks to Buy and Hold for the Long Haul",
+      "description": "Many view Warren Buffett as the greatest investor of all time.",
+      "published_utc": "2025-11-10T07:50:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6568ff264c7810a0d6a7eaa015f5a14694961b676b742f4c08a8eeda827a5009",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137394977,
+      "datetime": 1762779000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:48:14.866383+00:00",
+    "cache_key": "news_113885dbf5228cea68799121ad175fa1",
+    "count": 4
+  }
+}

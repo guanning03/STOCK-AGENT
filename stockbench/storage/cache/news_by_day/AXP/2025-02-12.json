@@ -1,0 +1,91 @@
+{
+  "items": [
+    {
+      "id": "dc57af6497639c04d7e9841c60d33e37c7e08f78401cfec532dcef42771b3e31",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Prediction: Warren Buffett and Berkshire Hathaway Sold $25 Billion in Apple Stock in Q4",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-12T12:22:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/12/prediction-warren-buffett-and-berkshire-hathaway-s/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "BRK.A",
+        "BRK.B",
+        "AXP"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806825/photo-of-warren-buffett-smiling-1-tmf-may-2014.jpg",
+      "description": "Warren Buffett and Berkshire Hathaway have been steadily selling off their Apple shares, with a predicted $25 billion worth of stock sold in Q4. The article suggests that Apple is no longer a value stock and is overvalued, leading Buffett to sell his position.",
+      "keywords": [
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "Apple",
+        "stock selling",
+        "overvaluation"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that Apple is no longer a value stock and is overvalued, with its earnings and revenue growth stagnating. Buffett and Berkshire Hathaway are selling off their Apple shares as a result."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article indicates that Berkshire Hathaway, led by Warren Buffett, has been methodically selling off its Apple shares, which suggests a strategic move by the company to rebalance its investment portfolio."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article indicates that Berkshire Hathaway, led by Warren Buffett, has been methodically selling off its Apple shares, which suggests a strategic move by the company to rebalance its investment portfolio."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions American Express as Berkshire Hathaway's second-largest holding, but does not provide any specific commentary on the company."
+        }
+      ]
+    },
+    {
+      "id": "8e80e9123ac4c1f491e3d8e5f16b593f90eb16c829662c503103f15a103e5d01",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Should You Buy Affirm While It's Below $85?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-12T10:54:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/12/should-you-buy-affirm-while-its-below-85/?source=iedfolrf0000001",
+      "tickers": [
+        "AFRM",
+        "AXP"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807005/buy-now-pay-later-stock.jpg",
+      "description": "Affirm, a buy now, pay later (BNPL) company, has seen impressive growth, with its stock soaring 677% since the start of 2023. The article discusses whether Affirm's rally still has legs and whether investors should buy the stock under $85.",
+      "keywords": [
+        "Affirm",
+        "Buy Now Pay Later",
+        "Financial Technology",
+        "Stock Valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "AFRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Affirm's impressive financial performance, including 35% growth in gross merchandise volume and 47% revenue growth in the most recent quarter. It also notes Affirm's strong balance sheet, growing lending capacity, and potential for further growth from its integration with Apple Pay. These factors suggest a positive outlook for the company."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares Affirm's valuation to American Express, noting that Affirm has been more expensive but also has higher revenue growth. The comparison is used to provide context for Affirm's valuation, but the article does not make a strong case for or against investing in American Express."
+        }
+      ]
+    }
+  ]
+}

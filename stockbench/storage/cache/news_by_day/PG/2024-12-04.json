@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "id": "ddd2710d3b3ba5078add334ac424283fdf37029678fa28264d75764ff8e76067",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Americas Cosmetics and Toiletries Industry Opportunities Report 2024",
+      "author": "N/A",
+      "published_utc": "2024-12-04T18:58:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2024/12/04/2991853/28124/en/Americas-Cosmetics-and-Toiletries-Industry-Opportunities-Report-2024.html",
+      "tickers": [
+        "PG",
+        "LRLCY",
+        "UL",
+        "EL",
+        "CL"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The report provides an overview of the current cosmetics and toiletries industry in the Americas, including market size, growth trends, product claims, distribution channels, and packaging. It highlights the increasing demand for sustainable and naturally-derived products among consumers.",
+      "keywords": [
+        "cosmetics",
+        "toiletries",
+        "industry",
+        "Americas",
+        "market size",
+        "growth trends",
+        "product claims",
+        "distribution channels",
+        "packaging",
+        "sustainability"
+      ],
+      "insights": [
+        {
+          "ticker": "PG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The report mentions Procter & Gamble as one of the leading companies in the Americas cosmetics and toiletries industry, indicating its strong market position."
+        },
+        {
+          "ticker": "LRLCY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The report mentions L'Oréal as one of the leading companies in the Americas cosmetics and toiletries industry, indicating its strong market position."
+        },
+        {
+          "ticker": "UL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The report mentions Unilever as one of the leading companies in the Americas cosmetics and toiletries industry, indicating its strong market position."
+        },
+        {
+          "ticker": "EL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The report mentions The Estee Lauder Companies as one of the leading companies in the Americas cosmetics and toiletries industry, indicating its strong market position."
+        },
+        {
+          "ticker": "CL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The report mentions Colgate-Palmolive Company as one of the leading companies in the Americas cosmetics and toiletries industry, indicating its strong market position."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "title": "UnitedHealth Group (UNH) CEO Buys $25 Million Worth of Company Stock",
+      "description": "The Form 4 filing by UnitedHealth Group (NYSE:UNH) shows that the new CEO, Stephen Hemsley, acquired $25 million worth of company shares at an average of $288.57 a piece on Friday, 16th May 2025. Mr. Hemsley took the helm of his new office on Tuesday of the same week. UnitedHealth Group (NYSE:UNH) CFO John Rex […]",
+      "published_utc": "2025-05-18T12:54:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b193a6d16e39b8bb3f83d4bddb38f7002ffcfe3e43876cc9f7e0a0f407dbefc3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134577255,
+      "datetime": 1747587257
+    },
+    {
+      "title": "Gold Mining Stocks Were Among Top 10 Large-Cap Losers Last Week (May 12-May 16): Are These In Your Portfolio?",
+      "description": "Gold and silver prices dropped as US and China reduced tariffs, leading to rotation out of safe-haven assets. Top gold mining stocks declined.",
+      "published_utc": "2025-05-18T10:10:46",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=3ed9fa8dc0c89bdec1f0822faced493faf34cd12418998495be0e996c0076687",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/05/18/Gold-With-Balance-Scale--Money-Managemen.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138504954,
+      "datetime": 1747577446
+    },
+    {
+      "title": "Model Portfolio For Capital Appreciation: May 2025",
+      "description": "Discover a model portfolio of dividend-paying stocks & ETFs aimed to beat the S&P 500. Learn strategies for diversification & long-term growth. Click for more.",
+      "published_utc": "2025-05-18T09:25:49",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=29e68c6a874f383bf720d101b9bbdde6f819a96418934ffe8a8abff486120174",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/482730527/image_482730527.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134570896,
+      "datetime": 1747574749
+    },
+    {
+      "id": "3fc8d5f297a39338717292559fdf399de50d605f5db0b9ef7e0827db29cf2859",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Massive News for UnitedHealth Stock Investors!",
+      "author": "Parkev Tatevosian, Cfa",
+      "published_utc": "2025-05-18T11:04:00Z",
+      "article_url": "https://www.fool.com/investing/2025/05/18/massive-news-for-unitedhealth-stock-investors/?source=iedfolrf0000001",
+      "tickers": [
+        "UNH"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/818652/person-in-glasses-screen-reflected.jpg",
+      "description": "UnitedHealth, a major healthcare company, is reportedly under criminal investigation. The potential implications of this investigation for investors are discussed in the article.",
+      "keywords": [
+        "UnitedHealth",
+        "criminal investigation",
+        "healthcare",
+        "investors"
+      ],
+      "insights": [
+        {
+          "ticker": "UNH",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article reports that UnitedHealth is under criminal investigation, which could have negative implications for the company and its investors."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T23:53:24.760108+00:00",
+    "cache_key": "news_8b11a218af3a3ba15fb1ba98332f7a7c",
+    "count": 4
+  }
+}

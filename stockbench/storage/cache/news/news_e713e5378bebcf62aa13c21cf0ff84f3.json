@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "id": "3cfe5d5ecd03633e077514fa63f417e27174fa4c86d77a77662f5711af5be468",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Got $200? 2 Dividend Stocks to Buy and Hold Forever",
+      "author": "Justin Pope",
+      "published_utc": "2025-01-15T10:10:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/15/got-200-2-dividend-stocks-to-buy-and-hold-forever/?source=iedfolrf0000001",
+      "tickers": [
+        "PFE",
+        "JNJ"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803378/pfizer_logo_on_glass_pfe-3.jpg",
+      "description": "Pfizer and Johnson & Johnson are two pharmaceutical industry stalwarts with long histories, generous dividends, and solid growth prospects. Despite recent challenges, Pfizer is reinventing itself with a focus on oncology, while Johnson & Johnson's diversification and consistent dividend growth make it a timeless investment option.",
+      "keywords": [
+        "Pfizer",
+        "Johnson & Johnson",
+        "pharmaceutical industry",
+        "dividends",
+        "growth prospects"
+      ],
+      "insights": [
+        {
+          "ticker": "PFE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Pfizer has a rich history, is reinventing itself with a focus on oncology, and is expected to grow earnings by an average of 14% annually over the next 3-5 years. The stock is also undervalued, trading at less than 10 times forward earnings estimates, and offers a high dividend yield of 6.3%."
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Johnson & Johnson is a diversified healthcare leader with a long history of consistent dividend growth, making it a timeless investment option. While it may not offer explosive growth, its impeccable consistency and modest growth, combined with a 3.5% dividend yield, can provide steady returns for patient investors."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:53:36.921667+00:00",
+    "cache_key": "news_e713e5378bebcf62aa13c21cf0ff84f3",
+    "count": 1
+  }
+}

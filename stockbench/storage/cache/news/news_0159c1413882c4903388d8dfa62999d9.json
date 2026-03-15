@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "IBM (IBM) Outperforms Broader Market: What You Need to Know",
+      "description": "IBM (IBM) reached $271.37 at the closing of the latest trading day, reflecting a +1.87% change compared to its last close.",
+      "published_utc": "2025-09-22T17:45:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c06d2348c00c0030221c179396f44d39068a4f1e1378fdcaf06aa67683d85344",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136850560,
+      "datetime": 1758577504
+    },
+    {
+      "title": "Stock Market Today: Dow Up As Nvidia Pops; EV Play Skids On Warren Buffett Move (Live Coverage)",
+      "description": "The Dow Jones index rose on the stock market today amid more Fedspeak. Apple and Tesla popped. Nvidia jumped on a big OpenAI investment.",
+      "published_utc": "2025-09-22T16:18:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a5cf91b81febaf69197a4bd024fd5f446ba3deb057485180f43b312d305df590",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136850561,
+      "datetime": 1758572297
+    },
+    {
+      "title": "Steve Jobs’ intern went on to sell his company to Google for $625 million—he now advises grads to pay to work for impressive people",
+      "description": "Chet Kapoor believes paying to work for your role model is better value for those who are already spending thousands of dollars on a degree.",
+      "published_utc": "2025-09-22T14:03:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7e0be47d3ef17b795649a52e2acff7289f62bd2727fc8daae94ffd5568be0676",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136850562,
+      "datetime": 1758564207
+    },
+    {
+      "title": "Former Trump economic adviser Gary Cohn says tariffs are the reason you’re having a hard time finding a job",
+      "description": "Cohn said companies pivoted from job hoarding to aggressive cost cutting.",
+      "published_utc": "2025-09-22T12:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c11932717d88144bd36473975e50f3220512029b3b44447e7dee86b7e8173cd1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136850563,
+      "datetime": 1758556800
+    },
+    {
+      "title": "Seagate Stock Surges 153.4% in 6 Months: Will the Uptrend Continue?",
+      "description": "STX has surged 153.4% in six months, lifted by AI-driven cloud demand, HAMR ramp-up, SSD growth and new product launches.",
+      "published_utc": "2025-09-22T11:41:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ada57cabe510bf294077fadfef50acb9ad95a0776c52115f20d5cc9e6fc1abda",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136850564,
+      "datetime": 1758555660
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T04:13:32.803699+00:00",
+    "cache_key": "news_0159c1413882c4903388d8dfa62999d9",
+    "count": 5
+  }
+}

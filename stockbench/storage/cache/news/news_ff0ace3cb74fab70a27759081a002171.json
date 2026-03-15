@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "ADX: Solid Equity Income Fund That Outperforms S&P 500",
+      "description": "Adams Diversified Equity Fund remains a strong long-term income option, currently offering an 8% dividend yield and tax-efficient distributions. See why ADX is a Hold.",
+      "published_utc": "2025-11-09T17:23:52",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0f5bc1663e556451b5632697283e96c7db22b9e122c1485e713673354c1fd693",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1220627489/image_1220627489.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137391292,
+      "datetime": 1762727032
+    },
+    {
+      "title": "The Market Is Turning Against AI Spending",
+      "description": "Oracle sees widening CDS amid rising CapEx and negative free cash flow, with industry peers facing similar pressures. Check out how this may affect equity markets.",
+      "published_utc": "2025-11-09T04:55:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4d97fb5ef33c9caffc8f048af9c7e0b1bd72de7f8603539a67316082d9dfa6d7",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2204043292/image_2204043292.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137386483,
+      "datetime": 1762682100
+    },
+    {
+      "title": "S&P 500: 8 Stock Market Red Flags, 3 Ways To Potentially Profit From A Big Decline",
+      "description": "The S&P 500 has come a long way in 2025. Read how investors should view the market at these levels.",
+      "published_utc": "2025-11-09T04:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=04a52a9d6e35beb7ab482ddbc73e3544f099311108ada71baf4370b37d6dc8e5",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2226337739/image_2226337739.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137386279,
+      "datetime": 1762678800
+    },
+    {
+      "title": "When The Stimulus Stops",
+      "description": "U.S. equity markets dip as tech valuations clash with economic uncertainty from the shutdown.",
+      "published_utc": "2025-11-09T04:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=97705dd36fae3bd54bb851975a428327756d520ce82224a4e78f4599bb4e61df",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2220418362/image_2220418362.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137386276,
+      "datetime": 1762678800
+    },
+    {
+      "title": "Repo Market: Critical Warning Or Bullish Signal",
+      "description": "Despite a limited macroeconomic calendar due to the ongoing government shutdown, corporate results kept investors engaged. Read more here.",
+      "published_utc": "2025-11-08T23:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=35faf0bf8c58acd07eac70c514d18c2c0332b9bc7378ecabb5f5e31b4191cdf0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/499126642/image_499126642.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137385283,
+      "datetime": 1762660800
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:46:16.155755+00:00",
+    "cache_key": "news_ff0ace3cb74fab70a27759081a002171",
+    "count": 5
+  }
+}

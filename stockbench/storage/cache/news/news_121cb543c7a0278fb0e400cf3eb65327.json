@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "How Unusual Was July's Jobs Report Revision? Here's What My Analysis Found",
+      "description": "The headline NFP print for July came in at just 73,000 jobs added - below consensus expectations of a 105,000 job gain.",
+      "published_utc": "2025-08-05T18:55:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1ca6e16957919c05f5701ca09469a1ba22ea457f10f2c2556289f6c11d2e540b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1427537698/image_1427537698.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136230427,
+      "datetime": 1754434500
+    },
+    {
+      "title": "Dreamcash Begins Rollout of Trading Platform with Hyperliquid Integration via Waitlist Access",
+      "description": "George Town, Cayman Islands, August 5th, 2025, Chainwire",
+      "published_utc": "2025-08-05T18:10:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4a0f518dfefe38f9fda5dcbe5cefc38592477efc409380a81490d26b7f5e646f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136273824,
+      "datetime": 1754431840
+    },
+    {
+      "title": "SGOV Pulls In $1.1B as Markets Rebound From Friday Rout",
+      "description": "SGOV led inflows as the Dow surged 585 points to erase Friday's losses.VOO and IVV gained, while SPY and IWM saw outflows.",
+      "published_utc": "2025-08-05T18:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=de97a80597a2223e47dd8cd0c447bc39682c8a2d4236f2b0a03f67645be37c58",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136273825,
+      "datetime": 1754431200
+    },
+    {
+      "title": "Succinct, the First Decentralized Prover Network, Launches on Mainnet",
+      "description": "San Francisco, United States of America, August 5th, 2025, Chainwire",
+      "published_utc": "2025-08-05T16:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ec503554a46f749e41252598f31573b112d5f668f03ce2a056cfcfe03c14b4d4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136273826,
+      "datetime": 1754424300
+    },
+    {
+      "title": "SignQuantum Launches Quantum-Resistant Add-On to Protect Digitally Signed Documents",
+      "description": "Doha, Qatar, August 5th, 2025, Chainwire",
+      "published_utc": "2025-08-05T13:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ffda087b450b953f75453fc0fc424be03f7b5f2bec64015d35526c37bdda4ade",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136273827,
+      "datetime": 1754413500
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:43:51.239159+00:00",
+    "cache_key": "news_121cb543c7a0278fb0e400cf3eb65327",
+    "count": 5
+  }
+}

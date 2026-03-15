@@ -1,0 +1,111 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today: Dow Dips As Nvidia Lags; Netflix Drops From $1,100 To $111 — Here's Why (Live Coverage)",
+      "description": "The Dow Jones index fell on the stock market today. Lithium stocks rose on bullish commentary. Alphabet jumped on a Warren Buffett move.",
+      "published_utc": "2025-11-17T13:31:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9c7f398e83ecca4109d4d9dec4af3eae23749eab0548021202815dea3d076845",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137506126,
+      "datetime": 1763404279
+    },
+    {
+      "title": "Amgen Inc. stock underperforms Monday when compared to competitors despite daily gains",
+      "description": "Amgen Inc. stock underperforms Monday when compared to competitors despite daily gains",
+      "published_utc": "2025-11-17T11:34:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=cd1f9c118eebc8317521f8cc26888042655ee8ccb65df9a4d0653bf7ab2149cf",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137594525,
+      "datetime": 1763397240
+    },
+    {
+      "id": "3d300e99f581ec281c1b9452b204bc1694861645d54131faf0d36d2b27dff752",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "This Sector Is Suddenly Crushing the Broader Market. Should You Invest $1,000?",
+      "author": "Matthew Benjamin",
+      "published_utc": "2025-11-17T10:25:00Z",
+      "article_url": "https://www.fool.com/investing/2025/11/17/sector-crushing-broader-market-invest-healthcare/?source=iedfolrf0000001",
+      "tickers": [
+        "LLY",
+        "NVO",
+        "PFE",
+        "ABBV",
+        "AMGN",
+        "XLV"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/842714/gettyimages-1503065259.jpg",
+      "description": "The healthcare sector is experiencing significant growth, with pharmaceutical companies like Eli Lilly and Novo Nordisk leading the way. Driven by strong quarterly results, drug pricing negotiations, and investor flight to safety, the sector has outperformed the S&P 500 by over seven times in the past month.",
+      "keywords": [
+        "healthcare",
+        "pharmaceuticals",
+        "drug pricing",
+        "market performance",
+        "investment"
+      ],
+      "insights": [
+        {
+          "ticker": "LLY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Stock up 27% in past month, world's best-selling drug, beat earnings expectations, raised guidance"
+        },
+        {
+          "ticker": "NVO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Struck favorable drug pricing deal, part of weight loss drug market expansion"
+        },
+        {
+          "ticker": "PFE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Stock up 4% in past month, secured tariff protection through drug pricing negotiations"
+        },
+        {
+          "ticker": "ABBV",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Up over 6% in past week, strong drug portfolio with promising revenue projections"
+        },
+        {
+          "ticker": "AMGN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Soared almost 15% in a month, beat earnings expectations, positive drug research findings"
+        },
+        {
+          "ticker": "XLV",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Recommended as a way to capture entire healthcare sector performance, sector index up over 6% since mid-October"
+        }
+      ]
+    },
+    {
+      "title": "HQH: Seeing Strong Recent Returns While Attractively Discounted",
+      "description": "Discover HQH: a discounted, actively managed healthcare fund with biotech focus. See why it's outperformed benchmarks.",
+      "published_utc": "2025-11-17T05:24:56",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d4cb43340fd658b184514b9f96afe65506aa97313b61cf12146e3bc230e31b61",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1255266014/image_1255266014.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137504855,
+      "datetime": 1763375096
+    }
+  ]
+}

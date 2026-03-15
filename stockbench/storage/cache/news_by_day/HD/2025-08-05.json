@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Home Depot (HD) Increases Despite Market Slip: Here's What You Need to Know",
+      "description": "In the most recent trading session, Home Depot (HD) closed at $385.41, indicating a +1.21% shift from the previous trading day.",
+      "published_utc": "2025-08-05T17:45:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4fb48505a4eb71d77e53f6166c2718ac193eddc3e15c71f53b1384e6508cf46f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136232223,
+      "datetime": 1754430303
+    },
+    {
+      "title": "Dow Hovers Near Breakeven. Most of the Market Is Struggling.",
+      "description": "The Dow was positive in Tuesday afternoon trading after a round-trip from a 100-point gain to a 100-point decline.  The blue-chip index was moving in and out of positive territory with 16 of its 30 stocks on the rise.  UnitedHealth Group, 3M, Amazon.com, Home Depot, and Boeing were among its biggest contributors.",
+      "published_utc": "2025-08-05T13:31:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=52a61e7331f2df4cabc5f0ee4d2dc2f05fb82f69552142784d18c12b62172de1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136217084,
+      "datetime": 1754415119
+    },
+    {
+      "title": "The Dow Is Back to Breakeven. Most of the Market Is Struggling.",
+      "description": "The Dow was flat in Tuesday afternoon trading after a round-trip from a 100-point gain to a 100-point decline.  The blue-chip index was moving in and out of positive territory with 13 of its 30 stocks on the rise.  UnitedHealth Group, 3M, Amazon.com, Home Depot, and Boeing were among its biggest contributors.",
+      "published_utc": "2025-08-05T13:08:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4537b94d06e04506b467870b08b02156bb4a097e6c8afb1448662fb49ab3c43a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136214771,
+      "datetime": 1754413687
+    },
+    {
+      "title": "Home Depot Inc. stock outperforms competitors on strong trading day",
+      "description": "Home Depot Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-08-05T12:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=63586ee856952419fd57cabb37a94d42b8787824b4c7000ff5bf9d6ed6585966",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136234695,
+      "datetime": 1754411460
+    },
+    {
+      "title": "Stock Market Today: Stocks Fade From Higher Open",
+      "description": "Palantir hits a new high but economic jitters mute Monday's rally.",
+      "published_utc": "2025-08-05T12:25:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1f5a2ee612970a41ad19022019ee7fcf0689f50989de725d76d3b9de5958920b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136214774,
+      "datetime": 1754411120
+    }
+  ]
+}

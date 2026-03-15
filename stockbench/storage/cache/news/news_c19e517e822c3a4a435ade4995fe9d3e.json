@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today: Dow jumps; S&P 500 and Nasdaq slip",
+      "description": "President Trump and Elon Musk continue to feud. Nike and Apple boost the Dow.",
+      "published_utc": "2025-07-01T12:11:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6ac22dc656ad94e90e74c223a57e6e0a640156b80dbc5e8dfb30ec9e22b4f313",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135694490,
+      "datetime": 1751386283
+    },
+    {
+      "title": "XLB: Technicals Turn Weaker, Despite A Softer Greenback (Rating Downgrade)",
+      "description": "XLB's lackluster momentum, high concentration in top holdings, and sensitivity to a potential US dollar rebound increase risk. Click to read why XLB is a Hold.",
+      "published_utc": "2025-07-01T10:48:45",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=33c4026511e91bf7602e644394595ffacf973f6856c84070bc9db260ab636eb0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2212448849/image_2212448849.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135696811,
+      "datetime": 1751381325
+    },
+    {
+      "title": "Why the Dow is surging as S&P 500 and Nasdaq stall",
+      "description": "Why the Dow is surging as S&P 500 and Nasdaq stall",
+      "published_utc": "2025-07-01T09:37:02",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b5c0ad7b9309156140035b6922ace25f69e16ca1f948b8b43686e2edb42981cb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135730086,
+      "datetime": 1751377022
+    },
+    {
+      "title": "Dow up nearly 500 points on gains in Amgen, Merck stocks",
+      "description": "Dow up nearly 500 points on gains in Amgen, Merck stocks",
+      "published_utc": "2025-07-01T08:15:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=1c6d3b4186a76d5225de09218dc8bc43210d3a4778efb05914b4baa6e8a50e47",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135729841,
+      "datetime": 1751372100
+    },
+    {
+      "title": "Dow's 300-point rally highlighted by gains in Amgen, Merck shares",
+      "description": "Dow's 300-point rally highlighted by gains in Amgen, Merck shares",
+      "published_utc": "2025-07-01T07:14:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=d71523d544b94030d53eb6b87630c8a93b7a7ac763b72501532ba7fd0a8134ed",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135729800,
+      "datetime": 1751368440
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T00:47:10.301135+00:00",
+    "cache_key": "news_c19e517e822c3a4a435ade4995fe9d3e",
+    "count": 5
+  }
+}

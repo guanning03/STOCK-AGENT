@@ -1,0 +1,50 @@
+{
+  "items": [
+    {
+      "id": "9251563b2ba89beafaa7b2363dee544ed79f397318ac47a23740f14e39a5d0da",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Should You Buy This Artificial Intelligence (AI) Stock Before 2025?",
+      "author": "Anders Bylund",
+      "published_utc": "2024-12-22T14:43:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/22/should-you-buy-this-ai-stock-before-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "IBM",
+        "NVDA",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801834/thinking-robot-flipped.jpg",
+      "description": "IBM's generative AI platform, watsonx, has secured $3 billion in multiyear contracts, and the company's AI-boosted System Z mainframes are expected to drive growth in 2025. Despite a modest Q3 report, IBM's AI and cloud businesses are showing strong performance, positioning the company for an 'upward inflection in growth' next year.",
+      "keywords": [
+        "IBM",
+        "AI",
+        "watsonx",
+        "System Z",
+        "mainframes",
+        "cloud",
+        "growth"
+      ],
+      "insights": [
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights IBM's strong performance in its AI and cloud businesses, with its generative AI platform watsonx securing $3 billion in multiyear contracts. The company's AI-boosted System Z mainframes are also expected to drive growth in 2025, and the CEO has expressed confidence in the company's ability to deliver an 'upward inflection in growth' next year."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Nvidia as a competitor in the AI market, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Microsoft as a competitor in the AI market, but does not provide any specific information about the company's performance or outlook."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "items": [
+    {
+      "id": "67fa4e291a6a8d247d9c10d9b88b7f3710274f89d6f2282a3326683a2fbf8959",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The S&P 500 Is on Track to Do Something It Hasn't Done Since 1999, and Here's What It Could Mean for 2025",
+      "author": "The Motley Fool",
+      "published_utc": "2024-11-30T09:43:00Z",
+      "article_url": "https://www.fool.com/investing/2024/11/30/the-sp-500-track-hasnt-done-since-1999-and-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "MSFT",
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "META"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799279/gold-bull-and-bear-figurines-placed-on-top-of-a-smartphone-with-a-stock-trading-app-on-the-screen.jpg",
+      "description": "The S&P 500 is on track to deliver back-to-back annual gains of at least 20% for the first time since 1999, which has only happened six times in the index's history. This could signal another strong year in 2025, but the data is heavily influenced by the dot-com bubble era. The current technology boom driven by AI may underpin the gains, but the market is expensive and 2025 will need to be 'almost perfect' for investors to see another strong return.",
+      "keywords": [
+        "S&P 500",
+        "stock market",
+        "technology",
+        "AI",
+        "valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia has added $3.1 trillion to its market capitalization over the last two years, primarily based on sales of its GPUs for the data center used in AI development. This suggests the AI boom is underpinned by tangible financial results."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft, along with Amazon, Alphabet, and Meta Platforms, is expected to invest a combined $300 billion in AI infrastructure during 2025, which could be great for the broader market if the spending pays off."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft, along with Amazon, Alphabet, and Meta Platforms, is expected to invest a combined $300 billion in AI infrastructure during 2025, which could be great for the broader market if the spending pays off."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft, along with Amazon, Alphabet, and Meta Platforms, is expected to invest a combined $300 billion in AI infrastructure during 2025, which could be great for the broader market if the spending pays off."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft, along with Amazon, Alphabet, and Meta Platforms, is expected to invest a combined $300 billion in AI infrastructure during 2025, which could be great for the broader market if the spending pays off."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft, along with Amazon, Alphabet, and Meta Platforms, is expected to invest a combined $300 billion in AI infrastructure during 2025, which could be great for the broader market if the spending pays off."
+        }
+      ]
+    },
+    {
+      "id": "80e252308af92ca9f3546ae563cfcafa92bbb0ff6e70d239b5ac59724a38e617",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Advertising Revenue Powers Alphabet's Earnings, but Here's Why You'll Really Want to Buy the Stock Now",
+      "author": "The Motley Fool",
+      "published_utc": "2024-11-30T08:45:00Z",
+      "article_url": "https://www.fool.com/investing/2024/11/30/heres-why-youll-want-to-buy-alphabet-now/?source=iedfolrf0000001",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799189/gettyimages-906798262.jpg",
+      "description": "Alphabet's dominance in search and strong growth in its cloud computing unit, Google Cloud, make it an attractive investment opportunity. The company's focus on AI is driving improvements in its search platform and advertising business, while Google Cloud is outpacing rivals in revenue growth.",
+      "keywords": [
+        "Alphabet",
+        "Google",
+        "Google Cloud",
+        "AI",
+        "Advertising"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet has a strong position in the search market and is investing in AI to improve its search capabilities. Its cloud computing unit, Google Cloud, is also experiencing rapid growth and outpacing competitors, making the company an attractive investment opportunity."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet has a strong position in the search market and is investing in AI to improve its search capabilities. Its cloud computing unit, Google Cloud, is also experiencing rapid growth and outpacing competitors, making the company an attractive investment opportunity."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Microsoft's Azure cloud services are mentioned as a competitor to Google Cloud, but no specific sentiment is expressed towards the company."
+        }
+      ]
+    }
+  ]
+}

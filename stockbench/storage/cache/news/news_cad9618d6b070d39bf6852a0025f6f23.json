@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The 1-Minute Market Report June 15, 2025",
+      "description": "Discover how geopolitical tensions and shifting investment trends could impact markets. Read more here.",
+      "published_utc": "2025-06-14T16:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=58624612c412ce589cd93f4bc763cb5808d4fb6d9aba14195085d18ec0e683a3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213764535/image_1213764535.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135273699,
+      "datetime": 1749932100
+    },
+    {
+      "title": "Why I Will Never Retire",
+      "description": "Discover how to redefine retirement as a fulfilling journey with flexible work, purpose-driven living, and financial independence.",
+      "published_utc": "2025-06-14T04:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=57d3665268a4b328101351fddcbc0893971fe96901f75eea3eacba691a07a97a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2148278795/image_2148278795.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135271132,
+      "datetime": 1749888300
+    },
+    {
+      "title": "Weekly Indicators: USD And Consumer Spending Fade, While Oil Spikes Mean Stagflation?",
+      "description": "Read here for an update on the latest economic trends, neutral indicators, stagflation risks, mixed market signals, and consumer spending outpacing inflation.",
+      "published_utc": "2025-06-14T04:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1e8ece97853d9ac94a5f6ff509b709c6ca51e51bf45a0ac6f5f1f5c48930c7e6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1409735832/image_1409735832.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135271134,
+      "datetime": 1749888000
+    },
+    {
+      "title": "Conflict In Iran: What This Means For The U.S. Economy And Markets",
+      "description": "",
+      "published_utc": "2025-06-14T01:26:38",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=87de399fb5da98f340987fc4be2d4ce6d7d80e9d16f9b618849645f926426d2b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135268583,
+      "datetime": 1749878798
+    },
+    {
+      "title": "What's In Store For Financial Markets In The Second Half Of The Year?",
+      "description": "Navigating market volatility has certainly been a challenge for investors this year. Read more here.",
+      "published_utc": "2025-06-13T23:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=94d37da860cf3653167925883c1a4753350e6f3d539a5d8259d9e13211b83d6f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1470001455/image_1470001455.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135265368,
+      "datetime": 1749872400
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T00:27:31.773229+00:00",
+    "cache_key": "news_cad9618d6b070d39bf6852a0025f6f23",
+    "count": 5
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "items": [
+    {
+      "title": "GS vs. MS: Which Stock Should Value Investors Buy Now?",
+      "description": "GS vs. MS: Which Stock Is the Better Value Option?",
+      "published_utc": "2025-08-27T11:40:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=60da7f967279d6dba87c8737e5ae68c10b4bdae658f4101cbba975aa9b757090",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136539638,
+      "datetime": 1756309202
+    },
+    {
+      "title": "China Has Its Own Nvidia. Watch This Stock as AI-Driven Sales Soar 4,000%.",
+      "description": "It's unclear whether Nvidia will be able to sell its chips in China in future. One Chinese chip maker is taking advantage.",
+      "published_utc": "2025-08-27T11:07:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac7e879282b76539e137f5672f61354ae2d062be7298c5d1d8af6e8bac5f0295",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136539639,
+      "datetime": 1756307220
+    },
+    {
+      "title": "A New Breed of Active Commodity Funds Is Beating Indexers. It’s All About Strategy.",
+      "description": "Actively managed funds tend to have an edge over indexers when it comes to investing in commodities. Here are some of their strategies.",
+      "published_utc": "2025-08-27T03:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fecf9c130edd29c22ab7db781b6abe1889146e6d2d83292086874af94135097a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136536469,
+      "datetime": 1756278000
+    },
+    {
+      "id": "06a614bcf17d695ceb057417e11914a7cf5b035eb8f0095ce49f6b03114bd970",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "NextEra Energy Rallies Despite Big, Beautiful Bill's Blow to Clean Energy: Is the Stock Still a Buy?",
+      "author": "William Dahl",
+      "published_utc": "2025-08-27T00:13:00Z",
+      "article_url": "https://www.fool.com/investing/2025/08/26/nextera-energy-rallies-despite-blow-to-clean-energ/?source=iedfolrf0000001",
+      "tickers": [
+        "NEE",
+        "NEEpN",
+        "NEEpR",
+        "NEEpS",
+        "NEEpT",
+        "NEEpU",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/830820/solar.jpg",
+      "description": "NextEra Energy remains resilient despite potential clean energy tax credit rollbacks, with strong positioning in renewable energy and potential growth from AI-driven electricity demand. The company continues its dividend growth streak and maintains optimism about future projects.",
+      "keywords": [
+        "clean energy",
+        "renewable energy",
+        "solar",
+        "nuclear",
+        "AI",
+        "electricity demand",
+        "tax credits"
+      ],
+      "insights": [
+        {
+          "ticker": "NEE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Despite legislative challenges, the company has a strong renewable energy portfolio, plans for expansion, potential AI-driven electricity demand growth, consistent dividend increases, and ability to qualify for remaining tax credits"
+        },
+        {
+          "ticker": "NEEpN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Despite legislative challenges, the company has a strong renewable energy portfolio, plans for expansion, potential AI-driven electricity demand growth, consistent dividend increases, and ability to qualify for remaining tax credits"
+        },
+        {
+          "ticker": "NEEpR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Despite legislative challenges, the company has a strong renewable energy portfolio, plans for expansion, potential AI-driven electricity demand growth, consistent dividend increases, and ability to qualify for remaining tax credits"
+        },
+        {
+          "ticker": "NEEpS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Despite legislative challenges, the company has a strong renewable energy portfolio, plans for expansion, potential AI-driven electricity demand growth, consistent dividend increases, and ability to qualify for remaining tax credits"
+        },
+        {
+          "ticker": "NEEpT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Despite legislative challenges, the company has a strong renewable energy portfolio, plans for expansion, potential AI-driven electricity demand growth, consistent dividend increases, and ability to qualify for remaining tax credits"
+        },
+        {
+          "ticker": "NEEpU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Despite legislative challenges, the company has a strong renewable energy portfolio, plans for expansion, potential AI-driven electricity demand growth, consistent dividend increases, and ability to qualify for remaining tax credits"
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as warning about an 'inflection point' in electricity demand from AI revolution"
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as warning about an 'inflection point' in electricity demand from AI revolution"
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as warning about an 'inflection point' in electricity demand from AI revolution"
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as warning about an 'inflection point' in electricity demand from AI revolution"
+        }
+      ]
+    }
+  ]
+}

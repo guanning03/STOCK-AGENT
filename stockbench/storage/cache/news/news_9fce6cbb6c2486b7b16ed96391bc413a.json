@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Looking Into Sherwin-Williams Co's Recent Short Interest",
+      "description": "",
+      "published_utc": "2025-11-05T11:00:52",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=2091b3a0b5bd2c174429e3832e8ca47a2c1374d71140c88bc0b27bc05061d408",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138872170,
+      "datetime": 1762358452
+    },
+    {
+      "title": "Sherwin-Williams Debuts at the China International Import Expo",
+      "description": "Sherwin-Williams, a global innovator in paint and coatings, makes its inaugural appearance at the China International Import Expo (CIIE hereafter). From November 5 to 10, the Company welcomes visitors to Booth 3C7-02 in Hall 3 at the National Exhibition and Convention Center (Shanghai) to explore its latest innovations in products and technologies with sustainability attributes.",
+      "published_utc": "2025-11-04T19:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3a0e9a40586bae3bccfa6b0822bc1a899388e49872005f6c7bbb9e041c6325aa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137353003,
+      "datetime": 1762300800
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:33:36.188883+00:00",
+    "cache_key": "news_9fce6cbb6c2486b7b16ed96391bc413a",
+    "count": 2
+  }
+}

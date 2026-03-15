@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Nvidia, Salesforce Earnings In Focus Next Week",
+      "description": "",
+      "published_utc": "2026-02-21T06:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7dcd0610ad2fc92f86ae4b87717a4086aff0dbd1c271413744aecce17387fd1c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139170774,
+      "datetime": 1771671600
+    },
+    {
+      "title": "Is AI now threatening Software Companies?",
+      "description": "Has AI started to Eat the Software industry?",
+      "published_utc": "2026-02-21T04:54:28",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=06a952307ea01c8cb4ea78c8812496e368a1f131ba62df3a822c7b9d34564063",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139167901,
+      "datetime": 1771667668
+    },
+    {
+      "title": "Salesforce Inc. (NYSE:CRM): A Value Investing Case Study",
+      "description": "Salesforce emerges as a strong value stock, trading at a discount to peers while showing robust profitability, growth, and financial health.",
+      "published_utc": "2026-02-21T04:21:06",
+      "source": "ChartMill",
+      "url": "https://finnhub.io/api/news?id=71b42504618cd58cb8037eadc3a2efc82d5efafa84335a66ca98315f65291e80",
+      "category": "company",
+      "image": "https://www.chartmill.com/images/uploads/Undervalued_500_264px_webp_74997b3ff2.webp",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139167577,
+      "datetime": 1771665666
+    },
+    {
+      "title": "Chaos, confusion and $200 billion dreams: What I saw at India’s AI summit",
+      "description": "India hosted one of the world's biggest AI events this week, but it was marred by impossible traffic and a lack of organization.",
+      "published_utc": "2026-02-20T22:50:57",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=d4c11514196fa44567cfc1d4b393dbdeda5cb707e5e0c6b5be737c1ff5cf0173",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108267819-1771593439643-Arjun_Kharpal_and_Sam_Altman_Yolande_Chee.jpg?v=1771593533&w=1920&h=1080",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139170994,
+      "datetime": 1771645857
+    },
+    {
+      "title": "This Week's Market Wrap: AI-Led Volatility, Inflation, And Late-Cycle Risk Signals",
+      "description": "",
+      "published_utc": "2026-02-20T22:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=783c7ade376ff3c5efdcddc94310f70c2b21153184cde7b0276e9e391891d27b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139167123,
+      "datetime": 1771642800
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:23:21.079231+00:00",
+    "cache_key": "news_a00faa9d52fa1e5a1b5709c4041a13b1",
+    "count": 5
+  }
+}

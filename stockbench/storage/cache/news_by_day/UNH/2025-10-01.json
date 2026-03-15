@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Sector Update: Health Care Stocks Rise Late Afternoon",
+      "description": "Health care stocks rose late Wednesday afternoon with the NYSE Health Care Index jumping 3.3% and th",
+      "published_utc": "2025-10-01T15:43:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fe573cb08458041ab43cc44e71f2d9d9cfc5102181d4193513c9ab5b4c14d7c3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136952199,
+      "datetime": 1759347816
+    },
+    {
+      "title": "Molina Healthcare: Resilient Growth At A Value Multiple Amid Medicaid Headwinds",
+      "description": "Molina Healthcare offers value for defensive investors with Medicaid growth, attractive valuation and resilience to policy changes. Click for more on MOH stock.",
+      "published_utc": "2025-10-01T15:39:20",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a7b74202778e5bd68364fd626202ebd3ae685c7e5721cf4f8fce8eb646fba058",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2206705589/image_2206705589.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136950595,
+      "datetime": 1759347560
+    },
+    {
+      "title": "Update: Market Chatter: UnitedHealth to Drop Medicare Advantage Plans in 109 US Counties",
+      "description": "(Updates the headline and first paragraph with the number of counties revised by the company, accord",
+      "published_utc": "2025-10-01T11:38:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0c81b87734cdbc99481ae23dd8d0bf8a393894d438158303a2bf5c80c04df912",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136947266,
+      "datetime": 1759333110
+    },
+    {
+      "title": "Market Chatter: UnitedHealth to Drop Medicare Advantage Plans in 16 US Counties",
+      "description": "UnitedHealth (UNH) will discontinue Medicare Advantage plans in 16 US counties starting in 2026, imp",
+      "published_utc": "2025-10-01T10:24:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e188b599f769a34df54a3c808b5c78572233460a4a3f5c3ed11b490ed6460903",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136947267,
+      "datetime": 1759328675
+    },
+    {
+      "title": "Health Insurance Market to Reach USD 3.6 Billion by 2031 Amid Rising Healthcare Costs and Expanding Digital Distribution | By DataM Intelligence",
+      "description": "According to DataM Intelligence, \"The Health Insurance Market Size reached USD 2.2 billion in 2022 and is projected to rise to USD 3.6 billion by 2031, growing at a CAGR of 6.4% during the forecast period 2024–2031.\" The Health Insurance Market is expanding steadily, driven by the rising burden of chronic diseases, growing healthcare costs, and increasing demand for comprehensive coverage across emerging and developed economies.",
+      "published_utc": "2025-10-01T10:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0a1ec82db87e5c6f5ca38991716eaf552234ebc211ee98dd8aa66e9cfda522ba",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136947268,
+      "datetime": 1759327260
+    }
+  ]
+}

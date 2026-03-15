@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Travelers Cos. Inc. stock underperforms Wednesday when compared to competitors",
+      "description": "Travelers Cos. Inc. stock underperforms Wednesday when compared to competitors",
+      "published_utc": "2025-12-03T11:45:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=07bd39f74186031995fac80f16e55607749b73e733421a67d63787709088d1cb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137687784,
+      "datetime": 1764780300
+    },
+    {
+      "title": "Is Travelers Still Attractive After Strong 2025 Rally and Earnings Outlook Reassessment?",
+      "description": "If you are wondering whether Travelers Companies remains a smart idea after its recent run-up or if much of the potential upside is already reflected in the share price, this breakdown is for you. The stock is trading around $288.52, down 1.8% over the last week but still up 7.4% over the past month, 19.8% year to date, and 136.4% over 5 years. Recent moves have been driven by a mix of improving sentiment toward insurers, stronger pricing power across property and casualty lines, and growing...",
+      "published_utc": "2025-12-02T21:14:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=39a65dbc4679b1a2b06c490b29e1a1f0d1bfdcfe9264fc6b3fe46b089285825f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137668078,
+      "datetime": 1764728049
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:01:57.505114+00:00",
+    "cache_key": "news_a6b4112de6eab5a205f8d81bcd597822",
+    "count": 2
+  }
+}

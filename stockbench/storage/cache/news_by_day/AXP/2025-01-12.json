@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": "a56bfeeceba1a67c83be0eff923a76824141a7fecc0be5f5093a27e0195bbc95",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Berkshire Hathaway Stock a Millionaire Maker?",
+      "author": "Johnny Rice",
+      "published_utc": "2025-01-12T13:05:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/12/is-berkshire-hathaway-stock-a-millionaire-maker/?source=iedfolrf0000001",
+      "tickers": [
+        "BRK.A",
+        "BRK.B",
+        "AAPL",
+        "AXP"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803466/berkshire-hathaway-investment-strategy-warren-buffett-2025.jpg",
+      "description": "Berkshire Hathaway, led by Warren Buffett, is a diverse conglomerate with a strong insurance business that provides a steady flow of capital for investments. While the company has delivered impressive returns, its future after Buffett's departure is a concern, though transition plans are in place.",
+      "keywords": [
+        "Berkshire Hathaway",
+        "Warren Buffett",
+        "insurance",
+        "conglomerate",
+        "transition"
+      ],
+      "insights": [
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Berkshire Hathaway's strong performance and the key role of its insurance businesses in providing capital for investments. While the company's future after Buffett's departure is a concern, the article suggests that transition plans are in place to ensure continued success and stability."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Berkshire Hathaway's strong performance and the key role of its insurance businesses in providing capital for investments. While the company's future after Buffett's departure is a concern, the article suggests that transition plans are in place to ensure continued success and stability."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Apple as one of Berkshire Hathaway's outside investments, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions American Express as one of Berkshire Hathaway's outside investments, but does not provide any specific commentary on the company."
+        }
+      ]
+    }
+  ]
+}

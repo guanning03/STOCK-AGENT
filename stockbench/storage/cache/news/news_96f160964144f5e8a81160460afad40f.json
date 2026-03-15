@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "EWG: A Bet On Germany Emerging From Stagnation In 2026-2027",
+      "description": "",
+      "published_utc": "2025-10-14T19:16:58",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=844352697c01048f063db3a441a555aa4ba41da40a6363089ba5b55f52d49ad9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137090639,
+      "datetime": 1760483818
+    },
+    {
+      "title": "NFIB Small Business Survey: Optimism Declines As Uncertainty Rises",
+      "description": "The NFIB Small Business Optimism Index fell for the first time in three months in September, dropping 2.0 points to 98.8.",
+      "published_utc": "2025-10-14T16:10:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7e5b3c1cdbf6fc27eaea0800b9b606ce67e8e8ef81f4863de1bd4b77b354ea50",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2162275025/image_2162275025.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137089624,
+      "datetime": 1760472600
+    },
+    {
+      "title": "Warren Buffett's Lennar, DR Horton Stakes Are Up $125 Million — And Still Climbing",
+      "description": "Big bets on homebuilder stocks from Warren Buffett&#39;s Berkshire Hathaway are already paying off.",
+      "published_utc": "2025-10-14T14:58:59",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=dd286837da6ed0170fb9e4aeb8b297123ab30be06264f69f617e0a3751509892",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/10/14/Warren-Buffett-Is-A-Billionaire-Investor.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138469920,
+      "datetime": 1760468339
+    },
+    {
+      "title": "Is AI A Bubble? Yes... And No",
+      "description": "Is AI's market impact overhyped? Read why cautious investment in proven tech giants could offer better long-term financial stability.",
+      "published_utc": "2025-10-14T14:53:37",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=332c16a938dfe7941e818f0cb0ca4ca24c83bfbe9e372a9b7bcdb29d807162ed",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2234240271/image_2234240271.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137089326,
+      "datetime": 1760468017
+    },
+    {
+      "title": "Small Business Hesitation",
+      "description": "The continued US government shutdown means there remains a drought in official economic data, putting extra emphasis on unofficial data points.",
+      "published_utc": "2025-10-14T14:46:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ae9d745df8c6076df5621ed6105c5078681e221286e57c01a493b264485ee479",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1346366645/image_1346366645.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137089277,
+      "datetime": 1760467560
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:23:46.811373+00:00",
+    "cache_key": "news_96f160964144f5e8a81160460afad40f",
+    "count": 5
+  }
+}

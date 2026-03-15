@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "If You Invested $100 In Travelers Companies Stock 5 Years Ago, You Would Have This Much Today",
+      "description": "",
+      "published_utc": "2025-11-10T13:30:50",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=0a93daa60bc06be71d8ba1eeea4d60346cb4a3e0b8699408dd7c3e3059848e17",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138570426,
+      "datetime": 1762799450
+    },
+    {
+      "title": "TRV Outperforms Industry, Trades at Premium: Should You Buy the Stock?",
+      "description": "Travelers' momentum in renewal rate improvements, steady earnings growth, strong returns, and upbeat analyst sentiment are likely to sustain its earnings growth.",
+      "published_utc": "2025-11-10T10:43:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=864b7e78eb678997a4a46e9c314f780e3c21f5d9847e9b71c69c90dbda760145",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137396700,
+      "datetime": 1762789380
+    },
+    {
+      "title": "Travelers Vs. Chubb: Comparing 2 PC Insurance Stocks, One A Warren Buffett Favorite",
+      "description": "Travelers and Chubb trade at low valuations with strong fundamentals and low market correlation, offering hidden value. Read more on TRV and CB stocks here.",
+      "published_utc": "2025-11-10T04:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=efe49256d30a2f744ee0d0e80fac250d9c6368a252ffadbba2f8cddb57b2bef6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1170082870/image_1170082870.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137394358,
+      "datetime": 1762765200
+    }
+  ]
+}

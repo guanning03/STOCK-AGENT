@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "id": "c10ec16098dfd4be51c73ebc816c37386ea747df7c0a0dbfdcafe43ec07c2a19",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "I'm Not Counting on Social Security COLAs to Carry Me Through Retirement. Here's What I'm Doing to Combat Inflation Instead.",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-01T14:30:00Z",
+      "article_url": "https://www.fool.com/retirement/2024/12/01/im-not-counting-on-social-security-colas-to-carry/?source=iedfolrf0000001",
+      "tickers": [
+        "KO",
+        "PG",
+        "NVDA",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799299/retired-woman-investing-laptop-401k-ira.jpg",
+      "description": "The article discusses the author's plans to combat inflation in retirement, including investing in dividend-paying stocks, creating a detailed budget, and converting a traditional IRA to a Roth IRA.",
+      "keywords": [
+        "retirement",
+        "inflation",
+        "Social Security",
+        "investment strategy",
+        "Roth IRA"
+      ],
+      "insights": [
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions The Coca-Cola Company as a dividend-paying stock that can provide above-average yields and dividend growth to combat inflation."
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Procter & Gamble as another dividend-paying stock with an above-average yield and a history of consistent dividend increases."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article suggests that the author is no longer interested in owning growth stocks like Nvidia, as their recent strong performance may not be sustainable."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Similar to Nvidia, the article indicates that the author is not planning to own growth stocks like Amazon in retirement, as their recent outperformance may not continue."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T18:44:12.863610+00:00",
+    "cache_key": "news_1c82c81053ab9a3f33c959ac726e9dd3",
+    "count": 1
+  }
+}

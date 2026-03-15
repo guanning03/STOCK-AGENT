@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "When Debts Come Due",
+      "description": "Congress is in the process of cobbling together a remarkably irresponsible budget resolution",
+      "published_utc": "2025-04-25T23:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d9187df6d5f578243ba9016d86f5f7c14a2e7b5ef2c33ab6b6df6d1f1482e53e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2134503742/image_2134503742.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134098518,
+      "datetime": 1745639100
+    },
+    {
+      "title": "Markets Weekly Outlook - Data Dump Ahead As Tariff Concerns Linger",
+      "description": "",
+      "published_utc": "2025-04-25T20:52:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4fdf6105d7cadd09468ce375b52aee68c7a381686b96613b7f27ef3883719c61",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134097718,
+      "datetime": 1745628720
+    }
+  ]
+}

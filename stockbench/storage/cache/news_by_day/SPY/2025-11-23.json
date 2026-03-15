@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Here's How Big a $50-Per-Week Investment in the S&P 500 Could Grow Over the Long Haul",
+      "description": "This weekly habit could generate hundreds of thousands of dollars for you in the future.",
+      "published_utc": "2025-11-23T18:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=299b3bd9e4fceb2fac0829a4eb61a1a6a16b466812b280573bee2fa11462218f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137587253,
+      "datetime": 1763941500
+    },
+    {
+      "title": "If You'd Invested $1,000 in the SPDR S&P 500 ETF Trust (SPY) 10 Years Ago, Here's How Much You'd Have Today",
+      "description": "Investors would have seen their investment more than triple in value.",
+      "published_utc": "2025-11-23T08:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e1b388abb9e8cc04af07d227845b6b2056dd1d3a1490b8868cc8000b80089811",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137587254,
+      "datetime": 1763902800
+    },
+    {
+      "title": "A $150 Billion Liquidity Storm May Be About To Hit Markets",
+      "description": "The S&P 500 faces further downside as Treasury settlements drain liquidity from markets. Read more on what investors can expect next.",
+      "published_utc": "2025-11-23T04:55:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4e046f6826bbb6e564f7aa9b6028053a3ea6ddd58b8c9f5a3ee98fbf3886a2cd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1527901540/image_1527901540.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137583575,
+      "datetime": 1763891700
+    },
+    {
+      "title": "Worried About AI? Why I'm All-In On These 2 Covered Call ETFs",
+      "description": "Discover hidden risks in covered call ETFs as AI impacts markets. Learn about 2 top ETFs offering high income and how to invest wisely.",
+      "published_utc": "2025-11-23T04:15:07",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=51c6a081ee3d1773ebe321fc2c57001ebf42d06c043a8c341109314d9300f25c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1299490409/image_1299490409.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137583399,
+      "datetime": 1763889307
+    },
+    {
+      "title": "BDJ: A Value-Oriented Fund With 8.4% Yield And Nearly 7% Discount",
+      "description": "BDJ is a CEF that invests in the equity of large-cap, dividend-paying, and value-oriented stocks, mostly from the Russell-1000 Value index. Read more on BDJ here.",
+      "published_utc": "2025-11-23T04:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=942d411ce673542abdc15c6a4ba42cb0c9404f17041fdbf1486222b21a6a0c95",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1469387313/image_1469387313.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137583371,
+      "datetime": 1763888400
+    }
+  ]
+}

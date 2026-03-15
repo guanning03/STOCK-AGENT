@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Home Depot (HD) Increases Despite Market Slip: Here's What You Need to Know",
+      "description": "In the most recent trading session, Home Depot (HD) closed at $389.68, indicating a +2.28% shift from the previous trading day.",
+      "published_utc": "2026-02-10T17:45:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4fd6c9ba7710ba49d0c24d8098089769b01cf8302dc3b6b046d744c821e3236a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139038315,
+      "datetime": 1770763505
+    },
+    {
+      "title": "The Home Depot to Host Fourth Quarter & Fiscal Year Earnings Conference Call on February 24",
+      "description": "The Home Depot®, the world's largest home improvement retailer, announced today that it will hold its Fourth Quarter & Fiscal Year Earnings Conference Call on Tuesday, February 24, at 9 a.m. ET.",
+      "published_utc": "2026-02-10T08:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f52ad6a20470ad7fac08455eb9028aea48faca07157df3c66038985e8625e826",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139029576,
+      "datetime": 1770728400
+    },
+    {
+      "title": "American Express, Walt Disney share gains lead Dow's nearly 225-point climb",
+      "description": "American Express, Walt Disney share gains lead Dow's nearly 225-point climb",
+      "published_utc": "2026-02-10T04:45:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=c246e7c6120c5225a17829c7776ecedfadbaaf5559b732001cd94a702f9a0997",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139059085,
+      "datetime": 1770716700
+    },
+    {
+      "title": "Lowe’s upgrades offer for loyal customers amid sluggish sales",
+      "description": "There’s just something about fixing, decorating, and improving your home, somewhere you have peace, spend quality time with your family, and relax. It's a place that should reflect your character and lifestyle. People felt that more than ever during the Covid pandemic lockdowns, when they ...",
+      "published_utc": "2026-02-09T19:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b6be927fc3856b077a6eceef3676da442f838dc590e43807bfa8ea483fa270c4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138973916,
+      "datetime": 1770681600
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:53:53.590524+00:00",
+    "cache_key": "news_1b2ea57f9e0131d1e2ab02ed418c1233",
+    "count": 4
+  }
+}

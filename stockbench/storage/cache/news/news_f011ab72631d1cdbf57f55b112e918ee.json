@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Why Broadcom Stock Soared Today",
+      "description": "Gemini 3 is set to be a powerful growth driver for the semiconductor leader.",
+      "published_utc": "2025-11-24T17:11:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8f3915c121898c3f5e73d2eac884f708d03bb808975c2c08688d048c9347c1ff",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137601442,
+      "datetime": 1764022293
+    },
+    {
+      "title": "Fidelity’s Rohit Mahna to Exit. Here’s Who Is Taking Over His Role",
+      "description": "Rohit Mahna, head of client growth at Fidelity Institutional Wealth Management Services, is leaving the company, a Fidelity spokeswoman confirmed.  The company is tapping two longtime executives to take over Mahna’s duties: Marc Squires and Trevor Norton.  Mahna didn’t respond to a request for comment and it’s unclear if he’s leaving to join another company.",
+      "published_utc": "2025-11-24T15:38:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=54b8c525ae5355d15f44c62e08e232979d2b30350c0e0c7e3dae61141ae04835",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137601589,
+      "datetime": 1764016680
+    },
+    {
+      "title": "Anthropic launches Claude Opus 4.5 as Google's Gemini 3 gains big backers",
+      "description": "Anthropic on Monday debuted its Claude Opus 4.5, which the company says is its most powerful AI model yet.",
+      "published_utc": "2025-11-24T14:16:45",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dc16757cc392ffcb69c1951b71e5ec96ea6aec9b08ea7cd8b646afe7d941f634",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137592627,
+      "datetime": 1764011805
+    },
+    {
+      "title": "Alphabet's Gemini poses a serious threat to OpenAI's ChatGPT, Jim Cramer says",
+      "description": "CNBC's Jim Cramer explained why he thinks Gemini could be ChatGPT's biggest challenger.",
+      "published_utc": "2025-11-24T13:29:47",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=e934072db21e5b137ee203d21c41915405bee9c4ca2a550cffab633e5e7d4273",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/106598386-1593554406183img_3354rr.jpg?v=1694561360&w=1920&h=1080",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137604842,
+      "datetime": 1764008987
+    },
+    {
+      "title": "Wall Street Weighs New AI Stock Fear: Why Google Winning Could Be 'Risk To Watch'",
+      "description": "The new Gemini 3 model from Google parent company Alphabet is boosting Google stock.  Google's Gemini 3 debuted last week to rave reviews.  Google shares are rising nearly 5% on Monday after rallying 8% last week.",
+      "published_utc": "2025-11-24T13:06:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=62704ceff517ecc07700956609753e601e2c0af7473b2767e8be4a223e29eac1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137592609,
+      "datetime": 1764007575
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:34:41.562384+00:00",
+    "cache_key": "news_f011ab72631d1cdbf57f55b112e918ee",
+    "count": 5
+  }
+}

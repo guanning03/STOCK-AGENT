@@ -1,0 +1,119 @@
+{
+  "items": [
+    {
+      "id": "5b5b256c1c4522988977a6eb9b03eea61fe36a5aab4830fb52ec0754bcfe08e5",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Did China's DeepSeek Just Crash and Burn President Trump's $500 Billion AI Stargate Project?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-12T11:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/12/did-chinas-deepseek-just-crash-and-burn-president/?source=iedfolrf0000001",
+      "tickers": [
+        "MSFT",
+        "META",
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "PLTR"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807069/gettyimages-1731443210-1.jpg",
+      "description": "The article discusses the potential impact of a Chinese AI startup, DeepSeek, on President Trump's $500 billion Stargate AI infrastructure project. It analyzes the spending plans of major tech companies like Microsoft, Meta, Alphabet, and Amazon, and concludes that DeepSeek is not derailing the Stargate project.",
+      "keywords": [
+        "AI",
+        "Stargate",
+        "DeepSeek",
+        "Microsoft",
+        "Meta",
+        "Alphabet",
+        "Amazon",
+        "Palantir"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is a big investor in OpenAI and has been integrating AI-powered services into its ecosystem, with plans to increase its capital expenditure on AI infrastructure to around $80 billion this year."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Meta has been doubling down on its AI vision, with its infrastructure spending rising by 40% in 2023 and plans to increase it further to $60-$65 billion in 2025."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet has been integrating AI services into its ecosystem and plans to increase its capital expenditure on AI infrastructure to around $75 billion in 2025, representing a 43% increase compared to 2024."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet has been integrating AI services into its ecosystem and plans to increase its capital expenditure on AI infrastructure to around $75 billion in 2025, representing a 43% increase compared to 2024."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon has been investing heavily in AI infrastructure, including its acquisition of Anthropic, and plans to spend around $105 billion on AI infrastructure this year, a 27% increase compared to 2024."
+        },
+        {
+          "ticker": "PLTR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Palantir CEO Alex Karp believes that the advancements from DeepSeek should inspire U.S. technology businesses to double down on their own AI developments and continue investing in innovation."
+        }
+      ]
+    },
+    {
+      "id": "90c482b69058204944ba4985e894103484960aedae908c9a159b1f13473cb4fc",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Got $3,000? 3 Artificial Intelligence (AI) Stocks to Buy and Hold for the Long Term",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-12T11:10:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/12/artificial-intelligence-ai-stock-buy-hold-goog/?source=iedfolrf0000001",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807008/ai-stock-tech.jpg",
+      "description": "The article discusses three major cloud computing companies, Alphabet, Microsoft, and Amazon, as promising long-term investments in the growing artificial intelligence (AI) market. It suggests that these companies have the scale and resources to dominate the AI computing market and leverage AI across their existing businesses.",
+      "keywords": [
+        "artificial intelligence",
+        "cloud computing",
+        "Alphabet",
+        "Microsoft",
+        "Amazon"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Alphabet's ability to use AI to enhance its digital advertising business and its potential in self-driving vehicles and quantum computing."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Alphabet's ability to use AI to enhance its digital advertising business and its potential in self-driving vehicles and quantum computing."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes Microsoft's history in enterprise software and its integration of AI features across its products, such as Windows and Microsoft 365."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Amazon's use of AI in its e-commerce business and its large user base for its Alexa smart home products, suggesting the company's ability to leverage AI across its existing segments."
+        }
+      ]
+    }
+  ]
+}

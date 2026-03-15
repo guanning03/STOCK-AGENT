@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Wall Street Optimism Pushes J&J Toward $500 Billion Market Value",
+      "description": "The stock is on a 13-session winning streak, J&J’s longest ever, and is up 9.9% in November, putting it on pace for its best month since April 2020.  Wall Street is becoming increasingly optimistic about the company’s plans to plug revenue holes following patent expiration for its top-selling psoriasis drug, Stelara.",
+      "published_utc": "2025-11-26T16:31:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=34288ef290d6c226782c5797b200ea2698528c33bc6b7f46bd53e20b9d46ebda",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137619060,
+      "datetime": 1764192715
+    },
+    {
+      "title": "CMS Slashes Prices Of 15 Major Drugs - Here's Why Pharma Valuations Won't Suffer",
+      "description": "Discover how new U.S. Medicare drug price cuts impact major pharma stocks like Novo Nordisk and why sector resilience supports a strong outlook. Click for more.",
+      "published_utc": "2025-11-26T11:58:56",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1f6a4babd9bee8ff46ea9bfd57aa2d2c9e4fb232cd4ea10363ae33b37483d4b4",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1407294139/image_1407294139.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137615519,
+      "datetime": 1764176336
+    },
+    {
+      "title": "DGRO Is A Wealth Compounding Machine, But Nobody Is Talking About Its Biggest Weakness",
+      "description": "iShares Core Dividend Growth ETF has a strong track record as a dividend growth and wealth compounding machine. Learn more about DGRO ETF here.",
+      "published_utc": "2025-11-26T11:42:48",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8ef53e17862ee1b6645c4de1626468fe4d1ce398dcc0c20a67e8420055c47935",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2223205906/image_2223205906.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137615461,
+      "datetime": 1764175368
+    },
+    {
+      "title": "CURE: Analysts Strike A Cautious Tone Heading Into 2026",
+      "description": "Discover why the Direxion Healthcare Bull 3X ETF is outperforming in 2025. Learn about key risks, returns, and buy ratings.",
+      "published_utc": "2025-11-26T11:28:37",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a5ef5754831c30f25c83c66be5e038c5194b41554790fb800b0ad9b7a81a6a4b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2009808479/image_2009808479.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137615429,
+      "datetime": 1764174517
+    },
+    {
+      "title": "Novartis cuts hundreds of jobs; Novo’s dual-acting diabetes drug heading to Phase 3",
+      "description": "The layoffs affect Swiss manufacturing facilities. Elsewhere, the FDA pushed back an approval deadline and a mid-stage study showed Novo’s amycretin helps regulate blood sugar.",
+      "published_utc": "2025-11-26T05:47:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=db39aae16a94e09e79bbfa64f29e6d63783bca69a521d5b87ef328887328a284",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137614463,
+      "datetime": 1764154047
+    }
+  ]
+}

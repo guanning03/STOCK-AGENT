@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": "ebdf8d71f6803a4b4f1ffa27d682a5a3cced811c4e3b00571bc098ff9a31c76a",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "Risk-On Sentiment Prevails for 2025’s Debut, Fueled by US Stocks",
+      "author": "James Picerno",
+      "published_utc": "2025-01-06T13:06:00Z",
+      "article_url": "https://www.investing.com/analysis/riskon-sentiment-prevails-for-2025s-debut-fueled-by-us-stocks-200655901",
+      "tickers": [
+        "SPY",
+        "VEA",
+        "BND"
+      ],
+      "amp_url": "https://m.investing.com/analysis/riskon-sentiment-prevails-for-2025s-debut-fueled-by-us-stocks-200655901?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "The risk-on sentiment prevails at the start of 2025, driven by the strength of US stocks, while stocks outside the US and US bonds are faltering.",
+      "keywords": [
+        "US stocks",
+        "global assets",
+        "US bonds"
+      ],
+      "insights": [
+        {
+          "ticker": "SPY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The risk appetite for US equities continues to rebound after the summer's sharp correction, based on the ratio for a broad equities ETF (SPY) vs. a low-volatility portfolio of stocks (USMV)."
+        },
+        {
+          "ticker": "VEA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The bullish momentum for equities is increasingly reliant on US shares — stocks ex-US, by comparison, are faltering."
+        },
+        {
+          "ticker": "BND",
+          "sentiment": "negative",
+          "sentiment_reasoning": "For US bonds, a risk-off trend persists, based on the ratio for medium-term Treasuries (IEF) vs. short-term maturities (SHY). Despite several attempts to recover in recent years, the downside bias has resumed."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:21:41.643452+00:00",
+    "cache_key": "news_5c14c538f0cfc720b4ac9c3c601295c1",
+    "count": 1
+  }
+}

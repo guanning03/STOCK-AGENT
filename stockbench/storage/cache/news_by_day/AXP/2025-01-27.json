@@ -1,0 +1,316 @@
+{
+  "items": [
+    {
+      "id": "a7e9c00f587c668defd172a2179b694e204a0be3bd1701bb86a2ab0233fb3e13",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "39% of Warren Buffett's $296 Billion Is Invested in These 11 Financial Stocks. Here's the Best of the Bunch for 2025.",
+      "author": "Keith Speights",
+      "published_utc": "2025-01-27T10:52:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/27/warren-buffett-financial-stocks-best-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "AXP",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK",
+        "MCO",
+        "CB",
+        "C",
+        "CpN",
+        "ALLY",
+        "NU"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805160/buffett21-tmf.png",
+      "description": "Warren Buffett's Berkshire Hathaway has significant investments in 11 financial stocks, with American Express, Bank of America, and Moody's being the largest holdings. The article analyzes the performance and valuation of these stocks, and recommends Nu Holdings as the best pick for 2025 due to its rapid growth in Latin America.",
+      "keywords": [
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "financial stocks",
+        "American Express",
+        "Bank of America",
+        "Moody's",
+        "Nu Holdings"
+      ],
+      "insights": [
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "American Express is Berkshire's second-largest holding and Buffett plans to hold it indefinitely, indicating it is a strong long-term pick."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is Berkshire's third-largest holding and is projected to deliver double-digit percentage gains, making it a favorable investment."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is Berkshire's third-largest holding and is projected to deliver double-digit percentage gains, making it a favorable investment."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is Berkshire's third-largest holding and is projected to deliver double-digit percentage gains, making it a favorable investment."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is Berkshire's third-largest holding and is projected to deliver double-digit percentage gains, making it a favorable investment."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is Berkshire's third-largest holding and is projected to deliver double-digit percentage gains, making it a favorable investment."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is Berkshire's third-largest holding and is projected to deliver double-digit percentage gains, making it a favorable investment."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is Berkshire's third-largest holding and is projected to deliver double-digit percentage gains, making it a favorable investment."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is Berkshire's third-largest holding and is projected to deliver double-digit percentage gains, making it a favorable investment."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is Berkshire's third-largest holding and is projected to deliver double-digit percentage gains, making it a favorable investment."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is Berkshire's third-largest holding and is projected to deliver double-digit percentage gains, making it a favorable investment."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is Berkshire's third-largest holding and is projected to deliver double-digit percentage gains, making it a favorable investment."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is Berkshire's third-largest holding and is projected to deliver double-digit percentage gains, making it a favorable investment."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is Berkshire's third-largest holding and is projected to deliver double-digit percentage gains, making it a favorable investment."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is Berkshire's third-largest holding and is projected to deliver double-digit percentage gains, making it a favorable investment."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is Berkshire's third-largest holding and is projected to deliver double-digit percentage gains, making it a favorable investment."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Bank of America is Berkshire's third-largest holding and is projected to deliver double-digit percentage gains, making it a favorable investment."
+        },
+        {
+          "ticker": "MCO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Moody's is one of Berkshire's 10 largest positions, suggesting it is a significant and valuable investment."
+        },
+        {
+          "ticker": "CB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Chubb is among Berkshire's top 10 holdings and is projected to deliver double-digit percentage gains, indicating it is a strong investment."
+        },
+        {
+          "ticker": "C",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Citigroup is reasonably valued and offers an attractive dividend yield, making it a favorable investment."
+        },
+        {
+          "ticker": "CpN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Citigroup is reasonably valued and offers an attractive dividend yield, making it a favorable investment."
+        },
+        {
+          "ticker": "ALLY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Ally Financial is the cheapest of Berkshire's financial stocks and offers the juiciest dividend, making it an appealing investment."
+        },
+        {
+          "ticker": "NU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nu Holdings is the author's top pick for 2025 due to its rapid revenue and earnings growth, as well as its dominant position in the Latin American digital banking market."
+        }
+      ]
+    },
+    {
+      "id": "5e36ea8c836adc57ee2705888c96454d333170d5e5fc7edc0dbcae56885625ba",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Meet the Stock Warren Buffett Has the Utmost Confidence In -- He's Been a Buyer for 24 of the Last 25 Quarters",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-27T09:51:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/27/meet-stock-warren-buffett-has-utmost-confidence-in/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "AXP",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK",
+        "BRK.A",
+        "BRK.B"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805101/buffett8-tmf.jpg",
+      "description": "Warren Buffett's favorite stock is Berkshire Hathaway, as he has been buying the company's shares for 24 of the last 25 quarters, spending a cumulative $78 billion. Buffett believes Berkshire is well-positioned to take advantage of economic expansion, and the buybacks increase the ownership stakes of Berkshire's investors and make the stock more fundamentally attractive.",
+      "keywords": [
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "stock buybacks",
+        "ownership stakes",
+        "fundamental attractiveness"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Apple is Berkshire Hathaway's top holding, but Buffett and his team have been selling more than 615 million shares of the stock, which likely rules it out as Buffett's favorite."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "American Express is Berkshire's second-largest holding, but it's been a long time since Buffett purchased shares of the company, suggesting it's not his favorite."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is Berkshire's third-largest holding, but Buffett's team has been selling a significant portion of their stake, indicating it's not his favorite stock."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is Berkshire's third-largest holding, but Buffett's team has been selling a significant portion of their stake, indicating it's not his favorite stock."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is Berkshire's third-largest holding, but Buffett's team has been selling a significant portion of their stake, indicating it's not his favorite stock."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is Berkshire's third-largest holding, but Buffett's team has been selling a significant portion of their stake, indicating it's not his favorite stock."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is Berkshire's third-largest holding, but Buffett's team has been selling a significant portion of their stake, indicating it's not his favorite stock."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is Berkshire's third-largest holding, but Buffett's team has been selling a significant portion of their stake, indicating it's not his favorite stock."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is Berkshire's third-largest holding, but Buffett's team has been selling a significant portion of their stake, indicating it's not his favorite stock."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is Berkshire's third-largest holding, but Buffett's team has been selling a significant portion of their stake, indicating it's not his favorite stock."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is Berkshire's third-largest holding, but Buffett's team has been selling a significant portion of their stake, indicating it's not his favorite stock."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is Berkshire's third-largest holding, but Buffett's team has been selling a significant portion of their stake, indicating it's not his favorite stock."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is Berkshire's third-largest holding, but Buffett's team has been selling a significant portion of their stake, indicating it's not his favorite stock."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is Berkshire's third-largest holding, but Buffett's team has been selling a significant portion of their stake, indicating it's not his favorite stock."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is Berkshire's third-largest holding, but Buffett's team has been selling a significant portion of their stake, indicating it's not his favorite stock."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is Berkshire's third-largest holding, but Buffett's team has been selling a significant portion of their stake, indicating it's not his favorite stock."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is Berkshire's third-largest holding, but Buffett's team has been selling a significant portion of their stake, indicating it's not his favorite stock."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is Berkshire's third-largest holding, but Buffett's team has been selling a significant portion of their stake, indicating it's not his favorite stock."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway is the stock that Buffett has the utmost confidence in, as he has been buying the company's shares for 24 of the last 25 quarters, spending a cumulative $78 billion. Buffett believes Berkshire is well-positioned to take advantage of economic expansion, and the buybacks increase the ownership stakes of Berkshire's investors and make the stock more fundamentally attractive."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway is the stock that Buffett has the utmost confidence in, as he has been buying the company's shares for 24 of the last 25 quarters, spending a cumulative $78 billion. Buffett believes Berkshire is well-positioned to take advantage of economic expansion, and the buybacks increase the ownership stakes of Berkshire's investors and make the stock more fundamentally attractive."
+        }
+      ]
+    }
+  ]
+}

@@ -1,21 +1,6 @@
 {
   "items": [
     {
-      "title": "International Business Machines (IBM) Price Target Increased by 15.79% to 258.10",
-      "description": "",
-      "published_utc": "2025-02-19T09:15:42",
-      "source": "Fintel",
-      "url": "https://finnhub.io/api/news?id=f9c8cc2fcb484d383855dd4e167514b2be11814930ccfe8d4c5f5478ade7c3af",
-      "category": "company",
-      "image": "",
-      "related_symbols": [
-        "IBM"
-      ],
-      "api_source": "finnhub_company",
-      "id": 132781247,
-      "datetime": 1739927742
-    },
-    {
       "id": "378dbbd2aa9e6070aa76be010317d50dddebec8f8bd1ede8141e7586d1baf160",
       "publisher": {
         "name": "GlobeNewswire Inc.",
@@ -300,8 +285,8 @@
     }
   ],
   "metadata": {
-    "cached_at": "2025-09-25T11:32:06.286358+00:00",
+    "cached_at": "2026-03-13T22:18:18.243873+00:00",
     "cache_key": "news_8f742b637fab1fc8e44ff3f5c1ee48fd",
-    "count": 4
+    "count": 3
   }
 }

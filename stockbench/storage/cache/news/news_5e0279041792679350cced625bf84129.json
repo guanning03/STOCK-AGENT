@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "UnitedHealth Group (UNH) Advances While Market Declines: Some Information for Investors",
+      "description": "UnitedHealth Group (UNH) closed the most recent trading day at $285.25, moving +1.03% from the previous trading session.",
+      "published_utc": "2026-03-11T17:45:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=168a4c55bd977c34a799f515057d19faa9b8278149f2010ec175700f74740622",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139383041,
+      "datetime": 1773265503
+    },
+    {
+      "title": "$1000 Invested In UnitedHealth Group 15 Years Ago Would Be Worth This Much Today",
+      "description": "",
+      "published_utc": "2026-03-11T13:30:24",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=a9f1c07e283802fb555b14a9c3ca4151d63c95c5c41481949a1af7d39f1149b5",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139387815,
+      "datetime": 1773250224
+    },
+    {
+      "title": "4 HMO Stocks to Watch Despite Escalating Costs, Nursing Shortage",
+      "description": "The Medical-HMO industry leverages technology capabilities and M&A to fuel growth. Yet rising medical costs, workforce shortages and policy shifts pose roadblocks. UNH, CI, HUM and CNC are likely to navigate industry storms.",
+      "published_utc": "2026-03-11T10:44:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=67552013df5fcbe499c0ae889f384cc56748d65efe8d1792348bc5955aab668d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139381124,
+      "datetime": 1773240240
+    },
+    {
+      "title": "Harbor Health Care ETF Q4 2025 Portfolio Review",
+      "description": "The following segment was excerpted from the Harbor Health Care ETF Q4 2025 Commentary.During the fourth quarter, the Harbor Health Care ETF (MEDI)(âETFâ)...",
+      "published_utc": "2026-03-11T04:18:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2286fe54db80f17272a24d1e733c107159d3cea7237ceb8e84269bd228cebf6a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2205719811/image_2205719811.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139372380,
+      "datetime": 1773217080
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T04:26:44.072857+00:00",
+    "cache_key": "news_5e0279041792679350cced625bf84129",
+    "count": 4
+  }
+}

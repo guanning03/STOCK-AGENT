@@ -1,0 +1,186 @@
+{
+  "items": [
+    {
+      "id": "b686ad9511a6018f2d36ae1c3ef19cb256eb10b86d100327574716b4a785124e",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Want Decades of Passive Income? Buy This Index Fund and Hold It Forever.",
+      "author": "Justin Pope",
+      "published_utc": "2025-01-26T17:12:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/26/want-decades-of-passive-income-buy-this-index-fund/?source=iedfolrf0000001",
+      "tickers": [
+        "VIG",
+        "AAPL",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804577/dividend-growth-etf.jpg",
+      "description": "The article discusses the Vanguard Dividend Appreciation ETF (VIG), which focuses on dividend-growth investing. It highlights the ETF's diversification, growth potential, and ability to generate passive income over the long term.",
+      "keywords": [
+        "Vanguard Dividend Appreciation ETF",
+        "dividend-growth investing",
+        "passive income",
+        "diversification"
+      ],
+      "insights": [
+        {
+          "ticker": "VIG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the ETF's diversification, growth potential, and ability to generate passive income over the long term, making it a suitable choice for almost every investor."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Apple as one of the top 10 holdings of the Vanguard Dividend Appreciation ETF, which is a more diversified approach compared to growth-oriented funds and indexes that are heavily concentrated in the Magnificent Seven tech stocks."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Microsoft as one of the top 10 holdings of the Vanguard Dividend Appreciation ETF, which is a more diversified approach compared to growth-oriented funds and indexes that are heavily concentrated in the Magnificent Seven tech stocks."
+        }
+      ]
+    },
+    {
+      "id": "e67aa3672d4047327350de49c350398c13823710b1bf7341fceace79ae76e3aa",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Warren Buffett Has $69.9 Billion Invested in This Dividend-Paying Stock. Is It a Buy Now?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-26T13:44:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/26/warren-buffett-has-699-billion-invested-in-this-di/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "BRK.A",
+        "BRK.B"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805142/warren-buffett-fool.jpg",
+      "description": "Warren Buffett's Berkshire Hathaway has a significant stake in Apple, but has been reducing its position. While Apple has a strong user base and growing services revenue, its valuation and recent performance raise concerns about the stock's potential for further gains.",
+      "keywords": [
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "Apple",
+        "Dividend",
+        "Valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Apple is Berkshire Hathaway's largest holding, but Buffett has been reducing the stake due to concerns about the stock's valuation and recent performance. While the company has a strong user base and growing services revenue, its device sales growth has been slow, and its valuation appears stretched."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway, led by Warren Buffett, has a long history of successful investing, with an average annual return of 19.6% over the past 60 years. The company's significant investment in Apple suggests Buffett's confidence in the tech giant's long-term potential, despite the recent reduction in the stake."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway, led by Warren Buffett, has a long history of successful investing, with an average annual return of 19.6% over the past 60 years. The company's significant investment in Apple suggests Buffett's confidence in the tech giant's long-term potential, despite the recent reduction in the stake."
+        }
+      ]
+    },
+    {
+      "id": "c68c4a4bd653192fbf31dafbdd9e227e654a0e27f484eddee77eea5c0b2731b9",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "1 Stock to Buy, 1 Stock to Sell This Week: Meta Platforms, Apple",
+      "author": "Investing.Com",
+      "published_utc": "2025-01-26T13:37:00Z",
+      "article_url": "https://www.investing.com/analysis/1-stock-to-buy-1-stock-to-sell-this-week-meta-platforms-apple-200656621",
+      "tickers": [
+        "META",
+        "AAPL"
+      ],
+      "amp_url": "https://m.investing.com/analysis/1-stock-to-buy-1-stock-to-sell-this-week-meta-platforms-apple-200656621?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "Meta Platforms is a top buy this week due to its strong earnings potential and AI initiatives, while Apple faces headwinds from slowing iPhone sales and reduced innovation momentum, making it a stock to approach with caution.",
+      "keywords": [
+        "Meta Platforms",
+        "Apple",
+        "earnings",
+        "AI",
+        "iPhone"
+      ],
+      "insights": [
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Meta Platforms is expected to report strong Q4 earnings with a 26% jump in adjusted EPS and 17% revenue growth. The company's focus on expanding its AI capabilities is enhancing its ad-targeting and product ecosystem, making it an appealing stock to buy."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Apple faces headwinds from weaker-than-expected demand for the iPhone 16 and slower adoption of AI, which could weigh on future product innovation. The company's guidance for the current quarter is also anticipated to disappoint, making it a stock to approach with caution."
+        }
+      ]
+    },
+    {
+      "id": "92815846aa15ab4e280ad2cd845172cc9d66e9dfec87b9b160cab92835d558a2",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is This Simple Index Fund a Millionaire Maker?",
+      "author": "Anders Bylund",
+      "published_utc": "2025-01-26T11:51:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/26/is-this-simple-index-fund-a-millionaire-maker/?source=iedfolrf0000001",
+      "tickers": [
+        "VGT",
+        "VOO",
+        "AAPL",
+        "NVDA",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805073/saving-money-saver-financial-lesson-family-mom-child.jpg",
+      "description": "The article discusses the Vanguard Information Technology ETF (VGT) and its potential to make investors millionaires. It compares the ETF's performance to the Vanguard S&P 500 ETF (VOO) and highlights the IT-focused ETF's ability to outperform the broader market over the long term.",
+      "keywords": [
+        "Vanguard Information Technology ETF",
+        "Vanguard S&P 500 ETF",
+        "index fund",
+        "millionaire",
+        "long-term investing"
+      ],
+      "insights": [
+        {
+          "ticker": "VGT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the Vanguard Information Technology ETF's ability to outperform the broader market over the long term, making it a viable option for investors looking to grow their wealth."
+        },
+        {
+          "ticker": "VOO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares the Vanguard Information Technology ETF's performance to the Vanguard S&P 500 ETF, but does not make a strong positive or negative assessment of the S&P 500 ETF."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Apple as one of the top three holdings of the Vanguard Information Technology ETF, but does not provide a specific assessment of the company."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Nvidia as one of the top three holdings of the Vanguard Information Technology ETF, but does not provide a specific assessment of the company."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Microsoft as one of the top three holdings of the Vanguard Information Technology ETF, but does not provide a specific assessment of the company."
+        }
+      ]
+    }
+  ]
+}

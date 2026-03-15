@@ -1,0 +1,63 @@
+{
+  "items": [
+    {
+      "title": "If You Invested $1000 In Sherwin-Williams Stock 15 Years Ago, You Would Have This Much Today",
+      "description": "",
+      "published_utc": "2026-01-07T06:30:50",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=bf30ee9f384417518994d18534cae7747b69dad6ed5f5936865da4bb4cd86273",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138872161,
+      "datetime": 1767785450
+    },
+    {
+      "id": "925b270c398b7029a824d4e15bb2982b95ae9ff5a5b6e4d30d1d2de61873f79a",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "This Fund Sold $6 Million of a Mid-Cap ETF Even as Shares Rose 13%",
+      "author": "Jonathan Ponciano",
+      "published_utc": "2026-01-07T22:11:33Z",
+      "article_url": "https://www.fool.com/coverage/filings/2026/01/07/this-fund-sold-usd6-million-of-a-mid-cap-etf-even-as-shares-rose-13/?source=iedfolrf0000001",
+      "tickers": [
+        "FNX",
+        "SHW"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F6f699693a3501babe6eb40aac5d3061bf74bda96-1401x1251.png%3Fw%3D1401%26h%3D1251&w=1200&op=resize",
+      "description": "Lakeridge Wealth Management sold 47,314 shares of the First Trust Mid Cap Core AlphaDEX Fund (FNX) worth approximately $5.92 million in Q4, reducing its position to 1.47% of assets. Despite the sale, FNX shares have risen 13.48% over the past year, though they lag the S&P 500 by 3.51 percentage points. The sale reflects portfolio discipline and suggests mid-cap factor exposure is a satellite position rather than a core conviction.",
+      "keywords": [
+        "mid-cap ETF",
+        "portfolio rebalancing",
+        "factor-based investing",
+        "AlphaDEX methodology",
+        "institutional holdings",
+        "13F filing"
+      ],
+      "insights": [
+        {
+          "ticker": "FNX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The fund showed solid 13.48% returns over the past year, but the institutional sale suggests it is being trimmed as a non-core position. The fund slightly underperforms the S&P 500 and carries a Bronze Medalist rating from Morningstar, indicating respectable but cyclical performance. The sale reflects portfolio discipline rather than disappointment."
+        },
+        {
+          "ticker": "SHW",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a top holding in Lakeridge's portfolio ($11.83 million, 5.44% of AUM) and recommended by The Motley Fool. No specific news or sentiment drivers are discussed in the article."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:08:49.048273+00:00",
+    "cache_key": "news_85b4e015aaf9838786c14684aa54a6e7",
+    "count": 2
+  }
+}

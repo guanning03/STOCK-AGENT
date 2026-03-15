@@ -1,0 +1,89 @@
+{
+  "items": [
+    {
+      "id": "220748a1634cab5c20cb143999016a7654b2d9b592a4b05d1e25c6e8d4f1d32c",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Real-Time Payment Market to USD 270.8 Billion by 2032, Owing to Increased Consumer Demand for Instant Transactions | Research by SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-02-11T15:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/11/3024312/0/en/Real-Time-Payment-Market-to-USD-270-8-Billion-by-2032-Owing-to-Increased-Consumer-Demand-for-Instant-Transactions-Research-by-SNS-Insider.html",
+      "tickers": [
+        "V",
+        "MA",
+        "PYPL",
+        "DB",
+        "DGP",
+        "DGZ",
+        "DZZ",
+        "FIS",
+        "ACIW"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The real-time payment market is expected to grow rapidly from $21.1 billion in 2023 to $270.8 billion by 2032, driven by increasing consumer demand for instant, secure, and convenient transactions. The growth is also fueled by government initiatives, evolving payment technologies, and the adoption of digital payments and mobile wallets.",
+      "keywords": [
+        "real-time payments",
+        "digital payments",
+        "mobile wallets",
+        "payment technologies",
+        "government initiatives"
+      ],
+      "insights": [
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Visa is mentioned as a major player in the real-time payment market, having launched a new real-time payment network to enhance cross-border payments."
+        },
+        {
+          "ticker": "MA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mastercard is also mentioned as a major player in the real-time payment market, having announced a partnership to expand its real-time payment capabilities and improve financial inclusion in emerging markets."
+        },
+        {
+          "ticker": "PYPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "PayPal is mentioned as a major player in the real-time payment market, offering Xoom and PayPal Instant Transfer."
+        },
+        {
+          "ticker": "DB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Deutsche Bank is mentioned as a major player in the real-time payment market, offering RTP Payments Solution and Cash Management."
+        },
+        {
+          "ticker": "DGP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Deutsche Bank is mentioned as a major player in the real-time payment market, offering RTP Payments Solution and Cash Management."
+        },
+        {
+          "ticker": "DGZ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Deutsche Bank is mentioned as a major player in the real-time payment market, offering RTP Payments Solution and Cash Management."
+        },
+        {
+          "ticker": "DZZ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Deutsche Bank is mentioned as a major player in the real-time payment market, offering RTP Payments Solution and Cash Management."
+        },
+        {
+          "ticker": "FIS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "FIS is mentioned as a major player in the real-time payment market, offering RealNet and PayNet."
+        },
+        {
+          "ticker": "ACIW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "ACI Worldwide is mentioned as a major player in the real-time payment market, offering ACI Real-Time Payment and ACI Payments Hub."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:58:47.808747+00:00",
+    "cache_key": "news_43d6b63b6df0c66d2d301a8e5e76afcd",
+    "count": 1
+  }
+}

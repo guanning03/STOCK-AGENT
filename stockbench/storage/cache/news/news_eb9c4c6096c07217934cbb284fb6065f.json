@@ -1,0 +1,71 @@
+{
+  "items": [
+    {
+      "id": "879e997bb381929af777242c3414d7afda4d06bf2cca6ec4fc7dec9635aee9cb",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Things to Know About Domino's Pizza Stock Before You Buy",
+      "author": "Demitri Kalogeropoulos",
+      "published_utc": "2024-12-15T09:55:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/15/things-know-dominos-pizza-stock-before-buy/?source=iedfolrf0000001",
+      "tickers": [
+        "DPZ",
+        "BRK.A",
+        "BRK.B",
+        "MCD",
+        "CMG",
+        "WEN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800798/gettyimages-498272302.jpg",
+      "description": "Domino's Pizza is an efficient and profitable fast-food chain, but its stock may not be the best fit for all investors' portfolios. While Berkshire Hathaway has added Domino's to its portfolio, investors should carefully consider the company's valuation and growth prospects before following suit.",
+      "keywords": [
+        "Domino's",
+        "Berkshire Hathaway",
+        "fast-food",
+        "valuation",
+        "growth"
+      ],
+      "insights": [
+        {
+          "ticker": "DPZ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Domino's is an efficient and profitable fast-food chain, but its stock may not be the best fit for all investors' portfolios. The article highlights both the positives, such as the company's strong performance and potential for international expansion, as well as the potential negatives, such as increased competition in the home delivery market and the stock's current valuation."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway's decision to add Domino's to its portfolio is seen as a positive, as the conglomerate's returns have historically outperformed the market and Buffett's investment judgment is widely respected."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway's decision to add Domino's to its portfolio is seen as a positive, as the conglomerate's returns have historically outperformed the market and Buffett's investment judgment is widely respected."
+        },
+        {
+          "ticker": "MCD",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that McDonald's U.S. sales were flat in Q3 as consumers became more mindful of their spending, suggesting a challenging environment for the fast-food industry."
+        },
+        {
+          "ticker": "CMG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Chipotle is mentioned as a faster-growing competitor to Domino's, with a higher price-to-sales valuation, suggesting it may be viewed more favorably by investors."
+        },
+        {
+          "ticker": "WEN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Wendy's is mentioned as a peer to Domino's, but no specific sentiment is provided for the company."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:25:26.566250+00:00",
+    "cache_key": "news_eb9c4c6096c07217934cbb284fb6065f",
+    "count": 1
+  }
+}

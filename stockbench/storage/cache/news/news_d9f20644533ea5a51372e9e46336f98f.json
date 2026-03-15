@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "US Multi-Industrials Stocks Poised to Benefit From Recent Trade Deals, BofA Says",
+      "description": "With more than half of US imports now covered by trade deals, the industrial sector is poised to ben",
+      "published_utc": "2025-07-29T12:22:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d9bab7ddb8fc157e0c3e3317d1e73220f94b493ac9eb99230b7507bed6da163f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136119345,
+      "datetime": 1753806149
+    },
+    {
+      "title": "Saudi Arabia Home Energy Management System Market Overview and Company Analysis Report 2025-2033 Featuring Honeywell, General Electric, Comcast, Panasonic, Johnson Controls, Schneider Electric, Bosc",
+      "description": "The Saudi Arabia Home Energy Management System (HEMS) market is set to surge, anticipating growth from US$ 43.62 Million in 2024 to US$ 145.69 Million by 2033, with a CAGR of 14.34% from 2025 to 2033. This growth is fueled by energy efficiency emphasis, smart home adoption, and government incentives under Vision 2030. HEMS aids in reducing energy costs and carbon emissions, aligning with global sustainability goals. Key technological advancements like AI and IoT enhance system efficiency. Challe",
+      "published_utc": "2025-07-29T07:46:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6d2a3b05eb071855d1ec9a24e1e927d46f0012e7192e51f543407074a208b5c1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136117005,
+      "datetime": 1753789560
+    },
+    {
+      "title": "Dow down nearly 125 points on losses for shares of UnitedHealth, Merck",
+      "description": "Dow down nearly 125 points on losses for shares of UnitedHealth, Merck",
+      "published_utc": "2025-07-29T06:44:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=21b3394e8ff7d4750dc88ec46f65f96740fbd6f9da099238a930fce8c6b569ce",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136134663,
+      "datetime": 1753785840
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:20:04.607665+00:00",
+    "cache_key": "news_d9f20644533ea5a51372e9e46336f98f",
+    "count": 3
+  }
+}

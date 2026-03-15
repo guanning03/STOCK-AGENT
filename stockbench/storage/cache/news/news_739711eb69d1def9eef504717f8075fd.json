@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Apple's Newest Phone and Laptop Are More Budget-Friendly. Premium Products Could Be Next",
+      "description": "Apple's latest product strategy isn't about new technology. It's about being more—and less—affordable.",
+      "published_utc": "2026-03-10T16:56:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=298aadb27ee69f8a9d84c9b8bb29f74b0694ad7b041e103cac417e7814cbb212",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139368475,
+      "datetime": 1773176211
+    },
+    {
+      "title": "German Publishers Urge Antitrust Action Against Apple",
+      "description": "Industry groups say proposed app tracking changes fail to resolve competition concerns.",
+      "published_utc": "2026-03-10T16:37:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4b02069a1bac3f154b6171ffd399fc966ce68ef2a4309efec2af62e816e0efa1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139367856,
+      "datetime": 1773175038
+    },
+    {
+      "title": "Qualcomm Stock Tumbles -- BofA Warns on Apple Exit and Weak Growth",
+      "description": "Qualcomm Stock Falls After BofA Warns of Weak Growth Ahead",
+      "published_utc": "2026-03-10T15:40:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2c0cebae818f07093683800e3da3c6f2393c8ed04757a689ab6ea0573cf8187a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139367195,
+      "datetime": 1773171631
+    },
+    {
+      "title": "Qualcomm faces loss of Apple business, competitive pressures, says Bank of America",
+      "description": "Analysts at Bank of America reinstated coverage of Qualcomm Inc (NASDAQ:QCOM, XETRA:QCI) on Tuesday with an ‘Underperform’ rating and a $145 price target, pointing to modest long-term growth expectations and several competitive and customer-related headwinds. Shares of Qualcomm traded hands...",
+      "published_utc": "2026-03-10T15:13:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9df687beb0cbc65c6981c7bb8550fb82897279f01deca5cfc1803d988f32384c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139367196,
+      "datetime": 1773169980
+    },
+    {
+      "title": "Apple’s Budget MacBook Is a Hit. What It Means For the Stock, and What’s Next.",
+      "description": "Apple reported December quarter product gross margins of 40.7% in January. Analysts surveyed by FactSet expect product gross margins for the December 2026 quarter to be 40.6%.",
+      "published_utc": "2026-03-10T14:39:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c2d4eada94097b0a3af8bcf26635a7913c6a9727d96f9be5f723158cd7310c90",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139367197,
+      "datetime": 1773167940
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T04:24:20.299426+00:00",
+    "cache_key": "news_739711eb69d1def9eef504717f8075fd",
+    "count": 5
+  }
+}

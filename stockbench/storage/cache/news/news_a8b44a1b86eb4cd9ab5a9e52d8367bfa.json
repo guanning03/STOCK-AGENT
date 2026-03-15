@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Should Value Investors Buy The Hanover Insurance Group (THG) Stock?",
+      "description": "Here at Zacks, our focus is on the proven Zacks Rank system, which emphasizes earnings estimates and estimate revisions to find great stocks. Nevertheless, we are always paying attention to the latest value, growth, and momentum trends to underscore strong picks.",
+      "published_utc": "2025-09-17T10:40:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eb427b2fb4fda1af7484a7f844c044af33bbd1ed8460f85359b0f90e467a7a97",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136789994,
+      "datetime": 1758120004
+    },
+    {
+      "title": "U.S. Private Auto Premiums Hit Record-High Q2 Mark",
+      "description": "Private auto insurers in the US continued to benefit from earned-in rate increases in the second quarter and again pushed premiums to record levels. Read more here.",
+      "published_utc": "2025-09-16T22:25:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f44d1c02af3ab538b3b6b0b94823d6d446b2d974286dddfa677a5cabdcf0794b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1308098221/image_1308098221.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136785828,
+      "datetime": 1758075900
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:59:08.802600+00:00",
+    "cache_key": "news_a8b44a1b86eb4cd9ab5a9e52d8367bfa",
+    "count": 2
+  }
+}

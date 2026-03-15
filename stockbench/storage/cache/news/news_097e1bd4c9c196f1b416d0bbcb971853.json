@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stock Funds Hold a 11% Gain for 2025 So Far",
+      "description": "If the market’s rally holds, it’ll be a third straight year of double-digit gains. Plus: A Financial Flashback to 20 years ago, the Refco commodities debacle.",
+      "published_utc": "2025-10-04T09:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7fe0f1b28f39e40aeb4332db412ead2bf9e000214c2b0a77bdf864bf14550fd6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136980562,
+      "datetime": 1759582800
+    },
+    {
+      "title": "Stock Funds Hold an 11% Gain for 2025 So Far",
+      "description": "Stock Funds Hold an 11% Gain for 2025 So Far",
+      "published_utc": "2025-10-04T05:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=c453bf1b923c5086acde63f30009b20b91f128bcdc43f5f6b8b249f0681b23c8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136995409,
+      "datetime": 1759568400
+    },
+    {
+      "title": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% (Oct. 2025)",
+      "description": "In our monthly article series we highlight five large-cap, relatively safe, dividend-paying companies offering significant discounts to their historical norms. Read it here.",
+      "published_utc": "2025-10-04T04:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=79a13028fd668adda6517ad345a597bcca6ffb7ec4f9ede53784eef0d83a15ad",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1249993252/image_1249993252.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136971550,
+      "datetime": 1759565700
+    },
+    {
+      "title": "Fed Chair Jerome Powell Just Said the Quiet Part Out Loud -- and These 6 Words Should Terrify Wall Street and Investors",
+      "description": "Jerome Powell's candid observation points to the stock market's biggest threat.",
+      "published_utc": "2025-10-04T03:06:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6db3b88053ae0f5908ffe618c91208d50620c06017a7c1f0c75f81007233794c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136980563,
+      "datetime": 1759561560
+    },
+    {
+      "title": "Largest U.S. Banks Lead Sector Market Performance In September",
+      "description": "Although most of the US banking sector traded down in September, the Big Four banks bucked the trend, propping up the market-cap weighted index. Read more here.",
+      "published_utc": "2025-10-03T21:50:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=53b17a36577fd3ba7f1196a81e764fb7782f271a09a5fc9c36eff87e2ebe41ab",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2174046835/image_2174046835.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136969998,
+      "datetime": 1759542600
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T04:49:58.289799+00:00",
+    "cache_key": "news_097e1bd4c9c196f1b416d0bbcb971853",
+    "count": 5
+  }
+}

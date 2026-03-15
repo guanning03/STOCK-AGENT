@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Goldman Sachs Initiates Coverage of UnitedHealth Group Incorporated (UNH) with Buy Rating",
+      "description": "UnitedHealth Group Incorporated (NYSE:UNH) is among the 14 Best Big Name Stocks to Invest in Right Now. On October 14, Goldman Sachs analyst Scott Fidel initiated coverage of the stock with a Buy rating. It also assigned a price target of $406 for its shares, representing an upside potential of 12.31%. In a research note […]",
+      "published_utc": "2025-10-18T01:56:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5ea7974800bd90d0cb21950bda39a17895e5df344fadd3074a26d6cfb5806bce",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137164262,
+      "datetime": 1760767001
+    },
+    {
+      "title": "Managed Care Insurers Trading Down Ahead Of Earnings Season",
+      "description": "US managed care insurers were trading down this week ahead of earnings season as the release of Medicare ratings and federal tax credit uncertainty appeared to weigh on stock prices.",
+      "published_utc": "2025-10-18T01:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0fff7a7fadd5c15fc46f6410644f4ba1d01cf281f7b374ca9f3616a8ea753f23",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2209269938/image_2209269938.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137133216,
+      "datetime": 1760765400
+    }
+  ]
+}

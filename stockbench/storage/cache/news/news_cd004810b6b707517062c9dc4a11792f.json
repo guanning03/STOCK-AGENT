@@ -1,0 +1,104 @@
+{
+  "items": [
+    {
+      "title": "Vertex Pharmaceuticals: The Stock Hasn't Dropped Enough Yet",
+      "description": "Read the latest analysis on Vertex stock and its recent earnings report here.",
+      "published_utc": "2025-08-12T10:34:19",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=457a1ccd7b4be1b5d342bea5428a17588b135225edd16dc75e6355592dcbb4c3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2148319783/image_2148319783.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136321094,
+      "datetime": 1755009259
+    },
+    {
+      "title": "Puerto Rico’s ongoing journey from manufacturing hub to innovation enterprise",
+      "description": "Biotechs are coming to the island as tariffs threaten overseas drug exports, and finding Puerto Rico is more than just a leading manufacturing hub.",
+      "published_utc": "2025-08-12T02:57:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=18e0825ddcf3a73b36aaf4db3edfe28c1dc6e27844d9a3c8b70ef5ce0c7c83b0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136315977,
+      "datetime": 1754981858
+    },
+    {
+      "title": "Amgen Announces Bemarituzumab’s Successful Phase 3 Results in FGFR2b+ Gastric Cancer",
+      "description": "Amgen Inc. (NASDAQ:AMGN) is among the 11 Best GLP-1 and Weight Loss Stocks to Invest in. Amgen Inc. (NASDAQ:AMGN) reported that the Phase 3 FORTITUDE-101 trial achieved its primary endpoint. It proved a clinically meaningful and statistically significant improvement in overall survival for patients with FGFR2b-overexpressing, metastatic, or unresectable gastric/gastroesophageal junction cancer treated with bemarituzumab […]",
+      "published_utc": "2025-08-11T20:20:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=df9f9c774b34ac2f805e04ee51728a4e179b450cd9943d3ca3e3141707a943b2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136316164,
+      "datetime": 1754958005
+    },
+    {
+      "id": "de67d560b59a2a509ac1a83718f45b92c485c1c22695c39ceab13c02cac223e3",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Ligand Announces Pricing of $400 Million Convertible Senior Notes Offering",
+      "author": "Ligand Pharmaceuticals",
+      "published_utc": "2025-08-12T03:46:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/08/12/3131390/0/en/Ligand-Announces-Pricing-of-400-Million-Convertible-Senior-Notes-Offering.html",
+      "tickers": [
+        "LGND",
+        "AMGN",
+        "MRK",
+        "PFE"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/1fe91aa2-494e-4b30-89e8-cad771bbaabf",
+      "description": "Ligand Pharmaceuticals plans to issue $400 million in convertible senior notes due in 2030, with an option to increase the offering by $60 million. The notes will have a 0.75% interest rate and can be converted into common stock under certain conditions.",
+      "keywords": [
+        "convertible notes",
+        "financing",
+        "stock offering",
+        "pharmaceutical",
+        "investment"
+      ],
+      "insights": [
+        {
+          "ticker": "LGND",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The company is raising capital through a standard convertible notes offering, which suggests financial strategy and potential growth without indicating significant positive or negative market implications"
+        },
+        {
+          "ticker": "AMGN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a partner, with no specific context suggesting positive or negative impact"
+        },
+        {
+          "ticker": "MRK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a partner, with no specific context suggesting positive or negative impact"
+        },
+        {
+          "ticker": "PFE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a partner, with no specific context suggesting positive or negative impact"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:04:22.260288+00:00",
+    "cache_key": "news_cd004810b6b707517062c9dc4a11792f",
+    "count": 4
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "American Express is at an all-time high, everyone likes a good price target raise, says Jim Cramer",
+      "description": "'Mad Money' host Jim Cramer talks where to find winners and places to put your money in this market.",
+      "published_utc": "2025-11-12T14:13:49",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=da857331d7383384d2938357f3c85bdf36cd76bcc45d25ae4189844a5643a62a",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108225147-4ED1-REQ-111225-MMABLOCK.jpg?v=1762991328&w=1920&h=1080",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137469775,
+      "datetime": 1762974829
+    },
+    {
+      "title": "BFH or AXP: Which Is the Better Value Stock Right Now?",
+      "description": "BFH vs. AXP: Which Stock Is the Better Value Option?",
+      "published_utc": "2025-11-12T11:40:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ae5b8550f9f5995371250bc7b17ace079577bddc8b4d9f9297c3e5b153c6fd75",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137466979,
+      "datetime": 1762965603
+    },
+    {
+      "title": "Dow on Pace to Clear 48,000 Closing Milestone",
+      "description": "The Dow is surging through the 48,000 threshold.  The blue-chip index was up 344 points, or 0.7%, on Wednesday.  It continued to beat the S&P 500 and Nasdaq Composite this week; the S&P was down 0.1%, while the Nasdaq was down 0.6%.",
+      "published_utc": "2025-11-12T11:21:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=68db3adb6b8c48ebf1a680c16cafce7c437cf2a20ddc0513fb0598d3906a9f04",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137460153,
+      "datetime": 1762964506
+    },
+    {
+      "title": "From Share Plates to Smart Tech, The 2025 Resy Retrospective Reveals Dining Is More Connected Than Ever",
+      "description": "NEW YORK, November 12, 2025--The Resy Retrospective is an annual dining report providing a look at the top trends and culinary moments of 2025 and what's on the rise for 2026.",
+      "published_utc": "2025-11-12T11:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ab579e4f525dceb9d777793733314e2bc38b906ccef47da26f2f97c796fc1e90",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137460300,
+      "datetime": 1762963500
+    },
+    {
+      "title": "Why a Visa-Mastercard legal settlement could lead to your rewards credit card getting declined",
+      "description": "Visa and Mastercard have proposed a settlement in their long-running legal dispute with merchants and retailers over how much they charge merchants to accept their cards.  Visa and Mastercard have been in litigation with a class-action group of merchants for nearly 20 years over the costs they impose on merchants to use their payment networks, known as interchange.",
+      "published_utc": "2025-11-12T09:37:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dcf916e8b4c6f3fe4946340caa473061e130f053ab1bde8d692ce2b1b1c22ea8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137454601,
+      "datetime": 1762958230
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:57:23.864278+00:00",
+    "cache_key": "news_09e78a8647fd780593b5eb1bc3c0bb00",
+    "count": 5
+  }
+}

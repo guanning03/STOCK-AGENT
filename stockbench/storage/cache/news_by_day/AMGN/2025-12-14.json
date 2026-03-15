@@ -1,0 +1,116 @@
+{
+  "items": [
+    {
+      "title": "2 Dividend Stocks to Double Up on Right Now",
+      "description": "These dividend growth machines could have considerable upside for long-term investors.",
+      "published_utc": "2025-12-14T15:07:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=46683331c4b10a461d46074bc1538d0b0064645b86929695bacfa8412e7b97cf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137792508,
+      "datetime": 1765742820
+    },
+    {
+      "id": "d051940136e9ab06c5ca7859cc3d10dcaca32ea43ec8c4cbe035fb8448acee5f",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Want Decades of Passive Income? Buy This Index Fund and Hold It Forever.",
+      "author": "David Dierking",
+      "published_utc": "2025-12-14T10:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/12/14/want-decades-passive-income-buy-index-fund-schd/?source=iedfolrf0000001",
+      "tickers": [
+        "SCHD",
+        "CSCO",
+        "MRK",
+        "AMGN",
+        "ABBV",
+        "BMY",
+        "CELGr"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F845368%2Fgettyimages-1324119709.jpg&w=1200&op=resize",
+      "description": "The Schwab U.S. Dividend Equity ETF offers a reliable long-term passive income strategy, featuring consistent dividend growth, quality companies, and a current yield of 3.8%, making it attractive for investors seeking steady income over decades.",
+      "keywords": [
+        "passive income",
+        "dividend ETF",
+        "long-term investing",
+        "dividend growth"
+      ],
+      "insights": [
+        {
+          "ticker": "SCHD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Demonstrated 14 consecutive years of annual dividend increases, focuses on durable companies with strong cash flows, and provides a stable 3.8% yield"
+        },
+        {
+          "ticker": "CSCO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a top holding in the ETF, representing a mature, stable company"
+        },
+        {
+          "ticker": "MRK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Included as a top holding in the dividend-focused ETF, indicating stability"
+        },
+        {
+          "ticker": "AMGN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Top holding in the ETF, suggesting a reliable healthcare company"
+        },
+        {
+          "ticker": "ABBV",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Top holding representing a stable healthcare company in the dividend ETF"
+        },
+        {
+          "ticker": "BMY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Top holding in the ETF, indicating a stable pharmaceutical company"
+        },
+        {
+          "ticker": "CELGr",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Top holding in the ETF, indicating a stable pharmaceutical company"
+        }
+      ]
+    },
+    {
+      "title": "Healthcare Dashboard For December And Focus On PJP",
+      "description": "Discover 10 undervalued healthcare stocks and why pharmaceuticals and providers stand out for value and quality.",
+      "published_utc": "2025-12-14T09:00:20",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=958a18b7e0b112b795c0fd6d9d695e83544427c02e068146e4192b7d96c592db",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2235302123/image_2235302123.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137786042,
+      "datetime": 1765720820
+    },
+    {
+      "title": "Amgen's (NASDAQ:AMGN) Shareholders Will Receive A Bigger Dividend Than Last Year",
+      "description": "Amgen Inc. ( NASDAQ:AMGN ) will increase its dividend from last year's comparable payment on the 6th of March to $2.52...",
+      "published_utc": "2025-12-14T07:48:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4b05e9cee900ebc76cd59061cd31a924a0586f918ce52c8abd1c3e836b1298c1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137792509,
+      "datetime": 1765716493
+    }
+  ]
+}

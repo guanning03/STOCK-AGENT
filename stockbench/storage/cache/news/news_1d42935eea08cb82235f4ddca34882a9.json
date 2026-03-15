@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Top Research Reports for AbbVie, Intel & Boeing",
+      "description": "Today's Research Daily features new research reports on 16 major stocks, including AbbVie Inc. (ABBV), Intel Corp. (INTC) and The Boeing Company (BA), as well as a micro-cap stock Tandy Leather Factory, Inc. (TLF).",
+      "published_utc": "2026-01-14T16:55:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fb40463bd6f821f8ae3a8e706d9ea0fe84eaf61a6df5130afed79cca4332eeb4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138116125,
+      "datetime": 1768427700
+    },
+    {
+      "title": "UPS Crash Probe Turns to Jet Part With Past Problems",
+      "description": "UPS Crash Probe Turns to Jet Part With Past Problems",
+      "published_utc": "2026-01-14T14:58:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=ef7176ba976bcc61257d8c7f1f988420cedfc31f6a10e6fcdf9fe2653067b72e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138129459,
+      "datetime": 1768420680
+    },
+    {
+      "title": "6 Reasons Why You Should Add Ryanair Stock to Your Portfolio",
+      "description": "RYAAY continues to benefit from upbeat passenger volumes and fleet-upgrade efforts. Its efforts to repay debts are encouraging too.",
+      "published_utc": "2026-01-14T12:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2d427f2421924fa443ee75c87023aff49c27bfa5a5129725a289773c2a16186a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138114719,
+      "datetime": 1768411800
+    },
+    {
+      "title": "How The Ailing Multi-Family Sector Impacts The U.S. Economy",
+      "description": "Explore worsening multifamily conditions as Sunbelt supply rises.",
+      "published_utc": "2026-01-14T11:13:32",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e73288ff70b716fad8fe26e5006db7a3a651f88b5fa7c6c6465ad9a95d410e81",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/542306156/image_542306156.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138115291,
+      "datetime": 1768407212
+    },
+    {
+      "title": "U.S. National Transportation Safety Board Announces United Parcel Service's November 2025 Crash Of Boeing MD-11F Jet's Interior Surface Of Bearing's Race Had Fracture Surfaces",
+      "description": "https://www.ntsb.gov/investigations/Documents/DCA26MA024%20Investigative%20Update.pdf",
+      "published_utc": "2026-01-14T10:52:05",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=52ffb85229ebbd69c7792d70450a8fedfab095356fd92efe49a201d06664e1d3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138805723,
+      "datetime": 1768405925
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:34:06.997976+00:00",
+    "cache_key": "news_1d42935eea08cb82235f4ddca34882a9",
+    "count": 5
+  }
+}

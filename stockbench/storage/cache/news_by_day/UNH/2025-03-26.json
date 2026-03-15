@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "title": "UnitedHealth has scrapped mentions of DEI from website, TechCrunch reports",
+      "description": "It was not clear whether UnitedHealth pulled down the pages to represent a shift in terminology or an actual change in its policies, the report said.  UnitedHealth Group did not immediately respond to a Reuters request for comment.  Per TechCrunch's report, multiple pages of the UnitedHealth website dedicated to DEI now redirect to a \"page not found\" error when compared to archived copies of the site.",
+      "published_utc": "2025-03-26T17:48:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=69f6d66c50e10e38716e6167080cbf1ce7be7a953ea28402b24637c185ab5882",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133462046,
+      "datetime": 1743025734
+    },
+    {
+      "title": "US is only country debating GLP-1 insurance coverage for weight loss: Cigna CEO Cordani",
+      "description": "Cigna (CI) CEO David Cordani is not convinced of the benefits of GLP-1s for weight-loss patients and said the US is the only country among developed nations where insurance coverage is being debated.",
+      "published_utc": "2025-03-26T16:13:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=64ce262c8731e0be72f6af4537f8d5b7c4747e2b9729830330fffd82f81d4f50",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133462036,
+      "datetime": 1743019988
+    },
+    {
+      "title": "UnitedHealth Removes Mentions Of DEI From Its Website - TechCrunch",
+      "description": "March 26 - * UNITEDHEALTH REMOVES MENTIONS OF DEI FROM ITS WEBSITE -TECHCRUNCHSource text: https://tinyurl.com/mpevweux ...",
+      "published_utc": "2025-03-26T13:34:08",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=f52b39d0a3f9eb461eaaed01fa55ddbc3c4bb233530f2210108aefff97325e6a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133459899,
+      "datetime": 1743010448
+    },
+    {
+      "title": "Chevron, McDonald's share gains contribute to Dow's 118-point jump",
+      "description": "Chevron, McDonald's share gains contribute to Dow's 118-point jump",
+      "published_utc": "2025-03-26T07:18:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=5dc775908e4183e81d2ef577dbfde84a64b6fce93c1704e497f60bc002ac4b94",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133463167,
+      "datetime": 1742987880
+    },
+    {
       "title": "Tracking Lone Pine Capital Portfolio - Q4 2024 Update",
       "description": "Lone Pine Capital's 13F portfolio value increased slightly from $13.41B to $13.47B. Check out the new stakes and significant stake additions to the portfolio.",
       "published_utc": "2025-03-26T04:59:26",

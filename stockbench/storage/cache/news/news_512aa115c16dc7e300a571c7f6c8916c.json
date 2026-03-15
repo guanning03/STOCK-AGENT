@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Conventum Alluvium Global Fund Q2 2025 Quarterly Report",
+      "description": "Conventum Alluvium Global Fund's Q2 2025 report shows the Fund rising on stimulus optimism despite currency headwinds. See whatâs driving performance and positioning.",
+      "published_utc": "2025-08-10T16:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0a39b8b2960a991c05559f1dec73bd61df4a0e35b75bfb01a8e785e8215661fd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2166679764/image_2166679764.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136290254,
+      "datetime": 1754858700
+    },
+    {
+      "title": "Why new IPOs are crushing it out of the block",
+      "description": "Welcome to public markets, Firefly and Figma.",
+      "published_utc": "2025-08-10T08:30:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c8853b8115764a11c544f9bc01f90ffe5126adf661d9bcf9b7bc22e593b5c396",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136288411,
+      "datetime": 1754829053
+    },
+    {
+      "title": "The Boeing Company (NYSE:BA)’s Defense Workers Strike After Rejecting Contract Offer",
+      "description": "The Boeing Company (NYSE:BA) is among the 11 Best Large Cap Defense Stocks to Buy According to Analysts. The aircraft manufacturer is encountering a major labor strife, as more than 3,000 defense unit workers have gone on strike after turning down a contract offer. Late last month, union members at the company’s St. Louis defense […]",
+      "published_utc": "2025-08-09T20:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d65ac768147b2ae1dfab8ed0cf86276c0d042b904239c71a0f9425fe05a07542",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136292417,
+      "datetime": 1754785800
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:56:30.726109+00:00",
+    "cache_key": "news_512aa115c16dc7e300a571c7f6c8916c",
+    "count": 3
+  }
+}

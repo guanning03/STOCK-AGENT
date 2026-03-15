@@ -1,0 +1,216 @@
+{
+  "items": [
+    {
+      "title": "Tracking Ken Fisher's Fisher Asset Management Portfolio - Q2 2025 Update",
+      "description": "Fisher Asset Management's 13F portfolio grew from ~$231B to ~$252B in Q2 2025. Click here to read more about the trades and holdings in the portfolio.",
+      "published_utc": "2025-08-19T17:28:32",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=56de5e09f1b0932814f7d0569bd9fec38384cffa4afcbb6be4df991a558ee1cd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136433308,
+      "datetime": 1755638912
+    },
+    {
+      "title": "10 Financials Stocks Whale Activity In Today's Session",
+      "description": "",
+      "published_utc": "2025-08-19T09:35:29",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=760ea05f24405a51521a59c72441ecd8279bd1e0a505f63f9fd4e1acd43da19f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138474764,
+      "datetime": 1755610529
+    },
+    {
+      "title": "Bank of America Isn’t Sold on These 2 New Warren Buffett Stock Picks",
+      "description": "We’ll see the end of an era later this year, when investing legend Warren Buffett steps down from his leadership at Berkshire Hathaway. Over the past sixty years, Buffett’s investing strategy has turned the firm into a trillion-dollar giant, with powerful positions in the insurance, tech, and energy sectors. He’s known as a major backer of American brand names, and has long held multi-billion positions in Apple, American Express, and Coca-Cola. Buffett is particularly well-known for his promotio",
+      "published_utc": "2025-08-19T08:33:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=31017f766b2714c172bf4e5f0d357dab5f56efe6fc01deda831100bf7008f997",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136429910,
+      "datetime": 1755606824
+    },
+    {
+      "id": "547dd3ce403077c284ec798a54f7b91b9d0fe9458332e0c406b801b82030139a",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Here's Why Berkshire Hathaway Stock Is a Buy Before November",
+      "author": "Leo Sun",
+      "published_utc": "2025-08-19T08:20:00Z",
+      "article_url": "https://www.fool.com/investing/2025/08/19/why-berkshire-hathaway-stock-buy-before-november/?source=iedfolrf0000001",
+      "tickers": [
+        "BRK.A",
+        "BRK.B",
+        "AAPL",
+        "AXP",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK",
+        "KO"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/829611/warren-buffett.jpg",
+      "description": "Berkshire Hathaway's stock has underperformed the S&P 500 in the past year, with challenges including Warren Buffett's upcoming retirement and conservative investment strategies. Despite these concerns, the company remains fundamentally strong with potential for continued growth.",
+      "keywords": [
+        "Warren Buffett",
+        "Greg Abel",
+        "value investing",
+        "stock portfolio",
+        "retirement"
+      ],
+      "insights": [
+        {
+          "ticker": "BRK.A",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Underperformed market recently, but has stable core businesses, consistent earnings growth, and potential for future expansion under new leadership"
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Underperformed market recently, but has stable core businesses, consistent earnings growth, and potential for future expansion under new leadership"
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Part of Berkshire's significant stock portfolio, no specific performance details provided"
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's stock holdings, no specific performance details provided"
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's stock holdings, no specific performance details provided"
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's stock holdings, no specific performance details provided"
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's stock holdings, no specific performance details provided"
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's stock holdings, no specific performance details provided"
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's stock holdings, no specific performance details provided"
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's stock holdings, no specific performance details provided"
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's stock holdings, no specific performance details provided"
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's stock holdings, no specific performance details provided"
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's stock holdings, no specific performance details provided"
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's stock holdings, no specific performance details provided"
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's stock holdings, no specific performance details provided"
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's stock holdings, no specific performance details provided"
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's stock holdings, no specific performance details provided"
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's stock holdings, no specific performance details provided"
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's stock holdings, no specific performance details provided"
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's stock holdings, no specific performance details provided"
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's stock holdings, no specific performance details provided"
+        }
+      ]
+    },
+    {
+      "title": "Artisan Global Value Fund Q2 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-08-19T06:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4de19b34dbe280dc6329055127dce2e9120c176d98bcaf89d03aa5de51196f3c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136418718,
+      "datetime": 1755599400
+    }
+  ]
+}

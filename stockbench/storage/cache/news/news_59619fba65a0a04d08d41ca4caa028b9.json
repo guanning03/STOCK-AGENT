@@ -1,0 +1,92 @@
+{
+  "items": [
+    {
+      "title": "Trump Tells McDonald's Workers They're 'Lucky' He's Won The Election And Saved Them From A 'Catastrophe'",
+      "description": "Trump boasts about winning 2024 election and taking credit for strong economy, while warning of potential disaster under Harris. McDonald&#39;s prices reflect strain on consumers and Trump&#39;s tariff rollbacks aim to ease inflation. McDonald&#39;s stock shows potential in short, medium, and long terms.",
+      "published_utc": "2025-11-17T18:59:56",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f91ef9945d6ae9f2afc5f9a9e4a001d4ead807e96ca2756c07391dc414e131ca",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/17/President-Donald-Trump.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138505890,
+      "datetime": 1763423996
+    },
+    {
+      "title": "Cost Pressures Drag SBUX Margins Down 500 bps: More Pain Ahead?",
+      "description": "Starbucks' fourth-quarter margin plunge amid persistent inflation and rising labor costs clouds its turnaround as investments continue to pressure profits.",
+      "published_utc": "2025-11-17T10:06:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=82071d9abb5b3dd9c4da2d7e11b5a9f730057156e8d38c9c8bb72048651a4108",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137506443,
+      "datetime": 1763391960
+    },
+    {
+      "title": "FDIS: Consumer Discretionary Dashboard For November",
+      "description": "Some consumer discretionary stocks are undervalued and high quality. Get sector insights, ETF comparisons, and 10 bargain picks.",
+      "published_utc": "2025-11-17T08:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=20414703f5d8b4399d669d96df60b040084ec49256deea6773daeb80d63a5e72",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1160062163/image_1160062163.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137505830,
+      "datetime": 1763385300
+    },
+    {
+      "id": "cc6b326c0a8deb44b61c3dc88af90eb0d76c20573226bc8c3a3e75ef9ab40009",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why Is Everyone Talking About Krispy Kreme Stock?",
+      "author": "Lawrence Nga",
+      "published_utc": "2025-11-17T09:25:00Z",
+      "article_url": "https://www.fool.com/investing/2025/11/17/why-is-everyone-talking-about-krispy-kreme-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "DNUT",
+        "MCD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/842364/donut-1.jpg",
+      "description": "Krispy Kreme is undergoing a strategic turnaround, focusing on improving profitability and operational efficiency after experiencing inconsistent financial performance. The company recently ended its partnership with McDonald's and is working to enhance margins and revenue growth.",
+      "keywords": [
+        "turnaround",
+        "doughnuts",
+        "brand",
+        "profitability",
+        "refranchising"
+      ],
+      "insights": [
+        {
+          "ticker": "DNUT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The company is in transition with mixed performance - showing margin improvements but struggling with revenue growth, indicating potential but not yet a clear success"
+        },
+        {
+          "ticker": "MCD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned in context of terminated partnership with Krispy Kreme due to unprofitable unit economics"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:10:42.490598+00:00",
+    "cache_key": "news_59619fba65a0a04d08d41ca4caa028b9",
+    "count": 4
+  }
+}

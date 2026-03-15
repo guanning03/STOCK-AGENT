@@ -1,0 +1,340 @@
+{
+  "items": [
+    {
+      "id": "6c7cf74168b883d624113c541f3235c5595a108a99d86498f940823643e0ee82",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Qorvo EPS Beats, Revenue Struggles",
+      "author": "Jesterai",
+      "published_utc": "2025-01-28T23:40:46Z",
+      "article_url": "https://www.fool.com/data-news/2025/01/28/qorvo-eps-beats-revenue-struggles/?source=iedfolrf0000001",
+      "tickers": [
+        "QRVO",
+        "AAPL"
+      ],
+      "image_url": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/771b269c09e0732aa334b36b8f580c2b44038f23-1200x675.jpg",
+      "description": "Qorvo, a prominent player in radio frequency (RF) solutions, reported a solid Q3 Fiscal 2025 earnings beat, with Non-GAAP EPS of $1.61 exceeding analyst estimates. However, year-over-year performance reflected ongoing challenges, with revenue declining 14.7% from the previous year.",
+      "keywords": [
+        "Qorvo",
+        "earnings",
+        "RF solutions",
+        "challenges"
+      ],
+      "insights": [
+        {
+          "ticker": "QRVO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Qorvo exceeded analyst expectations for Q3 Fiscal 2025, reporting a strong Non-GAAP EPS of $1.61 and beating revenue estimates. This indicates the company's ability to perform well despite market obstacles."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Apple is mentioned as one of Qorvo's leading customers, but the article does not provide any specific information about Apple's performance or outlook."
+        }
+      ]
+    },
+    {
+      "id": "181e3869d2df621b956d623fe55bcd3b353fe97bf22915559154ecf6c9cce5c5",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Should Investors Load Up on Apple Stock Before Jan. 30?",
+      "author": "Brett Schafer",
+      "published_utc": "2025-01-28T21:30:18Z",
+      "article_url": "https://www.fool.com/investing/2025/01/28/should-investors-load-up-on-apple-stock-before-jan/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "GOOG",
+        "GOOGL",
+        "META",
+        "TSLA",
+        "BRK.A",
+        "BRK.B"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805480/fingers-on-chin-looking-up-thinking-considering-wondering.jpg",
+      "description": "Apple's revenue growth has stagnated in recent years, but its stock price has continued to rise due to a higher valuation. The company faces challenges in expanding beyond the iPhone, and its upcoming earnings report will be a crucial test. Investors should be cautious about buying Apple stock at its current elevated valuation.",
+      "keywords": [
+        "Apple",
+        "earnings",
+        "valuation",
+        "iPhone",
+        "growth"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Apple's revenue growth has stagnated in recent years, with slowing iPhone sales and limited success in expanding beyond its core smartphone business. The company's stock is trading at a high valuation, which may not be justified by its current performance, leading to concerns about potential downside risk."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alphabet is mentioned as a partner of Apple, providing search licenses, but the article does not provide any specific insights about the company's performance or outlook."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alphabet is mentioned as a partner of Apple, providing search licenses, but the article does not provide any specific insights about the company's performance or outlook."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Meta Platforms is mentioned as one of the technology companies reporting earnings, but the article does not provide any analysis or sentiment about the company."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Tesla is mentioned as one of the technology companies reporting earnings, but the article does not provide any analysis or sentiment about the company."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article notes that Berkshire Hathaway, Apple's largest shareholder, has been selling a significant portion of its Apple stock, likely due to concerns about the company's valuation."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article notes that Berkshire Hathaway, Apple's largest shareholder, has been selling a significant portion of its Apple stock, likely due to concerns about the company's valuation."
+        }
+      ]
+    },
+    {
+      "id": "5bac27794edb657833a6ecc93783315627a71731ececc61413a0c2af199a8e26",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Wall Street Comes To Nvidia's Defense After Biggest Loss Ever, Many Momos Wiped Out",
+      "author": "The Arora Report",
+      "published_utc": "2025-01-28T15:17:16Z",
+      "article_url": "https://www.benzinga.com/markets/equities/25/01/43272853/wall-street-comes-to-nvidias-defense-after-biggest-loss-ever-many-momos-wiped-out",
+      "tickers": [
+        "NVDA",
+        "AAPL",
+        "AMD",
+        "CCJ",
+        "OKLO",
+        "NNE",
+        "SOFI",
+        "PLTR",
+        "RGTI",
+        "RGTIW",
+        "QUBT",
+        "WIMI",
+        "SPY",
+        "QQQ"
+      ],
+      "image_url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "description": "Wall Street is defending Nvidia after its biggest loss ever, as many momentum traders have seen their accounts wiped out. The article discusses the impact on AI stocks, the cost of the DeepSeek app, and the FOMC meeting.",
+      "keywords": [
+        "Nvidia",
+        "AI stocks",
+        "DeepSeek",
+        "FOMC"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Wall Street is coming to Nvidia's defense after its biggest loss ever."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that the DeepSeek app is the most popular in the Apple App Store, which is concerning."
+        },
+        {
+          "ticker": "AMD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The momentum crowd is aggressively buying AMD after the market decline."
+        },
+        {
+          "ticker": "CCJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The momentum crowd is aggressively buying CCJ after the market decline."
+        },
+        {
+          "ticker": "OKLO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The momentum crowd is aggressively buying OKLO after the market decline."
+        },
+        {
+          "ticker": "NNE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The momentum crowd is aggressively buying NNE after the market decline."
+        },
+        {
+          "ticker": "SOFI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The momentum crowd is aggressively buying SOFI after the market decline."
+        },
+        {
+          "ticker": "PLTR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The momentum crowd is aggressively buying PLTR after the market decline."
+        },
+        {
+          "ticker": "RGTI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The momentum crowd is aggressively buying RGTI after the market decline."
+        },
+        {
+          "ticker": "RGTIW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The momentum crowd is aggressively buying RGTI after the market decline."
+        },
+        {
+          "ticker": "QUBT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The momentum crowd is aggressively buying QUBT after the market decline."
+        },
+        {
+          "ticker": "WIMI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The momentum crowd is aggressively buying WIMI after the company announced it will use DeepSeek."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Money flows in SPY are neutral in early trade."
+        },
+        {
+          "ticker": "QQQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Money flows in QQQ are neutral in early trade."
+        }
+      ]
+    },
+    {
+      "id": "ba8ee39baa033fabe6736ac45a6269176b263576d980c67f12886c6210fc6b77",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Millionaire-Maker Technology Stocks to Consider",
+      "author": "Leo Sun",
+      "published_utc": "2025-01-28T10:50:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/28/3-millionaire-maker-technology-stocks/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "NVDA",
+        "AMD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805306/tablet-thinking-office.jpg",
+      "description": "The article discusses three stocks that have made investors millionaires: Apple, Nvidia, and Advanced Micro Devices (AMD). It highlights the key factors that contributed to their success, such as innovative products, visionary leadership, and strategic business decisions.",
+      "keywords": [
+        "Apple",
+        "Nvidia",
+        "Advanced Micro Devices",
+        "millionaire-making stocks",
+        "technology sector"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple's revenue grew at a compound annual growth rate of 16% from 1997 to 2024, driven by the success of products like the iMac, iPod, iPhone, and iPad. The company's ability to disrupt markets and maintain momentum under new leadership has contributed to its impressive returns for investors."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia's revenue grew at a compound annual growth rate of 26% from 1999 to 2024, as the company expanded from gaming GPUs to data center GPUs for AI and machine learning applications. Nvidia's leadership and ability to capitalize on emerging technology trends have made it a millionaire-making stock."
+        },
+        {
+          "ticker": "AMD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Under the leadership of CEO Lisa Su, AMD has made a remarkable comeback, expanding its embedded chip business, redesigning its CPUs to compete more effectively against Intel, and launching new data center CPUs and GPUs. This has resulted in impressive revenue growth of 17% from 2014 to 2023, making it a millionaire-making stock."
+        }
+      ]
+    },
+    {
+      "id": "dacd24142439011a859a548ddb5ff3748d51b19f618ae88c8b2a732f4e3e3355",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Meet the \"Magnificent\" Stock Billionaires Chase Coleman, Philippe Laffont, and Stephen Mandel Favor Above All Others",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-28T09:51:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/28/magnificent-stock-billionaires-favor-above-others/?source=iedfolrf0000001",
+      "tickers": [
+        "META",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "TSLA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805272/nyse-floor-trader-stock-market-invest-buy-sell-fed-wall-street-getty.jpg",
+      "description": "Three prominent billionaire fund managers, Chase Coleman, Philippe Laffont, and Stephen Mandel, have identified Meta Platforms as their top holding, citing the company's sustainable moat, cash-rich balance sheet, and positioning to capitalize on the AI revolution.",
+      "keywords": [
+        "Meta Platforms",
+        "Nvidia",
+        "Apple",
+        "Microsoft",
+        "Amazon",
+        "Alphabet",
+        "Tesla",
+        "AI",
+        "Billionaire investors"
+      ],
+      "insights": [
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Meta Platforms is the top holding for three prominent billionaire fund managers, who are attracted to the company's insurmountable moat in the social media space, successful blueprint for developing and monetizing new assets, and growth initiatives in AI and the metaverse. Additionally, Meta's cash-rich balance sheet and attractive valuation relative to its growth potential make it a favorable investment."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia's graphics processing units (GPUs) have a monopoly-like presence in AI-accelerated data centers, making it a key player in the AI revolution."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple has the largest capital-return program of any public company and its iPhone is the top-selling smartphone in the U.S., indicating its strong market position."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft's Windows operating systems still dominate on desktops, while Azure has grown into the world's second-largest cloud infrastructure service provider."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon is a leader in two categories, with its e-commerce marketplace sitting atop the market share pedestal and Amazon Web Services (AWS) being the number one cloud infrastructure service platform."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet's Google accounts for nearly 90% of worldwide internet search share, while Google Cloud slots in behind AWS and Azure in global cloud infrastructure service market share."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet's Google accounts for nearly 90% of worldwide internet search share, while Google Cloud slots in behind AWS and Azure in global cloud infrastructure service market share."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Tesla is North America's leading electric-vehicle (EV) manufacturer and one of the few EV players that's profitable on a recurring basis."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "World Markets Watchlist: October 6, 2025",
+      "description": "All nine indexes on our world markets watch list have posted gains through October 6, 2025.",
+      "published_utc": "2025-10-06T16:50:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=47a822fa889f6523201b734008713bcd0eaa7f9483620b981d79663818d8189c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2188946594/image_2188946594.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136993519,
+      "datetime": 1759783800
+    },
+    {
+      "title": "The Market Is Being Driven By Open AI",
+      "description": "Heavy S&P 500 reliance on OpenAI-linked tech stocks could be risky. Read the full analysis here.",
+      "published_utc": "2025-10-06T14:15:36",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d2609b0ed8a536be247480caa5c6b7433b83900752cac0dd89bf2c601fe70e44",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2232623679/image_2232623679.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136992610,
+      "datetime": 1759774536
+    },
+    {
+      "title": "Unemployment Is Still Rising Without The BLS Data",
+      "description": "Government shutdown halts BLS unemployment data, but alternative indicators reveal mixed labor trends as stock markets rally. Read the latest analysis here.",
+      "published_utc": "2025-10-06T13:48:15",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1b1cba5401dc977fdb471327e565c975b643e33ebb2f1f7cb83c133b7dd49c07",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/508059198/image_508059198.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136992490,
+      "datetime": 1759772895
+    },
+    {
+      "title": "President Trump Says Canada's Carney Will Likely Ask About Tariffs During Meeting",
+      "description": "https://www.youtube.com/watch?v=Ex7UpT3yTHc",
+      "published_utc": "2025-10-06T12:49:25",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=e7398fcd1825a4d4b1a904708e19da7efccf48bd1055f5be6794856df41ba1e4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138695758,
+      "datetime": 1759769365
+    },
+    {
+      "title": "Stocks Don't Mind Gridlock Or Shutdowns",
+      "description": "The uncertainty level in the US is unlikely to decline to ânormal levels. Fortunately, markets have adapted. The bulls have become more resilient to extravagant news. Read more here...",
+      "published_utc": "2025-10-06T10:50:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=886809b00055d893f2e104ed01d08c4fb505c91052aac5792f581dd521d7bc99",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2227030314/image_2227030314.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136988624,
+      "datetime": 1759762200
+    }
+  ]
+}

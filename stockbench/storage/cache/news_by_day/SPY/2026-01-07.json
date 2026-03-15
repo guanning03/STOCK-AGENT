@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "3 of the Most Important Charts to Watch Right Now",
+      "description": "Oil prices and interest rates are in a sweet spot, enabling accelerated earnings growth among S&P 500 companies, underpinning the stock price rally.",
+      "published_utc": "2026-01-07T18:31:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=def76ddc19c89857174922cc29d88849bd63ee7e5c68e07906feabb2bbfb9d7b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138043862,
+      "datetime": 1767828660
+    },
+    {
+      "title": "Rates Spark: Choppy Markets Unlikely To Calm",
+      "description": "Swapped issuance may contribute to a bullish push in euro rates and, with more supply on the agenda, rate markets are likely to stay volatile.",
+      "published_utc": "2026-01-07T17:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=92539076eaab45f565578cc9bcae6943d6ad09187aa9bd1d2f1f20a626ee8aa0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2214651343/image_2214651343.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138031150,
+      "datetime": 1767823200
+    },
+    {
+      "title": "Real-Life Monopoly: Why Trump's Greenland Strategy Is A Blueprint For Global Chaos",
+      "description": "The US eyes Greenland for rare earth minerals and security, plus risks to NATO and markets amid China tensions. Read here for more macro analysis.",
+      "published_utc": "2026-01-07T15:00:29",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5dc8887052c9ff96969692948613d150e38a8a8ce3cbd663800fd12558176b1c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/639495388/image_639495388.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138030676,
+      "datetime": 1767816029
+    },
+    {
+      "title": "ADP National Employment Report: 41K Private Jobs Added In December",
+      "description": "The ADP employment report revealed that 41,000 nonfarm private jobs were added in December, up from the 29,000 loss in November.",
+      "published_utc": "2026-01-07T13:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9585abd276397907e36f1d1ea3ca7dfb47c7b14364882b24f9998dcf044f678a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/174628030/image_174628030.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138030303,
+      "datetime": 1767810900
+    },
+    {
+      "title": "Chevron In Talks With U.S. Government To Expand Venezuela License, Seeks Authorization To Supply Venezuelan Oil To Other Buyers; U.S. Government Also Wants Other U.S. Companies Involved In Oil Exports From Venezuela",
+      "description": "- Reuters Citing Industry Sources",
+      "published_utc": "2026-01-07T12:50:57",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=9c84de3da637badbe5719b89bf3b67239facb7e62a013c09c209726c7f46ecfb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138933109,
+      "datetime": 1767808257
+    }
+  ]
+}

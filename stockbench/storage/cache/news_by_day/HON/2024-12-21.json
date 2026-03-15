@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "id": "fe8f1024e375a5a2ddf092c092bbd9d6206e73cdf19c6b3941c89c49e0da2d74",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Deal Dispatch: Honeywell, Textron And Soho House Are Making M&A Moves",
+      "author": "Anthony Noto",
+      "published_utc": "2024-12-21T21:00:17Z",
+      "article_url": "https://www.benzinga.com/news/rumors/24/12/42635878/deal-dispatch-honeywell-textron-soho-house-m-and-a-moves",
+      "tickers": [
+        "HON",
+        "TXT",
+        "DE",
+        "DLO",
+        "SHCO",
+        "CVX",
+        "WDS"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2024/12/21/benzinga-deal-dispatch2.jpeg?width=1200&height=800&fit=crop",
+      "description": "Honeywell is considering spinning off its aerospace business and selling its PPE business. Textron is restructuring its Powersports business, which Deere may acquire. DLocal, a Latin American payments provider, is up for sale. Soho House's chairman is making a $1.8 billion bid to take the company private. Chevron and Woodside Energy finalized an asset swap deal.",
+      "keywords": [
+        "M&A",
+        "Honeywell",
+        "Textron",
+        "Soho House",
+        "DLocal",
+        "Chevron",
+        "Woodside Energy"
+      ],
+      "insights": [
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Honeywell is considering strategic moves, such as spinning off its aerospace business and selling its PPE business, which suggests the company is actively managing its portfolio to focus on core operations."
+        },
+        {
+          "ticker": "TXT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Textron is restructuring its Powersports business, which could be seen as a neutral move as it aims to optimize its operations."
+        },
+        {
+          "ticker": "DE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Deere & Co is rumored to be interested in acquiring Textron's Powersports business, which could be a strategic move to expand its product portfolio."
+        },
+        {
+          "ticker": "DLO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "DLocal, a Latin American payments provider, is on the auction block, which suggests the company is exploring strategic options that could lead to a favorable outcome for shareholders."
+        },
+        {
+          "ticker": "SHCO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Soho House's chairman is making a $1.8 billion bid to take the company private, which indicates confidence in the company's future prospects."
+        },
+        {
+          "ticker": "CVX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Chevron and Woodside Energy finalized an asset swap deal, which suggests the companies are optimizing their asset portfolios and exploring strategic partnerships."
+        },
+        {
+          "ticker": "WDS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Chevron and Woodside Energy finalized an asset swap deal, which suggests the companies are optimizing their asset portfolios and exploring strategic partnerships."
+        }
+      ]
+    }
+  ]
+}

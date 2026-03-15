@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "VTI: Bears Come Out Of Hibernation",
+      "description": "",
+      "published_utc": "2025-04-19T19:44:41",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b8964ec094128f9a08fe7567a5fe62b04d131652266d603bd20732905907971f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133975503,
+      "datetime": 1745106281
+    },
+    {
+      "title": "From $50 A Month To $1M Portfolio — Investor Shares Top 10 Holdings, Says 'Finally Reached $1M!' Thanks To Relentless Discipline",
+      "description": "",
+      "published_utc": "2025-04-19T17:01:59",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=37cd53dc515a78587ee38e122906c024b3649fe0f8e7e7218eaf8f5cdd19850c",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/04/19/Financial-Analyst-Analysis-Business-Fina.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138448874,
+      "datetime": 1745096519
+    },
+    {
+      "title": "The stock market may not have fully priced in a recession: Chart of the Week",
+      "description": "If Trump's tariffs send the US economy into recession, Wall Street strategists feel the stock market rout may not be over.",
+      "published_utc": "2025-04-19T08:30:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8ce00a0325934ca41c708d03a5e14e675f66b7f5c79a72e58fa15264122e5ff2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134001249,
+      "datetime": 1745065819
+    },
+    {
+      "title": "GAM: Tech Exposure Could Mean Short-Term Pain",
+      "description": "",
+      "published_utc": "2025-04-19T07:38:13",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4b1fd8ecc8bbc14cd467d1415a08b3dde2dc248c22111fd11ca84fd64fa880d5",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133972389,
+      "datetime": 1745062693
+    },
+    {
+      "title": "Don't Be Bamboozled By The Bears Again",
+      "description": "",
+      "published_utc": "2025-04-19T06:20:59",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3340e4b5ffd1d1d41df1fe0d93b1d967a56c4b9b34a943bcda6f0633216e5ac1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133971999,
+      "datetime": 1745058059
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T23:24:52.185067+00:00",
+    "cache_key": "news_5a6f8bed9d253857dfe7ab38f208ae3e",
+    "count": 5
+  }
+}

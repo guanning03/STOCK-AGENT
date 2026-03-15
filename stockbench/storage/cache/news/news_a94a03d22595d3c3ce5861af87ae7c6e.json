@@ -1,0 +1,356 @@
+{
+  "items": [
+    {
+      "id": "7f93ac7b87e390d652e963f87489f33aae2d5804f032bf76cf1d77696357b1d1",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Arm Holdings Stock a Buy Now?",
+      "author": "Geoffrey Seiler",
+      "published_utc": "2024-12-01T11:33:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/01/is-arm-holdings-stock-a-buy-now/?source=iedfolrf0000001",
+      "tickers": [
+        "ARM",
+        "NVDA",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799415/gettyimages-1773543830.jpg",
+      "description": "Arm Holdings, a semiconductor company, has had a stellar year in 2024, with its stock price up nearly 79%. The company's business model, which includes licensing its technology and offering subscriptions, has led to high gross margins and a long-tail revenue stream. Arm is well-positioned to benefit from the smartphone, PC, and AI markets, making it a solid buy at current price levels.",
+      "keywords": [
+        "Arm Holdings",
+        "semiconductor",
+        "licensing",
+        "subscriptions",
+        "smartphones",
+        "PCs",
+        "AI"
+      ],
+      "insights": [
+        {
+          "ticker": "ARM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Arm Holdings' strong business model, high-margin revenue streams, and growth opportunities in key markets like smartphones, PCs, and AI, making it a solid investment choice."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Nvidia's GPUs being combined with Arm-based CPUs to form superchips used in data centers, but does not provide a clear sentiment on Nvidia as an investment."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Apple's new A18 chip in the iPhone 16 is based on Arm's V9 architecture, which carries much higher royalties, indicating a positive outlook for Apple's use of Arm technology."
+        }
+      ]
+    },
+    {
+      "id": "20a6faf118d9de2fb6ab5bde581758c2afd71d32b436acc04507741c75b9701a",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "As Indexes Soar, Does Warren Buffett Know Something Wall Street Doesn't? He Just Made a Move That Could Be a Warning for Investors.",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-01T10:46:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/01/does-warren-buffett-know-something-others-dont/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799369/buffett11-tmf.jpg",
+      "description": "Warren Buffett has reduced his positions in Apple and Bank of America, suggesting caution about the market's high valuations despite the recent stock market rally. Investors should carefully evaluate stock valuations and focus on the long-term rather than following the crowd.",
+      "keywords": [
+        "Warren Buffett",
+        "stock market",
+        "valuations",
+        "Apple",
+        "Bank of America"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett reduced his position in Apple, but the company remains his biggest holding, suggesting he still sees value in the stock."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett also reduced his position in Bank of America, but the company remains his third-largest holding, indicating he still has confidence in the company."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett also reduced his position in Bank of America, but the company remains his third-largest holding, indicating he still has confidence in the company."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett also reduced his position in Bank of America, but the company remains his third-largest holding, indicating he still has confidence in the company."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett also reduced his position in Bank of America, but the company remains his third-largest holding, indicating he still has confidence in the company."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett also reduced his position in Bank of America, but the company remains his third-largest holding, indicating he still has confidence in the company."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett also reduced his position in Bank of America, but the company remains his third-largest holding, indicating he still has confidence in the company."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett also reduced his position in Bank of America, but the company remains his third-largest holding, indicating he still has confidence in the company."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett also reduced his position in Bank of America, but the company remains his third-largest holding, indicating he still has confidence in the company."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett also reduced his position in Bank of America, but the company remains his third-largest holding, indicating he still has confidence in the company."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett also reduced his position in Bank of America, but the company remains his third-largest holding, indicating he still has confidence in the company."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett also reduced his position in Bank of America, but the company remains his third-largest holding, indicating he still has confidence in the company."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett also reduced his position in Bank of America, but the company remains his third-largest holding, indicating he still has confidence in the company."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett also reduced his position in Bank of America, but the company remains his third-largest holding, indicating he still has confidence in the company."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett also reduced his position in Bank of America, but the company remains his third-largest holding, indicating he still has confidence in the company."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett also reduced his position in Bank of America, but the company remains his third-largest holding, indicating he still has confidence in the company."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett also reduced his position in Bank of America, but the company remains his third-largest holding, indicating he still has confidence in the company."
+        }
+      ]
+    },
+    {
+      "id": "2692dba87c56f14255c532dec8abede8aab7b2d3f021f62378fa2727dfee5106",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "4 Reasons to Buy Apple Stock Like There's No Tomorrow",
+      "author": "James Brumley",
+      "published_utc": "2024-12-01T10:40:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/01/reasons-to-buy-apple-stock-like-theres-no-tomorrow/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799343/woman-thinking-brainstorming-ideas.jpg",
+      "description": "Although Apple's revenue and earnings have been relatively stagnant, the company's strong brand, loyal user base, and diversification efforts make it a compelling investment. The article highlights four key factors that support a positive outlook for Apple stock.",
+      "keywords": [
+        "Apple",
+        "iPhone",
+        "iOS",
+        "Android",
+        "brand",
+        "diversification"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights several factors that make Apple a compelling investment, including its strong brand, loyal user base, and diversification efforts beyond the iPhone. The company's vast installed base of devices, high user engagement, and brand power are seen as competitive advantages."
+        }
+      ]
+    },
+    {
+      "id": "ff686c0c83f15a66519a4564d01cf6e67e4596f8ac428c0b6f2252e4833efad9",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Warren Buffett Sold $133 Billion Worth of Stocks This Year: Here Are 2 He's Not Selling",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-01T10:25:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/01/warren-buffett-sold-133-billion-stocks-not-selling/?source=iedfolrf0000001",
+      "tickers": [
+        "KO",
+        "AXP",
+        "AAPL",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799153/buffett.jpg",
+      "description": "Warren Buffett's Berkshire Hathaway has been selling stocks, including Apple and Bank of America, but has not sold Coca-Cola or American Express in over 25 years. Coca-Cola and American Express are seen as attractive investments due to their strong brands and consistent performance.",
+      "keywords": [
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "Coca-Cola",
+        "American Express",
+        "stock sales"
+      ],
+      "insights": [
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Coca-Cola is one of Berkshire's longest-held investments, with Buffett valuing the company's strong brand and consistent revenue and profits. The stock's attractive dividend yield and growth opportunities make it a tempting buy on the dip."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire has held American Express for 30 years, as Buffett favors the company's strong brand power and its spend-centric business model that benefits from the growth of the economy. The company's recent success with card refreshes and new customer acquisitions make it a long-term growth prospect."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has been selling its largest holding, Apple, as part of its higher-than-usual stock sales this year, reflecting Buffett's view that the market is overvalued and limiting the pool of quality businesses selling at sensible prices."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has also trimmed its stake in Bank of America, another sizable investment for the company in recent years, as part of its stock sales."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has also trimmed its stake in Bank of America, another sizable investment for the company in recent years, as part of its stock sales."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has also trimmed its stake in Bank of America, another sizable investment for the company in recent years, as part of its stock sales."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has also trimmed its stake in Bank of America, another sizable investment for the company in recent years, as part of its stock sales."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has also trimmed its stake in Bank of America, another sizable investment for the company in recent years, as part of its stock sales."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has also trimmed its stake in Bank of America, another sizable investment for the company in recent years, as part of its stock sales."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has also trimmed its stake in Bank of America, another sizable investment for the company in recent years, as part of its stock sales."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has also trimmed its stake in Bank of America, another sizable investment for the company in recent years, as part of its stock sales."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has also trimmed its stake in Bank of America, another sizable investment for the company in recent years, as part of its stock sales."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has also trimmed its stake in Bank of America, another sizable investment for the company in recent years, as part of its stock sales."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has also trimmed its stake in Bank of America, another sizable investment for the company in recent years, as part of its stock sales."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has also trimmed its stake in Bank of America, another sizable investment for the company in recent years, as part of its stock sales."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has also trimmed its stake in Bank of America, another sizable investment for the company in recent years, as part of its stock sales."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has also trimmed its stake in Bank of America, another sizable investment for the company in recent years, as part of its stock sales."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has also trimmed its stake in Bank of America, another sizable investment for the company in recent years, as part of its stock sales."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has also trimmed its stake in Bank of America, another sizable investment for the company in recent years, as part of its stock sales."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T18:44:11.241652+00:00",
+    "cache_key": "news_a94a03d22595d3c3ce5861af87ae7c6e",
+    "count": 4
+  }
+}

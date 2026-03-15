@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Amgen (AMGN) Laps the Stock Market: Here's Why",
+      "description": "In the most recent trading session, Amgen (AMGN) closed at $349.69, indicating a +1.43% shift from the previous trading day.",
+      "published_utc": "2026-01-26T17:50:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=467b2c368bf64c25125fc213aef9c84647a380e122f336ff77cc999370527ab7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138266048,
+      "datetime": 1769467802
+    },
+    {
+      "title": "Viridian Therapeutics: Cautious Optimism As Key Milestones Approach (Rating Downgrade)",
+      "description": "Viridian Therapeutics has surged on thyroid eye disease wins, big growth forecasts, and improved funding ahead of the FDA rollout. Read the VRDN stock update.",
+      "published_utc": "2026-01-26T09:05:26",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=321c1dcae94223a4da773a034661eb2dea6768a882b5d80b27b0395dd7703ee4",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2016447711/image_2016447711.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138264105,
+      "datetime": 1769436326
+    },
+    {
+      "title": "UBS Maintains Buy on Amgen, Raises Price Target to $390",
+      "description": "UBS  analyst Michael Yee   maintains Amgen (NASDAQ:AMGN) with a Buy and raises the price target from $380 to $390.",
+      "published_utc": "2026-01-26T08:45:06",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=451411834ce1fd858c36e5e0f697e409b76f93c4a67abebff91f5c2dcdfe4f19",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138666509,
+      "datetime": 1769435106
+    },
+    {
+      "title": "Amgen's (NASDAQ:AMGN) 11% CAGR outpaced the company's earnings growth over the same five-year period",
+      "description": "If you buy and hold a stock for many years, you'd hope to be making a profit. But more than that, you probably want to...",
+      "published_utc": "2026-01-26T07:00:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0e269c7901eed9bb09683e38eb13be6990ff144369465d7e606b53002a9df75b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138261277,
+      "datetime": 1769428813
+    }
+  ]
+}

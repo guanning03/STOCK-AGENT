@@ -1,0 +1,80 @@
+{
+  "items": [
+    {
+      "id": "d25e4e68ee65f9ba5dc81409927f3b8c4a5fcb6c22cc792ab205d6a753bd4f48",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "US, Mexico Agree On 1-Month Tariff Pause: Stocks Rebound, Peso Rallies",
+      "author": "Piero Cingari",
+      "published_utc": "2025-02-03T16:33:08Z",
+      "article_url": "https://www.benzinga.com/government/regulations/25/02/43440692/us-mexico-agrees-on-one-month-tariffs-pause-stocks-rebound-peso-rallies",
+      "tickers": [
+        "EWW",
+        "SPY"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/02/03/US-Mexico-border-.jpeg?width=1200&height=800&fit=crop",
+      "description": "The U.S. and Mexico have agreed to pause planned trade tariffs for one month, signaling a shift in the trade dispute. The agreement includes Mexico's commitment to border security and upcoming high-level trade negotiations.",
+      "keywords": [
+        "US",
+        "Mexico",
+        "tariffs",
+        "trade dispute",
+        "border security",
+        "trade negotiations"
+      ],
+      "insights": [
+        {
+          "ticker": "EWW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The news of the tariff pause and upcoming trade talks between the U.S. and Mexico is likely to have a positive impact on the Mexican economy and the iShares MSCI Mexico ETF, which tracks the performance of Mexican stocks."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The S&P 500, as tracked by the SPDR S&P 500 ETF, trimmed its losses and rebounded as traders anticipated a potential de-escalation in trade tensions between the U.S. and Mexico, which is seen as a positive development for the broader U.S. stock market."
+        }
+      ]
+    },
+    {
+      "id": "d378cca9e4774f99902556474ccf0dba5592be68eb898f10d87d93c61c6dcc5b",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "US Manufacturing Confidence Tops Forecasts, Yet Price Pressures Intensify, 'Could Become A Concern,' Economist Says",
+      "author": "Piero Cingari",
+      "published_utc": "2025-02-03T16:02:39Z",
+      "article_url": "https://www.benzinga.com/25/02/43439462/us-manufacturing-confidence-tops-forecasts",
+      "tickers": [
+        "SPY",
+        "TLT"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/02/03/Factory-worker.jpeg?width=1200&height=800&fit=crop",
+      "description": "U.S. manufacturing unexpectedly expanded in January, but rising input costs pose a growing inflation risk. Markets reacted negatively to new tariffs, with the S&P 500 falling and Treasury yields dropping.",
+      "keywords": [
+        "manufacturing",
+        "inflation",
+        "tariffs",
+        "economic growth"
+      ],
+      "insights": [
+        {
+          "ticker": "SPY",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The S&P 500 fell 1.2% in reaction to the announcement of new tariffs."
+        },
+        {
+          "ticker": "TLT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The yield on the 30-year Treasury bond dropped 5 basis points, pushing the iShares 20+ Year Treasury Bond ETF up 0.7%, signaling demand for safe-haven assets."
+        }
+      ]
+    }
+  ]
+}

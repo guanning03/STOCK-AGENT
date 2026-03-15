@@ -1,0 +1,113 @@
+{
+  "items": [
+    {
+      "id": "02e39335864bcae8ee6f9af6bc8d74117b16ae88b085667abeef3271478a7faf",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Best Warren Buffett Stocks to Buy With $1,000 Right Now",
+      "author": "Marc Guberti",
+      "published_utc": "2026-02-16T21:04:00Z",
+      "article_url": "https://www.fool.com/investing/2026/02/16/the-best-warren-buffett-stocks-to-buy-with-1000-ri/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "AXP",
+        "V",
+        "MA",
+        "BRK.A",
+        "BRK.B"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F854789%2Fgettyimages-1450040797-1201x726-e55da16.jpg&w=1200&op=resize",
+      "description": "The article recommends two Warren Buffett-backed stocks for $1,000 investments: Amazon, despite being down 12% over the past year due to AI spending concerns, is positioned for future growth with strong revenue expansion in AWS and e-commerce; American Express, a credit card giant benefiting from strong consumer spending, offers attractive valuation and recently increased its dividend by 16%.",
+      "keywords": [
+        "value investing",
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "AI spending",
+        "dividend growth",
+        "credit card stocks",
+        "consumer spending"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Despite recent underperformance (-12% YoY), Amazon shows strong fundamentals with double-digit revenue growth, accelerating AWS revenue (+24% YoY), and expansion into AI and e-commerce. The article suggests current AI spending concerns are temporary and the stock is positioned for future appreciation."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong financial performance with 10% YoY revenue growth and 13% YoY net income growth. Attractive valuation (P/E of 23, lower than peers), 16% dividend increase, and positioned as a durable company benefiting from strong U.S. consumer spending."
+        },
+        {
+          "ticker": "V",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a peer to American Express in the credit card industry but not specifically recommended; noted as having higher valuation than American Express."
+        },
+        {
+          "ticker": "MA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a peer to American Express in the credit card industry but not specifically recommended; noted as having higher valuation than American Express."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as the holding company of Warren Buffett's portfolio but not analyzed as an investment recommendation in this article."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as the holding company of Warren Buffett's portfolio but not analyzed as an investment recommendation in this article."
+        }
+      ]
+    },
+    {
+      "title": "American Express CFO Touts Strong Spending, Platinum Refresh Success and Resilient Credit at Conference",
+      "description": "American Express (NYSE:AXP) Chief Financial Officer Christophe Le Caillec said the company is seeing “very strong and very consistent” spending trends across its customer base, pointing to continued momentum in premium products, travel and entertainment demand, and strong credit performance. Speakin",
+      "published_utc": "2026-02-16T16:11:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b2105bb186dfca42f6ba247fe5951b0781ba9eccea0b50e9cf23144aafaf162d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139117482,
+      "datetime": 1771276297
+    },
+    {
+      "title": "American Express Expands NBA Ties As Investors Weigh Valuation And Debt Risks",
+      "description": "American Express (NYSE:AXP) announced a multiyear renewal of its partnership with the NBA. The agreement expands to include USA Basketball and new fan-focused experiences for cardholders. The partnership spans multiple basketball events, with added benefits for American Express members. For American Express, premium experiences have long been part of its brand identity, alongside core card and payment services. By deepening ties with the NBA and USA Basketball, NYSE:AXP is leaning further...",
+      "published_utc": "2026-02-16T16:09:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=132302e930a5685523452bdf41fdebfd6fc6ea618e9b724044c23a5cd320e277",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139117483,
+      "datetime": 1771276143
+    },
+    {
+      "title": "Klarna Set to Report Q4 Earnings: Key Factors Investors Should Watch",
+      "description": "KLAR readies Q4 results with 18.5% revenue growth expected and GMV near $38B as consumer receivables are likely to have increased.",
+      "published_utc": "2026-02-16T12:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3f8b98c29cb8c30b555eb11a6fd731f577b1f7f5b46550220e41b0ee4071ef1f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139116683,
+      "datetime": 1771261260
+    }
+  ]
+}

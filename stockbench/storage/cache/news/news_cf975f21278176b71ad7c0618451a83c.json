@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Asleep On The Street",
+      "description": "US equities mostly climbed a little higher today, likely on muscle memory after yesterdayâs strong showing pushed the S&P 500 above its 200-day moving average.",
+      "published_utc": "2025-03-25T18:55:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0528f08b90743619cbeeb87b24a003be07f5ffe240aa8c7e9e76e3181c5eed47",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/175599141/image_175599141.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133438288,
+      "datetime": 1742943300
+    },
+    {
+      "title": "Stagflation Risk Keeps Uncertainty High For Fed's Upcoming Policy Decisions",
+      "description": "",
+      "published_utc": "2025-03-25T16:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1189b6d8a7069a06a4e3448c6133ce3951fa7c461ca55fb2fc284b0027e4f470",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133427751,
+      "datetime": 1742935500
+    },
+    {
+      "title": "Consumer Confidence Sinks To 4-Year Low In March",
+      "description": "The index fell to 92.9 this month from February's upwardly revised 100.1, marking the fourth consecutive monthly decline, the longest streak since 2012.",
+      "published_utc": "2025-03-25T16:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d93c059eb9d473b681d85137b8b27d5f95687537c63d7ef9eecd6dd555d6322f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1388210026/image_1388210026.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133426900,
+      "datetime": 1742934600
+    },
+    {
+      "title": "Did You Forget To Allocate?",
+      "description": "",
+      "published_utc": "2025-03-25T14:36:56",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ad6cf601d88f7359b72947bd27f955b877aca32eac858de74f41df03d69a4dc4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133416357,
+      "datetime": 1742927816
+    },
+    {
+      "title": "Want To Buy Stocks In 2025? There's One Conflicting Place To Find Winners, Analyst Says",
+      "description": "",
+      "published_utc": "2025-03-25T13:03:56",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=c335721063ec558a2b39f2add8f5254a7516fc00128b94abb668669bfd2d7942",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/03/25/investor-charts-ai2.png?width=2048&height=1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138444413,
+      "datetime": 1742922236
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T22:57:22.710620+00:00",
+    "cache_key": "news_cf975f21278176b71ad7c0618451a83c",
+    "count": 5
+  }
+}

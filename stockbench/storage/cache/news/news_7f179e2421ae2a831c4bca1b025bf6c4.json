@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "title": "Stocks dip as government shutdown continues, rare earths rally: What to watch this week",
+      "description": "The stock market will enter the second full week of the government shutdown. Investors will also focus on big bank earnings.",
+      "published_utc": "2025-10-12T07:46:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e6b316218fb0482c8842f2365aacd8c0c4f277ac09b91c81d7a59a6b59277ecd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137059337,
+      "datetime": 1760269589
+    },
+    {
+      "id": "76449f4989aedc2582ebad07cc48289d67921d157e9f1cd0fef7b28baee5b73b",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Does Warren Buffett Know Something Wall Street Doesn't? The Billionaire Legend Dumps $122 Billion of This Key Holding While Buying $4 Billion of These Out-of-Favor Stocks.",
+      "author": "Adam Levy",
+      "published_utc": "2025-10-12T10:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/10/12/does-warren-buffett-know-something-wall-street-doe/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "UNH",
+        "STZ"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/836471/buffett11-tmf.jpg",
+      "description": "Warren Buffett has been selling Apple stock and reinvesting in UnitedHealth and Constellation Brands, taking advantage of market conditions and potential long-term growth opportunities in healthcare and beer industries.",
+      "keywords": [
+        "Warren Buffett",
+        "Apple",
+        "UnitedHealth",
+        "Constellation Brands",
+        "investment strategy"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Sold 70% of stake due to high valuation and potential future tax changes, despite previous successful investment"
+        },
+        {
+          "ticker": "UNH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Long-term competitive advantages, strong growth potential in aging population market, despite current earnings challenges"
+        },
+        {
+          "ticker": "STZ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Facing headwinds in beer market with declining sales volume, but strong brand positioning and potential for future recovery"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:11:46.936234+00:00",
+    "cache_key": "news_7f179e2421ae2a831c4bca1b025bf6c4",
+    "count": 2
+  }
+}

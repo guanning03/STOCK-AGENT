@@ -1,0 +1,104 @@
+{
+  "items": [
+    {
+      "title": "UPS Cargo Plane Crashes Near Louisville Airport, Shelter-In-Place Order Issued Amid Fire And Debris",
+      "description": "",
+      "published_utc": "2025-11-04T15:34:55",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=7b3082caf5e5c693fe88d28ff129e1197c24abe39a31d967ba233bb97ef94b81",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/04/Providence--Rhode-Island--Usa--March-15t.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138805754,
+      "datetime": 1762288495
+    },
+    {
+      "title": "Shares of airline companies are trading lower after the Department of Transportation said it may need to shut down some U.S. airspace if the government shutdown continues. Weakness may be a result of ongoing delays and staffing shortages due to the ongoing U.S. government shutdown.",
+      "description": "",
+      "published_utc": "2025-11-04T08:55:24",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=598cd57442518b9ad56a074f03bccc2a6484eb7ef3b0e1eb014f34073e6c4352",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138697604,
+      "datetime": 1762264524
+    },
+    {
+      "title": "MACOM to Manufacture HRL’s 40nm GaN-on-SiC Process",
+      "description": "LOWELL, Mass., Nov. 04, 2025 (GLOBE NEWSWIRE) -- MACOM Technology Solutions Inc. (“MACOM”), a leading supplier of semiconductor products, today announced that it has entered into an agreement with HRL Laboratories (“HRL”) to license and manufacture HRL’s proprietary 40nm T3L GaN-on-silicon carbide (“GaN-on-SiC”) process technology. HRL and MACOM will work collaboratively on a rapid process transfer of this proprietary semiconductor process from HRL’s facility to one of MACOM’s U.S. Trusted Found",
+      "published_utc": "2025-11-04T08:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aaeb0e914e1dc90675396a24759df00ff0661b6baded2c7faf70c0f29a7f5ad7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137312370,
+      "datetime": 1762263000
+    },
+    {
+      "id": "df785667224d15332c83fa808f2a7c000fbe5e19a77fea843d8642ce7d5fa7bc",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Palantir Just Crushed Earnings Estimates—So Why Is The Stock Crashing?",
+      "author": "Piero Cingari",
+      "published_utc": "2025-11-04T15:13:48Z",
+      "article_url": "https://www.benzinga.com/markets/tech/25/11/48623094/palantir-stock-earnings-reports-reaction-ai-government-defense-contracts-outlook?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+      "tickers": [
+        "PLTR",
+        "BA",
+        "BApA",
+        "LHX"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/11/04/Sankar-On-Modernizing-Military-With-PLTR.jpeg?width=1200&height=800&fit=crop",
+      "description": "Palantir reported strong Q3 earnings with 62.8% revenue growth and 110% EPS growth, but stock dropped over 7% due to high valuation concerns and market caution towards tech stocks.",
+      "keywords": [
+        "AI",
+        "earnings",
+        "government contracts",
+        "tech stocks",
+        "valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "PLTR",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Despite excellent financial performance, stock dropped due to high expectations and valuation concerns. Company showed strong growth in commercial and government segments, particularly in AI capabilities."
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a defense contractor working with Palantir, with no specific performance details provided"
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a defense contractor working with Palantir, with no specific performance details provided"
+        },
+        {
+          "ticker": "LHX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a defense contractor working with Palantir, with no specific performance details provided"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:31:25.329687+00:00",
+    "cache_key": "news_b8eaa01faf4139a74fd0290d383518a7",
+    "count": 4
+  }
+}

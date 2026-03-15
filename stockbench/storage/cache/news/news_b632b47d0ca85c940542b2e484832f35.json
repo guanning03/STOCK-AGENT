@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Why the Market Dipped But Caterpillar (CAT) Gained Today",
+      "description": "Caterpillar (CAT) reached $440.44 at the closing of the latest trading day, reflecting a +1.03% change compared to its last close.",
+      "published_utc": "2025-09-16T18:45:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6666919c1668dd441f7f40b7e6a5686fbd5aa3d04e008dd6a8801041317745a3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136787560,
+      "datetime": 1758062703
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:53:29.001531+00:00",
+    "cache_key": "news_b632b47d0ca85c940542b2e484832f35",
+    "count": 1
+  }
+}

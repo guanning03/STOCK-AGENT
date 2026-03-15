@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Sector Update: Financial Stocks Mixed Monday Afternoon",
+      "description": "Financial stocks were mixed in Monday afternoon trading, with the NYSE Financial Index up 0.2% and t",
+      "published_utc": "2025-09-15T14:48:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2582be0597f3fd55cc5f4b07fe484a30cf7ff01113a362b52cb7a1d717b02f75",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136765921,
+      "datetime": 1757962081
+    },
+    {
+      "title": "Update: Market Chatter: Goldman Sachs, T. Rowe to Offer New Alternative Investments for Retirement Accounts",
+      "description": "(Updates with Goldman Sachs response in second paragraph.) Goldman Sachs (GS) and T. Rowe Price (",
+      "published_utc": "2025-09-15T12:55:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9d41dbb8c186bc911550548b46f7544801071e37b17b11a8efd54342a98d19bc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136765922,
+      "datetime": 1757955353
+    },
+    {
+      "title": "GS vs. MS: Which Stock Is the Better Value Option?",
+      "description": "GS vs. MS: Which Stock Is the Better Value Option?",
+      "published_utc": "2025-09-15T12:40:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=113416a98559adf3e3a3c9675090544c3dcd7b2260e304bb4743e0e9e1375a6e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136765923,
+      "datetime": 1757954402
+    },
+    {
+      "title": "The 3 execs now in a 'horse race' to succeed Moynihan as BofA CEO",
+      "description": "Bank of America has elevated three of CEO Brian Moynihan's lieutenants, clarifying who at the company has the best shot at running the nation’s second-largest lender once Moynihan steps down.",
+      "published_utc": "2025-09-15T12:04:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=598c5f5cbf0156b13b356d054a8f751a342fb6a1dca603d34d4c3a4a3fdfa550",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136765822,
+      "datetime": 1757952293
+    },
+    {
+      "title": "Market Chatter: Goldman Sachs, T. Rowe Price to Offer New Alternative Investments for Retirement Accounts by 2025-end",
+      "description": "Goldman Sachs (GS) and T. Rowe Price (TROW) are planning to offer new alternative investments for re",
+      "published_utc": "2025-09-15T11:28:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7d5843988d4efa3a8352974428f24c8c2b44a2ed70c52dabe2b6be6692f6ea60",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136749567,
+      "datetime": 1757950123
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:47:48.877264+00:00",
+    "cache_key": "news_2bc261793b9edd07593f4d47311e295b",
+    "count": 5
+  }
+}

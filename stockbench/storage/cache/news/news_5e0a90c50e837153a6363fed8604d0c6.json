@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "id": "acb5445eb9f13d37d2353b789f214fb96a790c2d7661841f5e22581a1c6f8096",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "What's a Fair Price to Pay for Lockheed Martin Stock?",
+      "author": "Parkev Tatevosian, Cfa",
+      "published_utc": "2025-02-09T11:05:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/09/whats-a-fair-price-to-pay-for-lockheed-martin-stoc/?source=iedfolrf0000001",
+      "tickers": [
+        "LMT",
+        "BA",
+        "BApA",
+        "NOC"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807021/bearded-person-at-desk-by-computer-taking-notes.jpg",
+      "description": "The article discusses a high-yield dividend stock that could generate $500 in passive income over the next 5 years with a $3,500 investment. It also mentions China's development of a 6th-generation fighter jet and its potential impact on major aerospace companies.",
+      "keywords": [
+        "dividend stock",
+        "passive income",
+        "China",
+        "fighter jet",
+        "aerospace companies"
+      ],
+      "insights": [
+        {
+          "ticker": "LMT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Lockheed Martin as one of the aerospace companies that may be impacted by China's 6th-generation fighter jet development, but does not provide a clear positive or negative sentiment."
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Boeing as one of the aerospace companies that may be impacted by China's 6th-generation fighter jet development, but does not provide a clear positive or negative sentiment."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Boeing as one of the aerospace companies that may be impacted by China's 6th-generation fighter jet development, but does not provide a clear positive or negative sentiment."
+        },
+        {
+          "ticker": "NOC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Northrop Grumman as one of the aerospace companies that may be impacted by China's 6th-generation fighter jet development, but does not provide a clear positive or negative sentiment."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:52:14.586790+00:00",
+    "cache_key": "news_5e0a90c50e837153a6363fed8604d0c6",
+    "count": 1
+  }
+}

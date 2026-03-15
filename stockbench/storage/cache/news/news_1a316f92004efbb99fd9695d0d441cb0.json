@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Looking Ahead to the 2026 Q1 Earnings Season",
+      "description": "With the 2025 Q4 cycle nearly over, we can confidently claim that corporate profitability remains strong while also showing signs of improvement, underpinned by a positive revisions trend for the current and upcoming periods.",
+      "published_utc": "2026-03-04T18:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=91f9edb747aa75c8705c7d7bdbc0cd09199bd77e1143dacd94d172e986b9b296",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139303865,
+      "datetime": 1772667000
+    },
+    {
+      "title": "Cathie Wood Buys What This Billionaire Is Selling: Ark Adds Amazon And Alibaba Stock, Dumps This Chip Giant",
+      "description": "Ark Invest bought Amazon and Alibaba, sold TSMC and Nextdoor, and made several other strategic moves across its ETFs in a $27M+ trading session on Wednesday, March 4, 2026.",
+      "published_utc": "2026-03-04T17:37:26",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=6c95a45fb98b606ac8cdb16fa8671760f414107ca53d0c9f78af36d03df78db7",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/03/04/Ark-Invest-Cathie-Wood.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139307659,
+      "datetime": 1772663846
+    },
+    {
+      "title": "Amazon Eliminates 100 White Collar Jobs In Robotics Team: Report",
+      "description": "Amazon has reportedly laid off at least 100 employees in its robotics division as part of a broader push to cut corporate costs and improve efficiency through AI, following earlier layoffs totaling about 30,000 roles and the cancellation of its Blue Jay robotics project.",
+      "published_utc": "2026-03-04T17:08:10",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=2d77ce9226f2048267daca67b9b0d8fd0b97ba16e146c2d270aac06bd7a72d13",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/03/04/Toronto--On--Canada--August-1--2024-View_0.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139307813,
+      "datetime": 1772662090
+    },
+    {
+      "title": "Qualcomm Targets Robotics And AI Native 6G To Broaden Growth Story",
+      "description": "Qualcomm announced a push into robotics with its new Dragonwing processor, built specifically for robotics platforms. The company also revealed a coalition with Amazon, Google, and Microsoft to develop AI native 6G, aiming for device demonstrations by 2028 and global rollout from 2029. These moves are intended to broaden Qualcomm’s business beyond smartphones into next generation connectivity and AI infrastructure. QUALCOMM (NasdaqGS:QCOM) is making this shift while its share price trades...",
+      "published_utc": "2026-03-04T17:07:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9416501df821223ba027d72de33afb1bebaaecaa755496f04d3659964ea68920",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139302987,
+      "datetime": 1772662062
+    },
+    {
+      "title": "Big Tech signs Trump's AI energy cost pledge",
+      "description": "President Trump announced a new \"ratepayer protection pledge,\" saying energy demand tied to AI data centers could more than triple by 2035, promising American households won't see higher electricity bills as a result. Yahoo Finance Senior Reporter Jennifer Schonberger joins Yahoo Finance host Josh Lipton to discuss the big tech companies under the agreement, Google (GOOG), Microsoft (MSFT), Oracle (ORCL), OpenAI (OPAI.PVT), Amazon (AMZN), and xAI, and their pledge to fully fund new power generation and infrastructure needed for their AI facilities. To watch more expert insights and analysis on the latest market action, check out more Market Domination.",
+      "published_utc": "2026-03-04T17:04:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b390a9de906bcdfc487db5124655a96e7d76cb78b5a8b7eae93dbe0aaf40ebd3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139302988,
+      "datetime": 1772661852
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T04:05:41.501080+00:00",
+    "cache_key": "news_1a316f92004efbb99fd9695d0d441cb0",
+    "count": 5
+  }
+}

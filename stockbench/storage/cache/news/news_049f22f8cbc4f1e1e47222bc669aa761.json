@@ -1,0 +1,351 @@
+{
+  "items": [
+    {
+      "id": "e56c89faccb7b6b51338fa671ce0a319545cfdd67b90f3eeed6f28b62ca2770a",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Apple Receives Rare Underperform Rating from Wall Street Analyst. Is It Time to Sell the Stock?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-25T23:32:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/25/apple-receives-rare-underperform-rating-from-wall/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804735/gettyimages-1158779061.jpg",
+      "description": "Jefferies, a Wall Street analyst, has downgraded Apple to an underperform rating, citing weak iPhone shipments and lack of consumer interest in the company's AI features. This could lead to Apple missing revenue estimates and disappointing guidance, though the company's strong services business provides some cushion.",
+      "keywords": [
+        "Apple",
+        "iPhone",
+        "AI",
+        "Jefferies",
+        "revenue estimates",
+        "services"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Jefferies has downgraded Apple to an underperform rating, citing weak iPhone shipments and lack of consumer interest in the company's AI features, which could lead to Apple missing revenue estimates and disappointing guidance."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Apple faces a risk related to the Alphabet antitrust case, as Alphabet has been paying Apple an estimated $20 billion a year as part of its revenue-sharing model for Google to be the default search engine for Safari, and this revenue stream could be impacted by the antitrust case."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Apple faces a risk related to the Alphabet antitrust case, as Alphabet has been paying Apple an estimated $20 billion a year as part of its revenue-sharing model for Google to be the default search engine for Safari, and this revenue stream could be impacted by the antitrust case."
+        }
+      ]
+    },
+    {
+      "id": "cc79600f8f4300494f3f4f0ea6d03e0a2cc0c7e5a64f46758954927a264d5eb2",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Consumer Tech News (Jan 20-Jan 24): Trump Revokes Biden's AI Policies, Meta Launches New 'Edits' App To Lure TikTok Users & More",
+      "author": "Lekha Gupta",
+      "published_utc": "2025-01-25T16:00:48Z",
+      "article_url": "https://www.benzinga.com/news/large-cap/25/01/43216486/consumer-tech-news-jan-20-jan-24-trump-revokes-bidens-ai-policies-meta-launches-new-edits-app-to-l",
+      "tickers": [
+        "EA",
+        "META",
+        "TSLA",
+        "MSFT",
+        "AAPL",
+        "GOOG",
+        "GOOGL"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/25/Brightly-Glowing-Ai-Chip-On-Light-Circui.jpeg?width=1200&height=800&fit=crop",
+      "description": "President Trump revoked Biden's AI executive order, Electronic Arts reported a revenue miss, Meta launched a new video app to compete with TikTok, and other tech news.",
+      "keywords": [
+        "AI",
+        "Electronic Arts",
+        "Meta",
+        "TikTok",
+        "Tesla",
+        "Microsoft",
+        "Apple",
+        "Samsung",
+        "Google"
+      ],
+      "insights": [
+        {
+          "ticker": "EA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Electronic Arts reported a revenue miss for Q3, citing a slowdown in Global Football."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Meta launched a new video creation app called 'Edits' to attract TikTok users."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Tesla bull Ross Gerber voiced doubts about the effectiveness of an executive order in overriding existing laws concerning the TikTok ban."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "LinkedIn, owned by Microsoft, has been accused of sharing private data for AI model training without user consent."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple is reportedly bringing its AI capabilities to the Mac's Mail app with the upcoming macOS 15.4 update."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Samsung and Google have decided to collaborate for developing augmented reality glasses."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Samsung and Google have decided to collaborate for developing augmented reality glasses."
+        }
+      ]
+    },
+    {
+      "id": "cb60a1edf574cd79b4b479d534746a646bb02f9df7b34264795019684642c2a3",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "5 Best Stocks to Buy in 2025",
+      "author": "Travis Hoium",
+      "published_utc": "2025-01-25T15:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/25/5-best-stocks-to-buy-in-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "LYFT",
+        "MGM",
+        "MBLY",
+        "HOOD",
+        "DIS",
+        "COST",
+        "NFLX",
+        "NVDA",
+        "CCZ",
+        "CMCS.A",
+        "CMCSA",
+        "WBD",
+        "AAPL",
+        "DASH"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804957/arrow-pointing-up.jpg",
+      "description": "The article discusses five stocks that are a combination of growth and value, which long-term investors should consider buying in 2025 as the stock market is highly valued.",
+      "keywords": [
+        "stocks",
+        "investing",
+        "long-term",
+        "growth",
+        "value"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Alphabet is one of the stocks that long-term investors should consider buying, indicating a positive sentiment."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Alphabet is one of the stocks that long-term investors should consider buying, indicating a positive sentiment."
+        },
+        {
+          "ticker": "LYFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Lyft is one of the stocks that long-term investors should consider buying, indicating a positive sentiment."
+        },
+        {
+          "ticker": "MGM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article recommends MGM Resorts International as one of the stocks that long-term investors should consider buying, indicating a positive sentiment."
+        },
+        {
+          "ticker": "MBLY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article includes Mobileye Global as one of the stocks that long-term investors should consider buying, indicating a positive sentiment."
+        },
+        {
+          "ticker": "HOOD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Robinhood Markets is one of the stocks that long-term investors should consider buying, indicating a positive sentiment."
+        },
+        {
+          "ticker": "DIS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article recommends Walt Disney as one of the stocks that long-term investors should consider buying, indicating a positive sentiment."
+        },
+        {
+          "ticker": "COST",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Costco Wholesale is one of the stocks that long-term investors should consider buying, indicating a positive sentiment."
+        },
+        {
+          "ticker": "NFLX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Netflix is one of the stocks that long-term investors should consider buying, indicating a positive sentiment."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article recommends Nvidia as one of the stocks that long-term investors should consider buying, indicating a positive sentiment."
+        },
+        {
+          "ticker": "CCZ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Comcast is one of the stocks that long-term investors should consider buying, indicating a positive sentiment."
+        },
+        {
+          "ticker": "CMCS.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Comcast is one of the stocks that long-term investors should consider buying, indicating a positive sentiment."
+        },
+        {
+          "ticker": "CMCSA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Comcast is one of the stocks that long-term investors should consider buying, indicating a positive sentiment."
+        },
+        {
+          "ticker": "WBD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Warner Bros. Discovery is one of the stocks that long-term investors should consider buying, indicating a positive sentiment."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Apple is one of the stocks that long-term investors should consider buying, indicating a positive sentiment."
+        },
+        {
+          "ticker": "DASH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article recommends DoorDash as one of the stocks that long-term investors should consider buying, indicating a positive sentiment."
+        }
+      ]
+    },
+    {
+      "id": "b240a7ac851e97521d7a05228fc82b8ae1cc94d4965e55790b364661ee4f0a8d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "2 ETFs to Buy in 2025 and Hold Forever",
+      "author": "Jennifer Saibil",
+      "published_utc": "2025-01-25T14:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/25/2-etfs-to-buy-in-2025-and-hold-forever/?source=iedfolrf0000001",
+      "tickers": [
+        "VOO",
+        "VOOG",
+        "AAPL",
+        "MSFT",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804808/person-holding-a-stack-of-bills.jpg",
+      "description": "The article discusses the benefits of investing in index funds, particularly the Vanguard S&P 500 ETF and the Vanguard S&P 500 Growth ETF. It highlights the diversification and low-cost advantages of these ETFs, as well as their strong performance over time.",
+      "keywords": [
+        "index funds",
+        "ETFs",
+        "Vanguard",
+        "S&P 500",
+        "growth investing"
+      ],
+      "insights": [
+        {
+          "ticker": "VOO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the Vanguard S&P 500 ETF as a great choice for investors, citing its low expense ratio, diversification, and strong performance as reasons to invest in it."
+        },
+        {
+          "ticker": "VOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article also recommends the Vanguard S&P 500 Growth ETF, noting its outperformance of the regular S&P 500 ETF and its focus on growth stocks, which can provide additional upside potential for investors."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Apple as one of the large, established companies that are included in the Vanguard S&P 500 Growth ETF, indicating that it is a stable and well-performing stock."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Similar to Apple, the article mentions Microsoft as one of the large, established companies in the Vanguard S&P 500 Growth ETF, suggesting that it is a strong and reliable investment."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article also includes Nvidia as one of the large, established companies in the Vanguard S&P 500 Growth ETF, indicating that it is a high-performing growth stock."
+        }
+      ]
+    },
+    {
+      "id": "46fc1d4f266e60744de811bb7a605606fb03a779c954bfd0b6429a52918b329f",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "This Chip Stock Could Be the Best Investment of the Decade",
+      "author": "Keithen Drury",
+      "published_utc": "2025-01-25T12:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/25/this-chip-stock-could-be-the-best-investment-of-th/?source=iedfolrf0000001",
+      "tickers": [
+        "TSM",
+        "AMD",
+        "NVDA",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802280/person-holding-a-microchip.jpg",
+      "description": "Taiwan Semiconductor Manufacturing (TSMC) is poised to be one of the best investments of the decade, driven by its strong growth prospects in the AI chip market and overall revenue growth. The company's neutral position in the chip industry and its partnerships with leading tech companies make it well-positioned to benefit from the increasing demand for computing power.",
+      "keywords": [
+        "Taiwan Semiconductor Manufacturing",
+        "AI",
+        "chip industry",
+        "technology"
+      ],
+      "insights": [
+        {
+          "ticker": "TSM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights TSMC's strong growth projections, with AI-related revenue expected to double by 2025 and overall revenue growth projected at 20% CAGR over the next five years. The company's neutral position in the chip industry and its partnerships with leading tech companies make it well-positioned to benefit from the increasing demand for computing power, positioning it as a top investment for the decade."
+        },
+        {
+          "ticker": "AMD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Advanced Micro Devices as one of TSMC's clients, indicating that the company is a key player in the high-tech world and benefits from TSMC's services."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Nvidia as one of TSMC's clients, suggesting that the company is a heavy hitter in the high-tech world and relies on TSMC's chip manufacturing capabilities."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Apple as one of TSMC's clients, indicating that the company is a major player in the high-tech industry and benefits from TSMC's services."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:16:09.568371+00:00",
+    "cache_key": "news_049f22f8cbc4f1e1e47222bc669aa761",
+    "count": 5
+  }
+}

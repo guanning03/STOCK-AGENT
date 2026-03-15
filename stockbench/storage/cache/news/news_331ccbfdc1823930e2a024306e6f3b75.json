@@ -1,0 +1,206 @@
+{
+  "items": [
+    {
+      "title": "American Express Co. stock rises Monday, still underperforms market",
+      "description": "American Express Co. stock rises Monday, still underperforms market",
+      "published_utc": "2025-08-04T12:34:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=375ae82ecc590af0e713356d9759b100b2f91e03320797405c87e0251466fb03",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136210193,
+      "datetime": 1754325240
+    },
+    {
+      "title": "Warren Buffett’s Berkshire Hathaway Now Makes $816M Per Year From Coca-Cola Dividends — On An Investment of $1.3B",
+      "description": "Warren Buffett’s investment powerhouse, Berkshire Hathaway (BRK.A) (BRK.B), continues to reap significant rewards from its stake in Coca-Cola (KO) in 2025.",
+      "published_utc": "2025-08-04T08:43:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2bdba5236cad5a199c8c045f9c334765acc193f7b2266bb8a3ee02bcb9df4294",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136197900,
+      "datetime": 1754311401
+    },
+    {
+      "title": "Janus Henderson Balanced Fund Q2 2025 Commentary",
+      "description": "Janus Henderson shares how active shifts in AI and fixed income drove strong Q2 returns. See how dynamic allocation can help you stay ahead.",
+      "published_utc": "2025-08-04T01:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1da633fe654ca05e3209e13dc6a8b1b031b96ccaa6d9638f7fd5a20e89598094",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2148057238/image_2148057238.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136196855,
+      "datetime": 1754286000
+    },
+    {
+      "id": "84a93a1e3344be125e23315c1896fff17aecce5258b2fa346be467d07ce25843",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Reason to Buy Warren Buffett's Company, Berkshire Hathaway (BRK.B)",
+      "author": "Selena Maranjian",
+      "published_utc": "2025-08-04T11:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/08/04/1-reason-to-buy-brkb-berkshire-hathaway-buffett/?source=iedfolrf0000001",
+      "tickers": [
+        "BRK.A",
+        "BRK.B",
+        "AAPL",
+        "AXP",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK",
+        "KO"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/826423/buffett-the-motley-fool-e.jpg",
+      "description": "Berkshire Hathaway, led by Warren Buffett, has an impressive 60-year track record of generating nearly 20% annual returns. With a diverse portfolio of businesses and stocks, the company remains a promising long-term investment despite upcoming leadership transition.",
+      "keywords": [
+        "investing",
+        "Warren Buffett",
+        "long-term investment",
+        "stocks",
+        "portfolio"
+      ],
+      "insights": [
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong historical performance, diverse business portfolio, reasonable valuation, and planned leadership succession"
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong historical performance, diverse business portfolio, reasonable valuation, and planned leadership succession"
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Major position in Berkshire's stock portfolio"
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Major position in Berkshire's stock portfolio"
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Major position in Berkshire's stock portfolio"
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Major position in Berkshire's stock portfolio"
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Major position in Berkshire's stock portfolio"
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Major position in Berkshire's stock portfolio"
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Major position in Berkshire's stock portfolio"
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Major position in Berkshire's stock portfolio"
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Major position in Berkshire's stock portfolio"
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Major position in Berkshire's stock portfolio"
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Major position in Berkshire's stock portfolio"
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Major position in Berkshire's stock portfolio"
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Major position in Berkshire's stock portfolio"
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Major position in Berkshire's stock portfolio"
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Major position in Berkshire's stock portfolio"
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Major position in Berkshire's stock portfolio"
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Major position in Berkshire's stock portfolio"
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Major position in Berkshire's stock portfolio"
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Major position in Berkshire's stock portfolio"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:36:39.650396+00:00",
+    "cache_key": "news_331ccbfdc1823930e2a024306e6f3b75",
+    "count": 4
+  }
+}

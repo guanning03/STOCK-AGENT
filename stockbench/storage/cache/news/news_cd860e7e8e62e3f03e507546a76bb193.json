@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Why It Might Not Make Sense To Buy International Business Machines Corporation (NYSE:IBM) For Its Upcoming Dividend",
+      "description": "International Business Machines Corporation ( NYSE:IBM ) stock is about to trade ex-dividend in 4 days. The ex-dividend...",
+      "published_utc": "2025-08-03T10:23:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e5690539180f4e3d90c2d787177a49ac839d34c6968a731783edcd2f4f716e2d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136195490,
+      "datetime": 1754231015
+    },
+    {
+      "title": "How Warren Buffett Would Likely Build Wealth on a $50,000 Salary",
+      "description": "Buffett started small, and you can too. Here's what you need to know about how Warren Buffett would likely build wealth today on a $50,000 salary.",
+      "published_utc": "2025-08-03T06:55:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=97bc6c53674e6469f7ae8ce28f6b9cedb78e47c4b4266c9862c8a8cbe8e63ca4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136232279,
+      "datetime": 1754218535
+    },
+    {
+      "title": "IonQ: Is This Quantum Computing Stock A Buy Ahead Of Earnings",
+      "description": "",
+      "published_utc": "2025-08-03T02:27:25",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ae0a508782f7aa05cea49b2bb4604d4fbd2feae4372fc5c16898610c4adfca3d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136189443,
+      "datetime": 1754202445
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:33:10.079055+00:00",
+    "cache_key": "news_cd860e7e8e62e3f03e507546a76bb193",
+    "count": 3
+  }
+}

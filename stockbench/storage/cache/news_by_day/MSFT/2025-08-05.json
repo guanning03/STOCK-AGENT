@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Tracking William Von Mueffling's Cantillon Capital Management Portfolio - Q2 2025 Update",
+      "description": "William von Muefflingâs Cantillon Capital grew to $17.34B by smartly balancing high-conviction stocks, trimming gains, and maintaining focus. See more here.",
+      "published_utc": "2025-08-05T18:53:43",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cb616f1ef6b600f8834bcf920e96d1634dc4495a23724ab92e69fd07bf96abaf",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136230428,
+      "datetime": 1754434423
+    },
+    {
+      "title": "Super Micro (NASDAQ:SMCI) Misses Q2 Revenue Estimates, Stock Drops 15.7%",
+      "description": "Server solutions provider Super Micro (NASDAQ:SMCI) missed Wall Street’s revenue expectations in Q2 CY2025, but sales rose 7.5% year on year to $5.76 billion. Next quarter’s revenue guidance of $6.5 billion underwhelmed, coming in 2.9% below analysts’ estimates. Its non-GAAP profit of $0.41 per share was 6.6% below analysts’ consensus estimates.",
+      "published_utc": "2025-08-05T18:08:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ca19f25536c169394e8c4f093913fe426fe694d67b9e47ca78969b61951e19d6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136232103,
+      "datetime": 1754431695
+    },
+    {
+      "title": "Arista forecasts upbeat third-quarter revenue on strong demand for networking equipment",
+      "description": "Demand for the company's ethernet switches and routers, which are widely deployed in data centers, has surged as enterprises accelerate AI-related spending. Arista has projected third-quarter revenue of about $2.25 billion, compared with analysts' estimates of $2.11 billion, according to data compiled by LSEG. Moreover, U.S.-based firms such as Arista are widely expected to benefit the country's tariff policies, as it may help them win new contracts from hyperscale clients and boost market share.",
+      "published_utc": "2025-08-05T16:38:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2867c8e6a9d8161031e486c5223be7f9dba813e89173852b664e8af6ebed1c84",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136232104,
+      "datetime": 1754426332
+    },
+    {
+      "title": "AMD data center results disappoint, shares slump",
+      "description": "(Reuters) -Advanced Micro Devices on Tuesday reported disappointing data center revenue, a segment which includes lucrative artificial intelligence chips that investors are betting on for rapid growth.  AMD's shares have climbed more than 40% this year, far outpacing a nearly 12% jump in the benchmark chip index, as investors bet on the company's ability to capitalize on the widespread use of AI.  Chips that power complex AI systems for Microsoft, Meta Platforms, generative AI leader OpenAI and other customers are still feverishly sought after by tech companies.",
+      "published_utc": "2025-08-05T16:21:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=08c8a9c2ac1e4095117b40b233da02c1502b918d19982cdfcd1d6d417313fdf5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136232105,
+      "datetime": 1754425264
+    },
+    {
+      "title": "Chipmaker AMD forecasts third-quarter revenue above estimates",
+      "description": "Demand remains robust for AMD's advanced processors that power complex AI systems for Microsoft, Meta Platforms, generative AI leader OpenAI and other customers, with the company set to benefit from cloud giants bumping up their hefty spending plans for building AI infrastructure.  Similarly, Microsoft forecast a record $30 billion in capital spending for the first quarter of the current fiscal year to meet soaring AI demand.  The outlook does not include any revenue from AMD's AI chip MI308's shipments to China as license applications are currently under review by the U.S. Government, the company said.",
+      "published_utc": "2025-08-05T16:21:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2a0fdc2b6efd6de34c973fa7bfcbe60ddcd66f56b68d82c6a2c94c40f158a3c6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136217066,
+      "datetime": 1754425264
+    }
+  ]
+}

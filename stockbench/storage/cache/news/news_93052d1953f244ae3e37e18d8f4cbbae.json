@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Breaking Down Q2 Retail Earnings: Good or Bad?",
+      "description": "The Retail sector's Q2 performance compares favorably to what we have seen from these S&P 500 companies in other recent periods, particularly on the revenues side. What else should investors know?",
+      "published_utc": "2025-08-27T19:23:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=96b405f62095d942ed95ecb5e7de82ab60003005f126a05b364c3ada875bad58",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136555928,
+      "datetime": 1756336980
+    },
+    {
+      "title": "Tracking Terry Smith's Fundsmith 13F Portfolio - Q2 2025 Update",
+      "description": "Read here for an in-depth analysis and insights on Fundsmith's $23.02B portfolio shift: new stakes, exits, and top positions like Meta and Microsoft.",
+      "published_utc": "2025-08-27T19:04:11",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f087a6c6a6d6cfcabdcfb810056bf11ae98ef58c69a306cd2f63c8e75ef7e9b4",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/538053368/image_538053368.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136555000,
+      "datetime": 1756335851
+    },
+    {
+      "title": "Earnings live: Nvidia stock falls on data center revenue miss, Snowflake pops, CrowdStrike drops",
+      "description": "The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.",
+      "published_utc": "2025-08-27T16:27:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a451d8bdd6a718fef4a6cdf6d445c8abb7fc0ffb35bcdbcb636087f3c9e641c5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136541150,
+      "datetime": 1756326444
+    },
+    {
+      "title": "Pfizer: Finally Some Fortune, Plus Twenty High-Quality Dividend Growth Valuations",
+      "description": "Discover high-quality dividend-growth stocks near 52-week lows. Explore Pfizer's strong dividend and valuations, plus other top picks like Merck and Qualcomm.",
+      "published_utc": "2025-08-27T13:27:25",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ec425284e980cf083d7d06feec4294590bc48a5d33b2fdd798c828b58de26570",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2203006359/image_2203006359.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136542130,
+      "datetime": 1756315645
+    },
+    {
+      "title": "WSM Stock Up on Q2 Earnings & Revenue Beat, FY25 View Up",
+      "description": "Williams-Sonoma posts Q2 earnings and revenue beat and lifts fiscal 2025 outlook as comps rebound and margins expand.",
+      "published_utc": "2025-08-27T12:55:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a781379fe8d8f9cafe190c4f20af61e23f5650ca1ca70b9fba008d151a6e75cc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136541214,
+      "datetime": 1756313700
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:53:14.377209+00:00",
+    "cache_key": "news_93052d1953f244ae3e37e18d8f4cbbae",
+    "count": 5
+  }
+}

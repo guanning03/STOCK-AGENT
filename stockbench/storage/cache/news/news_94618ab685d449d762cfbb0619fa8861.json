@@ -1,0 +1,107 @@
+{
+  "items": [
+    {
+      "title": "Top 50 High-Quality Dividend Stocks For September 2025",
+      "description": "Discover top dividend growth stocks with strong returns and solid fundamentals.",
+      "published_utc": "2025-09-06T08:18:15",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=816cb82211b1f4e0c9cbebc972cd6540a67e42bf785f13a6d0d525ee198d9560",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2148089915/image_2148089915.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136656860,
+      "datetime": 1757161095
+    },
+    {
+      "title": "Inside Spotify’s Plot to Take Down Apple",
+      "description": "The music service’s rebellion against an App Store ‘tax’ over the past decade has significantly weakened Apple’s grip on the mobile world",
+      "published_utc": "2025-09-05T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=34a8d6ada7b5c97087eafdca5af73f43e150d243b470cee0f795ff59e92304ce",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136652671,
+      "datetime": 1757120400
+    },
+    {
+      "title": "Dow Jones Futures: Market Wavers At Highs, Apple iPhone Event Due; Nvidia, Tesla, AppLovin, Robinhood In Focus",
+      "description": "Dow Jones futures: The stock market had a mixed week but is right at highs. The Apple iPhone event looms. Nvidia, Tesla, AppLovin are in focus.",
+      "published_utc": "2025-09-05T20:44:28",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=77b8ff09d98e6ef83f8d04fa8ae4078c74ca9e7b79c00643f0c21e4047acec81",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136652632,
+      "datetime": 1757119468
+    },
+    {
+      "title": "MNTN CEO on Apple Plans AI Search Tool for Siri",
+      "description": "Mark Douglas, MNTN CEO, says Apple has little choice but to develop an AI-powered web search tool for Siri to rival OpenAI. He tells Romaine Bostick and Katie Greifeld on \"The Close\" that Apple doesn't have a strong track record on execution.",
+      "published_utc": "2025-09-05T20:04:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=377298d5fd9e7670e681aa99e169c8c606aa895b368e93966dad877432ad46b2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136652674,
+      "datetime": 1757117090
+    },
+    {
+      "id": "d1e4c7cf2e32306b12a5dad25ab1c9365e1d4964328fbdaf647e10fed625387c",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "New to Growth Stocks? Here's 1 Every Investor Should Have on Their Radar.",
+      "author": "Scott Levine",
+      "published_utc": "2025-09-06T16:32:00Z",
+      "article_url": "https://www.fool.com/investing/2025/09/06/new-to-growth-stocks-heres-1-every-investor-should/?source=iedfolrf0000001",
+      "tickers": [
+        "MP",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/830077/seedling-growing-in-soil.jpg",
+      "description": "MP Materials stands out as a compelling growth stock in the rare earth mining sector, with competitive advantages including ownership of the Mountain Pass mine and plans to develop a rare earth magnet production facility by 2027.",
+      "keywords": [
+        "rare earth",
+        "growth stocks",
+        "mining",
+        "competitive advantage",
+        "magnet production"
+      ],
+      "insights": [
+        {
+          "ticker": "MP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Positive factors include unique rare earth mine location, limited competition, strategic facility development, and a long-term agreement with Apple for rare earth magnets"
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as having signed a long-term agreement with MP Materials for rare earth magnets, indicating strategic interest"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:19:26.802635+00:00",
+    "cache_key": "news_94618ab685d449d762cfbb0619fa8861",
+    "count": 5
+  }
+}

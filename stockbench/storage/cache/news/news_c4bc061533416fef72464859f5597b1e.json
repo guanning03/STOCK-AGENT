@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Home Depot (HD) Stock Declines While Market Improves: Some Information for Investors",
+      "description": "Home Depot (HD) closed at $380.36 in the latest trading session, marking a -1.6% move from the prior day.",
+      "published_utc": "2026-01-27T17:45:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=982d55798aa5a382336eec7f1c78619e045912314cd59caedb6616e77d460f3f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138277119,
+      "datetime": 1769553903
+    },
+    {
+      "title": "Plug Power Calls on Stockholders to Act Now and Vote in Favor of Proposals at January 29, 2026 Special Meeting",
+      "description": "SLINGERLANDS, N.Y., Jan. 27, 2026 (GLOBE NEWSWIRE) -- Plug Power Inc. (NASDAQ: PLUG), a global leader in comprehensive hydrogen solutions for the hydrogen economy, encourages stockholders to vote their shares ahead of the Company’s Special Meeting of Stockholders (the “Special Meeting”) scheduled for January 29, 2026. The Special Meeting includes proposals that are critical to supporting the Company’s ongoing operations, financial flexibility and long-term growth strategy. The Board of Directors",
+      "published_utc": "2026-01-27T14:14:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3a82d7ebaf0dd7878e3aa91c324ca9bdc1e0229230a4b30dd2e527c196ee68c8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138273896,
+      "datetime": 1769541240
+    },
+    {
+      "title": "It’s Cold Outside. And That Just Might Warm Up These Stocks.",
+      "description": "Frozen pipes and roof repairs are expected to drive unexpected volume for Tractor Supply, Home Depot, and Lowe’s.",
+      "published_utc": "2026-01-27T13:40:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=79daf015d9ab5b5789fe0c20f884db908c7a20bfe286a8d4a5bfe8a47113d1be",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138273967,
+      "datetime": 1769539200
+    },
+    {
+      "title": "What's Driving the Market Sentiment Around The Home Depot Inc?",
+      "description": "",
+      "published_utc": "2026-01-27T11:00:38",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=072b30b550307a153f2c311aa04b22f248eeace98fc78fa5407cefe4b9dd2531",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_4.jpg?width=2048&height=1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138948651,
+      "datetime": 1769529638
+    },
+    {
+      "title": "Home Depot vs. Floor & Decor: Which Stock Holds More Promise Now?",
+      "description": "FND's targeted growth and market share gains outshine HD's scale amid housing headwinds and muted demand.",
+      "published_utc": "2026-01-27T10:24:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a30a61d66aa72eab66758b9e35d045c7618975e83e24eeb9a114ed543d6af9f3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138272473,
+      "datetime": 1769527440
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:08:03.009534+00:00",
+    "cache_key": "news_c4bc061533416fef72464859f5597b1e",
+    "count": 5
+  }
+}

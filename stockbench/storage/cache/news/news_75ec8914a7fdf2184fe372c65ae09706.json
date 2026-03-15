@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Dow Jones Tops 50,000 With Apple, Boeing, These AI Stocks New Buys, But Market Still Divided",
+      "description": "The Dow Jones topped 50,000 for the first time, with JPMorgan, Apple and Boeing in buy areas. The Nasdaq is ailing, but these AI stocks are reviving.",
+      "published_utc": "2026-02-07T09:10:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=70bc6a30a82b764a82ee66890d598b53a2456e132aede7956a77268ae041c77d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138385611,
+      "datetime": 1770473416
+    },
+    {
+      "title": "JPMorgan: An Attractive Long-Term Idea For Income And Capital Gains",
+      "description": "JPMorgan continues to impress, with earnings exceeding expectations. Read more about the banking giant's preferred shares.",
+      "published_utc": "2026-02-07T06:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=908eaa7f071842173893dbe4e9a5ac1400699d384e396530455ded0c8d4eb7f7",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2254920992/image_2254920992.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138385989,
+      "datetime": 1770464400
+    },
+    {
+      "title": "From AI Darlings To Dow Dinosaurs: Investors Flee Software For Old-Economy Stocks",
+      "description": "Software stocks are sliding as AI disruption fears grow, but investors aren&#39;t panicking. Goldman Sachs shows capital rotating toward AI-insulated, real-economy sectors.",
+      "published_utc": "2026-02-07T04:31:12",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=35214d9ab95046d77ad6b62ce8d56d25e5bc99d461202574bbb79f50c1eb77e0",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/02/07/Business--Man--computer.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138403092,
+      "datetime": 1770456672
+    },
+    {
+      "title": "Looking At The Evolving Narrative For Herc Holdings (HRI) As Street Targets Shift",
+      "description": "The latest fair value estimate for Herc Holdings has shifted from about US$168.20 to roughly US$178.73, reflecting updated assumptions around the company’s longer term potential. This move lines up with recent Street research where several banks, including JPMorgan, have lifted their price targets and kept the stock on preferred lists, signaling a tighter focus on how much upside they see in the shares. As more research houses refine their targets and revisit their models, it becomes...",
+      "published_utc": "2026-02-07T03:06:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=31e9371aafe69835f0c35ebeccd4bb9bb09bbb81606ce7593bd79cc55571306a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138383845,
+      "datetime": 1770451584
+    },
+    {
+      "title": "Sky Harbour Group Details Hangar Expansion, Cost Cuts, and $350M Funding Plan at Conference",
+      "description": "Sky Harbour Group (NYSEAMERICAN:SKYH) is building a national real estate platform focused on aviation infrastructure, with a strategy centered on securing long-term ground leases at airports, developing hangars for business aircraft, and leasing those facilities to aircraft owners and operators. In",
+      "published_utc": "2026-02-07T00:08:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6582c7d96864bd52d238d37509e26eccdc97233ac9f955a54d996c04d5d031cc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138382717,
+      "datetime": 1770440910
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:42:20.196273+00:00",
+    "cache_key": "news_75ec8914a7fdf2184fe372c65ae09706",
+    "count": 5
+  }
+}

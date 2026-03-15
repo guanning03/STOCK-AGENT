@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": "aafdf03d3dc716afa1452d4988dc4d9a9bc1754c2b32a7187626bfa9d411b74b",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Fleet Expansion and Modernization: Saudia Introduces Major Upgrades and Strategic Partnerships to Support Vision 2030 and Enhance Travel Experience",
+      "author": "Jeddah, Saudia Arabia",
+      "published_utc": "2024-12-10T22:43:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2024/12/10/2995000/0/en/Fleet-Expansion-and-Modernization-Saudia-Introduces-Major-Upgrades-and-Strategic-Partnerships-to-Support-Vision-2030-and-Enhance-Travel-Experience.html",
+      "tickers": [
+        "RTX",
+        "BA",
+        "BApA",
+        "ALOT"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/8a995288-2c7a-48c6-a961-c394ca6b4d32",
+      "description": "Saudia, the national flag carrier of Saudi Arabia, has announced major fleet expansion and modernization initiatives, including a historic deal for 105 aircraft, investments in enhancing guest experience, and strategic partnerships to support Saudi Vision 2030 and improve travel experience.",
+      "keywords": [
+        "fleet expansion",
+        "fleet modernization",
+        "strategic partnerships",
+        "Saudi Vision 2030",
+        "travel experience"
+      ],
+      "insights": [
+        {
+          "ticker": "RTX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Saudia has partnered with Collins Aerospace to introduce state-of-the-art seats and retrofit seat enhancements, suggesting a positive collaboration between the two companies."
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Saudia and Boeing have announced an order for 49 fuel-efficient 787 Dreamliner aircraft, indicating a continued partnership and positive outlook for Boeing's business with Saudia."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Saudia and Boeing have announced an order for 49 fuel-efficient 787 Dreamliner aircraft, indicating a continued partnership and positive outlook for Boeing's business with Saudia."
+        },
+        {
+          "ticker": "ALOT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Saudia's partnership with Astrova, Panasonic Avionics' next-generation IFE seat-end solution, suggests a positive outlook for enhancing the in-flight entertainment experience for Saudia's passengers."
+        }
+      ]
+    }
+  ]
+}

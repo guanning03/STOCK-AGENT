@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "id": "665d74157979516fd679104c2a523be420d589282670cb3c81eabdacdbe695e7",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Baby Skincare Market Set to Grow 6.1% Annually, Driven by Surging Demand for Organic and Chemical-Free Products by 2034 | Latest Insights by TMR",
+      "author": "Transparency Market Research Inc.",
+      "published_utc": "2025-01-20T15:45:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/20/3012178/32656/en/Baby-Skincare-Market-Set-to-Grow-6-1-Annually-Driven-by-Surging-Demand-for-Organic-and-Chemical-Free-Products-by-2034-Latest-Insights-by-TMR.html",
+      "tickers": [
+        "JNJ",
+        "PG",
+        "UL",
+        "HNST"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/211137ea-4ab6-4ea6-8d46-f5eae42f8659",
+      "description": "The global baby skincare market is expected to grow at a CAGR of 6.1% from 2024 to 2034, driven by increasing awareness of infant skin health, preference for organic and chemical-free products, and the rise of e-commerce platforms.",
+      "keywords": [
+        "baby skincare",
+        "organic products",
+        "e-commerce",
+        "emerging markets"
+      ],
+      "insights": [
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Johnson & Johnson is a global leader in baby care products and is known for its trusted brand and products."
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Pampers, a Procter & Gamble brand, focuses on innovative baby skincare wipes and hygiene products, which are in high demand."
+        },
+        {
+          "ticker": "UL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Unilever's Dove Baby brand offers mild and moisturizing products for sensitive baby skin, which aligns with the growing demand for safe and gentle products."
+        },
+        {
+          "ticker": "HNST",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Honest Company is known for its plant-based and chemical-free skincare range, which caters to the rising demand for organic and sustainable baby products."
+        }
+      ]
+    }
+  ]
+}

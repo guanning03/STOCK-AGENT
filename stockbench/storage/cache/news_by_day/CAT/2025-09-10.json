@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar Inc. stock outperforms competitors on strong trading day",
+      "description": "Caterpillar Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-09-10T12:34:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=2e33b3b517f5e817e5551b3aaed32831d85a0fb3083b63675b4bbb5e16f1e275",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136713989,
+      "datetime": 1757522040
+    },
+    {
+      "title": "Global Underground Mining Tele-remote and Autonomous Equipment Development Analysis Report 2025 | Leading OEM is Sandvik, Who with Caterpillar and Epiroc, Account for the Vast Majority of the Market",
+      "description": "The main market opportunities lie in expanding the use of tele-remote and autonomous LHDs and trucks, especially in Australia, Canada, and the US. Leading OEMs like Sandvik, Caterpillar, and Epiroc dominate this sector, signaling growth potentials in retrofitting and new deployments of autonomous technologies.Dublin, Sept. 10, 2025 (GLOBE NEWSWIRE) -- The \"Development of tele-remote and autonomous equipment in the global underground mining sector, 2025\" report has been added to ResearchAndMarket",
+      "published_utc": "2025-09-10T09:52:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b5e5ca435d3c5c8550619bb6bbc91eb5cf1e4bcbb21ea0ad4d6e80ad38786f34",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136687289,
+      "datetime": 1757512320
+    },
+    {
+      "title": "The Ultimate $1 Million All-Weather Portfolio For Lifetime Wealth",
+      "description": "Monte Carlo simulations revealed how sector diversification and correlations impact long-term portfolio resilience. Click here for more information on Retirement.",
+      "published_utc": "2025-09-10T06:58:46",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=78abd7dfdd47ac6881ddc11a377a45e5ec9beca217d324733c8c856fe9034eb8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1401505902/image_1401505902.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136684790,
+      "datetime": 1757501926
+    }
+  ]
+}

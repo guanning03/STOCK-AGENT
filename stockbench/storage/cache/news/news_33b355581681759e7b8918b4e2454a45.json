@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Why Analysts Still See Big Upside in Salesforce After the SaaS Scare",
+      "description": "Salesforce is ready to rebound after overextending in early 2026. The SaaS apocalypse is overblown, setting up a buy-now! opportunity.",
+      "published_utc": "2026-02-16T15:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=00c390d31d746a58dff3762d8542dfadb4ebb53e4f43f437089ec9ccf11c4bd2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139126629,
+      "datetime": 1771273980
+    },
+    {
+      "title": "S&P 500 is little changed to start shortened week, software shares slide: Live updates",
+      "description": "The S&P 500 has declined two weeks in a row.",
+      "published_utc": "2026-02-16T13:01:38",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=35b68990feffe00514fb4ae322e4fb692de0ac1f317d6eed5a5dfd7ccb7fd9bb",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108265646-17709999452026-02-13t161906z_1071874445_rc21ljaz7q8y_rtrmadp_0_usa-stocks.jpeg?v=1771000057&w=1920&h=1080",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139124545,
+      "datetime": 1771264898
+    },
+    {
+      "title": "Salesforce Leans Into AI With Cimulate Deal And New Job Cuts",
+      "description": "Salesforce has agreed to acquire AI startup Cimulate, which focuses on intent aware search, to strengthen its Agentforce Commerce platform. The company has also announced plans to cut nearly 1,000 jobs as part of a broader AI driven transformation of its operations. These moves highlight a shift in how Salesforce is using AI, with automation increasingly taking over tasks previously handled by employees. Salesforce, traded as NYSE:CRM, is making these moves at a time when its share price...",
+      "published_utc": "2026-02-16T12:12:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=29bbf94f7861c8ff5e96849b5d927f620edcd5b9cc8542e786ac1db4f428c612",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139115811,
+      "datetime": 1771261926
+    },
+    {
+      "title": "5 Software Stocks That Look Too Cheap to Ignore",
+      "description": "The software sector has plunged into bear-market territory, resetting valuations across the board as fears surrounding AI grow large.",
+      "published_utc": "2026-02-16T11:19:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=583ed334bf15dc0a618ab11b260815eae69c793f65a1972447d10127d5a3e8dc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139125086,
+      "datetime": 1771258740
+    },
+    {
+      "title": "ServiceNow Inc (NOW) Draws Analyst Attention Amid AI Shift",
+      "description": "ServiceNow Inc (NYSE:NOW) is one of the best NYSE stocks to buy for the long term. On February 11, ServiceNow, Inc. (NYSE:NOW) announced the appointment of Danielle Fontaine as chief accounting officer and corporate controller, effective February 17. The update was shared in a press release following a filing with the Securities and Exchange Commission. […]",
+      "published_utc": "2026-02-16T10:05:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=902189469ce1741d1da536760b324255f686a3c1ec3deb14fe45eaf71a0e3874",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139114919,
+      "datetime": 1771254327
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:09:36.040969+00:00",
+    "cache_key": "news_33b355581681759e7b8918b4e2454a45",
+    "count": 5
+  }
+}

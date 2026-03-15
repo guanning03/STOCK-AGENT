@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "These Stocks Moved the Most Today: Nvidia, AMD, CVS Health, Ares, Toll Brothers, SailPoint, Home Depot, and More",
+      "description": "Nvidia slips after President Donald Trump says he plans to allow the company to sell its more advanced AI chip to China.",
+      "published_utc": "2025-12-09T16:26:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7cb9250babdb3fc97c85b57e510f9c43269e39fc60f783cd05ffc5c3c65e54f9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137749979,
+      "datetime": 1765315560
+    },
+    {
+      "title": "Home Depot cuts guidance at investor day, cites housing headwinds",
+      "description": "At Home Depot's (HD) investor day on Tuesday, the home improvement retailer cut its same-store sales guidance amid housing market headwinds. Yahoo Finance senior retail reporter Brooke DiPalma comes on Market Domination to share the biggest takeaways from Home Depot's investor day event. To watch more expert insights and analysis on the latest market action, check out more Market Domination.",
+      "published_utc": "2025-12-09T16:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7ca7c336daf3b12ea512b6d90d971ef55f827fcbe7de957fe294e4cd86cfe32c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137749989,
+      "datetime": 1765314600
+    },
+    {
+      "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+      "description": "Stocks continued to hover near record highs on Tuesday as investors await the Federal Reserve's interest rate decision on Wednesday.",
+      "published_utc": "2025-12-09T14:01:49",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=393ebfb2c6af312d17e2deb7ff20408d0d72e4bed4b55bdc123efd8401ad79d8",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/102859230-gold-options.jpg?v=1765324756&w=1920&h=1080",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137748305,
+      "datetime": 1765306909
+    },
+    {
+      "title": "Home Depot Sees Limited Growth Without Housing Market Rebound",
+      "description": "The retailer expects sluggish growth in 2026, barring a housing market recovery.",
+      "published_utc": "2025-12-09T13:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=52ebf0e0a72b1f5b281de156c584bb461a1911d89c62e80be733024f6f01e385",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137742650,
+      "datetime": 1765305900
+    },
+    {
+      "title": "Home Depot Warns a Home-Improvement Recovery Is Still Far Off",
+      "description": "Home Depot’s guidance reflects a “reality check” that the much-anticipated home improvement spending rebound has not yet begun.",
+      "published_utc": "2025-12-09T12:47:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=17529e726f87ac98fd4b714ddab4de29d46e175c0bc6be7f0ec610497e028cbe",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137749990,
+      "datetime": 1765302420
+    }
+  ]
+}

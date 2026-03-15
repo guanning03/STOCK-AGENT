@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Here's How Much $1000 Invested In IBM 5 Years Ago Would Be Worth Today",
+      "description": "",
+      "published_utc": "2025-12-24T13:31:59",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=a821bfa8e36efce94419a90149763e5c782fbebab4957c6e5e6b6ef54c634703",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138652715,
+      "datetime": 1766601119
+    },
+    {
+      "title": "These 5 infrastructure stocks have more than tripled this year on the AI trade",
+      "description": "While Nvidia has been the biggest infrastructure winner during the AI boom, other data center stocks have performed better this year.",
+      "published_utc": "2025-12-24T03:00:01",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=f078c0617bb1395b0d2413ecc6f9c4c7d8c536189668d8cd7ea2fe34c7de512d",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108186901-1755337451105-gettyimages-85973933-2c349813-473e-45fb-818c-40bf53189da8.jpeg?v=1755337672&w=1920&h=1080",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137891514,
+      "datetime": 1766563201
+    },
+    {
+      "title": "Amazon, Meta, SpaceX, OpenAI And Trillion-Dollar IPOs Lead Futurum CEO Daniel Newman's Top 2026 Tech Predictions",
+      "description": "Daniel Newman, CEO at Futurum Research, and strategist Shay Boloor shared their top seven stock market predictions for 2026 on Tuesday.",
+      "published_utc": "2025-12-24T02:09:49",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=ca6b02dee60743c981cc97ee9fc4ccbbed3be4c6a8465387bb9347b608a2582c",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/12/24/Los-Angeles--California---20-January-202_2.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138586872,
+      "datetime": 1766560189
+    }
+  ]
+}

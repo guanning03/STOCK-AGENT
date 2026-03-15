@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Trump's White House Ballroom Donors Include Google, Micron, Palantir and More",
+      "description": "The $300 million cost of Trump&#39;s ballroom is being covered entirely by private donors, including several major corporations.",
+      "published_utc": "2025-10-26T12:23:58",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=146a22a3ef831224005debe5276dfe051fbf90d60097d683bc9003b4df116c64",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/10/26/President-Donald-Trump_0.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138432395,
+      "datetime": 1761495838
+    },
+    {
+      "title": "Meet all 37 White House ballroom donors funding the $300 million build, including Silicon Valley tech giants, crypto bros and the Lutnicks",
+      "description": "The list, reviewed by Fortune, did not mention specific dollar amounts offered by each contributor.",
+      "published_utc": "2025-10-26T05:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=79f6887eb70e9903dcfb7015e4e03eaadeecd136b6c99773f66ddd72cc8ab967",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137228567,
+      "datetime": 1761469380
+    },
+    {
+      "title": "Wall Street Week Ahead",
+      "description": "Get the latest stock market updates, Q3 earnings highlights, and expert gold investment insights.",
+      "published_utc": "2025-10-26T03:01:35",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c68aad4ae2924996a3a5d51f7fb2a98117fe57727304ada2cbac36ac95e0a414",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2156176139/image_2156176139.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137211528,
+      "datetime": 1761462095
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:57:09.251655+00:00",
+    "cache_key": "news_f3a47a7018ff921fdf998e93bdd466ac",
+    "count": 3
+  }
+}

@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "American Express (AXP) Stock Moves -0.14%: What You Should Know",
+      "description": "The latest trading day saw American Express (AXP) settling at $293.36, representing a -0.14% change from its previous close.",
+      "published_utc": "2025-05-28T17:50:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bdd591dde47624ce5b01aaa81661fddad1acc1eb97aad57f13241674f9214840",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134779676,
+      "datetime": 1748469009
+    },
+    {
+      "title": "IFS or AXP: Which Is the Better Value Stock Right Now?",
+      "description": "IFS vs. AXP: Which Stock Is the Better Value Option?",
+      "published_utc": "2025-05-28T11:40:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=533d9cca910b1c7110d5e3966553f7f6032055fb2d5076537bd11ab7cb0d6068",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134755914,
+      "datetime": 1748446810
+    },
+    {
       "title": "Why American Express Stock Jumped Today",
       "description": "American Express stock jumped on the news that consumer confidence was higher than expected in May.  The Consumer Confidence Index was up for the first time in months.  The move up comes as the S&P 500 (SNPINDEX: ^GSPC) jumped 2% and the Nasdaq Composite (NASDAQINDEX: ^IXIC) jumped 2.5%.",
       "published_utc": "2025-05-28T05:40:40",

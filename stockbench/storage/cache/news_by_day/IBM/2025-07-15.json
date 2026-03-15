@@ -1,6 +1,81 @@
 {
   "items": [
     {
+      "title": "Dear IBM Stock Fans, Mark Your Calendars for July 25",
+      "description": "IBM’s July 25 launch of its Power11 AI servers, following strong earnings and a 56% stock surge, could mark a turning point as the company aims to cement its leadership in enterprise AI infrastructure.",
+      "published_utc": "2025-07-15T16:40:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5026d4a8d00177a15c1437ad90763eea119718325749732d91f493ba2f8b164e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135962136,
+      "datetime": 1752612058
+    },
+    {
+      "title": "US transportation chief to detail plan to overhaul air traffic control",
+      "description": "U.S. TransportationSecretary Sean Duffy on Wednesday will detail the Trumpadministration's plans to overhaul the aging U.S. air trafficcontrol system after Congress awarded an initial $12.5...",
+      "published_utc": "2025-07-15T12:57:11",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=0a0d8a76ed3e7a1d8425751ce61b35f6143b8d7d932183ef267998ff6dec42ad",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135956510,
+      "datetime": 1752598631
+    },
+    {
+      "title": "Credo AI Launches Global Partner Program to Govern AI at Scale: Building Trust in the $15 Trillion AI-Powered Economy",
+      "description": "SAN FRANCISCO, July 15, 2025--Credo AI, the leader in AI governance software for enterprises, today announced the official launch of the Global Credo AI Partner Program, formalizing a growing network of strategic alliances with industry leaders across cloud, data, GRC, consulting, and AI infrastructure. Launch partners include Microsoft, IBM, Databricks, Booz Allen Hamilton, EXL Service, Version1, and McKinsey, among others – creating an unprecedented alliance to solve enterprise AI’s biggest bo",
+      "published_utc": "2025-07-15T11:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=493149f83906a60af1f5c074200e70656a2fb2006141cac8b73f7feaddf16692",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135962137,
+      "datetime": 1752591600
+    },
+    {
+      "title": "IBM vs. Amazon: Which Cloud Infrastructure Stock Offers More Upside?",
+      "description": "IBM shines with valuation and hybrid cloud gains, but AMZN's AI edge and steady growth may offer more upside.",
+      "published_utc": "2025-07-15T10:17:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=53f3e0ed14b86d00557e14e75f7a8be9702ae85ef25025b69148f2a192e1e780",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135962138,
+      "datetime": 1752589020
+    },
+    {
+      "title": "Bounteous Appoints Kelly Jessop as Chief Solutions Officer to Spearhead Client-Focused Digital Innovation",
+      "description": "Bounteous, a leading global digital transformation consultancy, today announced the appointment of Kelly Jessop as Chief Solutions Officer. Her appointment marks the latest in a series of strategic leadership advancements aimed at propelling the company's next phase of scaling global capabilities and driving co-innovation with clients.",
+      "published_utc": "2025-07-15T10:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8f827a8a24ab200d9c0997abf5a0a50b320ab4ef90e7707ccd5ae2508f173b8e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135962139,
+      "datetime": 1752588000
+    },
+    {
       "title": "Jim Cramer on International Business Machines: “I Like IBM Very Much”",
       "description": "International Business Machines Corporation (NYSE:IBM) is one of the stocks on Jim Cramer’s radar. A caller inquired after Cramer’s thoughts on the company, and he replied: “Oh, I like IBM very much. I mentioned Ben Wright earlier. I think that Ben, he’s really turned me on to this stock. We did a very positive piece […]",
       "published_utc": "2025-07-15T02:46:07",

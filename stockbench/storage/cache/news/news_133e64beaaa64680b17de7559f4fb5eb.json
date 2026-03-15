@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Visa Launches Fiat-to-Stablecoin Pilot Program for Business Payments",
+      "description": "Global fintech giant Visa will roll out a new pilot program that allows businesses to make payments to individual stablecoin wallets in fiat currency, while recipients can choose to receive funds in US dollar-backed stablecoins. According to a Nov. 12 press release from Visa, the new pilot is aimed at ...",
+      "published_utc": "2025-11-12T15:57:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=79a0dcf69bfb55b4d45b1c269c4070c340e0536ef32aedf529a8725af1dac38f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137466735,
+      "datetime": 1762981064
+    },
+    {
+      "title": "Circle stock plunges as concerns over falling interest rates overshadow strong revenue, earnings growth",
+      "description": "Circle stock tumbled 10% as concerns over falling interest rates and their potential impact on future revenue overshadowed a quarterly earnings beat.",
+      "published_utc": "2025-11-12T12:44:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c214bce37980abdacc584dc2da3b3cefe30632fe88677145c7e9193beb5053a7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137466736,
+      "datetime": 1762969442
+    },
+    {
+      "title": "Why Visa is moving deeper into stablecoins with new pilot for businesses",
+      "description": "Mark Nelsen, head of product at Visa Commercial Money Solutions, sits down with CNBC Crypto World to break down a new pilot allowing businesses and platforms to send payouts directly to the stablecoin wallets of recipients, including creators and freelancers.",
+      "published_utc": "2025-11-12T12:40:55",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=f829d2b9ea0fff8d657794a2f02e589c3d39d13ed65e51b033f68c15b62785c1",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108225068-visa_thumbnail.jpg?v=1762983281&w=1920&h=1080",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137469683,
+      "datetime": 1762969255
+    },
+    {
+      "title": "World’s largest payment network tests stablecoin payouts to users",
+      "description": "In September, Visa (NYSE: V) unveiled its stablecoin pre-funding pilot at SIBOS 2025, introducing a faster and more flexible model for cross-border payments for businesses through Visa Direct. Months later, at Web Summit in Lisbon, Visa just took another step in its broader push to ...",
+      "published_utc": "2025-11-12T12:28:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a79b833af0d70d6b60040b072283499f49b340d54644bb52753525d116691e80",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137466737,
+      "datetime": 1762968526
+    },
+    {
+      "title": "Visa moves deeper into stablecoins by launching new payment pilot for businesses: CNBC Crypto World",
+      "description": "On today's episode of CNBC Crypto World, bitcoin and ether fall. And, the Senate Agriculture Committee releases a draft of its portion of a much-awaited digital assets market structure bill. Plus, Mark Nelsen, head of product at Visa Commercial Money Solutions, breaks down a new pilot allowing businesses and platforms to send payouts directly to the stablecoin wallets of recipients, including creators and freelancers.",
+      "published_utc": "2025-11-12T10:27:03",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=9d984e727e01d151a236999a8a0c2cb0b6dd7657993c7ee37b13c7f6275bef29",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108225011-251112_cw_thumbnail.jpg?v=1762978618&w=1920&h=1080",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137469673,
+      "datetime": 1762961223
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:56:18.569436+00:00",
+    "cache_key": "news_133e64beaaa64680b17de7559f4fb5eb",
+    "count": 5
+  }
+}

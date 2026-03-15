@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Woman Convicted of Fraud in Sale of Her Company to JPMorgan Chase Is Sentenced to 7 Years in Prison",
+      "description": "Charlie Javice was convicted on fraud charges for significantly inflating the user base of her online platform. Her lawyers are planning an appeal.",
+      "published_utc": "2025-09-30T17:08:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=53811729caeeecccd102d02e320097a3ae2f7aace321097a1162475769d71801",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136943994,
+      "datetime": 1759266480
+    },
+    {
+      "title": "Sector Update: Financial Stocks Decline Late Afternoon",
+      "description": "Financial stocks were decreasing in late Tuesday trading, with the NYSE Financial Index shedding 0.7",
+      "published_utc": "2025-09-30T16:00:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a49e381f7afc13e2a95db6d5089a75598a5250b95ea87c042e1f4373febf523b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136943995,
+      "datetime": 1759262421
+    },
+    {
+      "title": "Sector Update: Financial Stocks Retreat Tuesday Afternoon",
+      "description": "Financial stocks were decreasing in Tuesday afternoon trading, with the NYSE Financial Index droppin",
+      "published_utc": "2025-09-30T13:52:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cc123f65918946478de42c43a401d66687453df9e5db9d2208e94bb833563d4c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136943996,
+      "datetime": 1759254768
+    },
+    {
+      "title": "Mega Wall Street dealmakers are having their best year ever",
+      "description": "In 2025, companies have announced 49 global 'mega deals,' the highest such count through the first nine months of any year ever.",
+      "published_utc": "2025-09-30T11:16:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fef850eb10eada523491617e0e14ebec5f461996c04aee00f261948062de6520",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136937582,
+      "datetime": 1759245408
+    },
+    {
+      "title": "Fed Pivots: What it Means for MS' Capital Markets Business",
+      "description": "The Fed rate cut is set to revive corporate deals and trading, positioning Morgan Stanley's capital markets business for stronger growth.",
+      "published_utc": "2025-09-30T09:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a0259c1ecee3aa186ae2c56889f007d815dccaeaba0678c9f8914382debedbd3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136937583,
+      "datetime": 1759237800
+    }
+  ]
+}

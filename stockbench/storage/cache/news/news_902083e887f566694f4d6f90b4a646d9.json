@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Ciena returns to S&P 500 after getting booted 17 years ago",
+      "description": "Ciena is predicting the fastest growth since 2011 in the current fiscal year, thanks to its position in artificial intelligence.",
+      "published_utc": "2026-02-04T14:07:51",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=cd7050d1506b4b8634c0545eb2dce9ea96abe3b9e2c4720c6507fe5bf8c50dd1",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108261687-1770247972762-gettyimages-170545273-SMITH_CIENA_CORP.jpeg?v=1770248049&w=1920&h=1080",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138365509,
+      "datetime": 1770232071
+    },
+    {
+      "title": "Visa-UnionPay Link-Up: A Turning Point in Cross-Border Money Flow?",
+      "description": "V links Visa Direct with UnionPay's MoneyExpress, opening cross-border payouts to 95% of UPI debit cards in China via one integration.",
+      "published_utc": "2026-02-04T12:27:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0b3f81fb60cd1016a44e448bdaae7c7076e99ff925706fbdcb6b0d2439a25e7e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138356586,
+      "datetime": 1770226020
+    },
+    {
+      "title": "Is It Time To Reassess Visa (V) After Recent Share Price Weakness?",
+      "description": "For investors wondering whether Visa's current share price still offers value, the key question is how its strong market position lines up with what you are being asked to pay for the stock today. Visa shares last closed at US$328.93, with a 1.1% gain over the past week, a 5.1% decline over the last month, and year to date returns also at 5.1% lower. The 1 year return is 4.0% lower and the 3 year and 5 year returns sit at 45.4% and 65.2% respectively. Together, these figures give a mixed...",
+      "published_utc": "2026-02-04T12:17:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fbcbfd0e067154d4c2a4cd65f90319296cf0cd419637b96484b1a6e8a26bccfc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138355293,
+      "datetime": 1770225464
+    },
+    {
+      "title": "Could Buying American Express (AXP) Today Set You Up for Life?",
+      "description": "The credit card and banking giant is still an evergreen investment.",
+      "published_utc": "2026-02-04T11:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=98ac031a9f4a44ccab72a522c7aa46e49bbe8fe98a1619399030c2a5c6ac8d23",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138355294,
+      "datetime": 1770222600
+    },
+    {
+      "title": "C WorldWide Group Loads Up 45,000 MercadoLibre Shares Worth $94 Million",
+      "description": "MercadoLibre delivers e-commerce, fintech, and logistics solutions across Latin America, serving businesses and consumers at scale.",
+      "published_utc": "2026-02-04T11:18:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f545088d9ba491eb242b9bc9b41cd55c222efb0a9bd95108347e97f5b49d8ff2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138355207,
+      "datetime": 1770221917
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:35:47.880211+00:00",
+    "cache_key": "news_902083e887f566694f4d6f90b4a646d9",
+    "count": 5
+  }
+}

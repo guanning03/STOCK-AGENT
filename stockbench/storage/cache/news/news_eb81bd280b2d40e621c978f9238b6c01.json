@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "id": "f2aa6fb1e9f935aaa0cd321142265e35dfe61d10c6c09b4f59aa8dadd7814565",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Should You Buy Eaton Stock While It's Below $400?",
+      "author": "Lee Samaha",
+      "published_utc": "2025-10-12T14:13:00Z",
+      "article_url": "https://www.fool.com/investing/2025/10/12/should-you-buy-eaton-stock-while-its-below-400/?source=iedfolrf0000001",
+      "tickers": [
+        "ETN",
+        "VRT",
+        "BA",
+        "BApA",
+        "EADSY"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/836461/gettyimages-1044815792-1200x616-fabb16f-1.jpg",
+      "description": "Eaton Corporation is experiencing significant growth in its Electrical Americas segment, driven by data center infrastructure and the 'electrification of everything' trend. However, the stock appears fully valued with potential margin pressures from shifting automotive revenue streams.",
+      "keywords": [
+        "data centers",
+        "AI",
+        "electric vehicles",
+        "electrification",
+        "infrastructure"
+      ],
+      "insights": [
+        {
+          "ticker": "ETN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Strong growth potential in data centers and utilities (expected 28% of 2025 revenue), but facing challenges with unprofitable eMobility segment and potentially high valuation relative to peers"
+        },
+        {
+          "ticker": "VRT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Suggested as a potentially better pure-play data center stock with more focused investment opportunity"
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as having production backlog contributing to Eaton's potential growth in commercial aerospace"
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as having production backlog contributing to Eaton's potential growth in commercial aerospace"
+        },
+        {
+          "ticker": "EADSY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as having production backlog contributing to Eaton's potential growth in commercial aerospace"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:13:31.729087+00:00",
+    "cache_key": "news_eb81bd280b2d40e621c978f9238b6c01",
+    "count": 1
+  }
+}

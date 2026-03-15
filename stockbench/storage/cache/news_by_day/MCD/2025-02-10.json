@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "id": "619082cee68f97624eb0026bc354f94c6e0f4d68c6997ab2eeab7dee23e3c877",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why McDonald's Stock Is Jumping Today",
+      "author": "Keith Noonan",
+      "published_utc": "2025-02-10T17:15:43Z",
+      "article_url": "https://www.fool.com/investing/2025/02/10/why-mcdonalds-stock-is-jumping-today/?source=iedfolrf0000001",
+      "tickers": [
+        "MCD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807144/gettyimages-1248262649.jpg",
+      "description": "McDonald's stock is gaining despite missing Q4 sales and earnings targets, as the company sees improvements in check size and customer traffic, and expects a stronger rebound by Q2.",
+      "keywords": [
+        "McDonald's",
+        "earnings",
+        "sales",
+        "customer traffic",
+        "digital ordering"
+      ],
+      "insights": [
+        {
+          "ticker": "MCD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Despite missing Q4 sales and earnings targets, McDonald's is seeing improvements in key areas like check size and customer traffic, and expects a stronger rebound by Q2. The company's focus on digital ordering and value-oriented menu offerings also seem to be paying off."
+        }
+      ]
+    },
+    {
+      "id": "eec8a6fce5cbb6a9bef4033ddda19ba841899e48c53d32bf05bcf728f579dfbe",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "McDonald's Revenue, EPS Fall Short in Q4",
+      "author": "Jesterai",
+      "published_utc": "2025-02-10T13:53:12Z",
+      "article_url": "https://www.fool.com/data-news/2025/02/10/mcdonald-s-revenue-eps-fall-short-in-q4/?source=iedfolrf0000001",
+      "tickers": [
+        "MCD"
+      ],
+      "image_url": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/36e0d373e7c1c5424584ff852925ed8333bc11b2-5882x3914.jpg",
+      "description": "McDonald's reported Q4 2024 earnings that fell short of analyst estimates, with revenue and adjusted EPS declining year-over-year. Global comparable sales increased marginally, driven by international markets, while the U.S. and U.K. saw declines. The company faces operational challenges and competitive pressures, particularly in the U.S. and U.K. markets.",
+      "keywords": [
+        "McDonald's",
+        "earnings",
+        "revenue",
+        "comparable sales",
+        "U.S. market",
+        "international markets"
+      ],
+      "insights": [
+        {
+          "ticker": "MCD",
+          "sentiment": "negative",
+          "sentiment_reasoning": "McDonald's reported disappointing Q4 2024 earnings, with revenue and adjusted EPS declining year-over-year. The company is facing operational challenges and competitive pressures, particularly in the U.S. and U.K. markets, which saw declines in comparable sales."
+        }
+      ]
+    }
+  ]
+}

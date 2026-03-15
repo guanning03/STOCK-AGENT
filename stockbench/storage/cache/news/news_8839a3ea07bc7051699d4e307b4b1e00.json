@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Investors Rotate Into Cyclical Sectors",
+      "description": "The first full trading week of 2026 saw a shift in market leadership. After several weeks of narrow gains driven by mega-cap growth, investors rotated decisively towards cyclical sectors.",
+      "published_utc": "2026-01-11T18:55:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3d283a678bc6ffa949129aae38b93ce503e0d6c9012daf1a1c569f336dff9fcf",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1414777802/image_1414777802.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138068007,
+      "datetime": 1768175700
+    },
+    {
+      "title": "Wall Street S&P 500 targets reveal hidden trap for SPY investors",
+      "description": "Wall Street analysts are currently projecting a bullish march for the S&P 500 in 2026, but buried within these rosy targets lies a hidden trap for SPY investors. Having navigated these markets for over 30 years, I've learned that when the consensus speaks in absolutes, history usually has a ...",
+      "published_utc": "2026-01-11T15:20:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0f25372689088be47dde5585b991636859c754aab44224a776e1088d4c4c3e04",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138069841,
+      "datetime": 1768162850
+    },
+    {
+      "title": "Why Smart Money Is Looking Overseas for Bank Stocks",
+      "description": "International stocks continue to beat U.S. equities, especially in the banking sector. Consider these 2 international bank stocks to diversify your portfolio.",
+      "published_utc": "2026-01-11T10:17:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1b3208f68d2b5cbeb19dce11fa2ed2be02266c28a99a9b93516efcb42021c892",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138075525,
+      "datetime": 1768144620
+    },
+    {
+      "title": "The December CPI May Bring A Hot Surprise For Markets",
+      "description": "December CPI may reveal if Novemberâs drop was real or a distortion, with swaps near 3% and bond volatility at risk of spiking. Learn why this matters.",
+      "published_utc": "2026-01-11T04:55:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f64bdf004ff15d07c1ca36f75ed08bc45e1538fd17734ccd92ac1654968e9f13",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2170814498/image_2170814498.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138063651,
+      "datetime": 1768125300
+    },
+    {
+      "title": "5 Considerations In The Upcoming CPI Report",
+      "description": "Stock indices rallied despite limited CPI data last month; since then, small-caps and Dow are outperforming tech into early 2026.",
+      "published_utc": "2026-01-11T04:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5c97a73c026837abf9c2151c6fc7f16aac261ab7edfacda66134440c2c9f955d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2078053280/image_2078053280.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138063425,
+      "datetime": 1768122900
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:21:28.252804+00:00",
+    "cache_key": "news_8839a3ea07bc7051699d4e307b4b1e00",
+    "count": 5
+  }
+}

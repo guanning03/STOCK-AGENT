@@ -1,0 +1,122 @@
+{
+  "items": [
+    {
+      "id": "ba0a3d012771d1531a9b9bee67685c5b3351c249a720eb327e6ecd0198d03770",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Billionaires Love This Tech Stock. But Will It Continue Its Reign in 2025?",
+      "author": "James Brumley",
+      "published_utc": "2024-12-25T11:45:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/25/billionaires-love-this-tech-stock-but-will-it-cont/?source=iedfolrf0000001",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "MSFT",
+        "META",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802039/rich-millionaire-billionaire-raining-money.jpg",
+      "description": "Alphabet (Google) is a favorite among billionaire hedge fund managers, with its cloud computing and AI chatbot Gemini showing strong growth potential. The search engine giant's core business remains robust, with the search advertising industry poised for continued double-digit growth. While the stock has already seen a significant rally, analysts believe there is still room for further upside in the year ahead.",
+      "keywords": [
+        "Alphabet",
+        "Google",
+        "cloud computing",
+        "AI chatbot",
+        "search advertising"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights several factors that suggest Alphabet has strong growth potential, including the profitability of its cloud computing business, the growth of its AI chatbot Gemini, and the continued expansion of its core search advertising business. The article suggests that Alphabet's stock may have further upside despite its recent rally."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights several factors that suggest Alphabet has strong growth potential, including the profitability of its cloud computing business, the growth of its AI chatbot Gemini, and the continued expansion of its core search advertising business. The article suggests that Alphabet's stock may have further upside despite its recent rally."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Microsoft's Copilot AI chatbot as a competitor to Alphabet's Gemini, but does not provide any specific insights or sentiment about Microsoft's performance or outlook."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Meta Platforms (Facebook) as one of the common holdings among the hedge funds analyzed, but does not provide any specific insights or sentiment about the company."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Nvidia as one of the common holdings among the hedge funds analyzed, but does not provide any specific insights or sentiment about the company."
+        }
+      ]
+    },
+    {
+      "id": "a78fdfd57a638e9af326035bf54dd187f5f86aa56a13c2f7fb13b34f22d3a079",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "A Permabull's Perspective Tends to Outlast All Bearish Predictions",
+      "author": "Ed Yardeni",
+      "published_utc": "2024-12-25T08:35:00Z",
+      "article_url": "https://www.investing.com/analysis/a-permabulls-perspective-tends-to-outlast-all-bearish-predictions-200655609",
+      "tickers": [
+        "MSFT",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD"
+      ],
+      "amp_url": "https://m.investing.com/analysis/a-permabulls-perspective-tends-to-outlast-all-bearish-predictions-200655609?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "The article discusses the author's perspective as a permabull, arguing that his optimistic forecasts have often been proven right over the long term, despite criticism from bearish analysts. The author provides an overview of his forecasting track record and contrasts it with the tendency of permabears to get investors out of the market before significant market tops.",
+      "keywords": [
+        "stock market",
+        "forecasting",
+        "permabull",
+        "permabear",
+        "economic outlook"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Microsoft CoPilot as a source for identifying prominent permabear economists and strategists, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article criticizes Goldman Sachs' economists for predicting only a 3% annualized return for the S&P 500 over the next 10 years, arguing that this forecast is too pessimistic and fails to account for the potential for higher valuations in the future."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article criticizes Goldman Sachs' economists for predicting only a 3% annualized return for the S&P 500 over the next 10 years, arguing that this forecast is too pessimistic and fails to account for the potential for higher valuations in the future."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article criticizes Goldman Sachs' economists for predicting only a 3% annualized return for the S&P 500 over the next 10 years, arguing that this forecast is too pessimistic and fails to account for the potential for higher valuations in the future."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article criticizes Goldman Sachs' economists for predicting only a 3% annualized return for the S&P 500 over the next 10 years, arguing that this forecast is too pessimistic and fails to account for the potential for higher valuations in the future."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:56:34.588628+00:00",
+    "cache_key": "news_a2cc534fe5f9e92e6ee3b3ae095418f1",
+    "count": 2
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "id": "6c5e8a2bc9dd0bd1b6cf31153145f394c1b47aecd84c626c48e601b102fa3314",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "This Is the Top-Performing Vanguard ETF This Year. Should You Buy It for 2025?",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-21T11:50:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/21/this-is-the-top-performing-vanguard-etf-this-year/?source=iedfolrf0000001",
+      "tickers": [
+        "VOOG",
+        "AAPL",
+        "NVDA",
+        "MSFT",
+        "AMZN",
+        "META",
+        "V",
+        "COST"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801173/success-in-workplace-happy-businesswoman-1201x800-5b2df79.jpg",
+      "description": "The Vanguard S&P 500 Growth ETF (VOOG) has had an exceptional year, outperforming the broader market. It provides exposure to new trends in tech and AI, which are expected to be important growth drivers in 2025. While the ETF's heavy weighting toward big tech creates some risk, its diversification across more stable sector stocks helps mitigate the problem.",
+      "keywords": [
+        "Vanguard S&P 500 Growth ETF",
+        "VOOG",
+        "growth stocks",
+        "AI",
+        "tech",
+        "diversification"
+      ],
+      "insights": [
+        {
+          "ticker": "VOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the ETF's exceptional performance this year, beating the broader market, and its promising exposure to AI and tech trends that are expected to drive growth in 2025. The diversification across more stable sector stocks is also seen as a positive factor."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple is mentioned as one of the five largest holdings in the Vanguard S&P 500 Growth ETF, which is seen as a positive factor due to the company's performance and opportunities in AI."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia is mentioned as one of the five largest holdings in the Vanguard S&P 500 Growth ETF, which is seen as a positive factor due to the company's performance and opportunities in AI."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is mentioned as one of the five largest holdings in the Vanguard S&P 500 Growth ETF, which is seen as a positive factor due to the company's performance and opportunities in AI."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon is mentioned as one of the five largest holdings in the Vanguard S&P 500 Growth ETF, which is seen as a positive factor due to the company's performance and opportunities in AI."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Meta Platforms is mentioned as one of the five largest holdings in the Vanguard S&P 500 Growth ETF, which is seen as a positive factor due to the company's performance and opportunities in AI."
+        },
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Visa is mentioned as one of the more stable sector stocks in the Vanguard S&P 500 Growth ETF, which helps balance out the riskier tech stocks and is seen as a positive factor."
+        },
+        {
+          "ticker": "COST",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Costco Wholesale is mentioned as one of the more stable sector stocks in the Vanguard S&P 500 Growth ETF, which helps balance out the riskier tech stocks and is seen as a positive factor."
+        }
+      ]
+    }
+  ]
+}

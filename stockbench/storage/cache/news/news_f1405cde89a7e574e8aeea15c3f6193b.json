@@ -1,0 +1,119 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today: Nasdaq Up After U.S.-Iran Attacks; LNG Stock Clears Entry As Oil Prices Pop (Live Coverage)",
+      "description": "The Dow Jones index was off opening lows on the stock market today after U.S.-Iran attacks. Tesla fell but oil and defense stocks rose.",
+      "published_utc": "2026-03-02T12:43:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=142298bf5a403b0ac85564ee681b22988a9bc7ae741904ef076082dc7c7639cc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139279060,
+      "datetime": 1772473418
+    },
+    {
+      "title": "Stock Market Today: Dow Off Lows After U.S.-Iran Attacks; Oil Stocks Jump (Live Coverage)",
+      "description": "The Dow Jones index was off opening lows on the stock market today after U.S.-Iran attacks. Tesla fell but oil and defense stocks rose.",
+      "published_utc": "2026-03-02T10:34:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f1670843d0a05cab3498801c4be481ce586ab54e8ac88d7537e11bc917f6b894",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139277717,
+      "datetime": 1772465686
+    },
+    {
+      "title": "Dow Jones leads modest retreat as Wall Street aloof to Iran war",
+      "description": "10am: Wall Street starts with modest falls Initial trading in New York was less pessimistic than in Europe, with losses for the main US indices considerably smaller in initial trades. The Dow Jones is the worst, down 0.65%, followed by the S&P 500 and the Nasdaq Composite both falling...",
+      "published_utc": "2026-03-02T10:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b4c7d8f71efbc3d72cb90c24ad1915bfdfa29220559dab21c68e1e3a2c2d906b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139277722,
+      "datetime": 1772463600
+    },
+    {
+      "id": "087a159823c02d2b1981d7f17ad9ea4e37f07d69a2f48b8b94af9bf28cc6c3dd",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "A Couple's Financial Manifesto, Revisited",
+      "author": "Motley Fool Staff",
+      "published_utc": "2026-03-02T16:19:00Z",
+      "article_url": "https://www.fool.com/investing/2026/03/02/a-couples-financial-manifesto-revisited/?source=iedfolrf0000001",
+      "tickers": [
+        "MSFT",
+        "HD",
+        "CAT",
+        "AMGN",
+        "SHW",
+        "AXP"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F856651%2Fa-couples-financial-manifesto-revisited.jpg&w=1200&op=resize",
+      "description": "Robert Brokamp and his wife Elizabeth revisit their financial manifesto written 26 years ago, discussing five key principles for managing money as a couple: prioritizing long-term goals, tracking spending, controlling food costs, finding savings opportunities, and regular financial check-ins. They reflect on what worked well, areas for improvement, and offer advice for couples seeking financial harmony.",
+      "keywords": [
+        "financial manifesto",
+        "couple finances",
+        "money management",
+        "budgeting",
+        "financial planning",
+        "spending tracking",
+        "long-term goals",
+        "marital finances"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a top holding in the Dow Jones Industrial Average with approximately 5% allocation. Included in context of index composition rather than company-specific analysis."
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed as a top Dow holding with approximately 5% allocation. Referenced only as part of index discussion without company-specific commentary."
+        },
+        {
+          "ticker": "CAT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as second-largest Dow holding at 9%, benefiting from allocation to industrials sector. Included in index composition context without specific company analysis."
+        },
+        {
+          "ticker": "AMGN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed as a top Dow holding with approximately 5% allocation. Mentioned only in context of index holdings without company-specific evaluation."
+        },
+        {
+          "ticker": "SHW",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Included as a top Dow holding with approximately 5% allocation. Referenced as part of index composition without specific company analysis."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed as a top Dow holding with approximately 5% allocation. Mentioned in index context and noted as an advertising partner, but without company-specific commentary."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:53:54.206045+00:00",
+    "cache_key": "news_f1405cde89a7e574e8aeea15c3f6193b",
+    "count": 4
+  }
+}

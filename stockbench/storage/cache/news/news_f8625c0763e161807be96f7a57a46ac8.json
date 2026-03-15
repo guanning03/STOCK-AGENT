@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer Says “IBM’s the Rare AI Winner With a Fairly Low Price-to-Earnings Multiple”",
+      "description": "International Business Machines Corporation (NYSE:IBM) is one of the stocks Jim Cramer shared his thoughts on. Cramer believes that the stock has “a lot more room to run,” as he stated: … They reported, and boy, that stock soared 5% today in response to an unambiguously good quarter. Closed at $309… Long story short, it […]",
+      "published_utc": "2026-02-02T15:18:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d63eee096a7c105c0ef3b9b47bdfe3a357fc865734d5c6af46feead4463e8f9d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138336297,
+      "datetime": 1770063511
+    },
+    {
+      "title": "Why AMD Is Set to Outperform NVIDIA - A Top Buy AI Stock",
+      "description": "AMD's AI push, competitive chip pricing, and growing customer adoption have driven a 107% rally, raising questions about whether the stock can keep outpacing rivals.",
+      "published_utc": "2026-02-02T15:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a4581c55ca1ce1cb4a58d60d0778944e609897235434ec36dfcc152f5ebf6b3f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138336174,
+      "datetime": 1770062400
+    },
+    {
+      "title": "Forget Rigetti Computing: Serious Investors Are Placing Their Chips on This Enterprise‑Ready Quantum Platform",
+      "description": "There are lots of quantum computing start-ups, but IBM, America's first tech company, has led the pack since the 1970s, and is set to continue that dominance through 2026 and beyond.",
+      "published_utc": "2026-02-02T14:06:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=462a656d3b1ada637785b93d90beccd1a346b673059db0c3e6cea552fe20e3dd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138335086,
+      "datetime": 1770059160
+    },
+    {
+      "title": "If You Had Followed Warren Buffett’s Investments in 2016, Here’s How Much Richer You Would’ve Been",
+      "description": "See how Warren Buffett’s Berkshire Hathaway stacked up against his bet on Apple, as well as the S&P 500 index. What did $10,000 investments in each become?",
+      "published_utc": "2026-02-02T11:54:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=37408cb0be05ccd4734cd755976b36f4f3eba158ef4e7f4c979997a003c42269",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138333631,
+      "datetime": 1770051283
+    },
+    {
+      "title": "Can IBM's Lucrative Federal Contracts Boost Its Future Growth?",
+      "description": "International Business Machines lands UK defence deal to unify 17 legacy systems into an AI-driven platform, boosting efficiency and long-term savings.",
+      "published_utc": "2026-02-02T10:46:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d88fcb36d0528f9d6f00f16520951d8da90018c89ed62736ee9c87407d5aaceb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138333726,
+      "datetime": 1770047160
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:28:49.885651+00:00",
+    "cache_key": "news_f8625c0763e161807be96f7a57a46ac8",
+    "count": 5
+  }
+}

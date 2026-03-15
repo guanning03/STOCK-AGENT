@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "id": "6405c91f5a6ff73b1f7e6d8b409d4207dc1aa3c5de6fda876174d2e43d77d27b",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Underrated Vanguard ETF That Smart Investors Are Watching",
+      "author": "David Jagielski",
+      "published_utc": "2024-11-30T11:13:00Z",
+      "article_url": "https://www.fool.com/investing/2024/11/30/1-underrated-vanguard-etf-that-smart-investors-are/?source=iedfolrf0000001",
+      "tickers": [
+        "VNQ",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/798844/businessperson-giving-a-presentation.jpg",
+      "description": "The article discusses how the Vanguard Real Estate Index Fund (VNQ) could benefit from lower interest rates, as REITs can see reduced costs and higher real estate valuations. The ETF provides exposure to a diverse range of REITs and offers a high dividend yield, making it a potentially attractive investment option as interest rates are expected to continue declining.",
+      "keywords": [
+        "real estate investment trusts",
+        "REITs",
+        "Vanguard Real Estate Index Fund",
+        "ETF",
+        "interest rates"
+      ],
+      "insights": [
+        {
+          "ticker": "VNQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that the Vanguard Real Estate Index Fund could be a good investment option as interest rates decline, as REITs can benefit from lower costs and higher real estate valuations. The ETF provides diversified exposure to various types of REITs and offers a high dividend yield, making it an attractive investment."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase's projections for future interest rate cuts, which could benefit REITs and the Vanguard Real Estate Index Fund, but the company is not the main focus of the article."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase's projections for future interest rate cuts, which could benefit REITs and the Vanguard Real Estate Index Fund, but the company is not the main focus of the article."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase's projections for future interest rate cuts, which could benefit REITs and the Vanguard Real Estate Index Fund, but the company is not the main focus of the article."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase's projections for future interest rate cuts, which could benefit REITs and the Vanguard Real Estate Index Fund, but the company is not the main focus of the article."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase's projections for future interest rate cuts, which could benefit REITs and the Vanguard Real Estate Index Fund, but the company is not the main focus of the article."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase's projections for future interest rate cuts, which could benefit REITs and the Vanguard Real Estate Index Fund, but the company is not the main focus of the article."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase's projections for future interest rate cuts, which could benefit REITs and the Vanguard Real Estate Index Fund, but the company is not the main focus of the article."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase's projections for future interest rate cuts, which could benefit REITs and the Vanguard Real Estate Index Fund, but the company is not the main focus of the article."
+        }
+      ]
+    }
+  ]
+}

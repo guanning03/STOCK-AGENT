@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Dow Jones Futures: Tesla In Buy Area As AI Giants, Fed Loom",
+      "description": "Dow Jones Futures: Tesla In Buy Area As AI Giants, Fed Loom",
+      "published_utc": "2025-12-07T18:10:52",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=eaec81e4e04c70e21ae1aec9bb0f66d6fc8e69cb1cc74ef5e7fdc3a1537ead59",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137760809,
+      "datetime": 1765149052
+    },
+    {
+      "title": "JPMorgan Chase Backs Resident-Owned Communities To Boost Housing Affordability Nationwide",
+      "description": "Manufactured home communities have long served as an important source of lower-cost housing, but residents often face uncertainty when they don't own the land beneath their homes. A growing national effort supported by JPMorgan Chase (NYSE:JPM) aims ...",
+      "published_utc": "2025-12-07T16:31:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3cb42cff864d350c3d5a9be277ced0c81beb1648d13edcd73665d4b74dddb779",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137732181,
+      "datetime": 1765143067
+    },
+    {
+      "title": "Work-Life Balance Tops Pay As Employees Re-Evaluate Priorities, But This Is 'Mind-Boggling' To Some CEOs",
+      "description": "As Americans rethink what they want out of their careers, work-life balance is taking center stage. For the first time since Randstad began tracking employment trends 22 years ago, balance has surpassed pay as the top motivator for workers considering a job. But while many employees see this shift as long overdue, some high-profile CEOs say the idea of achieving big ambitions without long hours simply doesn't add up. A New Workplace Baseline According to Randstad's Workmonitor 2025 report, 83% o",
+      "published_utc": "2025-12-07T16:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac4ddf1514514adcdd1f85047b639529d93225d064fefa3fe2ecbec534915a3a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137732184,
+      "datetime": 1765141260
+    },
+    {
+      "title": "S&P 500 slides as investors tap brakes before Fed decision this week: Live updates",
+      "description": "The three major indexes are coming off their second straight winning weeks.",
+      "published_utc": "2025-12-07T13:01:14",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=eed9d094dae956f23b2f3c9666d149c6d5b6495014cbbe28ac86c079503fd5f1",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108237377-1764952135166-gettyimages-2249461855-AFP_878R788.jpeg?v=1764952304&w=1920&h=1080",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137733414,
+      "datetime": 1765130474
+    },
+    {
+      "title": "Don't Blame AI For Weaker Hiring: JPMorgan's Dimon",
+      "description": "Artificial intelligence won't dramatically affect unemployment in the near term, but companies are pulling back on hiring because they want to be more efficient, according to JPMorgan CEO Jamie Dimon.  \"I don't think A.I. is going to dramatically reduce jobs, like, unbelievably next year,\" Dimon said in an interview that aired Sunday morning.",
+      "published_utc": "2025-12-07T12:03:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2fcb407963896146fa2b62d392e42463ac802fdef94c914d48441e0b585ab6d2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137726337,
+      "datetime": 1765127031
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:11:33.639115+00:00",
+    "cache_key": "news_ff29cf6ae138edb3e32d795a748e254d",
+    "count": 5
+  }
+}

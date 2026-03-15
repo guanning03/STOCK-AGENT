@@ -1,0 +1,144 @@
+{
+  "items": [
+    {
+      "id": "823c998c8cb20cfb414da44cf2751ecf09e660c3ecd4e3d2c8de91ebe9626d76",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "VOOG vs. MGK: Tech Exposure is Key",
+      "author": "Jeff Santoro",
+      "published_utc": "2025-12-13T23:21:40Z",
+      "article_url": "https://www.fool.com/coverage/etfs/2025/12/13/voog-vs-mgk-tech-exposure-is-key/?source=iedfolrf0000001",
+      "tickers": [
+        "VOOG",
+        "MGK",
+        "NVDA",
+        "MSFT",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Ff2894ef3e59a57033e3d12497757ed4ec0c197b2-1401x1251.png%3Fw%3D1401%26h%3D1251&w=1200&op=resize",
+      "description": "Two Vanguard ETFs with similar low expense ratios differ in tech sector exposure: VOOG offers broader diversification across 217 stocks, while MGK concentrates on 66 large tech holdings, making tech concentration the key distinguishing factor.",
+      "keywords": [
+        "ETF",
+        "technology",
+        "investment",
+        "diversification",
+        "growth stocks"
+      ],
+      "insights": [
+        {
+          "ticker": "VOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Offers broader diversification, slightly higher dividend yield, and more balanced sector exposure"
+        },
+        {
+          "ticker": "MGK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Highly concentrated in tech sector, which increases potential volatility and sector-specific risk"
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Top holding in both ETFs, representing approximately 15% of assets"
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Significant holding in both ETFs, indicating strong market position"
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Consistently top holding across both ETFs, demonstrating market strength"
+        }
+      ]
+    },
+    {
+      "id": "d44a2b35e3ed4a6b3caeb99637d7f99e5ce4fe50a707dfa6e4f49cfd8b6165f9",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "2 Stocks That Turned $1,000 Into $1 Million (or More)",
+      "author": "Jennifer Saibil",
+      "published_utc": "2025-12-13T19:05:00Z",
+      "article_url": "https://www.fool.com/investing/2025/12/13/2-stocks-that-turned-1000-into-1-million-or-more/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F845415%2Fperson-with-a-laptop-and-a-lot-of-dollars.jpg&w=1200&op=resize",
+      "description": "The article discusses how Amazon and Apple have been exceptional long-term investment opportunities, highlighting their continued growth potential through innovation, market leadership, and strategic expansion in technology sectors like cloud computing and AI.",
+      "keywords": [
+        "stocks",
+        "investment",
+        "technology",
+        "cloud computing",
+        "AI",
+        "diversification"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong market position with $691 billion in revenue, 13% sales growth, 29% global cloud market share, and significant AI and cloud computing potential"
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Dominant smartphone market share, robust ecosystem of interconnected products, growing services business, and consistent innovation with 32% operating margin"
+        }
+      ]
+    },
+    {
+      "title": "Investor Who Reached $10K/Month in Dividend Income in 10 Years Shares His Portfolio: 'The Strategy is Be Disciplined. Everything Else Is Just Numbers'",
+      "description": "",
+      "published_utc": "2025-12-13T12:01:01",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=3049370fead59e2b63fae80ea9dd994a6cbeb8aaf8895f379b5fc5094e02f28f",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/12/13/Dividends-Stock-Payment--Passive-Income-.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138442705,
+      "datetime": 1765645261
+    },
+    {
+      "title": "Buy And Hold Portfolio For Next 10 Years: Potential $5,500 Monthly Income",
+      "description": "Discover a diversified portfolio of ETFs & CEFs for 6%+ income yield, market-matching growth, and lower tech risk.",
+      "published_utc": "2025-12-13T03:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=dd15392ca51db5a89acfae5a8d3d3f0acc9ad497fd9fb1958a937ca70f7bd127",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1305660443/image_1305660443.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137775417,
+      "datetime": 1765612800
+    },
+    {
+      "title": "These 2 Are, By Far, My Favorite Mag-7 Stocks",
+      "description": "Discover the top 2 Big Tech stocks set to outperform, chosen by a value-focused investor.",
+      "published_utc": "2025-12-13T02:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=06fe89a01bf13ebaf815739ebd0a994c43a9c42bae7381049be7d2895d6cfbd4",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/500552643/image_500552643.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137775278,
+      "datetime": 1765611000
+    }
+  ]
+}

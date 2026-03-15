@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "title": "Prediction: These 2 Warren Buffett Stocks Could Beat the Market in the Next Decade",
+      "description": "These stocks have strong track records of success and offer investors who initiate positions today plenty more to look forward to.",
+      "published_utc": "2025-09-20T15:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0d7e27c91b07528e2267665a4aaccfe98baa7305a5012baf58bf363eb6707fb0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136830040,
+      "datetime": 1758395700
+    },
+    {
+      "id": "00cf8e31e7b3bc27d84e43279d65e9ab9fb5b7890f8b59925e5ca13bff85f2a9",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "BloFin Achieves PCI DSS Certification to Strengthen Card Payment Security",
+      "author": "Annio W.",
+      "published_utc": "2025-09-20T11:07:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/09/20/3153489/0/en/BloFin-Achieves-PCI-DSS-Certification-to-Strengthen-Card-Payment-Security.html",
+      "tickers": [
+        "V",
+        "MA",
+        "AXP"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/512f6ddd-1634-4d0b-b31a-8684082f20a1",
+      "description": "BloFin, a global cryptocurrency exchange, has achieved PCI DSS certification, demonstrating its commitment to secure payment card data handling and protection. This certification, alongside previous ISO/IEC 27001 accreditation, reinforces the platform's dedication to international security standards.",
+      "keywords": [
+        "cryptocurrency",
+        "PCI DSS",
+        "security certification",
+        "payment card data",
+        "financial security"
+      ],
+      "insights": [
+        {
+          "ticker": "V",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of payment networks that developed PCI DSS standard, with no direct action or impact highlighted"
+        },
+        {
+          "ticker": "MA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of payment networks that developed PCI DSS standard, with no direct action or impact highlighted"
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of payment networks that developed PCI DSS standard, with no direct action or impact highlighted"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T04:02:12.059581+00:00",
+    "cache_key": "news_32ac66af81414b9fac83646a021f5798",
+    "count": 2
+  }
+}

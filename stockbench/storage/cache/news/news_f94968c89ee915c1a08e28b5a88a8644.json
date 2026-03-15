@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "'Own it, don't trade it,' says Jim Cramer on Nvidia",
+      "description": "CNBC’s Jim Cramer talks about the importance of stock picking for individual investors and breaks down what he thinks of Nvidia, Apple and Warner Bros. Discovery.",
+      "published_utc": "2025-12-09T14:25:43",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=cd9863af344061cacd5a4d2fb3b8e735d4af6e7ac9fbef04e6e85e017013a582",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108239446-3ED3-MM-A-BLOCK-120925.jpg?v=1765324663&w=1920&h=1080",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137748215,
+      "datetime": 1765308343
+    },
+    {
+      "title": "Jim Cramer rejects Wall Street doubts about Nvidia, Apple and Warner Bros. Discovery",
+      "description": "CNBC's Jim Cramer on Tuesday told investors that it can be worthwhile to put trust in a good stock.",
+      "published_utc": "2025-12-09T13:36:54",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=cd921ac59559638a18f225d2c4e8d3cfa8ca92a2cfce8609b00b57e98ea36950",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/106349570-1579719779302img_3404r.jpg?v=1694617758&w=1920&h=1080",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137748216,
+      "datetime": 1765305414
+    },
+    {
+      "title": "Prediction: This Surprising Growth Stock Will Reach -- and Stay in -- the Trillion-Dollar Club in 2026.",
+      "description": "A new revenue driver may be just ahead.",
+      "published_utc": "2025-12-09T13:35:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2810f161f4fd6ca02901c53523eee3a00b4f9c27412b1a8ff3523476a63d9327",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137742398,
+      "datetime": 1765305300
+    },
+    {
+      "title": "Apple (AAPL) Lands $330 Target as CLSA Turns More Bullish on iPhone Momentum",
+      "description": "Apple Inc. (NASDAQ:AAPL) is one of the Must-Watch AI Stocks on Wall Street. On December 5, CLSA analyst Bhavtosh Vajpayee raised its price target on the stock to $330.00 from $265.00 while maintaining an “Outperform” rating. The firm noted how iPhone sales are “surging to new highs, with AI as a key unlock ahead of future […]",
+      "published_utc": "2025-12-09T13:19:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=93d97fa05ae836c22011f178d53e2c084e2e8a74a3a6afacde4ec72fbb25c801",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137742417,
+      "datetime": 1765304354
+    },
+    {
+      "title": "AT&T Joins T-Mobile In Digital Switching As Wireless Industry Faces Big Changes",
+      "description": "AT&T will join T-Mobile in adopting digital switching for customers. The move is likely to increase industry customer turnover rates. AT&T stock dipped.",
+      "published_utc": "2025-12-09T13:00:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=edc3369064d284e6c5b10caff3f357e2a8058a0cff0903620e3ac13f9f745b84",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137742418,
+      "datetime": 1765303217
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:21:48.221052+00:00",
+    "cache_key": "news_f94968c89ee915c1a08e28b5a88a8644",
+    "count": 5
+  }
+}

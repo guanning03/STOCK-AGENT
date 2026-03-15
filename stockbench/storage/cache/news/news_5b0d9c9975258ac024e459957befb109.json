@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Big Tech earnings, Fed meeting feature as markets end January with busiest week of Q1: What to watch",
+      "description": "As geopolitical tensions simmer in the background, Big Tech earnings and the January Fed meeting take center stage this week.",
+      "published_utc": "2026-01-25T07:54:34",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d321b47cddf11d68be78b9f043fc46d9aef6f6739024e647b79d754b4c1b829d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138253078,
+      "datetime": 1769345674
+    },
+    {
+      "title": "The Industrial Economy Is Giving A False Sense Of Security",
+      "description": "The industrial sector shows mixed signals. Read what warrants caution for broad industrial sector exposure.",
+      "published_utc": "2026-01-25T03:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b49d153dfb4def281aeec83c9c84b118d2e1a9d51a7b9cb715f0d870b07beb89",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1651081021/image_1651081021.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138252859,
+      "datetime": 1769328000
+    },
+    {
+      "title": "A Look At Honeywell International (HON) Valuation After JPMorgan Upgrade And Aerospace Spinoff Plans",
+      "description": "Honeywell International (HON) is back in focus after JPMorgan upgraded the stock and highlighted upcoming business spinoffs, while a fresh legal settlement with Flexjet removed a long running overhang and extended their maintenance partnership. See our latest analysis for Honeywell International. Those moves come after a busy stretch, with Honeywell outlining leadership for its planned aerospace spinoff, announcing an AI enabled retail platform with Google Cloud and resolving long running...",
+      "published_utc": "2026-01-24T21:08:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=af357389fc52d39582c9f50ec4f7716b54871cafb422c1ce0f454593f2fce3c7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138250055,
+      "datetime": 1769306911
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:01:30.436007+00:00",
+    "cache_key": "news_5b0d9c9975258ac024e459957befb109",
+    "count": 3
+  }
+}

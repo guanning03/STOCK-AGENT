@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Dow drops nearly 175 points on losses in shares of Nike, 3M",
+      "description": "Dow drops nearly 175 points on losses in shares of Nike, 3M",
+      "published_utc": "2025-07-30T10:55:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=dc7e667c8be83dfd0851bb41470fa2349d4afd408378216ee62b09ea9ed8729b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136171316,
+      "datetime": 1753887300
+    },
+    {
+      "title": "Starbucks CEO Brian Niccol promises a return to glory days: Opening Bid top takeaway",
+      "description": "Starbucks CEO Brian Niccol is staying hopeful on his turnaround.",
+      "published_utc": "2025-07-30T10:31:45",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2960da5cbc2df7043cf0424610e1d924bfa79c1e880b39a91c3f8bea7b019e4a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136148833,
+      "datetime": 1753885905
+    },
+    {
+      "title": "Visa Is A Prime Example Of Letting Your Winners Run",
+      "description": "Visa Inc. surpassed Q3 FY2025 expectations with strong earnings. High valuation reflects growth trust, but risks linger. Click for more on V and its earnings.",
+      "published_utc": "2025-07-30T10:11:25",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=28d21e7d00e6a89e3288fb245b6bc73fd0486caf2af8b9d3f723cc24cbc71a91",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2216210251/image_2216210251.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136137084,
+      "datetime": 1753884685
+    },
+    {
+      "title": "American Express Stock: How to Profit off the Upcoming Platinum Card Refresh",
+      "description": "Strong Profits Driving Returns for Investors",
+      "published_utc": "2025-07-30T08:34:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c60a1d873feb4148700dec771480089586f78c5c991cacd13deae45affe9ae96",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136129956,
+      "datetime": 1753878850
+    },
+    {
+      "title": "Spain Cards and Payments Market Opportunity and Risks Analysis Report 2025-2029 Featuring CaixaBank, BBVA, Santander, Banco Sabadell, Bankinter, Bankia, Visa, Mastercard, and American Express",
+      "description": "Discover comprehensive insights into the Spanish cards and payments industry with the 'Spain Cards and Payments: Opportunities and Risks to 2029' report. Analyze trends, market drivers, competitor landscape, and consumer behaviors. Explore the growth and adoption of contactless payments and regulatory shifts.Dublin, July 30, 2025 (GLOBE NEWSWIRE) -- The \"Spain Cards and Payments: Opportunities and Risks to 2029\" report has been added to ResearchAndMarkets.com's offering.The report provides detai",
+      "published_utc": "2025-07-30T04:06:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0e0641caf379649462a93f40ff15f56406247cdebe6399dbd26d5f134fc211e8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136129262,
+      "datetime": 1753862760
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:22:54.507043+00:00",
+    "cache_key": "news_b2af29ff9339962fc9b1e02e1f74f624",
+    "count": 5
+  }
+}

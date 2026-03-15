@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "McDonald's (MCD) Rises Higher Than Market: Key Facts",
+      "description": "McDonald's (MCD) closed the most recent trading day at $312.95, moving +1.2% from the previous trading session.",
+      "published_utc": "2026-01-26T17:50:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=38182683e63b9535fe7e023395088b51589b35b4c653e60c014ef24fd63b50fb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138266036,
+      "datetime": 1769467803
+    },
+    {
+      "title": "McDonald’s revives most-requested Happy Meal toys after 39 years",
+      "description": "McDonald's has produced some of the most memorable Happy Meal toys in fast-food history, so iconic that many adults today still remember them fondly or even still have them in tucked away in their childhood bedrooms. Longtime fans may recall the Tamagotchi releases, the collectible Beanie Babies, ...",
+      "published_utc": "2026-01-26T13:47:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a25cbe7a37d7368a64cf209bf1cc58ed2390fa6b3d71d82415baf9d6d69dfdc7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138265460,
+      "datetime": 1769453220
+    },
+    {
+      "title": "How Franchise Economics Can Fuel YUM's Next Growth Cycle",
+      "description": "Yum! Brands' next growth cycle hinges on boosting franchise economics, using scale and technology to drive faster paybacks, expansion and durable margins.",
+      "published_utc": "2026-01-26T09:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=06a71e3ea5407f1d3e006d094bf9e2de1fef8a810c94a0bffff88d91b5cc2b6d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138263500,
+      "datetime": 1769437200
+    },
+    {
+      "title": "Cisco, Apple share gains lead Dow's 182-point climb",
+      "description": "Cisco, Apple share gains lead Dow's 182-point climb",
+      "published_utc": "2026-01-26T04:45:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b7957261b3c83229c064bfb5e18f2557efda72157480b19e54bd5bbf6070074a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138283310,
+      "datetime": 1769420700
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:04:20.707816+00:00",
+    "cache_key": "news_22083b2f74fdac3df35301044809db99",
+    "count": 4
+  }
+}

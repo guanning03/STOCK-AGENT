@@ -1,0 +1,62 @@
+{
+  "items": [
+    {
+      "id": "9b909c098d56c8af38a9dfb04956fc8551f729c6161422b34b41af79487fa1d9",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Destiny Wealth Sells $8.1 Million in IBB Shares — Here’s Why Biotech Stocks Are Lagging",
+      "author": "Jonathan Ponciano",
+      "published_utc": "2025-10-07T18:23:47Z",
+      "article_url": "https://www.fool.com/coverage/filings/2025/10/07/destiny-wealth-sells-usd8-1-million-in-ibb-shares-here-s-why-biotech-stocks-are-lagging/?source=iedfolrf0000001",
+      "tickers": [
+        "IBB",
+        "VRTX",
+        "AMGN"
+      ],
+      "image_url": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/2aaa0626f8846fe4dc9ac3102ff548ca70099aff-1536x1024.png",
+      "description": "Destiny Wealth Partners sold $8.1 million in iShares Biotechnology ETF shares, reflecting broader institutional investor cooling on the biotech sector, with the ETF underperforming the S&P 500 this year.",
+      "keywords": [
+        "biotech",
+        "ETF",
+        "investment",
+        "market trends"
+      ],
+      "insights": [
+        {
+          "ticker": "IBB",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Down about 5% over the past year, trailing S&P 500's 18% gain, with major holdings like Vertex Pharmaceuticals and Amgen experiencing stock declines"
+        },
+        {
+          "ticker": "VRTX",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Stock down approximately 8% over the past year"
+        },
+        {
+          "ticker": "AMGN",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Stock down approximately 7% over the past year"
+        }
+      ]
+    },
+    {
+      "title": "Amgen Unveils New DTC Program, Cuts Cholesterol Drug Price by 60%",
+      "description": "AMGN rolls out AmgenNow, a direct-to-consumer program debuting with Repatha at a 60% lower price to boost patient access and affordability.",
+      "published_utc": "2025-10-07T13:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=66af0f6dc5f1cb5421d4f7a57b4108420863bc56b14505318bcbbdd53f329b8a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137002788,
+      "datetime": 1759859100
+    }
+  ]
+}

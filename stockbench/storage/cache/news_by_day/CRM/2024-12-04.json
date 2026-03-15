@@ -1,0 +1,116 @@
+{
+  "items": [
+    {
+      "id": "73d7abf39e76b957a8628df6f478d0876597d599a9f49f9546f8a8ccec0efebf",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why C3.ai Stock Was Climbing Today",
+      "author": "Jeremy Bowman",
+      "published_utc": "2024-12-04T18:47:06Z",
+      "article_url": "https://www.fool.com/investing/2024/12/04/why-c3ai-stock-was-climbing-today/?source=iedfolrf0000001",
+      "tickers": [
+        "AI",
+        "CRM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799885/artificial-intelligence-investing-algorithms.jpg",
+      "description": "C3.ai stock rose in anticipation of its upcoming earnings report, as cloud software stocks like Salesforce reported strong results, indicating growing adoption of AI tools. Analysts are expecting 24.3% revenue growth for C3.ai, but the company remains unprofitable.",
+      "keywords": [
+        "C3.ai",
+        "Salesforce",
+        "AI software",
+        "cloud software"
+      ],
+      "insights": [
+        {
+          "ticker": "AI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "C3.ai's stock rose in anticipation of its upcoming earnings report, as the company's revenue growth has been accelerating and the adoption of AI software is expected to increase."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce, the largest pure-play cloud software stock, reported strong results and touted the adoption of its AI tools, which is seen as a positive sign for C3.ai and other software stocks."
+        }
+      ]
+    },
+    {
+      "id": "356d18f301ff8b8a67fe25827e6bbf282b96790bcb5e82de6084355704242c36",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Tech Stocks Extend Record Highs On AI Optimism, Marvell Rockets, Bitcoin Hovers Near $95,000: What's Driving Markets Wednesday?",
+      "author": "Piero Cingari, Benzinga Staff Writer",
+      "published_utc": "2024-12-04T18:40:39Z",
+      "article_url": "https://www.benzinga.com/economics/macro-economic-events/24/12/42323280/tech-stocks-extend-record-highs-on-ai-optimism-marvell-rockets-bitcoin-hovers-nea",
+      "tickers": [
+        "AMZN",
+        "CRM",
+        "PSTG",
+        "OKTA",
+        "DLTR",
+        "CHWY",
+        "XLK",
+        "XLE"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2024/12/04/wall-street-ai18.png?width=1200&height=800&fit=crop",
+      "description": "Tech stocks continued their rally, with the Nasdaq 100 and S&P 500 hitting new record highs. Investor optimism around AI-driven growth fueled the gains, led by strong performance in Amazon. However, economic data showed slower-than-expected growth in the services sector and private payroll numbers.",
+      "keywords": [
+        "tech stocks",
+        "AI",
+        "Nasdaq 100",
+        "S&P 500",
+        "Amazon",
+        "economic data"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon's stock advanced over 2% on the back of strong early holiday sales and optimism around AI advancements showcased at the AWS annual conference."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce's stock rose over 7% in reaction to its quarterly results, which delivered slightly lower-than-expected earnings."
+        },
+        {
+          "ticker": "PSTG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Pure Storage's stock jumped 24% in response to its earnings report."
+        },
+        {
+          "ticker": "OKTA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Okta's stock increased 4.8% after its earnings announcement."
+        },
+        {
+          "ticker": "DLTR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Dollar Tree's stock rose 2.4% in reaction to its earnings."
+        },
+        {
+          "ticker": "CHWY",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Chewy's stock fell 3.8% after its earnings announcement."
+        },
+        {
+          "ticker": "XLK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Technology Select Sector SPDR Fund outperformed the broader market, rising 1.6%."
+        },
+        {
+          "ticker": "XLE",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The Energy Select Sector SPDR Fund lagged the market, declining 2.4%."
+        }
+      ]
+    }
+  ]
+}

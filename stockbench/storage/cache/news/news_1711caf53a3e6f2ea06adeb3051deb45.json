@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Market Update: Dow Jones, S&P 500 React To Fed Rate Decision",
+      "description": "The Federal Reserve kept interest rates steady, but hinted at possible rate cuts later in the year.",
+      "published_utc": "2025-03-19T15:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9649f3aaa568d60645bb48e6ae9525636fec9ac679041cfe495f248d47a8970c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1692418614/image_1692418614.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133262976,
+      "datetime": 1742412900
+    },
+    {
+      "title": "Wall Street Lunch: Powell Aims To Make Transitory Transitory Again",
+      "description": "The Fed chief echoes COVID-era prediction as FOMC holds rates. Dot plot shows higher inflation, lower growth forecasts. Stocks climb as yields retreat.",
+      "published_utc": "2025-03-19T13:17:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=19bc4f86d63064d658212a98cff961c83e70eaf2611fc5b2e6dbd3654759edbf",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2205920078/image_2205920078.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133262467,
+      "datetime": 1742404620
+    },
+    {
+      "title": "Boeing Stock Soared. This Is Why.",
+      "description": "Boeing Stock Soared. This Is Why.",
+      "published_utc": "2025-03-19T12:12:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=dee93bf2f021b117746094df40687af9eef702f764e7c8df5858eb5fcde69f0c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133273424,
+      "datetime": 1742400720
+    },
+    {
+      "title": "Wall Street rallies after Fed keeps rates unchanged",
+      "description": "* Fed keeps rates unchanged as widely expected * Central bank to taper drawdown of its balance sheet * Powell signals tariff impact tough to...",
+      "published_utc": "2025-03-19T12:00:34",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=ffa26bddbd4a53718989ef6f3008b72bc8736957e99208499501c25943a15e7f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133262095,
+      "datetime": 1742400034
+    },
+    {
+      "title": "NASA may require Boeing's Starliner to fly third uncrewed test",
+      "description": "Boeing'stroubled Starliner capsule that left two NASA astronauts on theInternational Space Station last year may need to fly a thirduncrewed test flight before it carries astronauts again,...",
+      "published_utc": "2025-03-19T11:38:21",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=f72fd78097564138efe28925bfb718ff2ccf11779e42b431321961466816eb7e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133262026,
+      "datetime": 1742398701
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T22:49:57.956136+00:00",
+    "cache_key": "news_1711caf53a3e6f2ea06adeb3051deb45",
+    "count": 5
+  }
+}

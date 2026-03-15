@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Technology Stocks: Dead Or An Opportunity?",
+      "description": "February tends to deliver modest returns, with average performance trailing the stronger gains typically seen in January and March. Read more here.",
+      "published_utc": "2026-02-07T18:55:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0b6752009bd3959782a020cb13fb65383680df28f9e9b4afd4ea8ce7121b2cc8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2257858433/image_2257858433.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138390450,
+      "datetime": 1770508500
+    },
+    {
+      "title": "MGK vs. SPY: Is Mega-Cap Growth or S&P 500 Diversification the Better Buy Right Now?",
+      "description": "Explore how sector focus, risk, and income differ between these two leading ETFs — and what that could mean for your portfolio strategy.",
+      "published_utc": "2026-02-07T16:27:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7ac7bd3dfb0be629dd9f9c5b6bbbf0913e9ad739b8542ff9e72b508f9efdffa7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138388610,
+      "datetime": 1770499623
+    },
+    {
+      "title": "VTI vs. SPY: Which Popular Broad Market ETF Is the Best Choice for Investors Right Now?",
+      "description": "Explore how differences in cost, diversification, and holdings shape the appeal of these two popular U.S. equity ETFs for investors.",
+      "published_utc": "2026-02-07T13:37:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dd355e0092b1f1e45929dfe62458617722feb2136195c4acd2ca4dc76c676833",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138387624,
+      "datetime": 1770489423
+    },
+    {
+      "title": "Better Large-Cap ETF: Vanguard's MGK vs. State Street's SPY",
+      "description": "Explore how differences in sector focus, diversification, and volatility shape the risk and reward profiles of these two popular ETFs.",
+      "published_utc": "2026-02-07T10:24:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f8261f8a67d96e0810f8632c2d01d21c398e63f39cf70cd9fe9ec9e18cfe8e1b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138385882,
+      "datetime": 1770477843
+    },
+    {
+      "title": "Recession Talk Isn't Back, But Economic Unease Is — These 4 ETFs Could Help If The Economy Wobbles",
+      "description": "Economists see roughly 30–40% recession odds — not dominant, but not negligible. These 4 ETFs could help investors stay balanced if growth slows.",
+      "published_utc": "2026-02-07T09:25:44",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=2bfdaa94bc51e537f639e56a6a571688f90bb91241b3faafc044b851f172bb0b",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/02/07/3d-Rendering-Of-Exchange-Traded-Fund-etf.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138461990,
+      "datetime": 1770474344
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:44:05.044719+00:00",
+    "cache_key": "news_bdc7635dab270423cb31d14c3395706b",
+    "count": 5
+  }
+}

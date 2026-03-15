@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Tesla, Netflix Scheduled To Report Earnings Next Week As Investors Focus On Delayed CPI",
+      "description": "Tech stocks and automobile giants are set to report earnings this week. Stay ahead with a weekly market preview of key earnings, IPO updates, and economic reports.",
+      "published_utc": "2025-10-18T07:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=335e0488af8a1967d0873e7ecdb048f6a93418213758fad197ad9e82c5d3d7f9",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137134433,
+      "datetime": 1760785200
+    },
+    {
+      "title": "Markets Weekly Outlook - Tesla, Netflix Earnings, U.S. CPI And China's 5-Year Plan In Focus As U.S.-China Tensions Simmer",
+      "description": "The week was still full of volatility as markets grappled with the ongoing US-China stalemate as well as concerns around the US banking sector later in the week.",
+      "published_utc": "2025-10-17T22:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6a710b8877519819228e65b0a6c61079379ff517223fab2fe2e317078180b397",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1427537698/image_1427537698.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137132236,
+      "datetime": 1760754600
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:32:30.442494+00:00",
+    "cache_key": "news_2f4bd5c327948cdf17a1a2a561ee70be",
+    "count": 2
+  }
+}

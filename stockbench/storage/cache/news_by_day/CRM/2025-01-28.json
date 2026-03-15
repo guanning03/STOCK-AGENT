@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": "4250279a4acd17a0c39ea09b8dfd45bdb46f99113b95cdd58b9a0288bb98ffe7",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why Software Stocks MongoDB, Salesforce, and GitLab Were Moving Higher",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-28T18:56:54Z",
+      "article_url": "https://www.fool.com/investing/2025/01/28/why-software-stocks-mongodb-salesforce-and-gitlab/?source=iedfolrf0000001",
+      "tickers": [
+        "MDB",
+        "CRM",
+        "GTLB"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805529/globe-cloud-software-network.jpg",
+      "description": "Software stocks rallied as investors bet that the launch of the Chinese AI chatbot DeepSeek would benefit software companies by reducing costs and improving efficiencies. Stocks like MongoDB, Salesforce, and GitLab saw significant gains as they are well-positioned to leverage the power of AI.",
+      "keywords": [
+        "software stocks",
+        "AI",
+        "DeepSeek",
+        "MongoDB",
+        "Salesforce",
+        "GitLab"
+      ],
+      "insights": [
+        {
+          "ticker": "MDB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "MongoDB is a provider of NoSQL database software, and AI has huge potential applications in the database sector. The company has launched an AI Applications Program and is working with companies like Meta Platforms to reduce the cost of migrating legacy applications onto MongoDB."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce is already pushing hard into AI with Agentforce, its agentic AI tool. As the leader in customer relationship management (CRM) with over 150,000 customers, Salesforce is well-positioned to capture demand for AI software."
+        },
+        {
+          "ticker": "GTLB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "GitLab is a specialist in cloud-based DevSecOps, and AI can play a role in the company in a number of ways. It has launched GitLab Duo, a suite of AI features that assist developers, and DeepSeek could also drive increased interest in building on platforms like GitLab, making it cheaper to build AI features into programs."
+        }
+      ]
+    }
+  ]
+}

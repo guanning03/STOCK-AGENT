@@ -1,0 +1,173 @@
+{
+  "items": [
+    {
+      "id": "e472839756e5b2d61f88b4fffe8ab9fff1eaa91434c5c3db44d23c0a2a56c0be",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Could IonQ Be Your Ticket to Becoming a Millionaire by 2035?",
+      "author": "Keithen Drury",
+      "published_utc": "2024-12-15T12:30:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/15/could-ionq-be-your-ticket-to-becoming-a-millionair/?source=iedfolrf0000001",
+      "tickers": [
+        "IONQ",
+        "IONQ.WS",
+        "GOOG",
+        "GOOGL",
+        "IBM",
+        "MSFT",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799238/image-of-the-ionq-optical-system.jpg",
+      "description": "The article discusses the potential of quantum computing stocks, particularly IonQ, to make investors millionaires. It highlights the advantages and challenges of quantum computing and suggests a diversified approach to investing in this space.",
+      "keywords": [
+        "quantum computing",
+        "IonQ",
+        "Alphabet",
+        "IBM",
+        "Microsoft",
+        "Nvidia"
+      ],
+      "insights": [
+        {
+          "ticker": "IONQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents IonQ as a promising quantum computing company, but also acknowledges the risks and uncertainties involved in the industry. It suggests that IonQ's success is not guaranteed, and investors should approach it with caution."
+        },
+        {
+          "ticker": "IONQ.WS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents IonQ as a promising quantum computing company, but also acknowledges the risks and uncertainties involved in the industry. It suggests that IonQ's success is not guaranteed, and investors should approach it with caution."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Alphabet's recent breakthrough in quantum computing, indicating the company's progress in the field."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Alphabet's recent breakthrough in quantum computing, indicating the company's progress in the field."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists IBM as one of the heavyweights in the quantum computing space, but does not provide a specific assessment of the company."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists Microsoft as one of the heavyweights in the quantum computing space, but does not provide a specific assessment of the company."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists Nvidia as one of the heavyweights in the quantum computing space, but does not provide a specific assessment of the company."
+        }
+      ]
+    },
+    {
+      "id": "7b33cce1b9014ff54ef51713c355da1de28a9f2d7296f748d62ff5ce96ea5838",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "IonQ Stock: A Millionaire-Maker in the Making?",
+      "author": "Anders Bylund",
+      "published_utc": "2024-12-15T10:29:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/15/ionq-stock-a-millionaire-maker-in-the-making/?source=iedfolrf0000001",
+      "tickers": [
+        "IONQ",
+        "IONQ.WS",
+        "RGTI",
+        "RGTIW",
+        "QBTS",
+        "QBTS.WS",
+        "GOOG",
+        "GOOGL",
+        "MSFT",
+        "IBM",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800860/thinking-hard-with-a-laptop.jpg",
+      "description": "Quantum computing promises to solve complex problems, but the technology is still in its early stages. IonQ, a leading quantum computing company, has seen its stock price soar, but the author cautions that the long-term success of the company is uncertain due to competition from larger tech giants and the unprofitable nature of the industry.",
+      "keywords": [
+        "quantum computing",
+        "IonQ",
+        "Rigetti",
+        "D-Wave Quantum",
+        "Alphabet",
+        "Microsoft",
+        "IBM",
+        "Nvidia"
+      ],
+      "insights": [
+        {
+          "ticker": "IONQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "IonQ is a leading quantum computing company, but the author cautions that its long-term success is uncertain due to competition from larger tech giants and the unprofitable nature of the industry."
+        },
+        {
+          "ticker": "IONQ.WS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "IonQ is a leading quantum computing company, but the author cautions that its long-term success is uncertain due to competition from larger tech giants and the unprofitable nature of the industry."
+        },
+        {
+          "ticker": "RGTI",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Rigetti is a smaller quantum computing company that faces similar challenges as IonQ."
+        },
+        {
+          "ticker": "RGTIW",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Rigetti is a smaller quantum computing company that faces similar challenges as IonQ."
+        },
+        {
+          "ticker": "QBTS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "D-Wave Quantum is a smaller quantum computing company that faces similar challenges as IonQ and Rigetti."
+        },
+        {
+          "ticker": "QBTS.WS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "D-Wave Quantum is a smaller quantum computing company that faces similar challenges as IonQ and Rigetti."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet, through its subsidiary Google, has made progress in quantum computing development, which is a positive sign for the industry."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet, through its subsidiary Google, has made progress in quantum computing development, which is a positive sign for the industry."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is a large tech company that is investing in quantum computing, which could pose a challenge to smaller players like IonQ."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IBM is a large tech company that is investing in quantum computing, which could pose a challenge to smaller players like IonQ."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia is a large tech company that is investing in quantum computing, which could pose a challenge to smaller players like IonQ."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:26:58.323061+00:00",
+    "cache_key": "news_3db855d3015a6e98eee0a2a70b7849de",
+    "count": 2
+  }
+}

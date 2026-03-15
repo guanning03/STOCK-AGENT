@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures tumble as Trump tariff threats and bond sell-off rattle nerves",
+      "description": "Major gauges slumped as the market reacted to Trump's heavy-handed attempts to buy Greenland outright over the weekend.",
+      "published_utc": "2026-01-19T18:57:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a160d1d7e0b445921df7033f4065b625a0e135eac17a46e8153c8502e6a88b4d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138185673,
+      "datetime": 1768867068
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures sink after Trump targets allies with tariff threat over Greenland",
+      "description": "Major gauges slumped as the market reacted to Trump's heavy-handed attempts to buy Greenland outright over the weekend.",
+      "published_utc": "2026-01-19T18:57:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f8e6f52179604906932900f6b91f58a0f778d62cd07832b7867cf6822a58a793",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138185025,
+      "datetime": 1768867068
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures sink as Trump targets allies with tariff threat over Greenland",
+      "description": "Major gauges slumped as the market reacted to Trump's heavy-handed attempts to buy Greenland outright over the weekend.",
+      "published_utc": "2026-01-19T18:57:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7f4f85acf2a24d8e76fca390017dba7d61eb91b448cd3f1fe298303dd551b4c6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138181936,
+      "datetime": 1768867068
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as Trump targets NATO allies with tariff threat",
+      "description": "Major gauges slumped as the market reacted to Trump's heavy-handed attempts to buy Greenland outright over the weekend.",
+      "published_utc": "2026-01-19T18:57:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=453d45d9cdc2dba036de1cd700fc6bc4b11563c576f20e51d29ee863e7632fc9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138181352,
+      "datetime": 1768867068
+    },
+    {
+      "title": "Dow drops 500 points as Trump's Greenland scheme sparks U.S. capital flight, fear of global trade war: Live updates",
+      "description": "Treasury yields spiked and the U.S. dollar declined as Trump's threat caused a flight from U.S. assets.",
+      "published_utc": "2026-01-19T13:03:31",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=46f8f34c2cc8aa23c4f0e9d59711fccfeb976234605ca481735683ab9fb4e200",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108248840-17677180672026-01-06t164539z_1458669685_rc2pvia9mwdx_rtrmadp_0_usa-stocks.jpeg?v=1768917158&w=1920&h=1080",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138188093,
+      "datetime": 1768845811
+    }
+  ]
+}

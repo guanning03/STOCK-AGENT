@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "The Weekend: Gold rush continues as inflation forecast sours Reeves' Gatwick runway boost",
+      "description": "Key moments from the last seven days, plus a glimpse at the week ahead.",
+      "published_utc": "2025-09-27T08:57:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=724e643c8c5b725df9c07e1fe3b004027dad88f9637d3a24ca32078f3b7e4c65",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136903986,
+      "datetime": 1758977875
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T04:24:27.005480+00:00",
+    "cache_key": "news_f2361f626c4395c41cad78aa8755c2f0",
+    "count": 1
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Goldman Sachs (GS) Rises As Market Takes a Dip: Key Facts",
+      "description": "In the closing of the recent trading day, Goldman Sachs (GS) stood at $794.22, denoting a +1.11% move from the preceding trading day.",
+      "published_utc": "2025-09-17T18:45:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7fde35c9fb2fe47974fe6d5990424f67ee00fc2c594eba55cf7ed7c18dd66ea7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136797656,
+      "datetime": 1758149104
+    },
+    {
+      "title": "Sector Update: Financial Stocks Advance Late Afternoon",
+      "description": "Financial stocks were rising in late Wednesday afternoon trading, with the NYSE Financial Index up 0",
+      "published_utc": "2025-09-17T17:10:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fdfb131ca3c11c969baa5da035b3b6f9bd73b364197770426ffc386a4b1f3c96",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136792177,
+      "datetime": 1758143411
+    },
+    {
+      "title": "Bank Stocks Hold Gains. Fed Sees Improved Growth, but More Rate Cuts.",
+      "description": "Bank stocks are moving higher in the wake of the Federal Reserve rate decision, which included forecasts for firmer growth with largely steady inflation.  Goldman Sachs, the top-performing Dow stock of the year, was 0.8% higher at $790.44.  Fed officials lifted their 2025 GDP forecast to 1.6% from 1.4%, and nudged their 2026 estimate to 1.8% from 1.6%.",
+      "published_utc": "2025-09-17T15:51:45",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dfc8adbb95194a904b4f21807790c8e909c06d3419ebec471d658c034792c00c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136797575,
+      "datetime": 1758138705
+    },
+    {
+      "title": "Morgan Stanley Maintains a Hold Rating on Goldman Sachs Group (GS)",
+      "description": "The Goldman Sachs Group, Inc. (NYSE:GS) is one of the Best Performing Financial Stocks So Far in 2025. On September 4, Betsy Graseck of Morgan Stanley maintained a Hold rating on The Goldman Sachs Group, Inc. (NYSE:GS) with a price target of $706. The analyst noted the company’s recent partnership with T. Rowe Price to […]",
+      "published_utc": "2025-09-17T15:27:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7fe8e59e3283ee74b1cc2109a152ebed34d32ec1f3ef173959fc0d821cef678d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136791620,
+      "datetime": 1758137226
+    },
+    {
+      "title": "Sector Update: Financial Stocks Advance Wednesday Afternoon",
+      "description": "Financial stocks were rising in Wednesday afternoon trading, with the NYSE Financial Index and the F",
+      "published_utc": "2025-09-17T14:47:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e47f52da4453130eaa5ef9bd5fb459c509a02164f648c7e301f311cd5137f9c5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136791621,
+      "datetime": 1758134835
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:56:57.960006+00:00",
+    "cache_key": "news_d2eb04d68824adaf688af92c5cee73b6",
+    "count": 5
+  }
+}

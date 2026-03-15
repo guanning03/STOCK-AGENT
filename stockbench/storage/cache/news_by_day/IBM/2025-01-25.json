@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "id": "37d3579649e7fd9a652f293c7d0fed6792090da29cd18ec688a7ee992498a3db",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Smartest Quantum Computing Stocks to Buy With $1000 Right Now",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-25T10:10:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/25/the-smartest-quantum-computing-stocks-to-buy-with/?source=iedfolrf0000001",
+      "tickers": [
+        "IBM",
+        "GOOG",
+        "GOOGL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804915/gettyimages-2156615862.jpg",
+      "description": "Quantum computing is an exciting but still largely unproven technology, with useful applications likely years away. The article recommends investing in tech giants IBM and Alphabet as low-risk ways to gain exposure to the quantum computing space.",
+      "keywords": [
+        "quantum computing",
+        "IBM",
+        "Alphabet",
+        "investment"
+      ],
+      "insights": [
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IBM has been a pioneer in quantum computing, with a roadmap for more powerful quantum computers in the coming years. Even if quantum computing doesn't live up to the hype, IBM is a diversified tech giant with other strong business segments."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet has also made significant progress in quantum computing, demonstrating the ability to reduce errors as it scales up the number of qubits. Like IBM, Alphabet is a diversified tech company that can benefit from quantum computing advancements, even if the technology takes longer to become commercially viable."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet has also made significant progress in quantum computing, demonstrating the ability to reduce errors as it scales up the number of qubits. Like IBM, Alphabet is a diversified tech company that can benefit from quantum computing advancements, even if the technology takes longer to become commercially viable."
+        }
+      ]
+    }
+  ]
+}

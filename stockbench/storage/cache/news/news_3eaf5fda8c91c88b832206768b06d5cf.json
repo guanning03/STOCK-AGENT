@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "U.S. Dollar Index Tries To Break 2026 Downtrend Despite 14-Year Record Bear Positioning",
+      "description": "The US dollar maintains its rebound since Warsh's nomination but still seeks momentum.",
+      "published_utc": "2026-02-17T18:20:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bbba451b9bd21556d75bf4694247bc13eece976b3db5a8d8750754951f99d0b2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2200083779/image_2200083779.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139129253,
+      "datetime": 1771370400
+    },
+    {
+      "title": "Dow Jones And U.S. Index Outlook: Traders Are Looking For Direction",
+      "description": "US stock benchmarks are starting the week confused, looking for direction.",
+      "published_utc": "2026-02-17T17:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9f76819ac990fba524dfc3494aad3e3b674afd14c307099ae81d77203dff4c19",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2191058725/image_2191058725.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139128932,
+      "datetime": 1771368000
+    },
+    {
+      "title": "A Little-Known $1 Billion ETF Charges Just 0.05% and Outperformed SPY Last Year",
+      "description": "The Strive 500 ETF (NYSEARCA:STRV) has delivered 12.6% returns over the past year, outpacing the SPDR S&P 500 ETF Trust (NYSEARCA:SPY), which gained 11.8% over the same period. This outperformance demonstrates how the fund’s low-cost structure and strategic positioning have captured the market’s growth trajectory, with the fund nearly doubling in value since its September ... A Little-Known $1 Billion ETF Charges Just 0.05% and Outperformed SPY Last Year",
+      "published_utc": "2026-02-17T15:30:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=524c413f5d42c5186b8fe909ff5ee79bdda83119980a0d98fe43d29940525dc0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139126480,
+      "datetime": 1771360257
+    },
+    {
+      "title": "Rates Spark: Quiz Time",
+      "description": "",
+      "published_utc": "2026-02-17T14:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1682afdfd12c7c2f810b20c8b0b61fc957e62b0a48c1b933c11158838f66ae10",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139127809,
+      "datetime": 1771357500
+    },
+    {
+      "title": "January CPI Report: Unusually Cooler Than Normal",
+      "description": "Consumer prices in January came in softer than expected, with the annual headline rate easing to 2.4%, from 2.7% previously.",
+      "published_utc": "2026-02-17T13:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=316a099407092749dd8b1df7a5d6132acb90001671f5da3330eac129e3410417",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2209777691/image_2209777691.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139127182,
+      "datetime": 1771353600
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:16:08.958554+00:00",
+    "cache_key": "news_3eaf5fda8c91c88b832206768b06d5cf",
+    "count": 5
+  }
+}

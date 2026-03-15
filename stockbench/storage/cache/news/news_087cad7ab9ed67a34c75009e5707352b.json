@@ -1,0 +1,161 @@
+{
+  "items": [
+    {
+      "title": "Microsoft, Meta Set To Report Earnings As Investors Watch Out For Trump-Xi, Fed Meeting",
+      "description": "This week will witness earnings releases from the Magnificent 7 stocks. Investors will await news from Trump-Xi meeting. Read here for more details.",
+      "published_utc": "2025-10-25T07:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d5db441f4ccd9be07a8c416bf0dd115788548310d8ae67d27bbe6f36a1335745",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137207189,
+      "datetime": 1761390000
+    },
+    {
+      "title": "MP Materials: Rare Earth Exuberance Well Warranted But Prematurely Priced-In",
+      "description": "MP benefits from its unique U.S. rare earth position and key partnerships but faces near-term output and valuation challenges. Find out why MP stock is a hold.",
+      "published_utc": "2025-10-25T05:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e4cfc4e56f0f82d5f31fc758540dd78d1abd21ab74faba863447ebd65ae8b9d9",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2208923946/image_2208923946.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137206830,
+      "datetime": 1761382800
+    },
+    {
+      "title": "This Week In Markets: Earnings, Inflation, And Geopolitical Shifts",
+      "description": "Corporate earnings were the primary market driver this week, fueling sector-specific rallies and helping equities reclaim record levels.",
+      "published_utc": "2025-10-24T22:44:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bfc31fe75b5c863d4c55d411cce0ba9692135739721c602056ed365e303b723a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1892797470/image_1892797470.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137205490,
+      "datetime": 1761360240
+    },
+    {
+      "id": "cc46595c3ab83ee5715b4b7ef8899eba4e5a32ca8ebffc5eb18c92b377964c0c",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is the Vanguard Russell 2000 Index Fund ETF a Buy Now?",
+      "author": "Neil Patel",
+      "published_utc": "2025-10-25T12:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/10/25/vanguard-russell-2000-index-fund-etf-a-buy-now/?source=iedfolrf0000001",
+      "tickers": [
+        "VTWO",
+        "CRDO",
+        "NVDA",
+        "AAPL",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/839040/newspaper-etf-where-to-invest-your-money.jpg",
+      "description": "The Vanguard Russell 2000 ETF provides broad small-cap stock exposure but has underperformed the S&P 500 over the past decade. While it offers diversification and low expenses, it lacks exposure to major tech companies benefiting from the AI boom.",
+      "keywords": [
+        "small-cap stocks",
+        "ETF",
+        "Russell 2000",
+        "diversification",
+        "investment strategy"
+      ],
+      "insights": [
+        {
+          "ticker": "VTWO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The ETF offers diversification and low expenses, but has lagged behind the S&P 500 and lacks exposure to major tech companies driving market growth"
+        },
+        {
+          "ticker": "CRDO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as the largest holding in the ETF, but no specific performance details provided"
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Highlighted as a monster success benefiting from the AI boom, though not part of the Russell 2000 ETF"
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mentioned as a successful company driving stock market performance"
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Noted as a successful company contributing to market growth"
+        }
+      ]
+    },
+    {
+      "id": "523b8641aa1a4c9f01385d8be472a92fffa7afeb2e22bc0d935e11b6b274761b",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Smartest Vanguard ETF to Buy With $500 Right Now",
+      "author": "Neil Patel",
+      "published_utc": "2025-10-25T11:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/10/25/smartest-vanguard-etf-to-buy-with-500-right-now/?source=iedfolrf0000001",
+      "tickers": [
+        "VOO",
+        "NVDA",
+        "MSFT",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/836738/hands-typing-on-keyboard-with-etf-sign.jpg",
+      "description": "The article recommends the Vanguard S&P 500 ETF (VOO) as a smart investment, highlighting its low expense ratio, broad market exposure, and historical performance tracking the S&P 500 index.",
+      "keywords": [
+        "ETF",
+        "investment",
+        "S&P 500",
+        "passive investing",
+        "technology",
+        "market trends"
+      ],
+      "insights": [
+        {
+          "ticker": "VOO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Offers low-cost exposure to 500 large U.S. companies, has historically generated around 10% annual returns, and provides diversification across economic sectors"
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Highlighted as a monster success in technology sector, benefiting from AI and cloud computing trends"
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mentioned as one of the most valuable tech companies driving market performance"
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Noted as one of the most valuable enterprises globally, contributing significantly to tech sector performance"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:55:11.351909+00:00",
+    "cache_key": "news_087cad7ab9ed67a34c75009e5707352b",
+    "count": 5
+  }
+}

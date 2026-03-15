@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Salesforce earnings, JOLTS data, Fed comments: What to Watch",
+      "description": "Market Domination Overtime host Josh Lipton takes a look at the top stories for investors to watch on Wednesday, Sept. 3. Dollar Tree (DLTR), Campbell's (CPB), and Macy's (M) report quarterly earnings results in the morning. In the afternoon, Salesforce (CRM), Hewlett Packard Enterprise (HPE), and American Eagle Outfitters (AEO) will announce earnings. In the morning, the US Bureau of Labor Statistics (BLS) will post the Job Openings and Labor Turnover Survey (JOLTS) data for July. Economists expect the number of job openings to drop to 7.37 million from June's 7.44 million. St. Louis Federal Reserve President Alberto Musalem is delivering remarks in the morning, and Minneapolis Fed President Neel Kashkari will speak in the afternoon. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.",
+      "published_utc": "2025-09-02T19:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f0a110e85823cc082030ffa5e6f1c6824d2d37b9855e05edb4ef198bbf95636a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136610128,
+      "datetime": 1756854000
+    },
+    {
+      "title": "Markets Sell Off on Noise About Tariffs, etc.",
+      "description": "We kick off the historically weak trading month of September with the Dow closing -0.55%, the S&P 500 -0.69% and the Nasdaq -0.60%.",
+      "published_utc": "2025-09-02T18:41:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b4aa324ade95cb540fe0aec012a323df7da6bdae96028c3bd527e195f1c48e6c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136613004,
+      "datetime": 1756852860
+    },
+    {
+      "title": "Salesforce CEO Marc Benioff says he cut 4,000 support roles because of AI",
+      "description": "The remarks come as Salesforce promotes the use of \"AI agents\" for employee support and customer service.",
+      "published_utc": "2025-09-02T17:38:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3f9125fcb461b81740c63013e89fb42e63013256e69eeb03ed6e152e0ff55a05",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136613005,
+      "datetime": 1756849101
+    },
+    {
+      "title": "How Generative Artificial Intelligence Is Shaking Up Enterprise Software",
+      "description": "Since generative artificial intelligence arrived, a big debate on Wall Street has been its impact on enterprise software companies.",
+      "published_utc": "2025-09-02T15:45:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0dc3f3c736f3b98d8f361c31e28830bf217bd36119e45c7cf8e4918c7d54d244",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136612943,
+      "datetime": 1756842310
+    },
+    {
+      "title": "NOW Rides on Rich Partner Base: Is the Growth Thesis Strengthening?",
+      "description": "ServiceNow's partner-driven innovation fuels 22.4% revenue growth and a raised 2025 subscription outlook despite stiff competition.",
+      "published_utc": "2025-09-02T14:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d1d743e3a78ffb8a080c225ddd2492636d35c372d66d1d2a1281b0ea2757c28f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136612970,
+      "datetime": 1756837980
+    }
+  ]
+}

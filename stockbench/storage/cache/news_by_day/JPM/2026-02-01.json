@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Wall Street banks, crypto leaders set to meet in Washington with landmark Clarity Act hanging in the balance",
+      "description": "Wall Street banks and crypto leaders, notably Coinbase, will meet in D.C. on Monday to hammer out details of the latest signature piece of crypto legislation.",
+      "published_utc": "2026-02-01T09:30:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d17fe976d827dd775be05476efb1475bfb1f78425306be864a064c1312da3f34",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138324392,
+      "datetime": 1769956208
+    },
+    {
+      "title": "How Retirement Contributions Compare Within Your Age Group And Why You Should Care",
+      "description": "From Gen Z to Boomers, a new look at workplace retirement plans reveals wide differences in how people contribute—and how much impact even a small change can make.",
+      "published_utc": "2026-02-01T07:11:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=44b88608f63a3c20fdb647bc970df085b00f4de83cb5712ed21a36b7f8ab2d64",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138323750,
+      "datetime": 1769947860
+    },
+    {
+      "title": "Luxury Card Cage Match Heats Up With Rising Perks, Prices",
+      "description": "Credit card issuers are enticing big spenders with luxurious perks and prestige brands, funded in part by fees that are higher than ever.",
+      "published_utc": "2026-02-01T00:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fc00e1a6d4342d3e85abeeee5a548d77265b80a68f5c8668d066f41345c495bd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138323751,
+      "datetime": 1769922060
+    }
+  ]
+}

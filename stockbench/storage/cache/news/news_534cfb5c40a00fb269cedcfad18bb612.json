@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "What are HALO Stocks and Should You Invest in Them This Year?",
+      "description": "Investors are seeking out stocks that are less vulnerable to AI disruption.",
+      "published_utc": "2026-02-28T10:47:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=78d6c8f9056bffde7d14a3621e1977ee52277775320f014ace7c457663f3fbf4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139264428,
+      "datetime": 1772293620
+    },
+    {
+      "title": "AI “factor flip”: Why Wall Street is dumping tech quality for traditional value",
+      "description": "The quantitative strategies that have governed trillions of dollars in global capital are facing a historic identity crisis. As artificial intelligence reshapes the economic landscape, long-held definitions of \"safe\" and \"expensive\" stocks are being turned upside down.",
+      "published_utc": "2026-02-27T19:50:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a024cbd8f267f967cb608d38c2ee822e96c0a25ddf58f6ca00c5122493783211",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139258789,
+      "datetime": 1772239816
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:46:42.526140+00:00",
+    "cache_key": "news_534cfb5c40a00fb269cedcfad18bb612",
+    "count": 2
+  }
+}

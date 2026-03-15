@@ -1,0 +1,180 @@
+{
+  "items": [
+    {
+      "title": "Jamie Dimon shares why he never reads text messages at work: 'I don't have notifications'",
+      "description": "\"The only notifications I get is from my kids,\" JPMorgan boss Jamie Dimon said about his phone habits at work.",
+      "published_utc": "2025-11-08T17:08:32",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=126a6604e65a725e39cbf7d9a2ad4da18aa2b5fa3b50488aa5c499762274121a",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108114999-1741804180208-gettyimages-2204125628-BLACKROCK_RETIREMENT.jpeg?v=1762449895&w=1920&h=1080",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137387116,
+      "datetime": 1762639712
+    },
+    {
+      "id": "cdfaa16d6983d83d9909930f9b35dfbbda927b1bf627a9b9d5c4e93b668e59ec",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Zastre & Co Opens Vancouver Office, Expanding Elite Boutique Advisory Platform Across North America",
+      "author": "Alex Zastre",
+      "published_utc": "2025-11-08T10:58:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/11/08/3184052/0/en/Zastre-Co-Opens-Vancouver-Office-Expanding-Elite-Boutique-Advisory-Platform-Across-North-America.html",
+      "tickers": [
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "VYLD",
+        "HSBC",
+        "DB",
+        "DGP",
+        "DGZ",
+        "DZZ",
+        "RY"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/810a7afa-567e-45ed-bab3-b323ef5b8f62",
+      "description": "Zastre & Co, a digital investment banking firm, announced the opening of its new downtown Vancouver office, marking a significant milestone in its North American growth strategy. The firm focuses on Private Credit, Growth Equity, and M&A advisory services, leveraging technology and senior banking expertise.",
+      "keywords": [
+        "investment banking",
+        "digital infrastructure",
+        "private markets",
+        "capital advisory",
+        "Vancouver"
+      ],
+      "insights": [
+        {
+          "ticker": "AMJB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a previous employer of Zastre & Co's founding team, with no direct positive or negative implications"
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a previous employer of Zastre & Co's founding team, with no direct positive or negative implications"
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a previous employer of Zastre & Co's founding team, with no direct positive or negative implications"
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a previous employer of Zastre & Co's founding team, with no direct positive or negative implications"
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a previous employer of Zastre & Co's founding team, with no direct positive or negative implications"
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a previous employer of Zastre & Co's founding team, with no direct positive or negative implications"
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a previous employer of Zastre & Co's founding team, with no direct positive or negative implications"
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a previous employer of Zastre & Co's founding team, with no direct positive or negative implications"
+        },
+        {
+          "ticker": "VYLD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a previous employer of Zastre & Co's founding team, with no direct positive or negative implications"
+        },
+        {
+          "ticker": "HSBC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a previous employer of Zastre & Co's founding team, with no direct positive or negative implications"
+        },
+        {
+          "ticker": "DB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a previous employer of Zastre & Co's founding team, with no direct positive or negative implications"
+        },
+        {
+          "ticker": "DGP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a previous employer of Zastre & Co's founding team, with no direct positive or negative implications"
+        },
+        {
+          "ticker": "DGZ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a previous employer of Zastre & Co's founding team, with no direct positive or negative implications"
+        },
+        {
+          "ticker": "DZZ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a previous employer of Zastre & Co's founding team, with no direct positive or negative implications"
+        },
+        {
+          "ticker": "RY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a previous employer of Zastre & Co's founding team, with no direct positive or negative implications"
+        }
+      ]
+    },
+    {
+      "title": "Don't want to pay $895 for the Amex Platinum? Here are 10+ low-cost alternatives",
+      "description": "No single card can replace everything the Amex Platinum offers, but do you really need all of its benefits?",
+      "published_utc": "2025-11-08T03:10:01",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=9dab0660ae49ebb34cb38d5c453ff6f6e352847ef02c7acb09eedc826949c2fe",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108218926-1761766605739-gettyimages-1474166577-6a7a5559.jpeg?v=1761766637&w=1920&h=1080",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137379743,
+      "datetime": 1762589401
+    },
+    {
+      "title": "How To Prepare For The Market Top",
+      "description": "Read about how a bucket-based portfolio strategy can help retirees invest near market highs with diversification, reduced risk, and steady growth.",
+      "published_utc": "2025-11-08T03:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e6f129ce597cb66381a61f5907fe35d1998c4fe61d2da42ded56a0058480c94c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2163675219/image_2163675219.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137378179,
+      "datetime": 1762589100
+    },
+    {
+      "title": "JPMorgan Chase’s Soaring Skyscraper With Human Spirit",
+      "description": "JPMorgan Chase’s Soaring Skyscraper With Human Spirit",
+      "published_utc": "2025-11-08T02:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=bba46803dba8fcfd67ed61f5d6828a5e45f55ce1d1bbe2ea9c47b330ad72059f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137456148,
+      "datetime": 1762585200
+    }
+  ]
+}

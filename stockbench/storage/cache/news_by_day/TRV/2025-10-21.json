@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "RLI's Q3 Earnings, Revenues Beat Estimates on Solid Underwriting",
+      "description": "RLI posts strong Q3 numbers, with earnings and revenues beating estimates, fueled by solid underwriting and investment income growth.",
+      "published_utc": "2025-10-21T13:37:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=741f02eabb8a5fdfb065b64ac5d8a92590734ac71d6382d5b2981170a45111c9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137183019,
+      "datetime": 1761068220
+    },
+    {
+      "title": "W.R. Berkley Q3 Earnings, Revenues Top on Solid Underwriting",
+      "description": "W.R. Berkley posts strong Q3 results as underwriting and investment income power an 18% earnings jump and a revenue beat.",
+      "published_utc": "2025-10-21T13:31:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=852eaa62482aacccd70a085b975af945cbdba2fae5033d2ab2e4ca375bb42ecd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137180753,
+      "datetime": 1761067860
+    }
+  ]
+}

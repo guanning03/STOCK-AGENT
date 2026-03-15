@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Bond Yields Break The Bull",
+      "description": "Wednesday delivered a reminder that stocks donât float when bond yields flood the room.",
+      "published_utc": "2025-05-21T19:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9cb82e1131cd3fea545cc00c892722650914432293162ab554ca6be9b533a374",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/503640774/image_503640774.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134631689,
+      "datetime": 1747868700
+    },
+    {
+      "title": "'CMS Rolls Out Aggressive Strategy To Enhance And Accelerate Medicare Advantage Audits; Agency Will Begin Auditing All Eligible Medicare Advantage Contracts Each Payment Year And Add Resources To Expedite Completion Of 2018 To 2024 Audits'",
+      "description": "CMS Rolls Out Aggressive Strategy to Enhance and Accelerate Medicare Advantage Audits",
+      "published_utc": "2025-05-21T12:44:24",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f431c52f637032601d8bad2a80af13ebb53491945accd5daa2d8b12a8eaf82a6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138790947,
+      "datetime": 1747845864
+    },
+    {
+      "title": "The Market Is About To Trigger Its Biggest Bull Trap Yet",
+      "description": "",
+      "published_utc": "2025-05-21T11:28:45",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=734b5749e82ed13dacbd71ce4bc91a214522bde6a6a74861de43d74fd5f9f6e4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134627720,
+      "datetime": 1747841325
+    },
+    {
+      "title": "Treasury Yields Top 5%: These 20 Stocks Tanked In Just One Hour",
+      "description": "The selloff came as investors repriced risk across equities amid fears of persistently higher rates, sparked by soft demand at the 20-year Treasury auction.",
+      "published_utc": "2025-05-21T10:46:03",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=42c5d8398c02f4377849a14826f0f29451389bc8a49fcf6ce64f96bac742f925",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/05/21/Stock-Market-Exchange-Loss-Trading-Graph_0.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138541768,
+      "datetime": 1747838763
+    },
+    {
+      "title": "'What's Inside RFK Jr.'s MAHA Report'- Wall Street Journal",
+      "description": "https://www.wsj.com/politics/policy/rfk-jr-maha-commission-report-5c13696d",
+      "published_utc": "2025-05-21T10:19:59",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=da474e92300e58791e5f198041df24d3c3aafc600e8ca88296f7725eecb2ce3a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138588423,
+      "datetime": 1747837199
+    }
+  ]
+}

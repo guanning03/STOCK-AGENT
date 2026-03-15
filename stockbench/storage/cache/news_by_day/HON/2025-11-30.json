@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "How black boxes became key to solving airplane crashes",
+      "description": "Flight data recorders and cockpit voice recorders, called \"black boxes\" are nearly indestructible.",
+      "published_utc": "2025-11-30T04:00:01",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=a5dc44860698622e0e40a27369cbc3ca0cf017b7c8037a9157c195a11270d67e",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108233528-1764345195668-GettyImages-468121574.jpg?v=1764345347&w=1920&h=1080",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137645183,
+      "datetime": 1764493201
+    }
+  ]
+}

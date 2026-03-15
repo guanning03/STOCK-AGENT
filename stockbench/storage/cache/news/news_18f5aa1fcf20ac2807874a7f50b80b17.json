@@ -1,0 +1,66 @@
+{
+  "items": [
+    {
+      "id": "ae4fca94acfaabce29b5e9ae6b2abfab84fae347f51bcb8bf5fb628e4ff8528d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Every Stock Warren Buffett Has Said He'd Own Practically Forever",
+      "author": "Keith Speights",
+      "published_utc": "2025-01-13T10:51:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/13/every-stock-warren-buffett-has-said-hed-own-practi/?source=iedfolrf0000001",
+      "tickers": [
+        "KO",
+        "AXP",
+        "OXY",
+        "OXY.WS",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803490/buffett12-tmf.jpg",
+      "description": "Warren Buffett has revealed the stocks he plans to hold indefinitely, including Coca-Cola, American Express, Occidental Petroleum, and several Japanese trading companies. He also considers Apple a 'forever' stock, despite recent portfolio changes.",
+      "keywords": [
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "Coca-Cola",
+        "American Express",
+        "Occidental Petroleum",
+        "Apple"
+      ],
+      "insights": [
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Buffett has praised Coca-Cola as a 'truly wonderful business' that he expects to 'maintain indefinitely'."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Buffett has lauded American Express as a 'truly wonderful business' that he plans to own indefinitely."
+        },
+        {
+          "ticker": "OXY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Buffett has aggressively bought Occidental Petroleum shares, citing the company's vast oil and gas holdings and leadership in carbon-capture initiatives."
+        },
+        {
+          "ticker": "OXY.WS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Buffett has aggressively bought Occidental Petroleum shares, citing the company's vast oil and gas holdings and leadership in carbon-capture initiatives."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Buffett considers Apple an 'even better business' than Coca-Cola and plans to keep it in Berkshire's portfolio 'unless something really extraordinary happens'."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:42:01.423283+00:00",
+    "cache_key": "news_18f5aa1fcf20ac2807874a7f50b80b17",
+    "count": 1
+  }
+}

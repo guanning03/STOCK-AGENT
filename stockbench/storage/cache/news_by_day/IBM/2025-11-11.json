@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+      "description": "The Dow closed at a record high on Tuesday, but the Nasdaq ended the lower as investors shifted away from technology stocks.",
+      "published_utc": "2025-11-11T14:41:12",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=d2a33f68e42c3672fc3c8cf61ae008e4056834c5175828064ac6443cc0bbd1bd",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108220650-1762187355170-Traders-Photo-20251102-KK-PRESS-006.jpg?v=1762187577&w=1920&h=1080",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137460453,
+      "datetime": 1762890072
+    },
+    {
+      "title": "Jim Cramer Prefers D-Wave Over BTQ as a Quantum Computing Pick",
+      "description": "BTQ Technologies Corp. (NASDAQ:BTQ) is one of the stocks Jim Cramer offered insights on. During the lightning round, a caller asked about the company, and Cramer commented: “Okay, look, I think that that’s going to be yours, that’s a speculation for you, if you’re going to speculate in quantum. For me, it’s going to be […]",
+      "published_utc": "2025-11-11T14:34:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1590418c56b57bb304df36df1f73171e5489984368be150df65f520d952a6915",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137449905,
+      "datetime": 1762889683
+    },
+    {
+      "title": "Dow rallies 300 points to new record with shutdown set to end Wednesday: Live updates",
+      "description": "Tuesday saw a tale of two markets emerge — the 30-stock Dow rallied more than 550 points to close at a record high, while the Nasdaq Composite slipped.",
+      "published_utc": "2025-11-11T13:02:31",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=57f37977ae01e1ff16012941b1216d76f5a33692ee85a7dbd95ac41ebbb99d31",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108223050-1762951213250-108223050-1762529069072-gettyimages-2245509844-anotherday142727029_rlpy8e5r.jpg?v=1762951220&w=1920&h=1080",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137460456,
+      "datetime": 1762884151
+    },
+    {
+      "title": "IBM, IBD Stock Of The Day, Near Buy Point Amid AI Software, Quantum Computing Push",
+      "description": "IBM stock has gained 43% in 2025 and is near a new buy point. Wall Street is focused on its software business, AI outlook and goal to be a leader in quantum computing.",
+      "published_utc": "2025-11-11T12:21:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2ec472cbf90bba0deb021794e399fde20f196399644eb4681daba48751b11ed4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137448788,
+      "datetime": 1762881698
+    },
+    {
+      "title": "'That World Has Changed': Alex Gorsky on Shift to Regionalization",
+      "description": "Alex Gorsky, board director for Apple, IBM, and JPMorgan Chase, discusses the end of the 30-year globalization era as businesses begin to take a more regionalized approach.",
+      "published_utc": "2025-11-11T11:59:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f8c9d46b0f8c239ef275a7e7abcdca0711854f11002128303dcbdbfe5af9e449",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137448492,
+      "datetime": 1762880340
+    }
+  ]
+}

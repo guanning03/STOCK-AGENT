@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Weekly Commentary: A Feature, Not A Bug",
+      "description": "Companies borrowed a record $207B in the US investment-grade market in Sept., more than Wall Street's top underwriter of the debt, Bank of America, expected. Read more here.",
+      "published_utc": "2025-10-03T23:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=baeda45f3a8d07bf65b89ffabb8c76a36657bfe2e32d05dabb73f6197d2a40d6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1389361449/image_1389361449.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136970399,
+      "datetime": 1759548900
+    },
+    {
+      "title": "Government Shutdown 2025: Why Prolonged Gridlock Could Trigger Sharp Interest Rate Cuts",
+      "description": "Government shutdowns impact markets, jobs, and investment strategies. Read here for an analysis of the current economy here.",
+      "published_utc": "2025-10-03T22:41:59",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1c58670185aceb29ee505652123d951df01c1b59ed586f4715fc64b6a7a0090a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2195702653/image_2195702653.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136970174,
+      "datetime": 1759545719
+    }
+  ]
+}

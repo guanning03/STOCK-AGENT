@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Dow Jones Tops 50,000 With Apple, Boeing, These AI Stocks New Buys, But Market Still Divided",
+      "description": "The Dow Jones topped 50,000 for the first time, with JPMorgan, Apple and Boeing in buy areas. The Nasdaq is ailing, but these AI stocks are reviving.",
+      "published_utc": "2026-02-07T09:10:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=70bc6a30a82b764a82ee66890d598b53a2456e132aede7956a77268ae041c77d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138385611,
+      "datetime": 1770473416
+    }
+  ]
+}

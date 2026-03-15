@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Boeing Sales Need A Mammoth December To Reach Q4 Targets",
+      "description": "Boeing's sales for the month of November fell compared with the two previous years. In November, Boeing (BA) delivered 44 total new planes to customers, according to Deutsche Bank. That number is down from 48 in 2024 and 56 in 2023. Boeing's November Deliveries The November figures mean Boeing will have to deliver an exceptionally strong December to reach the...",
+      "published_utc": "2025-12-01T14:34:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c4e831a854fb971dbc232333a211208993c874b8b7b1df36f3db5a9d00b72b7b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137659262,
+      "datetime": 1764617693
+    },
+    {
+      "title": "Airbus Stock Retreats On Recall After Major Software Glitch",
+      "description": "Airbus Stock Retreats On Recall After Major Software Glitch",
+      "published_utc": "2025-12-01T11:36:25",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=0d67d75c6641d6144f172f817bc96733b46831f263dba8b85b4dfa1e3866e517",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137683609,
+      "datetime": 1764606985
+    },
+    {
+      "title": "Meta's Instagram orders employees back to the office 5 days a week",
+      "description": "The RTO policy only applies to Instagram and not to Meta's other family of apps, like Facebook and WhatsApp.",
+      "published_utc": "2025-12-01T11:27:09",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=d51b494ee8b340b12c845a8ccd0e27991f5c797f216bad23729c46787d860a5d",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108036048-1726683556003-gettyimages-2172931780-bb2_5242_hfdmz6f1.jpeg?v=1764623254&w=1920&h=1080",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137663911,
+      "datetime": 1764606429
+    },
+    {
+      "title": "How a Solar Flare Grounded Airbus Planes—and Knocked Down Its Stock",
+      "description": "How a Solar Flare Grounded Airbus Planes—and Knocked Down Its Stock",
+      "published_utc": "2025-12-01T11:10:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b8f9d6f4b7944b50a164b003501770b0fe31bdf50c6ab1057e09f9e35871bbfa",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137700966,
+      "datetime": 1764605400
+    },
+    {
+      "title": "RTX's Unit Secures a Contract for Sustainment in Support of F-35 Jets",
+      "description": "RTX's unit Pratt & Whitney wins a $1.61B deal to sustain F-35 propulsion systems through 2026, expanding its global defense footprint.",
+      "published_utc": "2025-12-01T08:58:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7cb5d4732f063eac9eb1d52ff5e9df9072ae349751a0df4573ec5ae8438f5c31",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137654386,
+      "datetime": 1764597480
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:53:53.798807+00:00",
+    "cache_key": "news_26ac7899d254c40b0737a3616c8aac04",
+    "count": 5
+  }
+}

@@ -1,6 +1,81 @@
 {
   "items": [
     {
+      "title": "ClearBridge Large Cap Growth Fund Q1 2025 Commentary",
+      "description": "The S&P 500 Index declined 4.27% while the benchmark Russell 1000 Growth Index (RLG) fell 9.97%, trailing its value counterpart by over 1,200 basis points.",
+      "published_utc": "2025-04-27T19:02:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c5382aa45a906d8a8f0fd4f09e661c99fde4fdc5a873e332a6b84cee15c72c09",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1367307622/image_1367307622.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134110394,
+      "datetime": 1745794920
+    },
+    {
+      "title": "Sam Altman Admits ChatGPT New Upgrade Made It Too Sycophantic And Annoying: OpenAI CEO Says 'Working On Fixes ASAP'",
+      "description": "OpenAI CEO Sam Altman admitted recent GPT-4o updates made the AI &#34;too sycophant-y and annoying,&#34; promising fixes this week and hinting at future personality customization options.",
+      "published_utc": "2025-04-27T17:38:04",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=7829bfb7d541ff8e9a98783eecf3eb65a5f0bd15fbfb29f5d5027ce54280ab37",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/04/27/Brooklyn--Ny--Usa--11-22-20-Sam-Altman-A.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138610865,
+      "datetime": 1745789884
+    },
+    {
+      "title": "Is Microsoft (MSFT) Among the Best Self-Driving Car Stocks to Buy According to Analysts?",
+      "description": "We recently compiled a list of the 11 Best Self-Driving Car Stocks to Buy According to Analysts. In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against the other self-driving car stocks. The term “self-driving car stocks” describes publicly traded businesses engaged in creating, manufacturing, or using autonomous vehicle […]",
+      "published_utc": "2025-04-27T14:41:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0034f05f2599bc8bd7cf937524cedffd5e5f244213dcf7127ce926622cf9e2a5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134114909,
+      "datetime": 1745779295
+    },
+    {
+      "title": "Wall Street Brunch: Four More Mag 7 Plus Jobs And GDP",
+      "description": "Four Magnificent 7 earnings reports will test the market. Bond market will focus on GDP and April Jobs numbers. Bessent says he does not know if Trump has spoken with Xi.",
+      "published_utc": "2025-04-27T12:11:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=57668f6f21f961f8517944a4a71a4ce26178f1a1f3d8f63fc3512ef493667cb7",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/683680970/image_683680970.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134108776,
+      "datetime": 1745770260
+    },
+    {
+      "title": "More tech heavyweights set to report earnings after Alphabet offers some hope amid tariff fears",
+      "description": "More tech heavyweights set to report earnings after Alphabet offers some hope amid tariff fears",
+      "published_utc": "2025-04-27T11:11:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=9f5b6788dccc0b472eac013e3c015cd2e80c682e9b91b03a1945b953b499b14a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134126478,
+      "datetime": 1745766660
+    },
+    {
       "title": "A Reckoning for the Magnificent Seven Tests the Market",
       "description": "A Reckoning for the Magnificent Seven Tests the Market",
       "published_utc": "2025-04-27T05:00:00",

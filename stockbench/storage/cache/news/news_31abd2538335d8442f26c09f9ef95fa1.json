@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": "e88f69a982ed9db1527a392c3e8a1a7eb36f53afc56b671d32dad026db392f30",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Construction Dumpers Strategic Industry Report 2024: Global Market to Reach $2.6 Billion by 2030, Meeting the Challenges of Complex Projects with Advanced Construction Dumpers",
+      "author": "Na",
+      "published_utc": "2025-01-15T09:36:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/15/3009807/28124/en/Construction-Dumpers-Strategic-Industry-Report-2024-Global-Market-to-Reach-2-6-Billion-by-2030-Meeting-the-Challenges-of-Complex-Projects-with-Advanced-Construction-Dumpers.html",
+      "tickers": [
+        "CAT",
+        "DE",
+        "KMTUY"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The global construction dumper market is expected to grow from $2.1 billion in 2023 to $2.6 billion by 2030, driven by factors like increasing construction complexity, technological advancements, and sustainable practices. The report provides insights into key market segments, regional trends, and leading players in the industry.",
+      "keywords": [
+        "construction dumpers",
+        "construction industry",
+        "technology",
+        "sustainability"
+      ],
+      "insights": [
+        {
+          "ticker": "CAT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Caterpillar, Inc. as one of the key players in the construction dumper market, indicating that the company is well-positioned to benefit from the growth in the industry."
+        },
+        {
+          "ticker": "DE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Deere & Company as one of the leading players in the construction dumper market, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "KMTUY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Komatsu Ltd. as one of the leading players in the construction dumper market, but does not provide any specific information about the company's performance or outlook."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:50:33.251465+00:00",
+    "cache_key": "news_31abd2538335d8442f26c09f9ef95fa1",
+    "count": 1
+  }
+}

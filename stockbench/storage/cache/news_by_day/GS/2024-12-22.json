@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "id": "41440f913d9d9a1ad410a0d4dbba3d0037219c87c2814dac8de99ad16454de44",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "This Stock Market Mistake Was Very Costly in 2024. Here's What Investors Must Know for 2025.",
+      "author": "Trevor Jennewine",
+      "published_utc": "2024-12-22T09:35:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/22/stock-market-mistake-costly-2024-investors-must-kn/?source=iedfolrf0000001",
+      "tickers": [
+        "FDS",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801868/investor-2.jpg",
+      "description": "Investors who avoided the stock market due to valuation concerns in 2024 likely paid a high price for sitting on the sidelines. The S&P 500 trades at an expensive valuation, but attempting to time the market often leads to missed gains. Investors should continue investing through good and bad times, as stock market corrections are inevitable but the market tends to recover.",
+      "keywords": [
+        "stock market",
+        "valuation",
+        "market timing",
+        "S&P 500"
+      ],
+      "insights": [
+        {
+          "ticker": "FDS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article cites FactSet Research Systems as a source for historical data on the S&P 500's forward P/E ratio."
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article quotes Goldman Sachs analysts who advise that the potential benefit of investing, even at an inopportune time, outweighs the downside of not investing at all."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article quotes Goldman Sachs analysts who advise that the potential benefit of investing, even at an inopportune time, outweighs the downside of not investing at all."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article quotes Goldman Sachs analysts who advise that the potential benefit of investing, even at an inopportune time, outweighs the downside of not investing at all."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article quotes Goldman Sachs analysts who advise that the potential benefit of investing, even at an inopportune time, outweighs the downside of not investing at all."
+        }
+      ]
+    }
+  ]
+}

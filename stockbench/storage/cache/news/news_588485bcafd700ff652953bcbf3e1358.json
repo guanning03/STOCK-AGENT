@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Microsoft reports strong earnings as Azure hit by major outage",
+      "description": "Tech giant reports earnings of $3.72 per share day after deal with OpenAI pushed value of company to more than $4tn",
+      "published_utc": "2025-10-29T19:56:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e3b883f592bdb8f8417b74603c7339276664fa386419b9bc9a96fbf83b6cfa2f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137263532,
+      "datetime": 1761782189
+    },
+    {
+      "title": "Dear Apple Stock Fans, Mark Your Calendars for October 30",
+      "description": "Apple is set to report its fiscal Q4 earnings after the close on Wednesday.",
+      "published_utc": "2025-10-29T19:45:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4e39e4e831e441aed3a655f8e4e2a7e6526c67e83dd1bab3054628b90b76ecb4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137263511,
+      "datetime": 1761781501
+    },
+    {
+      "title": "Sam Altman's OpenAI Targets Up To $1 Trillion Valuation In Historic IPO After Major Restructuring And California Approval: Report",
+      "description": "OpenAI is reportedly preparing for a potential IPO that could value the ChatGPT maker at up to $1 trillion as early as 2026–2027, following a major restructuring, regulatory approval in California, and renewed confidence from key investor Microsoft.",
+      "published_utc": "2025-10-29T19:44:08",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=194fbc1e0af671401a0cd63afcba750ce293428e9d158186eb7c0b1a7a250047",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/10/29/Smartphone-Displaying-The-Chatgpt-Logo-W_0.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138610806,
+      "datetime": 1761781448
+    },
+    {
+      "title": "Microsoft, Alphabet and Meta results overshadowed by growing fears of AI bubble",
+      "description": "Microsoft revealed that its spending on AI infrastructure hit almost $35bn (£26.5bn) in the three months to the end of September, a sharp rise compared with the year before.  Alphabet has also set out aggressive spending ambitions, but placated investors thanks to an impressive set of results that surpassed analysts' expectations.",
+      "published_utc": "2025-10-29T19:37:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ca38f28c6dc77d7c32cfaa590317c48c15e3065ae408565a0d093a4ef6157049",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137263534,
+      "datetime": 1761781020
+    },
+    {
+      "title": "Microsoft Is Dramatically Boosting AI Investments as It Races to Keep Up With Demand",
+      "description": "Microsoft reported a massive spike in its spending as the tech giant works to meet booming demand for artificial intelligence.",
+      "published_utc": "2025-10-29T19:25:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4282d9f2fb7a7efc974435ada72f05ed12c6660289b48167a58ddf7f87a07a60",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137263535,
+      "datetime": 1761780357
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:10:02.514883+00:00",
+    "cache_key": "news_588485bcafd700ff652953bcbf3e1358",
+    "count": 5
+  }
+}

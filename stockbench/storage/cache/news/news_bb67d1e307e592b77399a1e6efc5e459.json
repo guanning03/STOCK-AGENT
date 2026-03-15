@@ -1,0 +1,360 @@
+{
+  "items": [
+    {
+      "id": "02a99b97621928eae9ffdc3b51fccf08a545719430bcf582e9f9221cf636cd37",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Berkshire Hathaway: Buy, Sell, or Hold?",
+      "author": "Justin Pope",
+      "published_utc": "2025-01-11T23:14:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/11/berkshire-hathaway-buy-sell-or-hold/?source=iedfolrf0000001",
+      "tickers": [
+        "BRK.A",
+        "BRK.B",
+        "AAPL",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK",
+        "AXP",
+        "KO"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803284/brk-10.jpg",
+      "description": "Berkshire Hathaway, Warren Buffett's holding company, has created significant wealth over the decades. However, its current high valuation relative to historical norms makes it a less attractive buy today, despite its strong track record. Investors should consider holding on to the stock if they already own it, but may want to wait for a more favorable valuation before making a new investment.",
+      "keywords": [
+        "Berkshire Hathaway",
+        "Warren Buffett",
+        "holding company",
+        "valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "BRK.A",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article suggests that Berkshire Hathaway's current high valuation relative to historical norms makes it less attractive as a buy, despite its strong track record. However, the article also notes that it is a clear winner and an excellent stock to hold in a diversified portfolio, so a neutral sentiment is appropriate."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article suggests that Berkshire Hathaway's current high valuation relative to historical norms makes it less attractive as a buy, despite its strong track record. However, the article also notes that it is a clear winner and an excellent stock to hold in a diversified portfolio, so a neutral sentiment is appropriate."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Apple, which is one of its notable investments. This suggests a positive sentiment towards Apple as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Bank of America, which is one of its notable investments. This suggests a positive sentiment towards Bank of America as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Bank of America, which is one of its notable investments. This suggests a positive sentiment towards Bank of America as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Bank of America, which is one of its notable investments. This suggests a positive sentiment towards Bank of America as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Bank of America, which is one of its notable investments. This suggests a positive sentiment towards Bank of America as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Bank of America, which is one of its notable investments. This suggests a positive sentiment towards Bank of America as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Bank of America, which is one of its notable investments. This suggests a positive sentiment towards Bank of America as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Bank of America, which is one of its notable investments. This suggests a positive sentiment towards Bank of America as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Bank of America, which is one of its notable investments. This suggests a positive sentiment towards Bank of America as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Bank of America, which is one of its notable investments. This suggests a positive sentiment towards Bank of America as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Bank of America, which is one of its notable investments. This suggests a positive sentiment towards Bank of America as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Bank of America, which is one of its notable investments. This suggests a positive sentiment towards Bank of America as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Bank of America, which is one of its notable investments. This suggests a positive sentiment towards Bank of America as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Bank of America, which is one of its notable investments. This suggests a positive sentiment towards Bank of America as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Bank of America, which is one of its notable investments. This suggests a positive sentiment towards Bank of America as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Bank of America, which is one of its notable investments. This suggests a positive sentiment towards Bank of America as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Bank of America, which is one of its notable investments. This suggests a positive sentiment towards Bank of America as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in American Express, which is one of its notable investments. This suggests a positive sentiment towards American Express as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Coca-Cola, which is one of its notable investments. This suggests a positive sentiment towards Coca-Cola as part of Berkshire Hathaway's portfolio."
+        }
+      ]
+    },
+    {
+      "id": "4c9dcac61733c567afa69372d08bbb94e36be5222cb5c0168341d59ba003bcfb",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Consumer Tech News (Jan 6-10): Microsoft Pauses Ambitious Data Center Project, Blackstone Makes $300 Million Investment In AI & More",
+      "author": "Lekha Gupta",
+      "published_utc": "2025-01-11T13:30:21Z",
+      "article_url": "https://www.benzinga.com/news/large-cap/25/01/42932422/consumer-tech-news-jan-6-10-microsoft-pauses-ambitious-data-center-project-blackstone-makes-300-mi",
+      "tickers": [
+        "AAPL",
+        "MSFT",
+        "NVDA",
+        "BX"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/11/Milan--Italy--June-1--2024-Microsoft-Sig.jpeg?width=1200&height=800&fit=crop",
+      "description": "This article covers various updates in the consumer tech industry, including Apple facing restrictions in Indonesia, Microsoft pausing a data center project, Nvidia launching new GPUs and a personal AI supercomputer, and Blackstone investing $300 million in an AI company.",
+      "keywords": [
+        "Apple",
+        "Microsoft",
+        "Nvidia",
+        "Blackstone",
+        "AI",
+        "data centers",
+        "consumer tech"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Apple is facing restrictions in Indonesia due to not meeting local content requirements for smartphone sales."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Microsoft has decided to temporarily pause construction on parts of its ambitious data center project."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia launched its latest GeForce RTX 5000 GPU series and a $3,000 personal AI supercomputer."
+        },
+        {
+          "ticker": "BX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Blackstone is making a significant $300 million investment in an AI company, DDN."
+        }
+      ]
+    },
+    {
+      "id": "62fd789724cc88c48a0c3ff67df53a3d41b68893c10db07d3d5f27d0631cd342",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Warren Buffett Owns 2 S&P 500 Index Funds. They Could Soar 153%, According to a Top Wall Street Analyst",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-11T09:28:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/11/warren-buffett-sp-500-funds-soar-153-wall-street/?source=iedfolrf0000001",
+      "tickers": [
+        "VOO",
+        "SPY",
+        "AAPL",
+        "NVDA",
+        "MSFT",
+        "BRK.A",
+        "BRK.B"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803282/warren-buffett-smiling-surrounded-by-cameras.jpg",
+      "description": "Warren Buffett's Berkshire Hathaway owns two S&P 500 index funds, the Vanguard S&P 500 ETF and the SPDR S&P 500 ETF Trust, which a top Wall Street analyst believes could see a 153% gain by 2030 due to factors like AI and the prime earning years of millennials and Gen Zers.",
+      "keywords": [
+        "Warren Buffett",
+        "S&P 500 index funds",
+        "Vanguard S&P 500 ETF",
+        "SPDR S&P 500 ETF Trust",
+        "Wall Street analyst",
+        "AI",
+        "millennials",
+        "Gen Zers"
+      ],
+      "insights": [
+        {
+          "ticker": "VOO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests the Vanguard S&P 500 ETF could see a 153% gain by 2030 based on a Wall Street analyst's forecast, and it has a lower expense ratio compared to the SPDR S&P 500 ETF Trust."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests the SPDR S&P 500 ETF Trust could see a 153% gain by 2030 based on a Wall Street analyst's forecast, though it has a slightly higher expense ratio compared to the Vanguard S&P 500 ETF."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple is mentioned as one of the top three holdings in the S&P 500, along with Nvidia and Microsoft, indicating its significant influence on the index's performance."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia is mentioned as one of the top three holdings in the S&P 500, along with Apple and Microsoft, indicating its significant influence on the index's performance."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is mentioned as one of the top three holdings in the S&P 500, along with Apple and Nvidia, indicating its significant influence on the index's performance."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Berkshire Hathaway, Warren Buffett's investment company, owns the two S&P 500 index funds mentioned, indicating Buffett's confidence in the long-term performance of the S&P 500."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Berkshire Hathaway, Warren Buffett's investment company, owns the two S&P 500 index funds mentioned, indicating Buffett's confidence in the long-term performance of the S&P 500."
+        }
+      ]
+    },
+    {
+      "id": "07cd717069a461c6c71eddb18f2c462f79ea62454468b000a5df990451e0934e",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "2 Popular AI Stocks to Sell Before They Drop 24% and 66% in 2025, According to Certain Wall Street Analysts",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-11T09:25:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/11/2-ai-stocks-to-sell-before-drop-66-wall-street/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "TSLA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803445/market-red-10.jpg",
+      "description": "Wall Street analysts have issued sell ratings on Apple and Tesla, predicting significant downside of 24% and 66% respectively by 2025. The analysts believe these AI-focused stocks are overvalued and lack the fundamental growth to justify their current valuations.",
+      "keywords": [
+        "Apple",
+        "Tesla",
+        "AI stocks",
+        "Wall Street analysts",
+        "sell ratings"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Wall Street analysts believe Apple's stock is overvalued, with the recent upside driven by valuation expansion rather than earnings growth. Analysts expect the company's AI features to have limited impact on driving an iPhone upgrade cycle, and the current valuation of 35.9 times adjusted earnings is unsustainably expensive."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Wall Street analysts believe Tesla's stock is overvalued, with the recent upside driven by expectations of benefits from the CEO's ties to the incoming president rather than fundamental business growth. The company's valuation of 164 times adjusted earnings is seen as absurdly expensive, and the success of its autonomous driving technology and robotaxi services is uncertain, making the stock a risky investment."
+        }
+      ]
+    },
+    {
+      "id": "5222f7c0d78bf417cb15825330dc3785af4c536b8a1e136315ea18e9a1024781",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Best Stock to Buy Right Now: Amazon vs. Apple",
+      "author": "Neil Patel",
+      "published_utc": "2025-01-11T08:25:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/11/best-stock-to-buy-right-now-amazon-vs-apple/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803230/buy-sell-stocks-red-green-1201x729-bacaf87.jpg",
+      "description": "The article compares Amazon and Apple, two dominant tech companies with strong financial performance and growth potential. It suggests that Amazon may have a higher return than Apple over the next five years, making it a better stock to buy.",
+      "keywords": [
+        "Amazon",
+        "Apple",
+        "e-commerce",
+        "cloud computing",
+        "financial performance",
+        "valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Amazon's strong financial performance, with accelerating revenue growth and expanding profit margins. It also notes the company's leadership in the e-commerce and cloud computing markets, as well as its focus on cost-cutting and operational efficiency, which are seen as positive for investors."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article praises Apple's strong brand presence, premium offerings, and exceptional design and innovation, which have contributed to its success. It also highlights the company's powerful ecosystem, software and services offerings, and pristine financial condition, all of which are viewed as positive factors for investors."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:34:48.719039+00:00",
+    "cache_key": "news_bb67d1e307e592b77399a1e6efc5e459",
+    "count": 5
+  }
+}

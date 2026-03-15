@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "AMC, Cisco Set To Report Earnings As Investors Watch Out For Core CPI",
+      "description": "Stay informed with Seeking Alpha's Wall Street Week Ahead - your guide to key market events, earnings, IPOs & economic reports shaping the week.",
+      "published_utc": "2025-08-09T07:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=44090ea886a87c1c9de1d7d66923a844d31052da10f0ea646571d0f01b008d97",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136279181,
+      "datetime": 1754737200
+    },
+    {
+      "title": "Benzinga Bulls And Bears: AMD, Apple, Eli Lilly — And Wall Street Treads Water",
+      "description": "Benzinga examined the prospects for many investors&#39; favorite stocks over the last week — here&#39;s a look at some of our top stories.",
+      "published_utc": "2025-08-09T04:19:59",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=b50c0f345c78510d8e2121b040104438456adae1a0b7d0313da9d0916f472abb",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/08/09/Bulls-and-Bears-1.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138468359,
+      "datetime": 1754727599
+    },
+    {
+      "title": "3 Super Popular Stocks I Wouldn't Touch With A 10-Foot Pole",
+      "description": "Discover how to identify the 4% of stocks driving market gains. Focus on winners with growth potential and avoid common investing pitfalls. Click for the picks.",
+      "published_utc": "2025-08-09T03:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c71b73e95d801c2d1bae9c81b4d63f2eb2a094a79fb6b26fc6efa03c0eb9772a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1787799563/image_1787799563.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136278327,
+      "datetime": 1754724600
+    }
+  ]
+}

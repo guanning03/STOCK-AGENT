@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "AI stocks are in a bubble. Why are so many investors refusing to believe it?",
+      "description": "AI companies are raising prices and alienating users — and the stocks are overvalued.",
+      "published_utc": "2025-08-25T18:08:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9e3e95e7174a5616d06c0123fa0c34ce3c3685ce3bab2d9ea149ec88cde5daff",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136525527,
+      "datetime": 1756159680
+    },
+    {
+      "title": "X-energy, Amazon, Korea Hydro & Nuclear Power, and Doosan Enerbility Announce Partnership to Scale Advanced Nuclear Energy for AI Infrastructure",
+      "description": "WASHINGTON, August 25, 2025--X-energy, Amazon, KHNP, and Doosan sign strategic collaboration agreement to accelerate the deployment of new Xe-100 advanced nuclear reactors",
+      "published_utc": "2025-08-25T16:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2b1135132ad5b2fc64c862b695b99bb66b41e7e7d6b7bfda026c40d42caf3449",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136522280,
+      "datetime": 1756152000
+    },
+    {
+      "title": "A $10 Billion Reason to Buy This Quantum Computing Stock Now",
+      "description": "Honeywell's quantum computing subsidiary has seen its valuation double in just 18 months.",
+      "published_utc": "2025-08-25T15:42:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4b3a6ce5b2b37a33c087d522435c38cdf72e41a704973e6c96ef5ed96a692c2f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136523785,
+      "datetime": 1756150939
+    },
+    {
+      "title": "Boring Is Better. These 3 Stocks Prove It.",
+      "description": "Torsten Sløk, the chief economist at Apollo Global Management, says some big tech stocks are being outdone by what might be considered ho-hum names.",
+      "published_utc": "2025-08-25T15:13:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac1411073575ec5e626a698f4c91dc627991e109a6fae9519aaa6b1e0ac20d46",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136522728,
+      "datetime": 1756149180
+    },
+    {
+      "title": "Amazon Rebounds From Post-Q2 Selloff. Is Amazon Stock A Buy?",
+      "description": "Amazon stock has rebounded from a selloff that following its Q2 results in late July but is still below 2025 highs.",
+      "published_utc": "2025-08-25T15:01:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=69a85a56c9cd547e1493e4e8d4c7781fdbf9a89cf6a8dda350f05b90af28eab9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136522281,
+      "datetime": 1756148496
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:47:07.833554+00:00",
+    "cache_key": "news_399b4275ff4ae3a1edba4cbf3fe0acb2",
+    "count": 5
+  }
+}

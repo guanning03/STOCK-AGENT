@@ -1,0 +1,82 @@
+{
+  "items": [
+    {
+      "id": "fde3bc6b2efb948c49fc2aeba3b4ea42c39f0ccebf1d2bc164c0e1f3bef8d772",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "US Futures Mixed As Street Braces For Inflation Data: Analyst Says 2024 Will Go Down As The 'Best Election Year Return Ever'",
+      "author": "Rishabh Mishra",
+      "published_utc": "2024-12-11T11:21:37Z",
+      "article_url": "https://www.benzinga.com/trading-ideas/movers/24/12/42432367/us-futures-mixed-as-street-brace-for-inflation-data-analyst-says-2024-will-go-down-as-the-be",
+      "tickers": [
+        "ADBE",
+        "GME",
+        "RGTI",
+        "RGTIW",
+        "QUBT",
+        "LAES",
+        "SPY",
+        "QQQ"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2024/12/11/Wall-Street.jpeg?width=1200&height=800&fit=crop",
+      "description": "U.S. futures were mixed ahead of crucial inflation data. Analysts expect 2024 to be the 'best election year return ever' as the bull market continues. Key companies and ETFs mentioned include Adobe, GameStop, Rigetti Computing, Quantum Computing, and Sealsq Corp.",
+      "keywords": [
+        "US futures",
+        "inflation data",
+        "election year",
+        "bull market",
+        "Adobe",
+        "GameStop",
+        "Rigetti Computing",
+        "Quantum Computing",
+        "Sealsq Corp"
+      ],
+      "insights": [
+        {
+          "ticker": "ADBE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "No specific sentiment expressed for Adobe in the article."
+        },
+        {
+          "ticker": "GME",
+          "sentiment": "positive",
+          "sentiment_reasoning": "GameStop rose 3.30% in the premarket session as the company swung to profit despite a dip in its revenue."
+        },
+        {
+          "ticker": "RGTI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Rigetti Computing was up 12.3% in premarket after the company along with its partner Quantum Machines made progress in quantum computing."
+        },
+        {
+          "ticker": "RGTIW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Rigetti Computing was up 12.3% in premarket after the company along with its partner Quantum Machines made progress in quantum computing."
+        },
+        {
+          "ticker": "QUBT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Quantum Computing Inc. declined 6.7% in the premarket hours as the company said it has entered into a securities purchase agreement to raise up to $50 million."
+        },
+        {
+          "ticker": "LAES",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Sealsq Corp. rose 138.18% after it partnered with IC'ALPS to strengthen its ASIC development capabilities."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The SPDR S&P 500 ETF Trust SPY was up 0.09% in premarket trading."
+        },
+        {
+          "ticker": "QQQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Invesco QQQ Trust ETF QQQ advanced 0.2% in premarket trading."
+        }
+      ]
+    }
+  ]
+}

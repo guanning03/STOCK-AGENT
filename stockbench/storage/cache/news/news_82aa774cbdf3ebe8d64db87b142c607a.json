@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Trump Tariffs Are Back in Limbo. What Comes Next.",
+      "description": "Courts have ruled against the legality of the president’s tariff plan, raising new questions about trade deals, tariff refunds, and revenue.",
+      "published_utc": "2025-09-02T18:57:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=89afcd1dad15d662a86974de9ccbadbaa71f668e3b9ab99bff5e49a07e439123",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136612755,
+      "datetime": 1756853820
+    },
+    {
+      "title": "Factbox-What Apple, Samsung wanted from Google search case",
+      "description": "A ruling in the U.S. search antitrust case against Alphabet's Google on Tuesday is a win for mobile phone manufacturers including Apple and Samsung, who a judge said Google can keep paying  to be the default search engine on new devices.  Google has said it will file an appeal in the case, meaning the ruling is not likely to take effect immediately.  The iPhone maker supported requiring Google to share its search data with artificial intelligence competitors such as OpenAI, Anthropic, Perplexity, and said it plans to offer more AI-driven options in search.",
+      "published_utc": "2025-09-02T18:39:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=279de26c105893ffbcf552d0f9d71a6243865f73ddd5d015a82d1774caccbdc1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136612711,
+      "datetime": 1756852762
+    },
+    {
+      "title": "Coinbase's New Futures Index Tracks Bitcoin, Ethereum—Plus 'Mag 7' Stocks Like Nvidia",
+      "description": "Coinbase is debuting futures in the U.S. that will give traders exposure to Bitcoin and Ethereum along with major \"Magnificent 7\" tech stocks.",
+      "published_utc": "2025-09-02T18:25:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d15d7a39e7a0f444b60efd94ff2d7e8e5a31eae12dfe9bdd221a027036f6a33e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136612704,
+      "datetime": 1756851954
+    },
+    {
+      "title": "Factbox-How Big Tech is faring against US antitrust lawsuits",
+      "description": "(Reuters) -A U.S. lawsuit where Alphabet's Google was ordered on Tuesday to share search data with competitors is just one of the major efforts by U.S. antitrust enforcers to challenge Big Tech companies over their dominance.  Here are the statuses of the U.S. antitrust cases or probes against some of the world's most valuable companies: Alphabet's Google, Meta Platforms, Apple, Amazon, Microsoft and Nvidia.",
+      "published_utc": "2025-09-02T18:08:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1ee83edcbd306feb5f8add0a9aa8457e57dc9699c87f7e591a4a38c4cbb3fdc5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136612706,
+      "datetime": 1756850886
+    },
+    {
+      "title": "Google won't be forced to sell Chrome after judge rules divestment a 'poor fit' in landmark antitrust case",
+      "description": "Google won't be forced to sell Chrome after a federal district judge ruled divestment a 'poor fit\" in a landmark antitrust case, but it will have make a number of changes.",
+      "published_utc": "2025-09-02T18:02:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4854f256c87306dcd03a7e812a35bc155fd3e826771de4d7f91499cb7aaad71d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136612715,
+      "datetime": 1756850538
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:10:03.310373+00:00",
+    "cache_key": "news_82aa774cbdf3ebe8d64db87b142c607a",
+    "count": 5
+  }
+}

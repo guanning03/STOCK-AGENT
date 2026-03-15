@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": "5b9b2a7d4d81e8a08ed532ef9cd4faf716a872860f33b1b85e3924d1de8299e9",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "V INVESTOR ALERT: Bronstein, Gewirtz & Grossman LLC Announces that Visa Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit",
+      "author": "Bronstein, Gewirtz & Grossman Llc",
+      "published_utc": "2024-12-16T21:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2024/12/16/2997865/9788/en/V-INVESTOR-ALERT-Bronstein-Gewirtz-Grossman-LLC-Announces-that-Visa-Inc-Investors-with-Substantial-Losses-Have-Opportunity-to-Lead-Class-Action-Lawsuit.html",
+      "tickers": [
+        "V"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/a0da9a10-1592-437a-9c10-d30eeb243cb7",
+      "description": "A class action lawsuit has been filed against Visa Inc. (NYSE: V) alleging the company made materially false and/or misleading statements and/or failed to disclose that it was not in compliance with federal antitrust laws and did not have effective internal programs and policies to assess and control compliance with these laws.",
+      "keywords": [
+        "Visa Inc.",
+        "class action lawsuit",
+        "federal antitrust laws"
+      ],
+      "insights": [
+        {
+          "ticker": "V",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article alleges that Visa made materially false and/or misleading statements and/or failed to disclose that it was not in compliance with federal antitrust laws, indicating potential legal and regulatory issues for the company."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:29:23.476143+00:00",
+    "cache_key": "news_5daff9e8cd0469bfa50385e5bc85b50b",
+    "count": 1
+  }
+}

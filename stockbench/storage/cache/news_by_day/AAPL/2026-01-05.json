@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Dow Jones Futures: AMD, Apple, Palantir, Tesla Are Key Movers; Nvidia CEO Jensen Huang Announces New AI Chip",
+      "description": "Dow Jones Futures: AMD, Apple, Palantir, Tesla Are Key Movers; Nvidia CEO Jensen Huang Announces New AI Chip",
+      "published_utc": "2026-01-05T18:01:06",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=93c39569f0a7566f457502fad88c97125af980a8fab88dc871c01db9a9ea9232",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138073134,
+      "datetime": 1767654066
+    },
+    {
+      "title": "Apple (AAPL) Stock Sinks As Market Gains: What You Should Know",
+      "description": "The latest trading day saw Apple (AAPL) settling at $267.26, representing a -1.38% change from its previous close.",
+      "published_utc": "2026-01-05T17:45:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ca6414116622da38c27e8602c1679c9b82bbf9272fbf41d9e19585b259bccc35",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137997520,
+      "datetime": 1767653104
+    },
+    {
+      "title": "Under Biden, America got 150 countries to agree a 15% global corporate tax. Under Trump, America gets an exemption",
+      "description": "Scott Bessent called it “a historic victory in preserving U.S. sovereignty and protecting American workers and businesses from extraterritorial overreach.\"",
+      "published_utc": "2026-01-05T17:06:34",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=24056a959fffb65a277dd9f959bfa64478d5a8ed1465d4a54783b506315b71e5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137997522,
+      "datetime": 1767650794
+    },
+    {
+      "title": "Stock market today: Dow jumps 600 points to record, S&P 500 and Nasdaq rally as oil stocks surge after Venezuela strike",
+      "description": "Wall Street is assessing the US military strike and capture of President Maduro in Venezuela, while hopes for AI demand buoy techs.",
+      "published_utc": "2026-01-05T16:00:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=21c197d28b412836c5f152b417fc7ce06fadb0e7cb7c2cbba895bea63375cd34",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137997523,
+      "datetime": 1767646848
+    },
+    {
+      "title": "Should Investors Be Worried That the \"Magnificent Seven\" Make Up 35% of the S&P 500?",
+      "description": "At the very least, investors should be concerned. There's a way to avoid the problem, though.",
+      "published_utc": "2026-01-05T15:35:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=99f788a0376d058a57a511d364ad51ea8110c180ef563dc5e92e51f6e2fb5d85",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137997524,
+      "datetime": 1767645300
+    }
+  ]
+}

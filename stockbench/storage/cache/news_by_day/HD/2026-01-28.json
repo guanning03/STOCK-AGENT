@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Home Depot makes two major changes to win back customers",
+      "description": "There’s nothing quite like the feeling of doing something by yourself; fixing something broken or building something new. Remember when you were a kid and you went to the store all by yourself for the first time, how proud you felt, how accomplished. As adults, we can have a similar feeling when we ...",
+      "published_utc": "2026-01-28T18:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0de36853bd95b88012ad4e76402022a3fe8811665f9b74c9fe777f25da66eae0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138290205,
+      "datetime": 1769643180
+    },
+    {
+      "title": "Home Depot lays off 800 workers, says corporate employees will return to office 5 days a week",
+      "description": "Home Depot is dealing with slower sales as fewer Americans buy houses.",
+      "published_utc": "2026-01-28T12:29:11",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=922efd5f7d755bc6b95a049967744b098434b0e5026853e654de6233f8ded599",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108227646-1763490449034-gettyimages-2247325991-dji_20251118092100_0976_d_pnjiyag3.jpeg?v=1769642073&w=1920&h=1080",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138296588,
+      "datetime": 1769621351
+    },
+    {
+      "title": "Home Depot cuts 800 jobs",
+      "description": "The roles within its Atlanta store support center are primarily concentrated in its tech organization and come as the retailer mandates a full-time return to office.",
+      "published_utc": "2026-01-28T12:04:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b4f371f184ae67497cfc0586201d7fc0c94bb26cdef2eba56198c6b1b13d80a7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138290206,
+      "datetime": 1769619840
+    },
+    {
+      "title": "'Home Depot Cuts Jobs, Brings Staff Back to Office 5 Days A Week' - Bloomberg",
+      "description": "https://www.bloomberg.com/news/articles/2026-01-28/home-depot-cuts-jobs-brings-staff-back-to-office-5-days-a-week",
+      "published_utc": "2026-01-28T11:48:17",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=be0540937d0773249a397729b4401d903558cc28b64cb70e6be8e7cd4fca05f1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138948650,
+      "datetime": 1769618897
+    },
+    {
+      "title": "Wall Street And Main Street Are Seeing Two Different Economies",
+      "description": "Two huge winter storms are the latest unexpected disruptions to the U.S. economy. Read why investors should pay attention to short-term and long-term market signals.",
+      "published_utc": "2026-01-28T11:16:46",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f724f2ccae5638833ec3a737fd6b13d4b397c76454071a4c2424c3ba3ba5d471",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2231900374/image_2231900374.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138288548,
+      "datetime": 1769617006
+    }
+  ]
+}

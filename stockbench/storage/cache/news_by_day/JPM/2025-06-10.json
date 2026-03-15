@@ -1,6 +1,81 @@
 {
   "items": [
     {
+      "title": "When The Iconic CEO Moves On, Evaluate Your Investment",
+      "description": "When Jack Welch retired from GE, the stock price also suffered after GE peaked at a $500 billion market cap in early 2000.",
+      "published_utc": "2025-06-10T16:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c8275924ff07be74eefe0c6ecf4b005194dd64be36140eb69394b3a8b7740dd3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1836864143/image_1836864143.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135171640,
+      "datetime": 1749588000
+    },
+    {
+      "title": "Traders Boost Bets on Just One 2025 Fed Cut Ahead of CPI Data",
+      "description": "(Bloomberg) -- Traders are increasingly betting that the Federal Reserve will cut interest rates only once this year amid signs of resilient growth and sticky inflation.Most Read from BloombergTrump’s Military Parade Has Washington Bracing for Tanks and WeaponryNYC Mayoral Candidates All Agree on Building More Housing. But Where?NY Long Island Rail Service Resumes After Grand Central FireSenator Calls for Closing Troubled ICE Detention Facility in New MexicoCalifornia Pitches Emergency Loans for",
+      "published_utc": "2025-06-10T16:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2e8c1befb66c8c9d88dc7493414a59d50dbf4e37356a90b710a3fd132d4848aa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135171117,
+      "datetime": 1749587400
+    },
+    {
+      "title": "2 Trump allies bought Tesla before Musk fallout, lawmaker trading reports show",
+      "description": "Congressional stock trading reports show that two allies of President Trump loaded up on additional Tesla shares as the relationship between the president and Elon Musk began to show signs of strain but before their falling out.",
+      "published_utc": "2025-06-10T16:29:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=06a753291cf2185c490ebc15474d6a14b8fb6ac981bbeaefd6b3aaa7c8c4db69",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135171025,
+      "datetime": 1749587384
+    },
+    {
+      "title": "Dimon says Trump tariffs may make 'the soft landing a little bit softer' instead of making the 'ship go down'",
+      "description": "The boss of the largest US bank expects to see the effects of tariffs in the coming months, and his hope is that the impact won't be dramatic.",
+      "published_utc": "2025-06-10T15:27:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=80c5f2c04d54eb4817cd535408cb360c6ce76768cc7da984dbe6e4d1c007a1a4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135171119,
+      "datetime": 1749583657
+    },
+    {
+      "title": "We Like The Warner Bros. Discovery Split (Rating Upgrade)",
+      "description": "Warner Bros. Discovery, Inc. plans to split streaming and network units to boost cash flow, reduce debt, and enhance shareholder value. Click for our WBD update.",
+      "published_utc": "2025-06-10T13:45:12",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=877fbd1334f23bb3f7b7ed49b05dcd137acff268f3afb9f97b36278d74a49076",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1495890321/image_1495890321.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135170513,
+      "datetime": 1749577512
+    },
+    {
       "title": "Active ETFs Catch a Wave of Investor Interest",
       "description": "Active ETFs are grabbing investor attention, with 39% of 2025 ETF flows and 94% of 2025 fund launches now tied to active strategies.",
       "published_utc": "2025-06-10T04:31:00",

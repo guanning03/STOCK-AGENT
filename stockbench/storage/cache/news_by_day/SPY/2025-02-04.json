@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "id": "7913b85b2bcc24d9a24fd1c870055fa0ebff22e4c9b45f58595953def4d6dce3",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Illumina Stock Tumbles Nearly 5% Overnight On Robinhood As China Adds ILMN, Calvin Klein Owner PVH To 'Unreliable Entities List' Amid Trade War With US",
+      "author": "Rishabh Mishra",
+      "published_utc": "2025-02-04T08:08:51Z",
+      "article_url": "https://www.benzinga.com/news/events/25/02/43455326/illumina-stock-tumbles-nearly-5-overnight-on-robinhood-as-china-adds-ilmn-calvin-klein-owner-pvh-to-u",
+      "tickers": [
+        "ILMN",
+        "PVH",
+        "GOOG",
+        "GOOGL",
+        "SPY"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/02/04/San-Diego--Ca--Usa---July-9--2022-Illumi.jpeg?width=1200&height=800&fit=crop",
+      "description": "Illumina and PVH Corp, the owner of Calvin Klein, have been added to China's 'unreliable entities list' amid the ongoing trade war with the US, leading to a significant drop in their stock prices.",
+      "keywords": [
+        "Illumina",
+        "PVH Corp",
+        "China",
+        "trade war",
+        "unreliable entities list"
+      ],
+      "insights": [
+        {
+          "ticker": "ILMN",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Illumina's stock fell nearly 4% on Robinhood overnight after China added the company to its 'unreliable entities list', citing disruption of normal market transactions and harm to the legitimate rights and interests of Chinese enterprises."
+        },
+        {
+          "ticker": "PVH",
+          "sentiment": "negative",
+          "sentiment_reasoning": "PVH Corp, the owner of Calvin Klein, also saw its stock drop over 7% on Monday after being added to China's 'unreliable entities list' for similar reasons as Illumina."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "China also announced an investigation into Alphabet's Google for alleged anti-monopoly practices, but this was not the main focus of the article."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "China also announced an investigation into Alphabet's Google for alleged anti-monopoly practices, but this was not the main focus of the article."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The S&P 500 index ETF (SPY) closed 0.67% lower on Monday, likely due to the broader market impact of the trade tensions between the US and China."
+        }
+      ]
+    }
+  ]
+}

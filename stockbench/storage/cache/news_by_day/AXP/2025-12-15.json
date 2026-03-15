@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "BFH or AXP: Which Is the Better Value Stock Right Now?",
+      "description": "BFH vs. AXP: Which Stock Is the Better Value Option?",
+      "published_utc": "2025-12-15T11:40:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c0cf1da89e7207254cec4e2119e0ed6c911c9395578e2130263228c71cc68598",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137795399,
+      "datetime": 1765816803
+    },
+    {
+      "title": "How the Narrative Surrounding Amex Is Evolving After Guidance Updates and Mixed Analyst Reactions",
+      "description": "American Express has seen a subtle but important reset in its fair value narrative, with the price target edging up from about $351.87 to roughly $354.83 per share as analysts factor in slightly lower perceived risk and a steady long term revenue growth outlook near 10.28%. This modest uplift reflects a market that remains cautiously optimistic, balancing stronger billings trends and an improving sector backdrop against lingering questions on execution into 2026. Stay tuned to see how you can...",
+      "published_utc": "2025-12-15T10:10:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4641be6a59072ff01f39cb4d1e7b0b52d080b38cadd50ca1305f3a31e3228ee8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137792420,
+      "datetime": 1765811440
+    },
+    {
+      "title": "3 credit cards with benefits you can double dip before the second annual fee",
+      "description": "Certain card benefits renew on specific dates, giving you the opportunity to unlock additional value in your first cardmember year.",
+      "published_utc": "2025-12-15T09:58:29",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=63f91d2146919a0bf7737f29b4684210398bc4ddc50403dd41724400b38860ad",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/107394674-1711724485320-gettyimages-89024804-is098r4jr.jpeg?v=1765462499&w=1920&h=1080",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137803088,
+      "datetime": 1765810709
+    }
+  ]
+}

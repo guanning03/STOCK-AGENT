@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Why Visa Stock Got Clocked Today",
+      "description": "The fees the company relies on might come under threat from rapidly advancing technology, according to a new analysis.",
+      "published_utc": "2026-02-23T18:14:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8bb70ecec498e9ad8108f57f04b6a947e0a5e28b9eb5b35c6d134d7e391bcd7c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139188616,
+      "datetime": 1771888470
+    },
+    {
+      "title": "Stock Market Today, Feb. 23: Nvidia Earnings Loom as Tariff Concerns Drive Dow 800 Points Lower",
+      "description": "AI jitters, tariff shock, and looming Nvidia results have investors fleeing growth for perceived safety, today, Feb. 23, 2026.",
+      "published_utc": "2026-02-23T17:31:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ba8070610858ab3a8f211085a882dbfd79b64fee552fb6198f8fbcb9f815e6eb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139188619,
+      "datetime": 1771885915
+    },
+    {
+      "title": "Stock Market Today: Dow Sinks As EU Makes Trump Tariff Move; IBM Dives On This AI Threat (Live Coverage)",
+      "description": "Indexes, including the Dow Jones industrials, dived on the stock market today. The EU made a Trump tariff move. Novo stock slid but gold plays shined.",
+      "published_utc": "2026-02-23T16:40:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fdff028869a90d369bc2d2253cda299441168e9e4785514fdb8c84362ae753c7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139188119,
+      "datetime": 1771882815
+    },
+    {
+      "title": "Visa (V) Balances Innovation with Market Expectations",
+      "description": "Visa Inc. (NYSE:V) is one of Goldman Sachs’s top growth stock picks. On February 10, Truist Securities analyst Matthew Coad cut the firm’s price target on Visa, Inc. (NYSE:V) to $372 from $374, while keeping a Buy rating on the stock. The target adjustment was part of a broader research update in which Truist revised […]",
+      "published_utc": "2026-02-23T14:49:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a4db7279e0359a680c7bd95a88b96ccef3ed7a36d8eff9a86ff7d61f81b1999e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139187243,
+      "datetime": 1771876158
+    },
+    {
+      "title": "A Viral Blog Post Slams Stocks. Fear About AI Is Real.",
+      "description": "The Substack post envisions an economy in 2028 in which AI has triggered mass layoffs and disrupted large-cap stocks like DoorDash and Uber.",
+      "published_utc": "2026-02-23T14:34:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c6a44ca67c5fe48777d22a33afb42432edfbcd96c580a769f47bf3fd81d54a2d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139187406,
+      "datetime": 1771875240
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:30:46.532491+00:00",
+    "cache_key": "news_76a31ad662db11ea871b6ae8ef8a3fb9",
+    "count": 5
+  }
+}

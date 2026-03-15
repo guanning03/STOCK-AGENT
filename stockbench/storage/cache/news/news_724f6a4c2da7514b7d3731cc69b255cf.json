@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The Residential Housing Cycle Has Turned",
+      "description": "Discover the factors driving the residential housing cycle, regional home price trends, and the challenges in key states.",
+      "published_utc": "2025-08-23T17:34:17",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8790698b337ce95739cb4d32530363857de04a8558f6b9c8ca3be234e000c6a2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1456595814/image_1456595814.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136498761,
+      "datetime": 1755984857
+    },
+    {
+      "title": "Powell At Jackson Hole: Rate Cut Likely, Or Is It?",
+      "description": "Powell's Jackson Hole speech hinted at a September rate cut, but labor concerns and data show high uncertainty. Read why markets rallied, but caution is key.",
+      "published_utc": "2025-08-23T06:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=73e48bf47a9bd07b91aa9ca9b8251f71ae5bdcfad2b9ddd2890cbff34ca5228a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2227747005/image_2227747005.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136494350,
+      "datetime": 1755943200
+    },
+    {
+      "title": "Fed Rate Cuts Don't Mean Lower Bond Yields",
+      "description": "Powell struck a neutral tone at Jackson Hole, but sticky inflation and market dynamics suggest long-term yields may rise. Find out why the bond market holds control.",
+      "published_utc": "2025-08-23T05:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a2c9f674aeb651d037ab841dd54a3b9af3d16294c847394445f8f6ac2306c09f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/985662772/image_985662772.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136494275,
+      "datetime": 1755942300
+    },
+    {
+      "title": "Likely Rate Cuts Will Provide Crucial Tailwinds, Expected Mixed Inflation",
+      "description": "Upcoming Fed rate cuts may ease economic strain, support hiring, and boost consumption despite slowdown risks. Learn why rate relief could sustain momentum ahead.",
+      "published_utc": "2025-08-23T05:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=22889f9c8d1ab73afe5d5682c72c1a5b1b201a9b1263c23a3275f443ee86c713",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2169725063/image_2169725063.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136494180,
+      "datetime": 1755940500
+    },
+    {
+      "title": "Goodbye Growth? Here's What I'm Buying As Value Mounts A Comeback",
+      "description": "Recent underperformance in growth tech stocks reflects doubts about AI, while value-oriented dividend stocks have shown resilience and defensiveness. See more here.",
+      "published_utc": "2025-08-23T04:10:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cd45534dafc843f5318537f56c7fad06e00d25a8e4c8fbf6789d1ab654d988d8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2193071535/image_2193071535.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136493917,
+      "datetime": 1755936600
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:38:50.670274+00:00",
+    "cache_key": "news_724f6a4c2da7514b7d3731cc69b255cf",
+    "count": 5
+  }
+}

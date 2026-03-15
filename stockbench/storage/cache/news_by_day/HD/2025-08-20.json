@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq stumble in wait for Walmart earnings, Jackson Hole kickoff",
+      "description": "Walmart earnings are in early focus before the highly anticipated start of the Federal Reserve's gathering at Jackson Hole.",
+      "published_utc": "2025-08-20T19:41:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=85fb2df69809a3cdbcceb495b8fedf5e7efb4607720e51e3027976a08f44dcd9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136452231,
+      "datetime": 1755733282
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq slip as Wall Street digests another difficult day for tech",
+      "description": "US stock futures wavered as investors digested another difficult day for tech stocks and persistent uncertainty on Federal Reserve policy.",
+      "published_utc": "2025-08-20T19:41:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=430e9d5a2a8673a34d790554d436543ab74960dd0b782f323dfcea3ddb335a17",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136450259,
+      "datetime": 1755733282
+    },
+    {
+      "title": "Retail earnings: Consumers are spending on needs, not wants",
+      "description": "Retailers are in focus following Target's (TGT), Home Depot's (HD), and TJ Maxx parent company TJX's (TJX) earnings results, while investors await Walmart's (WMT) earnings results out Thursday morning. Placer.ai head of analytical research R.J. Hottovy shares his takeaways from retail earnings so far and what they signal about the health of the consumer. To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend.",
+      "published_utc": "2025-08-20T17:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6fa0cc2442a76a05b94f3d23279f14e7b43346c0d3072e5693f2445e055d82e0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136450263,
+      "datetime": 1755725400
+    },
+    {
+      "title": "James Hardie stock collapses nearly 35% as US housing slump hits building materials",
+      "description": "The maker of Hardie siding warns of declining demand as the US housing market remains stagnant.",
+      "published_utc": "2025-08-20T16:44:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c493dec7e223c9c7159f6a0c55bde1fad6f987005ef97097d34f1f87b91d6dd6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136450297,
+      "datetime": 1755722678
+    },
+    {
+      "title": "Watch Walmart’s Earnings for What’s Really Going On in Retail",
+      "description": "Target announced a CEO change, Lowe’s unveiled an $8.8 billion acquisition, and  Home Depot’s  report was crowded out by commentary on how the housing market is affecting home improvement.  Walmart’s  report, due Thursday morning, should give investors the quiet they need to focus on the big picture.  Analysts predict Walmart will post another strong quarter, cementing itself yet again as a beacon of steadfastness amid the turbulence rocking the broader retail ecosystem.",
+      "published_utc": "2025-08-20T16:40:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aef1f8a077a4d355634a3c2a57c6a13608559544130d88e7d1d3ff9173af932d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136450265,
+      "datetime": 1755722400
+    }
+  ]
+}

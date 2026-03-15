@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Progressive's Q4 Earnings & Revenues Beat Estimates on Higher Premiums",
+      "description": "PGR's fourth-quarter 2025 results reflect a year-over-year improvement in premiums.",
+      "published_utc": "2026-01-28T10:29:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bd9193b25381e46c91e295c34acb8faab3f7186e10fcdcad8040b2275eb25309",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138285254,
+      "datetime": 1769614140
+    },
+    {
+      "title": "Travelers Expands Anthropic AI Use As Buybacks And Valuation Draw Focus",
+      "description": "Travelers Companies (NYSE:TRV) has expanded its partnership with Anthropic to roll out personalized AI assistants to roughly 10,000 engineers, data scientists, and analysts. The AI tools are intended to support role specific software development and analytics work across the insurer’s operations. Travelers has also updated its share repurchase plan, adding US$5b to its existing buyback authorization. Travelers, a major U.S. property and casualty insurer, sits at the intersection of...",
+      "published_utc": "2026-01-28T09:10:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=573edc8f21637d8dbe8151dffbf7037a45543e2c6b788b3f754350d4a01ee3c1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138281704,
+      "datetime": 1769609459
+    },
+    {
+      "title": "5 Revealing Analyst Questions From Travelers’s Q4 Earnings Call",
+      "description": "Travelers delivered results in line with Wall Street’s revenue expectations for Q4, as management credited strong underwriting performance and investment income for the company’s non-GAAP earnings beat. CEO Alan Schnitzer highlighted broad-based underwriting gains across all three segments, supported by disciplined risk selection and an improved combined ratio. Travelers also benefited from lower catastrophe losses and favorable prior-year reserve development, while its investment portfolio gene",
+      "published_utc": "2026-01-28T00:33:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3cf1d0f0184d4dabf698c8f1f6453845e8580a6716840bddcf60e27a3377f48c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138279170,
+      "datetime": 1769578396
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:14:22.591468+00:00",
+    "cache_key": "news_d352dafbbc87b8d2a8ddb19e1e7ffecb",
+    "count": 3
+  }
+}

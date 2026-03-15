@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "id": "5b36dcfb9a5f98e6e1043f9d38320e12986cfaa89507da4261f816f22288d038",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "1 Stock to Buy, 1 Stock to Sell This Week: Goldman Sachs, Citigroup",
+      "author": "Investing.Com",
+      "published_utc": "2025-01-12T13:03:00Z",
+      "article_url": "https://www.investing.com/analysis/1-stock-to-buy-1-stock-to-sell-this-week-goldman-sachs-citigroup-200656117",
+      "tickers": [
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD",
+        "C",
+        "CpN"
+      ],
+      "amp_url": "https://m.investing.com/analysis/1-stock-to-buy-1-stock-to-sell-this-week-goldman-sachs-citigroup-200656117?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "The article discusses two stocks - Goldman Sachs and Citigroup - and their outlook for the upcoming week. It suggests buying Goldman Sachs due to its strong Q4 earnings expectations, while recommending selling Citigroup due to lingering macroeconomic challenges and competitive pressures.",
+      "keywords": [
+        "Goldman Sachs",
+        "Citigroup",
+        "Q4 earnings",
+        "investment banking",
+        "wealth management",
+        "macroeconomic challenges"
+      ],
+      "insights": [
+        {
+          "ticker": "GS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Goldman Sachs' Q4 earnings report is likely to surpass expectations, driven by a rebound in IPO activity, mergers, and global deal-making, as well as steady growth in its wealth management division. The article also notes that the stock appears undervalued based on AI-powered fair value models."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Goldman Sachs' Q4 earnings report is likely to surpass expectations, driven by a rebound in IPO activity, mergers, and global deal-making, as well as steady growth in its wealth management division. The article also notes that the stock appears undervalued based on AI-powered fair value models."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Goldman Sachs' Q4 earnings report is likely to surpass expectations, driven by a rebound in IPO activity, mergers, and global deal-making, as well as steady growth in its wealth management division. The article also notes that the stock appears undervalued based on AI-powered fair value models."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Goldman Sachs' Q4 earnings report is likely to surpass expectations, driven by a rebound in IPO activity, mergers, and global deal-making, as well as steady growth in its wealth management division. The article also notes that the stock appears undervalued based on AI-powered fair value models."
+        },
+        {
+          "ticker": "C",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that Citigroup faces a challenging outlook, with lingering macroeconomic challenges and deposit stability concerns weighing heavily on its prospects. Despite CEO Jane Fraser's restructuring efforts, the bank has been unable to deliver sustained growth, making it a less attractive option for investors."
+        },
+        {
+          "ticker": "CpN",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that Citigroup faces a challenging outlook, with lingering macroeconomic challenges and deposit stability concerns weighing heavily on its prospects. Despite CEO Jane Fraser's restructuring efforts, the bank has been unable to deliver sustained growth, making it a less attractive option for investors."
+        }
+      ]
+    }
+  ]
+}

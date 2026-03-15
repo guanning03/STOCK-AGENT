@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today: Dow Slips Back Below 49K; Trump Takes On Defense Firms (Live Coverage)",
+      "description": "The Dow Jones index dipped in mixed trade Wednesday after surprise jobs data. Bitcoin stock Strategy jumped.",
+      "published_utc": "2026-01-07T17:12:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=00d24019bb03f34368b23194b5fc40d1aebfe34ff3a9cb9bd6853ed1cbffe1fa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138032848,
+      "datetime": 1767823943
+    },
+    {
+      "title": "Uncertainty Interrupts Stock-Market’s New-Year Rally",
+      "description": "Early gains eroded as new economic data and a housing proclamation from Trump shook investor sentiment.",
+      "published_utc": "2026-01-07T16:47:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=267c9386f6fb5ae91b69dd812b647fb253cf7944f26d03a9cdc4007184441010",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138033179,
+      "datetime": 1767822420
+    },
+    {
+      "title": "Expanded Nvidia Partnership Underscores Caterpillar's AI Acumen",
+      "description": "Caterpillar sells reams of generators to data centers. Now it's outfitting its machinery with AI systems made by Nvidia.",
+      "published_utc": "2026-01-07T16:00:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=786f67faefd7ae83113a6f61ff6e56a6ea54145129efa781ad3120f1902a1ebb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138033180,
+      "datetime": 1767819656
+    },
+    {
+      "title": "Brady Stock Is up 13% This Past Year, but Here's Why One Fund Cashed Out Completely",
+      "description": "Brady Corporation delivers identification and workplace safety solutions to industrial and commercial clients worldwide.",
+      "published_utc": "2026-01-07T14:58:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2fddaf0e269de4b2ea4510a04a7c689516f7f44d49af0bb2f5826f25f86f5cf7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138033181,
+      "datetime": 1767815892
+    },
+    {
+      "title": "How Caterpillar is positioning itself with the booming AI industry",
+      "description": "Caterpillar CEO Joe Creed said Wednesday that the company is now positioned with the chip manufacturing giant Nvidia in the AI sector.",
+      "published_utc": "2026-01-07T14:21:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a4293254d4bb96fd4bb440b7662d56f114b12d16978696d05dca4f233e46602f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138033182,
+      "datetime": 1767813711
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:09:02.097151+00:00",
+    "cache_key": "news_f2415adf4a6b2d9d35b8cd78f2c4b526",
+    "count": 5
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Elizabeth Warren Blasts Amazon For Internet Meltdown, Says 'If A Company Can Break The Entire Internet, They Are Too Big'",
+      "description": "On Monday, Sen. Elizabeth Warren (D-Mass.) called to break up Big Tech after a massive Amazon.com, Inc. (NASDAQ:AMZN) Web Services outage disrupted access to dozens of major platforms, including Amazon delivery services, Walt Disney Co. (NYSE:DIS) ...",
+      "published_utc": "2025-10-21T16:31:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b24a4de4f47d54670706852233cb95896a8f11454a094784dcc417e6beb9ffb5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137186403,
+      "datetime": 1761078678
+    },
+    {
+      "title": "Amazon Cloud Reputation Takes Hit After Outage Lasting 15 Hours",
+      "description": "The incident, which some analysts are calling Amazon’s worst outage since 2021, reminded the world of the perils of depending on a handful of cloud companies to deliver crucial computing and internet services.  Outages like Monday’s strike at a core premise of the cloud: that a centralized operation full of sharp engineers will keep servers running better and more efficiently than individual companies’ own staff.",
+      "published_utc": "2025-10-21T09:58:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=52e2b4960dc26a53f84d007fadccf8036918a17bf847869465242640849a0c5f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137177757,
+      "datetime": 1761055099
+    },
+    {
+      "title": "AWS outage resolved: Which companies were affected the most?",
+      "description": "Everything from apps and website hosting to even your child's schoolwork portal were affected by Amazon's (AMZN) AWS outage on Monday. The company has since announced that the Amazon Web Services' cloud outage has been resolved. Yahoo Finance tech editor Dan Howley comes on the Morning Brief to highlight an assortment of companies and platforms most affected by the outage. To watch more expert insights and analysis on the latest market action, check out more Morning Brief.",
+      "published_utc": "2025-10-21T09:45:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1ed22c8209a79898df7093f1305891366f132755c7f1de8de385a3898fb4b45b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137177796,
+      "datetime": 1761054348
+    },
+    {
+      "title": "Citigroup Maintains Buy on McDonald's, Lowers Price Target to $375",
+      "description": "Citigroup  analyst Jon Tower   maintains McDonald&#39;s (NYSE:MCD) with a Buy and lowers the price target from $381 to $375.",
+      "published_utc": "2025-10-21T07:45:21",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=e71510e4bddc88921e1d2f210e036c471b273611c60337e9fe323036fd7c8dfd",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138505926,
+      "datetime": 1761047121
+    },
+    {
+      "title": "2 REITs That Missed Out On The Rally",
+      "description": "Most REITs have risen a lot already, but some have missed this recovery and remain discounted. Check out two REIT stocks that remain opportunistic.",
+      "published_utc": "2025-10-21T04:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e850fb2e938c2a3122f11df694031f8e98915370a9be13f592d5486be033a0d4",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2192483220/image_2192483220.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137177153,
+      "datetime": 1761034500
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:43:37.581422+00:00",
+    "cache_key": "news_38d6ab03ab84c7ef61985b83ba277049",
+    "count": 5
+  }
+}

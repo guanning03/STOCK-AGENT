@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "As Vaccine Skepticism Mounts, Moderna’s Business Grows More Precarious",
+      "description": "As Vaccine Skepticism Mounts, Moderna’s Business Grows More Precarious",
+      "published_utc": "2025-03-26T11:45:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=7327a14ebc0c7ec414851bb1d083399592dbb1489f8335c450d63df7561aa2dd",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134148460,
+      "datetime": 1743003900
+    },
+    {
+      "title": "Live On CNBC, Karen Firestone Announces Bought More HealthEquity; Bought Amgen",
+      "description": "",
+      "published_utc": "2025-03-26T08:31:28",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=18ff61dcc7064f158ce9ce2fa27babe8c3f223546fcdb183a007a591c9d2419d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138882592,
+      "datetime": 1742992288
+    },
+    {
       "title": "Amgen Inc. stock underperforms Tuesday when compared to competitors",
       "description": "Amgen Inc. stock underperforms Tuesday when compared to competitors",
       "published_utc": "2025-03-26T00:35:00",

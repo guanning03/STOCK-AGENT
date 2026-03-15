@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Trouble Ahead, Says The Fed",
+      "description": "",
+      "published_utc": "2025-06-20T23:25:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=69f79e41f328978fe9fd8691b2c8f9a991dbddc6ada60bcd7316e12dc92f460b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135451106,
+      "datetime": 1750476300
+    },
+    {
+      "title": "S&P 500 Snapshot: Index Down For Second Straight Week",
+      "description": "The S&P 500 posted its second straight weekly loss, finishing down 0.2% from the previous Friday.",
+      "published_utc": "2025-06-20T22:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3f67b873beaa776b02b15adabcbf08391afcacd2f5b6d10248e801ef2c71befa",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1457838120/image_1457838120.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135450358,
+      "datetime": 1750473900
+    }
+  ]
+}

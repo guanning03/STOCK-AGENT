@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Wall Street Brunch: Mega And Macro",
+      "description": "Kevin Warshâs Fed nomination may reshape January payrolls reaction. Amazon and Alphabet earnings spotlight AI demand and cost cuts. Bitcoin dips below $80K as investors debate",
+      "published_utc": "2026-02-01T09:15:09",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=80b035a63bb92c131da33abafca25976089565912c65588db50184d071ece3ac",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/137044062/image_137044062.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138325747,
+      "datetime": 1769955309
+    },
+    {
+      "title": "January jobs data, Alphabet and Amazon earnings, more Warsh fallout: What to watch this week",
+      "description": "Crucial labor market data, more earnings from Big Tech giants, and continued discussion over where Kevin Warsh may lead the central bank should set the agenda in the week ahead.",
+      "published_utc": "2026-02-01T07:47:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=22a75c6698ef0c76639591b1eb45c7cf7117cb7863e10896a6b1489fadf887dd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138323726,
+      "datetime": 1769950043
+    },
+    {
+      "title": "Amgen Refocuses Pipeline As Rocatinlimab Exit Reshapes Dermatology Outlook",
+      "description": "Amgen (NasdaqGS:AMGN) has ended its collaboration with Kyowa Kirin on the atopic dermatitis drug rocatinlimab. The decision is tied to portfolio prioritization and returns full program control to Kyowa Kirin. The move signals a shift in Amgen’s focus within its dermatology and autoimmune pipeline. For you as an investor, this development sits at the intersection of immunology, dermatology and large molecule drug development. These are areas where Amgen has been active across multiple...",
+      "published_utc": "2026-02-01T05:05:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a5a1488606ab6d5795cfe1f1d0472f294454c1de815e6284a9ca5cae4f812340",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138323124,
+      "datetime": 1769940349
+    },
+    {
+      "title": "Wall Street Week Ahead",
+      "description": "Preview the week ahead: key U.S. economic data (jobs report, PMIs) and megacap earnings from Amazon, Alphabet, AMD & more.",
+      "published_utc": "2026-02-01T02:03:17",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=eac16ad9d8149baec4a9a5d05a44f66db010dff1db934f8c9fbdec0dd6e0f51a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2201625581/image_2201625581.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138323169,
+      "datetime": 1769929397
+    }
+  ]
+}

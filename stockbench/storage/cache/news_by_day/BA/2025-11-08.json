@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "FAA Orders Grounding of MD-11 Planes After Kentucky Crash",
+      "description": "UPS and FedEx had earlier removed cargo planes from service as the death toll in Louisville climbs to 14.",
+      "published_utc": "2025-11-08T18:14:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ce7f2136e5f2fc7a4d7dab371ba28975904089b7ed952c293da5dec38fa11a6a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137384601,
+      "datetime": 1762643640
+    },
+    {
+      "title": "UPS Grounds MD-11 Fleet After Kentucky Cargo Jet Crash. What to Know.",
+      "description": "United Parcel Service has decided to ground its MD-11 fleet “out of an abundance of caution and in the interest of safety” following the tragic crash of one of its cargo jets, the company said Friday.  At the end of 2024, UPS owned and operated 294 aircraft, including 38 MD-11 jets.  “Contingency plans are in place to ensure we can continue to deliver the reliable service our customers around the world count on,” the statement said.",
+      "published_utc": "2025-11-08T17:08:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e5a2ef2d2d5cbba6e8c94a65e123974b2a2c4bca9a03cb0a526b7e1e9e98211f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137384565,
+      "datetime": 1762639680
+    },
+    {
+      "title": "UPS and FedEx Ground MD-11 Fleets After Deadly Kentucky Plane Crash",
+      "description": "Boeing requested the move out of “an abundance of caution” as the death toll in Louisville climbed to 14.",
+      "published_utc": "2025-11-08T06:55:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4cfbca7b825406856bd4c5832cd136276720e86e71cfe3afd5584a0942766a49",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137378424,
+      "datetime": 1762602900
+    }
+  ]
+}

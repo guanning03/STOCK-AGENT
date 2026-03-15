@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "All It Takes Is $15,000 Invested in Each of These 3 Dow Jones Dividend Stocks to Help Generate Over $1,000 in Passive Income Per Year",
+      "description": "You can count on these ultra-reliable dividend stocks to boost your passive income no matter what the stock market is doing.",
+      "published_utc": "2025-09-28T19:59:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bc92953b30c882901362b8e7a9028a8509fa86db9fe75893c9272c7e980227d8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136913624,
+      "datetime": 1759103940
+    },
+    {
+      "title": "Best Dividend Aristocrats For October 2025",
+      "description": "Dividend Aristocrats, tracked by NOBL, outperformed SPY in August but lagged year-to-date. Check out the promising dividend aristocrats right now.",
+      "published_utc": "2025-09-27T21:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=80b94346d4f08aadcb8ef4dd3c6f559e7efa52d69d34269d73cbad8d41f46360",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2148089915/image_2148089915.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136904977,
+      "datetime": 1759021200
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T04:29:54.394804+00:00",
+    "cache_key": "news_b40edf78998c062f4c95d5e645f3bf7b",
+    "count": 2
+  }
+}

@@ -1,6 +1,116 @@
 {
   "items": [
     {
+      "title": "Top Stock Reports for Meta Platforms, Honeywell & Automatic Data Processing",
+      "description": "Today's Research Daily features new research reports on 16 major stocks, including Meta Platforms, Inc. (META), Honeywell International Inc. (HON) and Automatic Data Processing, Inc. (ADP).",
+      "published_utc": "2025-05-21T16:31:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=808cda85bb043a0d9db81acb26986e9594aca103665fc9018e8bedef01c6607b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134647845,
+      "datetime": 1747859460
+    },
+    {
+      "title": "Honeywell International Inc. stock underperforms Wednesday when compared to competitors",
+      "description": "Honeywell International Inc. stock underperforms Wednesday when compared to competitors",
+      "published_utc": "2025-05-21T12:36:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=a7e11fd731ee9628fe7093f07d450eddd3949e504b21c2a8e48e3c8e846b0cfc",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134635107,
+      "datetime": 1747845360
+    },
+    {
+      "title": "Honeywell Close To Securing Johnson Matthey Catalyst Unit In 1.8 Billion STG Deal - FT",
+      "description": "May 21 - * HONEYWELL CLOSE TO SECURING JOHNSON MATTHEY CATALYST UNITIN£1.8BN DEAL - FT * JOHNSON MATTHEY’S CATALYST TECHNOLOGIES UNIT IS EXPECTEDTO BECOMBINED WITH...",
+      "published_utc": "2025-05-21T11:58:08",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=a045c4e1d9b030a414f098ef72a4109450034b10f89a1fb3dd0a1a550ef8a688",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134627847,
+      "datetime": 1747843088
+    },
+    {
+      "id": "d103ec58c27f423f72a2237f534b181db09f05fb1bd3c89101799909066625db",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Ambient Assisted Living Market Size to Reach USD 57.47 Billion by 2032 Growing at a CAGR of 26.27% – SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-05-21T06:10:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/05/21/3085428/0/en/Ambient-Assisted-Living-Market-Size-to-Reach-USD-57-47-Billion-by-2032-Growing-at-a-CAGR-of-26-27-SNS-Insider.html",
+      "tickers": [
+        "HON",
+        "SIEGY",
+        "LGRDY",
+        "PHG"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The global Ambient Assisted Living (AAL) market is expected to grow significantly, driven by the aging population, increasing prevalence of chronic diseases, and the integration of smart healthcare technologies. The market is projected to reach USD 57.47 billion by 2032, with a CAGR of 26.27% from 2024 to 2032.",
+      "keywords": [
+        "Ambient Assisted Living",
+        "AAL",
+        "Smart Healthcare",
+        "Aging Population",
+        "Chronic Diseases"
+      ],
+      "insights": [
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Honeywell is a major player in the AAL market, offering solutions like the LYNX Touch Security System and Total Connect Remote Services, which integrate AI, IoT, and predictive analytics to assist elderly people."
+        },
+        {
+          "ticker": "SIEGY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Siemens is another key player in the AAL market, providing Building Automation Systems and the Desigo CC Management Platform to help elderly people live independently."
+        },
+        {
+          "ticker": "LGRDY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Legrand offers smart home solutions like the Adorne Smart Lighting and Nuvo Whole Home Audio, which can be integrated into AAL systems to enhance the living experience for the elderly."
+        },
+        {
+          "ticker": "PHG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Philips Healthcare offers the Lifeline Medical Alert System and Hue Smart Lighting, which are designed to assist elderly people and enable them to live independently."
+        }
+      ]
+    },
+    {
+      "title": "My Dividend Stock Portfolio: New All-Time Dividend Record In April - 100 Holdings With 14 Buys",
+      "description": "",
+      "published_utc": "2025-05-21T04:10:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=da857ba038502fb2801876c07073c96e54676960374534733580830e88991dab",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134624799,
+      "datetime": 1747815000
+    },
+    {
       "title": "Honeywell International Inc. (HON) Presents at Wolfe Research 2025 Global Transportation and Industrials Conference (Transcript)",
       "description": "Honeywell International Inc. (NASDAQ:HON) Wolfe Research 2025 Global Transportation and Industrials Conference May 20, 2025 2:05 PM ETCompany...",
       "published_utc": "2025-05-21T02:50:27",

@@ -1,0 +1,130 @@
+{
+  "items": [
+    {
+      "title": "Boeing’s $724 Million Radar Plane Lives On, Despite Pentagon Efforts to Kill It",
+      "description": "Boeing’s $724 Million Radar Plane Lives On, Despite Pentagon Efforts to Kill It",
+      "published_utc": "2025-12-28T07:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=a965ce3ee61ea72750fc1618a0414179c669fbc5cf025f79f7feebd5afc0b130",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138004634,
+      "datetime": 1766923200
+    },
+    {
+      "id": "c5f113b6b154f1a5f3fd06bc91a77b7fa7416ef20042b632a72ef42f32f522f2",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "2026 SpaceX IPO: Investors Want to Buy a Space Stock, but They'll Get an ISP Instead",
+      "author": "Rich Smith",
+      "published_utc": "2025-12-28T10:05:00Z",
+      "article_url": "https://www.fool.com/investing/2025/12/28/2026-spacex-ipo-investors-want-a-space-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "LMT",
+        "BA",
+        "BApA",
+        "RKLB",
+        "RDW",
+        "T",
+        "TBB",
+        "TpA",
+        "TpC",
+        "VZ",
+        "CCZ",
+        "CMCSA",
+        "CMCSV"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F848369%2Fillustration-of-rocket-launching-over-a-red-planet-with-the-word-mars-below-in-green-font.jpg&w=1200&op=resize",
+      "description": "SpaceX announced a 2026 IPO, but the company has evolved into primarily an Internet Service Provider rather than a pure space company. With approximately 70% of revenue coming from Starlink satellite internet services compared to traditional space operations, investors expecting a space company investment may actually be buying into an ISP business model with significantly higher profit margins than traditional aerospace companies.",
+      "keywords": [
+        "SpaceX IPO 2026",
+        "Starlink",
+        "satellite internet",
+        "space company",
+        "ISP business model",
+        "revenue composition",
+        "operating margins"
+      ],
+      "insights": [
+        {
+          "ticker": "LMT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a comparison point for traditional aerospace companies with lower operating margins (<10%), used to contextualize SpaceX's superior profitability but without direct impact on the company."
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Referenced as an established space company with low operating margins, used as a benchmark comparison without direct implications for the company."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Referenced as an established space company with low operating margins, used as a benchmark comparison without direct implications for the company."
+        },
+        {
+          "ticker": "RKLB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a space startup struggling to achieve profitability, used as a comparative example of industry challenges without direct commentary on the company's prospects."
+        },
+        {
+          "ticker": "RDW",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Referenced as a space startup with profitability challenges, used as an industry comparison point without direct assessment."
+        },
+        {
+          "ticker": "T",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a terrestrial ISP with 20%+ operating margins, used as a comparison benchmark for ISP profitability without direct commentary."
+        },
+        {
+          "ticker": "TBB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a terrestrial ISP with 20%+ operating margins, used as a comparison benchmark for ISP profitability without direct commentary."
+        },
+        {
+          "ticker": "TpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a terrestrial ISP with 20%+ operating margins, used as a comparison benchmark for ISP profitability without direct commentary."
+        },
+        {
+          "ticker": "TpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a terrestrial ISP with 20%+ operating margins, used as a comparison benchmark for ISP profitability without direct commentary."
+        },
+        {
+          "ticker": "VZ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Referenced as an ISP with strong operating margins, used as a profitability comparison point without direct implications."
+        },
+        {
+          "ticker": "CCZ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Cited as an ISP with high operating margins (38-57%), used to illustrate the profitability potential of ISP business models that SpaceX is increasingly resembling."
+        },
+        {
+          "ticker": "CMCSA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Cited as an ISP with high operating margins (38-57%), used to illustrate the profitability potential of ISP business models that SpaceX is increasingly resembling."
+        },
+        {
+          "ticker": "CMCSV",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Cited as an ISP with high operating margins (38-57%), used to illustrate the profitability potential of ISP business models that SpaceX is increasingly resembling."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T09:16:45.013432+00:00",
+    "cache_key": "news_90fc28c80b0b823b9b089e8a5d06a227",
+    "count": 2
+  }
+}

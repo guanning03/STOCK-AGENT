@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "id": "b05914dd23aa7a10a99d171c9965c80f14314e2ae0ecb112445f39e2893e5a2a",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "D-Wave Faces Rising Competition as Nvidia-Backed Quantinuum Enters the Race",
+      "author": "Nathan Reiff",
+      "published_utc": "2025-09-09T19:10:00Z",
+      "article_url": "https://www.investing.com/analysis/dwave-faces-rising-competition-as-nvidiabacked-quantinuum-enters-the-race-200666640",
+      "tickers": [
+        "QBTS",
+        "QBTS.WS",
+        "NVDA",
+        "HON"
+      ],
+      "amp_url": "https://m.investing.com/analysis/dwave-faces-rising-competition-as-nvidiabacked-quantinuum-enters-the-race-200666640?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "D-Wave Quantum Inc. faces increasing competition in the quantum computing market with Nvidia's significant investment in Quantinuum, a joint venture of Honeywell. Despite challenges, D-Wave maintains strong financial positioning and continues to develop its quantum technologies.",
+      "keywords": [
+        "quantum computing",
+        "technology competition",
+        "investment",
+        "innovation"
+      ],
+      "insights": [
+        {
+          "ticker": "QBTS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Company has strong cash reserves ($800 million), year-to-date stock performance is up 60%, but faces increasing market competition"
+        },
+        {
+          "ticker": "QBTS.WS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Company has strong cash reserves ($800 million), year-to-date stock performance is up 60%, but faces increasing market competition"
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Actively investing in quantum computing through partnership with Quantinuum and establishing Accelerated Quantum Research Center"
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Part of Quantinuum joint venture, with analyst ratings split between Buy and Hold"
+        }
+      ]
+    },
+    {
+      "title": "Quantum Pact: NVIDIA, Honeywell Raise Stakes for IonQ, Rigetti, D-Wave",
+      "description": "Honeywell's Quantinuum secures $600M with NVIDIA among backers, bringing IonQ, Rigetti and D-Wave into sharper investor focus.",
+      "published_utc": "2025-09-09T16:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=334bd3c3be986b045a41bca469d6da1b9ca2820563d5f8b0e06667d71ba921a1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136689377,
+      "datetime": 1757448000
+    },
+    {
+      "title": "TRG Accelerates Global Leadership in Managed Endpoints and Cybersecurity",
+      "description": "CLEVELAND, September 09, 2025--TRG, the global leader in comprehensive, device-agnostic managed endpoint solutions, today announced a series of milestones that expand its reach, deepen its capabilities and deliver greater value to enterprise customers worldwide.",
+      "published_utc": "2025-09-09T09:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=29fe945ad118c519f54cdd097b61652f762c7d09a07b83f0d6319edf8fc6b774",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136689378,
+      "datetime": 1757424600
+    }
+  ]
+}

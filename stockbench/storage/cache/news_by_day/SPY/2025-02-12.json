@@ -1,0 +1,232 @@
+{
+  "items": [
+    {
+      "id": "0a01b6169555bf3b07cd79b36d5026f1eeb730a74fee9ec1ed3c54143edab9b1",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Producer Inflation Preview: Why Is Fed Chair Powell Closely Watching Thursday's Wholesale Prices?",
+      "author": "Piero Cingari",
+      "published_utc": "2025-02-12T21:43:19Z",
+      "article_url": "https://www.benzinga.com/government/regulations/25/02/43676811/producer-inflation-preview-why-is-fed-chair-powell-closely-watching-thursdays-wholesale-pr",
+      "tickers": [
+        "DIA",
+        "SPY"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/02/12/Jerome-Powell.jpeg?width=1200&height=800&fit=crop",
+      "description": "Investors are bracing for the January Producer Price Index (PPI) report, which will provide insights into inflationary pressures at the production level. Economists expect a slight easing in headline producer inflation, but a monthly acceleration, which could reinforce the Federal Reserve's cautious approach to rate cuts.",
+      "keywords": [
+        "Producer Price Index",
+        "PPI",
+        "inflation",
+        "Federal Reserve",
+        "Jerome Powell",
+        "SPDR Dow Jones Industrial Average ETF",
+        "SPDR S&P 500"
+      ],
+      "insights": [
+        {
+          "ticker": "DIA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that the SPDR Dow Jones Industrial Average ETF saw slight declines on Wednesday, but does not provide a strong positive or negative sentiment."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article states that the S&P 500, as tracked by the SPDR S&P 500 ETF Trust, closed 0.3% lower amid rate cut uncertainty, but does not provide a strong positive or negative sentiment."
+        }
+      ]
+    },
+    {
+      "id": "3375c526883ff89dc2935f2c43876856f5cb07cb383f4b1c70f885153c558feb",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Inflation Runs Hot In January: 'Houston We Have A Problem,' Experts Warn",
+      "author": "Erica Kollmann",
+      "published_utc": "2025-02-12T17:43:01Z",
+      "article_url": "https://www.benzinga.com/25/02/43667841/inflation-is-hot-and-getting-hotter",
+      "tickers": [
+        "SPY",
+        "QQQ"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/02/12/Federal-Reserve-illustration.jpeg?width=1200&height=800&fit=crop",
+      "description": "January's inflation data came in hotter-than-expected, with the Consumer Price Index rising to 3% year-over-year. Experts warn that this could force the Federal Reserve to reconsider its plans for interest rate cuts in 2025.",
+      "keywords": [
+        "inflation",
+        "interest rates",
+        "Federal Reserve"
+      ],
+      "insights": [
+        {
+          "ticker": "SPY",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The SPDR S&P 500 ETF, which tracks the S&P 500 index, is down 0.37% in response to the higher-than-expected inflation data, indicating a negative market sentiment."
+        },
+        {
+          "ticker": "QQQ",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The Invesco QQQ Trust, which tracks the Nasdaq 100 index, is down 0.18% in response to the inflation data, also indicating a negative market sentiment."
+        }
+      ]
+    },
+    {
+      "id": "eed06eaa681af0b8e4578c4f5bcff80b4e038464dc245f48010796dbb24a22ac",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Inflation Rises More Than Expected In January, Chills Interest Rate Cut Hopes",
+      "author": "Piero Cingari",
+      "published_utc": "2025-02-12T13:48:11Z",
+      "article_url": "https://www.benzinga.com/government/regulations/25/02/43656846/inflation-rises-more-than-expected-in-january-chills-interest-rate-cut-hopes",
+      "tickers": [
+        "SPY"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/02/12/Inflation-illustration_0.jpeg?width=1200&height=800&fit=crop",
+      "description": "Inflation surged more than expected in January, with CPI rising 3% year-over-year and 0.5% month-over-month, exceeding forecasts and dampening investor hopes for Federal Reserve interest rate cuts.",
+      "keywords": [
+        "inflation",
+        "CPI",
+        "interest rates",
+        "Federal Reserve"
+      ],
+      "insights": [
+        {
+          "ticker": "SPY",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article states that S&P 500 futures were down 1.1% in pre-market trading, indicating a cautious start for the broader stock market in response to the inflation data."
+        }
+      ]
+    },
+    {
+      "id": "41512b0b83e10bd44019cfd4986bd7738f0cada1217740641788110d844ca4a3",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "US Stocks Set For A Cautious Start Ahead Of Inflation Data: Expert Says 'Strong Bull Markets Tend To Roar Back To Life After Corrections'",
+      "author": "Rishabh Mishra",
+      "published_utc": "2025-02-12T11:13:34Z",
+      "article_url": "https://www.benzinga.com/government/regulations/25/02/43651497/us-stocks-set-for-a-cautious-start-ahead-of-inflation-data-expert-says-strong-bull-markets",
+      "tickers": [
+        "BIIB",
+        "CME",
+        "CSCO",
+        "CVS",
+        "DASH",
+        "HOOD",
+        "KHC",
+        "KO",
+        "PBI",
+        "PBIpB",
+        "QQQ",
+        "RDDT",
+        "SPY",
+        "TSLA",
+        "Z",
+        "ZG"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/02/12/nyse-shutter.jpeg?width=1200&height=800&fit=crop",
+      "description": "U.S. stock futures fell ahead of the release of inflation data, with traders expecting a modest report that could signal easing price pressures and potential interest rate cuts by the Federal Reserve. Experts noted a 'weak recovery' in the market, but sentiment remains constructive.",
+      "keywords": [
+        "US stocks",
+        "inflation data",
+        "Federal Reserve",
+        "market sentiment"
+      ],
+      "insights": [
+        {
+          "ticker": "BIIB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company's stock is up ahead of its earnings release."
+        },
+        {
+          "ticker": "CME",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company's stock is up ahead of its earnings release."
+        },
+        {
+          "ticker": "CSCO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The company's stock is down slightly ahead of its earnings release."
+        },
+        {
+          "ticker": "CVS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company's stock is up ahead of its earnings release."
+        },
+        {
+          "ticker": "DASH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company's stock surged after reporting strong results."
+        },
+        {
+          "ticker": "HOOD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company's stock is up ahead of its earnings release."
+        },
+        {
+          "ticker": "KHC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company's stock is up ahead of its earnings release."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company's stock jumped after beating expectations."
+        },
+        {
+          "ticker": "PBI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company's stock jumped after reporting better-than-expected earnings."
+        },
+        {
+          "ticker": "PBIpB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company's stock jumped after reporting better-than-expected earnings."
+        },
+        {
+          "ticker": "QQQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The ETF is down slightly in premarket trading."
+        },
+        {
+          "ticker": "RDDT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company's stock is up ahead of its earnings release."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The ETF is down slightly in premarket trading."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The company's stock declined sharply following news of a partnership between a Chinese EV maker and an AI firm."
+        },
+        {
+          "ticker": "Z",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The company's stock is down after reporting worse-than-expected earnings and issuing a weak revenue guidance."
+        },
+        {
+          "ticker": "ZG",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The company's stock is down after reporting worse-than-expected earnings and issuing a weak revenue guidance."
+        }
+      ]
+    }
+  ]
+}

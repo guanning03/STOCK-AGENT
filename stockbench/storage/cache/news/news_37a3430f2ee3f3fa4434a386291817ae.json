@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stocks waver to start the week; Alphabet rises on Berkshire stake: Live updates",
+      "description": "The moves followed a choppy week in which valuation fears, a rotation within the market and a recalibration of Fed rate cut expectations pressured the AI trade.",
+      "published_utc": "2025-11-16T13:03:02",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=e50d182508f6a57f1edaf86774c2b39a8f013eb0b2ad028986cdfa17dcbad84a",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108226830-1763392835659-gettyimages-2247137978-mms16712_47skvqbr.jpeg?v=1763392911&w=1920&h=1080",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137505320,
+      "datetime": 1763316182
+    },
+    {
+      "title": "NVDA Earnings, FOMC and Other Key Things to Watch this Week",
+      "description": "Markets face a defining week dominated by Nvidia's Wednesday earnings, an event that could determine the trajectory of AI infrastructure investment narratives and broader technology sector leadership heading into year-end.",
+      "published_utc": "2025-11-16T13:00:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=30fbea2c9ad6f8d8d9e051c37fd7c5b3077c5ea2baaf2726ad0714f7241213b9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137501885,
+      "datetime": 1763316002
+    },
+    {
+      "title": "Home Depot to suffer massive boycott from holiday shoppers",
+      "description": "Home Depot has been battling weak consumer demand over the past few years amid nationwide concerns over inflation and housing affordability. In Home Depot’s second-quarter earnings report for 2025, it revealed that its U.S. comparable sales increased by 1.4% year over year. However, data from ...",
+      "published_utc": "2025-11-16T12:47:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=26027a241a1b3e37dd28734cf4beac966914e489d88b8e9829d9f85db41f8249",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137502010,
+      "datetime": 1763315220
+    },
+    {
+      "title": "Fed Minutes, Plus Walmart, Target, Home Depot, Nvidia, and More Stocks to Watch This Week",
+      "description": "The Fed will release its October-meeting minutes on Wednesday, as chances of a December quarter-point rate cut have declined. Companies in the spotlight include Klarna, Medtronic, TJX, and more.",
+      "published_utc": "2025-11-16T11:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=90a1bc485e18c7b478de9c8136f47df4c9c7927dc700e37df61bd7c2d1bb37d3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137501888,
+      "datetime": 1763310000
+    },
+    {
+      "title": "Trick week for stocks",
+      "description": "Stocks face potentially a volatile week. Not just from the earnings that are due from the likes of Nvidia, Walmart, Home Depot, Lowe's and Target. There's also a bit of unease settling over markets coming from crypto land, where prices for bitcoin, ethereum and other crypto currencies have slumped ...",
+      "published_utc": "2025-11-16T08:51:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=977f6d8a3a843c8a4d926df2b7cbef6d3fd3919c05a434027f6dae890a684373",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137501923,
+      "datetime": 1763301099
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:05:15.154501+00:00",
+    "cache_key": "news_37a3430f2ee3f3fa4434a386291817ae",
+    "count": 5
+  }
+}

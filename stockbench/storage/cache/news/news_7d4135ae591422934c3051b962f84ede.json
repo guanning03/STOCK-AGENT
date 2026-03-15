@@ -1,0 +1,410 @@
+{
+  "items": [
+    {
+      "id": "378dbbd2aa9e6070aa76be010317d50dddebec8f8bd1ede8141e7586d1baf160",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Business Intelligence Market to Reach USD 68.72 Billion by 2032 | SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-02-19T15:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/19/3028896/0/en/Business-Intelligence-Market-to-Reach-USD-68-72-Billion-by-2032-SNS-Insider.html",
+      "tickers": [
+        "MSFT",
+        "CRM",
+        "IBM",
+        "SAP",
+        "ORCL",
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "MSTR",
+        "STRK",
+        "TDC",
+        "DOMO",
+        "HTHIY"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The Business Intelligence market is projected to grow at a CAGR of 10.09% from 2024 to 2032, driven by the adoption of AI, analytics, and cloud solutions, as well as rising demand for security, real-time insights, and automation.",
+      "keywords": [
+        "Business Intelligence",
+        "AI",
+        "Analytics",
+        "Cloud",
+        "Security",
+        "Real-time insights",
+        "Automation"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is a major player in the Business Intelligence market, offering solutions like Power BI and Azure Synapse Analytics, which are contributing to the market's growth."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Tableau Software, a Salesforce company, is a leading provider of Business Intelligence solutions like Tableau Desktop and Tableau Server, which are driving the market's expansion."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IBM offers Cognos Analytics and Watson Studio, which are key Business Intelligence products contributing to the market's growth."
+        },
+        {
+          "ticker": "SAP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "SAP's BusinessObjects and Analytics Cloud offerings are driving the Business Intelligence market's expansion."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Oracle's Analytics Cloud and OBIEE solutions are contributing to the growth of the Business Intelligence market."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Google's Looker and BigQuery BI Engine are part of the Business Intelligence market's growth."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Google's Looker and BigQuery BI Engine are part of the Business Intelligence market's growth."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon Web Services' QuickSight and Glue offerings are contributing to the Business Intelligence market's expansion."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce's Tableau and Einstein Analytics are key players in the Business Intelligence market."
+        },
+        {
+          "ticker": "MSTR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "MicroStrategy's ONE and HyperIntelligence solutions are part of the Business Intelligence market's growth."
+        },
+        {
+          "ticker": "STRK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "MicroStrategy's ONE and HyperIntelligence solutions are part of the Business Intelligence market's growth."
+        },
+        {
+          "ticker": "TDC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Teradata's Vantage and Data Lab offerings are contributing to the Business Intelligence market's expansion."
+        },
+        {
+          "ticker": "DOMO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "DOMO's BI and Data Science solutions are driving the growth of the Business Intelligence market."
+        },
+        {
+          "ticker": "HTHIY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Hitachi Vantara's Pentaho and Lumada solutions are part of the Business Intelligence market's expansion."
+        }
+      ]
+    },
+    {
+      "id": "d7f21bd86d3c5bd6dbd6128fe0ec32023ba9dc8211e47baf276dc30223126952",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Blockchain Market Size to Surpass USD 988.83 Billion by 2032 | SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-02-19T15:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/19/3028897/0/en/Blockchain-Market-Size-to-Surpass-USD-988-83-Billion-by-2032-SNS-Insider.html",
+      "tickers": [
+        "ORCL",
+        "IBM",
+        "ACN",
+        "GOOG",
+        "GOOGL",
+        "BABA",
+        "MSFT",
+        "SAP",
+        "HPE",
+        "HPEpC",
+        "TCEHY",
+        "WIT",
+        "INFY",
+        "LUMN",
+        "DOCN"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The Blockchain market is growing rapidly, driven by the demand for secure transactions, decentralized finance, and better data integrity. Public blockchain dominates the market, while hybrid blockchain sees rapid growth. The market is expected to reach $988.83 billion by 2032, growing at a CAGR of 64.4% from 2024 to 2032.",
+      "keywords": [
+        "blockchain",
+        "decentralized finance",
+        "data integrity",
+        "public blockchain",
+        "hybrid blockchain"
+      ],
+      "insights": [
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Oracle is listed as a major player in the blockchain market, offering the Oracle Blockchain Platform and Oracle Intelligent Track and Trace, showcasing their participation in the blockchain ecosystem."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IBM is mentioned as a major player in the blockchain market, offering the IBM Blockchain Platform and IBM Food Trust, demonstrating their leadership and expertise in the blockchain space."
+        },
+        {
+          "ticker": "ACN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Accenture is mentioned as a major player in the blockchain market, offering the Accenture Blockchain for Contracts and Accenture Blockchain for Supply Chain, showcasing their expertise and solutions in the blockchain domain."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Google is mentioned as a major player in the blockchain market, offering the Google Cloud Blockchain Node Engine and Google Cloud Confidential Computing, demonstrating their participation and investment in the blockchain technology."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Google is mentioned as a major player in the blockchain market, offering the Google Cloud Blockchain Node Engine and Google Cloud Confidential Computing, demonstrating their participation and investment in the blockchain technology."
+        },
+        {
+          "ticker": "BABA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alibaba is listed as a major player in the blockchain market, offering the Alibaba Cloud Blockchain as a Service (BaaS) and AntChain, showcasing their involvement and offerings in the blockchain ecosystem."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is mentioned as a major player in the blockchain market, offering the Azure Blockchain Workbench and Azure Confidential Ledger, indicating their participation and investment in the growing blockchain technology."
+        },
+        {
+          "ticker": "SAP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "SAP is mentioned as a major player in the blockchain market, offering the SAP Leonardo Blockchain and SAP Information Collaboration Hub for Life Sciences, indicating their participation and solutions in the blockchain ecosystem."
+        },
+        {
+          "ticker": "HPE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "HPE is listed as a major player in the blockchain market, offering the HPE Mission Critical Distributed Ledger Technology (DLT) and HPE Blockchain Solutions, showcasing their involvement and offerings in the blockchain space."
+        },
+        {
+          "ticker": "HPEpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "HPE is listed as a major player in the blockchain market, offering the HPE Mission Critical Distributed Ledger Technology (DLT) and HPE Blockchain Solutions, showcasing their involvement and offerings in the blockchain space."
+        },
+        {
+          "ticker": "TCEHY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Tencent is mentioned as a major player in the blockchain market, offering the Tencent Cloud Blockchain Service (TBaaS) and Tencent TrustSQL, indicating their participation and investment in the growing blockchain technology."
+        },
+        {
+          "ticker": "WIT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Wipro is listed as a major player in the blockchain market, offering the Wipro Blockchain Innovation Lab and Wipro Blockchain Trade Finance, showcasing their involvement and solutions in the blockchain ecosystem."
+        },
+        {
+          "ticker": "INFY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Infosys is mentioned as a major player in the blockchain market, offering the Infosys Blockchain PaaS and Infosys Finacle Trade Connect, indicating their participation and offerings in the blockchain space."
+        },
+        {
+          "ticker": "LUMN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Lumen Technologies is listed as a major player in the blockchain market, offering the Lumen Edge Bare Metal Blockchain Solutions and Lumen Secure Blockchain Solutions, showcasing their involvement and solutions in the blockchain ecosystem."
+        },
+        {
+          "ticker": "DOCN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "DigitalOcean is mentioned as a major player in the blockchain market, offering the DigitalOcean Blockchain Hosting and DigitalOcean Developer Cloud for Web3, indicating their participation and offerings in the blockchain space."
+        }
+      ]
+    },
+    {
+      "id": "514b66957af4f8d7056d337e7cb065e55d94a9044b6270fe57bef24c357610ba",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Arista Earnings: AI Wave Keeps Rolling",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-19T14:05:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/19/arista-earnings-ai-wave-keeps-rolling/?source=iedfolrf0000001",
+      "tickers": [
+        "ANET",
+        "CSCO",
+        "MSFT",
+        "META"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808223/gettyimages-1780299128.jpg",
+      "description": "Arista Networks surpassed Cisco Systems in the data center switch market, driven by strong demand from cloud computing giants investing in artificial intelligence infrastructure. Arista reported solid Q4 results, but growth is expected to slow slightly in 2025 despite the AI boom.",
+      "keywords": [
+        "Arista Networks",
+        "Cisco Systems",
+        "data center switches",
+        "artificial intelligence",
+        "cloud computing"
+      ],
+      "insights": [
+        {
+          "ticker": "ANET",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Arista Networks has surpassed Cisco Systems in the data center switch market, driven by strong demand from cloud computing giants investing in AI infrastructure. The company reported solid Q4 results and is targeting continued growth, albeit at a slightly lower rate, in 2025."
+        },
+        {
+          "ticker": "CSCO",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Arista Networks has surpassed Cisco Systems in the data center switch market, indicating a loss of market share for Cisco in this segment."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Microsoft is mentioned as one of the large tech giants investing in AI data centers, which is driving demand for Arista's products. However, the article does not provide any specific commentary on Microsoft's performance or outlook."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Meta Platforms is mentioned as one of the large tech giants investing in AI data centers, which is driving demand for Arista's products. However, the article does not provide any specific commentary on Meta's performance or outlook."
+        }
+      ]
+    },
+    {
+      "id": "9645afd2449b4aae0b3e7901b751410106bea1c76e7edf0c45ef64a8fc111393",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "A New Artificial Intelligence (AI) Revolution Is Coming. 3 Stocks to Buy Before It Changes the Entire Economy",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-19T11:10:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/19/a-new-artificial-intelligence-ai-revolution-is-com/?source=iedfolrf0000001",
+      "tickers": [
+        "CRM",
+        "MSFT",
+        "META"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807841/gettyimages-ai-graphic-overview-man-laptop.jpg",
+      "description": "The article discusses the upcoming AI revolution, focusing on agentic AI, and highlights three companies - Salesforce, Microsoft, and Meta - that are at the forefront of this technology, which could significantly impact their businesses and investors.",
+      "keywords": [
+        "Artificial Intelligence",
+        "Agentic AI",
+        "Salesforce",
+        "Microsoft",
+        "Meta"
+      ],
+      "insights": [
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce is well-positioned to benefit from the AI revolution, with its Agentforce solution that can help businesses automate more tasks. The company's access to enterprise data gives it an advantage in developing accurate AI models."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft has been a major beneficiary of the AI boom, with its Azure cloud platform and Copilot AI tools. The company's growing adoption of custom AI agents by businesses suggests significant growth potential in its enterprise software segment."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Meta has been incorporating generative AI into its marketing tools, and its CEO sees the potential for AI agents to replace a lot of the work involved in creating and targeting ad campaigns. This could lead to higher ad prices and revenue growth for the company."
+        }
+      ]
+    },
+    {
+      "id": "c391ac6f04ea90a43f44f9000ed101b31280d948f54444231453516d8d6b475a",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Worried That the S&P 500 Leans Too Much on Big Tech? This ETF Is a Better Buy.",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-19T10:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/19/worried-that-the-sp-500-leans-too-much-on-big-tech/?source=iedfolrf0000001",
+      "tickers": [
+        "RSP",
+        "AAPL",
+        "NVDA",
+        "MSFT",
+        "AMZN",
+        "PLTR",
+        "TPR",
+        "CEG",
+        "UBER"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807736/investor-smiling-computer-1.jpg",
+      "description": "The article discusses the Invesco S&P 500 Equal Weight ETF (RSP) as an alternative to the standard S&P 500 index, which has become heavily skewed towards the tech sector. The equal-weight ETF provides more diversification across sectors and may offer better long-term returns than the market-cap weighted S&P 500.",
+      "keywords": [
+        "S&P 500",
+        "Invesco S&P 500 Equal Weight ETF",
+        "tech sector",
+        "diversification",
+        "long-term returns"
+      ],
+      "insights": [
+        {
+          "ticker": "RSP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article presents the Invesco S&P 500 Equal Weight ETF as a more diversified alternative to the standard S&P 500, with the potential to outperform the market-cap weighted index in the long run."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Apple as one of the four companies that make up a significant portion of the S&P 500, highlighting the index's concentration in a few mega-cap tech stocks."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Nvidia as one of the four companies that make up a significant portion of the S&P 500, highlighting the index's concentration in a few mega-cap tech stocks."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Microsoft as one of the four companies that make up a significant portion of the S&P 500, highlighting the index's concentration in a few mega-cap tech stocks."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Amazon as one of the four companies that make up a significant portion of the S&P 500, highlighting the index's concentration in a few mega-cap tech stocks."
+        },
+        {
+          "ticker": "PLTR",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Palantir Technologies as one of the top four holdings in the Invesco S&P 500 Equal Weight ETF, indicating its relatively small position in the fund compared to the S&P 500."
+        },
+        {
+          "ticker": "TPR",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Tapestry as one of the top four holdings in the Invesco S&P 500 Equal Weight ETF, indicating its relatively small position in the fund compared to the S&P 500."
+        },
+        {
+          "ticker": "CEG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Constellation Energy as one of the top four holdings in the Invesco S&P 500 Equal Weight ETF, indicating its relatively small position in the fund compared to the S&P 500."
+        },
+        {
+          "ticker": "UBER",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Uber as one of the top four holdings in the Invesco S&P 500 Equal Weight ETF, indicating its relatively small position in the fund compared to the S&P 500."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T22:16:06.399801+00:00",
+    "cache_key": "news_7d4135ae591422934c3051b962f84ede",
+    "count": 5
+  }
+}

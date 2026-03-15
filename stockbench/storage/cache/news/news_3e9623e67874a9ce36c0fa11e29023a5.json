@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "What Investors Learned From Tech Earnings, in Charts",
+      "description": "What Investors Learned From Tech Earnings, in Charts",
+      "published_utc": "2025-11-01T16:30:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=c2d956a18733867aacd65856c46dad2d0619b7decaec30a0fe6bdd832300224f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137316533,
+      "datetime": 1762029000
+    },
+    {
+      "title": "Layoffs and a top exec out: what GM pullback on EVs means for you",
+      "description": "General Motors recently took its biggest step yet to address a slowing electric car industry, and it's not a minor one. GM has halted battery manufacturing in Ohio and Tennessee and reduced one of three shifts at its Detroit EV factory, resulting in the loss of approximately 1,750 jobs or temporary ...",
+      "published_utc": "2025-11-01T13:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=22cba4ec5439ea98247b114cbfc92cc6c2480508d6b8b07f185a70e2d0ed1117",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137294347,
+      "datetime": 1762018380
+    },
+    {
+      "title": "Berkshire profit rises, cash soars to record",
+      "description": "Berkshire Hathaway on Saturday reported a 34% increase in quarterly operating profit, helped by improved underwriting in its insurance operations, in its last financial report before Warren Buffett bows out as chief executive.",
+      "published_utc": "2025-11-01T10:02:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1431946a9db4ee9bc304b244f7043b6ac47bb77ad63cad2e20e33c6aef40e346",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137294349,
+      "datetime": 1762005742
+    },
+    {
+      "title": "Berkshire's Big Q3 Fueled By Over 200% Underwriting Surge",
+      "description": "Berkshire&#39;s underwriting profit surges 216%, operating earnings up 34%, Buffett hands off to Greg Abel; OxyChem deal advances amid succession.",
+      "published_utc": "2025-11-01T07:12:37",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=dde888ac7d1d44e28208a3d5fe198a7033196fbb79b47e805ebda7617277a73b",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/01/Berkshire-Hathaway-Company_0.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138694120,
+      "datetime": 1761995557
+    },
+    {
+      "title": "Magnificent Seven’s reign rolls on as Powell puts chill on rate-cut hopes",
+      "description": "Nvidia, Microsoft, Apple, Amazon, Alphabet, Meta Platforms and Tesla now boast a combined market value north of $22 trillion.",
+      "published_utc": "2025-11-01T07:02:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c6e2b8b53cb99b7ca2752a8f38f8818df93fbff153b6b3c6fc60f368e73c886c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137294350,
+      "datetime": 1761994971
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:18:07.256401+00:00",
+    "cache_key": "news_3e9623e67874a9ce36c0fa11e29023a5",
+    "count": 5
+  }
+}

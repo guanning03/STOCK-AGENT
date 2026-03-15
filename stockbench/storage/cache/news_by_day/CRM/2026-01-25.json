@@ -1,0 +1,89 @@
+{
+  "items": [
+    {
+      "title": "Wall Street Has Fallen Out of Love With Software Stocks",
+      "description": "Once a favorite of Wall Street, software stocks have been sliding lately, with investors increasingly concerned about how the sector could be upended by their newest crush: artificial-intelligence companies.  An S&P index of small and midsize software stocks is also down more than 20% over that period, with declines accelerating this month after the introduction of Anthropic’s Claude Code, an AI tool that industry insiders have said can dramatically shrink the time it takes to build even complex software.  At a time when many investors are wondering if the AI investment boom itself might be a bubble, software’s slump is a reminder of how quickly fortunes can change on Wall Street.",
+      "published_utc": "2026-01-25T05:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=32730aae89046621b268f48d1f8721127f8b29b24ce47a065b4674a976de2c85",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138252436,
+      "datetime": 1769337000
+    },
+    {
+      "id": "b2e63e40edc3669eac2cac409b1358d209ad64843ea89341ab222ec4600d3b4a",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "This ETF Could Be a Great Contrarian Artificial Intelligence (AI) Buy Right Now",
+      "author": "Adam Levy",
+      "published_utc": "2026-01-25T00:05:15Z",
+      "article_url": "https://www.fool.com/investing/2026/01/24/this-etf-could-be-a-great-contrarian-artificial-in/?source=iedfolrf0000001",
+      "tickers": [
+        "IGV",
+        "MSFT",
+        "PLTR",
+        "ORCL",
+        "CRM",
+        "ADBE",
+        "INTU"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F852670%2Fgettyimages-ai-artificial-intelligence-chat-laptop-overlay.jpg&w=1200&op=resize",
+      "description": "The iShares Expanded Tech-Software Sector ETF (IGV) has dropped 18% due to investor fears that AI will displace enterprise software. However, the article argues these concerns are overblown, as software companies are integrating AI capabilities to enhance their offerings and drive revenue growth. The ETF could represent a contrarian buying opportunity as real financial results outweigh negative sentiment.",
+      "keywords": [
+        "artificial intelligence",
+        "software sector",
+        "enterprise software",
+        "AI integration",
+        "contrarian investing",
+        "ETF",
+        "market sentiment"
+      ],
+      "insights": [
+        {
+          "ticker": "IGV",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Despite a 18% decline from highs, the article presents this as a contrarian buying opportunity, noting strong revenue growth among components and AI as a net positive catalyst for the sector."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Highlighted as one of the ETF's biggest components and cited as a successful example of integrating generative AI into enterprise software offerings."
+        },
+        {
+          "ticker": "PLTR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Noted as a major ETF component with AI Platform showing rapid expansion in use cases, lower learning curves, and tremendous sales growth."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed as a top ETF holding but not specifically discussed regarding AI integration or performance."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Despite current market concerns about AI displacement, the article argues these fears are overblown and notes the company is integrating AI capabilities to drive revenue growth."
+        },
+        {
+          "ticker": "ADBE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Similar to Salesforce, the article suggests negative sentiment is excessive and that AI integration is enhancing competitiveness and revenue per seat."
+        },
+        {
+          "ticker": "INTU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Included in top holdings; the article argues concerns about AI displacement are overblown and that AI integration benefits the company."
+        }
+      ]
+    }
+  ]
+}

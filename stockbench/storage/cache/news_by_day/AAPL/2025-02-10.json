@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "id": "ea61f1cbe55f6eb2d11f3dcf7bf8d25b2bc62926c1521d39700cebc6e90e51f4",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "China Sets Sights On Apple, Nvidia And Other US Tech Companies As Trade Tensions Rise",
+      "author": "Adam Eckert",
+      "published_utc": "2025-02-10T17:14:47Z",
+      "article_url": "https://www.benzinga.com/news/global/25/02/43600852/china-sets-sights-on-us-tech-companies-as-trade-tensions-rise",
+      "tickers": [
+        "AAPL",
+        "NVDA",
+        "GOOG",
+        "GOOGL",
+        "XLK",
+        "MAGS"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/02/10/Apple-Shenzhen-China-media-preview-store.jpeg?width=1200&height=800&fit=crop",
+      "description": "China is targeting U.S. tech companies like Apple, Nvidia, and Alphabet in an effort to gain leverage in trade negotiations with the U.S. government. Chinese officials are building a list of companies to probe over antitrust concerns as a response to recent U.S. actions.",
+      "keywords": [
+        "China",
+        "U.S. tech companies",
+        "trade tensions",
+        "antitrust",
+        "Nvidia",
+        "Alphabet",
+        "Apple"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Chinese regulators have started taking a closer look at Apple in recent weeks, as some view Apple's fees as 'unreasonably high' and believe its app rules could hurt competition."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The Nvidia probe came after the Biden administration ramped up export controls on high-end semiconductors to China."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The Google probe came immediately after an additional 10% tariff on Chinese goods went into effect last week."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The Google probe came immediately after an additional 10% tariff on Chinese goods went into effect last week."
+        },
+        {
+          "ticker": "XLK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Technology Select Sector SPDR Fund was up more than 1.5% on Monday."
+        },
+        {
+          "ticker": "MAGS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Roundhill Magnificent Seven ETF was up about 1.15% at the time of writing."
+        }
+      ]
+    }
+  ]
+}

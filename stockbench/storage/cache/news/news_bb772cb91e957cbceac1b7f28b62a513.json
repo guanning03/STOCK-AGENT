@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today: Dow Ekes Out Gain; Nasdaq Comes Off Lows While Palantir Retakes Key Level After 15% Plunge",
+      "description": "Other major indexes remained in the red in a session where investors saw division amongst monetary policymakers in the minutes of the Federal Reserve's July meeting.  Several retail stocks moved on earnings, while Palantir Technologies managed to retake a key level on the stock market today after falling more than 15%.  Meanwhile, investors awaited a speech from Fed Chairman Jerome Powell.",
+      "published_utc": "2025-08-20T16:51:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a36ee542fd7e3b1702ef51afce87d8efcbec3f6741f790464fbd30f3f6efbe32",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136450264,
+      "datetime": 1755723068
+    },
+    {
+      "title": "Travelers Cos. Inc. stock underperforms Wednesday when compared to competitors despite daily gains",
+      "description": "Travelers Cos. Inc. stock underperforms Wednesday when compared to competitors despite daily gains",
+      "published_utc": "2025-08-20T12:45:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=5210f3c96f814d6ad0203bc7c63bd8bfe118c7f11bdbb9843905b6684debff88",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136459379,
+      "datetime": 1755708300
+    },
+    {
+      "title": "Why Is W.R. Berkley (WRB) Up 4.4% Since Last Earnings Report?",
+      "description": "W.R. Berkley (WRB) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+      "published_utc": "2025-08-20T11:30:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d5901ec07e60a1785a8122a3f61a66cb24e73cb9af494eb2ffc79219880508ac",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136450658,
+      "datetime": 1755703804
+    },
+    {
+      "title": "Dow flips higher in choppy trading with help from Travelers, Walmart",
+      "description": "Dow flips higher in choppy trading with help from Travelers, Walmart",
+      "published_utc": "2025-08-20T11:25:30",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=57abf5216805cd36b0e82c97c76b34eafc8d00e8cd753a47763173702a6f2553",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136459381,
+      "datetime": 1755703530
+    },
+    {
+      "title": "Travelers Companies Stock: Is Wall Street Bullish or Bearish?",
+      "description": "Travelers Companies has notably outperformed the broader market over the past year, and analysts remain moderately bullish on the stock’s prospects.",
+      "published_utc": "2025-08-20T03:42:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b7c0493b01c4fea1fcc49ec8bf6de7ee363c48d7b4edb1ba5e397627b0124643",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136437840,
+      "datetime": 1755675750
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:32:04.898204+00:00",
+    "cache_key": "news_bb772cb91e957cbceac1b7f28b62a513",
+    "count": 5
+  }
+}

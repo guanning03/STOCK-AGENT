@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "EXI: Industrials Dashboard For August",
+      "description": "EXI offers global exposure and less concentration risk than XLI but underperformed. Check out the analysis of the industrial sector here.",
+      "published_utc": "2025-08-16T21:42:10",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4f85cdea8aa4454f1782da21d07b17e271127a37c8a9c42677bf8db027f1e6fc",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/586054060/image_586054060.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136383737,
+      "datetime": 1755394930
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:19:13.446197+00:00",
+    "cache_key": "news_e196a0fbbfed1843c087df0c39fcc8b3",
+    "count": 1
+  }
+}

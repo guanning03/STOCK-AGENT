@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Keep an Eye on These 3 Dividend Champion Stocks in 2025",
+      "description": "These companies expect strong revenue growth and analyst sentiment suggests significant upside.",
+      "published_utc": "2025-09-13T13:04:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9e5d0f8591b8aa99aff48b61b1cd1becf3639e4f5d279189e3d620790d8e1823",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136735936,
+      "datetime": 1757783040
+    },
+    {
+      "title": "Big Brands Play Down Their Americanness Abroad",
+      "description": "Coca-Cola, McDonald’s, Procter & Gamble have all launched ad campaigns stressing their local ties in Europe this year.",
+      "published_utc": "2025-09-13T06:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a6cd0da00a4e0c3a59b48cb07bc2d1f26a848194e263adc0432c583d039ce596",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136735960,
+      "datetime": 1757759400
+    },
+    {
+      "title": "Battle of Top Dividend Stocks: Waste Management vs. McDonald's",
+      "description": "Two dividend stalwarts, two very different engines behind the checks.",
+      "published_utc": "2025-09-13T04:16:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d12a74a55dd9d7abffaa5ec36cf9fc5d843c8a08f5b6d968764201e966e52879",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136736020,
+      "datetime": 1757751360
+    },
+    {
+      "title": "McDonald's: A Solid Defensive Play, But Unlikely To Outperform The Index",
+      "description": "McDonald's offers dividend safety and global strength, but faces growth headwinds and a high valuation limiting upside. Learn why MCD stock is a hold.",
+      "published_utc": "2025-09-13T00:24:39",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=94587655025165de54d9e5fe9591b6dae843e7fbcf1258e13444b53ce7f40f5d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/458113807/image_458113807.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136732679,
+      "datetime": 1757737479
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:39:57.140838+00:00",
+    "cache_key": "news_46309bae655564bad9cef6044df85cd7",
+    "count": 4
+  }
+}

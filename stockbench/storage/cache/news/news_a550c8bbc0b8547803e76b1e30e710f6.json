@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today: Indexes End Lower; Moderna Dives On FDA Memo; Synopsys, Nvidia Jump (Live Coverage)",
+      "description": "The Dow fell on the stock market today. Moderna skidded after an FDA memo linked Covid vaccines to deaths. A gold stock cleared an entry.",
+      "published_utc": "2025-12-01T16:38:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e735727e85f4bcd0f91f10139d7648c0c233d669693ebe449d6f6a8257b0f4a3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137658735,
+      "datetime": 1764625105
+    },
+    {
+      "title": "AMGN Up Almost 16% in a Month: Should You Buy, Sell or Hold the Stock?",
+      "description": "Amgen's nearly 16% surge follows strong Q3 results, raised sales guidance and growing momentum across key drugs and biosimilars.",
+      "published_utc": "2025-12-01T11:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=78d2fbdffc373e7d6e89b8f8320cc8da650da2e6559f9b9f047819ae4b04b2ca",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137658837,
+      "datetime": 1764604800
+    },
+    {
+      "title": "5 Healthcare Names to Watch as Sector Rotation Is in Full Swing",
+      "description": "The healthcare sector is outperforming the broader market and tech sector in Q4, confirming a substantial capital shift into the defensive industry.",
+      "published_utc": "2025-12-01T10:51:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=19c079db199576c6c6c37dafec0c1d96a31e7d2ff59770c8f0d059f684cd6682",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137667576,
+      "datetime": 1764604260
+    },
+    {
+      "title": "Merck, Amgen share losses lead Dow's nearly 350-point fall",
+      "description": "Merck, Amgen share losses lead Dow's nearly 350-point fall",
+      "published_utc": "2025-12-01T09:29:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=800708634c9c164cce247bb01a4afe83144a422434c8557efa4357c876685157",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137682042,
+      "datetime": 1764599340
+    },
+    {
+      "title": "Shares of Goldman Sachs and healthcare stocks drag down the Dow",
+      "description": "Shares of Goldman Sachs and healthcare stocks drag down the Dow",
+      "published_utc": "2025-12-01T08:50:05",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=87f0b94d5b9281cb02ee49f2269e9b502626dd757d9552765354812ef842c1da",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137682281,
+      "datetime": 1764597005
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:52:35.392101+00:00",
+    "cache_key": "news_a550c8bbc0b8547803e76b1e30e710f6",
+    "count": 5
+  }
+}

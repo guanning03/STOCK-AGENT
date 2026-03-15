@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "MCD or CMG: Which Restaurant Stock Looks Better Positioned Right Now?",
+      "description": "McDonald's value focus, scale advantages and digital strength stand out as Chipotle works through transaction pressure and execution challenges.",
+      "published_utc": "2025-12-15T10:54:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0180a05c7c7ed58be144885f6706518333f5d38036f2d46397fd158328f7abb3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137795385,
+      "datetime": 1765814040
+    },
+    {
+      "title": "Barclays Analyst A Buy Rating On McDonald’s Corporation (MCD)",
+      "description": "McDonald’s Corporation (NYSE:MCD) is among the 12 Best Performing Dow Stocks in 2025. Barclays analyst Jeff Bernstein kept a Buy rating on McDonald’s Corporation (NYSE:MCD) on December 6 and set a price goal of $358. According to a December 8 CNBC report, starting on January 1, 2026, McDonald’s Corporation (NYSE:MCD) will evaluate franchisees worldwide based […]",
+      "published_utc": "2025-12-15T08:46:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9db6ffe96bf107f0bdaa4c729907915381fc663fa260e93b08a21b33fdd8c075",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137792378,
+      "datetime": 1765806362
+    },
+    {
+      "title": "Dividend Income: Lanny's October 2025 Summary",
+      "description": "In October, we (my wife and I) received a dividend income total of $3,948.78. Crushing it for an off-month â thanks to Vanguard (VOO) and Fidelity (FXAIX) for paying in October.",
+      "published_utc": "2025-12-14T22:29:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0be3862f632fa3c162ffcb577ae5eba2f72d73cc0945be5018573a623a4a4a3e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2217360224/image_2217360224.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137789804,
+      "datetime": 1765769340
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:37:44.113305+00:00",
+    "cache_key": "news_216ae43d0d595424f8b38149689c32de",
+    "count": 3
+  }
+}

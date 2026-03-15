@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Home Depot says tariffs will lead to price increases, but they won’t be across the board",
+      "description": "Home Depot says tariffs will lead to price increases, but they won’t be across the board",
+      "published_utc": "2025-08-19T13:35:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f894113f7a25308bf021188f9ab469149c284f6017c0dc07ea090336c2aaddaf",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136443307,
+      "datetime": 1755624900
+    },
+    {
+      "title": "Shares of Home Depot lift the Dow Jones Industrial Average to record territory",
+      "description": "Shares of Home Depot lift the Dow Jones Industrial Average to record territory",
+      "published_utc": "2025-08-19T06:35:08",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=91a2fc9094d0986ed1c32c10f33f80099099702a22c37455c57da6c90589f00b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136443308,
+      "datetime": 1755599708
+    },
+    {
+      "title": "3 Reasons to Sell SHW and 1 Stock to Buy Instead",
+      "description": "Sherwin-Williams has been treading water for the past six months, recording a small return of 2.6% while holding steady at $360.98.",
+      "published_utc": "2025-08-19T00:04:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=42f5f29b6b32f07e1d259ddcb90ac85ec8960e2da26addd600fd8ac527ef93c2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136430416,
+      "datetime": 1755576245
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Dow Jones Futures Rise; Apple, Google, Amazon, Meta, Nvidia In Focus",
+      "description": "Here are ways to reduce the risks of a highly dangerous market. Apple, Google, Amazon, Meta and Nvidia are masking some underlying strength",
+      "published_utc": "2026-02-15T18:44:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=21c645cfcde2a0c8021b5b79329c00d1edaabc7daf29b5d3bc7f25400c950085",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139108670,
+      "datetime": 1771199059
+    },
+    {
+      "title": "Tom Lee Says AI Killed Software And Job Losses Are 'Soon To Follow'",
+      "description": "Fundstrat’s Tom Lee warned AI is destroying the $450 billion software sector and job losses will follow, predicting a dovish Fed under Kevin Warsh will cut rates as core CPI is forecasted to drop in Friday’s data release. The AI Job Destruction Warning Lee told CNBC on Thursday that AI is “wreaking havoc across software” and job losses are “soon to follow.” Software companies, which once “ate the world,” now face existential threat from AI displacement. “If software shrinks, that’s deflation,” L",
+      "published_utc": "2026-02-15T18:01:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6bb45f53a875b1146a80168c66323f3e87acb4f2c7dfe829b892816821290e5f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139108690,
+      "datetime": 1771196515
+    },
+    {
+      "title": "Is Apple (AAPL) John Overdeck’s Top Pick?",
+      "description": "While the NVIDIA Corporation (NASDAQ:NVDA) remains the billionaire’s largest position, Apple Inc. (NASDAQ:AAPL) ranks 3rd on the list of John Overdeck’s top holdings with a 2.79% portfolio share ($1.39 billion). We recently published a list of youngest hedge fund billionaires and their top stock picks. According to Reuters, on February 6, 2026, Apple Inc. (NASDAQ:AAPL) plans to […]",
+      "published_utc": "2026-02-15T17:49:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fd745a91bcfdcae385f9ebfe6bdd95cfa7f1e9c63170b1c56923efa8b5e82691",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139108676,
+      "datetime": 1771195782
+    },
+    {
+      "title": "Rampant AI Demand for Memory Is Fueling a Growing Chip Crisis",
+      "description": "Since the start of 2026, Tesla Inc., Apple Inc. and a dozen other major corporations have signaled that the shortage of DRAM, or dynamic random access memory — the fundamental building block of almost all technology — will constrain production.  Cook warned it will compress iPhone margins.  Micron Technology Inc. called the bottleneck “unprecedented.”",
+      "published_utc": "2026-02-15T17:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=59e489c3be268f78fe19417a802ca919278329ad9d7b5040457341596f6d4f82",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139109291,
+      "datetime": 1771194600
+    },
+    {
+      "title": "Altman and Pichai among tech CEOs heading to India for major AI summit in a key market",
+      "description": "India has a market of young, tech-forward consumers and a huge pool of talent which could be key to continued development of AI.",
+      "published_utc": "2026-02-15T13:15:45",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=3e81b535ffa8f62adc03459d9dfd95e05c5afb5f71ec3ebf5d9614a1c27fb17a",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108208338-1759772906679-gettyimages-2236543888-STARGATE_DATA_CENTER.jpeg?v=1770299969&w=1920&h=1080",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139115316,
+      "datetime": 1771179345
+    }
+  ]
+}

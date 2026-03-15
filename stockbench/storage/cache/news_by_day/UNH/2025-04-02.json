@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "title": "FTC’s Case Against Drug Managers on Hold After Commissioners Fired",
+      "description": "The agency has paused its lawsuit against three pharmacy-benefit managers because no current commissioners can participate in the case.",
+      "published_utc": "2025-04-02T14:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1dfaeda909658c699856f99d840190e5d09c00aabe65884e42c0038e49c39b9f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133679117,
+      "datetime": 1743618000
+    },
+    {
+      "title": "Trump’s Move to Dump FTC’s Democratic Members Leaves Insulin Case in Limbo",
+      "description": "The Federal Trade Commission’s lawsuit against three large pharmacy-benefit managers over insulin prices is on hold after President Trump fired two of the agency’s commissioners.",
+      "published_utc": "2025-04-02T14:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=436f4d6f9441a89b03065565134aea8a0bb571689fb48c564e4830a82d616631",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133675921,
+      "datetime": 1743618000
+    },
+    {
+      "title": "TCW Relative Value Large Cap Fund Q4 2024 Commentary",
+      "description": "The Fed lowered rates by 25 bps at its December meeting but forecasted fewer cuts (two versus four) in 2025 due to inflation concerns. Read more here.",
+      "published_utc": "2025-04-02T05:52:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7bcd232a6d2fbaae424ef3abf40065a9310ba1661af00829ef549546cee155b4",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2182047027/image_2182047027.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133668391,
+      "datetime": 1743587520
+    },
+    {
+      "title": "UnitedHealth Group, PG&E And A Financial Stock On CNBC's 'Final Trades'",
+      "description": "",
+      "published_utc": "2025-04-02T04:23:11",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=22ec91a244e0c249e1b030cb16131bf5fe4df06fa8bc571f99436526bdbd68e1",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/04/02/Fort-Lauderdale--Fla---usa---April-15--2.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138765493,
+      "datetime": 1743582191
+    },
+    {
       "title": "Sector Update: Health Care Stocks Fall Late Afternoon",
       "description": "Health care stocks declined late Tuesday afternoon, with the NYSE Health Care Index dropping 2.1% an",
       "published_utc": "2025-04-02T04:00:50",

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Goldman’s stock surges to another record, as the ‘big winner’ of Fed’s stress tests",
+      "description": "Goldman’s stock surges to another record, as the ‘big winner’ of Fed’s stress tests",
+      "published_utc": "2025-06-30T18:17:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=af7a22e2726b6ea46a59a77b5c6173b50602a93955bc6573eadf003209238469",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135688626,
+      "datetime": 1751321820
+    },
+    {
+      "title": "Goldman Sachs (GS) Surpasses Market Returns: Some Facts Worth Knowing",
+      "description": "Goldman Sachs (GS) closed at $707.75 in the latest trading session, marking a +2.45% move from the prior day.",
+      "published_utc": "2025-06-30T17:45:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3d351e19df5522a1173d5b5df8edac1332bd698f8857f93b5f5a2eaa45677563",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135686114,
+      "datetime": 1751319905
+    },
+    {
+      "title": "Stocks Rally into Quarter-End on Trade Optimism and Lower Bond Yields",
+      "description": "The S&P 500 Index ($SPX ) (SPY ) Monday closed up +0.52%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.63%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.64%. September E-mini S&P futures (ESU25 ) are up +0.44%, and September E-mini Nasdaq futures...",
+      "published_utc": "2025-06-30T16:39:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=62af21da5149e3364e31cae194aabfba95b8bfc06b224a678af4c75780e0d0e6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135676256,
+      "datetime": 1751315995
+    },
+    {
+      "title": "Bank stocks pop, Strategy & bitcoin, Google's nuclear play: Trending Tickers",
+      "description": "Bank stocks, including Goldman Sachs (GS), Bank of America (BAC), and JPMorgan (JPM), rise after passing the Federal Reserve's stress test. Strategy (MSTR) buys another $532 million in bitcoin (BTC-USD). Alphabet (GOOG, GOOGL) will buy power from Commonwealth Fusion Systems, doubling down on its investment in nuclear energy. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+      "published_utc": "2025-06-30T15:23:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7e75feb4cc725c46ecaa677b99874da818a4fcbf17b5c609287d72876d5cd5e4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135676094,
+      "datetime": 1751311428
+    },
+    {
+      "title": "Sector Update: Financial Stocks Higher Monday Afternoon",
+      "description": "Financial stocks were advancing in Monday afternoon trading, with the NYSE Financial Index rising 0.",
+      "published_utc": "2025-06-30T14:02:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2dcc26a448d210fc7debae4c14006de1cd60139570115106610a46a8207d6725",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135671564,
+      "datetime": 1751306529
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T00:45:12.767470+00:00",
+    "cache_key": "news_c44d336cda396baf6bead3c99091c23e",
+    "count": 5
+  }
+}

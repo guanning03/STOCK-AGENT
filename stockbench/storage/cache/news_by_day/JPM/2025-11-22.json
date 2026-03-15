@@ -1,0 +1,142 @@
+{
+  "items": [
+    {
+      "id": "aa1f52371c66777d4dd8bce7273864b1fa3164beff04658a572f58f1a26f3599",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "ThinkCareBelieve: Week 44 Trump Presidency Making the American Dream Possible",
+      "author": "Thinkcarebelieve",
+      "published_utc": "2025-11-22T18:58:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/11/22/3193117/0/en/ThinkCareBelieve-Week-44-Trump-Presidency-Making-the-American-Dream-Possible.html",
+      "tickers": [
+        "TM",
+        "NVS",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "VYLD"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/353cfcaf-e50d-4ea8-b709-7f9ab2de465f",
+      "description": "Week 44 highlights include economic improvements, first-time home buyers surge, job growth, and international investments. Key developments include Saudi Prince increasing US investments, child trafficking rescue operations, and peace plan proposals for Israel and Ukraine.",
+      "keywords": [
+        "economy",
+        "jobs",
+        "investments",
+        "home buying",
+        "peace plans",
+        "child trafficking"
+      ],
+      "insights": [
+        {
+          "ticker": "TM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Announced $912 Million investment in American manufacturing, creating jobs and supporting domestic production"
+        },
+        {
+          "ticker": "NVS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Building new manufacturing hub in North Carolina, creating 700 new manufacturing jobs"
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Exposed for involvement in bank transfers related to Jeffrey Epstein's operations"
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Exposed for involvement in bank transfers related to Jeffrey Epstein's operations"
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Exposed for involvement in bank transfers related to Jeffrey Epstein's operations"
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Exposed for involvement in bank transfers related to Jeffrey Epstein's operations"
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Exposed for involvement in bank transfers related to Jeffrey Epstein's operations"
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Exposed for involvement in bank transfers related to Jeffrey Epstein's operations"
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Exposed for involvement in bank transfers related to Jeffrey Epstein's operations"
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Exposed for involvement in bank transfers related to Jeffrey Epstein's operations"
+        },
+        {
+          "ticker": "VYLD",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Exposed for involvement in bank transfers related to Jeffrey Epstein's operations"
+        }
+      ]
+    },
+    {
+      "title": "How Recent Developments Are Rewriting the Story for National Bank of Greece",
+      "description": "The consensus analyst price target for National Bank of Greece has increased from €13.67 to €13.93, marking a modest upgrade in anticipated fair value for the bank’s shares. This slight rise is supported by improved revenue growth expectations and renewed optimism in the bank’s underlying business momentum. Stay tuned to discover how you can keep up with shifting analyst perspectives and evolving narratives for this prominent Greek bank. Analyst Price Targets don't always capture the full...",
+      "published_utc": "2025-11-22T15:12:28",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7363043c06da206b158cd67b21efcb4a0c0ba611935416965622c72f54784378",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137586709,
+      "datetime": 1763842348
+    },
+    {
+      "title": "How Recent Developments Are Rewriting the Story for JPMorgan Chase",
+      "description": "The consensus analyst price target for JPMorgan Chase has ticked upward, now sitting at $328.09 compared to $327.70 previously. This rise follows a period of more positive analyst sentiment, fueled by recent earnings beats and upward adjustments to the bank’s financial guidance. Stay tuned to see how ongoing shifts in analyst expectations could impact future updates to JPMorgan Chase's stock outlook. Stay updated as the Fair Value for JPMorgan Chase shifts by adding it to your watchlist or...",
+      "published_utc": "2025-11-22T12:16:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=216a25c7b8604201c2cb92ce963c8fff18e7983549c1b8f673084458ed1e3fdd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137578754,
+      "datetime": 1763831798
+    },
+    {
+      "title": "Wait For A Correction Before Buying JPMorgan Chase",
+      "description": "JPMorgan posts strong Q3 earnings with robust ROE, revenue growth, and shareholder rewards, but current valuation multiples are elevated. See why JPM stock is a hold.",
+      "published_utc": "2025-11-22T01:54:03",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ffdf62d9776d15152faa3ccc96d808123f5f8ce19b7d5025c17e3b76176688fa",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/157735574/image_157735574.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137576577,
+      "datetime": 1763794443
+    }
+  ]
+}

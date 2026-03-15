@@ -1,0 +1,99 @@
+{
+  "items": [
+    {
+      "title": "OnTrac CEO Duffy leaves for UK pest control company",
+      "description": "The CEO of Tier 2 parcel delivery company OnTrac has resigned to become the head of a pest control company based in England. The post OnTrac CEO Duffy leaves for UK pest control company appeared first on FreightWaves.",
+      "published_utc": "2026-01-13T12:31:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=96f7ac09b1fb43497afc7c42a4c8cdf170644d890a5be0defc636b3c382093f5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138086513,
+      "datetime": 1768325462
+    },
+    {
+      "title": "Global Asset Management Market Intelligence Report 2025-2035 Featuring Strategic Profiles of ABB, Adobe, Honeywell International, IBM, WSP, Zebra Technologies and Other Key Players",
+      "description": "Growth is driven by increasing asset management needs, particularly in Asia-Pacific. Barcode solutions and digital assets currently dominate, while aviation asset management is poised for growth. Asset Management Market Asset Management Market Dublin, Jan. 13, 2026 (GLOBE NEWSWIRE) -- The \"Asset Management Market, Till 2035: Distribution by Solution, Services, Asset Type, Function, Application, and Geography: Industry Trends and Global Forecasts\" has been added to ResearchAndMarkets.com's offeri",
+      "published_utc": "2026-01-13T10:02:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d664cc4635cc9615b0419ef8166afc7adb8daa6ccad475f2b212f9938624a6e2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138084529,
+      "datetime": 1768316520
+    },
+    {
+      "id": "a0f3d86c2f9f8dad3ba5cfc8044da9bfeadc61a3f751418df8ca40441742b23b",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "AI in Aviation Market Set to Hit USD 171.53 Billion by 2033, Driven by Predictive Maintenance and Flight Operations Optimization | Report by SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2026-01-13T07:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2026/01/13/3217471/0/en/AI-in-Aviation-Market-Set-to-Hit-USD-171-53-Billion-by-2033-Driven-by-Predictive-Maintenance-and-Flight-Operations-Optimization-Report-by-SNS-Insider.html",
+      "tickers": [
+        "EADSY",
+        "BA",
+        "BApA",
+        "HON",
+        "MSFT",
+        "IBM"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The global AI in Aviation Market is projected to grow from USD 8.63 billion in 2025 to USD 171.53 billion by 2033, with a CAGR of 45.33%. Key growth drivers include predictive maintenance, flight operations optimization, and passenger experience enhancement. The U.S. market alone is expected to expand from USD 2.43 billion to USD 37.51 billion. Machine learning and computer vision technologies are leading adoption, with airlines and airports investing heavily in AI-driven solutions for cost reduction and operational efficiency.",
+      "keywords": [
+        "AI in Aviation",
+        "Predictive Maintenance",
+        "Flight Operations Optimization",
+        "Machine Learning",
+        "Computer Vision",
+        "Passenger Experience",
+        "Market Growth",
+        "CAGR 45.33%"
+      ],
+      "insights": [
+        {
+          "ticker": "EADSY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Airbus launched an AI-enabled A320 simulator in March 2025, demonstrating leadership in AI-integrated aviation training and expanding its portfolio in the rapidly growing AI aviation market."
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Boeing introduced the 'Virtual Airplane Procedures Trainer' in November 2025 using Microsoft Azure, reinforcing its dominance in aviation training technology and positioning itself in the high-growth AI aviation sector."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Boeing introduced the 'Virtual Airplane Procedures Trainer' in November 2025 using Microsoft Azure, reinforcing its dominance in aviation training technology and positioning itself in the high-growth AI aviation sector."
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Listed as a key player in the AI aviation market, positioned to benefit from the projected 45.33% CAGR growth through its involvement in predictive maintenance and operational solutions."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft Azure is being utilized by Boeing for advanced pilot training solutions, demonstrating its role in the expanding AI aviation market."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Listed as a key player in the AI aviation market, positioned to benefit from increasing adoption of AI solutions across airlines and airports."
+        }
+      ]
+    }
+  ]
+}

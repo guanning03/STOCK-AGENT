@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The McDonaldland Meal is driving repeat visits",
+      "description": "According to Numerator data, 41% of consumers said the offering exceeded their expectations",
+      "published_utc": "2025-08-18T14:15:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dd38956f19e3ebca6967d4b69390d4ae16f369d2c29c51863fd7c662a3532cca",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136416972,
+      "datetime": 1755540927
+    },
+    {
+      "title": "Target is probably still missing the mark: Opening Bid top takeaway",
+      "description": "Buckle up. It could be an eventful week in markets.",
+      "published_utc": "2025-08-18T11:07:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cfccb779b7d257c8572634787c2268f7528d631975d3651d3839efc9e07ed22f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136408131,
+      "datetime": 1755529642
+    },
+    {
+      "title": "How to Boost Your Portfolio with Top Retail-Wholesale Stocks Set to Beat Earnings",
+      "description": "Why investors should use the Zacks Earnings ESP tool to help find stocks that are poised to top quarterly earnings estimates.",
+      "published_utc": "2025-08-18T09:00:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=963ee1820a09a16b2d5fa6076051c59e93cc30cb3dff5026bd882eda788f045a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136408489,
+      "datetime": 1755522004
+    },
+    {
+      "title": "Chipotle CEO: We need to pick up the speed on innovation",
+      "description": "Chipotle is at a crossroads.",
+      "published_utc": "2025-08-18T08:43:34",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cbdebb0fb055233db2c9f444c639bfaebf9660be0a2c2bcfb54d1775bbbc5b67",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136408490,
+      "datetime": 1755521014
+    },
+    {
+      "title": "McDonald’s Digitizing the Arches strategy set to improve efficiency",
+      "description": "The fast-food chain has outlined plans for system upgrades and investments in its operational framework.",
+      "published_utc": "2025-08-18T06:04:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d9c9dade529504198b5db72ed425e2a2e11d654acaac922e361777bb4e0ba02a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136408491,
+      "datetime": 1755511467
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:22:03.486822+00:00",
+    "cache_key": "news_15f95b67f0410f30a045eb8d005b740b",
+    "count": 5
+  }
+}

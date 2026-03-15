@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "id": "f67062e166a2e451d1bd7734508c42609c1d0e4f599ef34f4e345ff3d0a48e36",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Best Stocks to Invest $1,000 in Right Now",
+      "author": "Courtney Carlsen",
+      "published_utc": "2025-10-12T11:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/10/12/the-best-stocks-to-invest-1000-in-right-now/?source=iedfolrf0000001",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "V",
+        "BRK.A",
+        "BRK.B"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/837227/money-growth-saving-money-investing.jpg",
+      "description": "The article recommends three strong stocks for investors seeking long-term wealth: Alphabet, Visa, and Berkshire Hathaway. Each company offers unique strengths in technology, payments, and diversified investments, with robust financial positions and growth potential.",
+      "keywords": [
+        "investing",
+        "stocks",
+        "long-term wealth",
+        "technology",
+        "payments",
+        "diversification"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong search market dominance, over 2 billion users, robust AI integration, $104.9 billion search revenue, and $100 billion cash reserves"
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong search market dominance, over 2 billion users, robust AI integration, $104.9 billion search revenue, and $100 billion cash reserves"
+        },
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Market leader in payment processing, $15 trillion annual transactions, low credit risk, strong network effects, and consistent revenue generation"
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Diversified business portfolio, $334 billion cash reserves, proven leadership succession, and consistent investment strategy under Warren Buffett"
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Diversified business portfolio, $334 billion cash reserves, proven leadership succession, and consistent investment strategy under Warren Buffett"
+        }
+      ]
+    },
+    {
+      "title": "QGRW: Leading Growth ETF With A Caveat",
+      "description": "Discover QGRW ETF: blending growth & quality in large-cap stocks, outperforming peers but with higher volatility.",
+      "published_utc": "2025-10-12T04:35:53",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f6c6053438f4fd25de8b169e55a88b33958008e521c03c2e5745794154249c57",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1394881057/image_1394881057.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137057859,
+      "datetime": 1760258153
+    }
+  ]
+}

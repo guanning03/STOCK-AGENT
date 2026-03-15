@@ -1,0 +1,93 @@
+{
+  "items": [
+    {
+      "id": "018542db891f263ffc0cba36f285500cfbc4c88f7d3ec5d26eecde4678675d28",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "5 Dividend Stocks to Hold for the Next 5 Years",
+      "author": "Will Healy",
+      "published_utc": "2025-08-17T23:12:00Z",
+      "article_url": "https://www.fool.com/investing/2025/08/17/5-dividend-stocks-to-hold-for-the-next-5-years/?source=iedfolrf0000001",
+      "tickers": [
+        "TGT",
+        "O",
+        "IBM",
+        "PEP",
+        "T",
+        "TBB",
+        "TpA",
+        "TpC"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/829207/getty-man-with-cash-money-dollars-dividends-happy.jpg",
+      "description": "As retirement approaches, investors seek income-producing assets with safe, growing dividends. Five companies offer attractive dividend yields and potential market-beating returns, including Target, Realty Income, IBM, PepsiCo, and AT&T.",
+      "keywords": [
+        "dividends",
+        "retirement",
+        "income investing",
+        "stock market",
+        "investment strategy"
+      ],
+      "insights": [
+        {
+          "ticker": "TGT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Facing supply chain and DEI challenges, but maintains a 54-year dividend growth streak with a 4.3% yield"
+        },
+        {
+          "ticker": "O",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Offers monthly dividends with consistent annual increases, 5.5% yield, and potential recovery as interest rates fall"
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Pivoted to AI and cloud, doubled stock price, maintains 30-year dividend growth, but limited revenue growth"
+        },
+        {
+          "ticker": "PEP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Diverse brand portfolio, 53-year dividend growth streak, 3.7% yield, and recent stock price recovery"
+        },
+        {
+          "ticker": "T",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Recovered from dividend cut, refocused on core wireless business, 3.9% yield, and stock price improvement"
+        },
+        {
+          "ticker": "TBB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Recovered from dividend cut, refocused on core wireless business, 3.9% yield, and stock price improvement"
+        },
+        {
+          "ticker": "TpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Recovered from dividend cut, refocused on core wireless business, 3.9% yield, and stock price improvement"
+        },
+        {
+          "ticker": "TpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Recovered from dividend cut, refocused on core wireless business, 3.9% yield, and stock price improvement"
+        }
+      ]
+    },
+    {
+      "title": "Enterprise Software Extinction Via AI Exaggerated, Their Stocks Becoming Incredibly Cheap",
+      "description": "Enterprise software is not facing extinction from generative AI. Click here to read more about how incumbents are adapting and leveraging AI themselves.",
+      "published_utc": "2025-08-17T16:57:50",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=217760af81208910456eeee7bb309320b03d47b333a1c95059c803547206eecf",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2166649836/image_2166649836.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136404276,
+      "datetime": 1755464270
+    }
+  ]
+}

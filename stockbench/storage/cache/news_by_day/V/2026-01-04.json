@@ -1,0 +1,150 @@
+{
+  "items": [
+    {
+      "id": "f664a63db8e57b3e142c16715792d9452191cf26b0620a90ea79e52ce0afb533",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Best Warren Buffett Stocks to Buy With $3,000 Right Now",
+      "author": "James Brumley",
+      "published_utc": "2026-01-04T10:25:00Z",
+      "article_url": "https://www.fool.com/investing/2026/01/04/the-best-warren-buffett-stocks-to-buy-with-3000-ri/?source=iedfolrf0000001",
+      "tickers": [
+        "KO",
+        "COF",
+        "COFpI",
+        "COFpJ",
+        "COFpK",
+        "COFpL",
+        "COFpN",
+        "STZ",
+        "BRK.A",
+        "BRK.B",
+        "V",
+        "MA"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F849093%2Fbuffett16-tmf.jpg&w=1200&op=resize",
+      "description": "As Warren Buffett steps down as Berkshire Hathaway CEO, the article recommends three Buffett-approved stocks for investors with $3,000: Coca-Cola for its diversified beverage portfolio and 63-year dividend streak; Capital One Financial for its acquisition of Discover and potential to challenge Visa and Mastercard; and Constellation Brands, which is undergoing a strategic overhaul toward premium products despite current headwinds from declining alcohol consumption.",
+      "keywords": [
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "dividend stocks",
+        "beverage industry",
+        "credit card companies",
+        "payment networks",
+        "premium spirits",
+        "stock recommendations"
+      ],
+      "insights": [
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong business model with outsourced bottling reducing operational risk, diverse product portfolio, consistent dividend payments with 63 consecutive years of increases, and Berkshire's $28 billion investment demonstrates confidence."
+        },
+        {
+          "ticker": "COF",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Acquisition of Discover provides payment network capabilities to compete with Visa and Mastercard, stock gained nearly 40% in 2025, reasonably valued at under 12x forward earnings, and analysts expect 2026 to be a breakout year."
+        },
+        {
+          "ticker": "COFpI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Acquisition of Discover provides payment network capabilities to compete with Visa and Mastercard, stock gained nearly 40% in 2025, reasonably valued at under 12x forward earnings, and analysts expect 2026 to be a breakout year."
+        },
+        {
+          "ticker": "COFpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Acquisition of Discover provides payment network capabilities to compete with Visa and Mastercard, stock gained nearly 40% in 2025, reasonably valued at under 12x forward earnings, and analysts expect 2026 to be a breakout year."
+        },
+        {
+          "ticker": "COFpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Acquisition of Discover provides payment network capabilities to compete with Visa and Mastercard, stock gained nearly 40% in 2025, reasonably valued at under 12x forward earnings, and analysts expect 2026 to be a breakout year."
+        },
+        {
+          "ticker": "COFpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Acquisition of Discover provides payment network capabilities to compete with Visa and Mastercard, stock gained nearly 40% in 2025, reasonably valued at under 12x forward earnings, and analysts expect 2026 to be a breakout year."
+        },
+        {
+          "ticker": "COFpN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Acquisition of Discover provides payment network capabilities to compete with Visa and Mastercard, stock gained nearly 40% in 2025, reasonably valued at under 12x forward earnings, and analysts expect 2026 to be a breakout year."
+        },
+        {
+          "ticker": "STZ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Currently facing headwinds with shares down significantly and declining alcohol consumption, but strategic pivot toward premium products and $200 million cost-cutting initiative position it for recovery; overhaul benefits not yet reflected in stock price but expected to materialize in 2026."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as the holding company and context for Buffett's investments; leadership transition from Buffett to Greg Abel noted as significant for future investment decisions."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as the holding company and context for Buffett's investments; leadership transition from Buffett to Greg Abel noted as significant for future investment decisions."
+        },
+        {
+          "ticker": "V",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a dominant payment network competitor that Capital One's Discover acquisition could challenge; no direct investment recommendation provided."
+        },
+        {
+          "ticker": "MA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a dominant payment network competitor that Capital One's Discover acquisition could challenge; no direct investment recommendation provided."
+        }
+      ]
+    },
+    {
+      "title": "4 Stocks to Buy in January That Could Join Nvidia in the $1 Trillion Club by 2030",
+      "description": "Visa, ExxonMobil, Oracle, and Netflix have multi-year compounding potential for patient investors.",
+      "published_utc": "2026-01-04T08:29:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=68e63e4ab698bb04985066a128c9f5ab589d337d17f063ea6cea086e6ed61e84",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137985575,
+      "datetime": 1767533340
+    },
+    {
+      "title": "2026 Won't Be Easy - Here's Where We're Investing",
+      "description": "2025 stocks soared (S&P 500 +16%) led by AI-driven Tech. Click to see these exclusive picks for the new year and sectors we are interested in.",
+      "published_utc": "2026-01-04T04:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a8a50fd8f8a2130acd8fcdf49407667580b61593d0658a37620e7935851c8c8e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2247131126/image_2247131126.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137980856,
+      "datetime": 1767517200
+    },
+    {
+      "title": "GARP: Historical Outperformance Can Continue",
+      "description": "The iShares MSCI USA Quality GARP ETF (GARP) targets U.S. large and mid caps with strong growth, value, and quality metrics.",
+      "published_utc": "2026-01-04T02:06:57",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bd004587a55ab6aad93ddaef4b13682a34a28d8ca840a4092ae4d3d5cf96bd69",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2189596675/image_2189596675.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137980362,
+      "datetime": 1767510417
+    }
+  ]
+}

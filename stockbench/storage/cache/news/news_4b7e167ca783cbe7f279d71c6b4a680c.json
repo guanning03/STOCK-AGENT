@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "id": "d169861d419f8d5087c28f180a1cd0400bc5c170c4baa9d09e41827753b62df1",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Travelers Sells Most Of Canada Operations To Definity For $2.4 Billion",
+      "author": "Lekha Gupta",
+      "published_utc": "2025-05-28T10:04:37Z",
+      "article_url": "https://www.benzinga.com/news/asset-sales/25/05/45638680/travelers-sells-most-of-canada-operations-to-definity-for-2-4-billion",
+      "tickers": [
+        "TRV",
+        "IAK",
+        "KBWP"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/05/28/Toronto--Canada---May-6--2019-Close-Up-O.jpeg?width=1200&height=800&fit=crop",
+      "description": "Travelers agreed to sell its Canadian personal and most commercial insurance operations to Definity Financial for approximately $2.4 billion. The deal will free up capital for Travelers to use for share repurchases and general corporate purposes.",
+      "keywords": [
+        "Travelers",
+        "Definity Financial",
+        "insurance",
+        "Canada",
+        "share repurchases"
+      ],
+      "insights": [
+        {
+          "ticker": "TRV",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article indicates that the sale of Travelers' Canadian operations to Definity Financial will free up capital for Travelers to use for share repurchases and general corporate purposes, which suggests a positive outlook for the company."
+        },
+        {
+          "ticker": "IAK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions this ETF as a way for investors to gain exposure to Travelers' stock, but does not provide any specific insights about the ETF's performance or outlook."
+        },
+        {
+          "ticker": "KBWP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions this ETF as a way for investors to gain exposure to Travelers' stock, but does not provide any specific insights about the ETF's performance or outlook."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T00:07:27.499349+00:00",
+    "cache_key": "news_4b7e167ca783cbe7f279d71c6b4a680c",
+    "count": 1
+  }
+}

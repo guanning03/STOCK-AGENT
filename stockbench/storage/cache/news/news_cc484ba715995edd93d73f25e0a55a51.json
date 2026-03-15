@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Alphabet and Amazon Just Said Something That May Eliminate Nvidia's Biggest Risk",
+      "description": "Investors have wondered how long Nvidia may hold onto its AI leadership.",
+      "published_utc": "2026-01-14T18:35:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a4359cd3a8feb4648107bc790f393125cc2c23abcc85f010797f444d3fc6ad82",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138116074,
+      "datetime": 1768433700
+    },
+    {
+      "title": "Why Amazon (AMZN) Dipped More Than Broader Market Today",
+      "description": "Amazon (AMZN) closed at $236.71 in the latest trading session, marking a -2.43% move from the prior day.",
+      "published_utc": "2026-01-14T17:45:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d642231949e6fb9b0cc1d11b8cc7d2ed5e02fffac9d5efcfbad4c545bd655220",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138116665,
+      "datetime": 1768430706
+    },
+    {
+      "title": "Inside the Mad Dash to Save Saks, America’s Last Luxury Retailer",
+      "description": "Inside the Mad Dash to Save Saks, America’s Last Luxury Retailer",
+      "published_utc": "2026-01-14T17:28:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=e8d0838dae3d91a143f6be9e7419ca000a26b7a59c69f9577e882908985fdaab",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138123732,
+      "datetime": 1768429680
+    },
+    {
+      "title": "Tech Spending Is Still Strong. There’s 1 Big Winner and Plenty of Losers.",
+      "description": "This year’s growth in IT spending could reach its fastest pace since the pandemic. Why Microsoft is the big winner.",
+      "published_utc": "2026-01-14T17:24:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0bc540cfc4c0ec6b042c603280257ed55cc52f3f05d95c4517ce6302bce5e519",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138116092,
+      "datetime": 1768429440
+    },
+    {
+      "title": "Heard on the Street Recap: AI Selloff Resumes",
+      "description": "Major U.S. stock indexes fell on Wednesday, with the tech-heavy Nasdaq composite dropping 1% for the first time in a month.  The AI chip leader now has to satisfy certain \"security requirements\" to send its H200 chips to China, per new rules from the Trump administration.  Nvidia's shares fell 1.4%.",
+      "published_utc": "2026-01-14T16:53:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a0c3d3b71ae10b482d2dc24ac5319eb6bd272c5eb72e60ae9786263cbabbde8c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138116087,
+      "datetime": 1768427615
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:34:20.105054+00:00",
+    "cache_key": "news_cc484ba715995edd93d73f25e0a55a51",
+    "count": 5
+  }
+}

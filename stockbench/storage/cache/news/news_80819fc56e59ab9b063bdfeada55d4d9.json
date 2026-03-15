@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Smashburger’s new CEO, Jim Sullivan, plots brand reinvigoration",
+      "description": "The former chief development officer of Qdoba and CKE says he’s ‘woken’ the brand",
+      "published_utc": "2025-09-09T17:45:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=086108b940dd9f83287dd228e20a05e6136aac8a858640fb730fb956a5e918dc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136688933,
+      "datetime": 1757454350
+    },
+    {
+      "title": "Restaurant promotions to intensify as consumer spending weakens",
+      "description": "Investing.com -- A tougher promotional battle is expected among U.S. restaurant chains in the second half of 2025 as consumer spending shows signs of strain. Stifel analysts say larger brands like McDonald’s, Domino’s and Taco Bell better positioned to withstand the pressure.",
+      "published_utc": "2025-09-09T15:28:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3be9c1b2b625fd06fbec43d9ea4c646b2e9d4fba48dfd23383dabbfd7f3708eb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136688935,
+      "datetime": 1757446131
+    },
+    {
+      "title": "What To Do With These Seven S&P 500 Stocks That Slumped",
+      "description": "Tech sector gains masked the underperforming stocks in the S&P 500; selective buying and holding is recommended based on company-specific factors. Read the full analysis here.",
+      "published_utc": "2025-09-09T09:45:15",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3834755f42bd5edd10cdbf7b11ff17098a09c9d8670776b59b95750ac286f8f6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1497771083/image_1497771083.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136678306,
+      "datetime": 1757425515
+    },
+    {
+      "title": "'Arabica Coffee Premium Jumps To 2011 high On Supply Fears' -Bloomberg",
+      "description": "https://www.bloomberg.com/news/articles/2025-09-09/arabica-s-premium-to-robusta-jumps-to-2011-high-on-supply-fears?srnd=homepage-americas",
+      "published_utc": "2025-09-09T04:29:37",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=b507bd03074dedbe37093ef1f7502485a0f76c8c098c2fc999a7cd98cb830bd4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138543310,
+      "datetime": 1757406577
+    },
+    {
+      "title": "1 Unpopular Stock That Deserves Some Love and 2 Facing Challenges",
+      "description": "Wall Street has issued downbeat forecasts for the stocks in this article. These predictions are rare - financial institutions typically hesitate to say bad things about a company because it can jeopardize their other revenue-generating business lines like M&A advisory.",
+      "published_utc": "2025-09-09T01:36:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=59e48ca7b6aee54381b144aeca1c97df9317dbff3b28f0f3bc54ff6e3b1922ab",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136688936,
+      "datetime": 1757396184
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:30:47.530748+00:00",
+    "cache_key": "news_80819fc56e59ab9b063bdfeada55d4d9",
+    "count": 5
+  }
+}

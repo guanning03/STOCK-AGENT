@@ -1,0 +1,315 @@
+{
+  "items": [
+    {
+      "id": "b9547a6cbd55cf3b53fe755ca60f2e79b6b97a1551f2d74c398ddbcedd47f759",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Meet Wall Street's Newest $1 Trillion Artificial Intelligence (AI) Stock -- but Don't Rush to Buy It Just Yet",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-16T23:30:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/16/meet-wall-street-1-trillion-ai-stock-dont-rush-buy/?source=iedfolrf0000001",
+      "tickers": [
+        "AVGO",
+        "NVDA",
+        "MSFT",
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "ORCL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801037/two-people-talking-while-walking-past-servers-inside-a-data-center.jpg",
+      "description": "Broadcom has joined the exclusive club of $1 trillion technology companies, thanks to its impressive growth in artificial intelligence revenue. However, the article cautions investors to wait for a pullback before buying the stock due to its high valuation.",
+      "keywords": [
+        "Broadcom",
+        "Artificial Intelligence",
+        "Valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "AVGO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article highlights Broadcom's impressive growth in AI revenue, which has led to the company joining the $1 trillion club. However, it also cautions that the stock is currently overvalued and recommends waiting for a pullback before buying."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Nvidia's graphics processing units (GPUs) are currently the most sought-after chips in the AI industry, indicating the company's strong position in the market."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Microsoft is one of the hyperscale customers that Broadcom supplies with custom AI accelerators, highlighting the company's involvement in the AI ecosystem."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Amazon is one of the hyperscale customers that Broadcom supplies with custom AI accelerators, indicating the company's participation in the AI market."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Alphabet is one of the hyperscale customers that Broadcom supplies with custom AI accelerators, suggesting the company's engagement in the AI industry."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Alphabet is one of the hyperscale customers that Broadcom supplies with custom AI accelerators, suggesting the company's engagement in the AI industry."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Oracle is one of the hyperscale customers that Broadcom supplies with custom AI accelerators, highlighting the company's involvement in the AI ecosystem."
+        }
+      ]
+    },
+    {
+      "id": "8d07fe4546f6ff3c8bfd2206614a99e58b99dc7583a063cd042fffe9dda15ce7",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "AI Progress From Microsoft – Phi-4 Outperforms Human-like reasoner AI Model GPT-4o, Bitcoin Rumor",
+      "author": "The Arora Report",
+      "published_utc": "2024-12-16T18:52:42Z",
+      "article_url": "https://www.benzinga.com/news/large-cap/24/12/42515090/ai-progress-from-microsoft-phi-4-outperforms-human-like-reasoner-ai-model-gpt-4o-bitcoin-rumor",
+      "tickers": [
+        "MSFT",
+        "PLTR",
+        "MSTR"
+      ],
+      "image_url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "description": "Microsoft has introduced Phi-4, a small language model that outperforms the larger GPT-4o in certain mathematical reasoning tasks. This challenges the belief that bigger is better in AI. Meanwhile, there is excitement in the market due to Palantir and MicroStrategy being added to the Nasdaq 100, and a rumor of a bitcoin reserve announcement by Trump.",
+      "keywords": [
+        "AI",
+        "Microsoft",
+        "Phi-4",
+        "GPT-4o",
+        "Palantir",
+        "MicroStrategy",
+        "Bitcoin"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft has made progress in AI with the introduction of Phi-4, a smaller model that outperforms the larger GPT-4o in certain tasks, challenging the belief that bigger is better in AI."
+        },
+        {
+          "ticker": "PLTR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Palantir is being added to the Nasdaq 100, which is seen as a positive development for the company."
+        },
+        {
+          "ticker": "MSTR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "MicroStrategy, a major bitcoin holder, is being added to the Nasdaq 100, which is seen as a positive development for the company."
+        }
+      ]
+    },
+    {
+      "id": "95b73db75028f101e922001d0fdd14e09734fe243e461c2acba2a3048b273a0f",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "S&P 500: After a Memorable 2024, Could the Index Keep Rallying Into 2025?",
+      "author": "Investing.Com",
+      "published_utc": "2024-12-16T13:05:00Z",
+      "article_url": "https://www.investing.com/analysis/sp-500-after-a-memorable-2024-could-the-index-keep-rallying-into-2025-200655298",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "AAPL",
+        "META",
+        "MSFT",
+        "NVDA",
+        "TSLA"
+      ],
+      "amp_url": "https://m.investing.com/analysis/sp-500-after-a-memorable-2024-could-the-index-keep-rallying-into-2025-200655298?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "The S&P 500 index has surged 29% in 2024, and the rally could continue into 2025 due to factors like better-than-expected corporate earnings, the rise of AI, and favorable tax and regulatory policies.",
+      "keywords": [
+        "S&P 500",
+        "stock market",
+        "corporate earnings",
+        "artificial intelligence",
+        "tax policy",
+        "financial regulations"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the dominance of the 'Magnificent 7' companies, including Alphabet, in the global stock market, indicating a positive outlook for their continued performance."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the dominance of the 'Magnificent 7' companies, including Alphabet, in the global stock market, indicating a positive outlook for their continued performance."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the dominance of the 'Magnificent 7' companies, including Amazon, in the global stock market, indicating a positive outlook for their continued performance."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the dominance of the 'Magnificent 7' companies, including Apple, in the global stock market, indicating a positive outlook for their continued performance."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the dominance of the 'Magnificent 7' companies, including Meta Platforms, in the global stock market, indicating a positive outlook for their continued performance."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the dominance of the 'Magnificent 7' companies, including Microsoft, in the global stock market, indicating a positive outlook for their continued performance."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the dominance of the 'Magnificent 7' companies, including Nvidia, in the global stock market, indicating a positive outlook for their continued performance."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the dominance of the 'Magnificent 7' companies, including Tesla, in the global stock market, indicating a positive outlook for their continued performance."
+        }
+      ]
+    },
+    {
+      "id": "a5797447b816ae9041ba9f089e63743a0a6816fc3dfd91ce534f55b552c59a65",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why I Can't Stop Buying This Ultra-High-Yielding ETF",
+      "author": "Matt Dilallo",
+      "published_utc": "2024-12-16T09:51:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/16/why-i-cant-stop-buying-this-ultra-high-yielding-et/?source=iedfolrf0000001",
+      "tickers": [
+        "JEPQ",
+        "AMZN",
+        "AAPL",
+        "AVGO",
+        "MSFT",
+        "NVDA",
+        "ORCL",
+        "TSLA",
+        "LRCX",
+        "MRNA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801093/gettyimages-1310121198-1201x742-1536a11.jpg",
+      "description": "The article discusses the JPMorgan Nasdaq Equity Premium Income ETF (JEPQ), which aims to deliver monthly distributable income and exposure to the high-growth Nasdaq-100 Index with less volatility. The ETF generates income by selling out-of-the-money call options on the Nasdaq-100 index, providing an attractive dividend yield of over 12% in the last 30 days. The author is positive on the ETF, as it offers both a lucrative income stream and the potential for growth through its exposure to top Nasdaq-100 stocks.",
+      "keywords": [
+        "JPMorgan Nasdaq Equity Premium Income ETF",
+        "Nasdaq-100 Index",
+        "options selling",
+        "passive income",
+        "financial independence"
+      ],
+      "insights": [
+        {
+          "ticker": "JEPQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the ETF's ability to generate a high and attractive monthly income stream through its options selling strategy, as well as its exposure to the high-growth Nasdaq-100 index. The author is positive on the ETF as it can provide both income and growth, which aligns with the author's goal of achieving financial independence."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon is mentioned as one of the top holdings of the ETF, which the author views as a positive as it provides exposure to a leading growth company."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple is mentioned as one of the top holdings of the ETF, which the author views as a positive as it provides exposure to a leading growth company."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Broadcom is mentioned as one of the top holdings of the ETF, which the author views as a positive as it provides exposure to a leading growth company."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is mentioned as one of the top holdings of the ETF, which the author views as a positive as it provides exposure to a leading growth company."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia is mentioned as one of the top holdings of the ETF, which the author views as a positive as it provides exposure to a leading growth company."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Oracle is mentioned as a holding that positively affected the ETF's returns in the third quarter, which the author views as a positive."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that the ETF had an underweight position in Tesla, which negatively affected its returns in the third quarter, indicating a neutral sentiment towards Tesla's inclusion in the ETF."
+        },
+        {
+          "ticker": "LRCX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that the ETF was overweight in Lam Research, which negatively affected its returns in the third quarter, indicating a neutral sentiment towards Lam Research's inclusion in the ETF."
+        },
+        {
+          "ticker": "MRNA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that the ETF benefited from not having a position in Moderna, which positively affected its returns in the third quarter, indicating a positive sentiment towards Moderna's exclusion from the ETF."
+        }
+      ]
+    },
+    {
+      "id": "6444e68bd8f33d451c2269cdde5f7e4d86798a50bdae2e64e0bb4fc95e712b0e",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "OpenAI Founder Sam Altman Just Delivered Fantastic News for Microsoft Investors",
+      "author": "Billy Duberstein",
+      "published_utc": "2024-12-16T09:30:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/16/openai-sam-altman-fantastic-news-microsoft/?source=iedfolrf0000001",
+      "tickers": [
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800885/gettyimages-1213740873.jpg",
+      "description": "OpenAI, the parent company of ChatGPT, is restructuring to become a for-profit entity, which could benefit Microsoft's investment and access to advanced AI capabilities. The article discusses OpenAI's changing business model, Microsoft's involvement, and the potential impact on the technology landscape.",
+      "keywords": [
+        "OpenAI",
+        "ChatGPT",
+        "Microsoft",
+        "AI",
+        "Restructuring"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Microsoft's investment in OpenAI and the potential access to advanced AI capabilities could be beneficial for Microsoft's products and valuation."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:28:57.106926+00:00",
+    "cache_key": "news_998bae1bea8c32e9122fde112a30da70",
+    "count": 5
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stocks to Watch Recap: AMD, Eli Lilly, EchoStar, Trump Media",
+      "description": "↗️ Advanced Micro Devices (AMD): The semiconductor powerhouse said it would collaborate with IBM (IBM) to develop next-generation computing architecture. AMD shares rose 2% Tuesday. ↗️Trump Media & Technology (DJT): President Trump’s media business is launching a new company to buy and hold a niche token affiliated with Crypto.",
+      "published_utc": "2025-08-26T17:44:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=276a61c9546c3fa44b0408d5651055406c79ae0be5748701c54dca2a6f569583",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136536307,
+      "datetime": 1756244696
+    },
+    {
+      "title": "Jim Cramer Nails International Business Machines Corporation (IBM) As Shares Gain 22% Since He Said To Buy",
+      "description": "We recently published Jim Cramer’s 20 Bold AI Predictions – See How They Played Out! International Business Machines Corporation (NYSE:IBM) is one of the stocks Jim Cramer recently discussed. International Business Machines Corporation (NYSE:IBM) is one of the biggest technology companies in the world. Cramer has been a long-time fan of the stock, as not […]",
+      "published_utc": "2025-08-26T17:20:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d0030ca6b4b834f4a918b7f5df5775ada2693d658d7193a662655928cd92509f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136536468,
+      "datetime": 1756243223
+    },
+    {
+      "title": "Marc Sausa Named PRNEWS' People of the Year, Capping Breakout Year for Berk Communications",
+      "description": "PRNEWS has named Marc Sausa, a Senior Vice President at Berk Communications—a MikeWorldWide subsidiary—to its 2025 People of the Year Awards in the Agency Leadership category. The annual honor spotlights visionary communications professionals advancing the PR industry through creativity, cultural relevance, and measurable business impact.",
+      "published_utc": "2025-08-26T15:28:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8b393d22d8b61ac4f9949d1b4a2fb12260af11f03cc193d0d57107eac3566916",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136530133,
+      "datetime": 1756236480
+    },
+    {
+      "title": "Mary Franck Joins Hyperquake to Help Shape the Future of Immersive Experiences",
+      "description": "Hyperquake, the independent creative strategy, branding, and experience design agency, is very proud to announce the immediate addition of Creative Director Mary Franck to its Experiences Team. The full-time staff addition was confirmed by Hyperquake's President and Chief Operating Officer Melissa Wheat Kelly.",
+      "published_utc": "2025-08-26T14:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ec07d7f043e5f86c7c637d18a8a65781b0892ccdaa7c2f3192bde37aed226243",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136530134,
+      "datetime": 1756231200
+    },
+    {
+      "title": "After falling behind in generative AI, IBM and AMD look to quantum for an edge",
+      "description": "As IBM and AMD look to regain ground after falling behind on the generative AI boom, the move could position them as key infrastructure players in a future where quantum and AI converge.",
+      "published_utc": "2025-08-26T12:04:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4248c20c841d7554e467b87b990dff0d5af81e29c4d07ff813c26bdc0acd4833",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136530121,
+      "datetime": 1756224242
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:51:03.465743+00:00",
+    "cache_key": "news_2cccb8c2b58dfe7cf2f8d3f8e91a6765",
+    "count": 5
+  }
+}

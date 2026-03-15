@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Morgan Stanley Maintains Travelers Companies (TRV) Equal-Weight Recommendation",
+      "description": "",
+      "published_utc": "2025-11-17T19:04:24",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=a8a6dff6a7fd200a58a7cdcbc4a473d8cb70d4844209b315ff672f1acd8de159",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137517781,
+      "datetime": 1763424264
+    },
+    {
+      "title": "NMIH Stock Near 52-Week High, Trades at a Discount: Time to Hold?",
+      "description": "NMI Holdings is well-positioned for growth, with higher new insurance written volume, a comprehensive reinsurance program and prudent capital deployment.",
+      "published_utc": "2025-11-17T09:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5fbdc72033644e18aa9757f1ad557be27ccd40406d555de9a70aa667c3d0d772",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137506588,
+      "datetime": 1763388180
+    },
+    {
+      "title": "Morgan Stanley Maintains Equal-Weight on Travelers Companies, Raises Price Target to $295",
+      "description": "Morgan Stanley  analyst Bob Huang   maintains Travelers Companies (NYSE:TRV) with a Equal-Weight and raises the price target from $285 to $295.",
+      "published_utc": "2025-11-17T07:27:37",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=d87c49bf4215358b9b66ec8863618a00dfe4056b47078df226965cd984425242",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138570425,
+      "datetime": 1763382457
+    }
+  ]
+}

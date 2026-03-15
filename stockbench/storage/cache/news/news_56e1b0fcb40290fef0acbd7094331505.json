@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": "618420629e72120917fc0528e07b89203777e59bcd7301e3361ac09514f82e90",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Despite Recent News, Analysts Still Say Artificial Intelligence Stock Nvidia Is a Buy. Here's Why.",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-15T11:30:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/15/analysts-artificial-intelligence-nvidia-nvda-ai/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "AAPL",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800850/gettyimages-2149530993-1200x675-128554e-1.jpg",
+      "description": "Nvidia, a leading supplier of chips for artificial intelligence, has seen its stock price pull back recently. However, Wall Street analysts remain bullish on the company's long-term prospects, citing its dominant position in the AI semiconductor market and the growing demand for AI infrastructure.",
+      "keywords": [
+        "Nvidia",
+        "artificial intelligence",
+        "semiconductor",
+        "stock price"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Wall Street analysts are bullish on Nvidia's long-term prospects, citing its dominant position in the AI semiconductor market and the growing demand for AI infrastructure."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Apple is mentioned as one of the big tech companies that Nvidia briefly fell behind in market cap, but the article does not provide any specific insights about Apple."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Microsoft is mentioned as one of the big tech companies that Nvidia briefly fell behind in market cap, but the article does not provide any specific insights about Microsoft."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:27:51.510436+00:00",
+    "cache_key": "news_56e1b0fcb40290fef0acbd7094331505",
+    "count": 1
+  }
+}

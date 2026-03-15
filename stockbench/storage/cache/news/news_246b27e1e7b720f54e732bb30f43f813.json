@@ -1,0 +1,77 @@
+{
+  "items": [
+    {
+      "title": "Walt Disney, McDonald's, Palantir Set To Report Earnings",
+      "description": "Key earnings this week will include PLTR, ON, AMD, CAT, & PFE. With Trump's revised tariff orders, investors will be keeping an eye on economic reports releasing next week.",
+      "published_utc": "2025-08-02T07:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6b01d90a3aa94ed1d22b3a8ccf34fa50bcd6abbd9f1688f6929cb5c7c424164d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136182108,
+      "datetime": 1754132400
+    },
+    {
+      "title": "8 Of My Favourite Dividend Stocks To Survive - And Thrive - In This Market",
+      "description": "Read here for investment strategies for a volatile era. Focus on inflation-resilient sectors like energy and materials while avoiding overhyped stocks.",
+      "published_utc": "2025-08-02T03:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=de2a23c61f48080950856cb080d0e4087e0d57e7e9e1839355ce2608bb66d986",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2182114979/image_2182114979.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136181348,
+      "datetime": 1754119800
+    },
+    {
+      "id": "1ea90a12f33b62f19c853dddaef6cf4a9833a771477733829808910b7d8295f7",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Oshkosh (OSK) Q2 EPS Beats by 16%",
+      "author": "Jesterai",
+      "published_utc": "2025-08-02T10:25:08Z",
+      "article_url": "https://www.fool.com/data-news/2025/08/02/oshkosh-osk-q2-eps-beats-by-16/?source=iedfolrf0000001",
+      "tickers": [
+        "OSK",
+        "CAT"
+      ],
+      "image_url": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/2e67fde4d458002cf59f26acf09dd58f97b62ce0-1024x1024.png",
+      "description": "Oshkosh reported Q2 2025 earnings beating estimates with $3.41 EPS, $2.73 billion revenue, and raised full-year guidance to $11.00, despite challenges in Access segment and declining year-over-year revenue.",
+      "keywords": [
+        "earnings",
+        "manufacturing",
+        "vehicles",
+        "defense",
+        "access equipment"
+      ],
+      "insights": [
+        {
+          "ticker": "OSK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mixed performance with earnings beat and raised guidance, but declining revenue, sharp Access segment backlog drop, and potential future demand risks"
+        },
+        {
+          "ticker": "CAT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned in context of expired telehandler agreement, no direct performance details provided"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:26:50.057904+00:00",
+    "cache_key": "news_246b27e1e7b720f54e732bb30f43f813",
+    "count": 3
+  }
+}

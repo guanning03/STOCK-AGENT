@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq edge higher as cool inflation data boosts Fed rate cut hopes",
+      "description": "Investors were digesting a softer-than-expected inflation reading and assessing a US-China plan to salvage their trade truce.",
+      "published_utc": "2025-06-10T19:00:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a9ceea74b06d1d1f3a902c2776020732a3d6700ccc85804b4b95898cf46e1f06",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135187245,
+      "datetime": 1749596437
+    },
+    {
+      "title": "The Rare Earth Rerun",
+      "description": "Stocks rose Tuesday as traders squinted at Londonâs trade talks, decided the tariff drama was heading for a whole lot of nothing, and snapped up the opening-salvo losers.",
+      "published_utc": "2025-06-10T19:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2248e131f31c095117fcb3a1c5f1fc65806199697a176e53be4a2d9498567085",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2161265282/image_2161265282.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135172428,
+      "datetime": 1749596400
+    },
+    {
+      "title": "S&P 500, foreign markets soar, bitcoin rallying: Market Takeaways",
+      "description": "US stocks (^DJI, ^IXIC, ^GSPC) capped off Tuesday's trading session in positive territory with the S&P 500 and Nasdaq Composite's record highs back in investors' sights. Yahoo Finance markets and data editor Jared Blikre comes on Asking for a Trend to outline the biggest market themes he is observing, including the outperformance of foreign markets as compared to US equities and the price action behind bitcoin (BTC-USD), ethereum (ETH-USD), and metals futures. To watch more expert insights and analysis on the latest market action, check out more Asking for a Trend here.",
+      "published_utc": "2025-06-10T17:15:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ec5052c341b2294939066cced23a2c33a5c1afa05b99241000d6be2d4a9c134d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135171580,
+      "datetime": 1749590146
+    },
+    {
+      "title": "It’s Harvest Time for Traders",
+      "description": "Editor’s Note: Despite another chaotic month, the S&P 500 recorded its best May since 1990 – rising more than 6%. However, that’s nothing compared to the gains my colleague Jeff Clark made. Jeff’s short-term trades delivered a cumulative return of 129% in just five days in May (he’ll explain how in today’s guest article) – more than 20X higher than the S&P 500’s gain. And those returns are no fluke. Jeff is one of the country’s top “chaos” traders, so he thrives during volatile markets. He has s",
+      "published_utc": "2025-06-10T16:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b2903b8fe927b9d0adbd30e490c6294dfde8aa39e7f69acc03f4fcb443284050",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135316214,
+      "datetime": 1749587400
+    },
+    {
+      "title": "NFIB Small Business Survey: Optimism Recovered Slightly In May",
+      "description": "The NFIB Small Business Optimism Index increased for the first time in five months, rising to 98.8 in May.",
+      "published_utc": "2025-06-10T16:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=959fd076488033904afede89561873313d8f3499db841ef45d4291fb56b40770",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1320936550/image_1320936550.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135171223,
+      "datetime": 1749585900
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "id": "f58f989388dec124e80a7a05a63e28f3a705eaf04535ef5358cc76fc2a1605c2",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "These 2 Dow Stocks Are Set to Soar in 2025 and Beyond",
+      "author": "Demitri Kalogeropoulos",
+      "published_utc": "2025-01-22T15:03:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/22/these-2-dow-stocks-are-set-to-soar-in-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "HD",
+        "KO"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804608/sipping-soda-in-summer-1015978442.jpg",
+      "description": "The article discusses two Dow stocks, Home Depot and Coca-Cola, as promising investments for 2025 and beyond. It highlights the companies' strong track records, growth potential, and ability to weather market challenges.",
+      "keywords": [
+        "Dow Jones Industrial Average",
+        "Home Depot",
+        "Coca-Cola",
+        "investing",
+        "stock recommendations"
+      ],
+      "insights": [
+        {
+          "ticker": "HD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Home Depot is a strong investment option, despite facing challenges in the housing and home improvement markets. It highlights the company's ability to outperform its competitor Lowe's, its steady market share gains, and its high return on invested capital, which will allow it to continue returning cash to shareholders."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article views Coca-Cola as a promising investment, noting the company's strong organic revenue growth, improved profitability, and ample free cash flow. While the recent growth has been driven by price increases, the article suggests that long-term investors can hold the stock and collect the dividend while waiting for a rebound in volume growth."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:08:16.975688+00:00",
+    "cache_key": "news_bc745023eb6868c4f82077e531d6a89b",
+    "count": 1
+  }
+}

@@ -1,0 +1,433 @@
+{
+  "items": [
+    {
+      "id": "28888f44a87a7551550ecf10984568a794597606a7a7cf6be3e390414639d4b1",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "From Shopping to Advice From Warren Buffett",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-02T23:11:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/02/many-thanks-mr-buffett/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799518/mfm_27.jpg",
+      "description": "Warren Buffett is planning to give away 99.5% of his wealth to four family foundations, with his children managing the distributions. He advises parents to discuss their will with their children before signing it to avoid misunderstandings.",
+      "keywords": [
+        "Warren Buffett",
+        "philanthropy",
+        "wealth management",
+        "family foundations"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Warren Buffett is selling Apple stock, indicating a negative sentiment towards the company."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Warren Buffett is selling Bank of America stock, indicating a negative sentiment towards the company."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Warren Buffett is selling Bank of America stock, indicating a negative sentiment towards the company."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Warren Buffett is selling Bank of America stock, indicating a negative sentiment towards the company."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Warren Buffett is selling Bank of America stock, indicating a negative sentiment towards the company."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Warren Buffett is selling Bank of America stock, indicating a negative sentiment towards the company."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Warren Buffett is selling Bank of America stock, indicating a negative sentiment towards the company."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Warren Buffett is selling Bank of America stock, indicating a negative sentiment towards the company."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Warren Buffett is selling Bank of America stock, indicating a negative sentiment towards the company."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Warren Buffett is selling Bank of America stock, indicating a negative sentiment towards the company."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Warren Buffett is selling Bank of America stock, indicating a negative sentiment towards the company."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Warren Buffett is selling Bank of America stock, indicating a negative sentiment towards the company."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Warren Buffett is selling Bank of America stock, indicating a negative sentiment towards the company."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Warren Buffett is selling Bank of America stock, indicating a negative sentiment towards the company."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Warren Buffett is selling Bank of America stock, indicating a negative sentiment towards the company."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Warren Buffett is selling Bank of America stock, indicating a negative sentiment towards the company."
+        }
+      ]
+    },
+    {
+      "id": "9c527bdd750d5af68a2cd7a0c094a1ff342c4547d4e8219bc7e040d309c92b7e",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Tech Stocks Rise, Apple Tops Record Highs, Dollar Surges, Bitcoin Falls To $95,000: What's Driving Markets Monday?",
+      "author": "Piero Cingari",
+      "published_utc": "2024-12-02T18:48:09Z",
+      "article_url": "https://www.benzinga.com/economics/macro-economic-events/24/12/42273932/tech-stocks-rise-apple-tops-record-highs-dollar-surges-bitcoin-falls-to-95000-wha",
+      "tickers": [
+        "AAPL",
+        "INTC",
+        "ROKU",
+        "STLA",
+        "XLK",
+        "XLU"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2024/12/02/Bitdeer-Technologies-Group-And-Trip-Com.jpeg?width=1200&height=800&fit=crop",
+      "description": "Tech stocks and semiconductors led the market rally, with Apple hitting new all-time highs. However, the broader market showed weakness, with sectors outside of tech and consumer discretionary declining. The U.S. dollar surged, while Bitcoin retreated from recent highs.",
+      "keywords": [
+        "tech stocks",
+        "semiconductors",
+        "Apple",
+        "market performance",
+        "U.S. dollar",
+        "Bitcoin"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple climbed 1% and reached new all-time highs as investors anticipate strong holiday sales for the company."
+        },
+        {
+          "ticker": "INTC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Intel's stock climbed 3% after the company's CEO was ousted."
+        },
+        {
+          "ticker": "ROKU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Roku jumped 7% due to strong retail momentum during Black Friday 2024."
+        },
+        {
+          "ticker": "STLA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Stellantis tumbled nearly 7% in reaction to the resignation of its former CEO."
+        },
+        {
+          "ticker": "XLK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Technology Select Sector SPDR Fund outperformed, rising 1.1%."
+        },
+        {
+          "ticker": "XLU",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The Utilities Select Sector SPDR Fund lagged, declining 1.8%."
+        }
+      ]
+    },
+    {
+      "id": "399043ce671c90ebf90ad7eaba2c88ffae996a6cead2aa350fc5e987460329f6",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Could Buying Berkshire Hathaway Today Set You Up for Life?",
+      "author": "James Brumley",
+      "published_utc": "2024-12-02T13:41:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/02/could-buying-berkshire-hathaway-today-set-you-up-f/?source=iedfolrf0000001",
+      "tickers": [
+        "BRK.A",
+        "BRK.B",
+        "AAPL",
+        "KO",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799413/investment-analyst.jpg",
+      "description": "Berkshire Hathaway, a conglomerate with diverse investments, has consistently outperformed the S&P 500 index over the long term. While it may not provide rapid growth, its value-oriented and patient approach can potentially set up investors for life through steady, long-term gains.",
+      "keywords": [
+        "Berkshire Hathaway",
+        "S&P 500",
+        "investing",
+        "long-term",
+        "value investing"
+      ],
+      "insights": [
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Berkshire Hathaway's ability to consistently outperform the S&P 500 index over the long term through its value-oriented and patient investment approach. It suggests that Berkshire Hathaway has the potential to set up investors for life through steady, long-term gains."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Berkshire Hathaway's ability to consistently outperform the S&P 500 index over the long term through its value-oriented and patient investment approach. It suggests that Berkshire Hathaway has the potential to set up investors for life through steady, long-term gains."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway holds a stake in Apple, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway holds a stake in Coca-Cola, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway holds a stake in Bank of America, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway holds a stake in Bank of America, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway holds a stake in Bank of America, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway holds a stake in Bank of America, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway holds a stake in Bank of America, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway holds a stake in Bank of America, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway holds a stake in Bank of America, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway holds a stake in Bank of America, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway holds a stake in Bank of America, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway holds a stake in Bank of America, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway holds a stake in Bank of America, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway holds a stake in Bank of America, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway holds a stake in Bank of America, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway holds a stake in Bank of America, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway holds a stake in Bank of America, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway holds a stake in Bank of America, but does not provide any specific commentary on the company."
+        }
+      ]
+    },
+    {
+      "id": "127046d8eddf6db3955ccbd338ff83c05281a0b4783445564e3fa58bfda592b6",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Amazon Stock Could Go to Almost $3 Trillion Next Year, According to 1 Wall Street Analyst",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-02T13:15:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/02/amazon-stock-could-go-to-almost-3-trillion-next/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "AAPL",
+        "NVDA",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799116/person-with-a-computer-and-dollar-bills-flying-around.jpg",
+      "description": "A Wall Street analyst believes Amazon's stock could reach a market cap of $3 trillion in the next 12-18 months, driven by its growth in e-commerce, advertising, and generative AI solutions. While achieving $850 billion in sales may be challenging, Amazon's strong earnings potential and lower valuation could help it reach the $3 trillion milestone.",
+      "keywords": [
+        "Amazon",
+        "e-commerce",
+        "advertising",
+        "generative AI",
+        "market cap"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Amazon has significant growth opportunities in e-commerce, advertising, and generative AI, which could drive its stock price and market capitalization to reach $3 trillion in the next 12-18 months. The analyst's positive outlook is based on Amazon's strong performance, unmatched logistics network, and potential for earnings growth."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Apple as one of the top three companies by market capitalization, but does not provide any specific insights or commentary about the company."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Nvidia as one of the top three companies by market capitalization, but does not provide any specific insights or commentary about the company."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Microsoft as one of the top three companies by market capitalization, but does not provide any specific insights or commentary about the company."
+        }
+      ]
+    },
+    {
+      "id": "22cfe32e34eb7542f740ad384696d9fc708d54604aeafd9b42bcae6d6070e1cf",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Warren Buffett and Berkshire Hathaway Continue to Sell Apple Stock. Should You Follow Them?",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-02T12:30:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/02/warren-buffett-and-berkshire-hathaway-continue-to/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "BRK.A",
+        "BRK.B"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799087/warren-buffett-2-tmf-may-2014.jpg",
+      "description": "Warren Buffett and Berkshire Hathaway have been steadily reducing their stake in Apple, as the stock's valuation has become increasingly disconnected from the company's business performance. The article suggests that investors should consider following Buffett's lead and selling their Apple shares as well.",
+      "keywords": [
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "Apple",
+        "stock valuation",
+        "multiple expansion"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that Apple's stock price has become overvalued compared to its business performance, with the price-to-earnings ratio expanding significantly since Berkshire Hathaway first invested in the company. This has led Buffett and Berkshire to start selling their Apple shares, and the article recommends that investors should consider following suit."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article focuses on Berkshire Hathaway's decision to reduce its stake in Apple, but does not provide a clear sentiment on Berkshire Hathaway itself. The article is neutral on Berkshire Hathaway, as it is simply reporting on the company's investment decisions."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article focuses on Berkshire Hathaway's decision to reduce its stake in Apple, but does not provide a clear sentiment on Berkshire Hathaway itself. The article is neutral on Berkshire Hathaway, as it is simply reporting on the company's investment decisions."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T18:47:05.001447+00:00",
+    "cache_key": "news_a7de4d967d7d69d3ce87f9769df95919",
+    "count": 5
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "id": "83977fc9fcdcfe9fccf2568097c95f0998b819b00219e7c79980e22de01849c4",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Know About Index Funds? This Simple Strategy Would Have Beaten the Pros This Year.",
+      "author": "Jeremy Bowman",
+      "published_utc": "2024-12-01T11:38:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/01/know-about-index-funds-this-simple-strategy-would/?source=iedfolrf0000001",
+      "tickers": [
+        "SPY",
+        "VOO"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799233/professional-stock-trader-broker-analyze-stock-chart-invest-retire.jpg",
+      "description": "The S&P 500 is on track to have one of its best performances in decades, up 26.2% so far in 2024. Wall Street's forecasts have been wildly off, with hedge funds and macro funds underperforming the index. Investing in an S&P 500 index fund is an easy way for individual investors to capitalize on the market's gains and beat the pros.",
+      "keywords": [
+        "S&P 500",
+        "stock market",
+        "index funds",
+        "hedge funds",
+        "Wall Street"
+      ],
+      "insights": [
+        {
+          "ticker": "SPY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Investing in an S&P 500 index fund like the SPDR S&P 500 ETF is an easy way for individual investors to capitalize on the market's gains and beat the pros."
+        },
+        {
+          "ticker": "VOO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Investing in an S&P 500 index fund like the Vanguard S&P 500 ETF is an easy way for individual investors to capitalize on the market's gains and beat the pros."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T18:44:16.088086+00:00",
+    "cache_key": "news_7668c99b425aea00e70069696a2cf05e",
+    "count": 1
+  }
+}

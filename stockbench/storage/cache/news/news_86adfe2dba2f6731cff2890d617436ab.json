@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Earnings live: IBM stock surges, Whirlpool slides; Meta, Microsoft, Tesla report beats across the board",
+      "description": "The fourth quarter earnings season kicks into high gear this week, with Big Tech results from Microsoft, Meta, Tesla, and Apple headlining the earnings calendar.",
+      "published_utc": "2026-01-28T16:39:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=101d3989b2adbcbaa12c0372880869b52269ededccf6700e8ebae8dae0e40914",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138288984,
+      "datetime": 1769636388
+    },
+    {
+      "title": "Caterpillar Earnings Are Coming. The Bar Is High Thanks to AI.",
+      "description": "Investors have been focused on the company’s power-generation business amid a boom in AI data center construction.",
+      "published_utc": "2026-01-28T16:19:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=df401ffb38bae71047b21bb1c98d0c8cdac3287bae4f6cb3a518b8b175a36431",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138289106,
+      "datetime": 1769635140
+    },
+    {
+      "title": "American Intelligence & Power Forms Strategic Alliance with Caterpillar and Boyd CAT to Deploy 2 Gigawatts of Dedicated Power for Hyperscale AI Infrastructure",
+      "description": "American Intelligence & Power Corporation (\"AIP Corp\"), Caterpillar Inc. (NYSE: CAT), and Boyd CAT today announced a strategic alliance and the execution of a purchase agreement supporting the development of AIP Corp's flagship site, the Monarch Compute Campus (\"Monarch\"), a large-scale, multi-phase power generation and infrastructure platform designed to deliver long-term, high-reliability power solutions to hyperscale and enterprise data center customers.",
+      "published_utc": "2026-01-28T16:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9b7b09acc8aca8fb9e488aedfa37b8bcb682a44cf554b67eec358a733c72e506",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138289107,
+      "datetime": 1769634300
+    },
+    {
+      "title": "Why a $3 Million Shift Toward International Equities Stands Out in a Mega-Cap Portfolio",
+      "description": "The iShares MSCI ACWI ex U.S. ETF offers diversified exposure to developed and emerging international equity markets through a single vehicle.",
+      "published_utc": "2026-01-28T14:31:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d6cf343cfd41d8a1885d7ea72c8fe6085bfbbc14be1593f7d3b3b401652e8c96",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138287401,
+      "datetime": 1769628671
+    },
+    {
+      "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
+      "description": "The S&P 500 briefly surpassed 7,000 for the first time on Wednesday, but ended the day near the flatline after the Federal Reserve held steady on rates.",
+      "published_utc": "2026-01-28T14:00:18",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=f390b24585f106234403deaf8b51cc6ee3f762e784b963e10b4260c0117717b6",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108200613-1758197176145-gettyimages-2235448391-META_CONNECT.jpeg?v=1764692125&w=1920&h=1080",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138296505,
+      "datetime": 1769626818
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:13:17.078369+00:00",
+    "cache_key": "news_86adfe2dba2f6731cff2890d617436ab",
+    "count": 5
+  }
+}

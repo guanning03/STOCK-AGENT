@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Employment Stagnation Drives Hiring Down To Near 10-Year Low (Ex-Covid)",
+      "description": "",
+      "published_utc": "2025-07-07T19:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ac6c50db31cb5de60bf11b8755e6c3194bdd3dae1c1a6496c036ab55ce31de76",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135792842,
+      "datetime": 1751931300
+    },
+    {
+      "title": "2 ETFs Offering Juicy Dividend Yields of 20% or Higher",
+      "description": "As inflation lingers and rates stay high, investors are flocking to high-yield ETFs.",
+      "published_utc": "2025-07-07T19:30:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a42208943fdf2edff2542d6206d364fc0f6ed3febb4bccd5bc02ba06c079f9cc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135806332,
+      "datetime": 1751931002
+    },
+    {
+      "title": "CGDG: Global Dividend ETF With Income Growth Potential",
+      "description": "",
+      "published_utc": "2025-07-07T18:35:21",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=dfc2bd7435b0ddca2ad054947c783cb6dbffc749b2a7c600bfa17800c23e9600",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135792399,
+      "datetime": 1751927721
+    },
+    {
+      "title": "New Tariff Threats Give Market Indexes a Haircut",
+      "description": "The slight trim off record highs we saw before the opening bell turned into a full haircut today.",
+      "published_utc": "2025-07-07T17:57:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=42374ca48fa043442dc5a172866b8de05528f676746c1f2b2b62d8b2de44f8c0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135790084,
+      "datetime": 1751925420
+    },
+    {
+      "title": "A Closer Look At Full-Time And Part-Time Employment: June 2025",
+      "description": "June, the number of full-time workers increased by 437,000 while the number of part-time workers fell by 367,000.",
+      "published_utc": "2025-07-07T16:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a85ba2fa21ad3c09c50e2aada9c925131c442b7f1ce49791fb3c80db425e4ec1",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1262672246/image_1262672246.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135790900,
+      "datetime": 1751921100
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "items": [
+    {
+      "id": "2f12ae67f96dedb9af3bf7b41510bf2f4f824680d92b4f289617fa6c8e72bb2e",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Should You Forget Amazon? Why You Might Want to Buy This Unstoppable Growth Stock Instead",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-04T23:32:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/04/should-you-forget-amazon-why-you-might-want-to-buy/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "UBER"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802826/entering-ride-sharing-car.jpg",
+      "description": "The article discusses the decline in car ownership and the rise of ride-hailing services, suggesting that Uber is a better growth stock to consider than Amazon due to the strong cultural tailwind driving its growth.",
+      "keywords": [
+        "car ownership",
+        "ride-hailing",
+        "growth stocks",
+        "Amazon",
+        "Uber"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Amazon is still a great play and benefits from the growing number of consumers who are content without owning or driving a vehicle."
+        },
+        {
+          "ticker": "UBER",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Uber is the more promising prospect between the two companies, as it is benefiting from the strong cultural tailwind of declining car ownership and growing interest in ride-hailing services."
+        }
+      ]
+    },
+    {
+      "id": "3ba0e9c71867c6c51b68291e5aa0b9c0fd068546a5624be0ba8e1350aa5babd0",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is IonQ a Buy?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-04T14:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/04/is-ionq-a-buy/?source=iedfolrf0000001",
+      "tickers": [
+        "IONQ",
+        "IONQ.WS",
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799583/ionq-ai-stock-market-investment.jpg",
+      "description": "IonQ is a promising quantum computing company, but it faces significant challenges as a young, unprofitable company. While the potential rewards are significant, the risks are also high, making it a speculative investment not suitable for all investors.",
+      "keywords": [
+        "IonQ",
+        "quantum computing",
+        "investment"
+      ],
+      "insights": [
+        {
+          "ticker": "IONQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "IonQ is a promising quantum computing company with significant potential, but it is still in the early stages of its lifecycle, is unprofitable, and faces significant technical and financial challenges. The article presents a balanced view, highlighting both the potential rewards and the risks associated with investing in the company."
+        },
+        {
+          "ticker": "IONQ.WS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "IonQ is a promising quantum computing company with significant potential, but it is still in the early stages of its lifecycle, is unprofitable, and faces significant technical and financial challenges. The article presents a balanced view, highlighting both the potential rewards and the risks associated with investing in the company."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alphabet is mentioned as the parent company of Google, which is one of the cloud platforms that provides access to IonQ's quantum computers. The article does not provide any specific commentary on Alphabet's business or investment prospects."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alphabet is mentioned as the parent company of Google, which is one of the cloud platforms that provides access to IonQ's quantum computers. The article does not provide any specific commentary on Alphabet's business or investment prospects."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Amazon Web Services (AWS) is mentioned as one of the cloud platforms that provides access to IonQ's quantum computers. The article does not provide any specific commentary on Amazon's business or investment prospects."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Microsoft's Azure Quantum is mentioned as one of the cloud platforms that provides access to IonQ's quantum computers. The article does not provide any specific commentary on Microsoft's business or investment prospects."
+        }
+      ]
+    },
+    {
+      "id": "05766994590ad3e12064e202ceb506755438839b89d5b25c4a25702407134bc2",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is D-Wave Quantum Inc. Stock a Buy in 2025?",
+      "author": "George Budwell",
+      "published_utc": "2025-01-04T12:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/04/is-d-wave-quantum-inc-stock-a-buy-in-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "QBTS",
+        "QBTS.WS",
+        "GOOG",
+        "GOOGL",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802754/growth-stock.jpg",
+      "description": "D-Wave Quantum Inc. (QBTS) has seen its stock price surge 992% over the past year, reflecting investor enthusiasm for the company's advancements in quantum computing. The article examines D-Wave's core value proposition, recent milestones, and the risks associated with its high valuation.",
+      "keywords": [
+        "D-Wave Quantum",
+        "quantum computing",
+        "technology",
+        "investment"
+      ],
+      "insights": [
+        {
+          "ticker": "QBTS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights D-Wave's significant technological advancements in quantum computing, including the completion of its 4,400-qubit Advantage2 processor and the company's partnerships with major organizations. These achievements have driven the stock's remarkable 992% surge in the past year, reflecting strong investor optimism."
+        },
+        {
+          "ticker": "QBTS.WS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights D-Wave's significant technological advancements in quantum computing, including the completion of its 4,400-qubit Advantage2 processor and the company's partnerships with major organizations. These achievements have driven the stock's remarkable 992% surge in the past year, reflecting strong investor optimism."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Alphabet's quantum initiatives, such as the Willow chip architecture, as part of the broader context of the quantum computing landscape, but does not provide a specific assessment of the company's performance or outlook."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Alphabet's quantum initiatives, such as the Willow chip architecture, as part of the broader context of the quantum computing landscape, but does not provide a specific assessment of the company's performance or outlook."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article references Amazon's Quantum Embark initiative as another example of major tech companies investing in quantum computing, but does not offer a detailed analysis of the company's involvement or its impact on the industry."
+        }
+      ]
+    },
+    {
+      "id": "9fbe13fea2153c74e29fc85e5e0be7ea2b82edef5bc58139c5bf5f74111e6b8a",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Unstoppable Stocks to Build a Portfolio Around for 2025 and Beyond",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-04T11:06:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/04/3-unstoppable-stocks-build-portfolio-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "BRK.A",
+        "BRK.B"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802527/saving-money-growth-investing.png",
+      "description": "The article recommends investing in Amazon, Alphabet, and Berkshire Hathaway as excellent starter stocks for 2025. It highlights the growth opportunities in e-commerce, advertising, cloud computing, and Berkshire's strong financial position.",
+      "keywords": [
+        "Amazon",
+        "Alphabet",
+        "Berkshire Hathaway",
+        "investing",
+        "stocks"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Amazon's dominance in e-commerce, its growing advertising and cloud computing businesses, and its ability to generate strong free cash flow, which should drive the stock higher in the coming years."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes Alphabet's massive user base, growth in its cloud business, and the company's profitability, which make it a rewarding investment for the long term."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes Alphabet's massive user base, growth in its cloud business, and the company's profitability, which make it a rewarding investment for the long term."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article praises Berkshire Hathaway's strong financial position, its diverse portfolio of businesses, and Warren Buffett's successful value investing strategy, which has generated tremendous wealth for shareholders over the decades."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article praises Berkshire Hathaway's strong financial position, its diverse portfolio of businesses, and Warren Buffett's successful value investing strategy, which has generated tremendous wealth for shareholders over the decades."
+        }
+      ]
+    },
+    {
+      "id": "1b1855e9438a9899c4fef786653cc5721ff0f43bd28de81cb83beedb15dee1bf",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "My Top Artificial Intelligence (AI) Stock to Buy for 2025 (Hint: It's Not Nvidia)",
+      "author": "Prosper Junior Bakiny",
+      "published_utc": "2025-01-04T09:35:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/04/my-top-artificial-intelligence-ai-stock-to-buy-for/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802432/person-sitting-at-a-desk-looking-at-two-monitors.jpg",
+      "description": "The article argues that Amazon (AMZN) is the best AI stock to buy right now, as it offers diversification beyond just AI, with a strong presence in cloud computing, e-commerce, advertising, and other sectors. While Nvidia is a popular AI play, Amazon's AI initiatives are a smaller part of its overall business, making it less vulnerable to AI-related issues.",
+      "keywords": [
+        "Amazon",
+        "Nvidia",
+        "AI",
+        "cloud computing",
+        "e-commerce",
+        "advertising"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Amazon is the best AI stock to buy right now, as it offers diversification beyond just AI, with a strong presence in cloud computing, e-commerce, advertising, and other sectors. This makes it less vulnerable to AI-related issues compared to more specialized AI companies like Nvidia."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article acknowledges that Nvidia is a popular AI play, but suggests that Amazon has an advantage due to its diversification beyond just AI."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Tracking AMG's Yacktman Asset Management Portfolio - Q3 2025 Update",
+      "description": "Discover Yacktman Asset Management's Q3 2025 portfolio moves, key holdings, and strategy insights.",
+      "published_utc": "2025-11-04T17:34:34",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=467305fe3a0b54094e9177db03d8a88282e46b4bb97a7db017c7b02e4954ee6a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137332134,
+      "datetime": 1762295674
+    },
+    {
+      "title": "IREN's AI Takeover Begins",
+      "description": "IREN secured a $9.7 billion, five-year AI Cloud contract with Microsoft covering 200MW and 20% upfront payment. Read why IREN stock is a Buy.",
+      "published_utc": "2025-11-04T17:01:30",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1685ae36b223453aa4f7942080d8c134d7a2090980b67a321f4c4f4c13876d91",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2195684783/image_2195684783.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137331933,
+      "datetime": 1762293690
+    },
+    {
+      "title": "AMD reports better-than-expected results but margin guidance only meets estimates",
+      "description": "The chipmaker is working on a major deal with OpenAI",
+      "published_utc": "2025-11-04T11:41:24",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=ef5f21dc808555201c5beacd7833db34d7d8ec5e0215de0d1841c0370af73c07",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108221304-1762281616912-gettyimages-2213400275-SENATE_AI.jpeg?v=1762282011&w=1920&h=1080",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137334044,
+      "datetime": 1762274484
+    },
+    {
+      "title": "AI Stocks Wipe Out Over $500B As Palantir Reminds Traders The Party Can't Last Forever",
+      "description": "A sharp tech selloff wiped out over $500B as Palantir, Nvidia, and others tumbled. Valuation concerns grow with CAPE ratio nearing dot-com bubble highs.",
+      "published_utc": "2025-11-04T11:40:28",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=b183b5d7807c64729641e701907a033b0e2d25ba833b412aeeb3be3c26876c16",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/04/Market--Down--Creative-Crash-Recession-C.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138743157,
+      "datetime": 1762274428
+    },
+    {
+      "title": "CloudFit Software Launches easyCMMC to Help Defense Contractors Meet 2025 CMMC Compliance Mandates",
+      "description": "CloudFit Software, a Microsoft Partner and leading provider of secure managed services, is announcing the launch of easyCMMC, a turnkey solution designed to help defense contractors meet upcoming Cybersecurity Maturity Model Certification (CMMC) requirements ahead of the November 2025 Phase 1 rule implementation.",
+      "published_utc": "2025-11-04T10:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=da703652418cb2977730bad620fcd7916d3f067053b659516e8c5faac17bf8f8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137311860,
+      "datetime": 1762269300
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:28:22.346440+00:00",
+    "cache_key": "news_770b192c8ab1253bdd99d911c0391001",
+    "count": 5
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The 1-Minute Market Report, September 21, 2025",
+      "description": "The S&P 500 hit its 26th new high of the year, led by the resurgence of the Mag 7 mega-cap stocks. Click here to read more about the market.",
+      "published_utc": "2025-09-20T18:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d888b31d105bbdd706a2a6fe26d26760ef001b9cba2de01f9061075bab169221",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213764535/image_1213764535.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136831743,
+      "datetime": 1758408000
+    },
+    {
+      "title": "Investing Outlook As Central Banks Begin Rate Cuts",
+      "description": "Brad Simpson joins MoneyTalk to break down what investors should be watching for when it comes to the continued market rally and the potential path for interest rates. Read more here.",
+      "published_utc": "2025-09-20T05:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=27dd364ba93200fe7e6eae62daefa605339ea7f7ddc36e2b33ec1f97f7a6461d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2190339617/image_2190339617.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136827424,
+      "datetime": 1758360900
+    },
+    {
+      "title": "3 Electrical Equipment And Parts Stocks Flashing Strong Signals",
+      "description": "3 Electrical Equipment stocks—EAF, FLUX, PLUG—saw momentum percentile jumps, signaling strong short-term price trends in the sector.",
+      "published_utc": "2025-09-20T04:31:15",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f12c1ec20362a75462e0736939ba86043acc1baccc2b88e754d58bbf28883387",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/09/20/Close-Up-Of-Wall-Street-Sign-With-Iconic.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138481506,
+      "datetime": 1758357075
+    },
+    {
+      "title": "Why Over 40% Of My Dividend Portfolio Is In This One Sector",
+      "description": "AI-related stocks are powering market gains. Read here for top dividend growth stocks to boost your portfolio amid market disparities.",
+      "published_utc": "2025-09-20T04:10:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=66aa2e8b84ae3d8e6664ed6e2656d4fe77666c057efe2a5c67e0d01171ecd41f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2127493686/image_2127493686.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136827150,
+      "datetime": 1758355800
+    },
+    {
+      "title": "Weekly Indicators: The Surprising Rebound In Manufacturing Continues",
+      "description": "High-frequency weekly indicators suggest the US economy remains resilient. Commodity price interpretation is crucial. See more on the economy here.",
+      "published_utc": "2025-09-20T04:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2226a7c92007a197944f77226c0435583579f609c7234642b529defb41d093a6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1694035070/image_1694035070.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136827119,
+      "datetime": 1758355200
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T04:05:54.704395+00:00",
+    "cache_key": "news_c20efbb64204aded543a6f76319f1c07",
+    "count": 5
+  }
+}

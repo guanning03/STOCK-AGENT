@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "NAIL: Analysts Have Given Up On Homebuilding Stocks",
+      "description": "Explore expert analysis of the NAIL ETF, its earnings outlook, and short-term risks.",
+      "published_utc": "2025-09-21T16:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7c38d0eade60d4ec16d3487e548626afca002118af51873de60dc8246cbecd18",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2189063706/image_2189063706.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136838549,
+      "datetime": 1758487500
+    },
+    {
+      "title": "Is The Sherwin-Williams Company (SHW) a Reliable Pick in the List of NYSE Dividend Stocks?",
+      "description": "The Sherwin-Williams Company (NYSE:SHW) is included among the 10 Best NYSE Dividend Stocks to Buy. The Sherwin-Williams Company (NYSE:SHW) is an Ohio-based paints and coatings company. It has a long history that goes well beyond its reputation as a top dividend payer. From modest beginnings, it has grown into a leading name in the paints […]",
+      "published_utc": "2025-09-21T11:57:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=550c51d6a3e65daf7cb0c8c5cf03e50a75a9ec7d10e2531f5150d89bb5ae83db",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136836665,
+      "datetime": 1758470275
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T04:07:00.223393+00:00",
+    "cache_key": "news_16eebd142f3ff6a0a1089138132637f0",
+    "count": 2
+  }
+}

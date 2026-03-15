@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "id": "acdba97b547341913b2a9c9ec0d8f48e7e2f18be2d1bb120f4ae8781ff7cc548",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Should You Buy XRP While It's Under $3?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-11T13:19:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/11/should-you-buy-xrp-while-its-under-3/?source=iedfolrf0000001",
+      "tickers": [
+        "AXP",
+        "BTEUF",
+        "ETHV"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806878/laptop-charts-1366146199.jpg",
+      "description": "The article discusses the recent surge in the value of the XRP cryptocurrency, which is used for faster and cheaper foreign transactions. While XRP has potential, the article also highlights the coin's volatility and the uncertainty around its widespread adoption.",
+      "keywords": [
+        "XRP",
+        "Ripple",
+        "cryptocurrency",
+        "foreign transactions",
+        "volatility"
+      ],
+      "insights": [
+        {
+          "ticker": "AXP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that American Express uses the RippleNet network for some foreign transactions, but does not provide any further analysis or sentiment on the company."
+        },
+        {
+          "ticker": "BTEUF",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that the launch of a potential XRP exchange-traded fund (ETF) could be a catalyst for the coin's value, similar to the popularity of Bitcoin and Ethereum ETFs."
+        },
+        {
+          "ticker": "ETHV",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that the launch of a potential XRP exchange-traded fund (ETF) could be a catalyst for the coin's value, similar to the popularity of Bitcoin and Ethereum ETFs."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:59:53.376123+00:00",
+    "cache_key": "news_00d366c66aa18be91355bf977df96561",
+    "count": 1
+  }
+}

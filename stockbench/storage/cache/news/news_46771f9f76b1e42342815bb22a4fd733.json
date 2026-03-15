@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "2 Healthcare Dividend Stocks to Buy and Hold",
+      "description": "These drugmakers have competitive yields and have increased their dividends at a good clip.",
+      "published_utc": "2025-09-14T08:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cce71d36cf5df4a7be8688d4e0c8c49f74ece8b361ce1db1518c1f7c54cf4a67",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136741693,
+      "datetime": 1757852100
+    },
+    {
+      "title": "Amgen: Buy The Dip Opportunity",
+      "description": "Amgen trades below historical multiples despite strong Q2 results, a robust pipeline, and a 3.4% yield, offering value. Check out why AMGN stock is a buy.",
+      "published_utc": "2025-09-14T04:30:38",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c880b3ecb82ba883bf2bdac9a9646abb79ef7f035d9251911e832edd7751eced",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1289941019/image_1289941019.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136740967,
+      "datetime": 1757838638
+    },
+    {
+      "title": "Guggenheim Maintains a Hold on Amgen Inc. (AMGN)",
+      "description": "Amgen Inc. (NASDAQ:AMGN) is one of the best cheap stocks to buy for beginners. In a report released on September 5, Vamil Divan from Guggenheim maintained a Hold rating on Amgen Inc. (NASDAQ:AMGN), setting a price target of $288.00. Amgen Inc. (NASDAQ:AMGN) reported its fiscal Q2 2025 earnings on August 5, with t0tal revenues increasing […]",
+      "published_utc": "2025-09-14T02:17:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d2f3473398673dc6663072f83c5e5abdc9573faa45ce3391a3a4248505575f44",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136741713,
+      "datetime": 1757830629
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:45:11.744404+00:00",
+    "cache_key": "news_46771f9f76b1e42342815bb22a4fd733",
+    "count": 3
+  }
+}

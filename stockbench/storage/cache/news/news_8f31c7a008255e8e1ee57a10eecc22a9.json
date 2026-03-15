@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stocks Finish Sharply Lower on Trade Uncertainty and AI-Disruption Fears",
+      "description": "The S&P 500 Index ($SPX ) (SPY ) on Monday closed down -1.04%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down -1.66%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.21%. March E-mini S&P futures (ESH26 ) fell -1.02%, and March E-mini Nasdaq futures...",
+      "published_utc": "2026-02-23T16:36:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2b59b370eb7068a99d413ed8bd69cdd8d12705921a25f473b5271149464dae1b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139189666,
+      "datetime": 1771882575
+    },
+    {
+      "title": "Real Estate Stocks Rise: Realty Income (O) & Simon Property (SPG) Lead Last Week’s Winners",
+      "description": "Markets have started the week on rocky footing. The Dow Jones is off 1.3% as of 1:45 p.m. ET in Monday trading, but real estate stocks are holding in relatively well. Looking at last week, real estate stocks had a quietly constructive week while the broader market barely moved. The S&P 500, as tracked by SPY, ... Real Estate Stocks Rise: Realty Income (O) & Simon Property (SPG) Lead Last Week’s Winners",
+      "published_utc": "2026-02-23T14:06:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=81f0e2c343a2ea19c7bc7119e51c2cf63859fbf9d4878a079f175077bb779e32",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139187592,
+      "datetime": 1771873619
+    },
+    {
+      "title": "'Fed Unveils Plan on Eliminating Reputation Risk in Bank Exams'- Bloomberg",
+      "description": "https://www.bloomberg.com/news/articles/2026-02-23/fed-unveils-plan-on-eliminating-reputation-risk-in-bank-exams?srnd=homepage-americas",
+      "published_utc": "2026-02-23T13:53:25",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=a19fd5edd8b241cf8023d6bd3626ddb918eb09d92d814c196e760ff2e00ff74f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139195668,
+      "datetime": 1771872805
+    },
+    {
+      "title": "'Trump Considers New National Security Tariffs After Supreme Court Ruling'- WSJ",
+      "description": "https://www.wsj.com/politics/policy/trump-considers-new-national-security-tariffs-after-supreme-court-ruling-c9187773",
+      "published_utc": "2026-02-23T13:45:02",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f4f1f44c9c98d38f8d8ac755d8fdf53aa5ba6f8084c305015c9ca9c864a6cf5e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139195669,
+      "datetime": 1771872302
+    },
+    {
+      "title": "Tech Bulls Keep Calling The Bottom As Energy And Industrials Steal The Rally",
+      "description": "",
+      "published_utc": "2026-02-23T13:40:47",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1e38c500a8e61a6f07a2d96abb8f1763ade452335d9fdaecf24e3902e57d38b0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139188586,
+      "datetime": 1771872047
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:34:28.840393+00:00",
+    "cache_key": "news_8f31c7a008255e8e1ee57a10eecc22a9",
+    "count": 5
+  }
+}

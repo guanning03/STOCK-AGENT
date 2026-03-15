@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Weighing The Hammer",
+      "description": "Stocks staged a 3% levitation act this morning before fading to the close, landing close enough to a bear market.",
+      "published_utc": "2025-04-08T18:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9ca3667e69833f07f3cb7271977a00cb0da835061291a044981a19681875471a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2200759945/image_2200759945.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133818028,
+      "datetime": 1744152000
+    },
+    {
+      "title": "Trump's 104% Tariff On Chinese Imports Sends Stock Futures Plunging — Dow Falls Over 500 Points",
+      "description": "Stock futures tumbled on Tuesday evening as markets braced for President Donald Trump&#39;s 104% tariff on Chinese imports taking effect at 12:01 a.m. ET Wednesday, erasing a brief relief rally and sending major indexes to significant lows.",
+      "published_utc": "2025-04-08T17:41:53",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=233897815c2f4ee3b4384ee8825786da1f7c8f54fa2c668190e0a1254b0bbfc9",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/04/08/How-Stock-Futures-Reacted.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138945394,
+      "datetime": 1744148513
+    },
+    {
+      "title": "NFIB Small Business Survey: Sales Growth Expectations Scaled Back",
+      "description": "The NFIB Small Business Optimism Index dropped for a third straight month, falling to 97.4 in March.",
+      "published_utc": "2025-04-08T15:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bdecc29205cbcae786f28f464a1e62eccaa7b3b8a470484ab21233f3ce9f5610",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2158226013/image_2158226013.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133808239,
+      "datetime": 1744141200
+    },
+    {
+      "title": "U.S. Recession Odds Just Hit 62%: Trade Carefully",
+      "description": "Investors need to understand market volatility as they navigate the turmoil. Read more on what could be next for Wall Street.",
+      "published_utc": "2025-04-08T13:42:13",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ea33bf348c0ac4307e93bdd672376b6133178fddbb5c8896b12f327aa637037e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/855093810/image_855093810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133800479,
+      "datetime": 1744134133
+    },
+    {
+      "title": "The Economic Reality Of Tariffs",
+      "description": "Tariffs harm economic growth, raise prices, stifle innovation, and misallocate resources. Click here to find out more about the U.S. Economy.",
+      "published_utc": "2025-04-08T13:32:12",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=574e72090d8bc10bbe9660edf28cc3d18c5e047479b00b0899a62b2090fa5a7f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2189862167/image_2189862167.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133799871,
+      "datetime": 1744133532
+    }
+  ]
+}

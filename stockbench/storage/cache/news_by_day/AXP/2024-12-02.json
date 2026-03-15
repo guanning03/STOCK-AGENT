@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "id": "2ae339db3549504bcf3ccfcfadde84e8b26256e751f3471182183f9936ef87de",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Wall Street Analyst Thinks This High Flying Stock Has 57% Upside. Is it a Buy?",
+      "author": "Lee Samaha",
+      "published_utc": "2024-12-02T11:42:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/02/1-wall-street-analyst-thinks-this-high-flying-stoc/?source=iedfolrf0000001",
+      "tickers": [
+        "DAL",
+        "CRWD",
+        "AXP"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799385/gettyimages-628109306-1200x801-d21b45d.jpg",
+      "description": "Delta Air Lines is demonstrating its ability to manage capacity in line with demand, leading to improved profit margins. The company's focus on premium offerings and successful loyalty programs are helping to derisk its business model, making it an attractive investment opportunity.",
+      "keywords": [
+        "Delta Air Lines",
+        "airline industry",
+        "capacity management",
+        "premium offerings",
+        "loyalty programs"
+      ],
+      "insights": [
+        {
+          "ticker": "DAL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Delta's ability to manage capacity, its focus on premium offerings and successful loyalty programs, which are expected to improve its financial performance and make it a more attractive investment."
+        },
+        {
+          "ticker": "CRWD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions CrowdStrike's negative impact on Delta's earnings, but this is not the main focus of the article."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article discusses the success of Delta's co-branded credit cards with American Express, which are a significant revenue stream for the company."
+        }
+      ]
+    }
+  ]
+}

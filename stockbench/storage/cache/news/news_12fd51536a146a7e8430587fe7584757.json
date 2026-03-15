@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "id": "4b515bd77d67cc46f923dacf867a5923d642056f115a1282b5e85b0f04ce8875",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "More Electric Aircraft Market Report 2024, by System (Propulsion, Airframe), Component, Platform (Narrow Body, Wide Body, Regional Jet, Fighter Jet), Application and End Use - Forecast to 2029",
+      "author": "Researchandmarkets.Com",
+      "published_utc": "2024-12-10T09:54:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2024/12/10/2994278/28124/en/More-Electric-Aircraft-Market-Report-2024-by-System-Propulsion-Airframe-Component-Platform-Narrow-Body-Wide-Body-Regional-Jet-Fighter-Jet-Application-and-End-Use-Forecast-to-2029.html",
+      "tickers": [
+        "HON",
+        "RTX"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The more electric aircraft market is projected to grow from $5.56 billion in 2024 to $8.01 billion by 2029, driven by the development of high-density battery solutions, increasing use of electric technology, and technological advancements. Key players include Safran, Honeywell, RTX, and General Electric.",
+      "keywords": [
+        "more electric aircraft",
+        "battery technology",
+        "electric systems",
+        "aircraft platforms",
+        "civil aviation",
+        "military aviation"
+      ],
+      "insights": [
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Honeywell is mentioned as one of the key players in the more electric aircraft market, indicating its involvement and potential growth opportunities in this industry."
+        },
+        {
+          "ticker": "RTX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "RTX (Raytheon Technologies) is mentioned as one of the key players in the more electric aircraft market, indicating its involvement and potential growth opportunities in this industry."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:13:22.971967+00:00",
+    "cache_key": "news_12fd51536a146a7e8430587fe7584757",
+    "count": 1
+  }
+}

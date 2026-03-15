@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Rates Spark: Treasuries Ranging But Poised For A Breakout",
+      "description": "Treasuries have built a bit of resilience to the weak jobs narrative. Partly as there are fewer immigrants coming into the country in net terms, requiring less employment generation.",
+      "published_utc": "2025-12-03T17:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ae6d6057fb80ff8e5e74a124f1bce682e819fe0716f4e71334bf186198ab8511",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1341830429/image_1341830429.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137675506,
+      "datetime": 1764799200
+    },
+    {
+      "title": "ADP National Employment Report: 32K Private Jobs Lost In November",
+      "description": "The ADP employment report revealed that 32,000 nonfarm private jobs were lost in November.",
+      "published_utc": "2025-12-03T14:55:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5c62466bf3d3cdb1a7c1ce7fa56d4767b883045740309bc08920336b8483528f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1700222492/image_1700222492.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137674958,
+      "datetime": 1764791700
+    },
+    {
+      "title": "Top Macro Trade For 2026: The Bet Against A Fed Hike",
+      "description": "Discover a top macro trade for 2026: betting the Fed won't hike rates.",
+      "published_utc": "2025-12-03T13:09:02",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8c0ee18304128eca9502ac03950d92a72c4afdbcb51127dc341badc84cc7b728",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2235976009/image_2235976009.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137674569,
+      "datetime": 1764785342
+    },
+    {
+      "title": "A Major Market Disconnect Is Forming",
+      "description": "Explore expert views on the market vs. economic reality and discover smart capital allocation strategies for today's uncertain financial landscape.",
+      "published_utc": "2025-12-03T12:57:49",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=36a1f8f222ca12dba4e0ad27737c32d1edcce8aff4ec0234ea87d9e4873f9b4b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2244828413/image_2244828413.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137674539,
+      "datetime": 1764784669
+    },
+    {
+      "title": "Gold's Surge Could Be Predicting These 3 Major Stock Market Event Risks",
+      "description": "Goldâs rally without crisis hints at rising risks for stocks and the economy.",
+      "published_utc": "2025-12-03T12:55:15",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a59a4b357f8faf4c02497a9b85b3e5f901fa893308898e0034832ab92e8f116b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2213175079/image_2213175079.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137674541,
+      "datetime": 1764784515
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:04:08.161583+00:00",
+    "cache_key": "news_ecfba352753972839d04d9abd6fb3b42",
+    "count": 5
+  }
+}

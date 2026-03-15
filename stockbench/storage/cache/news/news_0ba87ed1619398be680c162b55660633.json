@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Microsoft (MSFT) Stock Moves -1.10%: What You Should Know",
+      "description": "Microsoft (MSFT) closed the most recent trading day at $454.79, moving 1.1% from the previous trading session.",
+      "published_utc": "2026-01-20T17:55:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0e35829a429b06b77b222813c966c8636dcb40348c82890858804484d78803ff",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138191500,
+      "datetime": 1768949702
+    },
+    {
+      "title": "Big Tech Stocks Hit Hard in Selloff",
+      "description": "All seven of the giant tech stocks known as the Magnificent Seven fell at least 1% Tuesday. That was the first time that has happened since October.    Microsoft was down the least, about 1.2%, with Tesla and Nvidia down 4% or more.",
+      "published_utc": "2026-01-20T16:37:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=10a0d2ad1a607102c9d494aec8be17457d8c6a87b509168cce11c4734eb9780a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138190210,
+      "datetime": 1768945025
+    },
+    {
+      "title": "RBC Initiates Coverage on Marvell (MRVL), Cites 25% Valuation Discount to Peers",
+      "description": "Marvell Technology, Inc. (NASDAQ:MRVL) is one of the AI Stocks Making Waves on Wall Street. On January 14, RBC Capital analyst Srini Pajjuri initiated coverage on the stock with an “Outperform” rating and a price target of $105. The analyst sees multiple growth drivers for Marvell and an undervalued entry point. According to Pajjuri, the […]",
+      "published_utc": "2026-01-20T16:02:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ed4fcf984cdc9a9ab8100ba22ea19b2535ef6bd5746b284bdef37cb895f8cac7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138190233,
+      "datetime": 1768942955
+    },
+    {
+      "title": "Himax, Broadcom, KLA Corporation, Impinj, and Qualcomm Stocks Trade Down, What You Need To Know",
+      "description": "A number of stocks fell in the afternoon session after rising geopolitical tensions between the US and Europe over control of Greenland sparked a broad, risk-off mood in asset markets.",
+      "published_utc": "2026-01-20T15:45:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8980c9e68049f1e662f00a4cc6e395d22bb2897998e4d0c2610fdcfa230580ca",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138190220,
+      "datetime": 1768941954
+    },
+    {
+      "title": "Why Nvidia (NVDA) Stock Is Down Today",
+      "description": "Shares of leading designer of graphics chips Nvidia (NASDAQ:NVDA) fell 3.8% in the afternoon session after rising geopolitical tensions between the US and Europe over control of Greenland sparked a broad, risk-off mood in asset markets.",
+      "published_utc": "2026-01-20T15:45:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a5de2fd0874cf4bdd2f4e4383a9211fbe56e32c16273e6fcf16bf902b1eb5607",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138190221,
+      "datetime": 1768941942
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:44:48.549525+00:00",
+    "cache_key": "news_0ba87ed1619398be680c162b55660633",
+    "count": 5
+  }
+}

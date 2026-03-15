@@ -1,0 +1,81 @@
+{
+  "items": [
+    {
+      "id": "03d4222a256ffb93cea5f88d27bdd95f94f95031017735a3f96006402f2ffec7",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Best Dividend ETF to Buy: SCHD Pays a High Yield While VIG Focuses on Dividend Growth",
+      "author": "Neha Chamaria",
+      "published_utc": "2025-12-21T17:18:02Z",
+      "article_url": "https://www.fool.com/coverage/etfs/2025/12/21/the-best-dividend-etf-to-buy-schd-pays-a-high-yield-while-vig-focuses-on-dividend-growth/?source=iedfolrf0000001",
+      "tickers": [
+        "SCHD",
+        "VIG",
+        "MRK",
+        "AMGN",
+        "CSCO",
+        "AVGO",
+        "MSFT",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F66026f7773699286c73c3ab5f122b4888e5c42a9-1401x1251.png%3Fw%3D1401%26h%3D1251&w=1200&op=resize",
+      "description": "The article compares two leading dividend ETFs: Schwab U.S. Dividend Equity ETF (SCHD) and Vanguard Dividend Appreciation ETF (VIG). SCHD offers a higher dividend yield of 3.8% but lower total returns, while VIG provides broader diversification with 338 holdings and stronger long-term growth potential through dividend reinvestment. Both are low-cost options suitable for passive income generation, with choice depending on whether investors prioritize current income or long-term growth.",
+      "keywords": [
+        "dividend ETF",
+        "SCHD",
+        "VIG",
+        "dividend yield",
+        "dividend growth",
+        "passive income",
+        "portfolio diversification",
+        "low-cost investing"
+      ],
+      "insights": [
+        {
+          "ticker": "SCHD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "SCHD is highlighted for its significantly higher dividend yield of 3.8% and lower volatility (beta 0.73), making it attractive for income-focused investors seeking stable, reliable dividend payments from high-quality dividend payers."
+        },
+        {
+          "ticker": "VIG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "VIG is praised for superior long-term total returns (14.9% 1-yr return vs 6% for SCHD), broader diversification with 338 holdings, and focus on dividend growth stocks with 10+ years of consecutive dividend increases, demonstrating stronger growth potential when dividends are reinvested."
+        },
+        {
+          "ticker": "MRK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a top holding in SCHD, indicating it meets the fund's criteria for high-yielding, high-quality dividend stocks, but no specific performance commentary is provided."
+        },
+        {
+          "ticker": "AMGN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed as a top holding in SCHD, qualifying as a reliable dividend payer, but no distinct analysis or commentary is provided about the company itself."
+        },
+        {
+          "ticker": "CSCO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a top SCHD holding meeting dividend criteria, but receives no specific performance evaluation or commentary."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed as a major position in VIG's technology-heavy portfolio, but no specific analysis or sentiment is provided."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Noted as a major VIG holding with a history of dividend growth, but no specific performance commentary is included."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a significant VIG holding, but receives no distinct analysis or evaluation."
+        }
+      ]
+    }
+  ]
+}

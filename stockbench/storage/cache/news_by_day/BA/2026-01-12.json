@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Why Boeing (BA) Outpaced the Stock Market Today",
+      "description": "In the latest trading session, Boeing (BA) closed at $239.81, marking a +2.25% move from the previous day.",
+      "published_utc": "2026-01-12T17:45:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3e4612c408ca7aab2be0ea755e1656c894710078aea12507c2ac90072dbaad16",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138083388,
+      "datetime": 1768257905
+    },
+    {
+      "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+      "description": "The Dow Industrials and the S&P 500 rose to new records Monday as investors shrugged off news of the Justice Department's investigation into Fed Chair Powell.",
+      "published_utc": "2026-01-12T13:56:50",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=1e8f110e5578ca9fdfeb16ae452cc62a6112dd0362c07ff491fcf5a7d4b22c2d",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108225847-1763075603404-gettyimages-2246002365-AFP_83YT9HJ.jpeg?v=1768260101&w=1920&h=1080",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138085700,
+      "datetime": 1768244210
+    },
+    {
+      "title": "Airbus delivers more planes in 2025",
+      "description": "Airbus said Monday it delivered 793 commercial aircraft in 2025, a slight increase from the previous year but falling short of its initial ambitions due to a manufacturing problem.The US manufacturer delivered 537 aircraft in the first 11 months of the year, its best result for that period since 2018, before the crashes of two 737 MAX aircraft sent the company into a crisis.",
+      "published_utc": "2026-01-12T13:36:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2de65628a99584786373097ecd9e1d1c17fc27d03903092c6e690e1006fb9bb7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138078111,
+      "datetime": 1768242980
+    },
+    {
+      "title": "10 Industrials Stocks Whale Activity In Today's Session",
+      "description": "",
+      "published_utc": "2026-01-12T08:35:24",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=5b3c60b839847dbc42ac119fbd866a07d99df9387f7193db604d078dbbcb8039",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=2048&height=1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138411310,
+      "datetime": 1768224924
+    },
+    {
+      "title": "Capture Rolls-Royce's Record '26 Rally Through These Diversified ETFs",
+      "description": "RYCEY is up 12.9% YTD, hitting record highs in 2026; diversified ETFs like EUAD offer exposure to the rally while reducing risk from a potential pullback.",
+      "published_utc": "2026-01-12T08:22:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=be74e4ea5ad9d63dbe56dd1be32950a073d02f35c30929b3ffa39b1c7798c7f1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138072350,
+      "datetime": 1768224120
+    }
+  ]
+}

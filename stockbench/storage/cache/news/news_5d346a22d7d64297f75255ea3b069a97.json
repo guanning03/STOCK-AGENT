@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "H. B. Fuller (FUL) Tops Q2 Earnings and Revenue Estimates",
+      "description": "H. B. Fuller (FUL) delivered earnings and revenue surprises of +7.27% and +0.01%, respectively, for the quarter ended May 2025. Do the numbers hold clues to what lies ahead for the stock?",
+      "published_utc": "2025-06-25T17:20:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d177262859c209f57ccc200fa56f3bbaa92a2711f834882c389d737abc78090d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135531084,
+      "datetime": 1750886401
+    },
+    {
+      "title": "4 reasons why S&P 500 companies are talking more about immigration on their earnings calls",
+      "description": "4 reasons why S&P 500 companies are talking more about immigration on their earnings calls",
+      "published_utc": "2025-06-25T04:00:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=93a22a100a964a3c280ae50c36b8f0407720bab3d7b322f62052fa90c26fc118",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135540911,
+      "datetime": 1750838400
+    },
+    {
+      "title": "23 Stocks That Score High on What Counts in the 2025 Market",
+      "description": "23 Stocks That Score High on What Counts in the 2025 Market",
+      "published_utc": "2025-06-24T21:30:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=c4b0c7bc25310deb8a19daa820ed6fdc6f78c00305cc12f104ef18288d1b31ea",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135538898,
+      "datetime": 1750815000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T00:39:58.857670+00:00",
+    "cache_key": "news_5d346a22d7d64297f75255ea3b069a97",
+    "count": 3
+  }
+}

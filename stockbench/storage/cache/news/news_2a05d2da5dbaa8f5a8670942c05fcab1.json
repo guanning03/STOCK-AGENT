@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer on Home Depot: “You Can Own it and Let That Dividend Compound Over Time”",
+      "description": "The Home Depot, Inc. (NYSE:HD) is one of the stocks Jim Cramer shared insights on. Cramer explained why the Charitable Trust kept adding to Home Depot shares, as he remarked: “One year ago today, we bought the stock of Home Depot for the Charitable Trust. We were looking for a rate cut… We got that […]",
+      "published_utc": "2025-09-08T12:58:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=13e508702ea77ff6178260f1dfbec48ba2eb87da9b66c9e4e1fbf25df6d31a08",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136674242,
+      "datetime": 1757350724
+    },
+    {
+      "title": "Take the Zacks Approach to Beat the Markets: Hecla Mining, GE Aerospace & Stride in Focus",
+      "description": "Zacks highlights Hecla Mining, GE Aerospace, and Stride as standout performers in a volatile market, driven by earnings trends and stock upgrades.",
+      "published_utc": "2025-09-08T08:41:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=937bb7545eb59657e7036a9e6b923f8729805899cf07cb992e4559d7b4e66495",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136669107,
+      "datetime": 1757335260
+    },
+    {
+      "title": "Citigroup, Home Depot, Rocket Companies And A Tech Stock On CNBC's 'Final Trades'",
+      "description": "Investors may need to rethink strategies as the S&amp;P 100 reshuffle signals shift in market dynamics with Uber, Home Depot, Citigroup making unexpected moves.",
+      "published_utc": "2025-09-08T04:05:49",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=5ccdb9d3bf39786261f2ca62c82abaaec86e4b101e2882e1dee0affd7fcb1084",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/09/08/Business-Man-Trader-Broker-Analyst-Inves.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138808279,
+      "datetime": 1757318749
+    },
+    {
+      "title": "Dow Jones Futures Rise, AppLovin And Robinhood Set To Jump; Apple iPhone Event Due",
+      "description": "Dow Jones futures: The stock market had a mixed week but is right at highs. The Apple iPhone event looms. Nvidia, Tesla, AppLovin are in focus.",
+      "published_utc": "2025-09-08T00:22:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b116da43ee60f66c9a281a48d51aa4c0fff66c8adad0d21a917b8810642e8789",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136668972,
+      "datetime": 1757305355
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:25:20.946757+00:00",
+    "cache_key": "news_2a05d2da5dbaa8f5a8670942c05fcab1",
+    "count": 4
+  }
+}

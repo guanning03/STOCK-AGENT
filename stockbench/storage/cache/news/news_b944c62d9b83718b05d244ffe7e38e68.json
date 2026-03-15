@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "July CPI Report: Tariffs Coming In Slow But Steady",
+      "description": "The July CPI report came in as expected, bringing the annual headline increase to 2.7%, holding steady from last monthâs reading.",
+      "published_utc": "2025-08-13T19:20:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5f18ca0393b137f1a322cef0db6580b3f49c9141e7dc485471ccb245c26b6fb3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2209777691/image_2209777691.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136342875,
+      "datetime": 1755127200
+    },
+    {
+      "title": "NFIB Small Business Survey: Optimism Rises While Uncertainty Remains High",
+      "description": "The NFIB Small Business Optimism Index rose slightly in July to its highest level since February, increasing 1.7 points to 100.3.",
+      "published_utc": "2025-08-13T16:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1b1d01dad6d2b7ee849893832c367e8abf779b7f745d9cbec5f46b4337988d95",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1320936550/image_1320936550.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136342121,
+      "datetime": 1755115500
+    },
+    {
+      "title": "What To Do With These Three S&P 500 Stocks After They Dropped By 10%",
+      "description": "Recent S&P 500 laggards like Intel, Palo Alto Networks, and Twilio are seeing bottom-fishing interest, but growth remains limited. Read the latest stock analysis here.",
+      "published_utc": "2025-08-13T14:08:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=92830970edec240a8fc9de70e206571a49827449b22feb81ea8e60f1e6be4bc3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1409383663/image_1409383663.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136341464,
+      "datetime": 1755108480
+    },
+    {
+      "title": "All's Well That Ends Well",
+      "description": "The tech-heavy Nasdaq 100 index is today priced at 105% of the US economy for the first time ever. Click to read.",
+      "published_utc": "2025-08-13T11:29:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3f45c4b824ab41491734bdd63a3d7deaf56b777cd381c866bdc138874822e876",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1363842522/image_1363842522.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136339039,
+      "datetime": 1755098940
+    },
+    {
+      "title": "U.S. Energy Department Announces Actions To Secure American Critical Minerals And Materials Supply Chain; Announces Its Intent To Issue Notices Of Funding Opportunities Totaling Nearly $1B To Secure American Critical Minerals And Materials Supply Chain",
+      "description": "https://www.energy.gov/cmm/what-are-critical-materials-and-critical-minerals",
+      "published_utc": "2025-08-13T11:08:19",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=894aca66b1445ed5fbbe2ce245c4235e7e5106fa4413f908b6cc3c042b3f2b9e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138815588,
+      "datetime": 1755097699
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:11:20.673520+00:00",
+    "cache_key": "news_b944c62d9b83718b05d244ffe7e38e68",
+    "count": 5
+  }
+}

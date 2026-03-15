@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Stocks Pause Ahead of Fed Decision on Rates",
+      "description": "The stock market was struggling to hold onto even modest gains on Tuesday. The Dow was down 111 points, or 0.2%. The S&P 500 was up just 0.1%. The Nasdaq Composite was up 0.2%. Though a slim majority of stocks in the S&P 500 were up on the day, market breadth was slipping.",
+      "published_utc": "2025-12-09T13:21:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8617b88bb0cb339ca9bfd8190bb84454a2ff6ce8955dbc51b857254b11786600",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137750215,
+      "datetime": 1765304519
+    }
+  ]
+}

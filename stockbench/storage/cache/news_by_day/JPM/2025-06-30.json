@@ -1,6 +1,81 @@
 {
   "items": [
     {
+      "title": "Goldman’s stock surges to another record, as the ‘big winner’ of Fed’s stress tests",
+      "description": "Goldman’s stock surges to another record, as the ‘big winner’ of Fed’s stress tests",
+      "published_utc": "2025-06-30T18:17:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=af7a22e2726b6ea46a59a77b5c6173b50602a93955bc6573eadf003209238469",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135688626,
+      "datetime": 1751321820
+    },
+    {
+      "title": "Markets Close Rollercoaster Q2 on Top",
+      "description": "After starting calendar Q2 with a huge \"Liberation Day\" dip, the Nasdaq and S&P 500 once again close at new all-time highs.",
+      "published_utc": "2025-06-30T17:58:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d6657c14e957805a98ef4ea833934146112b30944a58cb52b410bc669647d352",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135677506,
+      "datetime": 1751320680
+    },
+    {
+      "title": "Citigroup Hikes JPMorgan Chase & Co. (JPM)’s Price Target To $275, Maintains Neutral Rating",
+      "description": "JPMorgan Chase & Co. (NYSE:JPM) is among the Goldman Sachs Stock Portfolio: 10 Large-Cap Stocks To Buy. On June 26, Citigroup lifted the stock’s price target from $250 to $275, while maintaining a Neutral rating for its shares. The revision reflects Citigroup’s decision to reduce its cost of equity assumption to 9.4%, aligning with the option […]",
+      "published_utc": "2025-06-30T17:07:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d7b622a3fb2ea40e137c55116094dd4c36b8b1a99ca814024002324fa0dbb6cd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135677507,
+      "datetime": 1751317651
+    },
+    {
+      "title": "Bank stocks pop, Strategy & bitcoin, Google's nuclear play: Trending Tickers",
+      "description": "Bank stocks, including Goldman Sachs (GS), Bank of America (BAC), and JPMorgan (JPM), rise after passing the Federal Reserve's stress test. Strategy (MSTR) buys another $532 million in bitcoin (BTC-USD). Alphabet (GOOG, GOOGL) will buy power from Commonwealth Fusion Systems, doubling down on its investment in nuclear energy. To watch more expert insights and analysis on the latest market action, check out more Market Domination here.",
+      "published_utc": "2025-06-30T15:23:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7e75feb4cc725c46ecaa677b99874da818a4fcbf17b5c609287d72876d5cd5e4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135676094,
+      "datetime": 1751311428
+    },
+    {
+      "title": "Stablecoins are 'redefining what we understand money to be'",
+      "description": "Central banks and companies like JPMorgan (JPM) and Mastercard (MA) are exploring stablecoin and digital assets that challenge what people think of as money. Noelle Acheson, author of Crypto is Macro Now and former managing director of research at CoinDesk, joins Market Catalysts to explain how stablecoins—though not always stable—serve as key settlement tools driving crypto liquidity and reshaping payments. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts here.",
+      "published_utc": "2025-06-30T13:51:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=063f797bad63fa0daf3ba2a0239a0f9f2eb07b96736fe0c7fa2f1ed5d6b91614",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135671316,
+      "datetime": 1751305916
+    },
+    {
       "title": "What Traders Have Gotten Wrong in 2025",
       "description": "(Bloomberg) -- Six months since Wall Street laid out its predictions for 2025, world conflicts and President Donald Trump’s turbulent policy making have shattered assumptions about the strength and preeminence of US assets and the economy — leaving market favorites in tatters and conjuring unexpected winners.Most Read from BloombergPhiladelphia Transit System Votes to Cut Service by 45%, Hike FaresSqueezed by Crowds, the Roads of Central Park Are Being ReimaginedSao Paulo Pushes Out Favela Resid",
       "published_utc": "2025-06-30T03:00:27",

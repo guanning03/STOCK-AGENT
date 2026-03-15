@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Nvidia, Apple Were Not Among October's Top 3 Dow Stocks",
+      "description": "Dow stocks overall rose 2.5% in October. It was the index's best month since August and extended a win streak to six straight months.",
+      "published_utc": "2025-11-05T14:32:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b8a4d8a0e870c78a9052dcf900b8718d2424590e885df35f482bc1b2d23c754b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137340156,
+      "datetime": 1762371170
+    },
+    {
+      "title": "IBM Layoffs Take Place As Tech Giant Cuts Thousands And Joins The AI Race",
+      "description": "International Business Machines Corp.",
+      "published_utc": "2025-11-05T12:49:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0213d227aa635815e3c60b39010a339019c7c01b17edc426fe6cc47eccf4777f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137351019,
+      "datetime": 1762364972
+    },
+    {
+      "title": "AMD Q3 Earnings Beat Estimates, Revenues Up Y/Y, Shares Fall",
+      "description": "Advanced Micro Devices' Q3 revenues jump 35.6% year over year, powered by booming Data Center demand and strong Client and Gaming growth.",
+      "published_utc": "2025-11-05T11:41:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6c4c2e1d86135df7806c1e9211d2c7c214e4135062775ce3c19d35c1cf2fd388",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137351020,
+      "datetime": 1762360860
+    },
+    {
+      "title": "IBM’s CEO admits Gen Z’s hiring nightmare is real—but after promising to hire more grads, he’s laying off thousands of workers",
+      "description": "IBM’s CEO Arvind Krishna promised Gen Z he would hire more college grads and be the “opposite” of companies like Amazon laying off workers. Days later, he's giving thousands the pink slip.",
+      "published_utc": "2025-11-05T11:32:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0828715702e3afed0c0e6f3c04dd7748b40814e578c2e31bd18c011a4728035d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137340170,
+      "datetime": 1762360350
+    },
+    {
+      "title": "IBM to lay off thousands as attention shifts to software",
+      "description": "The company said it plans to trim its global workforce in its fourth quarter, citing a routine rebalancing.",
+      "published_utc": "2025-11-05T11:24:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=72a7869d9e79aec3d214ba93daa3100ef55b2464b9096fd3eb619b1db51f8d5c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137351022,
+      "datetime": 1762359840
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:35:33.861826+00:00",
+    "cache_key": "news_88cf82074d52af7f5f5e4899e56a6262",
+    "count": 5
+  }
+}

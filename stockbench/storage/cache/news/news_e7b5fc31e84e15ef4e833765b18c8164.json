@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Billionaire Warren Buffett Owns 6 Dow Jones Stocks. Here's My Top Buy for 2026.",
+      "description": "This dividend-paying growth stock is a top buy for investors seeking a high-quality company at a favorable value.",
+      "published_utc": "2025-11-22T18:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=79959667e7fc9d39e6c5c8bafa4efed6eb9edcf8535f68e556519cb660dd3af9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137586591,
+      "datetime": 1763852700
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:24:52.472806+00:00",
+    "cache_key": "news_e7b5fc31e84e15ef4e833765b18c8164",
+    "count": 1
+  }
+}

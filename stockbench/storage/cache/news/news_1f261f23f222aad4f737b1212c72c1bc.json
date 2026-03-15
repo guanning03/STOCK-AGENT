@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "CIO Notebook: Light May Inflation Readings Put Fed On Notice",
+      "description": "U.S. CPI readings for May were once again lighter than forecasted, with U.S. headline CPI up +0.1% month-over-month (MoM) and up +2.4% year-over-year (YoY) versus consensus expectations.",
+      "published_utc": "2025-06-11T19:50:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=14e970eb77aebb348f8ca2bd7536b8b1aaa8414c45ee73da6c42f77e0f734121",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2171438579/image_2171438579.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135201196,
+      "datetime": 1749685800
+    },
+    {
+      "title": "AIER's Everyday Price Index Sees Modest May 2025 Increase",
+      "description": "AIERâs Everyday Price Index (EPI) posted a 0.18 percent rise in May 2025, reaching 294.3",
+      "published_utc": "2025-06-11T19:25:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b422c14e63855b06d7b9326edb80cf8a0d1512ef9a7392ac731c17fb8a15050a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1609437977/image_1609437977.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135200233,
+      "datetime": 1749684300
+    },
+    {
+      "title": "Memo To Fed: Lower Interest Rates Are Overdue",
+      "description": "",
+      "published_utc": "2025-06-11T19:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3f2a88caa6d2e882eadfd1c9b1c6574520961fc635923681f244ecb1a89e632c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135199929,
+      "datetime": 1749683100
+    },
+    {
+      "title": "SPY Attracts $3.1B in Assets as Trade Talks Continue",
+      "description": "- SPY led ETF inflows as U.S.-China discussions extended in London. - BND and VTEB gained while IVV and SPYV saw outflows.",
+      "published_utc": "2025-06-11T17:00:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=15a1fe9e5338d12150dc55a29de0c5bd4ff6a3929ee4cddd1c7f0d84a3e9837f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135194988,
+      "datetime": 1749675603
+    },
+    {
+      "title": "SPHQ: A Potential Core Component Of A (Truly) Competitive Portfolio",
+      "description": "I think the SPHQ quality filter makes a smart selection of the most deserving S&P 500 companies for the long term. Read more on SPHQ here.",
+      "published_utc": "2025-06-11T16:47:30",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=440b68e19ce3dc876ecc51d200e23e2d0a1be155b29068133fa7e6c21db7b8d9",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1174370623/image_1174370623.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135195745,
+      "datetime": 1749674850
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T00:26:00.012253+00:00",
+    "cache_key": "news_1f261f23f222aad4f737b1212c72c1bc",
+    "count": 5
+  }
+}

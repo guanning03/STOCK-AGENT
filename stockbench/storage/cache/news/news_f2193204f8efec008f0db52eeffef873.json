@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Sector Update: Financial Stocks Rise Late Afternoon",
+      "description": "Financial stocks were higher in late Wednesday afternoon trading, with the NYSE Financial Index incr",
+      "published_utc": "2025-11-19T16:04:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=49b9cb26d8f387eee362d710edace558f49627588bd9525c5af8d03cec97448e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137553854,
+      "datetime": 1763586243
+    },
+    {
+      "title": "JP Morgan: 5 Powerful Ways Women Are Using Wealth From the Great Transfer",
+      "description": "JP Morgan reveals how women across generations are spending and investing inherited wealth from the Great Wealth Transfer.",
+      "published_utc": "2025-11-19T15:09:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f06de80d3bbe59adc6c22ca9896579d654936ee067da7e95165c4b94378a7722",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137553855,
+      "datetime": 1763582947
+    },
+    {
+      "title": "Sector Update: Financial Stocks Mixed in Afternoon Trading",
+      "description": "Financial stocks were mixed in Wednesday afternoon trading, with the NYSE Financial Index decreasing",
+      "published_utc": "2025-11-19T13:58:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b1f15d456296c41961c8c703a87d6893a4383ad797952c634a17c8f45c1fd4a7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137553856,
+      "datetime": 1763578705
+    },
+    {
+      "title": "JPMorgan Expands in Dubai, Eyes More Business With Mid-Cap Firms",
+      "description": "JPM expands in Dubai to tap mid-cap demand, shifting talent and intensifying competition in a fast-growing regional market.",
+      "published_utc": "2025-11-19T10:59:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=26abf397d7fc18a41d413029c7e90dd3d223cbe2e96f6c93fc295c5b69d79fe5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137553857,
+      "datetime": 1763567940
+    },
+    {
+      "title": "JPMorgan to Shut Mobility Payment Platform Amid Profitability Concerns",
+      "description": "JPM will shut its loss-making VW Pay platform as rising volumes fail to offset mounting losses and no clear path to profitability.",
+      "published_utc": "2025-11-19T10:50:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=13cf6e68a772ff0c3f1c687aeef7b2df3b37f0a0c6f6b012a81bfbaeb8f0761f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137548635,
+      "datetime": 1763567400
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:21:09.991783+00:00",
+    "cache_key": "news_f2193204f8efec008f0db52eeffef873",
+    "count": 5
+  }
+}

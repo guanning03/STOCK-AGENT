@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Sherwin-Williams Pauses 401(k) Match As Costs Climb",
+      "description": "CEO warns headwinds could stretch into 2026 as costs rise",
+      "published_utc": "2025-09-17T16:53:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=24f30b2c5ae835ed3c21726721b997512600ff499b92bd6a93935fd5c83e5e6f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136791712,
+      "datetime": 1758142397
+    },
+    {
+      "title": "Varied Growth Drivers Led ClearBridge Investments Growth Strategy to Add The Sherwin-Williams Company (SHW)",
+      "description": "ClearBridge Investments, an investment management company, released its “ClearBridge Growth Strategy” second-quarter 2025 investor letter. A copy of the letter can be downloaded here. US equities significantly rallied in the second quarter, with the S&P 500 returning 10.9%. As the risk-on sentiment took hold, the benchmark Russell Midcap Growth Index advanced a market-leading 18.2%. Growth stocks […]",
+      "published_utc": "2025-09-17T10:18:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ecfacc20c464bd386363f471edb1ce1b9ed8ca979176f7f051cbe26bcc700331",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136789111,
+      "datetime": 1758118730
+    }
+  ]
+}

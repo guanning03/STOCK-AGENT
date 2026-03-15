@@ -1,0 +1,116 @@
+{
+  "items": [
+    {
+      "title": "Corporate America’s hefty profit streak continues amid worries over job market",
+      "description": "Earnings Watch: Even as fretting over the economy remains a pastime on Wall Street, third-quarter corporate profit growth has held up, helped by big banks and big tech.",
+      "published_utc": "2025-11-02T16:16:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=50f3eedd83b9ec8fee25789d36073514f547abe1e79fd56a073831f6334a8792",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137302319,
+      "datetime": 1762118160
+    },
+    {
+      "title": "Palantir, AMD, Pfizer, Robinhood, McDonald’s, and Many More Stocks to Watch This Week",
+      "description": "Vertex, Corteva, and many more will also report earnings. On the economic front, The Supreme Court will hear arguments on the legality of Trump’s tariffs, and ADP will release October employment data.",
+      "published_utc": "2025-11-02T14:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c6e9830cea6481e0b61837ae99fba3d68f7f46015b5541d1ddd83d303556858b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137302320,
+      "datetime": 1762110000
+    },
+    {
+      "title": "Wall Street Week Ahead",
+      "description": "Get the latest stock market updates, key earnings previews, and gold investing insights.",
+      "published_utc": "2025-11-02T02:07:08",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8834350af1a837126d8db68e94fded0a34364f99b03586b0dad5dee085578cc3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1451753827/image_1451753827.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137292957,
+      "datetime": 1762067228
+    },
+    {
+      "id": "467ad2a2956019690a73fca06aef577ceeda7113671599c351342df957e5f082",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "How Domino's Pizza Earned a Place in Berkshire Hathaway's Portfolio",
+      "author": "William Dahl",
+      "published_utc": "2025-11-02T11:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/11/02/how-dominos-pizza-earned-a-place-in-berkshire-hath/?source=iedfolrf0000001",
+      "tickers": [
+        "DPZ",
+        "BRK.A",
+        "BRK.B",
+        "MCD",
+        "KO",
+        "EATZ"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/840088/gettyimages-3362000-612x612.jpg",
+      "description": "Berkshire Hathaway has been steadily acquiring Domino's Pizza shares despite challenging macroeconomic conditions, attracted by the company's strong dividend growth, consistent earnings, and share buyback strategy.",
+      "keywords": [
+        "dividend growth",
+        "Berkshire Hathaway",
+        "Warren Buffett",
+        "stock investment",
+        "restaurant industry"
+      ],
+      "insights": [
+        {
+          "ticker": "DPZ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Stock performance is flat, with 20% decline since summer 2024, but strong earnings growth (21.5%) and consistent dividend increases suggest underlying resilience"
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Actively acquiring Domino's shares, indicating confidence in the company's long-term potential and dividend growth strategy"
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Actively acquiring Domino's shares, indicating confidence in the company's long-term potential and dividend growth strategy"
+        },
+        {
+          "ticker": "MCD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Used as a historical reference point for successful long-term dividend growth investments"
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mentioned as an example of Berkshire's successful dividend-generating investments"
+        },
+        {
+          "ticker": "EATZ",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Down 4% year-to-date, underperforming broader market indices"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:20:18.189206+00:00",
+    "cache_key": "news_b89243aad6c9fd2c8d6cf0fe2a425313",
+    "count": 4
+  }
+}

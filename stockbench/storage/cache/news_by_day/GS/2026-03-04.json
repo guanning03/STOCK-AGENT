@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "1 S&P 500 Stock with Promising Prospects and 2 We Avoid",
+      "description": "While the S&P 500 (^GSPC) includes industry leaders, not every stock in the index is a winner. Some companies are past their prime, weighed down by poor execution, weak financials, or structural headwinds.",
+      "published_utc": "2026-03-04T18:49:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=94bb257aceef4fdf77ee09cbd47b8752044ada6fcec87d091b82f81b000b1fb9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139303050,
+      "datetime": 1772668164
+    },
+    {
+      "title": "Sector Update: Financial Stocks Higher Late Afternoon",
+      "description": "Financial stocks were advancing in late Wednesday afternoon trading, with the NYSE Financial Index a",
+      "published_utc": "2026-03-04T15:56:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bf0a6d5f2f3e5d768c08ef106249a1f21cb8be27ef3b4769821430c4098a5255",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139302297,
+      "datetime": 1772657795
+    },
+    {
+      "title": "Goldman Sachs Says Equity Pullbacks Could Present Buying Opportunities",
+      "description": "Strategists say Middle East tensions, AI disruption fears may drive corrections, but economic resilience and earnings growth could limit a deeper bear market.",
+      "published_utc": "2026-03-04T14:57:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6fe2f6f8661664b70786eb1545bbaaea8ce22bd9f5c28d71c9eadcc75b553121",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139301050,
+      "datetime": 1772654237
+    },
+    {
+      "title": "Trump Ally Mullin Goes Stock Shopping Again: Here's His Latest Buys, Including Potential Conflict Of Interest",
+      "description": "Sen. Markwayne Mullin has been buying shares of smaller companies in recent months. Here are his latest transactions and why one stock is catching attention.",
+      "published_utc": "2026-03-04T14:55:00",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=d17955697bf3e94788f987452efaf8a460d41456dab7fa2e9c0f8421d33da16e",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/03/04/MarkwayneMullin-shutterstock.png?width=2048&height=1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139307747,
+      "datetime": 1772654100
+    },
+    {
+      "title": "Oil Price Shocks Have Hit India, But This 1 Emerging Market ETF Is Still a Buy Now Near $40",
+      "description": "The iShares India 50 ETF hit a new 52-week low on Tuesday. While the impact of higher oil prices due to the Iran war hurts Indian companies more than most in Asia, this contrarian bet has historically been profitable.",
+      "published_utc": "2026-03-04T14:01:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e8498ab1a9344695fc424c00106ac3f0a691185ab72bb64fe7df6ecd71b41ce9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139303051,
+      "datetime": 1772650873
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "items": [
+    {
+      "title": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% (January 2026)",
+      "description": "Discover 5 discounted large-cap dividend growth stocks (4.3% yield) plus two higher-yield lists up to 8%. Click for the picks!",
+      "published_utc": "2026-01-03T03:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=02536c3f4302ee7821819540ff92f231361cb3103c3759bb95af786875f7389f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1249993252/image_1249993252.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137972707,
+      "datetime": 1767427200
+    },
+    {
+      "id": "a78c2272012866df6f8ed08a4f6ab4394cbd5eed6f53b0e958cde25ad7e9743f",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Ways to Apply Warren Buffett's Investing Strategies to Your Own Portfolio in 2026",
+      "author": "Adria Cimino",
+      "published_utc": "2026-01-03T23:10:00Z",
+      "article_url": "https://www.fool.com/investing/2026/01/03/3-ways-to-apply-warren-buffetts-investing-strategy/?source=iedfolrf0000001",
+      "tickers": [
+        "KO",
+        "GOOG",
+        "GOOGL",
+        "UNH",
+        "BRK.A",
+        "BRK.B"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F849208%2Fbuffett11-tmf.jpg&w=1200&op=resize",
+      "description": "The article outlines three key Warren Buffett investing strategies for 2026: (1) practicing value investing by buying quality stocks at reasonable prices, (2) avoiding crowd mentality and seeking overlooked opportunities, and (3) maintaining a long-term investment horizon of at least five years rather than chasing short-term gains. Buffett's proven track record, including his Coca-Cola investment which returned over 3,200% including dividends, demonstrates the effectiveness of this approach.",
+      "keywords": [
+        "value investing",
+        "long-term investing",
+        "stock selection",
+        "contrarian investing",
+        "portfolio strategy"
+      ],
+      "insights": [
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Highlighted as a prime example of Buffett's successful long-term value investing strategy, with exceptional returns of over 3,200% since the late 1980s, demonstrating the power of patient capital allocation."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mentioned as a recent Buffett purchase of a quality company at reasonable valuation, indicating confidence in the company's long-term prospects and business fundamentals."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mentioned as a recent Buffett purchase of a quality company at reasonable valuation, indicating confidence in the company's long-term prospects and business fundamentals."
+        },
+        {
+          "ticker": "UNH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Referenced as a recent Buffett acquisition, suggesting it meets his criteria for quality businesses trading at attractive valuations with strong long-term growth potential."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Buffett's company achieved market-beating returns over six decades under his leadership, establishing a proven track record of successful capital allocation and investment strategy."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Buffett's company achieved market-beating returns over six decades under his leadership, establishing a proven track record of successful capital allocation and investment strategy."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T00:51:09.419868+00:00",
+    "cache_key": "news_e5216297919c80bf2034d9e10137c59b",
+    "count": 2
+  }
+}

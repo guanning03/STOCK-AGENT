@@ -1,0 +1,63 @@
+{
+  "items": [
+    {
+      "id": "c1f9add1025f2e8e74e6a696d0e27cded0b7b4746355cf9f09029ff5d7ce33dc",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Retinol Beauty Products Industry to Generate Revenues of $1.27 Billion by 2029, Rising at a CAGR of 6.06%",
+      "author": "Researchandmarkets.Com",
+      "published_utc": "2024-12-10T15:59:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2024/12/10/2994748/28124/en/Retinol-Beauty-Products-Industry-to-Generate-Revenues-of-1-27-Billion-by-2029-Rising-at-a-CAGR-of-6-06.html",
+      "tickers": [
+        "JNJ",
+        "PG",
+        "UL",
+        "EL",
+        "CL"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The global retinol beauty products market is expected to grow at a CAGR of 6.06% from 2023 to 2029, driven by rising consumer awareness of skincare benefits, expanding online retail, and increasing demand for premium and natural products.",
+      "keywords": [
+        "retinol",
+        "beauty products",
+        "skincare",
+        "anti-aging",
+        "acne treatment",
+        "premium",
+        "natural",
+        "online retail"
+      ],
+      "insights": [
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Johnson & Johnson Services, Inc. as one of the key players in the retinol beauty products market, indicating their strong presence and potential to benefit from the industry's growth."
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article includes The Procter & Gamble Company as a key player in the retinol beauty products market, indicating their participation and ability to benefit from the industry's growth."
+        },
+        {
+          "ticker": "UL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Unilever PLC as one of the key players in the retinol beauty products market, suggesting their strong presence and potential to capitalize on the industry's expansion."
+        },
+        {
+          "ticker": "EL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists The Estee Lauder Companies, Inc. as a key player in the retinol beauty products market, indicating their involvement and potential to benefit from the industry's growth."
+        },
+        {
+          "ticker": "CL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Colgate-Palmolive Company as one of the key players in the retinol beauty products market, suggesting their strong presence and potential to capitalize on the industry's expansion."
+        }
+      ]
+    }
+  ]
+}

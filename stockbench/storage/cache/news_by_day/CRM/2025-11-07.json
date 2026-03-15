@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "OpenAI's Restructuring Sets up What Could Be the Biggest IPO Ever",
+      "description": "OpenAI, maker of ChatGPT, has completed its corporate restructuring, positioning the company for what many expect to be the biggest IPO in history.",
+      "published_utc": "2025-11-07T19:41:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a7cf0f6fb5d915dfd531e7466a1e87677fbbc88e993c28812cddc7f41aaa1f8d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137401884,
+      "datetime": 1762562460
+    }
+  ]
+}

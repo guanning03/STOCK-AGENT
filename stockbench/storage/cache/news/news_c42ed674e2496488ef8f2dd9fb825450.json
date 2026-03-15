@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Is Quantum Computing Stock Going to $0?",
+      "description": "This quantum stock may be more hype than substance.",
+      "published_utc": "2026-02-15T13:35:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0d1ed34a1a5b80456f3726b295b7769c3abdc4d6d18c118f2dad900206428444",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139107854,
+      "datetime": 1771180500
+    },
+    {
+      "title": "IBM Expands AI Focused Hiring As Shares Trade Below Valuation Estimates",
+      "description": "IBM (NYSE:IBM) is tripling entry level hiring in the US, with a focus on AI fluency and durable skills. The company is redesigning entry level roles to emphasize customer engagement and work that is less exposed to automation risk. IBM is positioning early career talent as central to its future workforce plans, despite broader tech sector caution around junior hiring linked to AI automation. For you as an investor, this move provides another data point on how a large, established tech...",
+      "published_utc": "2026-02-15T04:10:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d4be2acf2799a7ee72f9b217d1d3f76c39c3f5381823218fdc6877e9268dcfae",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139105271,
+      "datetime": 1771146619
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:05:27.198639+00:00",
+    "cache_key": "news_c42ed674e2496488ef8f2dd9fb825450",
+    "count": 2
+  }
+}

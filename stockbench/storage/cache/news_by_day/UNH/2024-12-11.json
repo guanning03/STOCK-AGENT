@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "id": "3a56bfd9a52cc6083a2fe207c89454eece982912da11cae3ec79d0b54be1aa12",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why UnitedHealth Group Stock Was Falling Today",
+      "author": "Jeremy Bowman",
+      "published_utc": "2024-12-11T18:23:14Z",
+      "article_url": "https://www.fool.com/investing/2024/12/11/why-unitedhealth-group-stock-was-falling-today/?source=iedfolrf0000001",
+      "tickers": [
+        "UNH",
+        "CI",
+        "CVS"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800698/pharmacy-prescription-drugs-pills.jpg",
+      "description": "The U.S. Senate is working on a bill that would require health insurers like UnitedHealth to divest their pharmacy benefit managers (PBMs) within three years. The bill, sponsored by both Democrats and Republicans, aims to unwind the bureaucracy in healthcare caused by PBMs. UnitedHealth, the country's largest health insurance company, owns one of the largest PBMs, Optum Rx.",
+      "keywords": [
+        "UnitedHealth Group",
+        "Cigna",
+        "CVS Health",
+        "Pharmacy Benefit Managers",
+        "Healthcare Regulation"
+      ],
+      "insights": [
+        {
+          "ticker": "UNH",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article reports that UnitedHealth's stock is trading down 5% due to the proposed Senate bill that would force the company to divest its pharmacy benefit manager (PBM) business, Optum Rx. This suggests the potential legislation is seen as a negative for the company."
+        },
+        {
+          "ticker": "CI",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that other health insurance stocks, including Cigna, were also trading down on the news of the proposed Senate bill, indicating a negative sentiment towards the potential impact on the industry."
+        },
+        {
+          "ticker": "CVS",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Similar to Cigna, the article notes that CVS Health's stock was also down on the news of the proposed Senate bill, suggesting a negative sentiment towards the potential impact on the healthcare industry."
+        }
+      ]
+    }
+  ]
+}

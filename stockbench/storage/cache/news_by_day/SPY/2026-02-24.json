@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "These Top S&P 500 ETFs are Likely to Outperform Your Portfolio",
+      "description": "Owning an S&P 500 ETF is like buying a slice of the entire U.S. economy, its diversified and historically one of the most reliable wealth-building tools ever created.",
+      "published_utc": "2026-02-24T16:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e4d0dfd486ef9711c8ef6f134a969719b6399b252678d2728d5c8070f78ff845",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139202593,
+      "datetime": 1771968000
+    },
+    {
+      "title": "21shares Spot SUI ETF (Nasdaq: TSUI) to Begin Trading on Tuesday Feb 24th, Expanding U.S. Access to Sui",
+      "description": "New York, New York, February 24th, 2026, Chainwire",
+      "published_utc": "2026-02-24T14:30:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5d57c48e638864b9567c9213ba8442607b9d783022e3ce3d11c228e41f90cbe4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139200828,
+      "datetime": 1771961426
+    },
+    {
+      "title": "S&P 500: Supreme Court Ruling On Tariffs Increases Market Volatility",
+      "description": "",
+      "published_utc": "2026-02-24T14:00:14",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8415bba897a447a3d71dd226e74b33b80a8c954cd33bbbb4af7c02017e77d61a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139202546,
+      "datetime": 1771959614
+    },
+    {
+      "title": "API Weekly Crude Oil Stock 11.4M Barrel Build Vs 1.85M Barrel Build Est.",
+      "description": "",
+      "published_utc": "2026-02-24T12:38:01",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=ae344379b70d1de8d1b4903b242f45eae73c32c8c3660780b2fb312a169005ee",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139208204,
+      "datetime": 1771954681
+    },
+    {
+      "title": "'State Of The Union: Trump To Announce Plans For New Tax Cuts Through Budget Reconciliation' - CNBC",
+      "description": "https://www.cnbc.com/2026/02/24/state-of-the-union-trump-tax-cuts.html",
+      "published_utc": "2026-02-24T12:36:11",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=898c5a1d4d162d79d96f23dce62d3dcfacb568bdf42c7deeb7868aca16d6682b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139208796,
+      "datetime": 1771954571
+    }
+  ]
+}

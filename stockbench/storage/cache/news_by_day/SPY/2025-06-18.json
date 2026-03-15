@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Fed Policymakers: Split Decision",
+      "description": "We expect the Fed will resume gradual interest rate cuts later this year, depending on U.S. labor market trends.",
+      "published_utc": "2025-06-18T19:50:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6203a5f6c2de71b5b7368cb7c3bd707f52da426cbe75a8adf479e638655a5239",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1466601047/image_1466601047.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135376384,
+      "datetime": 1750290600
+    },
+    {
+      "title": "Fed Keeps Rates in Line, Lowers GDP Projections",
+      "description": "The Fed did not cut rates, as expected they wouldn't, and Fed Chair Powell said he saw +0.6% higher inflation expectations from the last time the Fed cut.",
+      "published_utc": "2025-06-18T17:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aeb15301c592b2ae3d615e6adaa64090dc1dc9e98d59a27ba9551515014d8746",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135375537,
+      "datetime": 1750282380
+    },
+    {
+      "title": "Markets Play Dead Fish",
+      "description": "",
+      "published_utc": "2025-06-18T16:25:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c466e22253cc8edfebfbd071655db06ee0a66a773e17bb618041504478100693",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135374876,
+      "datetime": 1750278300
+    },
+    {
+      "title": "Fed's Interest Rate Decision: June 18, 2025",
+      "description": "The Federal Reserve concluded its fourth meeting of the year by keeping the federal funds rate (FFR) at 4.25-4.50%, as expected.",
+      "published_utc": "2025-06-18T15:25:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=605f20ab8c72e90315e62a11d7938a14e600826218c827048618598cc5ed9060",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1692418614/image_1692418614.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135374522,
+      "datetime": 1750274700
+    },
+    {
+      "title": "The Stock Market Doesn't Care About The Israel-Iran War (Unless This One Thing Happens)",
+      "description": "Discover how geopolitical turmoil impacts markets, uncover a potential black swan event, and explore expert insights on current market trends. Click for more.",
+      "published_utc": "2025-06-18T14:07:52",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=dd04ba7c9f4a1e08791d7729cddd96c703a9a332161cd0e22263201f3adfd96e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1342623354/image_1342623354.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135374276,
+      "datetime": 1750270072
+    }
+  ]
+}

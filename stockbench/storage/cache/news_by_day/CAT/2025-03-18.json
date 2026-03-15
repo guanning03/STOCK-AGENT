@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "title": "Caterpillar (CAT) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "description": "Caterpillar (CAT) concluded the recent trading session at $336.71, signifying a -1.73% move from its prior day's close.",
+      "published_utc": "2025-03-18T17:45:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7df8eaf6f74912bf464b9c055075fbd300ac3aa695ea28b602cb6509447bcc12",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133325092,
+      "datetime": 1742334317
+    },
+    {
+      "title": "Analyst Sees ‘Double-Digit Returns’ for Caterpillar (CAT) in the Long Term",
+      "description": "We recently published a list of Top 10 Stocks Everyone is Talking About. In this article, we are going to take a look at where Caterpillar Inc. (NYSE:CAT) stands against other top stocks everyone is talking about. Investors are on tenterhooks amid the latest selloff as they keep up with President Donald Trump’s volatile tariff […]",
+      "published_utc": "2025-03-18T13:53:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6593a78f6aab60315fef2ff8588c42b62f06589dc0d48f332c26a5f7deba248f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133325093,
+      "datetime": 1742320411
+    },
+    {
+      "title": "Dow drops 350 points on losses in shares of IBM, NVIDIA Corp.",
+      "description": "Dow drops 350 points on losses in shares of IBM, NVIDIA Corp.",
+      "published_utc": "2025-03-18T07:51:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=3412ac0beb5c14cceed721e7724f6bf3d5338bb244d22a6fdd4f8d8654b50e05",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133230939,
+      "datetime": 1742298660
+    },
+    {
       "title": "Caterpillar Stock Today: This Bear Call Spread Could Earn A 23% Return By Mid-April",
       "description": "Let's look at a bearish play on Dow Jones Industrial Average component Caterpillar with a bear call spread trade in the options of Caterpillar stock.  The stock market rally on Friday provided investors with some relief, but that may be short-lived as stocks remain under serious selling pressure.  When a stock trades below a declining moving average, the moving average can provide potential resistance on any bounce attempt.",
       "published_utc": "2025-03-18T01:20:35",

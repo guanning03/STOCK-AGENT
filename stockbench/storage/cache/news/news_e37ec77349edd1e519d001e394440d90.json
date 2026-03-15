@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Microsoft letting employees raise concerns about products after Middle East controversy",
+      "description": "Microsoft employees can now request Trusted Technology Reviews when they want to report on concerning uses of the company's products.",
+      "published_utc": "2025-11-05T15:27:18",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=4666e06ea83f0426fce61cf3eff0d2d3f63040ce6805906d66eb54d0c9b04279",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108222141-1762391153945-gettyimages-2217904928-20090101250604-99-60977.jpeg?v=1762391262&w=1920&h=1080",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137344654,
+      "datetime": 1762374438
+    },
+    {
+      "title": "NBXG: Wide Discount And Recent Distribution Adds Appeal To This 9.4% Yielder",
+      "description": "NBXG offers tech and AI exposure, now yielding 9.69% after a distribution boost. Analyze risks and potential in this discounted CEF.",
+      "published_utc": "2025-11-05T11:28:12",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b1aee460bb02a134fdfd3b8ac0477174212029d9d6e0a7da203b81351191594f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2221131546/image_2221131546.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137339370,
+      "datetime": 1762360092
+    },
+    {
+      "title": "HubSpot adds Clara Shih, Meta's head of business AI, to board of directors",
+      "description": "HubSpot appointed Meta's head of business AI Clara Shih to its board of directors",
+      "published_utc": "2025-11-05T11:05:01",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=06eee550dbe1f1ef943883dd5402325b0d36f92dfbf2d1ff40bdd3d625bdd498",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108107822-1740590136208-gettyimages-2171838292-2024_DREAMFORCE_CONFERENCE.jpeg?v=1762375999&w=1920&h=1080",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137344655,
+      "datetime": 1762358701
+    },
+    {
+      "title": "Palantir-Led Tech Stock Sell-Off Puts AI ETFs On The Defensive",
+      "description": "Palantir&#39;s sharp drop led a $500 billion tech sell-off on Tuesday, sending AI ETFs lower. Lofty valuations may finally be catching up with the AI trade.",
+      "published_utc": "2025-11-05T10:42:50",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=2f2c1d67b6d270a510c52dc4c1ba96abf1d394408c96ecb482ce047c184a150d",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/05/Palantir.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138439211,
+      "datetime": 1762357370
+    },
+    {
+      "title": "Driving ROI With Azure AI Foundry And UiPath: Intelligent Agents In Real-World Healthcare Workflows",
+      "description": "https://azure.microsoft.com/en-us/blog/driving-roi-with-azure-ai-foundry-and-uipath-intelligent-agents-in-real-world-healthcare-workflows/",
+      "published_utc": "2025-11-05T09:32:07",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=ff64c40cbfb0b5e7b6b5f32b474705dace037d820fcaf8783c57ac49a9427538",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138420095,
+      "datetime": 1762353127
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:32:56.905892+00:00",
+    "cache_key": "news_e37ec77349edd1e519d001e394440d90",
+    "count": 5
+  }
+}

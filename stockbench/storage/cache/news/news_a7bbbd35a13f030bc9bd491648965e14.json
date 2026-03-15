@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Dow, S&P 500 Retreat From Record as JPMorgan Slides Post Earnings",
+      "description": "The Dow Jones Industrial Average and the S&P 500 fell Tuesday as JPMorgan Chase (JPM) tumbled in a p",
+      "published_utc": "2026-01-13T16:57:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5b1acecb978169f735fb2898c39c95af10aa6935cc756926ed1eb221473cb647",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138091009,
+      "datetime": 1768341439
+    },
+    {
+      "title": "A Look At Super Micro Computer (SMCI) Valuation After Goldman Sachs Initiates Sell Rating",
+      "description": "Super Micro Computer (SMCI) is back in focus after Goldman Sachs initiated coverage with a Sell rating, flagging continued margin pressure and supplier concentration, even as the company maintains a leading position in AI servers. See our latest analysis for Super Micro Computer. The Goldman call comes after a tough spell for the share price, with a 90 day share price return of a 44.16% decline and a 30 day return of a 6.84% decline, even though the 3 year total shareholder return is about...",
+      "published_utc": "2026-01-13T16:16:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e4f912a8d725946494c3a0541abde4d44978ea2d1467d95fc40f8dfe1a8e7e35",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138091473,
+      "datetime": 1768338975
+    },
+    {
+      "title": "Earnings live: Delta stock slides, Wall Street bank earnings in focus after JPMorgan miss",
+      "description": "Results from Delta Air Lines and JPMorgan this week got fourth quarter earnings season underway.",
+      "published_utc": "2026-01-13T16:08:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0835f512af8c244c1a1ee562fef45965cffd731c9f2c6ebb676e2138e9ebfa04",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138091236,
+      "datetime": 1768338513
+    },
+    {
+      "title": "Why Super Micro (SMCI) Stock Is Down Today",
+      "description": "Shares of server solutions provider Super Micro (NASDAQ:SMCI) fell 5.5% in the afternoon session after Goldman Sachs initiated coverage of the stock with a \"Sell\" rating and a $26 price target.",
+      "published_utc": "2026-01-13T15:40:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7c514e56c658b64544dfb3572c1948b160f1c6eee4afd31b67320a62bf78e896",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138091475,
+      "datetime": 1768336849
+    },
+    {
+      "title": "Equity Markets Fall, Oil Prices Rise Intraday; JPMorgan Drops",
+      "description": "US benchmark equity indexes were lower intraday amid a post-earnings sell-off in JPMorgan Chase (JPM",
+      "published_utc": "2026-01-13T14:15:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0f613092e7c65bb653a4115328c96eccc7b28a3aff8038c412fa602cc70c7ba8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138091239,
+      "datetime": 1768331723
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:26:15.952782+00:00",
+    "cache_key": "news_a7bbbd35a13f030bc9bd491648965e14",
+    "count": 5
+  }
+}

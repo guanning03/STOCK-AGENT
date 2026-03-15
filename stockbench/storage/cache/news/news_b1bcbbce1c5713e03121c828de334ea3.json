@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "9 Technologies That Transformed Investing—From the Telegraph to AI",
+      "description": "In the early days of the country, each city conducted its own financial business. Here are the key innovations that changed everything.",
+      "published_utc": "2025-09-28T19:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e6444a95d0fa135167fe54f199c5f2a0e12e1541ebcd312f9705b687df15709b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136913581,
+      "datetime": 1759100400
+    },
+    {
+      "title": "Memory ‘hunger game’ begins. Here’s what you need to know",
+      "description": "Investing.com -- JPMorgan analysts say a new “memory-hungry trend” is driving a multi-year upcycle in the global memory market, fuelled by soaring datacenter compute demand.",
+      "published_utc": "2025-09-28T05:30:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b57f8b0aca0c59cea8f561f8b32e2ee52b4b059795f9946b278d786de361d8e3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136907465,
+      "datetime": 1759051831
+    },
+    {
+      "title": "Potentially 12%-15% Consistent Income: Monthly Options Series (Oct. 2025)",
+      "description": "Writing or selling options is not highly complicated. Read why selling cash-covered puts and covered calls is a relatively safe choice for earning a high income.",
+      "published_utc": "2025-09-28T04:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5cd59a2b5a5514111ebb68047122ea259e912f259ad8f1384353d9679c4a33ed",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/803420378/image_803420378.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136906563,
+      "datetime": 1759047300
+    },
+    {
+      "title": "JPMorgan Chase (JPM): A Cornerstone Pick Among the Best Bank Dividend Stocks",
+      "description": "JPMorgan Chase & Co. (NYSE:JPM) is included among the 11 Best Bank Dividend Stocks to Buy. JPMorgan Chase & Co. (NYSE:JPM) is the largest bank in the US, holding over $4.5 trillion in assets. The bank maintains a conservative 27.2% payout ratio, returning less than a third of its earnings to shareholders while keeping the […]",
+      "published_utc": "2025-09-27T21:54:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4f19d3ee7a013b49c3c388c21f01f0102328d7a4b184022174a0b619c5e5e35c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136904032,
+      "datetime": 1759024463
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T04:31:39.263019+00:00",
+    "cache_key": "news_b1bcbbce1c5713e03121c828de334ea3",
+    "count": 4
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "13 Surprising Companies Jeff Bezos Bet On",
+      "description": "Bezos' venture capital firm has invested in biotech companies seeking to cure cancer, educational tech companies and more. Here's a look at some of his investments.",
+      "published_utc": "2025-08-09T19:06:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=04892dcb27590d969c17fe49e3a38bbb2d52169730ce63714ead9456b25a8fbc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136292170,
+      "datetime": 1754780771
+    },
+    {
+      "title": "Better Buy: Rivian vs. Ford",
+      "description": "In the world of cars today, there's always a debate between the old stalwarts and the new upstarts.",
+      "published_utc": "2025-08-09T18:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b61ad1c089d165e7cee6e773dd3cfad7407b0a5f0cdea3f326c2b819caf5fe28",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136292171,
+      "datetime": 1754777100
+    },
+    {
+      "title": "Amazon.com (AMZN) And Saks Unveil AI-Driven Customer Experiences Through AWS Collaboration",
+      "description": "On August 8, 2025, NLX announced a collaboration with Saks Fifth Avenue and AWS, aimed at enhancing customer interactions through AI-powered experiences, which may have contributed to Amazon.com (AMZN)'s stock price increasing by 15% last quarter. This partnership, leveraging NLX Voice+ and Amazon Connect, aims to improve service efficiency and customer satisfaction, and represents a notable advancement in the company's offerings. The period also saw the broader technology sector and the...",
+      "published_utc": "2025-08-09T13:14:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8b3e94f6bb29ee304d25597304713a9ee0cda4d6428dc99443531edbe9eb7769",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136292173,
+      "datetime": 1754759670
+    },
+    {
+      "title": "How Much Richer Is Jeff Bezos Than the Entire Population of Florida?",
+      "description": "Can one person's fortune truly rival the collective income and wealth of millions? Here's a look at how Jeff Bezos' net worth compares to the state of Florida.",
+      "published_utc": "2025-08-09T12:13:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=02fc519b2ae89590c28fce1dcb01d006736dfdceffe595f55d57c26edc76ad5f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136292174,
+      "datetime": 1754755988
+    },
+    {
+      "title": "How Much Richer Is Jeff Bezos Than the Entire Population of California?",
+      "description": "Jeff Bezos is one billionaire who's so rich he could buy up your state.",
+      "published_utc": "2025-08-09T11:01:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=06fd2eca06f7eeeaa3b367eee7e941b6695120aeb342c3c9d89757a1a282bb02",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136292176,
+      "datetime": 1754751702
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:52:08.642011+00:00",
+    "cache_key": "news_e351a4fbbdf16a4f7f431dcd66faec48",
+    "count": 5
+  }
+}

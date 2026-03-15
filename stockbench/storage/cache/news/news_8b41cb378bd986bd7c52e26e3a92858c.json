@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "US Equity Indexes Rise With Treasury Yields as Valuation Concerns, Correction Warnings Slip to Rear View",
+      "description": "US equity indexes rose on Wednesday as leadership returning to communication services and consumer d",
+      "published_utc": "2025-11-05T17:27:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=70a08301d793a1433191ba21b70710de71097325c4c2d4c4e3ecf8694fc55d94",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137351730,
+      "datetime": 1762381660
+    },
+    {
+      "title": "Amgen Surges On Broad-Based Beat As Investors Zone In On Obesity",
+      "description": "Amgen stock popped Wednesday on a solid third-quarter beat as investors focus on what's next for the company's obesity treatment, MariTide.",
+      "published_utc": "2025-11-05T16:28:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6d7728c0fee992e4816f14622417d9fed2cdd44b36354a7b17fa5278b9ff0ed0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137351731,
+      "datetime": 1762378137
+    },
+    {
+      "title": "Here’s How Markets Closed After the Supreme Court Heard Tariff Arguments",
+      "description": "U.S. indexes finished higher Wednesday afternoon, with a rebound in AI stocks helping lift the Nasdaq composite 0.6%.   Strong earnings and optimism from U.S. companies also spurred gains, with a rally in Amgen and Caterpillar shares lifting the Dow.",
+      "published_utc": "2025-11-05T16:05:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a081b8eee3ed692249af806abc8ec6cbf92992c79d706e78ce1c94b2be623cfa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137345726,
+      "datetime": 1762376727
+    },
+    {
+      "title": "Sector Update: Health Care Stocks Advance Late Afternoon",
+      "description": "Health care stocks rose late Wednesday afternoon with the NYSE Health Care Index gaining 0.4% and th",
+      "published_utc": "2025-11-05T15:47:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7c18d71601c5e1524ca5319a3c5d458d963cc6af394a64f2048ec314335c14b5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137341150,
+      "datetime": 1762375643
+    },
+    {
+      "title": "Why Amgen Stock Was Crushing It on Wednesday",
+      "description": "Its latest quarterly results were solid, thanks to strong sales of its top products.",
+      "published_utc": "2025-11-05T14:26:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7787dbdd6a1825c1cb27bc96b5fadf5d34578670e5b525bce13eff1f3b08e7dc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137351734,
+      "datetime": 1762370771
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:34:41.585475+00:00",
+    "cache_key": "news_8b41cb378bd986bd7c52e26e3a92858c",
+    "count": 5
+  }
+}

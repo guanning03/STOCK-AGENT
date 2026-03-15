@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise after Trump backpedals on tariffs",
+      "description": "Wall Street was given respite from tariff turmoil as Trump announced he was backing away from the Greenland acquisition.",
+      "published_utc": "2026-01-21T18:49:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7aa3740572fc6135dfb5822b7d446db10d36f7ea65c2d6b3c8ea8bc30ef45292",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138203081,
+      "datetime": 1769039387
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures climb after Trump's Greenland whiplash",
+      "description": "Wall Street was given respite from tariff turmoil as Trump announced he was backing away from the Greenland acquisition.",
+      "published_utc": "2026-01-21T18:49:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=abd66d1048324a81ecbdddee5459874c81a45017ca56ba6257f6950e4128feb7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138199600,
+      "datetime": 1769039387
+    },
+    {
+      "title": "Markets Feast on Trump Reversal for Greenland",
+      "description": "That \"risk off\" switch that was flipped a day or two ago has now been flipped back the other way.",
+      "published_utc": "2026-01-21T18:28:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac6681c4ae1d50e787e052c5a35bc0a6f50871ab023d972dda15b7a763b812bd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138200191,
+      "datetime": 1769038080
+    },
+    {
+      "title": "Trump's Greenland Tariff Retreat Sends Dow Futures Higher As 'TACO Trade Wins Again': Nikkei Rises As Weak Yen Boosts Japan Exports",
+      "description": "U.S. stock futures rose Wednesday night after President Donald Trump signaled a retreat from planned tariffs on the European Union, following what he described as a &#34;very productive&#34; meeting with NATO Secretary General Mark Rutte, marking a resurgence of the &#34;TACO Trade.&#34;",
+      "published_utc": "2026-01-21T16:48:05",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=7cd71fc5d19c0faa639bdf4fd711ad8f12e56d3d3f5f6f4e81d4107f9af52c7a",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/01/21/Volatility-Of-The-Cryptocurrency-Concept.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138626258,
+      "datetime": 1769032085
+    },
+    {
+      "title": "Procter & Gamble Earnings Are Up Next. Weak Consumer Spending Remains a Worry.",
+      "description": "The consumer products company releases its latest quarterly report tomorrow. Spending by customers is a big concern.",
+      "published_utc": "2026-01-21T16:47:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ee225fd808f2e0b08c23004dcd696d039708c0af0849adba392d28f52e6d4e8c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138198959,
+      "datetime": 1769032020
+    }
+  ]
+}

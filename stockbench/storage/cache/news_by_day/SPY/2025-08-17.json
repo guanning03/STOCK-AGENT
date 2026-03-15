@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "S&P 500: Caution Comes At A Price (Technical Analysis)",
+      "description": "Stock market rally targets 7000 with a positive outlook into 2026. Learn why this bullish trend continues and what strategies to consider.",
+      "published_utc": "2025-08-17T12:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=22d1a35cd6389666317ce61537153ac28f00f406e3ac6005292f4c8f64caaddd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1956949830/image_1956949830.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136401862,
+      "datetime": 1755446400
+    },
+    {
+      "title": "Warren Buffett Doubles Down On America's Housing Boom, Upping Berkshire's Holdings In Homebuilders And Building Supply Firms By Triple Digits",
+      "description": "",
+      "published_utc": "2025-08-17T07:31:14",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f89dda1269414366eee2888df36760b9825bf3fbf14658b1490ae7f94dfe1e34",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138469952,
+      "datetime": 1755430274
+    },
+    {
+      "title": "Yen Carry Trade Unwind Threatens Global Markets",
+      "description": "Rising Japanese rates and Fed cut pressure are narrowing 10-year spreads, signaling possible USD/JPY weakness and Yen strength. Find out why the Yen may rally soon.",
+      "published_utc": "2025-08-17T06:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bc87665279ca61e6f8d39a6209382e242e20465d23f46f1af7982f997043ddc7",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/489979706/image_489979706.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136399687,
+      "datetime": 1755424800
+    },
+    {
+      "title": "Why Does The Stock Market Exist? Here Is The Secret",
+      "description": "",
+      "published_utc": "2025-08-17T05:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3711919c6e146d49957e5975280b01de5fc042851fc36f7375fb8908aec08124",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136399449,
+      "datetime": 1755422100
+    },
+    {
+      "title": "Inflation Fails To Chill Fed Cut Momentum",
+      "description": "U.S. markets hit record highs as inflation remains manageable, keeping Fed rate cuts on track.",
+      "published_utc": "2025-08-17T05:00:41",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d80e8724aa90e691aa776ef43c159df053f690362b0f32fa38ed736307ca538e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2204430867/image_2204430867.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136399392,
+      "datetime": 1755421241
+    }
+  ]
+}

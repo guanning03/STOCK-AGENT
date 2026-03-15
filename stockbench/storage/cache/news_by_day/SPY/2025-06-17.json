@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Noses Held On Whiff Of War",
+      "description": "",
+      "published_utc": "2025-06-17T18:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4870ade6b880e5dbd081124a3440988f675d9d86a65f77ddd4830b5d307f95b3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135341434,
+      "datetime": 1750200000
+    },
+    {
+      "title": "May 15, 2026: Why Lower Interest Rates May Be Coming Before This Strategic Date For Stocks",
+      "description": "A dovish Fed Chair under President Trump could impact rate-sensitive sectors like REITs, utilities, and housing. See how this impacts the economy.",
+      "published_utc": "2025-06-17T17:23:29",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bb8cb9f74035d51ce6ae8d32a151759cc4904e6d816226def0058388bab10852",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1309546646/image_1309546646.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135340863,
+      "datetime": 1750195409
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq slide as Trump calls for 'unconditional surrender' from Iran",
+      "description": "US stocks fell, with investors on edge as Israel and Iran continued to trade strikes against a backdrop of shifting US trade policy and stubborn interest rates.",
+      "published_utc": "2025-06-17T16:05:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=270c6ce93d1235b8d11d92a546fb21e781f2f28e8b35224e5ad62bf204c436b6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135340616,
+      "datetime": 1750190701
+    },
+    {
+      "title": "Calling On U.S. Oil In Turbulent Times",
+      "description": "Tighter oil supply, rising LNG exports, and contango in natural gas futures affirm the U.S. as a leading supplier. Read how U.S. energy producers may react to the Middle East turmoil.",
+      "published_utc": "2025-06-17T13:04:25",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=efdfd26deb711619b53b0bf4835ee9c7c3ed0f9d787d1f5a9dc5ad8288c52412",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1323151704/image_1323151704.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135339604,
+      "datetime": 1750179865
+    },
+    {
+      "title": "Oil Options Suggest Price Spike Likely To Be Temporary",
+      "description": "Implied volatilities jumped higher across asset classes last week as Middle East tensions escalated. Click to read.",
+      "published_utc": "2025-06-17T11:37:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9f09c074495994e5a1037af600cbe37fd8b9f426e540b0dd71d046c0e9c0012d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2154103733/image_2154103733.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135339196,
+      "datetime": 1750174620
+    }
+  ]
+}

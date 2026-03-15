@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today: Dow Up, Nasdaq Hits High As This Goose Flies Above Entry; Amazon, Tesla Test Buy Points (Live Coverage)",
+      "description": "The Dow Jones index edges up on the stock market today. Robinhood soars while Tesla and Amazon hit entries. A stock pops on an Elon Musk deal.",
+      "published_utc": "2025-09-08T17:21:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2747610e16479814b40b25d414b7c54661dadaf0756be59f3d04d8a999b3c288",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136674027,
+      "datetime": 1757366514
+    },
+    {
+      "title": "EagleBank Adds Two New Independent Members to Board of Directors",
+      "description": "Kris Pederson and Ted Wilm bring business acumen, banking board experience and financial expertise to EagleBankBETHESDA, Md., Sept. 08, 2025 (GLOBE NEWSWIRE) -- Eagle Bancorp, Inc., (the “Company”) (NASDAQ: EGBN), the Bethesda-based holding company for EagleBank, one of the largest community banks in the Washington D.C. area, today announced the appointments of Kris Pederson and Ted Wilm as independent members of its Board of Directors (the “Board”) and to the Board of Directors of Eagle Bancorp",
+      "published_utc": "2025-09-08T17:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=da78b33ba9c06ff95b235f12534fcb42ff1ed34095cd63e8e95146c81fc22ab6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136688891,
+      "datetime": 1757366100
+    },
+    {
+      "title": "ABBYY Named a Leader in 2025 Gartner® Magic Quadrant™ for Intelligent Document Processing Solutions",
+      "description": "AUSTIN, Texas, September 08, 2025--ABBYY Named a Leader in Inaugural 2025 Gartner® Magic Quadrant™ for Intelligent Document Processing Solutions",
+      "published_utc": "2025-09-08T15:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=980f26e6e9358b0b778fcae355d3e5b0ef117691387488fd1fed7cab1aecad82",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136688892,
+      "datetime": 1757358900
+    },
+    {
+      "title": "super{set} Unveils 2025 super{summit} in San Francisco: outside{in} Theme Focuses on AI-Native Company Building",
+      "description": "The portfolio unites, looking outward to customers, competitors, and thought leaders to sharpen strategy and spark opportunitySAN FRANCISCO, Sept. 08, 2025 (GLOBE NEWSWIRE) -- super{set}, based in San Francisco and dedicated to founding, funding and building data and AI-native startups, announced its upcoming super{summit}, to be held September 10-12, 2025, at The Pearl in the city’s Dogpatch neighborhood. super{summit} is a unique and thought-provoking gathering of founders, AI engineers, produ",
+      "published_utc": "2025-09-08T13:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b601c7ea56a3824c044fb94db7e07f1658fb7b3ddb17477e15632b5339f1af1a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136688893,
+      "datetime": 1757350800
+    },
+    {
+      "title": "Jim Cramer on International Business Machines: “The Stock Has Struggled to Find its Footing”",
+      "description": "International Business Machines Corporation (NYSE:IBM) is one of the stocks Jim Cramer shared insights on. Cramer discussed how the stock is faring after its last earnings report. He remarked: “What do we make of the recent rollercoaster action in IBM? Going into the most recent quarter in late July, this stock was up 50% over […]",
+      "published_utc": "2025-09-08T12:58:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=38054803d7cab167bd08ad071e6c6a283282373c165448ef6aa3493d09b62164",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136688894,
+      "datetime": 1757350731
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:27:44.725391+00:00",
+    "cache_key": "news_f5b24fdb90776ad8698ea9bb32cf7ce1",
+    "count": 5
+  }
+}

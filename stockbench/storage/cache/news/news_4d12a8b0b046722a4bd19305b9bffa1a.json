@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "QQQ Attracts $2.4B in Assets as S 500 Hits 6,000",
+      "description": "- QQQ led ETF inflows as the strong jobs report lifted markets. - SPY saw outflows while SPLG and IVV attracted asset flows.",
+      "published_utc": "2025-06-09T17:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=80e904fbc6730f4edeed510fd594d4e41919b68f74413a7e6719fe40ea28322e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135139380,
+      "datetime": 1749504600
+    },
+    {
+      "title": "A Closer Look At Full-Time And Part-Time Employment: May 2025",
+      "description": "In May, the number of full-time workers decreased by 623,000 while the number of part-time workers rose by 33,000.",
+      "published_utc": "2025-06-09T16:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=38a103ed16dfe612e350973a94cc82840481af79dd8d2e4913eae8f8cc8d2d23",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2193071559/image_2193071559.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135139560,
+      "datetime": 1749501600
+    },
+    {
+      "title": "Stock market today: S&P 500, Nasdaq gain as upbeat US-China trade talks continue",
+      "description": "S&P 500 traded near the benchmark's record highs as talks provide a glimmer of hope for a US-China trade deal.",
+      "published_utc": "2025-06-09T16:01:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=17fd63af6138807f046905da96c427816808a3e571ab402348ea9259e5e784d9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135140090,
+      "datetime": 1749499307
+    },
+    {
+      "title": "The bull case for stocks is growing among Wall Street strategists",
+      "description": "As economic growth forecasts have stopped falling, equity strategists are becoming increasingly positive on the outlook for the S&P 500.",
+      "published_utc": "2025-06-09T13:25:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=304bb1a39bcb0b5af60a0057369103f5fafea9e3500146fda71045e0a3746ac9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135137586,
+      "datetime": 1749489942
+    },
+    {
+      "title": "Finding Opportunities In Uncertainty",
+      "description": "At the internal Midyear Forum, portfolio managers were laser focused on how and where to capture opportunities, even as uncertainty abounds. Click to read.",
+      "published_utc": "2025-06-09T12:25:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7decb7c2e054513ed5ed764f9bebfde0f09a5dec9b5b0ffecaeacda5bb828622",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2194751980/image_2194751980.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135138472,
+      "datetime": 1749486300
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T00:22:44.014637+00:00",
+    "cache_key": "news_4d12a8b0b046722a4bd19305b9bffa1a",
+    "count": 5
+  }
+}

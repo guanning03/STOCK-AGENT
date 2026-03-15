@@ -1,0 +1,93 @@
+{
+  "items": [
+    {
+      "title": "If You'd Invested $1,000 in Salesforce (CRM) Stock 10 Years Ago, Here's How Much You'd Have Today",
+      "description": "Salesforce has delivered solid double-digit returns -- but not quite enough to beat the market.",
+      "published_utc": "2025-09-14T12:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bfc247baeb2680d84600a73bd4436fb2ce4b9dba6d8819a8145a810c0cf6be26",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136749574,
+      "datetime": 1757866800
+    },
+    {
+      "title": "3 hot takeaways from Goldman Sachs' biggest tech stock conference of 2025",
+      "description": "AI is reaching mind-blowing levels as concerns about the economy grow.",
+      "published_utc": "2025-09-14T09:30:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=626fbc66410d682278d875db92b0e83083ed708d5dc568f40cb243a6c3bf132f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136741675,
+      "datetime": 1757856654
+    },
+    {
+      "id": "25cdf8047ac94c70ef56acd858377bed50e6368761b59fc153414410615682e7",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Reasons Why Oracle Just Proved It's The Hottest \"Ten Titans\" AI Growth Stock to Buy for 2026",
+      "author": "Daniel Foelber",
+      "published_utc": "2025-09-14T07:25:00Z",
+      "article_url": "https://www.fool.com/investing/2025/09/14/oracle-red-hot-ten-titans-growth-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "ORCL",
+        "CRM",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/833151/a-stock-market-bull-with-a-bar-chart-and-binary-code-in-the-background-illustrating-the-growing-importance-of-artificial-intelligence-growth-stocks-in-the-market.jpg",
+      "description": "Oracle is rapidly transforming into a cloud infrastructure powerhouse, projecting massive cloud revenue growth from $18 billion in 2026 to $144 billion by 2030, with significant multi-billion dollar contracts and strong market positioning in enterprise software.",
+      "keywords": [
+        "AI",
+        "cloud infrastructure",
+        "enterprise software",
+        "Oracle Cloud Infrastructure",
+        "technology stocks"
+      ],
+      "insights": [
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Demonstrated strong growth potential with 36% stock surge, ambitious cloud infrastructure expansion plans, multi-billion dollar contracts, and projected revenue growth from $18B to $144B by 2030"
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Stock sold off following Oracle's strong results, suggesting potential market share threat"
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of the 'Magnificent Seven' tech stocks, no specific performance details provided"
+        }
+      ]
+    },
+    {
+      "title": "Consumer Tech News (September 8 – September 12): Rally Rolls On As iPhone 17 Underwhelms, Microsoft Bets On AI Chips, Oracle Reports Q1",
+      "description": "Fed-cut optimism kept markets rallying as iPhone 17 underwhelmed, Oracle posted mixed Q1, Microsoft doubled down on AI chips, and macro signals stayed muddled.",
+      "published_utc": "2025-09-14T03:30:39",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=04f65533f6257f66fd899e4e0f616218ef9486304f805de6a6c40df79a743841",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/09/14/Alanya--Turkey---October-6--2022-Iphone-.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138540571,
+      "datetime": 1757835039
+    }
+  ]
+}

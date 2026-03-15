@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Salesforce Stock Is Mispriced - Reiterate Buy",
+      "description": "Salesforce remains a buy: Agentforce ARR up 330% YoY, low forward P/E, and strong RPO signal AI-driven upside. Read here for more on CRM stock.",
+      "published_utc": "2026-01-13T18:10:25",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=60425fd58eb0900e222595363cbd6564eeeb076dc88872171002799378b400cc",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1610021131/image_1610021131.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138090066,
+      "datetime": 1768345825
+    },
+    {
+      "title": "Stock Market Today, Jan. 13: AMD Rallies as Banking Stocks Struggle",
+      "description": "On Jan. 13, 2026, positive inflation data wasn't enough to bouy banking stocks today after mixed results from JPMorgan.",
+      "published_utc": "2026-01-13T17:27:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5d10caa0e6acf719080e963e6bcfd3ca16b70c69357a44807f8c3060e3f3ec45",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138091006,
+      "datetime": 1768343229
+    },
+    {
+      "title": "Google Momentum Continues Amid Apple Deal As Software Stocks Hammered",
+      "description": "Alphabet hit a record high as Wall Street firms raised their price targets on Google stock in the wake of a new AI deal with Apple.",
+      "published_utc": "2026-01-13T16:16:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=788f8a994167d561926d5324c7c35fbcf29bfabf5b0d1253d8fb68dfcec33a8c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138090841,
+      "datetime": 1768338981
+    },
+    {
+      "title": "Dow Drops Nearly 400 Points After JPMorgan's Earnings Flop",
+      "description": "Stocks pulled back from closing highs on Tuesday after the start to earnings season kickoff flopped. The Dow Jones Industrial Average fell 398 points, or 0.8%. The S&P 500 was down 0.2%. The Nasdaq Composite was down 0.",
+      "published_utc": "2026-01-13T16:06:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=30bbce329af556d3f79b98f2936384bd84e12a72c42033c818f2936e980218a2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138091033,
+      "datetime": 1768338362
+    },
+    {
+      "title": "Stocks Fall Ahead of Closing Bell",
+      "description": "Stocks were in the red in the final hour of trading. The Dow Jones Industrial Average—dragged down by sharp declines in some of its larger stocks like Salesforce, Visa, and JPMorgan—was down 496 points, or 1%, after earlier being down 522 points.",
+      "published_utc": "2026-01-13T15:50:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2ff8aac74f0f3f9e3c7f10d8de6a89caadbb69a2c0a3d3cfa7922c6990d399a0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138091034,
+      "datetime": 1768337457
+    }
+  ]
+}

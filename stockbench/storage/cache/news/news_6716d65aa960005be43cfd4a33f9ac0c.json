@@ -1,0 +1,178 @@
+{
+  "items": [
+    {
+      "id": "73f0b807f17a01123640d6c2b0fa13b8a737230c2239ea4de70a40baa13f34ab",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "'No Rate Cuts In Q1 2025,' Strategist Says After Fed's December Minutes",
+      "author": "Erica Kollmann",
+      "published_utc": "2025-01-08T21:06:27Z",
+      "article_url": "https://www.benzinga.com/25/01/42886101/investors-should-expect-no-rate-cuts-in-q1-2025-after-federal-reserves-december-minutes-release-strategist-says",
+      "tickers": [
+        "SPY",
+        "QQQ"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/08/jerome-powell-ai14.png?width=1200&height=800&fit=crop",
+      "description": "The Federal Reserve's December meeting minutes show officials are uncertain about the path of future rate cuts, as President-elect Donald Trump's policies and their potential impact on inflation remain unknown. Experts project the Fed to stay 'on pause' for the next few meetings, with no rate cuts expected in Q1 2025.",
+      "keywords": [
+        "Federal Reserve",
+        "interest rates",
+        "inflation",
+        "economic uncertainty"
+      ],
+      "insights": [
+        {
+          "ticker": "SPY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide a clear sentiment for the SPDR S&P 500 ETF, as the market reaction to the Fed minutes was mixed, with the S&P 500 finishing marginally higher."
+        },
+        {
+          "ticker": "QQQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article states that the tech-heavy Nasdaq 100, tracked by the Invesco QQQ Trust, was down 0.06% at the closing bell, indicating a neutral sentiment."
+        }
+      ]
+    },
+    {
+      "id": "8aea163841c98ef57505e8b5c45c2c85e50ce31e89a6dbfca72f0c0913ee42e3",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Fed Minutes Reveal Inflation Jitters, Policymakers Signal Slower Interest Rate Easing Path Ahead",
+      "author": "Piero Cingari",
+      "published_utc": "2025-01-08T19:34:08Z",
+      "article_url": "https://www.benzinga.com/news/econ-s/25/01/42884303/fed-minutes-reveal-inflation-jitters-policymakers-signal-slower-interest-rate-easing-path-ahead",
+      "tickers": [
+        "SPY"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/08/fed-chart-ai.png?width=1200&height=800&fit=crop",
+      "description": "The Federal Reserve's December meeting minutes reveal uncertainty over future rate cuts, with inflation jitters heightened by potential policy shifts under the incoming Trump administration. The central bank projects a slower pace of interest rate reductions through 2025.",
+      "keywords": [
+        "Federal Reserve",
+        "inflation",
+        "interest rates",
+        "Donald Trump",
+        "economic policy"
+      ],
+      "insights": [
+        {
+          "ticker": "SPY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that the S&P 500, tracked by the SPDR S&P 500 ETF Trust, experienced a modest relief rally in response to the Fed minutes, suggesting the market had already priced in the hawkish tone from the December meeting."
+        }
+      ]
+    },
+    {
+      "id": "617f98972d334a8be0ac802d85eeb3c96712b44007c3a1fe5f0cd40c883ceb4b",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "US Private Businesses Add 122,000 Jobs In December: 'Slowdown In Both Hiring And Pay Gains'",
+      "author": "Piero Cingari, Benzinga Staff Writer",
+      "published_utc": "2025-01-08T13:46:08Z",
+      "article_url": "https://www.benzinga.com/economics/macro-economic-events/25/01/42873182/us-private-businesses-add-122000-jobs-in-december-the-labor-market-downshifted-to",
+      "tickers": [
+        "SPY"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/08/Office-Managers-And-Business-People-Comm.jpeg?width=1200&height=800&fit=crop",
+      "description": "Private employers added 122,000 jobs in December, down from 146,000 in November and missing expectations. The labor market appears to be losing steam, with a slowdown in both hiring and pay gains.",
+      "keywords": [
+        "employment",
+        "labor market",
+        "hiring",
+        "pay gains"
+      ],
+      "insights": [
+        {
+          "ticker": "SPY",
+          "sentiment": "negative",
+          "sentiment_reasoning": "On Tuesday, the SPDR S&P 500 ETF Trust fell 1.1%."
+        }
+      ]
+    },
+    {
+      "id": "4d237a3bfe34f2d247f1f2677d4913adda7793a6f78280b73227b6b85e7cac8a",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "US Stocks To Open Higher As Futures Advance: Christopher Wood Expects Trump's Inflationary Policies To Hurt Market",
+      "author": "Rishabh Mishra",
+      "published_utc": "2025-01-08T10:45:27Z",
+      "article_url": "https://www.benzinga.com/25/01/42868387/us-stocks-to-open-higher-as-futures-advance-christopher-wood-expects-trumps-inflationary-policies-to-hurt-market",
+      "tickers": [
+        "AYI",
+        "AIR",
+        "FUBO",
+        "BHAT",
+        "XTIA",
+        "SPY",
+        "QQQ"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/08/Wall-Street.jpeg?width=1200&height=800&fit=crop",
+      "description": "U.S. stock futures advanced on Wednesday, but the market has remained sluggish in the past few days. Christopher Wood from Jefferies expects Trump's inflationary policies to hurt the market, while analysts remain bullish on the long-term outlook.",
+      "keywords": [
+        "US stocks",
+        "futures",
+        "Christopher Wood",
+        "Trump",
+        "inflation",
+        "market outlook"
+      ],
+      "insights": [
+        {
+          "ticker": "AYI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Analysts expect the company to post strong quarterly earnings."
+        },
+        {
+          "ticker": "AIR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company reported stronger-than-expected second-quarter results."
+        },
+        {
+          "ticker": "FUBO",
+          "sentiment": "negative",
+          "sentiment_reasoning": "An investor rights law firm initiated an investigation on the company's merger with Hulu + Live TV."
+        },
+        {
+          "ticker": "BHAT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company announced a $4.4 million registered direct offering."
+        },
+        {
+          "ticker": "XTIA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The company announced a public offering and a 1-for-250 share consolidation."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The ETF rose in premarket trading."
+        },
+        {
+          "ticker": "QQQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The ETF rose in premarket trading."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:30:52.519919+00:00",
+    "cache_key": "news_6716d65aa960005be43cfd4a33f9ac0c",
+    "count": 4
+  }
+}

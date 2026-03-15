@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Podcast: Stocks Close Mostly Flat as Oil Prices Drop",
+      "description": "Stock-market indexes end mostly flat, with the Dow Jones industrials and the S&P 500 down slightly. The Nasdaq composite edges higher. Boeing shares slide after the company announces delivery delays for its 737 Max aircraft.",
+      "published_utc": "2026-03-10T19:00:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f881d00291102bfa338bb5bc3a31df7ccb88ad09ac37fae0c26ec73549796bd7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139368564,
+      "datetime": 1773183609
+    },
+    {
+      "title": "China Irked by Last-Minute Scramble to Plan Xi-Trump Summit",
+      "description": "Chinese officials are dissatisfied with what they consider last-minute planning ahead of Trump’s arrival on March 31, according to one person familiar with the preparations.  The White House’s lack of communication about Trump’s expectations for the visit has also been an issue for Beijing, said a separate person familiar with the matter, who wasn’t authorized to speak publicly.  The Chinese frustrations stem, in part, from the White House’s departure from Beijing’s standard practice of hosting US high-level officials to lay the groundwork for a state visit.",
+      "published_utc": "2026-03-10T18:22:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=54e661163409816a88faef1c69bf5c4983035c4a26b278f7547b762001833dba",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139369176,
+      "datetime": 1773181322
+    },
+    {
+      "title": "Stocks to Watch Tuesday Recap: Boeing, Exxon, Vertex, Kohl's",
+      "description": "↘️ Boeing (BA): The plane maker will delay some 737 MAX deliveries after discovering a problem with wiring. The stock was down 3.2%. ↗️ Micron Technology (MU), Applied Materials (AMAT): The companies will form a partnership to develop next-generation memory chips for artificial intelligence.",
+      "published_utc": "2026-03-10T18:12:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=23f6021fe7d9e2ff7fcb3bc9ab9c36fdaed30325b892dfd21982716d27cd18b7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139368506,
+      "datetime": 1773180751
+    },
+    {
+      "title": "US Equity Indexes, Treasury Yields Mixed as Headline Risk Mounts in Middle East Energy Markets",
+      "description": "US equity indexes closed mixed on Tuesday, giving up intraday gains as investors monitored developme",
+      "published_utc": "2026-03-10T16:59:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f25baa606f9d284fcaeb2b924191ad5b5680e63f9429ef143dc6ea0d948e0ee4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139367989,
+      "datetime": 1773176388
+    },
+    {
+      "title": "Boeing (BA) Valuation In Focus After Recent Share Price Weakness And Conflicting Fair Value Signals",
+      "description": "Why Boeing Stock Is Back on Investors’ Radar Boeing (BA) is drawing fresh attention after recent trading left the shares with a 1 day return of about a 2.6% decline and a 1 month performance near a 7.4% decline, prompting investors to reassess the story. See our latest analysis for Boeing. At a share price of US$225.00, Boeing’s recent 1 month share price return of a 7.4% decline contrasts with a 90 day share price return of 12.3% and a 1 year total shareholder return of 51.9%. This suggests...",
+      "published_utc": "2026-03-10T15:15:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7010d9183fc1b32ba1225e8e230bd29c295d770cb5f834262af8ff9d3a30c6ab",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139367332,
+      "datetime": 1773170133
+    }
+  ]
+}

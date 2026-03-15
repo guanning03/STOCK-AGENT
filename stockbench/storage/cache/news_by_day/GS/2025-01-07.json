@@ -1,6 +1,144 @@
 {
   "items": [
     {
+      "id": "979140cebcbcb9c98302c5b0557b6dd02a64f43ce2811a7e88bbd3fd1ae148da",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Jefferies Upgrades Royal Gold For Compelling Growth Potential",
+      "author": "Stjepan Kalinic",
+      "published_utc": "2025-01-07T23:00:33Z",
+      "article_url": "https://www.benzinga.com/analyst-ratings/upgrades/25/01/42863963/jefferies-upgrades-royal-gold-for-compelling-growth-potential",
+      "tickers": [
+        "RGLD",
+        "GOLD",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/07/Gold-Buillion-Shutterstock.jpeg?width=1200&height=800&fit=crop",
+      "description": "Jefferies has upgraded Royal Gold to a Buy rating, citing the company's strong assets, rising production, and a 12.5% dividend increase. The bank sees compelling growth potential from the streaming and royalty business leader for precious metals.",
+      "keywords": [
+        "Royal Gold",
+        "Jefferies",
+        "precious metals",
+        "streaming",
+        "royalty",
+        "growth potential"
+      ],
+      "insights": [
+        {
+          "ticker": "RGLD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Jefferies has upgraded Royal Gold to a Buy rating, citing the company's strong assets, rising production, and a 12.5% dividend increase. The bank sees compelling growth potential from the streaming and royalty business leader for precious metals."
+        },
+        {
+          "ticker": "GOLD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Royal Gold's growth is driven by increased throughput at the Mount Milligan mine in Canada and the ongoing ramp-up at the Barrick Gold's Pueblo Viejo mine in the Dominican Republic."
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Goldman Sachs had a more optimistic $3,000 price target for gold in 2025, but recently moved the goalpost, seeing the price reach that level in mid-2026."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Goldman Sachs had a more optimistic $3,000 price target for gold in 2025, but recently moved the goalpost, seeing the price reach that level in mid-2026."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Goldman Sachs had a more optimistic $3,000 price target for gold in 2025, but recently moved the goalpost, seeing the price reach that level in mid-2026."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Goldman Sachs had a more optimistic $3,000 price target for gold in 2025, but recently moved the goalpost, seeing the price reach that level in mid-2026."
+        }
+      ]
+    },
+    {
+      "id": "41bd330a6c91c97271ea430509c98abecbe9989e008809f8d8a7c556178201c8",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "These Were the 5 Top-Performing Stocks in the Dow Jones Industrial Average in 2024",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-07T15:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/07/these-were-the-5-top-performing-stocks-in-the-dow/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "WMT",
+        "AXP",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802374/2024-on-a-financial-chart.jpg",
+      "description": "The article discusses the top-performing Dow Jones stocks of 2024, including Nvidia, Walmart, American Express, and Goldman Sachs. It highlights the factors that contributed to their strong performance, such as AI enthusiasm, e-commerce growth, and consistent earnings growth.",
+      "keywords": [
+        "Dow Jones",
+        "stock performance",
+        "Nvidia",
+        "Walmart",
+        "American Express",
+        "Goldman Sachs"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia was the best-performing Dow Jones stock in 2024, benefiting from enthusiasm surrounding artificial intelligence (AI)."
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Walmart's e-commerce initiatives showed success in 2024, with strong comparable sales growth in the U.S. and international businesses."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "American Express remained a prominent position in the Berkshire Hathaway portfolio, providing investors with reasons to buy the stock."
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Goldman Sachs achieved consistent year-over-year earnings-per-share growth, which was one of the reasons why investors chose to buy the banking stock."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Goldman Sachs achieved consistent year-over-year earnings-per-share growth, which was one of the reasons why investors chose to buy the banking stock."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Goldman Sachs achieved consistent year-over-year earnings-per-share growth, which was one of the reasons why investors chose to buy the banking stock."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Goldman Sachs achieved consistent year-over-year earnings-per-share growth, which was one of the reasons why investors chose to buy the banking stock."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon stock rose notably in 2024, as investors were attracted to its prominent position in AI and its commanding e-commerce presence."
+        }
+      ]
+    },
+    {
       "title": "Gold Slips For Second Session",
       "description": "Front-month gold finished lower for the second straight session, with investors seen as directing more of their resources towards Treasury notes than gold.",
       "published_utc": "2025-01-07T03:32:00",

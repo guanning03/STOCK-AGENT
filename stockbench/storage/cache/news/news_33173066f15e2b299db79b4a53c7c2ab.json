@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "id": "e9a7b6b0356087dae8601606933b012a834c390f49d1334d1593bf53b9c6fa0b",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Want to Invest in Quantum Computing? 1 Stock That Is a Great Buy Right Now.",
+      "author": "Anders Bylund",
+      "published_utc": "2025-02-09T15:37:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/09/1-great-buy-for-quantum-computing-investing/?source=iedfolrf0000001",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "IBM",
+        "MSFT",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806972/sharing-secrets.jpg",
+      "description": "The article discusses the hype around quantum computing and cautions investors against investing in pure-play quantum computing stocks. Instead, it suggests looking at more mature tech giants like Alphabet that are also working on quantum computing research.",
+      "keywords": [
+        "quantum computing",
+        "technology",
+        "investment",
+        "Alphabet",
+        "IBM",
+        "Microsoft",
+        "Nvidia"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Alphabet is a better investment option than pure-play quantum computing stocks, as it has a bargain-bin valuation and is also working on quantum computing research."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Alphabet is a better investment option than pure-play quantum computing stocks, as it has a bargain-bin valuation and is also working on quantum computing research."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that IBM has more quantum-related technology patents than anybody, but does not provide a specific sentiment on the company."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article states that Microsoft is focusing on making quantum computing systems usable via today's cloud computing platforms, but does not provide a specific sentiment on the company."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Nvidia is building optimized software libraries for quantum-based software development, but does not provide a specific sentiment on the company."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:51:48.383951+00:00",
+    "cache_key": "news_33173066f15e2b299db79b4a53c7c2ab",
+    "count": 1
+  }
+}

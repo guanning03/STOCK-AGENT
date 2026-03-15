@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "VCR: Consumer Discretionary Dashboard For September",
+      "description": "This monthly article series provides a top-down analysis of the consumer discretionary sector based on fundamental metrics. Read the latest analysis here.",
+      "published_utc": "2025-09-17T09:25:33",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=faa002ea3946a7fdf23169e91ed13aebded93a727ba005cb4ffa88a69ea43857",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1160062163/image_1160062163.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136790642,
+      "datetime": 1758115533
+    },
+    {
+      "title": "Citigroup Maintains Buy on McDonald's, Raises Price Target to $381",
+      "description": "Citigroup  analyst Jon Tower   maintains McDonald&#39;s (NYSE:MCD) with a Buy and raises the price target from $373 to $381.",
+      "published_utc": "2025-09-17T06:24:17",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=c2136fd175b06d83d8cabceea4ad13a08448928995ba93f00d4fe7a56ea33f0e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138505945,
+      "datetime": 1758104657
+    },
+    {
+      "title": "Krispy Kreme: Waiting For The Donuts To Get Cheap Again",
+      "description": "Krispy Kreme (DNUT) is in the midst of a turnaround, focusing on refranchising, outsourcing, and debt reduction to improve profitability.",
+      "published_utc": "2025-09-17T05:50:21",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=62339d791ac390d12c4513dfca7f644400bc55197c3a6495b036ca4b06f16be0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/174682835/image_174682835.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136788835,
+      "datetime": 1758102621
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:58:16.450327+00:00",
+    "cache_key": "news_62761e52f2c428aa7a54501c07961018",
+    "count": 3
+  }
+}

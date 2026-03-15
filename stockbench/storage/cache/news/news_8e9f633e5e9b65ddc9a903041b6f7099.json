@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "BJ’s, Kroger and 8 Other Stocks to Benefit From Retail’s Slump",
+      "description": "Retail stocks are on sale, offering a potential opportunity for bargain hunters.  For the past year, retail stocks have been decidedly out of fashion.  Blame a sluggish job market and worries over President Donald Trump’s tariff wars.",
+      "published_utc": "2026-02-03T15:28:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cda49c1019233b9aa54db2e2d37837c608fc3b1222be93ebea5d104294aabba6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138347355,
+      "datetime": 1770150480
+    },
+    {
+      "title": "Dow Jones And U.S. Index Outlook: Major Rotation Flows And Drops",
+      "description": "Stock benchmarks diverge strongly in this morning's market action.",
+      "published_utc": "2026-02-03T15:25:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=511a1547ec027f9bccbcfd6d43aac08851443b2c1e4d7d6cd334db9120c4ca51",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2223715503/image_2223715503.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138348902,
+      "datetime": 1770150300
+    },
+    {
+      "title": "Walmart Hits $1 Trillion Market Value. Why Analysts Are Removing It From Their Top-Pick Lists.",
+      "description": "Goldman Sachs and Evercore ISI removed Walmart stock from their top stock pick lists this week. Valuation seems to be the sticking point.",
+      "published_utc": "2026-02-03T15:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=85eb9d7f6bc6481660358745594a5d69761cb698619929e1202663e51e44bb3c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138347132,
+      "datetime": 1770148860
+    },
+    {
+      "title": "'Starmer, Trump Discuss UK Base Deal Panned by White House'- Bloomberg",
+      "description": "https://www.bloomberg.com/news/articles/2026-02-03/starmer-trump-discuss-uk-base-deal-panned-by-white-house",
+      "published_utc": "2026-02-03T13:59:41",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=5d82f63ba513465ea35cadab761f9af414451eaa5a73f17fdd4fcb6d6740c437",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138451395,
+      "datetime": 1770145181
+    },
+    {
+      "title": "U.S. Treasury Issues License Authorizing Supply Of U.S. Diluents To Venezuela, Administration Official Tells Reuters",
+      "description": "-Reuters",
+      "published_utc": "2026-02-03T13:29:26",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=250a11b64b30b749ff3b41b38e2639a86f9ee6adec82ff7d8e3c2dbcfff9190c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138929216,
+      "datetime": 1770143366
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:34:55.678543+00:00",
+    "cache_key": "news_8e9f633e5e9b65ddc9a903041b6f7099",
+    "count": 5
+  }
+}

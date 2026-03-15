@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "id": "25ab8f92af7cd0d275be63ba34412423e8adb0fceaea09789d853632ce06fca9",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "US Stocks To Open Higher Ahead Of Fed's Decision This Week: Analyst Says 'Santa Comes Later In December'",
+      "author": "Rishabh Mishra",
+      "published_utc": "2024-12-16T11:24:52Z",
+      "article_url": "https://www.benzinga.com/24/12/42504194/us-stocks-to-open-higher-ahead-of-feds-decision-this-week-analyst-says-santa-comes-later-in-december",
+      "tickers": [
+        "QQQ",
+        "SPY",
+        "AVGO",
+        "TSLA",
+        "AMPG",
+        "AMPGW",
+        "CKPT"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2024/12/16/Wall-Street-Bulls.jpeg?width=1200&height=800&fit=crop",
+      "description": "U.S. stock futures are trading higher ahead of the Federal Reserve's decision this week, with the Nasdaq 100 index setting new record highs. Analysts expect a 25 basis point rate cut, and the market is anticipating a potential 'Santa Rally' in the latter half of December.",
+      "keywords": [
+        "US stocks",
+        "Federal Reserve",
+        "Nasdaq 100",
+        "Santa Rally"
+      ],
+      "insights": [
+        {
+          "ticker": "QQQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Nasdaq 100 index, which the QQQ ETF tracks, has been setting new record highs, indicating strong performance in the tech-heavy index."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "U.S. stock futures, including the S&P 500 index which the SPY ETF tracks, are trading higher in premarket, suggesting a positive outlook for the broader market."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Broadcom's strong quarterly earnings and upbeat AI-driven guidance have propelled the company into the exclusive $1 trillion market-cap club, indicating a positive outlook for the company."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Tesla's stock price is up in premarket trading, with Wedbush analyst Dan Ives citing the company's AI and autonomous opportunity as a positive factor."
+        },
+        {
+          "ticker": "AMPG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amplitech Group's stock is up in premarket trading after the company announced the sale of 1,352,500 shares of its common stock, indicating a positive development for the company."
+        },
+        {
+          "ticker": "AMPGW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amplitech Group's stock is up in premarket trading after the company announced the sale of 1,352,500 shares of its common stock, indicating a positive development for the company."
+        },
+        {
+          "ticker": "CKPT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Checkpoint Therapeutics' stock is up in premarket trading after the FDA approved the company's UnloxcyT for the treatment of adults with metastatic cutaneous squamous cell carcinoma, a positive development for the company."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:33:07.746180+00:00",
+    "cache_key": "news_fdcef205416674eaaa0ae972da75fe39",
+    "count": 1
+  }
+}

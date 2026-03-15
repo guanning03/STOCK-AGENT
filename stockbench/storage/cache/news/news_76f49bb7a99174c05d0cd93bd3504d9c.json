@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The 1-Minute Market Report November 30, 2025",
+      "description": "S&P 500 soared 3.7% as growth and high-beta stocks led gains.",
+      "published_utc": "2025-11-29T18:47:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=88025a92a69a251bc34bfbf19e53b81dae47e47bc5da9e6305ec4b28ab2200c7",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213764535/image_1213764535.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137641074,
+      "datetime": 1764460020
+    },
+    {
+      "title": "10 truths about the stock market",
+      "description": "There’s nothing the stock market hasn’t overcome.",
+      "published_utc": "2025-11-29T09:07:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1f3e7dcab53d64a6e3055a59c2097d228f9cd914857ef7213b55afa444201077",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137648472,
+      "datetime": 1764425237
+    },
+    {
+      "title": "YMAX: 70%+ Yield? Don't Fall For The Hype",
+      "description": "YMAX offers 70%+ yield with aggressive covered call risks, capital erosion, dividend cuts, and underperformance versus the S&P 500. See why YMAX ETF is a hold.",
+      "published_utc": "2025-11-29T04:30:49",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d18f021230cd8b13a45440789fef1977e7c4c2e50b11002368984c5cda841daf",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/155095389/image_155095389.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137636694,
+      "datetime": 1764408649
+    },
+    {
+      "title": "The 7 Biggest S&P 500 Stocks Might Be All We Need.",
+      "description": "Discover how the top 7 S&P 500 stocks shape the market and why investors must monitor their impact. Click for more thoughts on the market's direction.",
+      "published_utc": "2025-11-29T04:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9e8ac3e0d0b72d0b061c014b0b9d09c01d0559e9b43ac8464d87779672147e86",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1397520362/image_1397520362.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137636564,
+      "datetime": 1764406800
+    },
+    {
+      "title": "How To Position Your Portfolio For A Potential Lost Decade",
+      "description": "Discover how to navigate potential lost decades in investing. Learn portfolio strategies for managing high market valuations.",
+      "published_utc": "2025-11-29T03:50:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=65fb52789b450f24028242718e591e3ad5e0601777188af800c965c1ded6c828",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1478866408/image_1478866408.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137636517,
+      "datetime": 1764406200
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:45:48.976560+00:00",
+    "cache_key": "news_76f49bb7a99174c05d0cd93bd3504d9c",
+    "count": 5
+  }
+}

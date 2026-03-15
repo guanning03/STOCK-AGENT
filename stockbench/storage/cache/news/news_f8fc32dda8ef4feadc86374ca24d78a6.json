@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Stablecoin Retail Transfers Break Records in 2025, Hit $5.8B in August",
+      "description": "Retail transfers under $250 are at all-time highs, with BSC and Ethereum mainnet gaining ground as Tron falls, according to a fresh report by CEX.io.",
+      "published_utc": "2025-09-07T09:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ba911ead7cd9aae80c51d49bd5de18877da3750f803613f0376234bef39ed4b9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136669083,
+      "datetime": 1757250000
+    },
+    {
+      "title": "Visa (NYSE:V): Gauging Valuation After Recent Quiet Momentum and Mixed Short-Term Performance",
+      "description": "Visa (NYSE:V) has been quietly making moves that might catch the eye of investors weighing their next step. Although no headline-grabbing event has driven today’s market action, even subtle shifts in sentiment around a giant like Visa can raise important questions about where the stock is headed. It is worth pausing to ask if these moves merely reflect routine trading or hint at a broader story unfolding under the surface. Looking at the past year, Visa’s price momentum has leaned positive,...",
+      "published_utc": "2025-09-07T08:45:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d3d9951751254ca264fef029e66a044f323846e853527ee25af8824129a57f95",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136669084,
+      "datetime": 1757249155
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:20:58.599365+00:00",
+    "cache_key": "news_f8fc32dda8ef4feadc86374ca24d78a6",
+    "count": 2
+  }
+}

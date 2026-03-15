@@ -1,0 +1,328 @@
+{
+  "items": [
+    {
+      "id": "4acc9d76f5dbd8cfab73479f6ee38ff9cbbea750a036551c67f01a989d151669",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "WORLD3 Joins Microsoft for Startups to bring AI Agents to Life in Web3",
+      "author": "World3",
+      "published_utc": "2025-01-07T18:12:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/07/3005774/0/en/WORLD3-Joins-Microsoft-for-Startups-to-bring-AI-Agents-to-Life-in-Web3.html",
+      "tickers": [
+        "MSFT"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/79239ef7-cb89-4ff3-b7fe-498c10e5c850",
+      "description": "WORLD3, an AI-powered Autonomous World platform, has announced a partnership with Microsoft for Startups to launch its AI Agent Portal, a no-code solution that enables users to create and deploy intelligent, autonomous AI Agents for everyday automation.",
+      "keywords": [
+        "AI",
+        "Automation",
+        "No-code",
+        "Web2",
+        "Web3",
+        "Microsoft"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The partnership between WORLD3 and Microsoft for Startups is presented as a strategic collaboration, leveraging Microsoft's Azure AI services to enhance the WORLD AI Protocol and empower WORLD3's AI Agents. This suggests a positive sentiment towards the collaboration."
+        }
+      ]
+    },
+    {
+      "id": "72418a308a9df3a5da938bab6d7b300bcc1cd370b152ce122a6d539aed573f9d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "If I Could Buy Only 1 \"Magnificent Seven\" Stock in 2025, This Would Be It",
+      "author": "Adam Spatacco",
+      "published_utc": "2025-01-07T16:13:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/07/if-i-could-only-buy-1-magnificent-seven-stock-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "MSFT",
+        "NVDA",
+        "TSLA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802939/gettyimages-1903282976.jpg",
+      "description": "The article discusses Amazon as the top pick among the 'Magnificent Seven' tech stocks, citing its strong partnership with AI startup Anthropic and the potential for AI to transform its entire business ecosystem. The author believes Amazon's current valuation presents a compelling opportunity for investors.",
+      "keywords": [
+        "Amazon",
+        "Anthropic",
+        "Artificial Intelligence",
+        "Magnificent Seven"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Amazon's strong partnership with Anthropic, which is leveraging Amazon's cloud and chip infrastructure to develop its AI models. The author believes Amazon's AI investments across its e-commerce, cloud, and other business segments provide significant long-term growth potential, and the current valuation is attractive compared to historical levels."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Microsoft is the only 'Magnificent Seven' stock that did not outperform the S&P 500 and Nasdaq Composite last year, but the author does not provide any specific commentary on Microsoft."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article briefly mentions Nvidia as a popular semiconductor stock, but does not provide any further analysis or sentiment on the company."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article notes that Tesla is known for its work in self-driving cars and humanoid robotics, but does not offer any specific commentary on the company."
+        }
+      ]
+    },
+    {
+      "id": "f77d7c30047f6b1ceb4987997e103bccf892cb37b9584978184914855aedf56d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Smartest Dividend Stock ETF to Buy With $2,000 Right Now",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-07T13:22:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/07/the-smartest-dividend-stock-etf-to-buy-with-2000-r/?source=iedfolrf0000001",
+      "tickers": [
+        "VIG",
+        "VYM",
+        "AAPL",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "MSFT",
+        "AVGO",
+        "UNH"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803027/stock-trader-2022-a.jpg",
+      "description": "The article discusses the Vanguard Dividend Appreciation ETF (VIG) as a potential long-term investment option for investors who are not relying on their portfolio for immediate income. It highlights the fund's focus on companies with a strong track record of dividend growth, which can provide better total returns over time compared to high-yield dividend ETFs.",
+      "keywords": [
+        "Vanguard Dividend Appreciation ETF",
+        "dividend growth",
+        "total return",
+        "long-term investment"
+      ],
+      "insights": [
+        {
+          "ticker": "VIG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the Vanguard Dividend Appreciation ETF as a potential long-term investment option, focusing on its strategy of investing in companies with a strong track record of dividend growth. This approach is presented as a way to potentially achieve better total returns over time compared to high-yield dividend ETFs."
+        },
+        {
+          "ticker": "VYM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares the performance of the Vanguard Dividend Appreciation ETF to the Vanguard High Dividend Yield ETF, noting that the former has outperformed the latter over the past 10 years. This is presented as an example of how focusing on dividend growth can lead to better long-term returns."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Apple as one of the top holdings of the Vanguard Dividend Appreciation ETF, noting that the company's dividend has increased by 113% over the past decade, indicating its potential for future dividend growth."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as one of the top holdings of the Vanguard Dividend Appreciation ETF, noting that the company's dividend has more than tripled in the past decade, demonstrating its ability to grow its dividend payout over time."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as one of the top holdings of the Vanguard Dividend Appreciation ETF, noting that the company's dividend has more than tripled in the past decade, demonstrating its ability to grow its dividend payout over time."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as one of the top holdings of the Vanguard Dividend Appreciation ETF, noting that the company's dividend has more than tripled in the past decade, demonstrating its ability to grow its dividend payout over time."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as one of the top holdings of the Vanguard Dividend Appreciation ETF, noting that the company's dividend has more than tripled in the past decade, demonstrating its ability to grow its dividend payout over time."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as one of the top holdings of the Vanguard Dividend Appreciation ETF, noting that the company's dividend has more than tripled in the past decade, demonstrating its ability to grow its dividend payout over time."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as one of the top holdings of the Vanguard Dividend Appreciation ETF, noting that the company's dividend has more than tripled in the past decade, demonstrating its ability to grow its dividend payout over time."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as one of the top holdings of the Vanguard Dividend Appreciation ETF, noting that the company's dividend has more than tripled in the past decade, demonstrating its ability to grow its dividend payout over time."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as one of the top holdings of the Vanguard Dividend Appreciation ETF, noting that the company's dividend has more than tripled in the past decade, demonstrating its ability to grow its dividend payout over time."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "While Microsoft is not explicitly mentioned in the article, it is included as one of the top holdings of the Vanguard Dividend Appreciation ETF, suggesting the article views the company's dividend growth potential positively."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Broadcom is not directly discussed in the article, but it is included as one of the top holdings of the Vanguard Dividend Appreciation ETF, indicating the article views the company's dividend growth potential favorably."
+        },
+        {
+          "ticker": "UNH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights UnitedHealth Group as one of the top holdings of the Vanguard Dividend Appreciation ETF, noting that the company's dividend payout has increased more than fivefold over the past decade, suggesting the article views the company's dividend growth potential positively."
+        }
+      ]
+    },
+    {
+      "id": "e58e6cb0cc2c7e1296fa0d1af4652d37a089e51bc0d6940505babf9fc4f21b8c",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Nvidia Stock a Buy Now?",
+      "author": "Neil Patel",
+      "published_utc": "2025-01-07T12:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/07/is-nvidia-stock-a-buy-now/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "META",
+        "MSFT",
+        "AMZN",
+        "GOOG",
+        "GOOGL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801380/ai-robots-holding-chart-going-up-and-right.jpg",
+      "description": "Nvidia, a leading AI chip maker, has seen its stock price surge 2,447% in the past five years. However, the author expresses concerns about the company's high valuation and the risk of its customers developing their own AI chips, potentially reducing demand for Nvidia's products.",
+      "keywords": [
+        "Nvidia",
+        "AI",
+        "valuation",
+        "customer concentration"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article highlights Nvidia's impressive financial performance and its dominant position in the AI chip market, but also raises concerns about its high valuation and the potential risk of its customers developing their own AI chips, which could reduce demand for Nvidia's products."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that Meta Platforms, along with other tech giants like Microsoft, Amazon, and Alphabet, are developing their own AI chips, which could negatively impact Nvidia's business in the long run."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that Microsoft, along with other tech giants like Meta Platforms, Amazon, and Alphabet, are developing their own AI chips, which could negatively impact Nvidia's business in the long run."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that Amazon, along with other tech giants like Meta Platforms, Microsoft, and Alphabet, are developing their own AI chips, which could negatively impact Nvidia's business in the long run."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that Alphabet, along with other tech giants like Meta Platforms, Microsoft, and Amazon, are developing their own AI chips, which could negatively impact Nvidia's business in the long run."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that Alphabet, along with other tech giants like Meta Platforms, Microsoft, and Amazon, are developing their own AI chips, which could negatively impact Nvidia's business in the long run."
+        }
+      ]
+    },
+    {
+      "id": "775c1c0fd05af340d2919ec6b5c1dea0ab6b346c2b3be8fd6792855a68f10159",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Rigetti Computing Stock a Buy in 2025?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-07T11:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/07/is-rigetti-computing-stock-a-buy-in-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "RGTI",
+        "RGTIW",
+        "GOOG",
+        "GOOGL",
+        "IBM",
+        "AMZN",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803002/nuclear.png",
+      "description": "Rigetti Computing, a quantum computer maker, has seen its stock surge 1,860% in the past six months. However, the company's quarterly revenue remains modest at $2.4 million, and it faces significant risks, including competition from tech giants and the long timeline for practical quantum computing applications.",
+      "keywords": [
+        "Rigetti Computing",
+        "quantum computing",
+        "technology",
+        "investment"
+      ],
+      "insights": [
+        {
+          "ticker": "RGTI",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a balanced view of Rigetti Computing's potential and challenges. While the company has made technological advancements and has a clear roadmap, it faces significant competition and the timeline for practical quantum computing applications is still uncertain, leading to a neutral sentiment."
+        },
+        {
+          "ticker": "RGTIW",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a balanced view of Rigetti Computing's potential and challenges. While the company has made technological advancements and has a clear roadmap, it faces significant competition and the timeline for practical quantum computing applications is still uncertain, leading to a neutral sentiment."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Alphabet as one of the tech giants competing in the quantum computing space, but does not provide a detailed assessment of the company's position or performance."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Alphabet as one of the tech giants competing in the quantum computing space, but does not provide a detailed assessment of the company's position or performance."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions IBM as one of the tech giants competing in the quantum computing space, but does not provide a detailed assessment of the company's position or performance."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Rigetti's Ankaa-3 system will be made available through Amazon's cloud platform, Braket, which could significantly expand access to Rigetti's technology and provide valuable revenue streams."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Rigetti's Ankaa-3 system will also be made available through Microsoft's Azure cloud platform, which could further expand the reach of Rigetti's technology."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:22:07.923717+00:00",
+    "cache_key": "news_bd65fcf1085a6238685b23044450c92a",
+    "count": 5
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Hertz Stock Pops Following News of Amazon Deal. Time to Buy?",
+      "description": "It's an unexpected team-up between the auto rental veteran and the retailing powerhouse.",
+      "published_utc": "2025-09-20T19:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=35ed78aa2c1e127444ff20494464f0406a1e188ab744a27f8d0891e96ffd1e23",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136836426,
+      "datetime": 1758409500
+    },
+    {
+      "title": "Seattle, Tech Boomtown, Grapples With a Future of Fewer Tech Jobs",
+      "description": "Seattle, Tech Boomtown, Grapples With a Future of Fewer Tech Jobs",
+      "published_utc": "2025-09-20T18:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=a05f6d9d13090a934ecb90deed018896eaac2c1082c1c6268f328beea299e132",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136867089,
+      "datetime": 1758405600
+    },
+    {
+      "title": "Prediction: These 2 Warren Buffett Stocks Could Beat the Market in the Next Decade",
+      "description": "These stocks have strong track records of success and offer investors who initiate positions today plenty more to look forward to.",
+      "published_utc": "2025-09-20T15:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0d7e27c91b07528e2267665a4aaccfe98baa7305a5012baf58bf363eb6707fb0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136830040,
+      "datetime": 1758395700
+    },
+    {
+      "title": "“We Were So Worried About” Amazon.com, Inc. (AMZN), Says Jim Cramer",
+      "description": "We recently published 9 Stocks on Jim Cramer’s Radar. Amazon.com, Inc. (NASDAQ:AMZN) is one of the stocks Jim Cramer recently discussed. AI and eCommerce giant Amazon.com, Inc. (NASDAQ:AMZN)’s shares have gained a modest 5% year-to-date. Cramer’s recent comments about the firm have discussed its in-house Trainium AI chips and the role they play in the […]",
+      "published_utc": "2025-09-20T15:05:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7b935eb762cafd43ff6cb805bf9d14f8d6144fd7530ef7a385e3136ec58a2d51",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136830041,
+      "datetime": 1758395130
+    },
+    {
+      "title": "Amazon, Google, Microsoft reportedly warn H-1B employees to stay in the US",
+      "description": "Large tech companies have responded to President Donald Trump’s dramatic changes to H-1B visa applications by telling employees with those visas to remain in the United States for now.",
+      "published_utc": "2025-09-20T15:01:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fe6bae72779940886db02b307867bf2f3db00a0f1e1f2c9396495a6151b03ff1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136830042,
+      "datetime": 1758394904
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T04:05:02.417448+00:00",
+    "cache_key": "news_ee31c2602c0157bfaa5de130e52d60a0",
+    "count": 5
+  }
+}

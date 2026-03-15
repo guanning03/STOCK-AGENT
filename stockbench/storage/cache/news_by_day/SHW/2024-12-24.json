@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "id": "76b1caa7087b2ad9e8a4a46663ff443c66208d731522a2f724a57e9965cce8eb",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "2 Dividend Stocks and 1 ETF Up Between 8% and 11% That Are Screaming Buys Before the New Year",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-24T13:30:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/24/buy-dividend-stock-etf-passive-income-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "SHW",
+        "APD",
+        "MLPA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801845/gettyimages-1146259069-1200x800-5b2df79.jpg",
+      "description": "The article highlights three investment options - Sherwin-Williams, Air Products and Chemicals, and the Global X MLP ETF - that have seen gains between 8% and 11% this year and are considered good buys before the new year. The article provides analysis on the growth potential and dividend prospects of these investments.",
+      "keywords": [
+        "dividend stocks",
+        "ETF",
+        "Sherwin-Williams",
+        "Air Products and Chemicals",
+        "Global X MLP ETF"
+      ],
+      "insights": [
+        {
+          "ticker": "SHW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Sherwin-Williams' strong performance, industry-leading position, and potential for continued growth and dividend increases, making it a good investment option."
+        },
+        {
+          "ticker": "APD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article praises Air Products' consistent cash flow, sustainable dividend payout, and growth opportunities in the hydrogen market, making it an attractive dividend stock."
+        },
+        {
+          "ticker": "MLPA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article cites favorable market conditions, such as the continued importance of hydrocarbons and the potential for a more fossil-fuel-friendly administration, as reasons why the Global X MLP ETF is a good investment option."
+        }
+      ]
+    }
+  ]
+}

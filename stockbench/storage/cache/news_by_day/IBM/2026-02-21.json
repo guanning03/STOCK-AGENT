@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Is the Options Market Predicting a Spike in IBM Stock?",
+      "description": "Investors need to pay close attention to International Business Machines stock based on the movements in the options market lately.",
+      "published_utc": "2026-02-21T03:08:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b46c51bb504dc90441c7c45555ea79c03bb699ff604ff55f9bdb67610abcfdd2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139168651,
+      "datetime": 1771661280
+    }
+  ]
+}

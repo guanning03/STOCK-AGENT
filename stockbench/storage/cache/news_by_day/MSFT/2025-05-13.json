@@ -1,6 +1,81 @@
 {
   "items": [
     {
+      "title": "Microsoft laying off about 3% of its workforce as it spends more on AI",
+      "description": "Microsoft laying off about 3% of its workforce as it spends more on AI",
+      "published_utc": "2025-05-13T18:34:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f59e7e3e82d2d04452dd2e8fc815b09d17972aa81e238b5f98304dbae640d3f6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134437015,
+      "datetime": 1747175640
+    },
+    {
+      "title": "Microsoft Slashing Thousands of Workers, Including Management Jobs",
+      "description": "Microsoft  is laying off thousands of employees across various divisions around the world in an effort to shed layers of management.  Microsoft said the layoffs were driven by efforts to become more streamlined and have fewer managers.  “We continue to implement organizational changes necessary to best position the company for success in a dynamic marketplace,” a Microsoft spokesperson said Tuesday.",
+      "published_utc": "2025-05-13T14:18:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4d1903ca0b11ae512b621b615cb9e6bf2a26fd6ef6e264f1e4a1df0c69ca4a32",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134408157,
+      "datetime": 1747160280
+    },
+    {
+      "title": "Tencent hires WizardLM team, a Microsoft AI group with an odd history",
+      "description": "WizardLM, a Beijing-based Microsoft AI research group, appears to have joined Tencent, the Chinese company that owns WeChat and blockbuster games like PUBG Mobile. In a post on X on Tuesday, Can Xu, a senior AI researcher who led a number of projects within WizardLM, said that he and the team left Microsoft to join Hunyuan, one of Tencent's AI development orgs. Over the past few months, Hunyuan has released AI models including video and 3D object generators. WizardLM has already released a Hunyu",
+      "published_utc": "2025-05-13T13:58:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=72948e7d5b67823b832b00fc41bb50c71be993a9748049cc7a86ad6ac7e5b3f8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134408159,
+      "datetime": 1747159138
+    },
+    {
+      "title": "Microsoft laying off almost 3% of global workforce",
+      "description": "The layoffs are expected to hit across all parts of the business, including the career networking site LinkedIn and the video game platform Xbox.",
+      "published_utc": "2025-05-13T13:45:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8446b6e56ff135689f38f9b585e62dcb9f8b8a315c859f929239dde209c75707",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134408161,
+      "datetime": 1747158323
+    },
+    {
+      "title": "Dow Jones Software Giant Microsoft Stock Hits New Buy Point After Big Earnings Move",
+      "description": "Dow Jones software giant Microsoft stock is trying to break out past a new buy point following a big earnings-fueled move in recent weeks.",
+      "published_utc": "2025-05-13T13:25:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ee2483d348cca8190a9524dce411abb2d87287dc9b08a9fe2cb45c1c2058f507",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134408162,
+      "datetime": 1747157141
+    },
+    {
       "title": "Strategically Building A $500,000 Dividend Portfolio: Boosting SCHD's Income With May's High-Yield Picks",
       "description": "Boost your portfolio with smart ETF picks! Explore high-yield dividends, diversified sector investments, and projected income growth in this comprehensive...",
       "published_utc": "2025-05-13T02:00:00",

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Wall Street's Enthusiasm Matches A DMV Waiting Room",
+      "description": "The S&P 500 loitered near its worst levels in todayâs session, as megatech doubled down on skepticism.",
+      "published_utc": "2025-03-18T19:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ee754683ac0da74d318121a7c4b0ad825f095983877dc9ea5e115ed78b04cc84",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/160616076/image_160616076.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133236999,
+      "datetime": 1742340900
+    },
+    {
+      "title": "Remember December 2018!",
+      "description": "Market corrections experienced in the past may mirror current conditions on Wall Street. Read why investors should watch carefully what insiders do next.",
+      "published_utc": "2025-03-18T12:27:12",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8a58eddc5ef3dc27446e399a8e79973da18fabe7feb009634918f55864c3622b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/479979477/image_479979477.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133235382,
+      "datetime": 1742315232
+    },
+    {
+      "title": "Retail Investor Buys The Dip Despite Bearish Sentiment",
+      "description": "It has been an interesting correction. The average retail investor was âbuying the dipâ despite having an extremely bearish outlook. Click to read.",
+      "published_utc": "2025-03-18T11:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e9d13f3d99b02ca34d56098cee394575e154ba633fc2625aab00a5cbcd536c56",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1363842522/image_1363842522.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133234819,
+      "datetime": 1742310000
+    },
+    {
+      "title": "A Bubble In Gold? Hardly",
+      "description": "Gold hits $3000+ amid bullish Cup pattern! Discover insights on inflation, monetary policies, and why gold remains a strong investment.",
+      "published_utc": "2025-03-18T10:09:51",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=def74666fde2db7ae281feee3e3b54252984e23119a50c184dbbc1f6045beb99",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1170674143/image_1170674143.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133232923,
+      "datetime": 1742306991
+    },
+    {
+      "title": "Wall Street Falters, Magnificent Seven Hit 7-Month Lows, Gold Rockets On Haven Demand: What's Driving Markets Tuesday?",
+      "description": "Volatility returned to Wall Street on Tuesday, with all major indexes trading in negative territory by midday in New York.",
+      "published_utc": "2025-03-18T09:51:32",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=028c560f76da71960221f47fdabc9f4c7a39ae121d290442bffa12c0f5c904da",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/03/18/Forex-Chart-On-Cityscape-With-Tall-Build.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138567744,
+      "datetime": 1742305892
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T22:48:39.463392+00:00",
+    "cache_key": "news_bc03025e9ceb6bb1492ad54464632bed",
+    "count": 5
+  }
+}

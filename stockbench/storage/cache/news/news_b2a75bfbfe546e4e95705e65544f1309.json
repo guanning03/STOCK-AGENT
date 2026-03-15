@@ -1,0 +1,140 @@
+{
+  "items": [
+    {
+      "title": "S&P 500 Giants JPMorgan, Eli Lilly Lead Five Stocks Near Buy Points",
+      "description": "Three S&P 500 components, including JPMorgan Chase and Eli Lilly, are among five stocks near buy points.",
+      "published_utc": "2025-11-01T08:00:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e220b223ff8fef26f617374d0c6470e878da8ce855b71b794ab5c1040cd9421c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137294486,
+      "datetime": 1761998423
+    },
+    {
+      "title": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% (Nov. 2025)",
+      "description": "Discover 15 top large-cap dividend stocks trading at discounts. Get expert picks, yield insights, and boost your portfolio.",
+      "published_utc": "2025-11-01T04:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=31646d28b9dfe8d0a5cf34aedde3745f6a85120ce055de735dee4d794a65c922",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1249993252/image_1249993252.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137286085,
+      "datetime": 1761984900
+    },
+    {
+      "title": "J.P. Morgan Finds Women Are Driving Their Own Financial Success — Not Waiting To Inherit It",
+      "description": "A growing number of women are actively shaping their own financial futures by investing and building wealth on their own terms, according to J.P. Morgan Wealth Management's latest investor study. These women are taking control of their financial ...",
+      "published_utc": "2025-10-31T20:01:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ef0568f763c229fb55858bf6bc8c5fd6a73d2a9a91f7bf0db987fe0f98352d46",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137294487,
+      "datetime": 1761955264
+    },
+    {
+      "id": "e0d613bcc4a0db8f5af108956ce745b2c78891e41afee70ebacc9b8690380e1e",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Nextracker Stock a Buy Now?",
+      "author": "Courtney Carlsen",
+      "published_utc": "2025-11-01T22:14:00Z",
+      "article_url": "https://www.fool.com/investing/2025/11/01/is-nextracker-stock-a-buy-now/?source=iedfolrf0000001",
+      "tickers": [
+        "NXT",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "VYLD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/840036/engineers-walk-beside-rows-of-solar-panels.jpg",
+      "description": "Nextracker, a leading solar tracking systems provider, is well-positioned to benefit from growing clean energy demand, with a record $5 billion project backlog and strong market positioning in solar technology.",
+      "keywords": [
+        "solar energy",
+        "clean technology",
+        "renewable energy",
+        "solar tracking",
+        "data centers"
+      ],
+      "insights": [
+        {
+          "ticker": "NXT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong global market share (26%), record backlog, potential for diversification, reasonable valuation, and positioned to benefit from increasing clean energy demand"
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as providing analyst perspective on solar industry policy, no direct investment recommendation"
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as providing analyst perspective on solar industry policy, no direct investment recommendation"
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as providing analyst perspective on solar industry policy, no direct investment recommendation"
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as providing analyst perspective on solar industry policy, no direct investment recommendation"
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as providing analyst perspective on solar industry policy, no direct investment recommendation"
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as providing analyst perspective on solar industry policy, no direct investment recommendation"
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as providing analyst perspective on solar industry policy, no direct investment recommendation"
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as providing analyst perspective on solar industry policy, no direct investment recommendation"
+        },
+        {
+          "ticker": "VYLD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as providing analyst perspective on solar industry policy, no direct investment recommendation"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:17:01.731977+00:00",
+    "cache_key": "news_b2a75bfbfe546e4e95705e65544f1309",
+    "count": 4
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "id": "f7d143ba54215994681ce9df809b0ae2a1b699d470420c34d526875f438c5299",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "SpaceX Changed the Economics of Spaceflight. Now It's Doing the Same Thing to Satellite Cost.",
+      "author": "Rich Smith",
+      "published_utc": "2025-11-16T11:06:00Z",
+      "article_url": "https://www.fool.com/investing/2025/11/16/spacex-changed-the-economics-of-spaceflight-now-it/?source=iedfolrf0000001",
+      "tickers": [
+        "VSAT",
+        "BA",
+        "BApA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/842085/earth-orbit-crowded-will-all-sorts-and-manner-of-satellites.jpg",
+      "description": "SpaceX is disrupting satellite technology by dramatically reducing satellite production and launch costs compared to traditional providers like Viasat, with the ability to produce Starlink satellites at 666 times lower cost and launch 60 satellites simultaneously at a fraction of the price.",
+      "keywords": [
+        "SpaceX",
+        "satellite",
+        "Starlink",
+        "launch costs",
+        "technology disruption"
+      ],
+      "insights": [
+        {
+          "ticker": "VSAT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Struggling with high satellite production costs, experiencing financial losses, and unable to compete with SpaceX's more efficient satellite technology and launch capabilities"
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a satellite manufacturer for Viasat, but no direct performance commentary provided"
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a satellite manufacturer for Viasat, but no direct performance commentary provided"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:08:05.540498+00:00",
+    "cache_key": "news_2372e124903d47de908343a4c2b6080e",
+    "count": 1
+  }
+}

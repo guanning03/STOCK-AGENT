@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Hartford Core Equity Fund Q2 2025 Commentary",
+      "description": "Hartford Core Equity (I share) underperformed the S&P 500 Index during the quarter. Click here to read more.",
+      "published_utc": "2025-08-19T19:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=dd26b9300223d39082b52e239e1f9e3dd31d3237afb0433c8072528e1ef7d45a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1278896005/image_1278896005.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136433822,
+      "datetime": 1755646500
+    },
+    {
+      "title": "Hartford Balanced Income Fund Q2 2025 Commentary",
+      "description": "Global fixed-income markets posted positive total returns in Q2 2025, as measured by the Bloomberg Global Aggregate Index hedged to US dollars. Read more here.",
+      "published_utc": "2025-08-19T18:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=46f319cd8421060c3441235f82e29e09c0402ff9fd48d54d3bd4d8693e9d7063",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2170553469/image_2170553469.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136433571,
+      "datetime": 1755642600
+    },
+    {
+      "title": "How to Buy the Best Momentum Stocks Now",
+      "description": "As the stock market hits new highs, investors should buy stocks that are also hitting fresh peaks. The stocks the screen puts on your radar have also earned a Zacks Rank #1 (Strong Buy).",
+      "published_utc": "2025-08-19T14:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6f57c42b92f3403cf293afcc051193c501401726ebcdfe766b34cff88e7c3aee",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136431520,
+      "datetime": 1755627000
+    },
+    {
+      "title": "IPO & M&A Market Rebound: What it Means for Goldman's IB Business",
+      "description": "GS is capitalizing on the rebound in global deal-making and IPOs, with IB fees rising and a strong pipeline fueling growth into 2025.",
+      "published_utc": "2025-08-19T12:34:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2a445268b1d6f0785ecbb95d97ad5e67831134626c8974dbc6de895651c296fc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136432072,
+      "datetime": 1755621240
+    },
+    {
+      "title": "Citigroup's Card Delinquencies Rise: Will it Impact Asset Quality?",
+      "description": "C's July card delinquencies move up, yet charge-offs ease and remain well below the pre-pandemic levels.",
+      "published_utc": "2025-08-19T11:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7bd1313cd456113bd32dc685bc129996d7514d4fc0e4ffcac69b3885e9578d93",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136430028,
+      "datetime": 1755616500
+    }
+  ]
+}

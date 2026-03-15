@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Review & Preview: Consumers Show Strain",
+      "description": "While the Dow notched its seventh record of the year, the broader S&P 500 slipped. Plus, retail sales weaken.",
+      "published_utc": "2026-02-10T19:55:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=13af846bd91057c04cabc17f7395d7f70832384efb210c6a246c059150c5b978",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139038314,
+      "datetime": 1770771300
+    },
+    {
+      "title": "Review & Preview: Consumers Show Strain",
+      "description": "Review & Preview: Consumers Show Strain",
+      "published_utc": "2026-02-10T14:55:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=23a744c3bb96b8ed2157235fbfe460a0efdf5cb6827afd336d21b16e58f428cd",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139200103,
+      "datetime": 1770753300
+    },
+    {
+      "title": "Is Wall Street Bullish or Bearish on Sherwin-Williams Stock?",
+      "description": "While Sherwin-Williams has underperformed relative to the broader market over the past year, Wall Street analysts maintain a moderately optimistic outlook on the stock’s prospects.",
+      "published_utc": "2026-02-10T12:56:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3fc3b234d22b745d18c5de4269df6cf3c6660bc34fb2168c7a6f35a8660f1144",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139036392,
+      "datetime": 1770746186
+    },
+    {
+      "title": "Sell The \"Dead Cat\" Bounce, The Bear Market Risks Are Rising",
+      "description": "Hedge funds ramp up short bets on tech as the AI bubble deflates and weak economic data threatens rotation trades. Click here to know more.",
+      "published_utc": "2026-02-10T12:40:29",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3f341d6b03cdf49091fdc899acf5b7a0e99e0a88075accd15d550f5d1de4ac3e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2209012385/image_2209012385.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139037027,
+      "datetime": 1770745229
+    },
+    {
+      "title": "Sherwin-Williams Insiders Sold US$1.6m Of Shares Suggesting Hesitancy",
+      "description": "In the last year, many The Sherwin-Williams Company ( NYSE:SHW ) insiders sold a substantial stake in the company which...",
+      "published_utc": "2026-02-10T08:00:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=244a10bacffe060161dc80e1013edfea06517b60d3aded006faa181ec97e9c85",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139029698,
+      "datetime": 1770728406
+    }
+  ]
+}

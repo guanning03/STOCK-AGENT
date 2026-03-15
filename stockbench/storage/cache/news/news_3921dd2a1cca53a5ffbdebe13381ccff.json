@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "MATTERWORKS, INC. ANNOUNCES UPDATE TO LEADERSHIP TEAM",
+      "description": "Matterworks, Inc., a frontier AI company providing predictive biology tools that accelerate discovery, development and manufacturing across life science applications, announced that Paul Stone has joined the company as Chief Financial Officer and Head of Corporate Development. Mr. Stone is a life sciences executive with over twenty-eight years of experience and leadership roles in venture capital and operating companies. He joins Matterworks from 5AM Ventures (Partner), following his most recent",
+      "published_utc": "2026-02-17T11:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ec645c832f7e7646e255fcf343fba86217b15e4e0a5030f6f9c822e7f45be6b5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139125122,
+      "datetime": 1771345800
+    },
+    {
+      "title": "Hims & Hers Faces New Hurdle In Weight-Loss Brawl With Novo Nordisk",
+      "description": "Hims stock landed in hot water this month after Novo Nordisk slammed the telehealth giant with a lawsuit over its knockoff obesity drug.",
+      "published_utc": "2026-02-17T11:04:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=516d3c6544ca759a82dd41b3655cb1280e221287e96e13424c05bef6ad98b03a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139124350,
+      "datetime": 1771344276
+    },
+    {
+      "title": "10 Health Care Stocks With Whale Alerts In Today's Session",
+      "description": "",
+      "published_utc": "2026-02-17T08:35:27",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=bc69404b67565b1e405444a3527ed916cb98692284a20d4aec92df712a69cb1b",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_3.jpg?width=2048&height=1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139133638,
+      "datetime": 1771335327
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:13:44.979521+00:00",
+    "cache_key": "news_3921dd2a1cca53a5ffbdebe13381ccff",
+    "count": 3
+  }
+}

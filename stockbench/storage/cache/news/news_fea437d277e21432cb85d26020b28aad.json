@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stocks to Watch Monday Recap: IBM, Boeing, Broadcom, CoreWeave",
+      "description": "↗️ Boeing (BA): The plane maker said Monday it had completed its long-awaited acquisition of Spirit AeroSystems. The stock rose 2.2%. ↗️ Confluent (CFLT): Tech stalwart IBM (IBM) is buying the data-infrastructure company for about $11 billion, confirming a Wall Street Journal report.",
+      "published_utc": "2025-12-08T16:38:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6502c12dbbd5f5300605fe966c7fd9f8bd3eb81c73c8d9f25a5133acb99b9a35",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137737627,
+      "datetime": 1765229884
+    },
+    {
+      "title": "Boeing Buys Company Responsible for Door Blowout. The Stock Rises.",
+      "description": "Boeing  has taken another small step on its road to recovery.  Monday, the commercial airplane maker announced it had finally acquired its fuselage supplier Spirit AeroSystems, a step Boeing hopes will help improve production stability and quality.  Boeing stock added 2.2%, closing at $206.27, while the  and  fell 0.4% and 0.5%, respectively.",
+      "published_utc": "2025-12-08T16:38:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d832c0606ec55ad2a3f7206323248d9565b81b8ccd71c9a5443377ae1c0bfb20",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137737949,
+      "datetime": 1765229880
+    },
+    {
+      "title": "Boeing finalizes $4.7B acquisition of key 737 Max supplier Spirit AeroSystems",
+      "description": "Boeing said Monday it has completed a $4.7 billion purchase of key supplier Spirit AeroSystems, which builds fuselages for the giant aerospace company's 737 Max jetliners, including an Alaska Airlines aircraft that suffered a door-panel blowout last year.  The deal, in the works for over a year, also brings Boeing's largest provider of spare parts in-house.  CEO Kelly Ortberg called it a “pivotal moment” for Boeing's future.",
+      "published_utc": "2025-12-08T14:10:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bed97708b03f8e97668966a383ba074b424e0400fc33f5b309b390980adcb989",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137737951,
+      "datetime": 1765221046
+    },
+    {
+      "title": "Stock Of The Day Nears Buy Point As It Leads Industry In This Regard",
+      "description": "Dallas-based ATI serves the aviation, defense, health care, electronics and energy markets, but its military and jet-engine businesses generate most of its revenue and growth.  In the third quarter, defense sales jumped 51% year over year.  Sales of jet-engine components rose 19% and have grown into ATI's largest business, now accounting for 39% of total revenue.",
+      "published_utc": "2025-12-08T14:03:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0c4df5a76f2c66ec3b99a2210b3b5bb2213a47f6106c9bb873c27fac82a2ed30",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137737952,
+      "datetime": 1765220628
+    },
+    {
+      "title": "Boeing closes takeover of aviation supplier Spirit",
+      "description": "Boeing announced Monday that it completed an acquisition of aerospace supplier Spirit AeroSystems, saying the move will allow for more seamless operations and enhance quality control.The transaction restores Spirit to Boeing about two decades after Boeing sold the assets in a move executives said would lower procurement costs and enhance Boeing's focus on \"large-scale systems integration,\" which Boeing saw at the time as a strategic priority.",
+      "published_utc": "2025-12-08T11:30:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f1c962388687de8139118941e137c36f6177377dcdaabfeb830e0e0c841da002",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137732465,
+      "datetime": 1765211426
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:16:47.637969+00:00",
+    "cache_key": "news_fea437d277e21432cb85d26020b28aad",
+    "count": 5
+  }
+}

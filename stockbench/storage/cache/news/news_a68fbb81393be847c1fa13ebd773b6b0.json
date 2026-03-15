@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Should Investors Be Drawn to Cheap Valuation of McDonald's Stock?",
+      "description": "MCD trades below industry P/E as value menus, global comps and share gains offset traffic and margin headwinds, despite cautious market sentiment.",
+      "published_utc": "2026-01-19T09:13:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=097fe11ae42e5f70612288026f44ae3b70ca117f922d0e1d4d9e8d11c4611fb0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138177988,
+      "datetime": 1768831980
+    },
+    {
+      "title": "McDonald’s answers a major question for MLK Day 2026",
+      "description": "Fast food has long been a defining part of American culture, and McDonald's continues to lead in the category. With breakfast, lunch, and dinner options that satisfy every craving and appeal to nearly all palates, the iconic chain has earned the loyalty of millions of fans and remained a daily ...",
+      "published_utc": "2026-01-19T08:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a1b9012f2b2ff7ca04c4e23a1cc96bec52b2a41736a8a77ff66e031065910322",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138177040,
+      "datetime": 1768827600
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:41:18.957364+00:00",
+    "cache_key": "news_a68fbb81393be847c1fa13ebd773b6b0",
+    "count": 2
+  }
+}

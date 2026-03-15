@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Boeing October Deliveries Surge Year Over Year, But Trail Airbus' Tally",
+      "description": "Boeing's (BA) jet deliveries surged year over year in October, though its tally lagged behind rival",
+      "published_utc": "2025-11-11T15:21:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a787c34ae48121e4be9d44977cca858b0f36e68de03a8ba923f78fa55d0c38a3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137455018,
+      "datetime": 1762892508
+    },
+    {
+      "title": "Boeing’s 777x Takes a Step Ahead, Report Says. What It Means for the Stock.",
+      "description": "Boeing’s 777x Takes a Step Ahead, Report Says. What It Means for the Stock.",
+      "published_utc": "2025-11-11T11:17:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=2ec9f79291071c9ecb5d6df9247524c63d8faf96bbb35055bb8e571b9a08b2a8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137458405,
+      "datetime": 1762877820
+    },
+    {
+      "title": "Salient Motion to Showcase Commercial and Military Actuation Systems with Boeing Ventures at Dubai Airshow 2025",
+      "description": "TORRANCE, Calif. & DUBAI, United Arab Emirates, November 11, 2025--(Dubai Airshow)—Salient Motion, an aerospace and defense component supplier, will showcase its modular actuation systems and motion control technologies at Dubai Airshow 2025, running Nov. 17-21.",
+      "published_utc": "2025-11-11T07:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3efe5d38d7c50377b0eeea1809fd14e547ecd799439a7312bbff741b8a226109",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137448920,
+      "datetime": 1762862400
+    },
+    {
+      "title": "History Says Europe's Big 3-Way Space Merger Will Fail",
+      "description": "Europe's space companies will cease competing with each other and combine to take on SpaceX instead. What are their chances of winning?",
+      "published_utc": "2025-11-11T06:06:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a3256fcc1e63e8ecd67995d157635bcc23a84034d993b2c38b3711f5422d529d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137448816,
+      "datetime": 1762859160
+    },
+    {
+      "title": "Airlines warn flight cancellations will continue even after shutdown ends",
+      "description": "Airlines will need time to adjust schedules even after the shutdown ends, carriers warned.",
+      "published_utc": "2025-11-11T05:11:07",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=e3ef8e0c83fcb194bceba14fc2dd11234310b0807f5bc3a90e79439ec771936f",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108224142-1762867283950-gettyimages-2245542527-AFP_83MH8CP.jpeg?v=1762867318&w=1920&h=1080",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137448202,
+      "datetime": 1762855867
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:54:20.927680+00:00",
+    "cache_key": "news_ca11dc8759215e096a60273a4ddcc68d",
+    "count": 5
+  }
+}

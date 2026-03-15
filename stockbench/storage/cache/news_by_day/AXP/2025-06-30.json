@@ -1,6 +1,81 @@
 {
   "items": [
     {
+      "title": "Veteran fund manager makes bold move on Costco, American Express",
+      "description": "TheStreet Pro Portfolio's lead manager reviews two of the portfolio's holdings.",
+      "published_utc": "2025-06-30T19:06:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=88466624742bede86a177fa7307078eb0710211c08e95d819a14f0cab00e9ab2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135678938,
+      "datetime": 1751324765
+    },
+    {
+      "title": "Is Visa's Tap to Ride in Shanghai More Than Just Transit Convenience?",
+      "description": "Visa's \"Tap to Ride\" launches across Shanghai Metro, offering contactless access to 517 stations for global travelers.",
+      "published_utc": "2025-06-30T12:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c5543b5f6a0b5c32cfe582e3399a64f84eb822460a19c6473d7e18bf3fb53d84",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135665498,
+      "datetime": 1751299800
+    },
+    {
+      "title": "IFS vs. AXP: Which Stock Is the Better Value Option?",
+      "description": "IFS vs. AXP: Which Stock Is the Better Value Option?",
+      "published_utc": "2025-06-30T11:40:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=feebbb1087ac08dc77331ade958e1355c34bbc1d982db2b13d0fe36799a11a07",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135671644,
+      "datetime": 1751298001
+    },
+    {
+      "title": "American Express Company(NYSE: AXP) added to Russell 1000 Value-Defensive Index",
+      "description": "American Express Company added to Russell 1000 Value-Defensive Index...",
+      "published_utc": "2025-06-30T10:03:23",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=31dc46d9a8aa979c8928dcf42bf72822818689c1873b9793ed7252525e54e02f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135666252,
+      "datetime": 1751292203
+    },
+    {
+      "title": "American Express Company(NYSE: AXP) added to Russell 1000 Growth-Defensive Index",
+      "description": "American Express Company added to Russell 1000 Growth-Defensive Index...",
+      "published_utc": "2025-06-30T08:55:33",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=71ffc47ed58dedf73d70fb9c8e260d38955bc9ce6e0771cdfb61e615811ae1b9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135660568,
+      "datetime": 1751288133
+    },
+    {
       "title": "Mastercard Is One of the Largest Financial Companies by Market Cap. But Is It a Buy?",
       "description": "Mastercard's simple but lucrative business model has powered it to a market cap approaching $500 billion.  With a market cap of nearly $500 billion, Mastercard (NYSE: MA) is a true corporate giant.  Like its chief rival Visa, Mastercard has a business model based on payment processing.",
       "published_utc": "2025-06-30T03:54:00",

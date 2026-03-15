@@ -1,0 +1,108 @@
+{
+  "items": [
+    {
+      "id": "57c93f980b2bc825a89bfd395cadf6b41440810d410a1917a89d52a29e4d05ca",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "What's Eating at Restaurant Stocks?",
+      "author": "Rick Munarriz",
+      "published_utc": "2025-08-25T17:26:00Z",
+      "article_url": "https://www.fool.com/investing/2025/08/25/whats-eating-at-restaurant-stocks/?source=iedfolrf0000001",
+      "tickers": [
+        "TJX",
+        "VIK",
+        "BIDU",
+        "MCD",
+        "RBLX",
+        "PLTR",
+        "CELH",
+        "CMG"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/830465/whats-eating-at-restaurant-stocks.jpg",
+      "description": "Motley Fool analysts discuss earnings season, focusing on restaurant stocks and companies experiencing significant stock performance in 2023, highlighting economic challenges and consumer sentiment impacts.",
+      "keywords": [
+        "earnings",
+        "restaurant stocks",
+        "consumer sentiment",
+        "economic uncertainty",
+        "stock performance"
+      ],
+      "insights": [
+        {
+          "ticker": "TJX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Exceptional retail operator with strong buying strategy, resilient business model, and ability to navigate challenging retail environments"
+        },
+        {
+          "ticker": "VIK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Strong brand in river cruises with 92% 2025 capacity booked, but potentially vulnerable to economic downturn"
+        },
+        {
+          "ticker": "BIDU",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Experiencing revenue challenges but investing in AI, cloud computing, and autonomous driving with potential long-term growth"
+        },
+        {
+          "ticker": "MCD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Grew global comparable sales by 3.8%, successful with affordable meal strategies"
+        },
+        {
+          "ticker": "RBLX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Strong user growth but facing legal challenges and high valuation concerns"
+        },
+        {
+          "ticker": "PLTR",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Extremely high valuation disconnected from business potential"
+        },
+        {
+          "ticker": "CELH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong top-line growth, successful Alani Nu acquisition, and potential for international market expansion"
+        },
+        {
+          "ticker": "CMG",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Experienced 4% comparable sales decline, struggling with consumer price sensitivity"
+        }
+      ]
+    },
+    {
+      "title": "Should You Reconsider McDonald's Stock After Combo Meal Price Cuts in 2025?",
+      "description": "If you are wondering what to do with your McDonald’s shares right now, you are definitely not alone. Ever since the company’s recent decision to lower combo meal prices and its bold moves into AI investments, investors have been watching closely for signals about the direction of the stock. Over the past year, McDonald’s has not only held its own but delivered an 11.4% return, with longer-term gains of 31.6% over 3 years and an impressive 63.9% over 5 years. That kind of performance naturally...",
+      "published_utc": "2025-08-25T06:08:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=622074de0c7d1182cb68d7540d6701bd309904964658e8ffb896647473b97fce",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136508022,
+      "datetime": 1756116515
+    },
+    {
+      "title": "DoorDash (DASH) Expands McDonald’s Partnership to Boost Growth and Access",
+      "description": "DoorDash, Inc. (NASDAQ:DASH) is one of the best stocks to invest in for long-term growth. DoorDash, Inc. (NASDAQ:DASH) and McDonald’s Corporation (NYSE:MCD) have launched a new online direct ordering channel in the US, which allows customers to order McDelivery directly from McDonalds.com via mobile or desktop, without a login, an app, or an account. This […]",
+      "published_utc": "2025-08-25T00:08:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e820045252aa800bfe8acfd911b16e8e1ad69761cc6306eb4cc9363f33ff3dc3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136508023,
+      "datetime": 1756094888
+    }
+  ]
+}

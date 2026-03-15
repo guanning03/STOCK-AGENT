@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Procter & Gamble announces new CEO as it aims to unlock next era of growth",
+      "description": "P&G makes a big change in the C-suite.",
+      "published_utc": "2025-07-28T18:39:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fcd67cb3271ce3f2d764579f377f0c73298fcfbb18e64c5de9680d75060d4eab",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136113407,
+      "datetime": 1753742386
+    },
+    {
+      "title": "Procter & Gamble Names Jejurikar as CEO",
+      "description": "P&G Chief Operating Officer Shailesh Jejurikar will become the company’s next chief executive starting at the beginning of next year.",
+      "published_utc": "2025-07-28T18:17:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7c97f59296b5be166a714cae09d76c12fe4f50ff207bfa44f8effb63c1793759",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136113408,
+      "datetime": 1753741020
+    },
+    {
+      "title": "S&P 500 & Nasdaq Notch New All-Time Closing Highs",
+      "description": "Markets lost a bit of steam mid-session this Monday, but a late surge into the close brought the S&P 500 and the Nasdaq indexes to new record closing highs.",
+      "published_utc": "2025-07-28T18:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=31a3a9c01f70d195c671774043f9f79dd1f74c3d14acecd56ba613bffec26833",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136113393,
+      "datetime": 1753740060
+    },
+    {
+      "title": "Earnings live: Whirlpool, Tilray stocks tumble, with Spotify earnings on deck",
+      "description": "Second quarter earnings season is in full swing, and the results have been largely positive so far, with more positive surprises than negative ones.",
+      "published_utc": "2025-07-28T17:33:34",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=82345b9b8cebff9063a2e32ac64714fa69789f690f9ce026b809aa6555330ff9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136113279,
+      "datetime": 1753738414
+    },
+    {
+      "title": "P&G names new CEO starting in 2026",
+      "description": "Procter & Gamble announed Monday its chief operating officer, Shailesh Jejurikar, 58, will become its next leader on Jan. 1.",
+      "published_utc": "2025-07-28T17:25:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=38bd091ca4a5a152cd58b403669f3d30833367dad82266d6626556f2623ae0ab",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136113411,
+      "datetime": 1753737917
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:17:14.943555+00:00",
+    "cache_key": "news_68d4a6671923bd34e49f3d53fd93d76b",
+    "count": 5
+  }
+}

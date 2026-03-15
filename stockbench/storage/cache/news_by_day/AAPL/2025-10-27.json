@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures steady near records with Trump trade moves, earnings in focus",
+      "description": "Eyes are on Trump's visit to Japan in the wait for his meeting with China's Xi, as the flood of earnings continues to roll in.",
+      "published_utc": "2025-10-27T18:46:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f912a2e9215b537e4bdbf43742b7daa898fd45bf3d0ac578834db0f1fec8c323",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137235224,
+      "datetime": 1761605185
+    },
+    {
+      "title": "Why the Stock Market Keeps Gaining. No, It’s Not Just AI.",
+      "description": "A higher-than-normal share of the companies that have reported their results so far have beaten consensus expectations.",
+      "published_utc": "2025-10-27T17:50:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=685e9895d1b60025a57bcc9a9dc7c9c835454dc1767a5572eda0797b4401dd02",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137235225,
+      "datetime": 1761601800
+    },
+    {
+      "title": "Big Tech earnings watch: Microsoft, Amazon, & Apple",
+      "description": "Microsoft (MSFT), Amazon (AMZN), and Apple (AAPL) are some of the tech giants set to release earnings this week. Laffer Tengler Investments CEO and CIO Nancy Tengler tells Yahoo Finance that she's watching cloud revenue, artificial intelligence (AI) spending, margins, and more. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.",
+      "published_utc": "2025-10-27T17:12:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=56fbcf01348ac9e2ed45b72232d233aa963a20c64254ee6f483ac779824a659e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137235226,
+      "datetime": 1761599568
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Jumps As Palantir Tests Entry; Tesla Up Despite This Elon Musk Warning",
+      "description": "The Dow rose on U.S.-China trade optimism. Palantir tested an entry on the stock market today. Tesla gained despite an Elon Musk warning.",
+      "published_utc": "2025-10-27T16:55:34",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1706e494a9b3f305afc9157ee25c1e7232735fcd4c60403a511911dcb29ddd58",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137235227,
+      "datetime": 1761598534
+    },
+    {
+      "title": "Wall Street Reaches Fresh Peaks Amid US-China Trade Optimism",
+      "description": "Equities advanced to new records on Monday amid optimism over a potential US-China trade agreement,",
+      "published_utc": "2025-10-27T16:53:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=87d5576ff5bf704313f62339fe19727383caad267bdb974c5d851d4e744adea6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137235228,
+      "datetime": 1761598439
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Sector Update: Consumer Stocks Mixed Wednesday Afternoon",
+      "description": "Consumer stocks were mixed Wednesday afternoon with the Consumer Staples Select Sector SPDR Fund (XL",
+      "published_utc": "2025-08-20T13:35:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9e420dcbd88cfb4f63270359838d8245d5a7610797c5d60dc8161911b58b4546",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136450386,
+      "datetime": 1755711302
+    },
+    {
+      "title": "Nearly 50% of adults are now ordering kids’ meals. ‘It’s economical and it’s filling.’",
+      "description": "Nearly 50% of adults are now ordering kids’ meals. ‘It’s economical and it’s filling.’",
+      "published_utc": "2025-08-20T12:28:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=c5a3d39de28aec751fc3e5878b02f7e94f7b60166e9e5dc0c54d1714fcbb2010",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136454404,
+      "datetime": 1755707280
+    },
+    {
+      "title": "Hertz & Amazon, McDonald's combo meal, Intel & investors",
+      "description": "Market Catalysts host Julie Hyman takes a look at some of Wednesday's trending tickers on the Yahoo Finance platform: Hertz (HTZ), McDonald's (MCD), and Intel (INTC). To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.",
+      "published_utc": "2025-08-20T12:18:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f597e434491943c0ee002057432af8e756888372e28457cd50ce8a03a96bb5f1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136438879,
+      "datetime": 1755706680
+    },
+    {
+      "title": "Starbucks Stock Falls 19% in 6 Months: Time to Buy or Stay Away?",
+      "description": "SBUX shares have lost 19% in six months as U.S. sales falter, margins shrink and its turnaround faces execution risks.",
+      "published_utc": "2025-08-20T11:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3f3fa4e51ef6683e6d755515901efabb17ce5228eddabc5419ce90da7b4345a8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136450389,
+      "datetime": 1755703200
+    },
+    {
+      "title": "Cheaper McDonald’s combos aim to bring diners back",
+      "description": "The fast food chain is rolling out cheaper value meals with the hopes of winning back customers squeezed by inflation",
+      "published_utc": "2025-08-20T11:03:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9eeac1a52a3f56804bf66379d2e4609dee1ec987affea6068f5582e74d4f38b8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136437542,
+      "datetime": 1755702188
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:31:12.647549+00:00",
+    "cache_key": "news_486e792f21499e347c332a147b815c3b",
+    "count": 5
+  }
+}

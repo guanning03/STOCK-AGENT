@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Analyst Favors Caterpillar Over Deere As Machinery Markets Near Trough Levels",
+      "description": "Caterpillar over Deere? This analyst opines that, as machinery markets reach trough levels, CAT&#39;s EPS valuation supports a potential recovery.",
+      "published_utc": "2025-12-01T12:41:57",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=ef19457328c13564a1ad7dfc781aec330ff237938ed64cefb79baad2913c16d9",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/12/01/Caterpillar-Inc--NYSE-CAT.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138420631,
+      "datetime": 1764610917
+    },
+    {
+      "title": "Caterpillar Raises $15.2 Million for United Way, Named a 2025 Leading Corporate Partner",
+      "description": "Caterpillar Inc. (NYSE: CAT) employees and retirees, together with the Caterpillar Foundation, the philanthropic organization of Caterpillar, pledged more than $15.2 million to the United Way chapters and their partner agencies across the United States, Mexico, Canada, and Panama as part of its 2025-2026 campaign. The campaign matches last year's record-breaking amount.",
+      "published_utc": "2025-12-01T09:48:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3176be6bf933dc281ae809cad9d9d6fcf26df4e484983e272eeb42efac9acb0a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137659054,
+      "datetime": 1764600480
+    },
+    {
+      "title": "Caterpillar: Hold Amid Intensifying Chinese Competition",
+      "description": "Caterpillar stock faces rising competition from Chinese OEMs and innovation challenges.",
+      "published_utc": "2025-12-01T07:16:09",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=659ccac19750f1093ac61f9ab0cf3dfea6b67aeea94484078477b7ee8df1c567",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2180995771/image_2180995771.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137653983,
+      "datetime": 1764591369
+    },
+    {
+      "title": "IBM, Caterpillar share losses contribute to Dow's nearly 225-point drop",
+      "description": "IBM, Caterpillar share losses contribute to Dow's nearly 225-point drop",
+      "published_utc": "2025-12-01T04:45:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=afdd2b6ff248abc053f27eb2b9f199b6f06a051a666412cf367397c68080dc3e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137682043,
+      "datetime": 1764582300
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:51:43.190767+00:00",
+    "cache_key": "news_cb4c2dd21cf81b55596d87d1708d3562",
+    "count": 4
+  }
+}

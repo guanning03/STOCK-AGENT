@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Podcast: AMD Leads Stocks Higher After Its Deal With Meta Platforms",
+      "description": "Stocks rebound despite President Trump's new global tariffs. The gains occur as Meta Platforms agrees to buy more than $100 billion in artificial-computing power from Advanced Micro Devices. Plus, Home Depot shares gain as the home-improvement retailer posts strong quarterly results.",
+      "published_utc": "2026-02-24T18:30:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9cfc91c88bcaed01b5c8fe80e8d0db384c8716059335d63b7959c83b1c1c9c16",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139202362,
+      "datetime": 1771975855
+    },
+    {
+      "title": "Home Depot Q4 Earnings Call Highlights",
+      "description": "Home Depot (NYSE:HD) reported fiscal 2025 sales of $164.7 billion, up 3.2% from the prior year, as the home improvement retailer pointed to relatively stable underlying demand despite ongoing pressure in housing and continued consumer uncertainty. Comparable sales rose 0.3% for the year, including a",
+      "published_utc": "2026-02-24T17:10:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8709a254218701b38e5efd29f31763e260277451981403cdb1754d7bfceb0b67",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139202390,
+      "datetime": 1771971009
+    },
+    {
+      "title": "Wall Street Marks Best Day in More Than 2 Weeks as Software Stocks Advance",
+      "description": "Major US equity benchmarks logged their biggest one-day gains in more than two weeks on Tuesday as s",
+      "published_utc": "2026-02-24T16:59:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=facd91110d4739102861df3e383db7356a5222316ffba4c2cc969beae45b511c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139201730,
+      "datetime": 1771970355
+    },
+    {
+      "title": "Stock Market Today: Dow, Nasdaq End In Recovery Mode; AMD Jumps, Energy Name Powers Up (Live Coverage)",
+      "description": "Stock Market Today: The Dow Jones index climbs Tuesday after Monday's sell-off. Online marketplace platform operator tumbles.",
+      "published_utc": "2026-02-24T16:48:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=703a7f4013edae05ef492f5532ddce6c79dd94c6c8173cbfb326d40ccb016a1e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139201517,
+      "datetime": 1771969729
+    },
+    {
+      "title": "Earnings live: Workday stock plunges amid AI disruption concerns, Lucid falls on mixed quarter, HP tumbles",
+      "description": "The S&P 500 was on track for double-digit earnings growth, with more than half of companies having reported Q4 results so far.",
+      "published_utc": "2026-02-24T16:41:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=669a70ef0b9c42a995791d51ad438ec69dbf45c2a52f5bac6b9ceaec7df56588",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139201469,
+      "datetime": 1771969274
+    }
+  ]
+}

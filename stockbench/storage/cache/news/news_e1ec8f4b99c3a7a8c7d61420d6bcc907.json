@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Pfizer Stock Surges After Company Makes a Deal With President Trump",
+      "description": "Pfizer shares jumped 6.83% Tuesday after President Trump said the drugmaker would offer some of its drugs on a new direct-to-consumer website and would introduce new drugs to the U.S. market at reduced prices.",
+      "published_utc": "2025-09-30T17:14:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7d92d7b7741021982a383fc4de2cc1217781dc0f90208cc0b66ef8179cf823cb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136943999,
+      "datetime": 1759266883
+    },
+    {
+      "title": "Drug Manufacturers Help Push US Equity Indexes Higher While Government Shutdown Looms",
+      "description": "US equity indexes rose at the close on Tuesday as gains in healthcare stocks helped offset declines",
+      "published_utc": "2025-09-30T17:05:45",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=99313131e7cf3d82c030e71c9dcfc47a822c2fd036838e289d7fe78aa2289d52",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136944051,
+      "datetime": 1759266345
+    },
+    {
+      "title": "Stocks Post Late Rally After Trump Strikes Deal With Pfizer",
+      "description": "Gains in pharmaceutical stocks lifted indexes, despite the threat of an imminent government shutdown.",
+      "published_utc": "2025-09-30T16:38:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=58165ca615c2838efee6978fd1fdad750dc17a02d72693011af8e05ce8466ab1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136944003,
+      "datetime": 1759264680
+    },
+    {
+      "title": "NANOBIOTIX Provides Business Update and Reports Half Year 2025 Financial Results",
+      "description": "PARIS and CAMBRIDGE, Mass., Sept. 30, 2025 (GLOBE NEWSWIRE) -- NANOBIOTIX (Euronext: NANO - NASDAQ: NBTX - the “Company”), a late-clinical stage biotechnology company pioneering nanotherapeutic approaches to expand treatment possibilities for patients with cancer and other major diseases, provided an update on operational progress and announced its half year financial results for the six-month period ended June 30, 2025. Operational Highlights of the 2025 Half Year Period and To Date Expanding c",
+      "published_utc": "2025-09-30T16:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=975c909e92c75313aec87e6409bd6f0e5e24c92aa7da04b33109b87830905b48",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136944053,
+      "datetime": 1759263300
+    },
+    {
+      "title": "Jim Cramer on Johnson & Johnson: “It’s Differentiating Itself From the Pack”",
+      "description": "Johnson & Johnson (NYSE:JNJ) is one of the stocks Jim Cramer shared his take on. Cramer appreciated the company’s research and products during the episode, as he commented: “Even though it’s been a terrible year for healthcare stocks, there are still a handful of real winners like Johnson and Johnson, up more than 24% year […]",
+      "published_utc": "2025-09-30T14:04:34",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2c0589c13281aecc86797e78718be79c513b7acd35587533fe9a30a74bd7773d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136944054,
+      "datetime": 1759255474
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T04:42:20.302580+00:00",
+    "cache_key": "news_e1ec8f4b99c3a7a8c7d61420d6bcc907",
+    "count": 5
+  }
+}

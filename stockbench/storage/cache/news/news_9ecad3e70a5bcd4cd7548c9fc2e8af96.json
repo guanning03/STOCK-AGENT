@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "1 Green Flag for Boeing Stock Right Now",
+      "description": "The improvements under CEO Kelly Ortberg are tangible.",
+      "published_utc": "2025-08-24T07:46:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6cbe3cf4ea96c8c07b45aa7039201e376daa820aeb1cf50418a72457b25f9bdc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136502678,
+      "datetime": 1756035960
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:42:20.334785+00:00",
+    "cache_key": "news_9ecad3e70a5bcd4cd7548c9fc2e8af96",
+    "count": 1
+  }
+}

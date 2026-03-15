@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "id": "27b7ef53291c0babc981c625ddec31f751520709dc8d26bc3a72c3f31f516b61",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Here's the Average Net Worth by Age and 5 Ways to Make Money in 2025 and Beyond",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-22T09:40:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/22/average-net-worth-by-age-5-ways-make-money-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "MSFT",
+        "AMZN",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801863/savings-4.jpg",
+      "description": "The article provides strategies to build wealth, including opening a health savings account, high-yield savings account, building an emergency fund, investing in an S&P 500 index fund, and buying and holding individual stocks. It emphasizes the importance of patience and prudent decision-making in building wealth over time.",
+      "keywords": [
+        "wealth building",
+        "investment strategies",
+        "personal finance",
+        "S&P 500",
+        "stocks"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Apple Savings, a high-yield savings account for Apple Card holders, currently pays 3.9% APY, which is a favorable rate for building wealth."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that the S&P 500 index fund tracks the performance of 500 large companies, including Microsoft, which are essential to the American economy."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that the S&P 500 index fund tracks the performance of 500 large companies, including Amazon, which are essential to the American economy."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that the S&P 500 index fund tracks the performance of 500 large companies, including Nvidia, which are essential to the American economy."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:50:52.453764+00:00",
+    "cache_key": "news_4cea255057fbeac3ca669f7c7fa6c3ff",
+    "count": 1
+  }
+}

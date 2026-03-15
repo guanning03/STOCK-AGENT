@@ -1,0 +1,154 @@
+{
+  "items": [
+    {
+      "title": "Supreme Court Tariff Ruling Won't Come Today (Live Coverage)",
+      "description": "The Supreme Court won't rule on the constitutionality of some of President Donald Trump's tariffs this morning.  The tariff backdrop is just one of the drivers, along with lower mortgage rates and bigger tax refunds about to start flowing thanks to One Big Beautiful Bill Act tax cuts.  The Supreme Court hasn't yet said when it will next announce opinions.",
+      "published_utc": "2026-01-14T10:17:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a624a092e0fe211c72252bada849ddd6805fa7207a17787dfb68e122e4c15b97",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138111822,
+      "datetime": 1768403874
+    },
+    {
+      "title": "RenX Enterprises Engages Former Big Box Retail Executive Robert Jacobson as Strategic Business Development Consultant",
+      "description": "Miami, FL, Jan. 14, 2026 (GLOBE NEWSWIRE) -- RenX Enterprises Corp. (NASDAQ: RENX) (“RenX” or the “Company”) today announced the engagement of Bob Jacobson as Strategic Business Development Advisor to its renewable materials and engineered soils products line of business. In this role, Mr. Jacobson will support the Company’s long-term growth strategy in engineered soils and potting media by helping establish and deepen relationships with nationally recognized growers and bagged-goods partners ac",
+      "published_utc": "2026-01-14T09:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f43dc0f0eb0221baa61842b05197984e52f4b801cb848b0a67d42edbb777a7dc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138111179,
+      "datetime": 1768399200
+    },
+    {
+      "id": "e69e0eadedbd6ce55cec0e875263f8fa32398b3d99f9d0e8636c803b7c530cee",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "Tech Wreck or Valuation Reset? Rotating to Value in 2026",
+      "author": "Jeffrey Neal Johnson",
+      "published_utc": "2026-01-14T06:19:00Z",
+      "article_url": "https://www.investing.com/analysis/tech-wreck-or-valuation-reset-rotating-to-value-in-2026-200673208",
+      "tickers": [
+        "QQQ",
+        "NVDA",
+        "MSFT",
+        "VTV",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "VYLD",
+        "WMT",
+        "HD"
+      ],
+      "amp_url": "https://m.investing.com/analysis/tech-wreck-or-valuation-reset-rotating-to-value-in-2026-200673208?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "Rising uncertainty about Federal Reserve rate cuts is triggering a sector rotation away from high-growth technology stocks, which are trading at extreme valuations (36x P/E ratio). Investors are shifting from aggressive growth strategies to defensive value investments that offer better income yields and lower volatility, with the Vanguard Value ETF presented as a safer alternative to tech-heavy funds.",
+      "keywords": [
+        "sector rotation",
+        "valuation reset",
+        "Federal Reserve uncertainty",
+        "growth to value shift",
+        "technology stocks",
+        "dividend yield",
+        "market volatility",
+        "interest rate sensitivity"
+      ],
+      "insights": [
+        {
+          "ticker": "QQQ",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Nasdaq-100 tracking fund faces headwinds due to extreme valuations (36x P/E), low dividend yield (0.44%), and high sensitivity to interest rate changes. Article suggests trimming exposure to lock in profits."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Major QQQ holding cited as part of the overvalued tech sector that is vulnerable to valuation corrections amid Fed uncertainty."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Top QQQ holding in AI infrastructure, but subject to the same valuation pressures and interest rate sensitivity affecting the broader tech sector."
+        },
+        {
+          "ticker": "VTV",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Presented as a compelling defensive alternative with 2% dividend yield, lower valuations, and exposure to less rate-sensitive sectors (financials, industrials, consumer staples)."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Major VTV holding in financials sector; benefits from elevated interest rates and positioned to profit from higher rate environment."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Major VTV holding in financials sector; benefits from elevated interest rates and positioned to profit from higher rate environment."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Major VTV holding in financials sector; benefits from elevated interest rates and positioned to profit from higher rate environment."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Major VTV holding in financials sector; benefits from elevated interest rates and positioned to profit from higher rate environment."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Major VTV holding in financials sector; benefits from elevated interest rates and positioned to profit from higher rate environment."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Major VTV holding in financials sector; benefits from elevated interest rates and positioned to profit from higher rate environment."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Major VTV holding in financials sector; benefits from elevated interest rates and positioned to profit from higher rate environment."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Major VTV holding in financials sector; benefits from elevated interest rates and positioned to profit from higher rate environment."
+        },
+        {
+          "ticker": "VYLD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Major VTV holding in financials sector; benefits from elevated interest rates and positioned to profit from higher rate environment."
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Consumer staples holding in VTV; provides defensive exposure with consistent demand regardless of economic conditions."
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Consumer staples holding in VTV; offers stability and consistent cash flows independent of tech sector sentiment."
+        }
+      ]
+    }
+  ]
+}

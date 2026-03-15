@@ -1,0 +1,78 @@
+{
+  "items": [
+    {
+      "id": "02e08205684b9becd25cb9d2b6a4d3760d6984629aaf1101d1b74295d340ee26",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Aircraft Electrical Systems Market to surpass USD 53 billion by 2034, Says Global Market Insights inc.",
+      "author": "Global Market Insights Inc.",
+      "published_utc": "2025-01-21T10:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/21/3012422/0/en/Aircraft-Electrical-Systems-Market-to-surpass-USD-53-billion-by-2034-Says-Global-Market-Insights-inc.html",
+      "tickers": [
+        "AME",
+        "APH",
+        "ATRO",
+        "BAESY",
+        "HON",
+        "NCTKY",
+        "RTX",
+        "SAFRY"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/6a29379b-a16f-4ee6-9798-26bdadb816f3",
+      "description": "The aircraft electrical systems market is expected to grow at a CAGR of 7.4% between 2025 and 2034, driven by the demand for fuel efficiency and reduced operational costs. The market is segmented by platform, system type, and region, with the commercial aviation and power generation segments expected to see the highest growth.",
+      "keywords": [
+        "aircraft electrical systems",
+        "fuel efficiency",
+        "operational costs",
+        "commercial aviation",
+        "power generation"
+      ],
+      "insights": [
+        {
+          "ticker": "AME",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Ametek as one of the companies working in the aircraft electrical systems industry, indicating their involvement and potential growth in this market."
+        },
+        {
+          "ticker": "APH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Amphenol as one of the companies working in the aircraft electrical systems industry, indicating their involvement and potential growth in this market."
+        },
+        {
+          "ticker": "ATRO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Astronics as one of the companies working in the aircraft electrical systems industry, indicating their involvement and potential growth in this market."
+        },
+        {
+          "ticker": "BAESY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions BAE Systems as one of the companies working in the aircraft electrical systems industry, indicating their involvement and potential growth in this market."
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Honeywell as one of the companies working in the aircraft electrical systems industry, indicating their involvement and potential growth in this market."
+        },
+        {
+          "ticker": "NCTKY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Nabtesco as one of the companies working in the aircraft electrical systems industry, indicating their involvement and potential growth in this market."
+        },
+        {
+          "ticker": "RTX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions RTX as one of the companies working in the aircraft electrical systems industry, indicating their involvement and potential growth in this market."
+        },
+        {
+          "ticker": "SAFRY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Safran as one of the companies working in the aircraft electrical systems industry, indicating their involvement and potential growth in this market."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "id": "f85f8f670b54b8234f78c050c2aa57c6004c564c9482df527d2c45ed8adac3cf",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "When The First Day Of School Turns WEIRD, What’s A Kid To Do? Newly Released Book Champions Authenticity",
+      "author": "Cheyanne Abel",
+      "published_utc": "2025-01-21T18:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/21/3012989/0/en/When-The-First-Day-Of-School-Turns-WEIRD-What-s-A-Kid-To-Do-Newly-Released-Book-Champions-Authenticity.html",
+      "tickers": [
+        "AMZN"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/f38cf85e-8aae-4962-b9e7-d5a7f324373a",
+      "description": "A new children's book, 'Darien Bluff and Creepy Stuff: Welcome to Thrillsville', encourages kids to embrace their individuality and be true to themselves, even if they are seen as 'odd' or 'creepy' by others.",
+      "keywords": [
+        "children's book",
+        "authenticity",
+        "individuality",
+        "first day of school"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The book is available for purchase on Amazon.com, indicating it is being distributed through this major online retailer."
+        }
+      ]
+    },
+    {
+      "id": "ac7633930600c4b6e19bb5421b44da8e61e5c465eb712d896cb92a6ae5a61646",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Coach Dr. Tristina Anderson Launches New Book and Executive Coaching Program",
+      "author": "Dr. Tristina Anderson",
+      "published_utc": "2025-01-21T02:13:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/21/3012304/0/en/Coach-Dr-Tristina-Anderson-Launches-New-Book-and-Executive-Coaching-Program.html",
+      "tickers": [
+        "AMZN"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/53805ae5-b10d-4cef-bbc8-7de81d650f2c",
+      "description": "Dr. Tristina Anderson, a transformational coach and author, has announced the release of her memoir 'Resilience' and the upcoming launch of her 12-month executive coaching program 'Fearless Living: No Regrets'. The memoir chronicles her personal journey of overcoming a devastating health diagnosis, while the coaching program aims to help executives achieve 'full spectrum wealth' in their personal and professional lives.",
+      "keywords": [
+        "transformational coach",
+        "author",
+        "memoir",
+        "executive coaching program",
+        "resilience",
+        "fearless living"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Dr. Anderson's memoir 'Resilience' is available on Amazon, which is a neutral statement about the book's distribution channel."
+        }
+      ]
+    }
+  ]
+}

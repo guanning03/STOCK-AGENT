@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The 1-Minute Market Report, August 16, 2025",
+      "description": "The S&P 500 continues its upward trend, but momentum is slowing. Read why I see cautious optimism, despite the late-summer lull.",
+      "published_utc": "2025-08-16T18:58:40",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cf6d5deeaf677e38aa4db3fc4cf340e45ee78a109c69bb029b898ee9bbc5c341",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213764535/image_1213764535.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136383248,
+      "datetime": 1755385120
+    },
+    {
+      "title": "Tariffs, Producer Prices, And Small-Cap ETFs: A Pressure Test For Margins",
+      "description": "PPI surges in July due to Trump&#39;s tariffs, impacting small caps more than large caps. Consider SPY, IJS, RZV and sector hedges like XLE for investing.",
+      "published_utc": "2025-08-16T06:00:45",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=c292e591873174cf0b26ee1ca9017ffc5bfd71966905d1d5ab112f2e443b5ecd",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/08/16/White-House-Officials-Joined-Trump-On-A-.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138623891,
+      "datetime": 1755338445
+    },
+    {
+      "title": "QQQI: Double-Digit Yield With Big Tech Power",
+      "description": "QQQI offers a 14.5% yield, strong tech exposure, and tax-efficient income through an active options strategy. Check out why QQQI ETF is a strong buy.",
+      "published_utc": "2025-08-16T04:05:13",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a8d7567cc1acadec860cc8daccc1d521e09d8224f77f8e4f01a73cc246d9879c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1972341389/image_1972341389.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136377543,
+      "datetime": 1755331513
+    },
+    {
+      "title": "Weekly Indicators: The U.S. Consumer Remains Strong; But What Of The USD$?",
+      "description": "Read here for insights on economic indicators and growth prospects. See a detailed look at the indicators and what they may mean for the economy.",
+      "published_utc": "2025-08-16T04:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8b04aa58b7b32231966882a82439c5aa58f3fe53b8049c2d9cda0e19f717ac23",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1135796956/image_1135796956.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136377545,
+      "datetime": 1755331200
+    },
+    {
+      "title": "Forecast For Jackson Hole Is Cloudy And Unpredictable",
+      "description": "The frothy performance of the stock market in recent weeks may have created the impression that all that worry earlier in the year about the likelihood of stagflation had gone away.",
+      "published_utc": "2025-08-15T22:10:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b61a2a9e8d7201e1b50fe519c2b428dfb76f9758b02e1d3c97cbcc17fe8009b6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1692418614/image_1692418614.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136375169,
+      "datetime": 1755310200
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:15:56.089072+00:00",
+    "cache_key": "news_2541769feb5400de79d5905f84e4333b",
+    "count": 5
+  }
+}

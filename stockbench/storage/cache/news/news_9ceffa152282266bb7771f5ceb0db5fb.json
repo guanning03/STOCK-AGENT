@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "IBM (IBM) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "description": "IBM (IBM) reached $303.18 at the closing of the latest trading day, reflecting a -1.78% change compared to its last close.",
+      "published_utc": "2025-12-16T17:45:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=09c369f89268bb5be5d99cc81752e3666141f54fc0d2cced636ebb892eee6e8d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137806169,
+      "datetime": 1765925103
+    },
+    {
+      "title": "Outseer Appoints Chief Revenue Officer to Lead Growing Global Sales Organization",
+      "description": "LONDON, December 16, 2025--Outseer, a global leader in all-cause digital fraud prevention for financial institutions, today announced the appointment of Shane Cumming as Chief Revenue Officer (CRO). With more than two decades of experience scaling global revenue organizations, Cumming will lead Outseer’s worldwide sales as the company delivers breakthrough innovations in scam prevention, next-generation behavioral biometrics, and money mule detection to a growing market.",
+      "published_utc": "2025-12-16T15:43:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f23184764245ac339c7d940c9583e942f713714c8af3434f75d8ad2a2d2a479c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137806170,
+      "datetime": 1765917780
+    },
+    {
+      "title": "US Equity Indexes Retreat With Crude Oil, Treasury Yields as Investors Parse Labor Market Data",
+      "description": "US equity indexes fell along with government yields and crude oil in midday trading on Tuesday as in",
+      "published_utc": "2025-12-16T13:04:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=958e626e7f9b9f87aabba574f68e90333eedd03a84a2fc02aaf0ad5372557ed9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137805861,
+      "datetime": 1765908253
+    },
+    {
+      "title": "LifeSpeak Assembles Industry's First AI-to-Behavior Science Advisory Team to Reimagine Digital Wellness",
+      "description": "MINNEAPOLIS, December 16, 2025--LifeSpeak assembles advisory team of eight leaders from Harvard Medical School, Stanford, IBM Watson and major media innovators",
+      "published_utc": "2025-12-16T11:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4ce8092c7c8eda28b190bb87741dd4dc59d56ac27eba6be8fbe7d9e600f3ddd3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137806172,
+      "datetime": 1765902600
+    },
+    {
+      "title": "Dow falls nearly 250 points on losses in shares of UnitedHealth, Johnson & Johnson",
+      "description": "Dow falls nearly 250 points on losses in shares of UnitedHealth, Johnson & Johnson",
+      "published_utc": "2025-12-16T10:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=440e803a6d0a5edb00a6ab503fe110690aa20d96a8b104bcd24b94a49e488d95",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137858134,
+      "datetime": 1765899060
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:44:10.700386+00:00",
+    "cache_key": "news_9ceffa152282266bb7771f5ceb0db5fb",
+    "count": 5
+  }
+}

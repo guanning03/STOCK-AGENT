@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Saks Mulls Bankruptcy Year After Raising Billions for Turnaround",
+      "description": "Separately, some Saks lenders have held confidential talks in recent days to assess the company’s cash needs, according to other people familiar with the matter.  Saks raised billions of dollars from bond investors late last year to finance a bold turnaround plan centered on the acquisition of Neiman Marcus, betting that scale would revive the struggling luxury retailer.  In June, Saks persuaded creditors to provide hundreds of millions of dollars more as part of a debt deal that reshuffled repayment priorities, creating multiple tiers of bondholders with differing claims on the company’s assets.",
+      "published_utc": "2025-12-22T18:31:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=64904e3746196ab2d822f3cc121f5e488adcc51d0bb3a65da45eadbdc60f23c9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137878202,
+      "datetime": 1766446281
+    },
+    {
+      "title": "Microsoft, Salesforce and Oracle Named Top Software Picks for 2026",
+      "description": "Salesforce and Oracle Gain After Evercore Highlights AI Growth Potential",
+      "published_utc": "2025-12-22T13:00:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7b4b4a4d80c7196b9e89d3afa8e218e51c1c93c253f503053cf04050d4ecf64a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137878187,
+      "datetime": 1766426447
+    },
+    {
+      "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+      "description": "The three major averages posted a winning session on Monday, kicking off the holiday-shortened week on a positive note.",
+      "published_utc": "2025-12-22T11:45:56",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=1f301cfddca35c0da90fc6a417a3f4872014341e404c1bbe3f4ae76ecd20bb00",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108241417-1765569784249-gettyimages-2228106182-raa-palantir250806_npd31.jpeg?v=1765569871&w=1920&h=1080",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137882543,
+      "datetime": 1766421956
+    },
+    {
+      "title": "Your mortgage likely cost $11,500 to originate—and reams of paperwork. How Salesforce Agentforce is helping improve the process",
+      "description": "I worked in federal housing agencies after 2008 and I often wonder if agentic AI could have mitigated some aspects of that mortgage-based calamity.",
+      "published_utc": "2025-12-22T08:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e97c30fde9b1c7443b668ae6cfd75e680e99e9fa928852851438d48284e736a0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137878563,
+      "datetime": 1766408700
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T09:02:04.465745+00:00",
+    "cache_key": "news_000b11e9bacddd644be5222491540260",
+    "count": 4
+  }
+}

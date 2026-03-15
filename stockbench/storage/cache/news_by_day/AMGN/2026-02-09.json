@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today: Dow Up As Oracle Soars; Cathie Wood Buys Buffett Stock Amid 145% Run (Live Coverage)",
+      "description": "Stock Market Today: The Dow Jones index rose as Nvidia shined. Oracle soared and Cathie Wood bought a Warren Buffett stock. Hims & Hers stock dived.",
+      "published_utc": "2026-02-09T16:42:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bafa44a6fb358264e5905c62eb19f3ddfe799792298b75da6545fe137513e964",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138789435,
+      "datetime": 1770673331
+    },
+    {
+      "title": "Stock Market Today: Dow Firm As Nvidia, Microsoft Jump; AI Stock Clears Buy Point (Live Coverage)",
+      "description": "Stock Market Today: The Dow Jones index rose as Nvidia and Microsoft shined. An energy stock tested an entry. IBM stock lagged.",
+      "published_utc": "2026-02-09T12:09:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d0001a5a9c32ec1a6dd3024d8e884df53475ddf9bee7459e60a533d9859fc66c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138608485,
+      "datetime": 1770656969
+    },
+    {
+      "title": "Will These 5 Drug Bigwigs Surpass Q4 Earnings Forecasts?",
+      "description": "Let's look at five pharma and biotech companies, AZN, INCY, GILD, VRTX and MRNA, which are scheduled to release their fourth-quarter 2025 results this week.",
+      "published_utc": "2026-02-09T11:38:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=41405dd86b09ed0279733ecbeca2fcb29dcd59a3254409eb2027a4744c51d62a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138693763,
+      "datetime": 1770655080
+    },
+    {
+      "title": "Investors Heavily Search Amgen Inc. (AMGN): Here is What You Need to Know",
+      "description": "Amgen (AMGN) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
+      "published_utc": "2026-02-09T09:00:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d747537f67c3a72d47c4812f45bdfe904f4f62ea832502657368598b6fb7d264",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138515071,
+      "datetime": 1770645602
+    },
+    {
+      "title": "CVS Health Corporation (CVS) Under Pressure From Medicare Proposal, Argus Holds Positive View",
+      "description": "CVS Health Corporation (NYSE:CVS) is included among 12 Unstoppable Dividend Stocks to Buy According to Analysts. On January 28, Argus trimmed its price recommendation on CVS Health Corporation (NYSE:CVS) to $90 from $91. However, the firm maintained a Buy rating on the stock. The shares fell nearly 15% after the Centers for Medicare and Medicaid […]",
+      "published_utc": "2026-02-09T08:26:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eb023bd63c2c6e9ee63cca548ff6038f258462ed27364399f8448a9730e67325",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138415137,
+      "datetime": 1770643619
+    }
+  ]
+}

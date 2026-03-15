@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Should You Buy Shares of UnitedHealth in November?",
+      "description": "A famous investor recently bought shares of UnitedHealth.",
+      "published_utc": "2025-11-24T12:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bdd767e3f8e69f264bfe52a97405d7542f8be445f3f2e2b8516ef464aeeaa8db",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137591436,
+      "datetime": 1764004200
+    },
+    {
+      "title": "Reuters: Some States Operating ACA Marketplaces Say Enrollment Is Significantly Down From Same Period Last Year, California Says ACA Enrollment Down By 33% vs Last Year",
+      "description": "-Reuters",
+      "published_utc": "2025-11-24T10:22:36",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=d03dd4ffd874b0abf816c6222a59c0f0cae89216eb0aa94fd53499bc503cf38e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138425551,
+      "datetime": 1763997756
+    },
+    {
+      "title": "Stock Market Today: Dow Jones Rises; Google Pops On Salesforce Praise, Novo Nordisk Dives",
+      "description": "Futures rose Monday. Google popped amid Salesforce CEO Marc Benioff's praise for AI model Gemini 3. Novo Nordisk dived on Alzheimer's trial data.",
+      "published_utc": "2025-11-24T08:30:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1713a63a213910d70e580be329b7217c1d094b7eeeab080ffbb78c397655cc5f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137589046,
+      "datetime": 1763991036
+    },
+    {
+      "title": "Trump has bought $100M in bonds since entering White House, report says. Get on ‘winning’ side of his big bet",
+      "description": "It all depends on what the Fed does next.",
+      "published_utc": "2025-11-24T07:55:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a4fa74739f4e5fde1e7216fd4dcf528bc201d20b83c1eb42bf192578cae10349",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137589094,
+      "datetime": 1763988900
+    },
+    {
+      "title": "White House Set To Unveil Framework To Extend Obamacare Subsidies",
+      "description": "Trump prepares a health care plan proposing an ACA subsidy extension, new eligibility caps and measures to counter premium spikes as year-end deadlines approach.",
+      "published_utc": "2025-11-24T06:44:44",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=1789044fd6aff75b6fd5d9514fd66aad04632a3687510819fbafac1459596f5f",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/24/Obamacare.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138425552,
+      "datetime": 1763984684
+    }
+  ]
+}

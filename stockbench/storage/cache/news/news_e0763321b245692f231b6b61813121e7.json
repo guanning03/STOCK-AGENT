@@ -1,0 +1,101 @@
+{
+  "items": [
+    {
+      "title": "Amgen (AMGN) Gains FDA Approval For Broadened Repatha® Use In Cardiovascular Risk Management",
+      "description": "Amgen (AMGN) recently received an expanded FDA approval for Repatha®, broadening its use for adults at risk of major cardiovascular events. During the same quarter, the company reported significant earnings growth, with Q2 revenue rising to $9,179 million. Despite a 3% price increase over the last quarter, the overall market showed a 15% annual growth trend, which suggests that Amgen’s developments in expanding product approvals and strong earnings may have contributed positively, aligning...",
+      "published_utc": "2025-08-26T13:26:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3f16ae9093e0b94294b4e66cc969703c825c0087787e3d2b7286eb15d7f327b0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136530232,
+      "datetime": 1756229211
+    },
+    {
+      "title": "AMGN Up Almost 14% YTD: Should You Buy, Sell or Hold the Stock?",
+      "description": "Amgen's stock is up 13.5% in 2025, fueled by strong drug sales and new biosimilars, but looming competition and pricing headwinds pose challenges.",
+      "published_utc": "2025-08-26T08:06:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e9ae8a21897dd2166cd562557d9563a61343fc542a64763b6d02bc6364ea107b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136525067,
+      "datetime": 1756209960
+    },
+    {
+      "id": "dcd9dbe4964d4775372ddef75f822853df0e471e0d4a602b6e6b718639668faa",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Viking Therapeutics: What's Next?",
+      "author": "George Budwell",
+      "published_utc": "2025-08-26T10:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/08/26/viking-therapeutics-whats-next/?source=iedfolrf0000001",
+      "tickers": [
+        "VKTX",
+        "LLY",
+        "NVO",
+        "AMGN",
+        "ABBV",
+        "PFE"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/830764/researcher.jpg",
+      "description": "Viking Therapeutics experienced a 40% stock drop after releasing Phase 2 results for its oral weight loss drug VK2735, which showed 12.2% weight loss at 13 weeks. Despite initial market panic, analysts suggest the setback is due to dosing issues rather than fundamental scientific problems.",
+      "keywords": [
+        "obesity",
+        "weight loss",
+        "clinical trials",
+        "pharmaceutical",
+        "biotechnology"
+      ],
+      "insights": [
+        {
+          "ticker": "VKTX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Stock dropped 40% due to tolerability concerns, but strong weight loss data and ongoing Phase 3 trials suggest potential recovery"
+        },
+        {
+          "ticker": "LLY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a comparative reference for oral weight loss drug performance"
+        },
+        {
+          "ticker": "NVO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a competitor in oral weight loss drug development"
+        },
+        {
+          "ticker": "AMGN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a potential obesity market participant"
+        },
+        {
+          "ticker": "ABBV",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as potentially interested in obesity drug market"
+        },
+        {
+          "ticker": "PFE",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Exited obesity drug development, indicating challenges in the market"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:50:11.232139+00:00",
+    "cache_key": "news_e0763321b245692f231b6b61813121e7",
+    "count": 3
+  }
+}

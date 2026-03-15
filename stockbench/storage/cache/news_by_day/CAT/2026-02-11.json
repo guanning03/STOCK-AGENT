@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Dow Snaps 3-Day Record Run as Wall Street Wavers After Jobs Report",
+      "description": "The Dow Jones Industrial Average slipped from record highs as a strong jobs report boosted bets that",
+      "published_utc": "2026-02-11T17:08:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e7f530dde91940b0d01e21a1a14d4f949b6b05c2f727073f75a3eb4c1b4be423",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139050539,
+      "datetime": 1770847724
+    },
+    {
+      "title": "Equity Markets Mixed Intraday After Jobs Report",
+      "description": "US benchmark equity indexes were mixed intraday as traders assessed the latest jobs report, which he",
+      "published_utc": "2026-02-11T14:05:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=72116175ba4888a62fced7cdae10a13d6cb492a419af6393f5d44bdacdf61f45",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139048042,
+      "datetime": 1770836759
+    },
+    {
+      "title": "SDOW: Benefits And Risks Of The Leveraged Bear Dow Jones ETF",
+      "description": "The ProShares UltraPro Short Dow30 ETF offers -3X daily exposure to the Dow Jones Industrial Average, primarily serving short-term traders. Click here to learn more.",
+      "published_utc": "2026-02-11T13:22:10",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=eb8a1440101254b79276269c64e31af52876fc07574160bd48fd0e1f4fddb21c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/620925375/image_620925375.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139050295,
+      "datetime": 1770834130
+    },
+    {
+      "title": "Caterpillar On Track For Multi-Year EPS Recovery: Analyst",
+      "description": "Caterpillar shares rise after BofA lifts price target to $825, citing strong turbine customer CapEx and robust project pipeline driving growth in infrastructure and power sectors.",
+      "published_utc": "2026-02-11T11:55:26",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=3f6d301f1d1a71b1c269a885c9fb6946310962ebc674c832d440b8c5c6aac62d",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/02/11/Caterpillar--Kuala-Lumpur--Malaysia---Ja.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139055987,
+      "datetime": 1770828926
+    },
+    {
+      "title": "Caterpillar Inc. stock outperforms competitors on strong trading day",
+      "description": "Caterpillar Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2026-02-11T11:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=6077ff3400314d19a390757533fec87e4debca215f20bee0f467ec3aad48714e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139084358,
+      "datetime": 1770827520
+    }
+  ]
+}

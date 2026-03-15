@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Wall Street Brunch: Disputes In Davos",
+      "description": "Trump heads to Davos as tariff threats strain U.S.-European relations. European leaders ponder using trade âbazooka.â Netflix earnings in focus amid Warner deal speculation.",
+      "published_utc": "2026-01-18T06:25:09",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3bef11e0a9ef7e98c58f3c3b1607eae3ea5faf320eb23b38bd3c82c59a7bef9a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2249230043/image_2249230043.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138170015,
+      "datetime": 1768735509
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:36:31.090582+00:00",
+    "cache_key": "news_530a1e300b158eb319e58406b382122d",
+    "count": 1
+  }
+}

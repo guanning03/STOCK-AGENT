@@ -1,0 +1,107 @@
+{
+  "items": [
+    {
+      "title": "MARUY or HON: Which Is the Better Value Stock Right Now?",
+      "description": "MARUY vs. HON: Which Stock Is the Better Value Option?",
+      "published_utc": "2025-09-24T11:40:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5d67a63cb081107e5b1f7a52839ce0222b8f1b3b5548cafe22feac479ac58b53",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136866181,
+      "datetime": 1758728402
+    },
+    {
+      "title": "A Look At The Quantum Computing Sector, With IonQ At The Center Of The Debate",
+      "description": "IonQ, Inc. is the most popular public quantum stock, but at todayâs valuation, itâs more speculation than investment. Learn more about IONQ stock here.",
+      "published_utc": "2025-09-24T08:39:12",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2a9f9bcceeffaf72d03efc0d4540ab2f9bbfbd2aec5f8ca0c318700dba0c69dd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2179167623/image_2179167623.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136863477,
+      "datetime": 1758717552
+    },
+    {
+      "title": "A Once-in-a-Decade Opportunity: 10 Billion Reasons to Pay Attention to This Monster Quantum Computing Company (Hint: Not IonQ)",
+      "description": "A new quantum computing start-up called Quantinuum was just valued at $10 billion.",
+      "published_utc": "2025-09-24T03:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cfe830f56b2e8c486f9de0f3fb4d4eec50d6a6dae96b8995b12578ac8ed8ec35",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136861495,
+      "datetime": 1758697200
+    },
+    {
+      "title": "Why Honeywell International (HON) Earns a Spot Among the Best S&P 500 Dividend Stocks",
+      "description": "Honeywell International Inc. (NASDAQ:HON) is included among the 10 Best S&P 500 Dividend Stocks to Invest in. Honeywell International Inc. (NASDAQ:HON) is a diversified conglomerate with operations spanning aerospace, commercial buildings, data centers, energy, and healthcare. The company has a global footprint, with 750 sites spread across about 80 countries. By the close of 2026, […]",
+      "published_utc": "2025-09-23T23:17:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9a6101dc7a6907c7c7c8a9b1d89eff542cd59e9058029ec3cd10bfb3ffb9e3d5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136858140,
+      "datetime": 1758683829
+    },
+    {
+      "id": "94772dec4ffc83c67e2b4a8824a9c83b120942bc508367ebcedc66cbfa35f01f",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Pick To Light Market Forecasts Report 2025-2030: E-Commerce Growth, Automated Warehouses and Retail Expansion Drive Adoption for Accuracy and Efficiency",
+      "author": "Researchandmarkets.Com",
+      "published_utc": "2025-09-24T08:45:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/09/24/3155255/28124/en/Pick-To-Light-Market-Forecasts-Report-2025-2030-E-Commerce-Growth-Automated-Warehouses-and-Retail-Expansion-Drive-Adoption-for-Accuracy-and-Efficiency.html",
+      "tickers": [
+        "MATW",
+        "HON"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The pick to light market is projected to grow from $658.66 million in 2025 to $916.85 million in 2030, driven by e-commerce expansion, warehouse automation, and global supply chain demands, with North America and Asia-Pacific leading market growth.",
+      "keywords": [
+        "pick to light market",
+        "e-commerce",
+        "warehouse automation",
+        "supply chain",
+        "order fulfillment"
+      ],
+      "insights": [
+        {
+          "ticker": "MATW",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a key market player without specific performance details"
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Positioned in a growing market with increasing demand for warehouse automation technologies"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T04:22:55.472642+00:00",
+    "cache_key": "news_8ee287858aad2a7578e8f46fe6c5c9ba",
+    "count": 5
+  }
+}

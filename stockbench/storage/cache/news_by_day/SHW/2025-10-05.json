@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "S&P 500, Nasdaq close at fresh records to start week, helped by AMD gains",
+      "description": "The S&P 500 and the Nasdaq Composite rose on Monday as AMD shares surged on a partnership with OpenAI.",
+      "published_utc": "2025-10-05T14:03:46",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=4f91d705a6ac4f91c4a2e209cc982ef16c36f5aaed5d70c6ec63d7b3ac507011",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108197581-17576068682025-09-11t160422z_2012845875_rc2ppgaj8o3p_rtrmadp_0_usa-stocks.jpeg?v=1757607075&w=1920&h=1080",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137337586,
+      "datetime": 1759687426
+    }
+  ]
+}

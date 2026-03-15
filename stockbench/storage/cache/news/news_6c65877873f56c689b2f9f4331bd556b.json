@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "How Much Longer Can We Avoid Thinking About The Long Term? - Weekly Blog #923",
+      "description": "Using the performance of equity mutual funds, it was a great week with average gains of more than +2%.",
+      "published_utc": "2026-01-12T18:55:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7c76759322030cd6d895842aef24c76e534ed3ebfb03913fe3de16c54e6f39d3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2191058725/image_2191058725.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138080326,
+      "datetime": 1768262100
+    },
+    {
+      "title": "President Trump's QE Plans Could Boost Housing And The Stock Market",
+      "description": "Trump is pursuing unconventional stimulus to lower rates and boost economic growth ahead of midterm elections. Read what it could do to the housing market.",
+      "published_utc": "2026-01-12T15:45:31",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7c71536b45fb4c347aa0dedb4d93b78b25069e22001783bd5157688d2103d8ee",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/800433994/image_800433994.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138079615,
+      "datetime": 1768250731
+    },
+    {
+      "title": "World Stocks End 2025 Strong With December Gain",
+      "description": "World Stocks led the way, posting a +2.57% return for the month and solidifying their position as 2025âs top performer with an impressive +32.60% gain.",
+      "published_utc": "2026-01-12T15:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e11e161167fec432f70651aabde675327f37017cc51e2cfe0f82b8ee23190498",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1040865674/image_1040865674.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138079499,
+      "datetime": 1768248900
+    },
+    {
+      "title": "Household Net Worth Q3 2025: The 'Real' Story",
+      "description": "As of Q3 2025, the latest Fed balance sheet indicates that household net worth has risen a staggering 207% since reaching its 2009 low.",
+      "published_utc": "2026-01-12T15:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=28c8d92737e9b365b7fbb22fb9a73141145f700de6719da4b0a708329e411dbe",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2221565040/image_2221565040.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138079464,
+      "datetime": 1768248000
+    },
+    {
+      "title": "Rates Spark: Dutch Pensions Transition And A Fed Attack",
+      "description": "The second-largest Dutch pension fund published new details about their hedging strategy challenging speculative positions for steeper curves. Expect more volatility from the very long end.",
+      "published_utc": "2026-01-12T14:20:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=532ffe4a3e08898358547ee9b18e6bb9558d9864021b1ee749ef1c5baa974b40",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1308151210/image_1308151210.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138079303,
+      "datetime": 1768245600
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:26:02.850366+00:00",
+    "cache_key": "news_6c65877873f56c689b2f9f4331bd556b",
+    "count": 5
+  }
+}

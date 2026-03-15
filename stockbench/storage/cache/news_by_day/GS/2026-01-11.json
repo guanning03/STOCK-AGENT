@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Dow Jones Futures Fall As Fed Chief Powell Under Criminal Probe; JPMorgan, Goldman, Delta, Taiwan Semi Ahead",
+      "description": "Dow Jones Futures Fall As Fed Chief Powell Under Criminal Probe; JPMorgan, Goldman, Delta, Taiwan Semi Ahead",
+      "published_utc": "2026-01-11T18:06:36",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=c43a289e487481d6aaa30f6f07ea7597d26d846adfa01d8f50f9689799d1ba43",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138073518,
+      "datetime": 1768172796
+    },
+    {
+      "title": "Looking At The Narrative For Warby Parker After Shifting Growth And Valuation Expectations",
+      "description": "The fair value estimate for Warby Parker has moved from US$22.45 to US$26.83, a shift that lines up with analysts reassessing how the story around growth and execution is playing out. Supportive voices are pointing to stronger than expected Q3 adjusted EBITDA and a reaffirmed full year EBITDA outlook as signs that management is keeping a tight grip on profitability and costs, even as revenue expectations reset. As some analysts lean more bullish and others stay cautious, it is worth keeping...",
+      "published_utc": "2026-01-11T15:06:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b3bebb5777120dbc26e798d2cc13e8d8b28efcefe35b035327ad1532248cf494",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138069010,
+      "datetime": 1768161986
+    },
+    {
+      "title": "2 siblings shaping Goldman Sachs share how they rose to the top",
+      "description": "They sit at the top of one of Wall Street's most prestigious banks at a pivotal moment in its history. Inside Padi and Neema Raphael's rise.",
+      "published_utc": "2026-01-11T14:23:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c0b68503e088c89d6935531af8af0859c3967c35328c50b958c1e756478462f7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138069011,
+      "datetime": 1768159381
+    },
+    {
+      "title": "S&P 500 is little changed, rallying back from session lows despite Powell probe, bank sell-off: Live updates",
+      "description": "Stocks were rattle initially after the Department of Justice opened a criminal investigation into Federal Reserve Chair Jerome Powell.",
+      "published_utc": "2026-01-11T13:03:12",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=44034eacdde6585fc286f44720e4524fc4905289caab1545126679e38d227a84",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108241873-17658163342025-12-15t163117z_1712109297_rc21hia0ogro_rtrmadp_0_usa-stocks.jpeg?v=1765816457&w=1920&h=1080",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138075812,
+      "datetime": 1768154592
+    },
+    {
+      "title": "Earnings Kickoff, CPI and Other Can't Miss Items this Week",
+      "description": "Markets enter a massive week marking the unofficial start of Q4 earnings season with major financial institutions including JPMorgan, Bank of America, and Goldman Sachs reporting results.",
+      "published_utc": "2026-01-11T13:00:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=270a52c4012a7046d63f1e48d2fb4778f26d58a731dd37bbbd9c5ce771f40df4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138068836,
+      "datetime": 1768154402
+    }
+  ]
+}

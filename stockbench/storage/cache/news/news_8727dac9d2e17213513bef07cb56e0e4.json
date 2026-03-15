@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Should You Forget PayPal (PYPL) and Buy American Express (AXP) Instead?",
+      "description": "The blue chip financial giant has a brighter future than the digital payments leader.",
+      "published_utc": "2026-03-07T14:10:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f3749a8e403817967e3bf97592118f6ac847a34d4bd3f82dffe6d232f12d0815",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139336481,
+      "datetime": 1772910612
+    },
+    {
+      "title": "Stablecoin firms bet big on AI agent payments that barely exist",
+      "description": "Two weeks ago, a Citrini Research scenario imagining AI agents routing around card network fees sent Visa Inc., Mastercard Inc. and American Express Co. shares tumbling as much as 5% in a single session.  On its Feb. 25 earnings call, Circle Chief Executive Officer Jeremy Allaire argued that stablecoins could become the native currency of machine-to-machine commerce.",
+      "published_utc": "2026-03-07T09:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=13041e517919c63dc9af7983ffe17d331c5f048e505573c0f1436a7f10f3af9e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139334120,
+      "datetime": 1772892000
+    },
+    {
+      "title": "Berkshire CEO Greg Abel on working with Buffett, Kraft Heinz and using all his salary to buy the stock",
+      "description": "Berkshire Hathaway's new CEO, Greg Abel, generated some significant headlines during a roughly half-hour live interview on CNBC's \"Squawk Box.\"",
+      "published_utc": "2026-03-07T03:31:42",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=b83fd35d6b721b3f8a92bb400a289f08a7e5a7b5b1784cbb4751caef59871614",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108274137-1772716073261-SG-Abel-02.jpg?v=1772716146&w=1920&h=1080",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139334546,
+      "datetime": 1772872302
+    },
+    {
+      "title": "New CEO Greg Abel Did Not List 2 of Berkshire Hathaway's Largest Equity Positions as \"Core Holdings.\" Are They on the Chopping Block?",
+      "description": "New Berkshire Hathaway CEO Greg Abel recently issued his first annual letter to shareholders, detailing his plans for Berkshire's massive equities portfolio.",
+      "published_utc": "2026-03-07T02:25:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7daaf678b31a832651268c49070eae713cb9f94135aab54b271bf3a124be5c29",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139331143,
+      "datetime": 1772868300
+    },
+    {
+      "title": "Berkshire March DiviDogs Sport 17 'Safer' Watch Dogs",
+      "description": "Berkshire Hathawayâs post-Buffett dividend âdogsâ update: Q4 trades, yields, risk flags, and 2027 upside targets for BRK holdings. Read more here.",
+      "published_utc": "2026-03-06T21:31:38",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=78c267f23378c5536b0af584fbb1a91e12a14cca44deb41e356fbf9561113238",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1869511752/image_1869511752.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139331078,
+      "datetime": 1772850698
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T04:08:31.690755+00:00",
+    "cache_key": "news_8727dac9d2e17213513bef07cb56e0e4",
+    "count": 5
+  }
+}

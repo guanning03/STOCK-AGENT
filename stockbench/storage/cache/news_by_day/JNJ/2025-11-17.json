@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Sector Update: Health Care Stocks Softer Late Afternoon",
+      "description": "Health care stocks were decreasing late Monday afternoon with the NYSE Health Care Index and the Hea",
+      "published_utc": "2025-11-17T15:57:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b522a1078a77b6a152d26dc3ba99a95cf3e289fc3e784e72f6f7c4b7423d6929",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137522814,
+      "datetime": 1763413077
+    },
+    {
+      "title": "Johnson & Johnson Will Buy Cancer Drugmaker Halda Therapeutics for $3.1 Billion",
+      "description": "Halda is testing a prostate cancer drug. J&J says that with the acquisition it will gain a platform for treating “diseases beyond oncology.”",
+      "published_utc": "2025-11-17T13:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=88de1d185474d9a657b01837408a5d192f7386238fe7090eeb8aa1a99bc1059e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137506320,
+      "datetime": 1763403600
+    },
+    {
+      "title": "Johnson & Johnson Inks A $3.05 Billion Deal In Cancer Treatment",
+      "description": "Johnson & Johnson said Monday it's putting up $3.05 billion to buy privately held cancer player Halda Therapeutics.",
+      "published_utc": "2025-11-17T12:44:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6dea7c67797e550ae7f14b427d99e2f00f1bb7467b5e137ee96962968e239e97",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137506321,
+      "datetime": 1763401457
+    },
+    {
+      "title": "Top Midday Stories: Amazon to Sell Used Ford Vehicles on Website; Novo Nordisk Cuts Wegovy, Ozempic Prices",
+      "description": "The Dow Jones Industrial Average was down, the Nasdaq Composite was higher, and the S&P 500 was roug",
+      "published_utc": "2025-11-17T11:44:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5e701494e516467f1d7df91746887b41c573c66665b7b214556cb37a997d0f16",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137506135,
+      "datetime": 1763397852
+    },
+    {
+      "title": "Correction: Johnson & Johnson Strikes $3.05 Billion Deal to Buy Cancer Drug Developer Halda",
+      "description": "(Corrected to add \"billion\" in headline.) Johnson & Johnson (JNJ) has agreed to buy Halda Therape",
+      "published_utc": "2025-11-17T11:25:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=821d792cdcf617fc7c94e64d037b5bae47961b742a1d1ba32482809ea1d364f3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137506323,
+      "datetime": 1763396706
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "id": "d2a38ed816ee935622ca5c08099c1182eef29fca33fc47953c58ba8b881ddb5e",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Nvidia Earnings On Deck, SMCI Regains Compliance: What's Driving Markets Wednesday?",
+      "author": "Erica Kollmann",
+      "published_utc": "2025-02-26T17:32:44Z",
+      "article_url": "https://www.benzinga.com/general/market-summary/25/02/43981913/nvidia-earnings-on-deck-smci-regains-compliance-whats-driving-markets-wednesday",
+      "tickers": [
+        "NVDA",
+        "SMCI",
+        "SPY",
+        "TLT"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/02/26/Wall-Street--New-York.jpeg?width=1200&height=800&fit=crop",
+      "description": "Nvidia shares lead the tech sector higher as investors anticipate the company's quarterly earnings release. Shares of Super Micro Computer soar after the company submitted its long-delayed financial reports ahead of a Nasdaq-imposed deadline.",
+      "keywords": [
+        "Nvidia",
+        "Super Micro Computer",
+        "earnings",
+        "compliance"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia shares are leading the tech sector higher as investors anticipate the company's quarterly earnings release, indicating positive market sentiment."
+        },
+        {
+          "ticker": "SMCI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Shares of Super Micro Computer soar after the company submitted its long-delayed financial reports, regaining compliance with Nasdaq, suggesting positive investor sentiment."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The S&P 500 index is mentioned as a broad market indicator, without any specific sentiment expressed."
+        },
+        {
+          "ticker": "TLT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions the performance of the TLT ETF, which tracks long-term Treasury bonds, without expressing any specific sentiment."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T22:28:33.928028+00:00",
+    "cache_key": "news_9a1882d84c293dfedf4356e10f410d97",
+    "count": 1
+  }
+}

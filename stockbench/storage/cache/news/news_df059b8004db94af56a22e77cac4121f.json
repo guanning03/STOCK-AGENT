@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": "715bfaa1a28f8c2281cfce72bc087af8c404619fedf60b90fe0502a8f9914f70",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Pressure Gauges Market to exceed $1.9 Bn by 2032, Says Global Market Insights Inc.",
+      "author": "Global Market Insights Inc.",
+      "published_utc": "2025-01-20T11:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/20/3011962/0/en/Pressure-Gauges-Market-to-exceed-1-9-Bn-by-2032-Says-Global-Market-Insights-Inc.html",
+      "tickers": [
+        "AME",
+        "EMR",
+        "HON"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/6a29379b-a16f-4ee6-9798-26bdadb816f3",
+      "description": "The pressure gauges market is predicted to reach USD 1.9 billion by 2032, driven by growing demand from industries like oil and gas, chemical manufacturing, power generation, and automotive. Key market participants include Ametek, Badotherm, Circor, Dwyer, Emerson, Fluke Corporation, Honeywell International, Kobold Instruments, Newbow, Omega Engineering, QED Aerospace, Wika Instruments, and Winters Instruments.",
+      "keywords": [
+        "pressure gauges",
+        "market growth",
+        "industrial applications",
+        "smart pressure gauges",
+        "bourdon tube gauges",
+        "analog pressure gauges"
+      ],
+      "insights": [
+        {
+          "ticker": "AME",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Ametek is listed as a major participant in the pressure gauges market, indicating its strong presence and potential to benefit from the market's growth."
+        },
+        {
+          "ticker": "EMR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Emerson is listed as a major participant in the pressure gauges market, indicating its strong presence and potential to benefit from the market's growth."
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Honeywell International is listed as a major participant in the pressure gauges market, indicating its strong presence and potential to benefit from the market's growth."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:01:43.250649+00:00",
+    "cache_key": "news_df059b8004db94af56a22e77cac4121f",
+    "count": 1
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "items": [
+    {
+      "title": "With 81% ownership, Amgen Inc. (NASDAQ:AMGN) boasts of strong institutional backing",
+      "description": "Key Insights Institutions' substantial holdings in Amgen implies that they have significant influence over the...",
+      "published_utc": "2025-10-12T07:00:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=064cf9aebc5bfc7d2471cc6544e35ff0c8e87ed90dcecefd1182e0ac5ad4a865",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137059664,
+      "datetime": 1760266817
+    },
+    {
+      "id": "022bdc01c9dc5459fa05d23f66e0d8e6abb5e250d830d69ac631633fba2665cf",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Best Dividend ETF to Invest $1,000 in Right Now",
+      "author": "Stefon Walters",
+      "published_utc": "2025-10-12T17:05:00Z",
+      "article_url": "https://www.fool.com/investing/2025/10/12/the-best-dividend-etf-to-invest-1000-in-right-now/?source=iedfolrf0000001",
+      "tickers": [
+        "SCHD",
+        "KO",
+        "ABBV",
+        "AMGN",
+        "CVX",
+        "CSCO",
+        "HD",
+        "MRK",
+        "LMT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/837019/getty-dividend-stocks-growing-money-income-cash.jpg",
+      "description": "The article discusses the Schwab U.S. Dividend Equity ETF as an attractive investment option, highlighting its focus on high-quality companies with consistent dividends and strong financial performance.",
+      "keywords": [
+        "dividend",
+        "ETF",
+        "investing",
+        "stock market",
+        "wealth building"
+      ],
+      "insights": [
+        {
+          "ticker": "SCHD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Demonstrates consistent performance, high-quality holdings, increasing dividend payouts, and potential for long-term growth"
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of top holdings, no specific analysis provided"
+        },
+        {
+          "ticker": "ABBV",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned in disclosure, no specific analysis provided"
+        },
+        {
+          "ticker": "AMGN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned in disclosure, no specific analysis provided"
+        },
+        {
+          "ticker": "CVX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned in disclosure, no specific analysis provided"
+        },
+        {
+          "ticker": "CSCO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned in disclosure, no specific analysis provided"
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned in disclosure, no specific analysis provided"
+        },
+        {
+          "ticker": "MRK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned in disclosure, no specific analysis provided"
+        },
+        {
+          "ticker": "LMT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned in disclosure, no specific analysis provided"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:12:13.138932+00:00",
+    "cache_key": "news_643c9679433b2d8298b2bfa0ccf0f6fd",
+    "count": 2
+  }
+}

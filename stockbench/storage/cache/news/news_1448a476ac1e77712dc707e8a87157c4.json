@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Why Apple Stock Sank Today",
+      "description": "Did investors just give the thumbs-down signal to Apple's new iPhones?",
+      "published_utc": "2025-09-10T19:54:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1ea466ffebf2179876fcd866b2fbd70539aed69f803912c039ba00d7d68062f9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136688384,
+      "datetime": 1757548488
+    },
+    {
+      "title": "Tracking Saudi Sovereign Wealth Fund's 13F Portfolio - Q2 2025 Update",
+      "description": "PIFâs US 13F portfolio value declined to $23.81B, with Uber, Electronic Arts, Lucid, Take-Two, and ARM comprising 77% of assets. See more insights here.",
+      "published_utc": "2025-09-10T19:09:01",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=22e6b64b4657d5735d1a63216963e8b9802f2f4188e3ef18569f68660cb7686c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2153211726/image_2153211726.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136692857,
+      "datetime": 1757545741
+    },
+    {
+      "title": "AT&T CEO: Apple's iPhone hype days are over —  unless AI can deliver",
+      "description": "AT&T CEO John Stankey warns iPhone super cycles are dead without bold AI moves.",
+      "published_utc": "2025-09-10T18:26:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ce3a42e8e35eded5069283ff99cf1f8cf7cb1e37fd6dd3fd348a6bc57e82198f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136688365,
+      "datetime": 1757543213
+    },
+    {
+      "title": "Qualcomm: A 'Cold' Chip In A 'Hot' AI World",
+      "description": "Qualcomm's diversification into automotive, IoT, and laptops can't fully offset the shrinking smartphone market. Read why QCOM stock is a Hold.",
+      "published_utc": "2025-09-10T18:15:54",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d6ed85aa9a6b8873c4bf22a7edc156d4070df3acf3c2e8f46e6eddffb31ec1b7",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1445251323/image_1445251323.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136690245,
+      "datetime": 1757542554
+    },
+    {
+      "title": "Taiwan Semiconductor Marches Higher On August Sales Report",
+      "description": "Taiwan Semiconductor stock surged to a record high on Wednesday after the chipmaker reported strong sales growth in August.",
+      "published_utc": "2025-09-10T18:04:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a01a47c0672b362037bf98c4d3f633af629aeeecb0c6b37111a72282e3fa6d75",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136688348,
+      "datetime": 1757541870
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:37:46.022877+00:00",
+    "cache_key": "news_1448a476ac1e77712dc707e8a87157c4",
+    "count": 5
+  }
+}

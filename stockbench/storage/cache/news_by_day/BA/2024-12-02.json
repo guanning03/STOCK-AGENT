@@ -1,0 +1,122 @@
+{
+  "items": [
+    {
+      "id": "a5c20d5d5638304e6a48570f81d671a80a59679c556c2785a7331b948e043d6f",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Military Aircraft & Aerospace Manufacturing Market is Anticipated to Hit US$ 761.97 Billion by 2034 | Fact.MR Report",
+      "author": "Fact.Mr",
+      "published_utc": "2024-12-02T12:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2024/12/02/2989642/0/en/Military-Aircraft-Aerospace-Manufacturing-Market-is-Anticipated-to-Hit-US-761-97-Billion-by-2034-Fact-MR-Report.html",
+      "tickers": [
+        "EADSY",
+        "BA",
+        "BApA",
+        "ERJ",
+        "SAABY"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/f482b854-04d1-4f4e-9237-f7c7c6823e10",
+      "description": "The global military aircraft and aerospace manufacturing market is expected to grow at a CAGR of 8.4% between 2024 and 2034, driven by increasing demand in both defense and civilian sectors. Advanced technologies like composite materials, 3D printing, and AI are transforming the industry.",
+      "keywords": [
+        "military aircraft",
+        "aerospace manufacturing",
+        "defense",
+        "civilian",
+        "advanced technologies"
+      ],
+      "insights": [
+        {
+          "ticker": "EADSY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Airbus SAS as one of the key players driving innovation in the military aircraft and aerospace manufacturing market, indicating their strong presence and technological advancements in the industry."
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists The Boeing Company as one of the leading players in the military aircraft and aerospace manufacturing market, suggesting their prominent position and potential to benefit from the industry's growth."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists The Boeing Company as one of the leading players in the military aircraft and aerospace manufacturing market, suggesting their prominent position and potential to benefit from the industry's growth."
+        },
+        {
+          "ticker": "ERJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Embraer SA is listed as one of the key players in the military aircraft and aerospace manufacturing market, indicating their significance and potential to benefit from the industry's growth."
+        },
+        {
+          "ticker": "SAABY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Saab AB is mentioned as one of the key players in the military aircraft and aerospace manufacturing market, implying their involvement and potential to capitalize on the industry's expansion."
+        }
+      ]
+    },
+    {
+      "id": "42f66ca0979131983578d2666bdcd9cdc164c8b31744798ebe44dd8da2cab3d2",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "Big Week Ahead for Markets as Labor Market Data Looms",
+      "author": "Brian Gilmartin",
+      "published_utc": "2024-12-02T07:07:00Z",
+      "article_url": "https://www.investing.com/analysis/big-week-ahead-for-markets-as-labor-market-data-looms-200654754",
+      "tickers": [
+        "BA",
+        "BApA",
+        "FDX",
+        "ORCL",
+        "NKE",
+        "ACN"
+      ],
+      "amp_url": "https://m.investing.com/analysis/big-week-ahead-for-markets-as-labor-market-data-looms-200654754?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "The article discusses the upcoming labor market data releases, including the November nonfarm payroll report, and their potential impact on the markets. It also provides an analysis of the recent Treasury yield curve movements and their implications.",
+      "keywords": [
+        "labor market data",
+        "nonfarm payroll",
+        "Treasury yields",
+        "S&P 500"
+      ],
+      "insights": [
+        {
+          "ticker": "BA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions the Boeing strike as a factor that may have impacted the labor market data in recent months, but does not provide a clear sentiment on the company."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions the Boeing strike as a factor that may have impacted the labor market data in recent months, but does not provide a clear sentiment on the company."
+        },
+        {
+          "ticker": "FDX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists FedEx as one of the large-cap companies reporting in December, but does not provide any specific sentiment on the company."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists Oracle as one of the large-cap companies reporting in December, but does not provide any specific sentiment on the company."
+        },
+        {
+          "ticker": "NKE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists Nike as one of the large-cap companies reporting in December, but does not provide any specific sentiment on the company."
+        },
+        {
+          "ticker": "ACN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists Accenture as one of the large-cap companies reporting in December, but does not provide any specific sentiment on the company."
+        }
+      ]
+    }
+  ]
+}

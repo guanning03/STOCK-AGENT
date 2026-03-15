@@ -1,0 +1,114 @@
+{
+  "items": [
+    {
+      "id": "775c1c0fd05af340d2919ec6b5c1dea0ab6b346c2b3be8fd6792855a68f10159",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Rigetti Computing Stock a Buy in 2025?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-07T11:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/07/is-rigetti-computing-stock-a-buy-in-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "RGTI",
+        "RGTIW",
+        "GOOG",
+        "GOOGL",
+        "IBM",
+        "AMZN",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803002/nuclear.png",
+      "description": "Rigetti Computing, a quantum computer maker, has seen its stock surge 1,860% in the past six months. However, the company's quarterly revenue remains modest at $2.4 million, and it faces significant risks, including competition from tech giants and the long timeline for practical quantum computing applications.",
+      "keywords": [
+        "Rigetti Computing",
+        "quantum computing",
+        "technology",
+        "investment"
+      ],
+      "insights": [
+        {
+          "ticker": "RGTI",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a balanced view of Rigetti Computing's potential and challenges. While the company has made technological advancements and has a clear roadmap, it faces significant competition and the timeline for practical quantum computing applications is still uncertain, leading to a neutral sentiment."
+        },
+        {
+          "ticker": "RGTIW",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a balanced view of Rigetti Computing's potential and challenges. While the company has made technological advancements and has a clear roadmap, it faces significant competition and the timeline for practical quantum computing applications is still uncertain, leading to a neutral sentiment."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Alphabet as one of the tech giants competing in the quantum computing space, but does not provide a detailed assessment of the company's position or performance."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Alphabet as one of the tech giants competing in the quantum computing space, but does not provide a detailed assessment of the company's position or performance."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions IBM as one of the tech giants competing in the quantum computing space, but does not provide a detailed assessment of the company's position or performance."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Rigetti's Ankaa-3 system will be made available through Amazon's cloud platform, Braket, which could significantly expand access to Rigetti's technology and provide valuable revenue streams."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Rigetti's Ankaa-3 system will also be made available through Microsoft's Azure cloud platform, which could further expand the reach of Rigetti's technology."
+        }
+      ]
+    },
+    {
+      "id": "62c22239664a3a9b054a4e2a0c90354381aff9c926e1e041b77e09655e08367f",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Top AI Agent Stock to Buy Right Now",
+      "author": "Timothy Green",
+      "published_utc": "2025-01-07T11:20:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/07/1-top-ai-agent-stock-to-buy-right-now/?source=iedfolrf0000001",
+      "tickers": [
+        "IBM",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803005/gettyimages-1608349204.jpg",
+      "description": "IBM's watsonx platform and consulting arm provide enterprises with a full suite of AI tools and services, positioning the company well to capitalize on the rise of AI agents - narrow-focused AI systems that can autonomously handle related tasks. This combination of software and services gives IBM a unique advantage in the enterprise AI market.",
+      "keywords": [
+        "IBM",
+        "AI",
+        "AI agents",
+        "watsonx",
+        "consulting"
+      ],
+      "insights": [
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights IBM's strong position in the enterprise AI market, particularly with its watsonx platform and consulting services. This combination of software and services is seen as a unique advantage that puts IBM in a great position to ride the AI agent wave and enable enterprises to deploy AI effectively."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that IBM's watsonx platform can run on Amazon's AWS, but this is not the main focus of the article, which is on IBM's AI strategy and capabilities."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:24:45.137659+00:00",
+    "cache_key": "news_53539838c1d19b13a2fb0059033f82e1",
+    "count": 2
+  }
+}

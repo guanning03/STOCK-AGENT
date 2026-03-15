@@ -1,0 +1,124 @@
+{
+  "items": [
+    {
+      "title": "Bank ETFs in Red Over the Past Month: Pain or Gain Ahead? (Revised)",
+      "description": "Bank ETFs like IYG, IYF, KBWB, XLF and VFH dip on credit jitters. Are gains ahead as Q3 earnings & a steepening yield curve offer hope?",
+      "published_utc": "2025-10-22T15:35:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4775e0a9ba18a95a593464b53657ab4fd5996401b63a81f3a8afdae459d56921",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137191846,
+      "datetime": 1761161700
+    },
+    {
+      "id": "601593f8de333e78f8215a681c2d2dd78642ba7b45f84e895e4a9ae873ba3222",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "Inside Dow Jones: Key Earnings Ahead for Some of the Index YTD Winners",
+      "author": "Christine Short",
+      "published_utc": "2025-10-22T14:40:00Z",
+      "article_url": "https://www.investing.com/analysis/inside-dow-jones-key-earnings-ahead-for-some-of-the-index-ytd-winners-200668919",
+      "tickers": [
+        "CAT",
+        "JNJ",
+        "NVDA",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD",
+        "UNH"
+      ],
+      "amp_url": "https://m.investing.com/analysis/inside-dow-jones-key-earnings-ahead-for-some-of-the-index-ytd-winners-200668919?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "The Dow Jones Industrial Average's top performers in 2025 include Caterpillar, Johnson & Johnson, and NVIDIA, with key earnings reports upcoming that could impact their year-to-date performance.",
+      "keywords": [
+        "Dow Jones",
+        "earnings",
+        "AI",
+        "stock performance",
+        "Q3 earnings"
+      ],
+      "insights": [
+        {
+          "ticker": "CAT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Up 49% year-to-date, leading in AI and data center power generation infrastructure"
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Returned nearly 38% in 2025, strong profit numbers, raised guidance, attractive dividend yield"
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Returned 37% in 2025, world's most valuable public company with strong tech conference presence"
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Beat earnings expectations but experienced some sector softness"
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Beat earnings expectations but experienced some sector softness"
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Beat earnings expectations but experienced some sector softness"
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Beat earnings expectations but experienced some sector softness"
+        },
+        {
+          "ticker": "UNH",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Down 27% year-to-date, facing challenges and volatility"
+        }
+      ]
+    },
+    {
+      "title": "Goldman Posts Solid Growth in Q3 IB Fees: Will the Trend Continue?",
+      "description": "GS records a 42.5% surge in Q3 2025 IB fees, fueled by robust M&A activity and rising advisory revenues.",
+      "published_utc": "2025-10-22T12:25:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9d7b69c76507df1853c473c9e28d14d131bb476ae6461c5e1b7cbeb678a5f0a6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137187668,
+      "datetime": 1761150300
+    },
+    {
+      "title": "Jim Cramer Says “You’re in Fantastic Shape Owning Goldman”",
+      "description": "The Goldman Sachs Group, Inc. (NYSE:GS) is one of the stocks Jim Cramer was focused on recently. When a caller mentioned that they have diversified their portfolio by investing in the stock, Cramer stated: “Oh my god, that is so right. Goldman Sachs is so cheap, and David Solomon’s doing such a good job. At […]",
+      "published_utc": "2025-10-22T08:55:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=631758327386888dc9edb00d5e8957dfc02567b5812c9c03db2c015796a9349d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137187964,
+      "datetime": 1761137755
+    }
+  ]
+}

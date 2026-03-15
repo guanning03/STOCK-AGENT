@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Markets Switch to \"Risk-Off\" Ahead of Trump at Davos",
+      "description": "Off session lows by a whisker, the Dow shed -870 points, -1.76%, while the S&P 500 lost -43 points, -2.06%, and the tech-heavy Nasdaq dropped -561 points, -2.39%.",
+      "published_utc": "2026-01-20T17:57:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a9f85384b493b7e24a1e0d3464280d6e80074cb1104aeb85101dc3118fa562ab",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138191525,
+      "datetime": 1768949820
+    },
+    {
+      "title": "Stocks recover from sell-off after Trump rules out military action on Greenland: Live updates",
+      "description": "All three major U.S. stock indexes logged their worst daily performances since Oct. 10 as Trump escalated his Greenland tariff threats.",
+      "published_utc": "2026-01-20T13:04:00",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=5ee61aa48ec81f8ebe0f67f31f617e1b3dba457d4b97848fb8f6219da5e6eb38",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108254961-1769009080846-gettyimages-2257418535-mms29711_lywxizdv.jpeg?v=1769009115&w=1920&h=1080",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138196783,
+      "datetime": 1768932240
+    },
+    {
+      "title": "Dow Jones Faces Big Week As Four Heavyweights Report Earnings",
+      "description": "Four Dow Jones Industrial Average stocks report quarterly results this week. A look at what&#39;s in store for MMM, PG, TRV &amp; JNJ.",
+      "published_utc": "2026-01-20T11:30:33",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=5463b5b1b15ac5776d63ef8bbc8715fea5baea6d29c55760715437b943b36263",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/01/20/Tallinn--Estonia---August-4th-2023---Scr.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138493622,
+      "datetime": 1768926633
+    },
+    {
+      "title": "Insights into Travelers Companies's Upcoming Earnings",
+      "description": "",
+      "published_utc": "2026-01-20T05:01:23",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=db49c9c73cf0e212434a4238208624dbd4c33403f43298a708b93364496e17eb",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_12.jpg?width=2048&height=1536",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138570413,
+      "datetime": 1768903283
+    },
+    {
+      "title": "Travelers (TRV) Q4 Earnings: What To Expect",
+      "description": "Property and casualty insurer Travelers (NYSE:TRV) will be reporting results this Wednesday before market hours. Here’s what to expect.",
+      "published_utc": "2026-01-19T22:05:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9c6b8ad4688124b12968d71c857f3183f2d7c4054826615047ad75e6066a4cf9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138182494,
+      "datetime": 1768878352
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:46:46.173313+00:00",
+    "cache_key": "news_201fecf1f4f0d5c47491f47b224f49e0",
+    "count": 5
+  }
+}

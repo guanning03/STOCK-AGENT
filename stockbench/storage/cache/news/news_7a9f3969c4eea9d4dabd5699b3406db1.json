@@ -1,0 +1,269 @@
+{
+  "items": [
+    {
+      "id": "602c540e64262bfed049e1f8b2627d0c367a16c20198101cce175b9070998cb7",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Banks Kick Off Earnings Season On Wednesday: Retail Traders Bet Big On Financials Ahead Of Regulatory Tailwinds",
+      "author": "Piero Cingari",
+      "published_utc": "2025-01-14T18:01:24Z",
+      "article_url": "https://www.benzinga.com/analyst-ratings/analyst-color/25/01/42984073/banks-kick-off-earnings-season-on-wednesday-retail-traders-bet-big-on-financials-ah",
+      "tickers": [
+        "BK",
+        "BLK",
+        "DIVB",
+        "C",
+        "CpN",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "WFC",
+        "WFCpA",
+        "WFCpC",
+        "WFCpD",
+        "WFCpL",
+        "WFCpY",
+        "WFCpZ",
+        "XLF",
+        "SPY"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/14/banks-shutter.jpeg?width=1200&height=800&fit=crop",
+      "description": "Banks are expected to report strong Q4 earnings, with Goldman Sachs, JPMorgan Chase, and Citigroup projected to post double-digit EPS growth. Retail investors have been bullish on financial stocks ahead of earnings, anticipating positive regulatory changes under the new administration.",
+      "keywords": [
+        "banks",
+        "earnings",
+        "financials",
+        "regulation"
+      ],
+      "insights": [
+        {
+          "ticker": "BK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is projected to deliver a substantial improvement in EPS compared to the previous year, with revenue also expected to increase."
+        },
+        {
+          "ticker": "BLK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is expected to report a 16% increase in EPS and a 19% growth in revenue compared to the previous year."
+        },
+        {
+          "ticker": "DIVB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is expected to report a 16% increase in EPS and a 19% growth in revenue compared to the previous year."
+        },
+        {
+          "ticker": "C",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is anticipated to show a sharp turnaround, with an expected EPS of $1.22 compared to a loss in the previous year, and a 12% increase in revenue."
+        },
+        {
+          "ticker": "CpN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is anticipated to show a sharp turnaround, with an expected EPS of $1.22 compared to a loss in the previous year, and a 12% increase in revenue."
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is projected to report a significant 49% increase in EPS and an 8% gain in revenue compared to the previous year."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is projected to report a significant 49% increase in EPS and an 8% gain in revenue compared to the previous year."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is projected to report a significant 49% increase in EPS and an 8% gain in revenue compared to the previous year."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is projected to report a significant 49% increase in EPS and an 8% gain in revenue compared to the previous year."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is forecast to post a 35% increase in EPS and an 8% growth in revenue compared to the previous year."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is forecast to post a 35% increase in EPS and an 8% growth in revenue compared to the previous year."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is forecast to post a 35% increase in EPS and an 8% growth in revenue compared to the previous year."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is forecast to post a 35% increase in EPS and an 8% growth in revenue compared to the previous year."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is forecast to post a 35% increase in EPS and an 8% growth in revenue compared to the previous year."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is forecast to post a 35% increase in EPS and an 8% growth in revenue compared to the previous year."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is forecast to post a 35% increase in EPS and an 8% growth in revenue compared to the previous year."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is forecast to post a 35% increase in EPS and an 8% growth in revenue compared to the previous year."
+        },
+        {
+          "ticker": "WFC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is likely to report a 57% increase in EPS, with revenue expected to remain largely flat."
+        },
+        {
+          "ticker": "WFCpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is likely to report a 57% increase in EPS, with revenue expected to remain largely flat."
+        },
+        {
+          "ticker": "WFCpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is likely to report a 57% increase in EPS, with revenue expected to remain largely flat."
+        },
+        {
+          "ticker": "WFCpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is likely to report a 57% increase in EPS, with revenue expected to remain largely flat."
+        },
+        {
+          "ticker": "WFCpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is likely to report a 57% increase in EPS, with revenue expected to remain largely flat."
+        },
+        {
+          "ticker": "WFCpY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is likely to report a 57% increase in EPS, with revenue expected to remain largely flat."
+        },
+        {
+          "ticker": "WFCpZ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is likely to report a 57% increase in EPS, with revenue expected to remain largely flat."
+        },
+        {
+          "ticker": "XLF",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The ETF closed the previous year with gains of 28%, outperforming the broader S&P 500 by 5 percentage points."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The ETF is mentioned as a benchmark for the broader market performance."
+        }
+      ]
+    },
+    {
+      "id": "4f2f5e5985d534edfb912274342a24bbd88c735998b51dcb23b6f88cae660eac",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Wall Street Rebounds As Producer Inflation Misses Estimates, Tesla Gains, Chinese Stocks Rally",
+      "author": "Piero Cingari",
+      "published_utc": "2025-01-14T14:26:37Z",
+      "article_url": "https://www.benzinga.com/economics/macro-economic-events/25/01/42974739/wall-street-rebounds-as-producer-inflation-misses-estimates-tesla-gains-chinese-s",
+      "tickers": [
+        "BABA",
+        "BIDU",
+        "IWM",
+        "MU",
+        "NVDA",
+        "PDD",
+        "PLTR",
+        "SPY",
+        "TSLA"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/14/wall-street-ai18.png?width=1200&height=800&fit=crop",
+      "description": "Wall Street rebounded as December's producer prices came in below expectations, easing inflation concerns and boosting hopes for potential Fed policy easing. Tesla surged on a bullish note from Morgan Stanley, while Chinese stocks rallied on regulatory support.",
+      "keywords": [
+        "inflation",
+        "Federal Reserve",
+        "Tesla",
+        "Chinese stocks"
+      ],
+      "insights": [
+        {
+          "ticker": "BABA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Chinese stocks rallied on regulatory support, with Alibaba advancing 2%."
+        },
+        {
+          "ticker": "BIDU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Chinese stocks rallied on regulatory support, with Baidu advancing 2.4%."
+        },
+        {
+          "ticker": "IWM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Small caps led the charge, with the iShares Russell 2000 ETF up 0.9%, as traders rotated into economic-sensitive stocks."
+        },
+        {
+          "ticker": "MU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Micron Technology gained along with other semiconductor stocks as the iShares Semiconductor ETF climbed nearly 1%."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "NVIDIA rose more than 2% along with other semiconductor stocks."
+        },
+        {
+          "ticker": "PDD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Chinese stocks rallied on regulatory support, with PDD Holdings rising over 3%."
+        },
+        {
+          "ticker": "PLTR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Palantir Technologies gained along with other tech stocks."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The S&P 500, tracked by the SPDR S&P 500 ETF Trust, gained 0.5%."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Tesla surged 3% after Morgan Stanley raised its price target, citing growth in robotaxi and rideshare services."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:49:14.505320+00:00",
+    "cache_key": "news_7a9f3969c4eea9d4dabd5699b3406db1",
+    "count": 2
+  }
+}

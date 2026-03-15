@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Goldman Sachs Says AI Boom Will Supercharge Energy Demand",
+      "description": "Goldman Sachs dismisses fears of an AI stock market bubble but warns that the rapid growth of AI data centers will dramatically increase US energy consumption and drive up utility costs.",
+      "published_utc": "2025-11-10T18:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fa1a6c4b258859822879b71c1781d11fbb7d58bff196bd3c92746b7f3666d63d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137437544,
+      "datetime": 1762815600
+    },
+    {
+      "title": "Stocks to Watch for the First Trillion Dollar Holiday Shopping Season",
+      "description": "Savvy investors are eyeing the retail sector, with this holiday shopping season expected to be the first in U.S. history to exceed $1 trillion in sales.",
+      "published_utc": "2025-11-10T17:06:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=244564a91831cede47f338f10bccf162379b50df74c788fe92adc1da02785877",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137437582,
+      "datetime": 1762812360
+    },
+    {
+      "title": "Nasdaq Scores Best Day Since May on Optimism Over Shutdown Resolution",
+      "description": "The Nasdaq Composite on Monday notched its biggest one-day rise since May amid optimism that the lon",
+      "published_utc": "2025-11-10T16:54:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=db92ce75cd42b440e2d76181eb438606ef6696bbc54ddaadef589b260a5701ca",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137437565,
+      "datetime": 1762811663
+    },
+    {
+      "title": "Google Has a ‘Secret Weapon’ That Could Make GOOGL Stock One of the Best AI Buys for 2026",
+      "description": "Google's stock has increased by more than 50% in the last 12 months, making it a top investment given its expanding AI product portfolio.",
+      "published_utc": "2025-11-10T16:18:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=335b35316517a01b847dfb0287daa22a6311429b3f86c38a2b364724f6229f6c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137437567,
+      "datetime": 1762809513
+    },
+    {
+      "title": "Making Sense of the Market's Tech Worries",
+      "description": "The recent weakness in leading artificial intelligence stocks has rekindled concerns about the group's momentum and market leadership. But given their msassive runs, is it a reflection of a healthy pullback?",
+      "published_utc": "2025-11-10T14:22:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=513f29f42ac058c37dab1e720321bd98b850084b9522a2c59b634aafa052cb98",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137437585,
+      "datetime": 1762802520
+    }
+  ]
+}

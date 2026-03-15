@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "US futures edge higher and gold hits another record as markets swoon over Greenland dispute",
+      "description": "Asian shares mostly extended their losses on Wednesday and gold prices hit a record high as concerns over U.S. President Donald Trump’s tariff threats on Greenland fueled unease among investors.  U.S. futures rose after steep losses Tuesday on Wall Street.  Gold prices crossed the $4,800 mark for the first time, gaining 1.7% as money flowed into assets considered to be safe havens at times of uncertainty.",
+      "published_utc": "2026-01-20T23:51:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=db26a522ec25176e271bd2bf47ea06f95bceca229d18a5d002b17d7913a7aa32",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138192602,
+      "datetime": 1768971106
+    },
+    {
+      "title": "Caterpillar Inc. stock underperforms Tuesday when compared to competitors",
+      "description": "Caterpillar Inc. stock underperforms Tuesday when compared to competitors",
+      "published_utc": "2026-01-20T11:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=40da0ce01f3d8a542785edb06a80bbec05c51ebd1856f7889704fc6d5a01ebc5",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138208018,
+      "datetime": 1768926720
+    },
+    {
+      "title": "Oppenheimer Maintains Outperform on Caterpillar, Raises Price Target to $700",
+      "description": "Oppenheimer  analyst Kristen Owen   maintains Caterpillar (NYSE:CAT) with a Outperform and raises the price target from $645 to $700.",
+      "published_utc": "2026-01-20T05:48:23",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=8fa2fde9efb86e8e3a67b63b39332fe49dcff1988c5a7f596938e8c48215f388",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138929349,
+      "datetime": 1768906103
+    },
+    {
+      "title": "HD Hyundai Goes All-In On Palantir AI In Expanded Group-Wide Deal",
+      "description": "HD Hyundai expands partnership with Palantir, using Foundry &amp; AI Platform for digital transformation and cross-subsidiary coordination.",
+      "published_utc": "2026-01-20T03:48:23",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=858891cc2ab509f0e51acd9913361ad166d3067f8620c6766611ee9edb64fae7",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/01/20/New-York-City--New-York---July-14-2025-P.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138418889,
+      "datetime": 1768898903
+    },
+    {
+      "title": "Will Caterpillar’s AI-Enabled Fleet and Factory Upgrades Change Caterpillar's (CAT) Narrative",
+      "description": "Caterpillar Inc. recently unveiled a suite of Industrial AI advances, including the Cat AI Assistant and expanded NVIDIA collaboration, aimed at bringing AI-enabled autonomy and intelligent in-cab experiences to construction, mining and power equipment, while also using digital twins and AI to reshape its manufacturing and supply chain operations. These moves suggest Caterpillar is working to turn its installed base of heavy machinery into a connected, AI-ready platform that could embed the...",
+      "published_utc": "2026-01-20T01:11:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d1bfc72541d6d146ae461a89018c4f53d54147ceea1d89bf2d0621c61d3754d7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138184340,
+      "datetime": 1768889461
+    }
+  ]
+}

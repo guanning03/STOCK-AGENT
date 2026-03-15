@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Apple Supplier Foxconn Sees Profit Soar 27% To $1.47 Billion As AI Server Boom, iPhone Demand Fuel Record Growth",
+      "description": "Taiwan&#39;s Foxconn, the world&#39;s largest contract electronics maker and key Apple Inc. supplier, is set to report that Q2 profit rose 11%.",
+      "published_utc": "2025-08-13T19:50:09",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=b17c62c9e87cd9259571cc879c8a4a309694797f096d2c2413d59bc76c29154d",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/08/14/Milwaukee---August-14--2024-Foxconn-Scie_1.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138640201,
+      "datetime": 1755129009
+    },
+    {
+      "title": "Apple's AI Comeback Plans Include Robots, Lifelike Siri",
+      "description": "Apple Inc. is plotting its artificial intelligence comeback with an ambitious slate of new devices, including robots, a lifelike version of Siri, a smart speaker with a display and home-security cameras. Bloomberg's Mark Gurman speaks with Romaine Bostick and Matt Miller on \"The Close\" about Apple's next inventions.",
+      "published_utc": "2025-08-13T19:26:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6871a226a0861890bac483bf69bee922f0d05a7db7a4307ce3eb5e1afcf1800b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136344632,
+      "datetime": 1755127562
+    },
+    {
+      "title": "Foxconn sees robust AI demand continuing after Q2 profit tops forecast",
+      "description": "TAIPEI (Reuters) -Foxconn expects higher third-quarter revenue, it said on Thursday, on robust demand for artificial intelligence servers, which helped the world's largest contract electronics maker report a forecast-beating 27% increase in second-quarter profit.  Foxconn said it should see significant year-on-year revenue growth in the third quarter, with AI server revenue expected to leap more than 170% year-on-year, though it also warned on uncertainty from U.S. tariffs.  Nvidia's biggest server maker and Apple's top iPhone assembler has been riding a data centre boom, as cloud computing firms such as Amazon, Microsoft and Alphabet's Google spend billions of dollars to expand their AI infrastructure and research capacity.",
+      "published_utc": "2025-08-13T18:02:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d4f35b514f537bac24d49024eea07a3ceaa789d839a7edaa27014c5e042df4d1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136344633,
+      "datetime": 1755122520
+    },
+    {
+      "title": "Newsweek and Plant-A Insights Group Announce America’s Greatest Companies 2025",
+      "description": "The Recognition Celebrates 650 U.S. Businesses Setting the Standard for Performance, Innovation, and ImpactNEW YORK, Aug. 13, 2025 (GLOBE NEWSWIRE) -- Newsweek, in collaboration with Plant-A Insights Group, proudly presents the 2025 edition of America’s Greatest Companies, recognizing 650 standout organizations that are shaping the future of business in the United States. The list highlights companies that are excelling in financial strength, employee engagement, innovation, and sustainability.",
+      "published_utc": "2025-08-13T16:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8628eaac347fbb97d251ef9aa886a62f415e76c048e0611f0199270e7c892683",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136344634,
+      "datetime": 1755117900
+    },
+    {
+      "title": "Elon Musk broadens his long-running feud with OpenAI’s Sam Altman by bringing in a third party: Apple",
+      "description": "Musk is unhappy with how Apple is promoting ChatGPT, a rival to his own Grok.",
+      "published_utc": "2025-08-13T16:29:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=91436b4713596b4bdb42dfcd2582900d65fd440f6ffd7656c5c6dcd2ec009ccb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136344635,
+      "datetime": 1755116990
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:10:41.507916+00:00",
+    "cache_key": "news_2bcfcd0a20feb59a2a025626a400a7f3",
+    "count": 5
+  }
+}

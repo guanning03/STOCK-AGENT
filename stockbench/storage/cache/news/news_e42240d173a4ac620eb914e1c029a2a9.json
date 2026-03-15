@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "How Analyst Views on Honeywell Are Evolving After the Solstice Spin-Off and Value Reassessment",
+      "description": "Honeywell International’s stock narrative is shifting after analysts revised the company’s fair value estimate downward from $252.97 to $248.54, following the spin-off of Solstice Advanced Materials. The updated revenue growth projection, which reflects the removal of Solstice from consolidated estimates, suggests a more tempered outlook in the short term. Stay tuned to discover how investors can keep pace with these evolving forecasts and Honeywell’s ongoing transformation. What Wall Street...",
+      "published_utc": "2025-10-25T11:10:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b23203f2a33a3c4350b31a51531dfceb0071d1819301ed8548d5e4732d0a0269",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137216554,
+      "datetime": 1761405024
+    },
+    {
+      "title": "This Week In Markets: Earnings, Inflation, And Geopolitical Shifts",
+      "description": "Corporate earnings were the primary market driver this week, fueling sector-specific rallies and helping equities reclaim record levels.",
+      "published_utc": "2025-10-24T22:44:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bfc31fe75b5c863d4c55d411cce0ba9692135739721c602056ed365e303b723a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1892797470/image_1892797470.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137205490,
+      "datetime": 1761360240
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:54:31.992255+00:00",
+    "cache_key": "news_e42240d173a4ac620eb914e1c029a2a9",
+    "count": 2
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Discord Quietly Files For US IPO Tapping Goldman Sachs And JPMorgan: Report",
+      "description": "Discord has filed confidentially for a U.S. IPO with Goldman Sachs and JPMorgan as underwriters, though the company may still decide not to go public, amid a rebounding U.S. tech IPO market in 2025.",
+      "published_utc": "2026-01-06T17:53:06",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=6b94772936b493906f1511850fdd1b57ff31f70918a8abf174756f39198e1722",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/01/06/Man-Holding-An-Iphone-14-Pro-Smartphone-.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138601295,
+      "datetime": 1767739986
+    },
+    {
+      "title": "Cramer warns the January rally is driven by emotion and not all stocks will hold up",
+      "description": "CNBC's Jim Cramer says early January trading is being driven by emotion, momentum chasing and turnaround bets and urges investors not to get greedy.",
+      "published_utc": "2026-01-06T13:58:32",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=61f203956d1048d8531f67881930f8312a765225e18917ed061ab2a5c554eb05",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/107090831-1658244396832-NUP_198367_00762_copy.jpg?v=1687448899&w=1920&h=1080",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138027940,
+      "datetime": 1767725912
+    },
+    {
+      "title": "JPMorgan: My Top Pick In The Financial Sector Before Q4 Earnings",
+      "description": "JPMorgan (JPM) stays a top financial sector buy for 2026 as credit metrics stabilize.",
+      "published_utc": "2026-01-06T13:31:09",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4857f7f99ce4f9db6e7dfd44dbaec7be59489d95bd44b4f8c89dcf7b0490d0dd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/880121294/image_880121294.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138015150,
+      "datetime": 1767724269
+    },
+    {
+      "title": "Wealthfront’s IPO Was Lackluster. Goldman Sachs Is Still Skeptical.",
+      "description": "Shares of the robo-advisor’s stock are trading below their offering price. The investment bank sees a risk from falling interest rates.",
+      "published_utc": "2026-01-06T12:55:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=166e06cf05b455633b4d5bf688d3c65369a4b0e541d4ea45e96be9c34039a68c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138022819,
+      "datetime": 1767722100
+    },
+    {
+      "title": "Why the Dow Is Beating the S&P and Nasdaq So Far This Year",
+      "description": "The Dow has an early lead so far this year. The blue-chip index rose another 330 points, or 0.7%, in Tuesday morning trading. It already closed at a record on Monday, so any move higher will be a fresh milestone.",
+      "published_utc": "2026-01-06T12:18:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7230f803f4f50769c7018c1d54dcc61e087f5966d9a2d41fa6443c238197bb5e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138001777,
+      "datetime": 1767719905
+    }
+  ]
+}

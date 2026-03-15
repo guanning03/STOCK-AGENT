@@ -1,0 +1,55 @@
+{
+  "items": [
+    {
+      "id": "0fe5af5bfa9ba75e9ed488283964ae7b1c918096122f15dbd84f61f809b91348",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Should You Buy American Express While It's Below $320?",
+      "author": "Chris Neiger",
+      "published_utc": "2025-02-17T11:02:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/17/should-you-buy-american-express-while-below-320/?source=iedfolrf0000001",
+      "tickers": [
+        "AXP",
+        "BRK.A",
+        "BRK.B"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807568/gettyimages-472706058-1201x801-d21b45d.jpg",
+      "description": "American Express, a long-standing financial services company, has been a favorite of Warren Buffett's Berkshire Hathaway portfolio. The company reported strong 2024 results, with increased customer spending and record new card acquisitions, particularly among younger, more affluent customers. Despite its impressive stock gains, American Express' shares still look relatively cheap compared to the broader market.",
+      "keywords": [
+        "American Express",
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "financial services",
+        "customer spending",
+        "new card acquisitions",
+        "stock valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights American Express' strong financial performance, including increased revenue, earnings, and record new card acquisitions, particularly among younger and more affluent customers. The company's expansion into international markets and its relatively low valuation compared to the broader market also contribute to the positive sentiment."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that American Express is a significant holding in Warren Buffett's Berkshire Hathaway portfolio, suggesting that Buffett sees value in the company and is bullish on its prospects."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that American Express is a significant holding in Warren Buffett's Berkshire Hathaway portfolio, suggesting that Buffett sees value in the company and is bullish on its prospects."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T22:13:15.943278+00:00",
+    "cache_key": "news_ed6a7d1ac5b7d53fe4a1dcbef7e157da",
+    "count": 1
+  }
+}

@@ -1,0 +1,602 @@
+{
+  "items": [
+    {
+      "id": "8885d6dc5b858f1de5c391f263d41489952f6aa5995c0ce845b7326b0604a6af",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Meet the Best-Performing Low-Cost Vanguard ETF in 2024. Here's Why It May Still Be a Buy for 2025 and Beyond.",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-04T11:30:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/04/best-performing-low-cost-vanguard-etf-buy-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "VFH",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "BRK.A",
+        "BRK.B",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD",
+        "MS",
+        "MSpA",
+        "MSpE",
+        "MSpF",
+        "MSpI",
+        "MSpK",
+        "MSpL",
+        "MSpO",
+        "MSpP",
+        "MSpQ"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799454/atm-deposit-withdrawal-money-bank-1200x730-493f331.jpg",
+      "description": "The Vanguard Financials ETF (VFH) was the best-performing Vanguard ETF in 2024, up 37% year-to-date. The financial sector has seen a strong rally driven by earnings growth and valuation expansions, making the ETF a potential buy even at an all-time high.",
+      "keywords": [
+        "Vanguard Financials ETF",
+        "financial sector",
+        "earnings growth",
+        "valuation expansion"
+      ],
+      "insights": [
+        {
+          "ticker": "VFH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Vanguard Financials ETF was the best-performing Vanguard ETF in 2024, up 37% year-to-date. The financial sector has seen a strong rally driven by earnings growth and valuation expansions, making the ETF a potential buy even at an all-time high."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase is a top holding in the Vanguard Financials ETF, and the financial sector as a whole is seeing a strong rally."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase is a top holding in the Vanguard Financials ETF, and the financial sector as a whole is seeing a strong rally."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase is a top holding in the Vanguard Financials ETF, and the financial sector as a whole is seeing a strong rally."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase is a top holding in the Vanguard Financials ETF, and the financial sector as a whole is seeing a strong rally."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase is a top holding in the Vanguard Financials ETF, and the financial sector as a whole is seeing a strong rally."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase is a top holding in the Vanguard Financials ETF, and the financial sector as a whole is seeing a strong rally."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase is a top holding in the Vanguard Financials ETF, and the financial sector as a whole is seeing a strong rally."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase is a top holding in the Vanguard Financials ETF, and the financial sector as a whole is seeing a strong rally."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway is a top holding in the Vanguard Financials ETF, and the financial sector as a whole is seeing a strong rally."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway is a top holding in the Vanguard Financials ETF, and the financial sector as a whole is seeing a strong rally."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is the only top 10 holding in the Vanguard Financials ETF that is not within 3% of its all-time high."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is the only top 10 holding in the Vanguard Financials ETF that is not within 3% of its all-time high."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is the only top 10 holding in the Vanguard Financials ETF that is not within 3% of its all-time high."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is the only top 10 holding in the Vanguard Financials ETF that is not within 3% of its all-time high."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is the only top 10 holding in the Vanguard Financials ETF that is not within 3% of its all-time high."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is the only top 10 holding in the Vanguard Financials ETF that is not within 3% of its all-time high."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is the only top 10 holding in the Vanguard Financials ETF that is not within 3% of its all-time high."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is the only top 10 holding in the Vanguard Financials ETF that is not within 3% of its all-time high."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is the only top 10 holding in the Vanguard Financials ETF that is not within 3% of its all-time high."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is the only top 10 holding in the Vanguard Financials ETF that is not within 3% of its all-time high."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is the only top 10 holding in the Vanguard Financials ETF that is not within 3% of its all-time high."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is the only top 10 holding in the Vanguard Financials ETF that is not within 3% of its all-time high."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is the only top 10 holding in the Vanguard Financials ETF that is not within 3% of its all-time high."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is the only top 10 holding in the Vanguard Financials ETF that is not within 3% of its all-time high."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is the only top 10 holding in the Vanguard Financials ETF that is not within 3% of its all-time high."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is the only top 10 holding in the Vanguard Financials ETF that is not within 3% of its all-time high."
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Goldman Sachs has seen a noticeable valuation expansion, going from a sector laggard to a leader, which could lead to a sustained boom for the investment banking industry."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Goldman Sachs has seen a noticeable valuation expansion, going from a sector laggard to a leader, which could lead to a sustained boom for the investment banking industry."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Goldman Sachs has seen a noticeable valuation expansion, going from a sector laggard to a leader, which could lead to a sustained boom for the investment banking industry."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Goldman Sachs has seen a noticeable valuation expansion, going from a sector laggard to a leader, which could lead to a sustained boom for the investment banking industry."
+        },
+        {
+          "ticker": "MS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Morgan Stanley has also seen a noticeable valuation expansion, going from a sector laggard to a leader, which could lead to a sustained boom for the investment banking industry."
+        },
+        {
+          "ticker": "MSpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Morgan Stanley has also seen a noticeable valuation expansion, going from a sector laggard to a leader, which could lead to a sustained boom for the investment banking industry."
+        },
+        {
+          "ticker": "MSpE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Morgan Stanley has also seen a noticeable valuation expansion, going from a sector laggard to a leader, which could lead to a sustained boom for the investment banking industry."
+        },
+        {
+          "ticker": "MSpF",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Morgan Stanley has also seen a noticeable valuation expansion, going from a sector laggard to a leader, which could lead to a sustained boom for the investment banking industry."
+        },
+        {
+          "ticker": "MSpI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Morgan Stanley has also seen a noticeable valuation expansion, going from a sector laggard to a leader, which could lead to a sustained boom for the investment banking industry."
+        },
+        {
+          "ticker": "MSpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Morgan Stanley has also seen a noticeable valuation expansion, going from a sector laggard to a leader, which could lead to a sustained boom for the investment banking industry."
+        },
+        {
+          "ticker": "MSpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Morgan Stanley has also seen a noticeable valuation expansion, going from a sector laggard to a leader, which could lead to a sustained boom for the investment banking industry."
+        },
+        {
+          "ticker": "MSpO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Morgan Stanley has also seen a noticeable valuation expansion, going from a sector laggard to a leader, which could lead to a sustained boom for the investment banking industry."
+        },
+        {
+          "ticker": "MSpP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Morgan Stanley has also seen a noticeable valuation expansion, going from a sector laggard to a leader, which could lead to a sustained boom for the investment banking industry."
+        },
+        {
+          "ticker": "MSpQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Morgan Stanley has also seen a noticeable valuation expansion, going from a sector laggard to a leader, which could lead to a sustained boom for the investment banking industry."
+        }
+      ]
+    },
+    {
+      "id": "204b89924898e01b81f2b7d851e8b857c6df1700876a4212fdabc9b8fb74ad85",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Construction Equipment Finance Industry Research Report 2024-2033: Innovative Excavator Leasing Programs With Extended Powertrain Warranty and Launch of New Equipment Finance Solutions",
+      "author": "Researchandmarkets.Com",
+      "published_utc": "2024-12-04T09:45:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2024/12/04/2991258/28124/en/Construction-Equipment-Finance-Industry-Research-Report-2024-2033-Innovative-Excavator-Leasing-Programs-With-Extended-Powertrain-Warranty-and-Launch-of-New-Equipment-Finance-Soluti.html",
+      "tickers": [
+        "KMTUY",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "WFC",
+        "WFCpA",
+        "WFCpC",
+        "WFCpD",
+        "WFCpL",
+        "WFCpY",
+        "WFCpZ"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The global construction equipment finance market is expected to grow significantly from 2023 to 2033, driven by factors such as the expansion of smart cities initiatives, increased focus on infrastructure development, and government support for the construction industry. The report highlights key trends, including innovative excavator leasing programs with extended powertrain warranty and the launch of new equipment finance solutions.",
+      "keywords": [
+        "construction equipment finance",
+        "leasing",
+        "excavator",
+        "powertrain warranty",
+        "equipment finance solutions"
+      ],
+      "insights": [
+        {
+          "ticker": "KMTUY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Komatsu Ltd. was the largest competitor in the construction equipment finance market, with a 28.2% market share in 2023, indicating its strong position in the industry."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America Corporation had a 3.6% market share in the construction equipment finance market, indicating its involvement in the industry but not a dominant player."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America Corporation had a 3.6% market share in the construction equipment finance market, indicating its involvement in the industry but not a dominant player."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America Corporation had a 3.6% market share in the construction equipment finance market, indicating its involvement in the industry but not a dominant player."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America Corporation had a 3.6% market share in the construction equipment finance market, indicating its involvement in the industry but not a dominant player."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America Corporation had a 3.6% market share in the construction equipment finance market, indicating its involvement in the industry but not a dominant player."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America Corporation had a 3.6% market share in the construction equipment finance market, indicating its involvement in the industry but not a dominant player."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America Corporation had a 3.6% market share in the construction equipment finance market, indicating its involvement in the industry but not a dominant player."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America Corporation had a 3.6% market share in the construction equipment finance market, indicating its involvement in the industry but not a dominant player."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America Corporation had a 3.6% market share in the construction equipment finance market, indicating its involvement in the industry but not a dominant player."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America Corporation had a 3.6% market share in the construction equipment finance market, indicating its involvement in the industry but not a dominant player."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America Corporation had a 3.6% market share in the construction equipment finance market, indicating its involvement in the industry but not a dominant player."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America Corporation had a 3.6% market share in the construction equipment finance market, indicating its involvement in the industry but not a dominant player."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America Corporation had a 3.6% market share in the construction equipment finance market, indicating its involvement in the industry but not a dominant player."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America Corporation had a 3.6% market share in the construction equipment finance market, indicating its involvement in the industry but not a dominant player."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America Corporation had a 3.6% market share in the construction equipment finance market, indicating its involvement in the industry but not a dominant player."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America Corporation had a 3.6% market share in the construction equipment finance market, indicating its involvement in the industry but not a dominant player."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase & Co. had a 1.2% market share in the construction equipment finance market, suggesting a relatively small presence compared to the top competitors."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase & Co. had a 1.2% market share in the construction equipment finance market, suggesting a relatively small presence compared to the top competitors."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase & Co. had a 1.2% market share in the construction equipment finance market, suggesting a relatively small presence compared to the top competitors."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase & Co. had a 1.2% market share in the construction equipment finance market, suggesting a relatively small presence compared to the top competitors."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase & Co. had a 1.2% market share in the construction equipment finance market, suggesting a relatively small presence compared to the top competitors."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase & Co. had a 1.2% market share in the construction equipment finance market, suggesting a relatively small presence compared to the top competitors."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase & Co. had a 1.2% market share in the construction equipment finance market, suggesting a relatively small presence compared to the top competitors."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase & Co. had a 1.2% market share in the construction equipment finance market, suggesting a relatively small presence compared to the top competitors."
+        },
+        {
+          "ticker": "WFC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Wells Fargo & Company had a 1.2% market share in the construction equipment finance market, indicating a similar level of involvement as JPMorgan Chase & Co."
+        },
+        {
+          "ticker": "WFCpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Wells Fargo & Company had a 1.2% market share in the construction equipment finance market, indicating a similar level of involvement as JPMorgan Chase & Co."
+        },
+        {
+          "ticker": "WFCpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Wells Fargo & Company had a 1.2% market share in the construction equipment finance market, indicating a similar level of involvement as JPMorgan Chase & Co."
+        },
+        {
+          "ticker": "WFCpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Wells Fargo & Company had a 1.2% market share in the construction equipment finance market, indicating a similar level of involvement as JPMorgan Chase & Co."
+        },
+        {
+          "ticker": "WFCpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Wells Fargo & Company had a 1.2% market share in the construction equipment finance market, indicating a similar level of involvement as JPMorgan Chase & Co."
+        },
+        {
+          "ticker": "WFCpY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Wells Fargo & Company had a 1.2% market share in the construction equipment finance market, indicating a similar level of involvement as JPMorgan Chase & Co."
+        },
+        {
+          "ticker": "WFCpZ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Wells Fargo & Company had a 1.2% market share in the construction equipment finance market, indicating a similar level of involvement as JPMorgan Chase & Co."
+        }
+      ]
+    },
+    {
+      "id": "7d8e0f47c83e10a0fe91f3fd70d31076fb76b898967481c91cba3861681fa39b",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Warren Buffett Sends a $150 Billion Warning to Stock Investors as the S&P 500 Races Past Record Highs",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-04T08:50:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/04/warren-buffett-warning-stock-investors-record-high/?source=iedfolrf0000001",
+      "tickers": [
+        "BRK.A",
+        "BRK.B",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "APO",
+        "APOS",
+        "APOpA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799682/market-1.jpg",
+      "description": "Warren Buffett's Berkshire Hathaway has been a net seller of stocks in the last seven quarters, with cumulative net sales totaling $150 billion, indicating caution in the current market environment where many stocks are trading at historically rich valuations.",
+      "keywords": [
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "S&P 500",
+        "stock market",
+        "valuations"
+      ],
+      "insights": [
+        {
+          "ticker": "BRK.A",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has been a net seller of stocks in the last seven quarters, with cumulative net sales totaling $150 billion, suggesting Buffett is struggling to find reasonably priced stocks after the market's run-up."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has been a net seller of stocks in the last seven quarters, with cumulative net sales totaling $150 billion, suggesting Buffett is struggling to find reasonably priced stocks after the market's run-up."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase strategist Madison Faller provided historical data on the S&P 500's performance following record highs, which is used to provide context in the article."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase strategist Madison Faller provided historical data on the S&P 500's performance following record highs, which is used to provide context in the article."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase strategist Madison Faller provided historical data on the S&P 500's performance following record highs, which is used to provide context in the article."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase strategist Madison Faller provided historical data on the S&P 500's performance following record highs, which is used to provide context in the article."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase strategist Madison Faller provided historical data on the S&P 500's performance following record highs, which is used to provide context in the article."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase strategist Madison Faller provided historical data on the S&P 500's performance following record highs, which is used to provide context in the article."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase strategist Madison Faller provided historical data on the S&P 500's performance following record highs, which is used to provide context in the article."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase strategist Madison Faller provided historical data on the S&P 500's performance following record highs, which is used to provide context in the article."
+        },
+        {
+          "ticker": "APO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Chief Economist Torsten Slok at Apollo Global Management provided an analysis on the current market valuation and its implications for future returns."
+        },
+        {
+          "ticker": "APOS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Chief Economist Torsten Slok at Apollo Global Management provided an analysis on the current market valuation and its implications for future returns."
+        },
+        {
+          "ticker": "APOpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Chief Economist Torsten Slok at Apollo Global Management provided an analysis on the current market valuation and its implications for future returns."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T18:54:30.904319+00:00",
+    "cache_key": "news_1d014dc6a2429603c3f5e9a709bb6292",
+    "count": 3
+  }
+}

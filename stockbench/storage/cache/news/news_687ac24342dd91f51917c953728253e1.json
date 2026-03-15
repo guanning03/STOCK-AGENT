@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures steady with Wall Street near records ahead of jobs, CPI data",
+      "description": "Wall Street is eyeing a closely watched jobs report amid a cooling labour market.",
+      "published_utc": "2026-02-09T18:52:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=51833e30f9df49ff1222336d3c4b38d281c8f96974c44c4032f79f2e2abf4a20",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138890701,
+      "datetime": 1770681127
+    },
+    {
+      "title": "Dow Hits New High Amid Tech-Led Advance",
+      "description": "The Dow Jones Industrial Average clinched a new closing high amid a technology-led advance, ahead of",
+      "published_utc": "2026-02-09T16:58:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ddb434517643926aa54244fdc8c0198b841b8f95a7282d2bd4f781412eb6a3e0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138796227,
+      "datetime": 1770674307
+    },
+    {
+      "title": "Chipotle CEO: Here's why we are testing a happy hour",
+      "description": "Chipotle CEO Scott Boatwright said the company is about to test a happy hour offering.",
+      "published_utc": "2026-02-09T16:06:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=08a0d046c3b6c62e47070023ec8b3bfb65aac75ab36baecb9ded34e241dc5b10",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138789957,
+      "datetime": 1770671212
+    },
+    {
+      "title": "S&P 500 Companies' Earnings Growth Eases, Sales Rise Accelerates, Oppenheimer Data Show",
+      "description": "S&P 500 companies' quarterly earnings growth slowed down compared with financials reported up until",
+      "published_utc": "2026-02-09T15:20:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4dca8f35e3be066a70f1b48b2dec4cd36dec373d540747ca3bdc06103795428f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138789893,
+      "datetime": 1770668416
+    },
+    {
+      "title": "Stock market today: Dow ekes out fresh record, S&P 500, Nasdaq rally for 2nd day as tech bounce back continues",
+      "description": "Wall Street is set for a packed week defined by jobs and inflation reports.",
+      "published_utc": "2026-02-09T14:47:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c0ee5fcab63266f064fff48145ad09b765fead1d6c19a7902653945b32bed731",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138789446,
+      "datetime": 1770666451
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:50:11.294949+00:00",
+    "cache_key": "news_687ac24342dd91f51917c953728253e1",
+    "count": 5
+  }
+}

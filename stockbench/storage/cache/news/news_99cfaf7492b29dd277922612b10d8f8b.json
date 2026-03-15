@@ -1,0 +1,138 @@
+{
+  "items": [
+    {
+      "id": "18b507d354326fdc41f44b454b3ec99be0c632db11dd61d193f89ce782adf253",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "10 Top Growth Stocks for 2025",
+      "author": "Neil Rozenbaum",
+      "published_utc": "2024-12-28T16:03:12Z",
+      "article_url": "https://www.fool.com/investing/2024/12/28/10-top-growth-stocks-for-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "SQ",
+        "PYPL",
+        "DIS",
+        "DLO",
+        "GRAB",
+        "GRABW",
+        "NVO",
+        "NU",
+        "META"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802293/gettyimages-2156920196.jpg",
+      "description": "The Motley Fool, a financial services company, is dedicated to making the world smarter, happier, and richer. They reach millions of people through their premium investing solutions, free guidance, and market analysis on Fool.com, personal finance education, top-rated podcasts, and non-profit The Motley Fool Foundation.",
+      "keywords": [
+        "investing",
+        "financial services",
+        "personal finance",
+        "stock recommendations"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet is mentioned as a company that Neil Rozenbaum has positions in, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet is mentioned as a company that Neil Rozenbaum has positions in, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon is mentioned as a subsidiary of Whole Foods Market, where the former CEO is a member of The Motley Fool's board of directors, suggesting a positive sentiment towards the company."
+        },
+        {
+          "ticker": "SQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Motley Fool has positions in Block, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "PYPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Motley Fool has positions in PayPal and recommends long January 2027 $42.50 calls on PayPal, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "DIS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Motley Fool has positions in Walt Disney, suggesting a positive sentiment towards the company."
+        },
+        {
+          "ticker": "DLO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Neil Rozenbaum has positions in DLocal, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "GRAB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Motley Fool recommends Grab, suggesting a positive sentiment towards the company."
+        },
+        {
+          "ticker": "GRABW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Motley Fool recommends Grab, suggesting a positive sentiment towards the company."
+        },
+        {
+          "ticker": "NVO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Motley Fool recommends Novo Nordisk, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "NU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Motley Fool recommends Nu Holdings, suggesting a positive sentiment towards the company."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Motley Fool has positions in Meta Platforms, and a former director of market development and spokeswoman for Facebook (now Meta Platforms) is a member of The Motley Fool's board of directors, suggesting a positive sentiment towards the company."
+        }
+      ]
+    },
+    {
+      "id": "00fce734e743f0a02010f9b843c2b4847b065e0e252e2d319849ce8106a34cda",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "This Magnificent Stock Has Made Many Millionaires -- and Could Make More",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-28T14:23:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/28/this-magnificent-stock-has-made-many-millionaires/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802146/warehouse-2022.jpg",
+      "description": "Amazon has been a highly successful investment, delivering a 233,100% gain since its IPO in 1997. The company's e-commerce and cloud computing (AWS) businesses have significant growth potential, and its profitability continues to improve. While the stock may not be considered a 'growth story' anymore, it could still be a worthwhile investment given its long-term prospects.",
+      "keywords": [
+        "Amazon",
+        "e-commerce",
+        "cloud computing",
+        "AWS",
+        "profitability"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Amazon's impressive historical performance, significant growth potential in its core businesses, and improving profitability, suggesting it is still a worthwhile investment despite its large size."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:04:37.330608+00:00",
+    "cache_key": "news_99cfaf7492b29dd277922612b10d8f8b",
+    "count": 2
+  }
+}

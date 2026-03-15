@@ -1,0 +1,62 @@
+{
+  "items": [
+    {
+      "title": "‘It’s like a psychological ceiling’: Why fast-food chains are trying to stay below $10 in their pricing",
+      "description": "Consumers don’t consider it a bargain if you cross into double-digit territory, experts say.",
+      "published_utc": "2025-08-23T09:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4ca6270d668e451d06a9917994db69e2fa7992c2a009c19a01f5677789c6f203",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136508024,
+      "datetime": 1755954000
+    },
+    {
+      "id": "f8ccb23eb199c4c0972b196e0454e34310be6e8a2c94adea61ed90fbdbc183d3",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "ThinkCareBelieve:  Week 31 of Trump Leading America’s Clean Up",
+      "author": "Thinkcarebelieve",
+      "published_utc": "2025-08-23T22:26:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/08/23/3138140/0/en/ThinkCareBelieve-Week-31-of-Trump-Leading-America-s-Clean-Up.html",
+      "tickers": [
+        "INTC",
+        "MCD"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/353cfcaf-e50d-4ea8-b709-7f9ab2de465f",
+      "description": "President Trump's administration highlights progress in DC clean-up, international diplomacy, economic recovery, and national security, with efforts focused on election integrity, child trafficking prevention, and economic revitalization.",
+      "keywords": [
+        "Trump administration",
+        "DC clean-up",
+        "election integrity",
+        "child trafficking",
+        "economic recovery"
+      ],
+      "insights": [
+        {
+          "ticker": "INTC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "US government now owns 10% of the company, valued at $11 Billion, ensuring semiconductor and chip technology leadership"
+        },
+        {
+          "ticker": "MCD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Lowering menu item costs, indicating potential economic improvement and consumer affordability"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:35:47.323446+00:00",
+    "cache_key": "news_702638940a41a46194896851ca0f1dd7",
+    "count": 2
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The 1-Minute Market Report, February 22, 2026",
+      "description": "",
+      "published_utc": "2026-02-21T18:59:13",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=89f5227a651afb3bd7477772ffc70e53fae62e36b6999793a35e2ecc6a373189",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139174076,
+      "datetime": 1771718353
+    },
+    {
+      "title": "President Trump, In Truth Social Post, Said \"Effective Immediately, Raising The 10% Worldwide Tariff On Countries, Many Of Which Have Been \"Ripping\" The U.S. Off For Decades, Without Retribution (Until I Came Along!), To The Fully Allowed, And Legally Tested, 15% Level\"",
+      "description": "https://truthsocial.com/@realDonaldTrump/116109447886304328",
+      "published_utc": "2026-02-21T07:07:40",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=3c6720fed214e02c34a77e3fddbe063f6e5d42658d7c0dbfdbb048feb0be1304",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139184687,
+      "datetime": 1771675660
+    },
+    {
+      "title": "Possible Portfolio Strategies As Markets Size Up AI Risk",
+      "description": "",
+      "published_utc": "2026-02-21T05:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=487530ece50d2a603673e9db5ce17f715d6b8b527c744cf9f0fcc8bce96ffde5",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139170628,
+      "datetime": 1771670100
+    },
+    {
+      "title": "What Real Estate Investors Get Wrong About REITs",
+      "description": "",
+      "published_utc": "2026-02-21T05:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e6e28c1455f8acef36bd8e312e160c91ca6e7a8b1198b008dc22a3c64b7a4cb6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139170598,
+      "datetime": 1771668900
+    },
+    {
+      "title": "Data Update 7 For 2026: Debt And Taxes",
+      "description": "",
+      "published_utc": "2026-02-21T04:50:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7a30b17f8b714e23ff344c2bdfa00eba02ca99888a7c0b8209f8f4a71e75f434",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139170508,
+      "datetime": 1771667400
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:25:18.985685+00:00",
+    "cache_key": "news_fa495982dbc1835a800ddcf2904faa5d",
+    "count": 5
+  }
+}

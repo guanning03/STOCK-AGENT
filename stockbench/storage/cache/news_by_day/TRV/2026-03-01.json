@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Significant Insider Activity at The Travelers (TRV)",
+      "description": "The Travelers Companies, Inc. (NYSE:TRV) is one of the Top 10 Stocks Warren Buffett Would Buy in 2026. On February 26, 2026, The Travelers Companies, Inc. (NYSE:TRV) saw significant insider activity with two of its top executives disclosing major sales of the company’s shares. Maria Olivo, EVP, ERM & Chief Risk Officer, sold 10,400 shares […]",
+      "published_utc": "2026-03-01T10:04:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6e4c4639203787e2b083352137be0615d1d1cc657af7dd6c4c72c9a24af1f9fc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139270616,
+      "datetime": 1772377488
+    },
+    {
+      "title": "What travelers need to know after the U.S., Israeli strikes on Iran",
+      "description": "What travelers need to know after the strikes in the Middle East.",
+      "published_utc": "2026-03-01T07:06:16",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=74d483e72b2d65a23e150fbac56dcb3e96c49bee986d2c3c0b8c51ae1fe02525",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108271565-1772371407521-gettyimages-2263689192-AFP_99FE9WE.jpeg?v=1772371520&w=1920&h=1080",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139270962,
+      "datetime": 1772366776
+    }
+  ]
+}

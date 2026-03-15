@@ -1,0 +1,154 @@
+{
+  "items": [
+    {
+      "id": "b8cb36712360f1d185bda32a257d98a733a40724b54735a714a7e34b6df681de",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "66% of Warren Buffett's $301 Billion Portfolio for 2025 Is Invested in These 5 Unstoppable Stocks",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-16T09:41:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/16/66-warren-buffett-portfolio-2025-invest-5-stocks/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "AXP",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK",
+        "KO",
+        "CVX"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800900/buffett13-tmf.jpg",
+      "description": "Warren Buffett's Berkshire Hathaway portfolio is heavily concentrated in 5 stocks - Apple, American Express, Bank of America, Coca-Cola, and Chevron - which account for 66% of the $301 billion portfolio. Buffett believes these are 'unstoppable' companies with strong brands, capital return programs, and favorable industry dynamics.",
+      "keywords": [
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "portfolio",
+        "stocks",
+        "Apple",
+        "American Express",
+        "Bank of America",
+        "Coca-Cola",
+        "Chevron"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Buffett appreciates Apple's strong brand and Tim Cook's leadership, as well as the company's focus on higher-margin subscription services and large share repurchase program."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Buffett likes American Express's ability to benefit from both sides of the transaction counter as a payment processor and lender, and its track record of growth during economic cycles."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has been selling Bank of America shares, potentially to lock in gains at a favorable tax rate or due to concerns about market valuations, but the bank still benefits from higher interest rates and has a healthy capital return program."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has been selling Bank of America shares, potentially to lock in gains at a favorable tax rate or due to concerns about market valuations, but the bank still benefits from higher interest rates and has a healthy capital return program."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has been selling Bank of America shares, potentially to lock in gains at a favorable tax rate or due to concerns about market valuations, but the bank still benefits from higher interest rates and has a healthy capital return program."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has been selling Bank of America shares, potentially to lock in gains at a favorable tax rate or due to concerns about market valuations, but the bank still benefits from higher interest rates and has a healthy capital return program."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has been selling Bank of America shares, potentially to lock in gains at a favorable tax rate or due to concerns about market valuations, but the bank still benefits from higher interest rates and has a healthy capital return program."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has been selling Bank of America shares, potentially to lock in gains at a favorable tax rate or due to concerns about market valuations, but the bank still benefits from higher interest rates and has a healthy capital return program."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has been selling Bank of America shares, potentially to lock in gains at a favorable tax rate or due to concerns about market valuations, but the bank still benefits from higher interest rates and has a healthy capital return program."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has been selling Bank of America shares, potentially to lock in gains at a favorable tax rate or due to concerns about market valuations, but the bank still benefits from higher interest rates and has a healthy capital return program."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has been selling Bank of America shares, potentially to lock in gains at a favorable tax rate or due to concerns about market valuations, but the bank still benefits from higher interest rates and has a healthy capital return program."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has been selling Bank of America shares, potentially to lock in gains at a favorable tax rate or due to concerns about market valuations, but the bank still benefits from higher interest rates and has a healthy capital return program."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has been selling Bank of America shares, potentially to lock in gains at a favorable tax rate or due to concerns about market valuations, but the bank still benefits from higher interest rates and has a healthy capital return program."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has been selling Bank of America shares, potentially to lock in gains at a favorable tax rate or due to concerns about market valuations, but the bank still benefits from higher interest rates and has a healthy capital return program."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has been selling Bank of America shares, potentially to lock in gains at a favorable tax rate or due to concerns about market valuations, but the bank still benefits from higher interest rates and has a healthy capital return program."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has been selling Bank of America shares, potentially to lock in gains at a favorable tax rate or due to concerns about market valuations, but the bank still benefits from higher interest rates and has a healthy capital return program."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has been selling Bank of America shares, potentially to lock in gains at a favorable tax rate or due to concerns about market valuations, but the bank still benefits from higher interest rates and has a healthy capital return program."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has been selling Bank of America shares, potentially to lock in gains at a favorable tax rate or due to concerns about market valuations, but the bank still benefits from higher interest rates and has a healthy capital return program."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Buffett appreciates Coca-Cola's strong brand, geographic diversity, and predictable cash flow, as well as its shareholder-friendly capital return program."
+        },
+        {
+          "ticker": "CVX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Buffett expects oil prices to remain elevated or rise further, and Chevron's integrated business model and capital return program make it an attractive investment."
+        }
+      ]
+    }
+  ]
+}

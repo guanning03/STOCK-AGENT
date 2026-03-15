@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Dow Jones Futures Rise; Google Beats Views, Reports Huge AI Spending",
+      "description": "The rotation out of techs continued in a divided stock market, but Eli Lilly jumped. Google rose late on earnings and huge capital spending plans.",
+      "published_utc": "2026-02-04T18:44:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac639f02aff7e7e53c2fa867939b5fb2876d87fe05ba5716e08c6a8c81d2a38e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138358983,
+      "datetime": 1770248654
+    },
+    {
+      "title": "Rotation Trade a Boon for Dow 30 Today",
+      "description": "That the Dow gained when tech-heavy indexes shed growth is a very direct link to the rotation trade.",
+      "published_utc": "2026-02-04T18:23:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fcb07c11ecb7f22f71e617ef7a892174c4d6b67a94ba70876c6b698e87ec0a12",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138360073,
+      "datetime": 1770247380
+    },
+    {
+      "title": "Stock Market Today, Feb. 4: AMD Plunges Over 17% As Tech Fallout Continues",
+      "description": "On Feb. 4, 2026, AMD’s AI-chip stumble rattled the Nasdaq while defensive Dow names steadied a suddenly nervous Wall Street.",
+      "published_utc": "2026-02-04T18:03:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=88ba3b4245d97795c1576ae3dcc2025b9c1e2f6079e8ef0171599e513a6dbbea",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138359074,
+      "datetime": 1770246231
+    },
+    {
+      "title": "Health Care Roundup: Market Talk",
+      "description": "Find insight on Amgen, GSK, Novo Nordisk and more in the latest Market Talks covering health care sector.",
+      "published_utc": "2026-02-04T17:06:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3bd8d7af56b4a56340e8cc39633a1eda9f05cc44c940d0bcca5288fded6f799e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138359122,
+      "datetime": 1770242760
+    },
+    {
+      "title": "Broader Market Falls as Chipmakers and AI Stocks Tumble",
+      "description": "The S&P 500 Index ($SPX ) (SPY ) on Wednesday closed down -0.51%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.53%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -1.77%. March E-mini S&P futures (ESH26 ) fell -0.44%, and March E-mini Nasdaq futures...",
+      "published_utc": "2026-02-04T16:43:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c2620cc13717c078fbf8cc50236cd90a5a6392ffb2087c48c5defce61da30d68",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138360052,
+      "datetime": 1770241413
+    }
+  ]
+}

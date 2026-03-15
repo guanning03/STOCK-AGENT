@@ -1,0 +1,89 @@
+{
+  "items": [
+    {
+      "id": "a13406fccfd3b446f5521e05a81f641aa493ab35e0b1a8c2ed802b86548344c1",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Unstoppable Stock That Could Join Nvidia, Apple, Microsoft, Amazon, Alphabet, Meta, and Tesla in the $1 Trillion Club",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-14T10:15:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/14/1-stock-nvidia-apple-amazon-meta-tesla-1-trillion/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "META",
+        "TSLA",
+        "ORCL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800665/a-person-looking-at-server-hardware-while-holding-a-laptop-computer.jpg",
+      "description": "Oracle is quickly becoming a leader in artificial intelligence (AI) data center infrastructure, which could catapult the company to a $1 trillion valuation in under a decade. The company's OCI Supercluster technology allows developers to scale up to 65,000 Nvidia GPUs, and it's building new clusters that will support up to 131,000 of Nvidia's latest Blackwell GPUs.",
+      "keywords": [
+        "Oracle",
+        "Nvidia",
+        "AI",
+        "data centers",
+        "trillion-dollar club"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia's GPUs are essential for developing AI, and Oracle's infrastructure is designed to support a large number of Nvidia GPUs, which is seen as a positive for Nvidia's business."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Apple is mentioned as one of the companies that have joined the trillion-dollar club, but the article does not provide any specific insights about Apple's business or stock."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Microsoft is mentioned as one of the companies that have joined the trillion-dollar club, but the article does not provide any specific insights about Microsoft's business or stock."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Amazon is mentioned as one of the companies that have joined the trillion-dollar club, but the article does not provide any specific insights about Amazon's business or stock."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alphabet is mentioned as one of the companies that have joined the trillion-dollar club, but the article does not provide any specific insights about Alphabet's business or stock."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alphabet is mentioned as one of the companies that have joined the trillion-dollar club, but the article does not provide any specific insights about Alphabet's business or stock."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Meta Platforms has developed the world's most popular open-source large language models (LLMs), called Llama, and that the company will shift some of its training workloads to Oracle's infrastructure, which is seen as a positive for Oracle's business."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Tesla is mentioned as one of the companies that have joined the trillion-dollar club, but the article does not provide any specific insights about Tesla's business or stock."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article focuses on Oracle's potential to join the trillion-dollar club, highlighting the company's leadership in AI data center infrastructure and its growing demand for its services. The article suggests that Oracle's stock could double in value if it reaches a $1 trillion valuation."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:23:02.164522+00:00",
+    "cache_key": "news_ef750aadc7ee261d28b6abe48d9a4f6c",
+    "count": 1
+  }
+}

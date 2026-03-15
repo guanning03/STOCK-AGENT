@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "My Top Dividend Stock to Buy in January",
+      "description": "Dividend stocks are a good way for investors to diversify their strategies.",
+      "published_utc": "2026-01-18T15:35:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d0ffdd3bc5abc3c48337c9e51f15265a9ca67137690e345eae5dc53e165ba9d3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138172874,
+      "datetime": 1768768500
+    },
+    {
+      "title": "Netflix, United Airlines, GE Aerospace, Intel, CPE, and More to Watch This Week",
+      "description": "Roughly 30 S&P 500 companies are set to report results this week. Economic data include the personal consumption expenditures price index and a GDP growth estimate.",
+      "published_utc": "2026-01-18T14:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e5ff23849494f838653160ee0a376798fb97a4a116c7210e101de7847dccc92c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138171811,
+      "datetime": 1768762800
+    },
+    {
+      "title": "Trump Speech, Earnings and Other Key Things to Watch this Week",
+      "description": "Markets enter a holiday-shortened week with the Martin Luther King, Jr. Day closure Monday, followed by a convergence of events including President Trump's inauguration speech Wednesday at 8:30am",
+      "published_utc": "2026-01-18T13:00:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=17cb04eb7edb3b59a7a0ef3feb582343c2102c8a5afaa953eea471d86b8afe51",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138172487,
+      "datetime": 1768759202
+    },
+    {
+      "title": "Jim Cramer Says: “J&J Deserves to Be Going Higher, But Not at This Speed, Not at This Pace”",
+      "description": "Johnson & Johnson (NYSE:JNJ) is one of the stocks Jim Cramer shared his thoughts on. Cramer noted how money managers are betting on an economic slowdown and remarked: “So let’s talk about Procter & Gamble and then let’s talk about a pharma company, J&J. Now, here are two companies that have products that you buy, […]",
+      "published_utc": "2026-01-18T12:48:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d13839d597408ca4ffd240ad94ea0e67d5e45b4ce49b5ff808624486a34665a3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138170767,
+      "datetime": 1768758532
+    },
+    {
+      "title": "Jim Cramer on Procter & Gamble: “It’s the Worst Because They’ve Told You the Worst Is Coming”",
+      "description": "The Procter & Gamble Company (NYSE:PG) is one of the stocks Jim Cramer shared his thoughts on. Cramer explained why the stock went up, and he commented: “So let’s talk about Procter & Gamble and then let’s talk about a pharma company, J&J. Now, here are two companies that have products that you buy, no […]",
+      "published_utc": "2026-01-18T12:48:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6fa69a99716017f9a2a60cc2f27cd0644fa73cc418a437be6ff854585620c4c2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138170782,
+      "datetime": 1768758510
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:39:21.305653+00:00",
+    "cache_key": "news_2cfedf86e0eb5be2c41bdab40d9ecfa8",
+    "count": 5
+  }
+}

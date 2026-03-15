@@ -1,0 +1,153 @@
+{
+  "items": [
+    {
+      "id": "605965aa10fb70dcc1af1dbb19342dc3fa73c2c68cb74d324b16e2cf494a5745",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "V DEADLINE: ROSEN, THE FIRST FILING FIRM, Encourages Visa Inc. Investors to Secure Counsel Before Important January 21 Deadline in Securities Class Action First Filed by the Firm – V",
+      "author": "N/A",
+      "published_utc": "2025-01-14T21:32:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/14/3009665/673/en/V-DEADLINE-ROSEN-THE-FIRST-FILING-FIRM-Encourages-Visa-Inc-Investors-to-Secure-Counsel-Before-Important-January-21-Deadline-in-Securities-Class-Action-First-Filed-by-the-Firm-V.html",
+      "tickers": [
+        "V"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092",
+      "description": "Rosen Law Firm is encouraging Visa Inc. investors to secure counsel before the January 21, 2025 deadline in a securities class action lawsuit. The lawsuit alleges that Visa made materially false and/or misleading statements regarding its compliance with federal antitrust laws.",
+      "keywords": [
+        "Visa Inc.",
+        "securities class action",
+        "antitrust laws"
+      ],
+      "insights": [
+        {
+          "ticker": "V",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that Visa is accused of making materially false and/or misleading statements regarding its compliance with federal antitrust laws, which suggests potential legal and regulatory issues for the company."
+        }
+      ]
+    },
+    {
+      "id": "d428c882eb635959739798cc446d490448c74359c2e383d3a9bef8d729be84a1",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "V INVESTOR ALERT: Bronstein, Gewirtz & Grossman LLC Announces that Visa Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit",
+      "author": "Bronstein, Gewirtz & Grossman Llc",
+      "published_utc": "2025-01-14T21:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/14/3009622/9788/en/V-INVESTOR-ALERT-Bronstein-Gewirtz-Grossman-LLC-Announces-that-Visa-Inc-Investors-with-Substantial-Losses-Have-Opportunity-to-Lead-Class-Action-Lawsuit.html",
+      "tickers": [
+        "V"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/1a031130-a9cc-48ff-b281-d1e47c9a91a5",
+      "description": "A class action lawsuit has been filed against Visa Inc. alleging the company made materially false and/or misleading statements and/or failed to disclose that it was not in compliance with federal antitrust laws, resulting in investor losses.",
+      "keywords": [
+        "Visa Inc.",
+        "class action lawsuit",
+        "federal antitrust laws"
+      ],
+      "insights": [
+        {
+          "ticker": "V",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article alleges that Visa made materially false and/or misleading statements and/or failed to disclose that it was not in compliance with federal antitrust laws, resulting in investor losses."
+        }
+      ]
+    },
+    {
+      "id": "d70119ba07728a0f92a066bb9d08a37f6a944f71a68e365e95a7676092980e29",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "This Analyst Prefers Visa Over Mastercard In 2025 - Here's Why",
+      "author": "Lekha Gupta",
+      "published_utc": "2025-01-14T19:05:34Z",
+      "article_url": "https://www.benzinga.com/25/01/42986061/analyst-sees-visa-as-a-safe-bet-in-turbulent-market-upgrades-to-buy",
+      "tickers": [
+        "V",
+        "MA",
+        "IYG",
+        "XLF"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/14/Visa-Mastercard-Shutterstock.jpeg?width=1200&height=800&fit=crop",
+      "description": "Seaport analyst Jeff Cantwell upgraded Visa to Buy, citing strong revenue growth expectations for 2025 and 2026. The analyst prefers Visa over Mastercard due to Visa's larger U.S. exposure and expects double-digit revenue and earnings growth for Visa.",
+      "keywords": [
+        "Visa",
+        "Mastercard",
+        "Seaport",
+        "analyst",
+        "revenue growth",
+        "earnings growth"
+      ],
+      "insights": [
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The analyst upgraded Visa to Buy with a price target of $359, citing strong revenue growth expectations for 2025 and 2026, as well as confidence in Visa's steady earnings growth and potential upside despite a turbulent macro environment."
+        },
+        {
+          "ticker": "MA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The analyst prefers Visa over Mastercard on a relative basis, primarily due to Visa's more significant U.S. exposure."
+        },
+        {
+          "ticker": "IYG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Investors can gain exposure to Visa through this ETF."
+        },
+        {
+          "ticker": "XLF",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Investors can also gain exposure to Visa through this ETF."
+        }
+      ]
+    },
+    {
+      "id": "00cff98fe9b236b4fec5799454df9aa408a40caa3c78d3f2bf98e584c273d05f",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "2 Brilliant Dividend Growth Stocks That Can Supercharge Your Portfolio",
+      "author": "George Budwell",
+      "published_utc": "2025-01-14T13:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/14/2-brilliant-dividend-growth-stocks-that-can-superc/?source=iedfolrf0000001",
+      "tickers": [
+        "V",
+        "ABBV"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803818/getty-dividend-stocks-growing-money-income-cash.jpg",
+      "description": "The article discusses two dividend growth stocks, Visa and AbbVie, highlighting their competitive advantages, growth potential, and dividend policies. Visa is described as a global payments leader with a strong network effect and commitment to dividend growth, while AbbVie is a pharmaceutical company with a diverse portfolio and robust pipeline, offering an attractive dividend yield.",
+      "keywords": [
+        "dividend growth stocks",
+        "Visa",
+        "AbbVie",
+        "competitive advantages",
+        "dividend policy"
+      ],
+      "insights": [
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Visa's dominant position in the digital payments industry, its strong network effects, and its commitment to growing its dividend, making it a compelling investment for long-term wealth creation."
+        },
+        {
+          "ticker": "ABBV",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article praises AbbVie's diverse portfolio of medicines, robust product pipeline, and commitment to rewarding shareholders through an attractive dividend yield and consistent dividend growth, positioning the company for sustained growth."
+        }
+      ]
+    }
+  ]
+}

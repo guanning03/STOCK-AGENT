@@ -1,6 +1,115 @@
 {
   "items": [
     {
+      "id": "f77d7c30047f6b1ceb4987997e103bccf892cb37b9584978184914855aedf56d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Smartest Dividend Stock ETF to Buy With $2,000 Right Now",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-07T13:22:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/07/the-smartest-dividend-stock-etf-to-buy-with-2000-r/?source=iedfolrf0000001",
+      "tickers": [
+        "VIG",
+        "VYM",
+        "AAPL",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "MSFT",
+        "AVGO",
+        "UNH"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803027/stock-trader-2022-a.jpg",
+      "description": "The article discusses the Vanguard Dividend Appreciation ETF (VIG) as a potential long-term investment option for investors who are not relying on their portfolio for immediate income. It highlights the fund's focus on companies with a strong track record of dividend growth, which can provide better total returns over time compared to high-yield dividend ETFs.",
+      "keywords": [
+        "Vanguard Dividend Appreciation ETF",
+        "dividend growth",
+        "total return",
+        "long-term investment"
+      ],
+      "insights": [
+        {
+          "ticker": "VIG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the Vanguard Dividend Appreciation ETF as a potential long-term investment option, focusing on its strategy of investing in companies with a strong track record of dividend growth. This approach is presented as a way to potentially achieve better total returns over time compared to high-yield dividend ETFs."
+        },
+        {
+          "ticker": "VYM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares the performance of the Vanguard Dividend Appreciation ETF to the Vanguard High Dividend Yield ETF, noting that the former has outperformed the latter over the past 10 years. This is presented as an example of how focusing on dividend growth can lead to better long-term returns."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Apple as one of the top holdings of the Vanguard Dividend Appreciation ETF, noting that the company's dividend has increased by 113% over the past decade, indicating its potential for future dividend growth."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as one of the top holdings of the Vanguard Dividend Appreciation ETF, noting that the company's dividend has more than tripled in the past decade, demonstrating its ability to grow its dividend payout over time."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as one of the top holdings of the Vanguard Dividend Appreciation ETF, noting that the company's dividend has more than tripled in the past decade, demonstrating its ability to grow its dividend payout over time."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as one of the top holdings of the Vanguard Dividend Appreciation ETF, noting that the company's dividend has more than tripled in the past decade, demonstrating its ability to grow its dividend payout over time."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as one of the top holdings of the Vanguard Dividend Appreciation ETF, noting that the company's dividend has more than tripled in the past decade, demonstrating its ability to grow its dividend payout over time."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as one of the top holdings of the Vanguard Dividend Appreciation ETF, noting that the company's dividend has more than tripled in the past decade, demonstrating its ability to grow its dividend payout over time."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as one of the top holdings of the Vanguard Dividend Appreciation ETF, noting that the company's dividend has more than tripled in the past decade, demonstrating its ability to grow its dividend payout over time."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as one of the top holdings of the Vanguard Dividend Appreciation ETF, noting that the company's dividend has more than tripled in the past decade, demonstrating its ability to grow its dividend payout over time."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as one of the top holdings of the Vanguard Dividend Appreciation ETF, noting that the company's dividend has more than tripled in the past decade, demonstrating its ability to grow its dividend payout over time."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "While Microsoft is not explicitly mentioned in the article, it is included as one of the top holdings of the Vanguard Dividend Appreciation ETF, suggesting the article views the company's dividend growth potential positively."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Broadcom is not directly discussed in the article, but it is included as one of the top holdings of the Vanguard Dividend Appreciation ETF, indicating the article views the company's dividend growth potential favorably."
+        },
+        {
+          "ticker": "UNH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights UnitedHealth Group as one of the top holdings of the Vanguard Dividend Appreciation ETF, noting that the company's dividend payout has increased more than fivefold over the past decade, suggesting the article views the company's dividend growth potential positively."
+        }
+      ]
+    },
+    {
       "title": "UnitedHealth Group (UNH) Rises But Trails Market: What Investors Should Know",
       "description": "UnitedHealth Group (UNH) closed the most recent trading day at $513.67, moving +0.13% from the previous trading session.",
       "published_utc": "2025-01-07T06:50:19",

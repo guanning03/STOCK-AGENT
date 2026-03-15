@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Prediction: This AI Stock Could Be the Next $4 Trillion Company in 2026",
+      "description": "Don't count out the reemerging search and artificial intelligence (AI) giant.",
+      "published_utc": "2025-12-17T17:50:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8342c465a25ad630ad7883b14337e96ae22de6e1ad1a66cf37ff6dadb167e3ef",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137816595,
+      "datetime": 1766011800
+    },
+    {
+      "title": "Elon Musk is worth a record $648 billion — and his wealth gain this year exceeds Bernard Arnault's entire fortune",
+      "description": "Elon Musk has grown $216 billion richer this year, thanks to Tesla stock hitting an all-time high and SpaceX doubling in value since the summer.",
+      "published_utc": "2025-12-17T17:30:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a36ba7b6fb438ca4d0afcd9f36b058559f4986d4f3fa661e9f6b16757912197c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137816622,
+      "datetime": 1766010617
+    },
+    {
+      "title": "OpenAI Eyes Up To $100 Billion Fundraise At $750 Billion Valuation As ChatGPT Maker Lays Groundwork For Potential $1 Trillion IPO: Report",
+      "description": "OpenAI is in early talks to raise up to $100 billion at a $750 billion valuation, while also preparing for a potential $1 trillion IPO and exploring strategic investments with Amazon.",
+      "published_utc": "2025-12-17T17:01:23",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=1424d60551b54eb9516adb6efa235b214fa3c5a541c3a64792f511e6f417aab1",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/12/17/Pune--India---February-19--2024--Chatgpt.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138610793,
+      "datetime": 1766008883
+    },
+    {
+      "title": "Salesforce and Other AI Stocks That Can Catch Up to the Pack",
+      "description": "Nvidia Microsoft  and other prominent artificial-intelligence stocks are seeing bouts of selling.  Wall Street has grown wary that software and internet companies will slow down the pace of their investments in data centers, dragging down chip stocks.  The worry there is that returns on their massive AI investments might disappoint the market’s expectations.",
+      "published_utc": "2025-12-17T16:46:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2d54f2ed796fe6c87583e4aa5d01f4f889712203adf754874f078b7a54b89318",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137816623,
+      "datetime": 1766007960
+    },
+    {
+      "title": "US Equity Indexes Slump as Oracle's Sell-Off Knocks Out Technology",
+      "description": "US equity indexes dropped on Wednesday as a sharp decline in technology and communication services h",
+      "published_utc": "2025-12-17T16:45:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a4ef1d9471763134de4c377fcfc22f9bb74339662bb8badf2f62f4ec0f095828",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137816624,
+      "datetime": 1766007926
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "DIA Skips the S&P 500 Noise and Delivers Monthly Checks to Retirees Instead",
+      "description": "Monthly dividend checks. A portfolio anchored in Goldman Sachs, Caterpillar, and Microsoft. An expense ratio so low it barely registers. For retirees navigating a market where the VIX has climbed nearly 30% in a single month and consumer sentiment sits at a recessionary 56.4, the case for owning the Dow Jones Industrial Average through SPDR ... DIA Skips the S&P 500 Noise and Delivers Monthly Checks to Retirees Instead",
+      "published_utc": "2026-03-08T08:02:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3c19db00e6712841550cf891e7059ae9d9dd6a19454e427608a335efe0524862",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139341953,
+      "datetime": 1772971320
+    },
+    {
+      "title": "Caterpillar Showcases AI Jobsite Tech As Valuation Tracks Autonomous Future",
+      "description": "Caterpillar (NYSE:CAT) is set to use CONEXPO-CON/AGG 2026 as a major showcase for AI-driven jobsite technology and concept vehicles. The company plans to highlight autonomous equipment, integrated fleet management tools, and AI-powered command centers at the event. Caterpillar will also present advanced safety features and upgraded digital rental and service platforms for customers. Caterpillar, a heavyweight in construction and mining equipment, is using CONEXPO-CON/AGG 2026 to spotlight...",
+      "published_utc": "2026-03-08T03:06:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7ed2a8027abd04b2cd58f7a08ac6910b0d96b2c7aedd3392b69a946477b68e2a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139340990,
+      "datetime": 1772953587
+    }
+  ]
+}

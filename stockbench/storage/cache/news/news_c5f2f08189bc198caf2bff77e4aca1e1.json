@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "id": "6b05c14b1ead2393a440a1a3d2ed834ee667477281e38178c75c89bba88466f0",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Best Stock to Buy Right Now: Home Depot vs. Lowe's",
+      "author": "Leo Sun",
+      "published_utc": "2024-12-16T09:55:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/16/best-stock-to-buy-right-now-home-depot-vs-lowes/?source=iedfolrf0000001",
+      "tickers": [
+        "HD",
+        "LOW"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800945/man-shopping-for-home-improvement-products.jpg",
+      "description": "Home Depot and Lowe's, the two largest home improvement retailers in America, have seen their stocks slump in recent years due to macroeconomic pressures. However, Home Depot is expected to outperform Lowe's in the long run, with stronger growth, better pricing power, and a higher dividend yield.",
+      "keywords": [
+        "Home Depot",
+        "Lowe's",
+        "home improvement",
+        "housing market",
+        "macroeconomic environment"
+      ],
+      "insights": [
+        {
+          "ticker": "HD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Home Depot is expected to outperform Lowe's in the long run, with stronger growth, better pricing power, and a higher dividend yield."
+        },
+        {
+          "ticker": "LOW",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Lowe's is expected to have slower growth and a lower dividend yield compared to Home Depot, but it still has a comparable pricing power."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:29:10.342489+00:00",
+    "cache_key": "news_c5f2f08189bc198caf2bff77e4aca1e1",
+    "count": 1
+  }
+}

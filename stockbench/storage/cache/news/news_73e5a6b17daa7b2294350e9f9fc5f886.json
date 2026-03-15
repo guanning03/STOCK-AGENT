@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Restaurants' hottest menu item in 2025 was 'value.' That won't change next year",
+      "description": "Restaurant chains bet on value in 2025, and they're not likely to ditch the strategy next year.",
+      "published_utc": "2025-12-28T03:00:01",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=a076b83af5fc4351599901bc2c4bc77c69fb10257504c57cdd2e5ac81363a290",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108220222-17619389362025-10-31t192644z_245781534_rc24nhamxtz8_rtrmadp_0_mcdonalds-results.jpeg?v=1766161382&w=1920&h=1080",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137923571,
+      "datetime": 1766908801
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T09:14:47.093032+00:00",
+    "cache_key": "news_73e5a6b17daa7b2294350e9f9fc5f886",
+    "count": 1
+  }
+}

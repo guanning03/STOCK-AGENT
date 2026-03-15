@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Global Oil Supply Crippled As Gulf Attacks, Hormuz Blockade Send Prices Surging",
+      "description": "Crude oil prices surged 35% amid attacks on Gulf energy infrastructure and the near shutdown of tanker traffic through the Strait of Hormuz.",
+      "published_utc": "2026-03-07T18:58:10",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=75f42786251294685a45f72cf289d36b9c8ae94b1f39064089c972c2ff8a385f",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/03/07/Oil-Refinery-Industry-Plant-Silhouette-W.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139342630,
+      "datetime": 1772927890
+    },
+    {
+      "title": "How The GeoPark (NYSE:GPRK) Investment Story Is Shifting With New Targets And Takeover Tensions",
+      "description": "GeoPark’s updated fair value estimate has moved slightly, with the price target adjusted from US$11.32 per share to US$11.40 per share. JPMorgan’s revised US$10.50 price target sits below that figure, and recent commentary shows analysts balancing confidence in execution with concerns about valuation risk. As you read on, you will see how these views fit together and what they could mean for how you track GeoPark’s evolving story. Analyst Price Targets don't always capture the full story...",
+      "published_utc": "2026-03-07T15:07:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6904bda57ca62e97d571f7ddb5ea33a882b96b7a45c322fac9c57d45b84924ab",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139337599,
+      "datetime": 1772914058
+    },
+    {
+      "title": "How The Weir Group (LSE:WEIR) Investment Story Is Shifting With New Analyst Valuations",
+      "description": "Weir Group’s updated analyst narrative now centres on a refreshed fair value estimate, with the modelled central price target moving from £32.96 to £33.89. Around that, published targets have been clustered in a broad £3,140 to £3,800 range, with bullish voices highlighting figures around £3,700 to £3,800 and others sitting closer to the updated blended target of £3,388. As you read on, you will see what is driving these different views and how you can keep track of the story as it...",
+      "published_utc": "2026-03-07T13:05:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a981a43ca45d63f9b191590d4edb0abfb1ba0fb662e7dd15776e470ec8e3d8c1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139336407,
+      "datetime": 1772906736
+    },
+    {
+      "title": "Kuwait cuts oil production as Strait of Hormuz closure disrupts global energy market",
+      "description": "Brent oil prices could spike above $100 per barrel if the Gulf Arab countries run out of storage  space and shut down production, according to JPMorgan.",
+      "published_utc": "2026-03-07T07:28:01",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=6e96a327f4460e28d766f8acbca78416c55f76dcb1a55676ea0ad4a011ee7c46",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108272681-17725447292026-03-02t161444z_845839422_rc2fwja1f1uu_rtrmadp_0_iran-crisis-usa-economy.jpeg?v=1772544747&w=1920&h=1080",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139334892,
+      "datetime": 1772886481
+    },
+    {
+      "title": "The Government and the Private Sector Can’t Agree on Jobs. The Fed Has to Pick a Side",
+      "description": "The Bureau of Labor Statistics overcounted employment by 911,000 jobs for the 12-month period ending in March 2025.",
+      "published_utc": "2026-03-07T01:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b251284cb9a322eb80e09c828ecc551ed548a9b265d21aa7bc8faaa1533bddbf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139331138,
+      "datetime": 1772865000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T04:09:24.177683+00:00",
+    "cache_key": "news_89dba3258e1da78a7d3d7e59d005dbae",
+    "count": 5
+  }
+}

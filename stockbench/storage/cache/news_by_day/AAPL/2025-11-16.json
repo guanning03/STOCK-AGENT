@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Apple Hits $4T: Is the Tech Giant Still a Buy After Slowing Growth?",
+      "description": "Apple nears $4T market cap, but faces slowing growth as Nvidia tops $4.6T. Analysts remain bullish despite iPhone reliance and revenue headwinds.",
+      "published_utc": "2025-11-16T18:14:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=31ec776c4f60020c3769acb72d2b13d25a68f99a95f6174adbbcb5e18a7990f2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137501880,
+      "datetime": 1763334848
+    },
+    {
+      "title": "Are we nearing the end of Apple’s Tim Cook era?",
+      "description": "Apple is getting serious about succession planning, according to a new report.",
+      "published_utc": "2025-11-16T14:35:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=38e95a9ee7c90a14ed85fe336ac0037a7599c15313a72765830d5563af93bdfb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137501898,
+      "datetime": 1763321755
+    },
+    {
+      "title": "Wall Street Brunch: Nvidia Week",
+      "description": "Will the marketâs most important company shine or disappoint? Disney back on YouTube. Apple prepares iPhone overhaul.",
+      "published_utc": "2025-11-16T13:08:54",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=db022a404f436d07aae0372ccd7f5fab75c0bda7653dce19da5bc4d612a3ad95",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1141488983/image_1141488983.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137499569,
+      "datetime": 1763316534
+    },
+    {
+      "title": "Stocks waver to start the week; Alphabet rises on Berkshire stake: Live updates",
+      "description": "The moves followed a choppy week in which valuation fears, a rotation within the market and a recalibration of Fed rate cut expectations pressured the AI trade.",
+      "published_utc": "2025-11-16T13:03:02",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=e50d182508f6a57f1edaf86774c2b39a8f013eb0b2ad028986cdfa17dcbad84a",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108226830-1763392835659-gettyimages-2247137978-mms16712_47skvqbr.jpeg?v=1763392911&w=1920&h=1080",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137505320,
+      "datetime": 1763316182
+    },
+    {
+      "title": "Consumer Tech News (Nov 10-14): China Lifts Rare Earth Export Ban to U.S., Microsoft and Google Invest Billions in AI Data Centers & More",
+      "description": "China ends year-long gallium, germanium, and antimony export ban to the U.S., following the high-profile Trump-Xi meeting and trade negotiations. Microsoft invests $10B in AI data centers in Portugal and Atlanta; Alphabet allocates $6.4B for German infrastructure expansion.",
+      "published_utc": "2025-11-16T11:57:09",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=a8c26cbb2b4d683f847826b5faeaeb9d77996572ff6a6e4886318a3022c5439a",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/16/U-S---China-settle-rare-earths.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138451982,
+      "datetime": 1763312229
+    }
+  ]
+}

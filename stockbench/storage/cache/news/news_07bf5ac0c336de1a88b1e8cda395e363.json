@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The 1-Minute Market Report October 26, 2025",
+      "description": "S&P 500 hits record highs; tech leads rally amid optimism for lower rates.",
+      "published_utc": "2025-10-25T18:55:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ab6b678b4a73dfca88132417af6f8ec70a4a24a788ff9af4f841a477128a5373",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213764535/image_1213764535.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137209333,
+      "datetime": 1761432900
+    },
+    {
+      "title": "The Fed Faces A Lose-Lose Situation After September's CPI Report",
+      "description": "Markets reacted positively to September's CPI report, but rate cut drivers signal Fed challenges ahead. Find out why this matters for future market moves.",
+      "published_utc": "2025-10-25T05:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1daf8e710defcd90a6bc1535cb56812814adde1611c0720ac74e4e285d118f46",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2193127295/image_2193127295.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137206832,
+      "datetime": 1761382800
+    },
+    {
+      "title": "What Will Markets Do After Near-Likely FOMC Rate Cut",
+      "description": "The Fedâs 25 bps rate cut boosts market optimism as inflation eases and AI-driven spending supports growth. Find out why another cut could extend the stock rally.",
+      "published_utc": "2025-10-25T05:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9d6ba98c2a76191bd1a8476e5e0fe2c9c7bce8b5bcaa0d054e22f4c65a00f5f2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1252959500/image_1252959500.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137206831,
+      "datetime": 1761382800
+    },
+    {
+      "title": "The Utterly Tranquil Feeling Of Watching Your Passive Income Grow",
+      "description": "Dividend investing in healthcare, REITs, and energy sectors offers steady income, growth, and peace of mind. Learn why dividend investing builds long-term wealth.",
+      "published_utc": "2025-10-25T04:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e215b5c53acd43b2883f18a7a63de6218f40a6f0b8506efc901acd69aa151d66",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1058604462/image_1058604462.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137206665,
+      "datetime": 1761380100
+    },
+    {
+      "title": "Weekly Commentary: Foreshocks",
+      "description": "Fridayâs slightly better-than-forecast CPI report (up 3.0% y-o-y) notwithstanding, elevated inflation risks live on.",
+      "published_utc": "2025-10-25T03:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1bffec8417d26add504f8f51ac453bfa9c74e4add754172ecdd29eb4b6c3ab60",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2202074112/image_2202074112.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137206420,
+      "datetime": 1761375900
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:55:50.605003+00:00",
+    "cache_key": "news_07bf5ac0c336de1a88b1e8cda395e363",
+    "count": 5
+  }
+}

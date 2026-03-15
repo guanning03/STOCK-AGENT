@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "id": "4581b78720cca89e2cc144d3f1061cdd109f532c43cd9f834251bc2ff863de86",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "What's Wrong With UiPath's Stock?",
+      "author": "David Jagielski",
+      "published_utc": "2025-01-08T11:53:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/08/whats-wrong-with-uipaths-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "PATH",
+        "MSFT",
+        "CRM",
+        "IT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802836/concerned-person-looking-at-a-tablet.jpg",
+      "description": "UiPath, a company focused on automating tasks, has been underperforming despite the growing demand for AI-related solutions. The company's growth rate has been slowing, and it lacks profitability, making it difficult to compete against larger tech giants like Microsoft and Salesforce, which are also investing heavily in AI.",
+      "keywords": [
+        "UiPath",
+        "AI",
+        "automation",
+        "Microsoft",
+        "Salesforce",
+        "Gartner"
+      ],
+      "insights": [
+        {
+          "ticker": "PATH",
+          "sentiment": "negative",
+          "sentiment_reasoning": "UiPath's stock has underperformed, with a 49% drop last year and a 62% decline over the past three years. The company's growth rate has been slowing, and it is struggling to turn a profit, making it difficult to compete against larger tech companies with more resources."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Microsoft's Copilot offers automation features that may compete with UiPath's solutions, potentially reducing the demand for UiPath's products."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Salesforce is also investing heavily in AI agents, which could overlap with UiPath's offerings and make it harder for UiPath to differentiate itself."
+        },
+        {
+          "ticker": "IT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Gartner has raised concerns that up to 30% of generative AI projects may be abandoned this year, which could make it more difficult for UiPath to attract new customers."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:28:54.508377+00:00",
+    "cache_key": "news_d175c94f591face1b8a654f52fe0a1d8",
+    "count": 1
+  }
+}

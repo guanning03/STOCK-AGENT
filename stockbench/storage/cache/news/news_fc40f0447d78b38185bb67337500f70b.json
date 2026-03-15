@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "President Trump Says We Will Bring India Tariffs Down At Some Point",
+      "description": "https://www.youtube.com/watch?v=gd4xJwjyW6w",
+      "published_utc": "2025-11-10T11:56:14",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=9841ce3e9b541c24a0e0e7c906f0af3e2972c2d8ea69d79040aeee0d1d335849",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138598453,
+      "datetime": 1762793774
+    },
+    {
+      "title": "President Trump Participates In A Swearing-In Ceremony For The Ambassador To The Republic Of India; Says We're Making A Deal With India, Different To One We Had In The Past; We Are Getting Close",
+      "description": "https://www.youtube.com/watch?v=gd4xJwjyW6w",
+      "published_utc": "2025-11-10T11:47:03",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=8beb308ac99b2418021d6ba7a53cdd9ae4241374505dd57f99b30fdb1c6ca76f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138598454,
+      "datetime": 1762793223
+    },
+    {
+      "title": "3 Stocks Showing Relative Strength as Markets Pull Back",
+      "description": "As the market shows early signs of exhaustion, three names in particular stand out for their impressive relative strength: BE, STX, and GOOGL.",
+      "published_utc": "2025-11-10T11:41:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3b6bf3298155dca26de2145dc5ba3c31414ee3d8145f5799005dae5d0603cea4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137448641,
+      "datetime": 1762792860
+    },
+    {
+      "title": "5 Defensive Consumer Plays to Watch If Markets Keep Slipping",
+      "description": "Last week, the market showed its first meaningful signs of weakness since May, with SPY breaking its 50-day SMA and several tech leaders selling off sharply.",
+      "published_utc": "2025-11-10T11:22:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f08ef473d57c1cd4e19937e5614d8d66bd4ef89aa8e3a833bcd52aaddf1c6238",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137448720,
+      "datetime": 1762791720
+    },
+    {
+      "title": "Why The End Of The U.S. Shutdown Sparks A Huge Rally In Stocks",
+      "description": "The US Congress has officially voted to reopen the federal government, providing an immediate positive catalyst for equities that is erasing the market blues of the past week. Read more here",
+      "published_utc": "2025-11-10T11:10:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d21f7cbc6c4949a43f276d0b2f4539276b9ccfa39e6e3e3667ebed5e26b3575b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/822706636/image_822706636.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137405612,
+      "datetime": 1762791000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:50:51.832244+00:00",
+    "cache_key": "news_fc40f0447d78b38185bb67337500f70b",
+    "count": 5
+  }
+}

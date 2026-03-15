@@ -1,0 +1,190 @@
+{
+  "items": [
+    {
+      "id": "8c0d3acfa8bfeee1a2ec2949d9f46cad780408862bbab73963a6b85397b9df88",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "7 Dow Jones Dividend Stocks that Underperformed the S&P 500 This Year but Are Buys for 2025",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-24T14:53:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/24/7-dow-jones-dividend-stocks-buy-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "V",
+        "MSFT",
+        "PG",
+        "KO",
+        "MCD",
+        "CVX",
+        "NKE"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801884/gettyimages-1349931690-1200x800-5b2df79.jpg",
+      "description": "The article discusses 7 Dow Jones stocks that underperformed the S&P 500 in 2024 but are considered good buys for 2025. These stocks include Visa, Microsoft, Procter & Gamble, Coca-Cola, McDonald's, Chevron, and Nike.",
+      "keywords": [
+        "Dow Jones",
+        "S&P 500",
+        "dividend stocks",
+        "underperformance",
+        "2025 buys"
+      ],
+      "insights": [
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Visa's excellent business model, ultra-high operating margins, and long-term outperformance of the S&P 500, making it a reasonable value even at an all-time high."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes Microsoft's balanced approach, strong financials, and potential for accelerated growth in the new year, making it a well-worth-its-premium-valuation stock."
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article describes Procter & Gamble as a Dividend King that can perform well during economic downturns, making it an excellent buy for risk-averse investors."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Coca-Cola as a Dividend King that can perform well during economic downturns, making it an excellent buy for risk-averse investors."
+        },
+        {
+          "ticker": "MCD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that McDonald's is on track to become a Dividend King by 2026, and its franchise model helps reduce costs and volatility, making it a good long-term buy."
+        },
+        {
+          "ticker": "CVX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article describes Chevron as an integrated oil and gas major with an excellent balance sheet, low cost of production, and a growing low-carbon business, making it a reasonable buy."
+        },
+        {
+          "ticker": "NKE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article acknowledges that Nike is an underrated dividend stock, but its business is slowing down and it needs a turnaround, which could take time, so the stock is a specific case that may be a bargain at current levels."
+        }
+      ]
+    },
+    {
+      "id": "0bda55568359570f47c6452a50fbcb8d149e28cf9787d33be7152aac909aa2ad",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Unstoppable Vanguard ETF to Buy Hand Over Fist Right Now",
+      "author": "George Budwell",
+      "published_utc": "2024-12-24T11:15:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/24/1-unstoppable-vanguard-etf-to-buy-hand-over-fist-r/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "NVDA",
+        "MSFT",
+        "AVGO",
+        "CRM",
+        "VGT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801973/getty-etf-invest.jpg",
+      "description": "The Vanguard Information Technology Index Fund provides broad exposure to technology companies, including leaders in AI development and deployment. The fund has delivered strong returns, outperforming the S&P 500, and offers a cost-effective way for investors to participate in the AI-driven transformation of the global economy.",
+      "keywords": [
+        "Vanguard Information Technology Index Fund",
+        "AI",
+        "technology",
+        "investment"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple is a top holding in the Vanguard Information Technology Index Fund, representing 16.2% of the portfolio. As a technology leader, Apple is at the forefront of AI development and deployment, which aligns with the fund's focus on capturing the growth potential of AI-driven companies."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia is another top holding in the fund, accounting for 15.4% of the portfolio. Nvidia is a dominant player in AI computing infrastructure, making it a key beneficiary of the AI revolution."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft, which holds a 13% stake in the fund, is also a leader in AI integration across its cloud services and software suite, further strengthening the fund's exposure to the AI value chain."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Broadcom, a semiconductor industry leader, is included in the fund's top holdings, providing additional exposure to the technology sector and its AI-related developments."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce, a prominent enterprise software company, is also represented in the fund, reflecting its role in AI-driven innovation within the technology industry."
+        },
+        {
+          "ticker": "VGT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Vanguard Information Technology Index Fund is the focus of the article, which highlights its strong performance, cost-effectiveness, and ability to provide investors with broad exposure to the AI-driven transformation of the global economy."
+        }
+      ]
+    },
+    {
+      "id": "15f907251e9027246f3563f8ec91d2f43a01a6e98e07acdffb713030d4bff1c0",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is SoundHound AI a Millionaire-Maker Stock?",
+      "author": "Will Ebiefung",
+      "published_utc": "2024-12-24T11:15:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/24/is-soundhound-ai-a-millionaire-maker-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "SOUN",
+        "SOUNW",
+        "MSFT",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801869/gettyimages-1345658982.jpg",
+      "description": "SoundHound AI, a financial services company, has seen its stock price soar this year, with a $10,000 investment at the start of 2024 now worth $97,300. However, the article cautions that the company's high valuation and relentless cash burn may make it a risky investment, despite its potential in the generative AI market.",
+      "keywords": [
+        "SoundHound AI",
+        "AI",
+        "voice recognition",
+        "ChatGPT",
+        "Microsoft",
+        "Apple",
+        "Siri"
+      ],
+      "insights": [
+        {
+          "ticker": "SOUN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a balanced view on SoundHound AI, highlighting both the company's potential in the generative AI market and the challenges it faces, such as high valuation, cash burn, and competition from larger players like Microsoft."
+        },
+        {
+          "ticker": "SOUNW",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a balanced view on SoundHound AI, highlighting both the company's potential in the generative AI market and the challenges it faces, such as high valuation, cash burn, and competition from larger players like Microsoft."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that Microsoft, with its partial ownership of OpenAI and integration of its existing voice recognition technology, could pose a significant threat to SoundHound AI's competitive position."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Apple's Siri as an example of existing voice recognition technology, but does not provide any specific commentary on Apple's potential impact on SoundHound AI."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:51:58.298699+00:00",
+    "cache_key": "news_2f62d2553785aaafdda8cdb0db4a2f67",
+    "count": 3
+  }
+}

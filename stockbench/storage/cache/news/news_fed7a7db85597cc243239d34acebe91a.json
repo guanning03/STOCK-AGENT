@@ -1,0 +1,73 @@
+{
+  "items": [
+    {
+      "id": "7c9c4efef467b12688924c83c013622e02da9f295435982ea58c7f51cc86d274",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "These Were the 5 Worst-Performing Stocks in the Dow Jones Industrial Average in 2024",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-25T11:17:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/25/these-were-the-5-worst-performing-stocks-in-the-do/?source=iedfolrf0000001",
+      "tickers": [
+        "JNJ",
+        "MRK",
+        "AMGN",
+        "NKE",
+        "BA",
+        "BApA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802484/person-looking-at-phone-upset.jpg",
+      "description": "The Dow Jones Industrial Average gained 14% in 2024, but five stocks - Johnson & Johnson, Merck, Amgen, Nike, and Boeing - were the worst performers, all losing value over the year. The reasons for their underperformance vary, from pandemic-related issues to market share declines and CEO changes.",
+      "keywords": [
+        "Dow Jones Industrial Average",
+        "worst-performing stocks",
+        "Johnson & Johnson",
+        "Merck",
+        "Amgen",
+        "Nike",
+        "Boeing"
+      ],
+      "insights": [
+        {
+          "ticker": "JNJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Johnson & Johnson is a healthcare stock that often moves based on news about drug performance and new products. It pays dividends and is a dividend king, making it a reliable passive income option."
+        },
+        {
+          "ticker": "MRK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Merck is a healthcare stock that often moves based on news about drug performance and new products. It pays dividends, making it a reliable passive income option."
+        },
+        {
+          "ticker": "AMGN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Amgen is a healthcare stock that often moves based on news about drug performance and new products. It pays dividends, making it a reliable passive income option."
+        },
+        {
+          "ticker": "NKE",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Nike has let competitors cut into its market share and has seen its sales decline. It also just got a new CEO, and the market is waiting for another update."
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Boeing has had many problems, starting with the more general pandemic-related issues like low demand and inflation, and there were major safety concerns last year. It culminated in a new CEO, and investors are waiting to see what's in store this year."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Boeing has had many problems, starting with the more general pandemic-related issues like low demand and inflation, and there were major safety concerns last year. It culminated in a new CEO, and investors are waiting to see what's in store this year."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:14:24.155031+00:00",
+    "cache_key": "news_fed7a7db85597cc243239d34acebe91a",
+    "count": 1
+  }
+}

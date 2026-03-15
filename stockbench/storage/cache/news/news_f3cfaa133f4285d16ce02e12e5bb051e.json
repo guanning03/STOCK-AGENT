@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "LinkedIn deepens video ad push, taps more publishers and creators to spur growth",
+      "description": "(Reuters) -LinkedIn is expanding its video advertising program, adding new publishers and creator-led shows to draw marketing dollars.  The Microsoft-owned platform for professionals said on Monday that AT&T Business, IBM, SAP and ServiceNow will sponsor the debut season of four video programs as part of an expansion of its BrandLink program.  Launched last year as a publisher-focused Wire Program, LinkedIn rebranded it in May to include creators.",
+      "published_utc": "2025-08-25T18:02:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ccec957ccccf4157a1206d6290de770cc720c74a0a36207b200a99fff8cac653",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136523783,
+      "datetime": 1756159335
+    },
+    {
+      "title": "Elon Musk's xAI Rolls Out 'Macrohard' To Challenge Microsoft",
+      "description": "Filing hints at tongue-in-cheek idea that could turn serious",
+      "published_utc": "2025-08-25T17:36:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6ec2c28ec297ee99ae110e4eae2104b8461e398ed407bcbf5d07046d98d6b2ef",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136523784,
+      "datetime": 1756157767
+    },
+    {
+      "title": "AI Stock Averaging 185% Growth Joins Nvidia, Google On Elite List — And Pops Into Buy Range",
+      "description": "Joining Nvidia and Palantir on the latest list of new buys by top funds, AppLovin stock rides AI-fueled breakout.",
+      "published_utc": "2025-08-25T16:00:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6fe6e33e1dec371640197aac1cb7e041fbd1ce3d3aa3b249fdfa50dcca652291",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136522228,
+      "datetime": 1756152020
+    },
+    {
+      "title": "Sector Update: Tech Stocks Mixed in Late Afternoon Trading",
+      "description": "Tech stocks were mixed late Monday afternoon, with the Technology Select Sector SPDR Fund (XLK) frac",
+      "published_utc": "2025-08-25T15:52:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2c0bfc5d0dd6af1cab926d1fd2505d8d19703009bdda35aef17ff2936d1bda65",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136522229,
+      "datetime": 1756151544
+    },
+    {
+      "title": "US Equity Indexes Mixed Amid Higher Treasury Yields, Dollar",
+      "description": "US equity indexes traded mixed heading into the close on Monday amid gains in both government bond y",
+      "published_utc": "2025-08-25T15:52:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c702f097666c85b6e3990aac44ae65118eeb133cd08498eefa5f99174f46f849",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136522230,
+      "datetime": 1756151528
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:43:51.816464+00:00",
+    "cache_key": "news_f3cfaa133f4285d16ce02e12e5bb051e",
+    "count": 5
+  }
+}

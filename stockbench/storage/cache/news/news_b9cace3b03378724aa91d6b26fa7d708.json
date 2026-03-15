@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "title": "Father, Son Duo Behind Bondi Beach Shooting In Sydney, Trump Calls It Obvious 'Antisemitic Attack,' Bill Ackman Praises 'Hero Who Saved Lives'",
+      "description": "Global leaders including Donald Trump, Barack Obama, Joe Biden, Narendra Modi and Canada&#39;s prime minister condemned a targeted antisemitic Hanukkah shooting at Sydney&#39;s Bondi Beach that killed 16 people, while also praising a bystander whose bravery helped stop the attack and expressing solidarity with Jewish communities worldwide.",
+      "published_utc": "2025-12-14T17:04:28",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=e44cceb77e4cee46ee60c7343e1715e2d7b5b15f889ba5e559c57c2b6de8de46",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/12/14/Bangkok--Thailand---February-7--2021-Aus.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138644271,
+      "datetime": 1765749868
+    },
+    {
+      "id": "78c34890f484be6c57a17bb45c4a632f16bdd81484b749b182b9622134f9b9dc",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Tableau Services Market Set for Strong Growth to USD 6.86 Billion by 2033, Driven by Rising Demand for Real-Time Analytics and Data-Driven Decisions | Report by SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-12-14T15:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/12/14/3205044/0/en/Tableau-Services-Market-Set-for-Strong-Growth-to-USD-6-86-Billion-by-2033-Driven-by-Rising-Demand-for-Real-Time-Analytics-and-Data-Driven-Decisions-Report-by-SNS-Insider.html",
+      "tickers": [
+        "ACN",
+        "CRM",
+        "WIT"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The global Tableau Services Market is projected to grow from USD 2.68 billion in 2025 to USD 6.86 billion by 2033, driven by increasing demand for real-time analytics, AI-powered insights, and cloud-based business intelligence solutions.",
+      "keywords": [
+        "Tableau Services",
+        "Data Analytics",
+        "Business Intelligence",
+        "Cloud Computing",
+        "AI Insights"
+      ],
+      "insights": [
+        {
+          "ticker": "ACN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Listed as a key player in Tableau Services market with potential for growth in data analytics and consulting services"
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Included among key players in the data visualization and analytics market"
+        },
+        {
+          "ticker": "WIT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Highlighted for successful migration of a global pharmaceutical client's BI system, demonstrating technological capability"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:34:14.752756+00:00",
+    "cache_key": "news_b9cace3b03378724aa91d6b26fa7d708",
+    "count": 2
+  }
+}

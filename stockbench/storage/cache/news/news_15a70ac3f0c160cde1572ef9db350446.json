@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Nvidia earnings, Trump tariff updates, and the Fed's preferred inflation gauge: What to know this week",
+      "description": "A quarterly earnings release from Nvidia is set to greet investors in the week ahead as the stock market rally has hit pause.",
+      "published_utc": "2025-05-25T07:32:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7d2b75c795b18ff2832b7eb135e26b37fa4bb832e70406dd701881b96ad04a84",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134694189,
+      "datetime": 1748172741
+    },
+    {
+      "title": "A Bear Steepener For The Ages May Take 10-Year Rates To Levels Not Seen In Decades",
+      "description": "",
+      "published_utc": "2025-05-25T06:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=642bdb5ef66684b67a5cc38b72cf309815d9b0a4e6f4902fad61dd4f5c61f812",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134693538,
+      "datetime": 1748167200
+    },
+    {
+      "title": "Bad News For The Market, Good News For Income Investors",
+      "description": "The market is uncertain, with neither stocks nor bonds offering safety, but opportunity remains. Learn how income investors can benefit from quasi-equity picks.",
+      "published_utc": "2025-05-25T05:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c6dd034ef1c5401693c5b8adbc6573103a943b0355e4ad19d453077b2889592a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1383032509/image_1383032509.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134693343,
+      "datetime": 1748164500
+    },
+    {
+      "title": "Retire On Dividends With This 7%-Yielding Low-Stress Portfolio",
+      "description": "Retiring on dividend cash flow offers steady income and growth to combat inflation and volatility. Read key strategies and see a ~7% yield model portfolio.",
+      "published_utc": "2025-05-25T03:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0b7d0d16918c4709e9122f5ce858cb8afb86cd3e3ca1d1bde4fe5ee7e3b30822",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1277179014/image_1277179014.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134692859,
+      "datetime": 1748156700
+    },
+    {
+      "title": "An Unstoppable Bull Market?",
+      "description": "Hedge Fund shorts as a percentage of total open interest reached 41% â the max dating back to February of 2021. Read more here.",
+      "published_utc": "2025-05-25T01:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=05cee05a96dbfda9b1727b6372f3a7d1b1a6459d0460eb220c487e8479e82c28",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2173658612/image_2173658612.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134692394,
+      "datetime": 1748149200
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T00:02:22.501272+00:00",
+    "cache_key": "news_15a70ac3f0c160cde1572ef9db350446",
+    "count": 5
+  }
+}

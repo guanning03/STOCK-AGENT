@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Fed Holds Steady And Signals Longer-Term Easing Bias",
+      "description": "",
+      "published_utc": "2026-01-28T17:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d8c6e424c88f82a08e88a951fbfede37462758e2cc1d57d8893372c2a7bde26a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138291455,
+      "datetime": 1769639700
+    },
+    {
+      "title": "Fed Holds Rates Steady At The Top Of The Neutral Range",
+      "description": "",
+      "published_utc": "2026-01-28T13:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=542a2aec86868a6c654e94909e6470d262cbfde75e4b1fa47edd3d0c890e1ad6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138290057,
+      "datetime": 1769625900
+    },
+    {
+      "title": "Fed Watch: Can I Place You On Hold?",
+      "description": "At the January 2026 Fed meeting, the FOMC paused rate cuts after a 75bp reduction in late 2025, signaling a possible shift from easing to a neutral policy stance.",
+      "published_utc": "2026-01-28T13:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6c1b2f2acf1503bbb8cc4ff84ca2b6395d14f8040a8a6f94e2f26fd0381513d6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2175876380/image_2175876380.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138289981,
+      "datetime": 1769625000
+    },
+    {
+      "title": "'U.S. Lawmaker Says In Letter NVIDIA Technical Staff Helped DeepSeek Hone AI Models On H800 Chips' - Reuters Exclusive",
+      "description": "DeepSeek&#39;s AI models rival US offerings with less computing powerLetter says Nvidia provided technical assistance to DeepSeek, boosting training efficiencyUS concerns over Nvidia chips aiding China&#39;s military despite",
+      "published_utc": "2026-01-28T13:23:11",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=6694a48567a4daed0a8111d15c1ea82f02d5b27f3f94b698baa0aa8d76472086",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139009849,
+      "datetime": 1769624591
+    },
+    {
+      "title": "Federal Reserve Holds Rates Steady, But Could FOMC Lose Control?",
+      "description": "",
+      "published_utc": "2026-01-28T12:30:32",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e1d8e52fc5046cf2bbe960367290ce65fc83c2b6d85981a669c838226f849c67",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138289634,
+      "datetime": 1769621432
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:16:33.336307+00:00",
+    "cache_key": "news_62b5171cc15ffe68f1ec441442c8214a",
+    "count": 5
+  }
+}

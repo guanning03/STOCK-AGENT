@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Stocks to Watch Wednesday Recap: Netflix, Schwab, J&J, United Airlines",
+      "description": "↘️ Netflix (NFLX): The streaming company posted better-than-expected quarterly results, but its cash flow and outlook disappointed, as did the news that it would pause buybacks. The stock dropped 2.2%.",
+      "published_utc": "2026-01-21T17:00:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=57f7fb58e6f5b7e2b7f2c0962e5f621b9538e01237367a4e890ca7c4ff583bbd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138199575,
+      "datetime": 1769032818
+    },
+    {
+      "title": "Alvotech: Why FDA Delays Don't Break The Bull Case",
+      "description": "Alvotech has five approved drugs, including biosimilars of AbbVie's Humira, Johnson & Johnson's Stelara/Simponi, and Eylea. See why ALVO stock is a Strong Buy.",
+      "published_utc": "2026-01-21T16:34:46",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=37cb85cba880bde7dbd1e2759d21fcf2c7efcf23e1ff29fe3d128d489296803e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2159194981/image_2159194981.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138200440,
+      "datetime": 1769031286
+    },
+    {
+      "title": "NEW YORK MARKET CLOSE: Shares up on Huang speech, US-Greenland deal",
+      "description": "",
+      "published_utc": "2026-01-21T16:30:23",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=783682ba8ada66524a4a4f0b2cc1338a1f7b60e435bbed058d77a197d9459671",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138198791,
+      "datetime": 1769031023
+    },
+    {
+      "title": "Johnson & Johnson (JNJ) Reports Q4 Earnings: What Key Metrics Have to Say",
+      "description": "While the top- and bottom-line numbers for Johnson & Johnson (JNJ) give a sense of how the business performed in the quarter ended December 2025, it could be worth looking at how some of its key metrics compare to Wall Street estimates and year-ago values.",
+      "published_utc": "2026-01-21T16:30:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac2baf347111cf721dcfb90bdb4a70031580fe28793e2f392b7cc1421ed82e6e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138199576,
+      "datetime": 1769031003
+    },
+    {
+      "title": "Earnings live: Netflix stock tumbles, Johnson & Johnson falls, Charles Schwab climbs",
+      "description": "A broader set of sectors will be represented when 35 more S&P 500 companies report earnings this week, including Netflix, Procter & Gamble, and Intel.",
+      "published_utc": "2026-01-21T16:26:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6df3e32284971202a832374159a3b63a44ef67b42b5162ec9bb98d466bc7d64f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138198922,
+      "datetime": 1769030791
+    }
+  ]
+}

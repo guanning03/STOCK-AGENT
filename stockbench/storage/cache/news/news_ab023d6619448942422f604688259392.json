@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Best And Worst Stocks And ETFs Through October",
+      "description": "Taking a look at total returns across a range of ETFs both year-to-date and during the month of October, highlighting the best- and worst-performing stocks year-to-date.",
+      "published_utc": "2025-11-02T17:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=596767e13d34a784a158a95a4044312cbba2c5a6989cb2aea4741c3376130be3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/465352080/image_465352080.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137299523,
+      "datetime": 1762121100
+    },
+    {
+      "title": "Warren Buffett Opens Up About The Biggest Investing Blunders Of His Career — Here They Are",
+      "description": "Over the decades, the &#34;Oracle of Omaha&#34; has shared candid reflections on his biggest blunders, from emotional decisions to missed opportunities, all of which provide timeless investing insights.",
+      "published_utc": "2025-11-02T11:42:13",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=57c19f24b45cd83cb9c9a55c483691e868b44b666b9b15e3c6a61b5a1257dbdd",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/02/Warren-Buffett_0.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138924972,
+      "datetime": 1762101733
+    },
+    {
+      "title": "Markets Face A 2018 Shock As Liquidity Evaporates",
+      "description": "Market liquidity tightens as the TGA exceeds $1T, Fed reserves drop, and SOFR and repo rates stay elevated. See why markets may face turbulence like in 2018.",
+      "published_utc": "2025-11-02T04:55:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cc9c97313da239519faabe343da353c6e67af1bd176d37914685264a3b27ade5",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/184884267/image_184884267.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137293568,
+      "datetime": 1762077300
+    },
+    {
+      "title": "'I Might Get Wiped Out': Chilling Messages Show Charlie Kirk's Fear Years Before His Killing",
+      "description": "",
+      "published_utc": "2025-11-02T04:48:53",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f898187895ef6126b2881e132a744876091537bd6aced38ffa80c5b7b706edca",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/02/Chamath-Backs-Charlie-Kirk-On-Youth-Stru.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138619891,
+      "datetime": 1762076933
+    },
+    {
+      "title": "Billionaire Warns The Coming AI Shockwave Could Reshape The Market",
+      "description": "Blackstone's Jonathan Gray warns AI disruption could upend industries, creating huge winners in data and energy. Find out why investors are repositioning.",
+      "published_utc": "2025-11-02T04:05:52",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=697e8bbe97ab64bb0de696ba74bb6867a41e473f430408f0f9b42006988dd54e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2209306425/image_2209306425.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137293387,
+      "datetime": 1762074352
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:23:21.592078+00:00",
+    "cache_key": "news_ab023d6619448942422f604688259392",
+    "count": 5
+  }
+}

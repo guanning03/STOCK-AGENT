@@ -1,0 +1,396 @@
+{
+  "items": [
+    {
+      "id": "a37e27c4ab1e15875fdefcd0b18a607f8358e1c1f8f94254d17f9632f78ab73a",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Apple's 2025 Bull Case: Can It Deliver Without Riding The AI Wave?",
+      "author": "Surbhi Jain",
+      "published_utc": "2024-12-16T17:24:38Z",
+      "article_url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/12/42513402/apples-2025-bull-case-can-it-deliver-without-riding-the-ai-wave",
+      "tickers": [
+        "AAPL"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2024/12/16/Bonus-Step.jpeg?width=1200&height=800&fit=crop",
+      "description": "JPMorgan analyst Samik Chatterjee outlines a dual thesis for Apple's 2025 prospects - a bullish case with AI-powered upgrades and another without the AI buzz. Apple's premium ecosystem, Services growth, and margin gains drive optimism, with China adding potential upside.",
+      "keywords": [
+        "Apple",
+        "AI",
+        "iPhone",
+        "Services",
+        "China"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article presents a bullish case for Apple in 2025, driven by its premium ecosystem, Services growth, and margin gains, even without relying solely on AI. The analyst sees potential upside from China as well."
+        }
+      ]
+    },
+    {
+      "id": "95b73db75028f101e922001d0fdd14e09734fe243e461c2acba2a3048b273a0f",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "S&P 500: After a Memorable 2024, Could the Index Keep Rallying Into 2025?",
+      "author": "Investing.Com",
+      "published_utc": "2024-12-16T13:05:00Z",
+      "article_url": "https://www.investing.com/analysis/sp-500-after-a-memorable-2024-could-the-index-keep-rallying-into-2025-200655298",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "AAPL",
+        "META",
+        "MSFT",
+        "NVDA",
+        "TSLA"
+      ],
+      "amp_url": "https://m.investing.com/analysis/sp-500-after-a-memorable-2024-could-the-index-keep-rallying-into-2025-200655298?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "The S&P 500 index has surged 29% in 2024, and the rally could continue into 2025 due to factors like better-than-expected corporate earnings, the rise of AI, and favorable tax and regulatory policies.",
+      "keywords": [
+        "S&P 500",
+        "stock market",
+        "corporate earnings",
+        "artificial intelligence",
+        "tax policy",
+        "financial regulations"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the dominance of the 'Magnificent 7' companies, including Alphabet, in the global stock market, indicating a positive outlook for their continued performance."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the dominance of the 'Magnificent 7' companies, including Alphabet, in the global stock market, indicating a positive outlook for their continued performance."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the dominance of the 'Magnificent 7' companies, including Amazon, in the global stock market, indicating a positive outlook for their continued performance."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the dominance of the 'Magnificent 7' companies, including Apple, in the global stock market, indicating a positive outlook for their continued performance."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the dominance of the 'Magnificent 7' companies, including Meta Platforms, in the global stock market, indicating a positive outlook for their continued performance."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the dominance of the 'Magnificent 7' companies, including Microsoft, in the global stock market, indicating a positive outlook for their continued performance."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the dominance of the 'Magnificent 7' companies, including Nvidia, in the global stock market, indicating a positive outlook for their continued performance."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the dominance of the 'Magnificent 7' companies, including Tesla, in the global stock market, indicating a positive outlook for their continued performance."
+        }
+      ]
+    },
+    {
+      "id": "c84113f6a60048bb5d0f91af5c39bbea37c0dcd03a90941ccfaab837fce8553c",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Warren Buffett's Subtle and Not-So-Subtle Warnings for Wall Street: What Investors Should Do As 2025 Approaches",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-16T10:45:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/16/warren-buffetts-subtle-and-not-so-subtle-warnings/?source=iedfolrf0000001",
+      "tickers": [
+        "BRK.A",
+        "BRK.B",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800741/buffett2-tmf.jpg",
+      "description": "Warren Buffett is sending subtle and not-so-subtle signals to Wall Street about high stock valuations. Investors should consider copying Buffett's strategy, such as selling stocks with low conviction, building cash reserves, and continuing to buy great companies at reasonable valuations.",
+      "keywords": [
+        "Warren Buffett",
+        "stock market",
+        "investing",
+        "stock valuations"
+      ],
+      "insights": [
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway's large cash position and Buffett's decision to pause stock buybacks suggest he believes stocks are overvalued, which is a positive signal for investors."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway's large cash position and Buffett's decision to pause stock buybacks suggest he believes stocks are overvalued, which is a positive signal for investors."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has been selling large chunks of Berkshire's stake in Apple, which suggests he sees the stock as overvalued, but the article does not provide a clear sentiment on the company itself."
+        }
+      ]
+    },
+    {
+      "id": "a5797447b816ae9041ba9f089e63743a0a6816fc3dfd91ce534f55b552c59a65",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why I Can't Stop Buying This Ultra-High-Yielding ETF",
+      "author": "Matt Dilallo",
+      "published_utc": "2024-12-16T09:51:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/16/why-i-cant-stop-buying-this-ultra-high-yielding-et/?source=iedfolrf0000001",
+      "tickers": [
+        "JEPQ",
+        "AMZN",
+        "AAPL",
+        "AVGO",
+        "MSFT",
+        "NVDA",
+        "ORCL",
+        "TSLA",
+        "LRCX",
+        "MRNA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801093/gettyimages-1310121198-1201x742-1536a11.jpg",
+      "description": "The article discusses the JPMorgan Nasdaq Equity Premium Income ETF (JEPQ), which aims to deliver monthly distributable income and exposure to the high-growth Nasdaq-100 Index with less volatility. The ETF generates income by selling out-of-the-money call options on the Nasdaq-100 index, providing an attractive dividend yield of over 12% in the last 30 days. The author is positive on the ETF, as it offers both a lucrative income stream and the potential for growth through its exposure to top Nasdaq-100 stocks.",
+      "keywords": [
+        "JPMorgan Nasdaq Equity Premium Income ETF",
+        "Nasdaq-100 Index",
+        "options selling",
+        "passive income",
+        "financial independence"
+      ],
+      "insights": [
+        {
+          "ticker": "JEPQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the ETF's ability to generate a high and attractive monthly income stream through its options selling strategy, as well as its exposure to the high-growth Nasdaq-100 index. The author is positive on the ETF as it can provide both income and growth, which aligns with the author's goal of achieving financial independence."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon is mentioned as one of the top holdings of the ETF, which the author views as a positive as it provides exposure to a leading growth company."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple is mentioned as one of the top holdings of the ETF, which the author views as a positive as it provides exposure to a leading growth company."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Broadcom is mentioned as one of the top holdings of the ETF, which the author views as a positive as it provides exposure to a leading growth company."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is mentioned as one of the top holdings of the ETF, which the author views as a positive as it provides exposure to a leading growth company."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia is mentioned as one of the top holdings of the ETF, which the author views as a positive as it provides exposure to a leading growth company."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Oracle is mentioned as a holding that positively affected the ETF's returns in the third quarter, which the author views as a positive."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that the ETF had an underweight position in Tesla, which negatively affected its returns in the third quarter, indicating a neutral sentiment towards Tesla's inclusion in the ETF."
+        },
+        {
+          "ticker": "LRCX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that the ETF was overweight in Lam Research, which negatively affected its returns in the third quarter, indicating a neutral sentiment towards Lam Research's inclusion in the ETF."
+        },
+        {
+          "ticker": "MRNA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that the ETF benefited from not having a position in Moderna, which positively affected its returns in the third quarter, indicating a positive sentiment towards Moderna's exclusion from the ETF."
+        }
+      ]
+    },
+    {
+      "id": "b8cb36712360f1d185bda32a257d98a733a40724b54735a714a7e34b6df681de",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "66% of Warren Buffett's $301 Billion Portfolio for 2025 Is Invested in These 5 Unstoppable Stocks",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-16T09:41:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/16/66-warren-buffett-portfolio-2025-invest-5-stocks/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "AXP",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK",
+        "KO",
+        "CVX"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800900/buffett13-tmf.jpg",
+      "description": "Warren Buffett's Berkshire Hathaway portfolio is heavily concentrated in 5 stocks - Apple, American Express, Bank of America, Coca-Cola, and Chevron - which account for 66% of the $301 billion portfolio. Buffett believes these are 'unstoppable' companies with strong brands, capital return programs, and favorable industry dynamics.",
+      "keywords": [
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "portfolio",
+        "stocks",
+        "Apple",
+        "American Express",
+        "Bank of America",
+        "Coca-Cola",
+        "Chevron"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Buffett appreciates Apple's strong brand and Tim Cook's leadership, as well as the company's focus on higher-margin subscription services and large share repurchase program."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Buffett likes American Express's ability to benefit from both sides of the transaction counter as a payment processor and lender, and its track record of growth during economic cycles."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has been selling Bank of America shares, potentially to lock in gains at a favorable tax rate or due to concerns about market valuations, but the bank still benefits from higher interest rates and has a healthy capital return program."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has been selling Bank of America shares, potentially to lock in gains at a favorable tax rate or due to concerns about market valuations, but the bank still benefits from higher interest rates and has a healthy capital return program."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has been selling Bank of America shares, potentially to lock in gains at a favorable tax rate or due to concerns about market valuations, but the bank still benefits from higher interest rates and has a healthy capital return program."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has been selling Bank of America shares, potentially to lock in gains at a favorable tax rate or due to concerns about market valuations, but the bank still benefits from higher interest rates and has a healthy capital return program."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has been selling Bank of America shares, potentially to lock in gains at a favorable tax rate or due to concerns about market valuations, but the bank still benefits from higher interest rates and has a healthy capital return program."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has been selling Bank of America shares, potentially to lock in gains at a favorable tax rate or due to concerns about market valuations, but the bank still benefits from higher interest rates and has a healthy capital return program."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has been selling Bank of America shares, potentially to lock in gains at a favorable tax rate or due to concerns about market valuations, but the bank still benefits from higher interest rates and has a healthy capital return program."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has been selling Bank of America shares, potentially to lock in gains at a favorable tax rate or due to concerns about market valuations, but the bank still benefits from higher interest rates and has a healthy capital return program."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has been selling Bank of America shares, potentially to lock in gains at a favorable tax rate or due to concerns about market valuations, but the bank still benefits from higher interest rates and has a healthy capital return program."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has been selling Bank of America shares, potentially to lock in gains at a favorable tax rate or due to concerns about market valuations, but the bank still benefits from higher interest rates and has a healthy capital return program."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has been selling Bank of America shares, potentially to lock in gains at a favorable tax rate or due to concerns about market valuations, but the bank still benefits from higher interest rates and has a healthy capital return program."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has been selling Bank of America shares, potentially to lock in gains at a favorable tax rate or due to concerns about market valuations, but the bank still benefits from higher interest rates and has a healthy capital return program."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has been selling Bank of America shares, potentially to lock in gains at a favorable tax rate or due to concerns about market valuations, but the bank still benefits from higher interest rates and has a healthy capital return program."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has been selling Bank of America shares, potentially to lock in gains at a favorable tax rate or due to concerns about market valuations, but the bank still benefits from higher interest rates and has a healthy capital return program."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has been selling Bank of America shares, potentially to lock in gains at a favorable tax rate or due to concerns about market valuations, but the bank still benefits from higher interest rates and has a healthy capital return program."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett has been selling Bank of America shares, potentially to lock in gains at a favorable tax rate or due to concerns about market valuations, but the bank still benefits from higher interest rates and has a healthy capital return program."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Buffett appreciates Coca-Cola's strong brand, geographic diversity, and predictable cash flow, as well as its shareholder-friendly capital return program."
+        },
+        {
+          "ticker": "CVX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Buffett expects oil prices to remain elevated or rise further, and Chevron's integrated business model and capital return program make it an attractive investment."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:32:28.413949+00:00",
+    "cache_key": "news_06fd1fe000280319c06ed52b5f188756",
+    "count": 5
+  }
+}

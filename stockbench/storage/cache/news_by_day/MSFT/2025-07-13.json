@@ -1,6 +1,81 @@
 {
   "items": [
     {
+      "title": "The Top 5 Grocery Store Stocks — Which One Has the Best 5-Year Returns?",
+      "description": "Want to get back some of the money you spend at your local market? Consider buying grocery store stocks. While certainly more pedestrian than high-flying names like Nvidia or Microsoft, Albertsons,...",
+      "published_utc": "2025-07-13T18:57:34",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f299e5ee1260ec654b7b789ebe5cbc2b3c6ff7e5c3cb557fd4ce8fba52c8c182",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135915719,
+      "datetime": 1752447454
+    },
+    {
+      "title": "LinqAlpha Partners with Microsoft via the Majung Program to Build Secure Cloud Native Financial AI Infrastructure",
+      "description": "LinqAlpha, a multi-agent AI investment research platform powering workflows at over 170 financial institutions, including leading investment banks, asset managers, and hedge funds, has been selected to join the 2025 Majung Program, a Microsoft-supported startup initiative co-led by South Korea's Ministry of SMEs and Startups.",
+      "published_utc": "2025-07-13T18:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f78ae1b5a67b1589536a9fd446a475dcccd3547b00dc87db9823df007f43bf0a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135919342,
+      "datetime": 1752444000
+    },
+    {
+      "title": "Warren Buffett and Bill Gates once gave the secret to their success in 1 word. They gave the exact same answer",
+      "description": "“That’s the thing you have the most chance of being world-class at.”",
+      "published_utc": "2025-07-13T12:07:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac021909b82a42a796c4769b2b5a4d2f0195ccb61ad588b2364f72c47e5f8d81",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135912794,
+      "datetime": 1752422820
+    },
+    {
+      "title": "Prediction: This Will Be The Next $4 Trillion-Dollar Stock",
+      "description": "Microsoft is the second-largest company by market cap, behind Nvidia.  The cloud computing leader is well positioned to be the next $4 trillion stock.  Microsoft could continue to perform well long after it reaches $4 trillion.",
+      "published_utc": "2025-07-13T12:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=400764d8cdfb7d40ad2a9a94fefeca116220ff3b97fdd86ae2641781a69ed2ba",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135912779,
+      "datetime": 1752422700
+    },
+    {
+      "title": "Consumer Tech News (July 7–July 11): Nvidia Hits $4 Trillion, Japan Tariffs Rattle Markets, Hopes Rise For Trump–Xi Summit",
+      "description": "Wall Street watched history unfold as Nvidia became the first company to hit a $4 trillion market cap.",
+      "published_utc": "2025-07-13T08:15:46",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=5fa2f29c7c6f5ccd622ec60f1b16839fd28c01ba8f1dd96fac97a1a35f53f6fb",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/07/13/Taipei--Taiwan--July-25--2022-The-Office.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138693146,
+      "datetime": 1752408946
+    },
+    {
       "title": "SpaceX to invest $2 billion in Musk's xAI startup, WSJ reports",
       "description": "July 12 - SpaceX has committed $2 billion to xAI as part of a $5 billion equity round, deepening the ties between tech billionaire ElonMusk's ventures as...",
       "published_utc": "2025-07-13T03:17:08",

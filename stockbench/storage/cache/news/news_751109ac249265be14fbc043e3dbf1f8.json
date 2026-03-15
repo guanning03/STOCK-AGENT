@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Is the AI boom a bubble waiting to pop? Here’s what history says",
+      "description": "“At some point the infrastructure build may exceed what the economy will need over a short period of time.”",
+      "published_utc": "2026-01-04T18:14:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=57a64b1395c60608c0ee01e52de93f83c7f3117d5ba1dd744a45d8ed6ef11f03",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137985563,
+      "datetime": 1767568445
+    },
+    {
+      "title": "Jensen Huang To Visit Taiwan As Nvidia Plans Taipei Headquarters Amid TSMC Capacity Strain: Report",
+      "description": "Nvidia CEO Jensen Huang is reportedly set to return to Taiwan this month to announce a new Taipei headquarters as booming AI demand — especially from China — boosts Nvidia&#39;s valuation while putting increasing strain on TSMC&#39;s chipmaking capacity.",
+      "published_utc": "2026-01-04T17:44:09",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=e2f850aa996dc9fa726a53089d7b4ac6107edce06969cacbb4fee4b7ae9d8f5b",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/01/04/Donations--Dinners-And-Optics.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138640194,
+      "datetime": 1767566649
+    },
+    {
+      "title": "Why 60% of Americans Believe AI Stocks Will Deliver Strong Long-Term Returns",
+      "description": "Younger investors are far more bullish about AI's potential as an investment.",
+      "published_utc": "2026-01-04T15:25:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5fd0f9cb2269b5feac6ccf89dacedcfdb10d11ae94f4544f8ed795364a041cf9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137985564,
+      "datetime": 1767558300
+    },
+    {
+      "title": "3 Cybersecurity Stocks You Can Buy and Hold for the Next Decade",
+      "description": "These best-of-breed stocks should deliver the goods as the cybersecurity industry enters the artificial intelligence era.",
+      "published_utc": "2026-01-04T09:35:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e1655e46296c38cb4a196060ccec3d057a99cca2db9bc9dc0c5118a0bdb051c8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137985601,
+      "datetime": 1767537300
+    },
+    {
+      "title": "Is DFAC ETF Still A Buy After 15% Run?",
+      "description": "The Dimensional U.S. Core Equity 2 ETF (NYSEARCA:DFAC) has delivered a 15% gain over the past year, essentially matching the S&P 500’s return. Investors paid for Dimensional’s factor-based approach and got market performance. DFAC’s 2026 performance will likely depend less on 2025 results and more on what drives 2026 returns. DFAC manages nearly $40 billion ... Is DFAC ETF Still A Buy After 15% Run?",
+      "published_utc": "2026-01-04T09:34:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=17184ecc3385cf0029579fefe742270579d3159ecbb2e72774358be33d505d4b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137985572,
+      "datetime": 1767537253
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T00:54:25.977533+00:00",
+    "cache_key": "news_751109ac249265be14fbc043e3dbf1f8",
+    "count": 5
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Wall Street falls with financials hit amid credit card rate plan",
+      "description": "STORY: Stocks finished lower Tuesday with the Dow dropping eight tenths of one percent while the S&P 500 and the Nasdaq fell fractionally.Financial shares declined as comments from JPMorgan Chase executives added to worries about U.S. President Donald Trump's recent proposal for a cap on credit‑card interest rates.CEO Jamie Dimon warned that it would severely hurt consumers.Shares of JPMorgan slid 4% while Visa slipped about 4.5%.Investors also digested a report from earlier in the day showing that a reading on inflation for December came in as expected.Eric Lynch, co-portfolio manager with Suncoast Equity Management, said it dashed hopes of another interest rate reduction from the Federal Reserve at its meeting later this month.  “Yeah, today it's clearly some disappointment. The markets got attuned to consecutive Fed cuts the last three meetings. And the thought was maybe, just maybe, if CPI is a lot cooler than expected, maybe they'll give the Fed some license to cut again. Clearly, the CPI print was cooler, but still elevated. And so I think there's a realization in the market today that the Fed's not going to be cutting anytime soon.”Other stocks on the move included Adobe which fell about five and a half percent after broker Oppenheimer lowered its rating on the shares to perform from outperform on slowing digital media growth.And Boeing rose two percent after posting its highest annual plane deliveries since 2018.",
+      "published_utc": "2026-01-13T18:23:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9bbf7f28069d7b93a57b4a617917e717cccdde6068b865c19c3139a52bb2b089",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138091031,
+      "datetime": 1768346581
+    },
+    {
+      "title": "Visa, Mastercard Shares Drop After Trump Endorses Credit-Card Bill",
+      "description": "Shares of the world’s largest payment networks fell after President Trump took to his Truth Social platform early Tuesday morning to endorse the Credit Card Competition Act.  Visa dropped 4.5% in Tuesday trading, while Mastercard finished down 3.8%.",
+      "published_utc": "2026-01-13T17:05:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8936679c08920b495477ab12c45e57468a2f73b3039a07bedba2d5da9bc04dda",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138091032,
+      "datetime": 1768341912
+    },
+    {
+      "title": "Trump's Credit Card Cap: Who Really Loses Access To Credit",
+      "description": "Trumpâs proposed 10% credit card APR cap is repricing issuers and networks. The marketâs reaction is driven by political risk, not fundamentals. See more.",
+      "published_utc": "2026-01-13T16:19:12",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c9d03925ca31a06555448df596b1f9a281ca5fcf1a5d55920c1ad458a616d9d0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2219431499/image_2219431499.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138089684,
+      "datetime": 1768339152
+    },
+    {
+      "title": "Dow Drops Nearly 400 Points After JPMorgan's Earnings Flop",
+      "description": "Stocks pulled back from closing highs on Tuesday after the start to earnings season kickoff flopped. The Dow Jones Industrial Average fell 398 points, or 0.8%. The S&P 500 was down 0.2%. The Nasdaq Composite was down 0.",
+      "published_utc": "2026-01-13T16:06:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=30bbce329af556d3f79b98f2936384bd84e12a72c42033c818f2936e980218a2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138091033,
+      "datetime": 1768338362
+    },
+    {
+      "title": "Stocks Fall Ahead of Closing Bell",
+      "description": "Stocks were in the red in the final hour of trading. The Dow Jones Industrial Average—dragged down by sharp declines in some of its larger stocks like Salesforce, Visa, and JPMorgan—was down 496 points, or 1%, after earlier being down 522 points.",
+      "published_utc": "2026-01-13T15:50:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2ff8aac74f0f3f9e3c7f10d8de6a89caadbb69a2c0a3d3cfa7922c6990d399a0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138091034,
+      "datetime": 1768337457
+    }
+  ]
+}

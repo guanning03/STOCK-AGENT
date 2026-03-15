@@ -1,0 +1,115 @@
+{
+  "items": [
+    {
+      "title": "Honeywell International Inc. stock outperforms competitors despite losses on the day",
+      "description": "Honeywell International Inc. stock outperforms competitors despite losses on the day",
+      "published_utc": "2025-11-17T11:37:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=121470a3f66436ad874258b7d8dde6036593d7ae8136cc517c8d597b0e373eab",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137560420,
+      "datetime": 1763397420
+    },
+    {
+      "title": "Looking Into Honeywell International Inc's Recent Short Interest",
+      "description": "",
+      "published_utc": "2025-11-17T08:00:36",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=5f6cb784e018514b71c069ad0e2f4693a5dd36a8ce2af898f1224f3fb3fa1487",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_3.jpg?width=2048&height=1536",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138825719,
+      "datetime": 1763384436
+    },
+    {
+      "title": "Boasting A 35% Return On Equity, Is Honeywell International Inc. (NASDAQ:HON) A Top Quality Stock?",
+      "description": "One of the best investments we can make is in our own knowledge and skill set. With that in mind, this article will...",
+      "published_utc": "2025-11-17T07:00:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=531b33fd4f415d51a9b387adf4514bfab497ecea72e5d563bc79ff465ffc2436",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137504227,
+      "datetime": 1763380824
+    },
+    {
+      "id": "51a057c2c5c5fbfa238c095f8d8bdd8c64801d291923a029be3391029afb58be",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Viasat to supercharge business aviation in-flight connectivity for JetXP customers with global multi-orbit capabilities",
+      "author": "Viasat Inc.",
+      "published_utc": "2025-11-17T05:01:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/11/17/3188790/0/en/Viasat-to-supercharge-business-aviation-in-flight-connectivity-for-JetXP-customers-with-global-multi-orbit-capabilities.html",
+      "tickers": [
+        "VSAT",
+        "TSAT",
+        "GOGO",
+        "HON"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/f19815f1-333c-4b47-89e0-78d33b1d873d",
+      "description": "Viasat plans to integrate Telesat Lightspeed Low Earth Orbit (LEO) satellite capacity into its JetXP in-flight broadband service, combining GEO and LEO capabilities to improve connectivity performance for business aviation customers.",
+      "keywords": [
+        "satellite communications",
+        "in-flight connectivity",
+        "multi-orbit",
+        "LEO",
+        "GEO",
+        "business aviation"
+      ],
+      "insights": [
+        {
+          "ticker": "VSAT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Expanding technological capabilities, introducing innovative multi-orbit connectivity solution, and demonstrating leadership in satellite communications"
+        },
+        {
+          "ticker": "TSAT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Selected as a strategic partner for LEO satellite capacity, indicating strong technological capabilities and market potential"
+        },
+        {
+          "ticker": "GOGO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a distribution partner without specific details about performance or relationship"
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a distribution partner without specific details about performance or relationship"
+        }
+      ]
+    },
+    {
+      "title": "Qatar Airways Bets On RTX Data Platform To Boost Fleet Reliability",
+      "description": "Collins Aerospace, a unit of RTX Corp, will provide its Ascentia analytics platform to Qatar Airways to optimize its fleet health.",
+      "published_utc": "2025-11-17T04:13:53",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=18e23f60b024aa2002e04f74cc0c709f5f6d04819d562f8cfffcf15a3a4b6edf",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/17/Stuttgart--Germany---08-06-2023-Person-H.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138626305,
+      "datetime": 1763370833
+    }
+  ]
+}

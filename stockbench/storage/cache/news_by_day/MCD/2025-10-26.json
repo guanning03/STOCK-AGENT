@@ -1,0 +1,77 @@
+{
+  "items": [
+    {
+      "title": "Compelling Transformation Stories With Multi-Year Tailwinds And Growth Runway",
+      "description": "Columbia spotlights AI infrastructure winners and resilient misfits like Wingstop. See how the fund is navigating macro headwinds and positioning for growth.",
+      "published_utc": "2025-10-26T21:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d325996a19cbdcbe5dc6d3e8fd4cba8aad34ad6ce1f904551e0beb874b1dc547",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1494448825/image_1494448825.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137215618,
+      "datetime": 1761529500
+    },
+    {
+      "title": "Popular 49-year-old pizza chain files for Chapter 11 bankruptcy",
+      "description": "The pizza restaurant industry is one of the most competitive dining sectors in the U.S., with two pizza giants ranking among the Top 8 of all fast-food chains based on locations in 2025. Domino's had the sixth-most number of locations with 7,014, behind Subway (19,502), Starbucks (16,935), ...",
+      "published_utc": "2025-10-26T16:10:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1d9162b6aaaeed97c8f61c40dcfa3a3ac7761e908812818c88514bf4f6e41f6e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137216271,
+      "datetime": 1761509437
+    },
+    {
+      "id": "dfb470ec43a47961672e703a8a89d7ff844324798f0d6293fd9fc857cd9fabc0",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Spectacular Stocks You Can Buy and Hold Forever",
+      "author": "Parkev Tatevosian, Cfa",
+      "published_utc": "2025-10-26T10:28:00Z",
+      "article_url": "https://www.fool.com/investing/2025/10/26/3-spectacular-stocks-you-can-buy-and-hold-forever/?source=iedfolrf0000001",
+      "tickers": [
+        "MSFT",
+        "MCD",
+        "V"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/839732/copy-of-p2_hold-forever.jpg",
+      "description": "The article discusses long-term investment strategies focusing on stocks that can be held indefinitely, emphasizing the benefits of compounding growth for investors who adopt a buy-and-hold approach.",
+      "keywords": [
+        "long-term investing",
+        "buy-and-hold",
+        "compounding growth",
+        "stock recommendations"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Highlighted as a recommended long-term investment stock with strong market presence and potential for sustained growth"
+        },
+        {
+          "ticker": "MCD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned in the article but no specific investment rationale was provided"
+        },
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Author personally holds a position in the stock and suggests it as a potential long-term investment"
+        }
+      ]
+    }
+  ]
+}

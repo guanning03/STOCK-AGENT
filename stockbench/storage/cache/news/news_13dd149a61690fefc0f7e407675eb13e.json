@@ -1,0 +1,149 @@
+{
+  "items": [
+    {
+      "id": "ff686c0c83f15a66519a4564d01cf6e67e4596f8ac428c0b6f2252e4833efad9",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Warren Buffett Sold $133 Billion Worth of Stocks This Year: Here Are 2 He's Not Selling",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-01T10:25:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/01/warren-buffett-sold-133-billion-stocks-not-selling/?source=iedfolrf0000001",
+      "tickers": [
+        "KO",
+        "AXP",
+        "AAPL",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799153/buffett.jpg",
+      "description": "Warren Buffett's Berkshire Hathaway has been selling stocks, including Apple and Bank of America, but has not sold Coca-Cola or American Express in over 25 years. Coca-Cola and American Express are seen as attractive investments due to their strong brands and consistent performance.",
+      "keywords": [
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "Coca-Cola",
+        "American Express",
+        "stock sales"
+      ],
+      "insights": [
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Coca-Cola is one of Berkshire's longest-held investments, with Buffett valuing the company's strong brand and consistent revenue and profits. The stock's attractive dividend yield and growth opportunities make it a tempting buy on the dip."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire has held American Express for 30 years, as Buffett favors the company's strong brand power and its spend-centric business model that benefits from the growth of the economy. The company's recent success with card refreshes and new customer acquisitions make it a long-term growth prospect."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has been selling its largest holding, Apple, as part of its higher-than-usual stock sales this year, reflecting Buffett's view that the market is overvalued and limiting the pool of quality businesses selling at sensible prices."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has also trimmed its stake in Bank of America, another sizable investment for the company in recent years, as part of its stock sales."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has also trimmed its stake in Bank of America, another sizable investment for the company in recent years, as part of its stock sales."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has also trimmed its stake in Bank of America, another sizable investment for the company in recent years, as part of its stock sales."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has also trimmed its stake in Bank of America, another sizable investment for the company in recent years, as part of its stock sales."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has also trimmed its stake in Bank of America, another sizable investment for the company in recent years, as part of its stock sales."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has also trimmed its stake in Bank of America, another sizable investment for the company in recent years, as part of its stock sales."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has also trimmed its stake in Bank of America, another sizable investment for the company in recent years, as part of its stock sales."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has also trimmed its stake in Bank of America, another sizable investment for the company in recent years, as part of its stock sales."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has also trimmed its stake in Bank of America, another sizable investment for the company in recent years, as part of its stock sales."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has also trimmed its stake in Bank of America, another sizable investment for the company in recent years, as part of its stock sales."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has also trimmed its stake in Bank of America, another sizable investment for the company in recent years, as part of its stock sales."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has also trimmed its stake in Bank of America, another sizable investment for the company in recent years, as part of its stock sales."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has also trimmed its stake in Bank of America, another sizable investment for the company in recent years, as part of its stock sales."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has also trimmed its stake in Bank of America, another sizable investment for the company in recent years, as part of its stock sales."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has also trimmed its stake in Bank of America, another sizable investment for the company in recent years, as part of its stock sales."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire has also trimmed its stake in Bank of America, another sizable investment for the company in recent years, as part of its stock sales."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T18:42:08.913129+00:00",
+    "cache_key": "news_13dd149a61690fefc0f7e407675eb13e",
+    "count": 1
+  }
+}

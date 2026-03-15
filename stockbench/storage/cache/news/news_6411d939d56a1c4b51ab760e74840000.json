@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "id": "4767c666887bf111d513c22f8130609dd6c2baabfb5bd97761af1e22aecd2d5f",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Heavy Construction Equipment Market Trends, Challenges, and Growth Opportunities | Exactitude Consultancy",
+      "author": "Exactitude Consultancy",
+      "published_utc": "2025-01-21T13:12:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/21/3012638/0/en/Heavy-Construction-Equipment-Market-Trends-Challenges-and-Growth-Opportunities-Exactitude-Consultancy.html",
+      "tickers": [
+        "CAT",
+        "DE",
+        "KMTUY"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/a576ded2-f738-4a7c-bbf9-189ed83b2265",
+      "description": "The global heavy construction equipment market is projected to grow at a CAGR of 4.8% from 2024 to 2034, driven by large-scale construction projects in emerging economies and technological advancements in machinery.",
+      "keywords": [
+        "heavy construction equipment",
+        "construction industry",
+        "infrastructure development",
+        "technological advancements",
+        "sustainability"
+      ],
+      "insights": [
+        {
+          "ticker": "CAT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Caterpillar is introducing new technology upgrades to its medium dozer line, which is expected to enhance operational efficiency and support construction companies in meeting sustainability goals."
+        },
+        {
+          "ticker": "DE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Deere has announced a collaboration with an AI technology firm to develop autonomous construction equipment, which aims to enhance operational efficiency, safety, and productivity."
+        },
+        {
+          "ticker": "KMTUY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Komatsu has unveiled a new electric-powered excavator aimed at reducing emissions in urban construction sites, positioning the company as a leader in eco-friendly construction solutions."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:04:20.621661+00:00",
+    "cache_key": "news_6411d939d56a1c4b51ab760e74840000",
+    "count": 1
+  }
+}

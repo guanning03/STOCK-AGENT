@@ -1,0 +1,147 @@
+{
+  "items": [
+    {
+      "id": "82248acd16ed006fce999cd93bb6c72cb1c2e7324db988c64b2baf37ab680b36",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Where to Invest $100,000 in 2025",
+      "author": "Adria Cimino",
+      "published_utc": "2025-01-08T09:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/08/where-to-invest-100000-in-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "AMZN",
+        "META",
+        "VOO",
+        "KO",
+        "JNJ"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802958/gettyimages-three-business-people-use-tablets.jpg",
+      "description": "The article provides investment recommendations for a $100,000 portfolio, suggesting a balanced approach with allocations to technology stocks, an S&P 500 index fund, individual stocks and ETFs, dividend stocks, and an opportunity fund.",
+      "keywords": [
+        "investing",
+        "portfolio",
+        "technology",
+        "S&P 500",
+        "dividends",
+        "growth stocks",
+        "value stocks"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article recommends investing in Nvidia, an AI chip leader, as it is expected to benefit from the growth of the AI market."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article recommends investing in Amazon, an e-commerce and cloud giant, as it is expected to benefit from the growth of AI without relying on it for revenue growth."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article recommends investing in Meta Platforms, a social media powerhouse, as it is expected to benefit from the growth of AI without relying on it for revenue growth."
+        },
+        {
+          "ticker": "VOO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article recommends investing in the Vanguard S&P 500 ETF, as it provides exposure to the top companies driving the economy and has delivered an annualized average return of more than 10% over time."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article recommends investing in Coca-Cola, a Dividend King that has lifted its dividend payments for more than 50 years, as it provides a reliable source of passive income."
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article recommends investing in Johnson & Johnson, a Dividend King that has lifted its dividend payments for more than 50 years, as it provides a reliable source of passive income."
+        }
+      ]
+    },
+    {
+      "id": "06964bdbc21699363962d985044a22707d4489a152684ea6ce3283040f39a9ba",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Brain Ischemia Market grow at CAGR of 7.6% Growth, Reaching $1,622 million by 2032 Globally",
+      "author": "Imir Market Research Pvt. Ltd.",
+      "published_utc": "2025-01-08T08:56:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/08/3005993/0/en/Brain-Ischemia-Market-grow-at-CAGR-of-7-6-Growth-Reaching-1-622-million-by-2032-Globally.html",
+      "tickers": [
+        "ABT",
+        "JNJ",
+        "NVS",
+        "AZN",
+        "BMY",
+        "CELGr",
+        "BSX",
+        "EW"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/f26d6482-c3db-40b0-b158-7523c213db17",
+      "description": "The global brain ischemia market is expected to grow at a CAGR of 7.6% from 2024 to 2032, driven by the increasing prevalence of stroke and cardiovascular diseases, as well as technological advancements in medical devices and treatment options.",
+      "keywords": [
+        "brain ischemia",
+        "stroke",
+        "cardiovascular diseases",
+        "medical devices",
+        "treatment options"
+      ],
+      "insights": [
+        {
+          "ticker": "ABT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Abbott has entered into an agreement to acquire Cardiovascular Systems, Inc., which indicates the company's focus on expanding its portfolio in the brain ischemia treatment market."
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Johnson & Johnson has acquired V-Wave Ltd., a company focused on developing innovative treatment options for patients with heart failure, which is relevant to the brain ischemia market."
+        },
+        {
+          "ticker": "NVS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists Novartis AG as one of the key companies profiled, but does not provide any specific details about the company's involvement in the brain ischemia market."
+        },
+        {
+          "ticker": "AZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists AstraZeneca as one of the key companies profiled, but does not provide any specific details about the company's involvement in the brain ischemia market."
+        },
+        {
+          "ticker": "BMY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists Bristol-Myers Squibb Company as one of the key companies profiled, but does not provide any specific details about the company's involvement in the brain ischemia market."
+        },
+        {
+          "ticker": "CELGr",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists Bristol-Myers Squibb Company as one of the key companies profiled, but does not provide any specific details about the company's involvement in the brain ischemia market."
+        },
+        {
+          "ticker": "BSX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Boston Scientific Corporation has entered into an agreement to acquire Silk Road Medical, Inc., a company that has developed a minimally invasive procedure for treating carotid artery disease, which is relevant to the brain ischemia market."
+        },
+        {
+          "ticker": "EW",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists Edwards Lifesciences Corporation as one of the key companies profiled, but does not provide any specific details about the company's involvement in the brain ischemia market."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:30:39.423794+00:00",
+    "cache_key": "news_8d4036f6c020c5e8e04867c57b63016f",
+    "count": 2
+  }
+}

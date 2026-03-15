@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Buffett’s Berkshire Nears Deal to Buy OxyChem for $10 Billion",
+      "description": "It would be Berkshire’s largest deal since its acquisition of Alleghany Corp. in 2022 for $13.7 billion, according to data compiled by Bloomberg.  The Wall Street Journal reported on the potential deal earlier Tuesday.",
+      "published_utc": "2025-09-30T18:56:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9b896f75b09a40b1e86e2ee14defffb3d44136d339934194bb2b5389c5cb5748",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136943892,
+      "datetime": 1759272964
+    },
+    {
+      "title": "Mark Zuckerberg Goes On Social Media Blitz As $799 Meta Ray-Ban Display Glasses Hit Shelves At Select US Stores, Says Neural Band Feels Like 'Magic'",
+      "description": "Mark Zuckerberg unveiled Meta&#39;s $799 Ray-Ban Display smart glasses with a Neural Band he described as &#34;like magic,&#34; as the device launches in select U.S. stores ahead of a global rollout in 2026.",
+      "published_utc": "2025-09-30T18:16:01",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=fe6595701cb105fcb15ee93f3870045ce42ee95163a9386198da01f4d4bdec8d",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/09/30/Bukovel--Ukraine--October-13--2022-Wax-F.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138742354,
+      "datetime": 1759270561
+    },
+    {
+      "title": "Pixalate Exposes Widespread COPPA Violations in New Report: 99% of U.S.-Registered Apple App and Google Play Store Likely Child-Directed Apps Fail to Obtain Required Verifiable Parental Consent (VPC); Personal Info Shared in Ad Bid Stream",
+      "description": "According to Pixalate's research, Google Ad Exchange is listed in 90% of likely non-compliant apps' ads.txt files (apps enabled for advertising), Meta/Facebook in 58%, and AppLovin in 54%London, Sept. 30, 2025 (GLOBE NEWSWIRE) -- Pixalate, the leading global platform for ad fraud protection, privacy, and compliance analytics, today released its Q2 2025 report. The report exclusively examines mobile apps on the Apple App Store and Google Play Store that are registered in the U.S. and likely aimed",
+      "published_utc": "2025-09-30T12:40:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4ffe99b874224df5fba4129eae0899dbcb0540675565027ffadad009d38d1973",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136937520,
+      "datetime": 1759250400
+    },
+    {
+      "title": "Trump’s Latest Tariff Threats Could Bring New Concerns For Tech, Media Investors",
+      "description": "Trump’s Latest Tariff Threats Could Bring New Concerns For Tech, Media Investors",
+      "published_utc": "2025-09-30T12:16:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=ee7fb5a21dc4606e710034fb57d2050ffa69aebde5a135d25cdb2036d1a80c56",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136995185,
+      "datetime": 1759248960
+    },
+    {
+      "title": "Apple, Warner Bros. Discovery, Celsius: Top Analyst Calls",
+      "description": "Yahoo Finance senior reporter Allie Canal keeps track of several Wall Street analyst calls on top trending stocks, including calls around shares of Apple (AAPL), Warner Bros. Discovery (WBD), and Celsius Holdings (CELH). To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.",
+      "published_utc": "2025-09-30T11:36:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c8264d2d9f6b7c0ef75b4f7172184e8fe1a9b5eb5770beea1c14d285d67f6273",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136937521,
+      "datetime": 1759246576
+    }
+  ]
+}

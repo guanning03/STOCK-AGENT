@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today: Nasdaq Jumps On Shutdown Hopes; This Stock Gets Support (Live Coverage)",
+      "description": "The Dow Jones index was up on the stock market today as government shutdown hopes rose. Bitcoin rallied while Nvidia and Palantir stock jumped.",
+      "published_utc": "2025-11-10T13:11:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=180b091ca1352f96c59b96b5451a25de5ec7f99d9519a3f48b15cef34004efef",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137396446,
+      "datetime": 1762798274
+    },
+    {
+      "title": "Wall Street Lunch: Generative AI Powers October E-Commerce Spending",
+      "description": "Adobe (ADBE) says U.S. online spending rose 8.2% year-over-year in October to $88.7 billion.",
+      "published_utc": "2025-11-10T09:53:48",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=dce4f4231faca8f9bae441f731fdbb91b49bee3e3629e999aca01894e710bf46",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2227981382/image_2227981382.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137400733,
+      "datetime": 1762786428
+    },
+    {
+      "title": "Stock Market Today: Dow Rises On Shutdown Deal Hopes; Nvidia, Palantir, Tesla Rally (Live Coverage)",
+      "description": "Stock Market Today: The Dow Jones index rose after a deal to end the government shutdown passed a key vote late Sunday, Nvidia rallied.",
+      "published_utc": "2025-11-10T09:45:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7882c169c35a30cca368d2858a7872b76a609678cd83ad55a41272bc3b416b0a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137394675,
+      "datetime": 1762785939
+    },
+    {
+      "title": "Insurers Slide As Congress Postpones Decision On Health Subsidies, Delays Obamacare Subsidy Vote To December",
+      "description": "Health insurer stocks fell after the Senate ended the shutdown without extending ACA subsidies, delaying the decision to December and raising premium concerns.",
+      "published_utc": "2025-11-10T08:58:11",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=89a639a63475a8f2b8565ccb3b7481c999d60056aa44ef692ab90f21182bf962",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/10/Affordable-Care-Act.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138425560,
+      "datetime": 1762783091
+    },
+    {
+      "title": "Here’s What Happened to UnitedHealth (UNH)",
+      "description": "Pelican Bay Capital Management, an investment management company, released its third-quarter 2025 investor letter. A copy of the same can be downloaded here. PBCM Concentrated Value Strategy returned 7.8% in the quarter, compared to a 5.3% return for the Russell 1000 Value Index. YTD, the fund returned 11.2% compared to 11.6% for the index. In addition, […]",
+      "published_utc": "2025-11-10T08:17:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=990d9760a792982db7278697278eaba38cadad24e434202771e82e49898fd670",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137394919,
+      "datetime": 1762780637
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:48:01.715354+00:00",
+    "cache_key": "news_c7ccb345917e814e0720777cc217f543",
+    "count": 5
+  }
+}

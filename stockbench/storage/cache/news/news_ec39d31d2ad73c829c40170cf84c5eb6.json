@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Country ETFs Looking For Record Years",
+      "description": "Now in the home stretch of Q3, international stocks have had a banner year in 2025.",
+      "published_utc": "2025-09-16T18:55:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1f19125fcc98a7388add67aba016d3f73b283c5ed386a1ef18b6fb08da57803b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2219152998/image_2219152998.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136784852,
+      "datetime": 1758063300
+    },
+    {
+      "title": "Retail Sales Up 0.6% In August, Higher Than Expected",
+      "description": "The Census Bureau's Advance Retail Sales Report for August showed consumer spending was higher than expected, with headline sales rising...",
+      "published_utc": "2025-09-16T13:32:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7e5c8a44174ee033cabeac4b7f7bf79b95d8605c6d23b8b00e7038c1a680599e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1390267183/image_1390267183.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136783260,
+      "datetime": 1758043920
+    },
+    {
+      "title": "Stock Owners Have Learned To Love The Bomb",
+      "description": "Since 1950, the S&P 500 index has averaged a 5-year annualized earnings growth rate of 7%.",
+      "published_utc": "2025-09-16T13:23:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1388189754daafc9706b7b7205d7d5a233e2f08890356a27003b7177e771883c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2218761418/image_2218761418.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136783190,
+      "datetime": 1758043380
+    },
+    {
+      "title": "AI Revolution Vs. Internet Boom",
+      "description": "The current market rally has been driven by enthusiasm around the AI Revolution and coming reductions in the Fed Fund rate. Read what investors need to know.",
+      "published_utc": "2025-09-16T10:38:06",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f6823027667d7a10f132de6fc7a043c7748ee3e91bca027c756c7d6a7dd78b59",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1647918116/image_1647918116.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136781085,
+      "datetime": 1758033486
+    },
+    {
+      "title": "Investors Dump Equity ETFs—But Can't Quit Their Tech Habit",
+      "description": "Investors withdrawing from stock market, but not technology. Tech-themed ETFs had $3.42B inflow, led by XLK, QQQ &amp; SMH. Valuations high, prepare for volatility.",
+      "published_utc": "2025-09-16T10:36:44",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=ac7f3d9f7a1e83106456786c5cdb4fa3a7481bf2dbe934ad04d8318944579001",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/09/16/Clean-Energy-ETFs-In-Focus-As-Trump-Halt.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138702657,
+      "datetime": 1758033404
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:56:44.924362+00:00",
+    "cache_key": "news_ec39d31d2ad73c829c40170cf84c5eb6",
+    "count": 5
+  }
+}

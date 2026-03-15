@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Epstein files fallout: The high-profile people burned by past dealings with a predator",
+      "description": "Jeffrey Epstein killed himself in a New York City federal jail in 2019. But more than six years later, people are still losing their jobs because of him.",
+      "published_utc": "2026-02-15T12:54:36",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=1b627e0371315566950de8cd9dbc97213a09abe1c6e95b93dabe8fab29809cc0",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108264542-1770829852709-gettyimages-2260538868-HL_VTOURNIER_3057004.jpeg?v=1770829881&w=1920&h=1080",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139115400,
+      "datetime": 1771178076
+    },
+    {
+      "title": "Goldman Sachs delivers contrarian take on the economy",
+      "description": "Forget all the recession chatter. Goldman Sachs (GS) CEO David Solomon feels the economic backdrop for 2026 looks strong. In a recent CNBC interview, the veteran banker feels the macro setup is “quite good,” pointing to robust fiscal support, incredible AI-driven capital investment, and a more ...",
+      "published_utc": "2026-02-15T11:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a8596730dfe7c86d3d7522f4109511e19284d24ceb63486549ff71540f8965db",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139107454,
+      "datetime": 1771173180
+    },
+    {
+      "title": "Trump Tariffs Backfired, 130,000 Jobs Added In January And More: This Week In Economy",
+      "description": "Trump admits Fed chair mistake in 2017, US job revisions wipe out gains, China cuts Treasury buying, and Goldman spots memory chip winners.",
+      "published_utc": "2026-02-15T02:01:32",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=8411c07608c90fefff651986285bb9aec1b2a2e740981b60570fce4f3cd77db7",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/02/15/Washington--Dc---April-27--2018-Presiden.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139106652,
+      "datetime": 1771138892
+    },
+    {
+      "title": "Wall Street Week Ahead",
+      "description": "Investing week ahead: Presidentsâ Day closure, FOMC minutes, jobless claims, Q4 GDP/PCE, and key earnings (WMT, BABA, PANW).",
+      "published_utc": "2026-02-15T01:56:47",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e17d72f60321b6c661efcdab7e82a45bbd3bf144ebce6f9a6b80f4e5ed6d9a51",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/464907492/image_464907492.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139105919,
+      "datetime": 1771138607
+    },
+    {
+      "title": "AAAU vs. SGDM: Direct Gold Exposure or Gold Mining Companies?",
+      "description": "These two ETFs focus on one of the most coveted precious metals in the world, yet their investment approaches differ.",
+      "published_utc": "2026-02-14T20:59:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=06c4cb9d7212f5192360fb958a1c20e76d39dbcfa9c2e38c4a8650aeee8f29d2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139103704,
+      "datetime": 1771120762
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:02:36.600021+00:00",
+    "cache_key": "news_a008bf3c87e7e020f0c9b4a590b7e17f",
+    "count": 5
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "id": "18490f53a68a311bde8206e995ca25719117b204b5e67a5d912156f1a7d8579c",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Top Quantum Computing Stock to Buy Right Now",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-24T12:20:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/24/1-top-quantum-computing-stock-to-buy-right-now/?source=iedfolrf0000001",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "IBM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801998/gettyimages-1629818920.jpg",
+      "description": "The article discusses the potential of quantum computing, a technology that could revolutionize computing by taking advantage of quantum mechanics. It highlights the progress made by companies like IBM, but also cautions that the technology may take decades to reach commercial viability, if it ever does.",
+      "keywords": [
+        "quantum computing",
+        "IBM",
+        "technology"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Alphabet's Google has announced a major quantum computing breakthrough with its Willow quantum chip, which can perform a specific calculation in just five minutes that would take the world's most powerful supercomputer 10 septillion years."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Alphabet's Google has announced a major quantum computing breakthrough with its Willow quantum chip, which can perform a specific calculation in just five minutes that would take the world's most powerful supercomputer 10 septillion years."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights IBM as a pioneer in quantum computing, having built the first functioning computer using quantum properties in 1998. It also notes that IBM has been making progress in the field, making a quantum computer accessible through IBM Cloud in 2016 and announcing various iterations of its quantum computers over the years. The article suggests that IBM is a relatively low-risk way to bet on the quantum computing industry."
+        }
+      ]
+    }
+  ]
+}

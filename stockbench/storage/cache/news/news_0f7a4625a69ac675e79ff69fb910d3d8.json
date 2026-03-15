@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Morgan Stanley Maintains International Business Machines (IBM) Equal-Weight Recommendation",
+      "description": "",
+      "published_utc": "2025-10-15T18:02:40",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=07844ab6cc3212da17991394c4ca03e3f5d80277df083b8eac037554f8045d7f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137099119,
+      "datetime": 1760565760
+    },
+    {
+      "title": "IBM (IBM) Exceeds Market Returns: Some Facts to Consider",
+      "description": "The latest trading day saw IBM (IBM) settling at $280.75, representing a +1.67% change from its previous close.",
+      "published_utc": "2025-10-15T17:45:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=67a0318feb0b5813aa7610040692e5bf0132456771f0646c7a2c94144dfd0bb0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137101989,
+      "datetime": 1760564704
+    },
+    {
+      "title": "SL Green Is Buying NYC’s Park Avenue Tower in One of Year’s Biggest Deals",
+      "description": "SL Green’s deal to buy the 36-story building in Midtown Manhattan shows momentum for desirable office space in prime locations is heating up.",
+      "published_utc": "2025-10-15T17:09:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ef18afd7dba547ce2fe9592daed623455f7a23d3c37c5c7f9b4dbc54a460657f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137101990,
+      "datetime": 1760562540
+    },
+    {
+      "title": "What Is One of the Best Quantum Computing Stocks for the Next 10 Years?",
+      "description": "IBM is marching toward a multibillion-dollar quantum computing business.",
+      "published_utc": "2025-10-15T14:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=818cd17b4c8a3cbb3ef8252a934a9d8b5dc627d0a22f60d0e89466de11d11a51",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137095750,
+      "datetime": 1760553000
+    },
+    {
+      "title": "Trump Era Funding Boosts Quantum: AMZN, MSFT, IONQ Poised for Gains",
+      "description": "Trump-era quantum funding plans could supercharge Amazon, Microsoft and IonQ as government and private investments accelerate commercialization.",
+      "published_utc": "2025-10-15T14:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6bb6a31908e58569271e2f3ee760329a0b734167880c0fcbc4c9d96fb573fa54",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137096841,
+      "datetime": 1760551200
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:26:49.977748+00:00",
+    "cache_key": "news_0f7a4625a69ac675e79ff69fb910d3d8",
+    "count": 5
+  }
+}

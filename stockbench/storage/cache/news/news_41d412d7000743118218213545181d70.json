@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Dow Jones Futures: U.S.-Iran Conflict Sparks Market Upheaval As Nvidia Rallies; Credo, MongoDB Plunge Late",
+      "description": "Dow Jones Futures: The start of the U.S.-Iran conflict sparked stock market upheaval Monday. Nvidia stock was a big mover. Credo and MongoDB plunged on earnings late.",
+      "published_utc": "2026-03-02T18:21:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=38a955746b02dc241ee1bcd73c0223d2c63f67d454f90172f3d353d9ae38a0fc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139281168,
+      "datetime": 1772493708
+    },
+    {
+      "title": "Stock Market Today, March 2: Energy and Defense Stocks Surge on Middle East Conflict",
+      "description": "Energy stocks gained as crude neared $80 and investors weighed the impact of the conflict, today, March 2, 2026.",
+      "published_utc": "2026-03-02T18:01:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=096d076584ce987bc3ebb26716f00ae860d4581f7a04f7608ccc33b8f5781921",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139281170,
+      "datetime": 1772492495
+    },
+    {
+      "title": "Apple Drops Budget iPhone 17e to Stave Off Upgrade Fatigue",
+      "description": "Apple unveiled a cheaper 17e and refreshed iPad Air to keep attention steady as consumers tire of new iPhone drops.",
+      "published_utc": "2026-03-02T18:00:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=84722cbd639a9f5b47b1da8f81f7071a067daa534738334e74f05eebce0f2a1f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139281184,
+      "datetime": 1772492431
+    },
+    {
+      "title": "Stocks to Watch Monday Recap: Norwegian Cruise Line, United Airlines, Lumentum, Elevance",
+      "description": "↘️ United Airlines (UAL), American Airlines (AAL): Global carriers extended cancellations and rerouted flights to avoid the Middle East. Airline stocks dropped. Meantime, regulators are looking to cut flights this summer at Chicago’s O’Hare airport, where United and American duke it out for supremacy.",
+      "published_utc": "2026-03-02T16:38:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=36fa4d28bdae39b7df38f35bf3230d015d443d6e507fb8c4eb8f5173f120a4b0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139281185,
+      "datetime": 1772487506
+    },
+    {
+      "title": "Apple unveils low-cost iPhone 17e with a price tag of $599",
+      "description": "Apple (AAPL) has announced a lower-cost iPhone 17e model with a price tag of $599 alongside other new products ahead of the tech company's March 4 launch event. Yahoo Finance Tech Editor Dan Howley comes on Market Domination Overtime to speak more on the features of this new iPhone model, how Apple is dealing with the memory chip shortage, and its approach to AI. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.",
+      "published_utc": "2026-03-02T16:34:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=31982b6843800ef70f930e5768b381b8aae557a4ace7f1486df812ce2a21631b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139280507,
+      "datetime": 1772487278
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:56:44.383293+00:00",
+    "cache_key": "news_41d412d7000743118218213545181d70",
+    "count": 5
+  }
+}

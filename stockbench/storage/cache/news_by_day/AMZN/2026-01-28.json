@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise as Tesla, Meta, Microsoft diverge after earnings",
+      "description": "Wall Street is in the middle of Big Tech earnings, with the 'Magnificent Seven' leading moves in both directions.",
+      "published_utc": "2026-01-28T18:43:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b3ecac2cefa2c1ca6a88a00ff811443cc1bf148c9742a4fc837438f86d05abc7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138292578,
+      "datetime": 1769643789
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip as Tesla, Meta, Microsoft diverge after earnings",
+      "description": "Wall Street is in the middle of Big Tech earnings, with the 'Magnificent Seven' leading moves in both directions.",
+      "published_utc": "2026-01-28T18:43:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ffe03a46d832b31388478b8a8a80087559337e864b8da864f4782c3fe10e108e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138291520,
+      "datetime": 1769643789
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures mixed as Tesla, Meta, Microsoft diverge after earnings",
+      "description": "Wall Street is in the middle of Big Tech earnings, with the 'Magnificent Seven' leading big moves in both directions.",
+      "published_utc": "2026-01-28T18:43:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1f020d64cebf2788b8818eca4407b024627afb20c6e6ef3ba7f32b8531c030fa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138290123,
+      "datetime": 1769643789
+    },
+    {
+      "title": "Stocks to Watch Wednesday Recap: Amazon, Nvidia,  Deutsche Bank",
+      "description": "↗️ Nvidia (NVDA): China has approved purchases of Nvidia’s popular H200 chip for the first time, giving authorization to several customers, including Alibaba (BABA, HK:9988). Nvidia and Alibaba shares rose.",
+      "published_utc": "2026-01-28T18:26:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=845ae0ffc886b62803740d6985f57e191e44819f775c3bafd3ef13ea410d19e3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138290114,
+      "datetime": 1769642769
+    },
+    {
+      "title": "Microsoft Heads Into Earnings As AI Partnerships Take Center Stage",
+      "description": "Microsoft Corporation (NASDAQ:MSFT) is in the spotlight Wednesday ahead of its second-quarter earnings report today after the market closes. Microsoft Heads Into Earnings With AI Initiatives In Focus The earnings report comes amid its recent announcement of a significant partnership with Richtech Robotics Inc. (NASDAQ:RR) in AI which adds both opportunity and pressure to the narrative. With shares down just over 6% in the past six months, the company must clear the high bar of $80.27 billion in",
+      "published_utc": "2026-01-28T18:01:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=20e93b0173810606a379060fc3b818ce11903e7c0d9e76a2ee4613aff8749640",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138290133,
+      "datetime": 1769641262
+    }
+  ]
+}

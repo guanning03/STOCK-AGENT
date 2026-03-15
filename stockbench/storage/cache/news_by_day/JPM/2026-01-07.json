@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today, Jan. 7: Banks Slide as Stock Rally Slows",
+      "description": "Today, Jan. 7, 2026, a slide in major banks left financials reeling even as AI-fueled tech kept the Nasdaq in the green.",
+      "published_utc": "2026-01-07T18:20:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3a4958a989176fda69674f592270f04448f766a458060854233c4f619d79f784",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138032845,
+      "datetime": 1767828010
+    },
+    {
+      "title": "Jamie Dimon's Grip On US Credit Card Dominance Grows As JPMorgan Wins Apple Card Business From Goldman Sachs",
+      "description": "Apple has selected JPMorgan Chase to take over the Apple Card from Goldman Sachs in a deal that will shift more than $20 billion in card balances, bolster JPMorgan&#39;s credit card dominance, and mark another step in Goldman&#39;s retreat from consumer banking.",
+      "published_utc": "2026-01-07T18:20:05",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=be50649bcc4b3adf6c07d38b8ea102e75da2aeffb62468d4824a1d53b80ece17",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/01/07/Iphone-With-Apple-Card-Logo-On-The-Scree.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138591547,
+      "datetime": 1767828005
+    },
+    {
+      "title": "Bank of America Joins JPMorgan, Citi, Morgan Stanley By Recommending Bitcoin Portfolio Allocation",
+      "description": "Bank of America Corp. (NYSE:BAC) will allow more than 15,000 Merrill and Private Bank advisers to proactively recommend four spot Bitcoin (CRYPTO: BTC) ETFs starting Jan. 5, formally opening Bitcoin access across its wealth platform. Big Four Banks Now All...",
+      "published_utc": "2026-01-07T18:01:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4c74830baefc7ce0772c87f0258d3348f8e5ae1bccd2c3da8883e6d93989015d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138033015,
+      "datetime": 1767826865
+    },
+    {
+      "title": "Chase to become new issuer of Apple Card",
+      "description": "WILMINGTON, Del., January 07, 2026--Today, Apple and Chase announced that Chase will become the new issuer of Apple Card, with an expected transition in approximately 24 months.",
+      "published_utc": "2026-01-07T17:49:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5892e72936ded59e6d6624d5bb62da4ff8219360da2dc43b35305feb8b0357ab",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138032865,
+      "datetime": 1767826140
+    },
+    {
+      "title": "S&P 500, Dow Jones Slid From Peaks Amid Sell-Off in Old Economy Sectors, Mounting Geopolitical Crisis",
+      "description": "US equity indexes closed mixed on Wednesday, with the S&P 500 and the Dow Jones Industrial Average r",
+      "published_utc": "2026-01-07T17:12:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=38558d276be5a29ce4312eef987aaaf167632e68a80d803eb4b0b4346318ad99",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138033017,
+      "datetime": 1767823927
+    }
+  ]
+}

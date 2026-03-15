@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Eaton, Caterpillar, Lemonade: Trending Tickers",
+      "description": "Eaton (ETN) stock is falling after the company's third quarter guidance missed estimates. Caterpillar (CAT) missed on second quarter earnings and warned of up to $1.5 billion in full-year tariff impacts. Lemonade (LMND) stock rises after a second quarter revenue beat. To watch more expert insights and analysis on the latest market action, check out more Market Domination.",
+      "published_utc": "2025-08-05T15:54:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ef21e4ec603eace6b9e4b94d6aeaa43c6ec6f7c15c62285727e92ac4b6f37276",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136217174,
+      "datetime": 1754423689
+    },
+    {
+      "title": "Commentary: Tariffs are denting profits, and maybe soon your portfolio",
+      "description": "Dozens of companies are reporting lower profits caused by Trump's tariffs. Stock values haven't adjusted — yet.",
+      "published_utc": "2025-08-05T15:34:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e7347708873d9ef4dadaed4b6509bc0ed65324c16396cb31bf6713272d3a4eca",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136232117,
+      "datetime": 1754422461
+    },
+    {
+      "title": "Tariffs are denting profits, and maybe soon your portfolio",
+      "description": "Dozens of companies are reporting lower profits caused by Trump's tariffs. Stock values haven't adjusted — yet.",
+      "published_utc": "2025-08-05T15:34:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=301f829f2259a856d871a9066e15cec28259770b9d7f270d7fba346715c121ac",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136217077,
+      "datetime": 1754422461
+    },
+    {
+      "title": "From ingredient costs to sagging demand, tariffs further pinch company earnings",
+      "description": "(Reuters) -Companies across the corporate spectrum revealed more pain from the cost of U.S. President Donald Trump's tariff war, with bellwethers Caterpillar, Marriott and others on Tuesday noting weaker demand and higher prices.  All told, global companies that have reported earnings this quarter are looking at a hit of around $15 billion to profits in 2025, Reuters' global tariff tracker shows.  Trump has said the tariffs are necessary to resolve U.S. trade imbalances and declining manufacturing power; he has said the levies on imports will bring jobs and investment to the United States.",
+      "published_utc": "2025-08-05T12:25:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0c925e81ca37e62b66b7f7dbbd8b18e677666efe20d837a4318c7bf5a6898c7e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136214956,
+      "datetime": 1754411141
+    },
+    {
+      "title": "CAT Q2 Earnings Miss Estimates, Down Y/Y on Tariff-Driven Cost Surge",
+      "description": "Caterpillar's Q2 earnings miss estimates as tariff costs and weaker pricing pressured margins.",
+      "published_utc": "2025-08-05T12:21:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=12f81e77f32c36e32584ec61da4e907cfd9a39db1b1427ec7522d1724dda9da6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136214970,
+      "datetime": 1754410860
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:40:34.932078+00:00",
+    "cache_key": "news_6855df373523e026eca0adc7f4f19b9f",
+    "count": 5
+  }
+}

@@ -1,6 +1,103 @@
 {
   "items": [
     {
+      "id": "0bbf39427bd01c2f05c674788fe57608c30aa15ad3cbcd8dffba91ec1ce17775",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Reasons American Express Is a Long-Term Buy for 2030 and Beyond",
+      "author": "Jennifer Saibil",
+      "published_utc": "2025-03-26T22:56:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/26/3-reasons-american-express-is-a-long/?source=iedfolrf0000001",
+      "tickers": [
+        "AXP",
+        "V"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/810159/a-person-holding-a-credit-card-and-a-mobile-phone.jpg",
+      "description": "American Express is a top stock with a differentiated model and long-term growth drivers, offering stability for investors. It targets an affluent, resilient consumer base, reaches a younger customer base, and has diversified revenue streams as its own bank.",
+      "keywords": [
+        "American Express",
+        "credit cards",
+        "financial services",
+        "investing"
+      ],
+      "insights": [
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights several positive factors about American Express, including its targeting of an affluent and resilient consumer base, its success in reaching a younger customer base, and its diversified revenue streams as its own bank. These factors suggest the company has strong long-term growth potential."
+        },
+        {
+          "ticker": "V",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares American Express's card numbers to Visa's, but does not provide a clear sentiment on Visa itself."
+        }
+      ]
+    },
+    {
+      "title": "Visa Inc. (V): Among the 10 Best Stocks to Buy According to Two Sigma Investments",
+      "description": "We recently published a list of Top 10 Stocks to Buy According to Two Sigma Investments. In this article, we are going to take a look at where Visa Inc. (NYSE:V) stands against other top stocks to buy according to Two Sigma Investments. Two Sigma Investments, LP, a New York City-based hedge fund, is known […]",
+      "published_utc": "2025-03-26T14:42:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=57024da483f693e822c279dee5a7113c46b4b08551d130d63df51dceb399b56e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133462038,
+      "datetime": 1743014524
+    },
+    {
+      "title": "Strategically Building A $100,000 Dividend Portfolio For Attractive Income And Strong Risk-Adjusted Returns",
+      "description": "The Dividend Income Accelerator Portfolio focuses on financially healthy companies with strong balance sheets. Check out the recent additions to the portfolio.",
+      "published_utc": "2025-03-26T14:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ce462cc0e5b7f820a511093e525334e1bca7d2a89963f65cc3b58e557cad4636",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1072585234/image_1072585234.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133460063,
+      "datetime": 1743012000
+    },
+    {
+      "title": "Visa (NYSE:V) Partners With Extend To Empower Emerging Middle-Market Companies With Virtual Cards",
+      "description": "Visa (NYSE:V) experienced a 7% price increase in the last quarter. This movement follows several key developments, including a referral agreement with Extend to enhance Visa's service offerings through virtual cards. Additionally, Visa's robust Q1 earnings results, showcasing sales and net income growth, may have bolstered investor confidence. The company's effective share repurchase program also likely contributed to the positive sentiment. Meanwhile, external market factors, such as the...",
+      "published_utc": "2025-03-26T13:40:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e97b675f4e8bbf7648622150f194af85e6abcd8a5ef6ab99c55af97dc444f6bc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133462039,
+      "datetime": 1743010849
+    },
+    {
+      "title": "2 Top Buffett Stocks to Buy and Hold for the Long Haul",
+      "description": "Warren Buffett is arguably the best-known person in investing.  With that type of success, it's understandable that people would look to Berkshire Hathaway's stock holdings to get inspiration for what to invest in.  Although Berkshire Hathaway holds over 45 stocks, there are two in particular that I love as a long-term buy and hold.",
+      "published_utc": "2025-03-26T07:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f55c6ac36a5fe7232316a6ae6587eed3d9cd01e5ce97f67cd60ede8a28c8b9a9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133448284,
+      "datetime": 1742988600
+    },
+    {
       "title": "Visa (V) Surpasses Market Returns: Some Facts Worth Knowing",
       "description": "In the latest trading session, Visa (V) closed at $344.95, marking a +0.31% move from the previous day.",
       "published_utc": "2025-03-26T05:45:16",

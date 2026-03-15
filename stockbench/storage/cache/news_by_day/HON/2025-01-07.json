@@ -1,6 +1,185 @@
 {
   "items": [
     {
+      "id": "12c83c98113a126984c7bb99c98e8efef1c19fee47017ac6fb76c41c4843ddda",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Immersion Cooling Fluids Market Set For 8.2% Growth, Reaching $2.15 Billion by 2032 Globally",
+      "author": "Imir Market Research Pvt Ltd.",
+      "published_utc": "2025-01-07T17:57:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/07/3005766/0/en/Immersion-Cooling-Fluids-Market-Set-For-8-2-Growth-Reaching-2-15-Billion-by-2032-Globally.html",
+      "tickers": [
+        "MMM",
+        "BP",
+        "CVX",
+        "EMN",
+        "XOM",
+        "HON",
+        "PSX",
+        "SHEL",
+        "ITW",
+        "CC",
+        "DOW",
+        "TTE",
+        "VRT"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/f26d6482-c3db-40b0-b158-7523c213db17",
+      "description": "The global immersion cooling fluids market is expected to grow at a CAGR of 8.2% from 2023 to 2032, driven by increasing demand from data centers, EV batteries, and solar photovoltaic cells. The market is segmented by type, technology, and end-use, with North America and Asia-Pacific being the key regional markets.",
+      "keywords": [
+        "immersion cooling fluids",
+        "data centers",
+        "EV batteries",
+        "solar photovoltaic cells",
+        "market growth"
+      ],
+      "insights": [
+        {
+          "ticker": "MMM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions 3M Company as one of the key players in the immersion cooling fluids market, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "BP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions BP PLC as one of the key players in the immersion cooling fluids market, but does not provide any specific information about the company's involvement or performance in this market."
+        },
+        {
+          "ticker": "CVX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Chevron Corporation as one of the key players in the immersion cooling fluids market, but does not provide any specific information about the company's involvement or performance in this market."
+        },
+        {
+          "ticker": "EMN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Eastman Chemical Company as one of the key players in the immersion cooling fluids market, but does not provide any specific information about the company's involvement or performance in this market."
+        },
+        {
+          "ticker": "XOM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists Exxon Mobil Corporation as one of the key players in the immersion cooling fluids market, but does not provide any additional details about the company's role or performance."
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Honeywell International Inc. as one of the key players in the immersion cooling fluids market, but does not provide any specific information about the company's involvement or performance in this market."
+        },
+        {
+          "ticker": "PSX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists Phillips 66 as one of the key players in the immersion cooling fluids market, but does not provide any additional details about the company's role or performance."
+        },
+        {
+          "ticker": "SHEL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Shell PLC as one of the key players in the immersion cooling fluids market, but does not provide any specific information about the company's involvement or performance in this market."
+        },
+        {
+          "ticker": "ITW",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists Techspray by Illinois Tool Works Inc. as one of the key players in the immersion cooling fluids market, but does not provide any additional details about the company's role or performance."
+        },
+        {
+          "ticker": "CC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions The Chemours Company as one of the key players in the immersion cooling fluids market, but does not provide any specific information about the company's involvement or performance in this market."
+        },
+        {
+          "ticker": "DOW",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists The Dow Chemical Company as one of the key players in the immersion cooling fluids market, but does not provide any additional details about the company's role or performance."
+        },
+        {
+          "ticker": "TTE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists TotalEnergies SE as one of the key players in the immersion cooling fluids market, but does not provide any additional details about the company's role or performance."
+        },
+        {
+          "ticker": "VRT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Vertiv Holdings Co. as one of the key players in the immersion cooling fluids market, but does not provide any specific information about the company's involvement or performance in this market."
+        }
+      ]
+    },
+    {
+      "id": "f4eb1c4842f829346bf3914af3887cfc5bbb7f76d732e95439a2349c6503026c",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Space Sensors and Actuators Market to surpass USD 10.9 billion by 2034, Says Global Market Insights inc.",
+      "author": "Global Market Insights Inc.",
+      "published_utc": "2025-01-07T10:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/07/3005132/0/en/Space-Sensors-and-Actuators-Market-to-surpass-USD-10-9-billion-by-2034-Says-Global-Market-Insights-inc.html",
+      "tickers": [
+        "AME",
+        "HON",
+        "MOG.A",
+        "MOG.B",
+        "RTX",
+        "TEL",
+        "TDY",
+        "TXN"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/6a29379b-a16f-4ee6-9798-26bdadb816f3",
+      "description": "The space sensors and actuators market is expected to grow at a CAGR of 14.2% between 2025 and 2034, driven by technological advancements in sensor and actuator design. The market is witnessing increased investments from government and private enterprises for space exploration missions, driving continuous innovation in the sector.",
+      "keywords": [
+        "space sensors",
+        "actuators",
+        "MEMS",
+        "space exploration",
+        "satellite",
+        "commercial space"
+      ],
+      "insights": [
+        {
+          "ticker": "AME",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Ametek is mentioned as one of the key players in the space sensors and actuators industry, indicating its involvement and potential growth opportunities in this market."
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Honeywell is mentioned as one of the key players in the space sensors and actuators industry, indicating its involvement and potential growth opportunities in this market."
+        },
+        {
+          "ticker": "MOG.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Moog is mentioned as one of the key players in the space sensors and actuators industry, indicating its involvement and potential growth opportunities in this market."
+        },
+        {
+          "ticker": "MOG.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Moog is mentioned as one of the key players in the space sensors and actuators industry, indicating its involvement and potential growth opportunities in this market."
+        },
+        {
+          "ticker": "RTX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Raytheon Technologies is mentioned as one of the key players in the space sensors and actuators industry, indicating its involvement and potential growth opportunities in this market."
+        },
+        {
+          "ticker": "TEL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "TE Connectivity is mentioned as one of the key players in the space sensors and actuators industry, indicating its involvement and potential growth opportunities in this market."
+        },
+        {
+          "ticker": "TDY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Teledyne Technologies is mentioned as one of the key players in the space sensors and actuators industry, indicating its involvement and potential growth opportunities in this market."
+        },
+        {
+          "ticker": "TXN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Texas Instruments is mentioned as one of the key players in the space sensors and actuators industry, indicating its involvement and potential growth opportunities in this market."
+        }
+      ]
+    },
+    {
       "title": "Spinoffs Outperforming the S&P 500 Boost the Case for Breakups",
       "description": "(Bloomberg) -- The pace of spinoffs in the US is set to accelerate in 2025, and if history is any guide, the newly created companies are poised to deliver solid returns for investors, according to a report from Trivariate Research.Most Read from BloombergIs This Weird Dome the Future of Watching Sports?NYC’s Subway Violence Deters Drive to Bring Workers Back to OfficeDon’t Shrink the BusNYC Congestion Pricing to Take Effect After Years of DelaysNYC Congestion Pricing Takes Effect After Years of",
       "published_utc": "2025-01-07T01:34:44",

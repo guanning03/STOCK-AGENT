@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Microsoft proposes Caledonia project to support massive data center in Mount Pleasant",
+      "description": "Microsoft is planning to build a backup data center on 244 acres of land in Caledonia. The Village Board needs to approve a rezone of the land first.",
+      "published_utc": "2025-09-23T18:46:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5cbacab553bd4c7543daa3300f4b4431a95a4a5f76fd8c1b4a583579e558c7e6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136858061,
+      "datetime": 1758667618
+    },
+    {
+      "title": "Review & Preview: The Rally Stumbles",
+      "description": "Federal Reserve Chair Jerome Powell took the steam out of the market’s rally, with equities closing lower on Tuesday.  The S&P 500 was off 0.6%, the Dow Jones Industrial Average shed 0.2%, and the Nasdaq Composite fell nearly 1%.  Tech stocks were dragging on the Nasdaq earlier in the day as Wall Street took some profit on AI stocks and bought up a few laggards, including value, small-caps, and dividend stocks.",
+      "published_utc": "2025-09-23T17:51:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fe9d1a84489994e73d643b0546314058806c7f0a8f811a90cbf110d6ffa1d366",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136858062,
+      "datetime": 1758664260
+    },
+    {
+      "title": "OpenAI plans to build 5 giant U.S. ‘Stargate’ datacenters, a $400B challenge to Meta and Microsoft in the relentless AI arms race",
+      "description": "The ChatGPT maker, along with Oracle and SoftBank, drew reporters to rural West Texas to tour the flagship Stargate data center, provide an update on new sites, and dispel doubts about the partnership’s momentum.",
+      "published_utc": "2025-09-23T17:06:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e34b7ca800cbc62cafa93c2baef76c3e43f906ec492d2e63101548bd61dbfc04",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136858055,
+      "datetime": 1758661613
+    },
+    {
+      "title": "OpenAI, Oracle, SoftBank plan five new AI data centers for $500 billion Stargate project",
+      "description": "ABILENE, Texas (Reuters) -OpenAI, Oracle and SoftBank on Tuesday announced plans for five new artificial intelligence data centers in the United States to build out their ambitious Stargate project.  U.S. President Donald Trump in January hosted top tech CEOs to launch Stargate, a private-sector initiative that plans to spend up to $500 billion to build AI infrastructure.  AI is a priority for Trump and tech companies that are pouring billions into building the computers that are necessary to power the technology.",
+      "published_utc": "2025-09-23T17:04:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f021ab333582ed5fc44bfcbc51b102c5206411e53f353b1613fbb5b1ae993e18",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136858057,
+      "datetime": 1758661445
+    },
+    {
+      "title": "Equities Snap 3-Day Record Run as Powell Flags 'Challenging Situation' For Fed",
+      "description": "US equities retreated following a three-day advance to all-time highs as Federal Reserve Chair Jerom",
+      "published_utc": "2025-09-23T16:56:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=508d39841f60d2e94a81a4cb5a0b237063460126fb73d8d8793859718432ff46",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136858059,
+      "datetime": 1758660961
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T04:15:30.708689+00:00",
+    "cache_key": "news_fa60e79f1b21231ef2bfc9cc726d63af",
+    "count": 5
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Salesforce, Inc. (NYSE:CRM) Stock's Been Sliding But Fundamentals Look Decent: Will The Market Correct The Share Price In The Future?",
+      "description": "Salesforce (NYSE:CRM) has had a rough three months with its share price down 8.8%. However, the company's fundamentals...",
+      "published_utc": "2025-08-02T07:00:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=21c01e44dda0ac36723f47a048ba18f94d35c90aa3d69c053b79c1e9c5d9e529",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136183273,
+      "datetime": 1754132411
+    },
+    {
+      "title": "Salesforce: You Might Wish You Bought More Now",
+      "description": "Salesforce trades at a discount as AI rivals surge ahead.",
+      "published_utc": "2025-08-02T06:25:41",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5be37d8a5a5406e39ca58a333c177c1b71e05d728bb92a588a69cdb30cd46f6d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1169487862/image_1169487862.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136181948,
+      "datetime": 1754130341
+    },
+    {
+      "title": "5 Cheap Tech Stocks to Buy Right Now",
+      "description": "Looking at PEG ratios can help you find cheap tech stocks.",
+      "published_utc": "2025-08-02T04:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=52b6458ea01cffc9d84d71bc4b84e759ef427e349dbe72514225052183520541",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136182959,
+      "datetime": 1754123400
+    }
+  ]
+}

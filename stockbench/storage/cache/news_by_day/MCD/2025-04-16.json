@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "McDonald's Corp. stock outperforms competitors despite losses on the day",
+      "description": "McDonald's Corp. stock outperforms competitors despite losses on the day",
+      "published_utc": "2025-04-16T12:33:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=2abbb0817e920af9e660aa26ebb11b3f355026e1213c9b46378f53e12900979d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133946197,
+      "datetime": 1744821180
+    },
+    {
+      "title": "Toast: Strong Foundations For Future Growth",
+      "description": "",
+      "published_utc": "2025-04-16T10:33:50",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=04a611de25f2eb5bfcfb80db813b47f196219c1761e8cf8c0747a27f99668594",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133936854,
+      "datetime": 1744814030
+    },
+    {
       "title": "Why McDonald's (MCD) Dipped More Than Broader Market Today",
       "description": "McDonald's (MCD) concluded the recent trading session at $312.48, signifying a -1.14% move from its prior day's close.",
       "published_utc": "2025-04-16T05:50:16",

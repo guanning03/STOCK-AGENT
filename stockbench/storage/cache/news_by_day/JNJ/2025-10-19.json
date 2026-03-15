@@ -1,0 +1,95 @@
+{
+  "items": [
+    {
+      "id": "11870230a8d51cfc0fb78d904b66c93a314bb94f65e6f1d1a9ea933312170be6",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Meet the 5%-Yielding Dividend Stock That Could Soar in 2026",
+      "author": "Matt Dilallo",
+      "published_utc": "2025-10-19T17:25:00Z",
+      "article_url": "https://www.fool.com/investing/2025/10/19/meet-the-3-yielding-dividend-stock-that-could-soar/?source=iedfolrf0000001",
+      "tickers": [
+        "KVUE",
+        "JNJ"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/837779/johnson_and_johnson_employee_writing_on_glass_with_logo_jnj.jpg",
+      "description": "Kenvue, a consumer healthcare products company spun off from Johnson & Johnson, has experienced significant stock challenges in 2025, including potential Tylenol-related health concerns and flat sales, prompting leadership changes and exploration of strategic alternatives like potential business unit sales.",
+      "keywords": [
+        "consumer healthcare",
+        "stock performance",
+        "strategic alternatives",
+        "activist investors",
+        "turnaround strategy"
+      ],
+      "insights": [
+        {
+          "ticker": "KVUE",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Stock down over 20% in 2025, flat sales, declining earnings, potential Tylenol health concerns, and leadership challenges"
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Successfully spun off Kenvue as an independent company, but the new entity has struggled to meet initial growth expectations"
+        }
+      ]
+    },
+    {
+      "id": "e7a5c2a53fe636cd24e4a878cc878a6275e11b368fcc3d44542a94cb8faa4566",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Subcutaneous RYBREVANT®▼(amivantamab) delivers promising 45 percent overall response rate with median duration of response of 7.2 months in recurrent or metastatic head and neck cancer",
+      "author": "Janssen-Cilag International Nv",
+      "published_utc": "2025-10-19T14:35:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/10/19/3169023/0/en/Subcutaneous-RYBREVANT-amivantamab-delivers-promising-45-percent-overall-response-rate-with-median-duration-of-response-of-7-2-months-in-recurrent-or-metastatic-head-and-neck-cance.html",
+      "tickers": [
+        "JNJ",
+        "HALO"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/85723da3-163a-4a4d-bb36-0e46ec3998e6",
+      "description": "A Phase 1b/2 study of subcutaneous amivantamab in recurrent or metastatic head and neck cancer demonstrated a 45% overall response rate, with rapid and durable tumor responses in patients who had previously progressed on checkpoint inhibitors and chemotherapy.",
+      "keywords": [
+        "head and neck cancer",
+        "amivantamab",
+        "immunotherapy",
+        "EGFR",
+        "MET"
+      ],
+      "insights": [
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Demonstrated promising clinical trial results for a novel cancer treatment with potential to expand treatment options for patients with limited therapeutic alternatives"
+        },
+        {
+          "ticker": "HALO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned for their ENHANZE drug delivery technology used in co-formulating the subcutaneous treatment"
+        }
+      ]
+    },
+    {
+      "title": "Subcutaneous amivantamab delivers promising 45 percent overall response rate with median duration of 7.2 months in recurrent or metastatic head and neck cancer",
+      "description": "Johnson & Johnson (NYSE:JNJ) today announced promising new results from the Phase 1b/2 OrigAMI-4 study evaluating the efficacy and safety of subcutaneous (SC) amivantamab monotherapy in patients with human papillomavirus (HPV)-unrelated, recurrent or metastatic head and neck squamous cell carcinoma (R/M HNSCC) after disease progression on a checkpoint inhibitor and platinum-based chemotherapy. The study used the new subcutaneous formulation of amivantamab, which can be delivered in a five-minute",
+      "published_utc": "2025-10-19T10:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bdd3a77e2af55c725a47e896eb37b7641c2cf2ad3c0a784404cda25ee7a2b145",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137164180,
+      "datetime": 1760884200
+    }
+  ]
+}

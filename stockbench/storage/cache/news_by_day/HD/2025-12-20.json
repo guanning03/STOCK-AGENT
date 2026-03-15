@@ -1,0 +1,111 @@
+{
+  "items": [
+    {
+      "id": "eb0453156a559b21c102ec427ba44cdcc4b283093c22dd2b3c0accedae857ff1",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Should You Invest $1,000 in PLUG Right Now?",
+      "author": "Catie Hogan",
+      "published_utc": "2025-12-20T13:10:00Z",
+      "article_url": "https://www.fool.com/investing/2025/12/20/should-you-invest-1000-in-plug-right-now/?source=iedfolrf0000001",
+      "tickers": [
+        "PLUG",
+        "WMT",
+        "AMZN",
+        "HD"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F847517%2Fgettyimages-1306857149.jpg&w=1200&op=resize",
+      "description": "Plug Power, a hydrogen fuel cell technology leader, has lost over 90% of its value in the past five years but could see significant returns if the green hydrogen market reaches its $74 billion potential by 2032. The company has secured capital, deployed 72,000+ fuel cell systems, and partnered with major corporations, but faces challenges with operating losses and cash burn that require cost control and market demand realization.",
+      "keywords": [
+        "hydrogen fuel cells",
+        "green hydrogen market",
+        "high-risk investment",
+        "operating losses",
+        "cash burn",
+        "fuel cell technology"
+      ],
+      "insights": [
+        {
+          "ticker": "PLUG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a balanced bull and bear case. While the company has strong partnerships and commercial viability with 72,000+ deployed systems, it faces significant challenges including 90% stock decline over 5 years, substantial operating losses, and negative gross margins. Success depends heavily on hydrogen market realization and cost control, making it suitable only for high-risk tolerance investors."
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a major partner of Plug Power, indicating confidence in hydrogen fuel cell technology adoption, but no direct impact on Walmart's business is discussed."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a major partner of Plug Power, indicating interest in hydrogen solutions, but no direct business impact is discussed."
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a major partner of Plug Power, but no direct business implications are discussed in the article."
+        }
+      ]
+    },
+    {
+      "id": "2994d9bb415087b35b117a63bea54bdd965c1f1bafb853de35fd130fad16c66a",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Alchem Chemicals Launches Socket Solution for Hardware Chains Car Accessory Shops and Hotel Suppliers",
+      "author": "Not Specified",
+      "published_utc": "2025-12-20T04:42:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/12/20/3208805/0/en/Alchem-Chemicals-Launches-Socket-Solution-for-Hardware-Chains-Car-Accessory-Shops-and-Hotel-Suppliers.html",
+      "tickers": [
+        "WMT",
+        "HD"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/0ba7b84a-a5f2-41dd-a148-4026060e4759",
+      "description": "Alchem Chemicals has launched the Swivel & Slide electrical adapter, a patented device featuring a 360-degree swivel mechanism designed to prevent socket blocking and reduce plastic waste. The adapter has received IEC certification and will be showcased at CES 2026, targeting hardware wholesalers, hotel suppliers, and car accessory retailers including major chains like Walmart, Home Depot, and Ace Hardware.",
+      "keywords": [
+        "electrical adapter",
+        "socket blocking",
+        "plastic waste reduction",
+        "IEC certification",
+        "CES 2026",
+        "hardware retail",
+        "patent",
+        "sustainability"
+      ],
+      "insights": [
+        {
+          "ticker": "WMT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Walmart is mentioned only as a potential target retailer for the product. There is no indication of confirmed partnership or business impact, making this a neutral mention without sentiment implications."
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Home Depot is mentioned only as a potential target retailer for the product. There is no indication of confirmed partnership or business impact, making this a neutral mention without sentiment implications."
+        }
+      ]
+    },
+    {
+      "title": "I Reshaped My 15-Stock Portfolio With One High-Conviction Decision",
+      "description": "My dividend growth portfolio, launched in 2021, was initially designed as a 'Never Sell' long-term wealth builder. Read about why I'm changing my approach.",
+      "published_utc": "2025-12-20T02:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3355e3cf74bbd30cadb2d4982d4d3638694a7f8484da1ba258f2089fc396b656",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/875734456/image_875734456.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137839562,
+      "datetime": 1766215800
+    }
+  ]
+}

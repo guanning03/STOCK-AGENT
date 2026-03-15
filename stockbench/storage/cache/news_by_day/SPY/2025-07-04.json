@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Multi-Asset Midyear Outlook: Selectivity Matters",
+      "description": "",
+      "published_utc": "2025-07-04T23:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f12759d666a9847bde63d2d651bfce946714072399a8c4f8f3ec5c585d3c764c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135762497,
+      "datetime": 1751687100
+    },
+    {
+      "title": "Long-Term Inflation Fears Simmer At 4%",
+      "description": "",
+      "published_utc": "2025-07-04T23:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=349812ef7e86496a8e3602e0e10a049a4bbcc45363ea8bd747bee859796078e9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135762024,
+      "datetime": 1751686200
+    }
+  ]
+}

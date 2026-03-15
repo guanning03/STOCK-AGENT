@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "US Equity Indexes Rise Amid Thin Volumes as Weak Economic Data Keeps Policy Easing Bets Elevated",
+      "description": "US equity indexes rose for the fourth straight day on Wednesday, albeit amid thin volumes, as weakne",
+      "published_utc": "2025-11-26T16:58:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1e766523b331a6401adc512dd6a89607e58dab508ba9f2078ef955eff1859e6e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137619165,
+      "datetime": 1764194320
+    },
+    {
+      "title": "Boeing to Build 96 AH-64E Apache Helicopters for Poland",
+      "description": "Boeing [NYSE: BA] will produce AH-64E Apache attack helicopters for international customers, including 96 for the Polish Armed Forces, under a Foreign Military Sales contract awarded by the U.S. Army valued at nearly $4.7 billion. Poland's order represents the largest number of Apache aircraft ordered outside of the United States in the program's history.",
+      "published_utc": "2025-11-26T16:27:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=45423aef87b471162bf1cf4b7a623818308268ed7fbc112718ea26a5643865ef",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137619166,
+      "datetime": 1764192420
+    },
+    {
+      "title": "Boeing Pentagon Contracts Nudge Stock Up After Long Slide",
+      "description": "The U.S. military is unfazed by any concerns about Boeing's supply chain. The Pentagon awarded Boeing (BA) two major contracts worth more than a combined $7 billion. Boeing stock rose over 2% on Wednesday after news of the Pentagon contracts broke. Boeing's Pentagon Contracts The Army awarded Boeing a $4.7 billion contract to build new Apache helicopters. The agreement includes...",
+      "published_utc": "2025-11-26T12:37:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9c174eaca3617c24514036806940312e2ebcc26263b4db352e5ae773914e2b7c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137614513,
+      "datetime": 1764178668
+    },
+    {
+      "title": "Boeing to Supply 96 Apache Helicopters to Poland",
+      "description": "Boeing to Supply 96 Apache Helicopters to Poland",
+      "published_utc": "2025-11-26T11:53:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b7f7ed78b5a5efc780856be910e5f939ff5e979d0e2246bf1d4a3b035d3b45af",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137700968,
+      "datetime": 1764175980
+    },
+    {
+      "title": "NOC Secures a Contract to Aid Stand-In Attack Weapon Subsystem",
+      "description": "Northrop Grumman lands a $100M contract to advance Stand-in Attack Weapon work, bolstering active-seeker development and strike capabilities.",
+      "published_utc": "2025-11-26T10:49:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2d8813ea1e1966460960c8ddf73ec5351636c111154a17acff9fabf8771e5c68",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137614536,
+      "datetime": 1764172140
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:40:08.343559+00:00",
+    "cache_key": "news_aa096e9e9244e4eb7083748888e7b247",
+    "count": 5
+  }
+}

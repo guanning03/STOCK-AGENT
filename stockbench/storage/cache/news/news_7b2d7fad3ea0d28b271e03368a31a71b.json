@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "B of A Securities Maintains Johnson & Johnson (JNJ) Neutral Recommendation",
+      "description": "",
+      "published_utc": "2025-10-15T19:05:32",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=2faed14b9d7ce889e9bd35d7904f41298ef6300b551c69c6a4a7cd4f7705c9ce",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137099362,
+      "datetime": 1760569532
+    },
+    {
+      "title": "Morgan Stanley Maintains Johnson & Johnson (JNJ) Equal-Weight Recommendation",
+      "description": "",
+      "published_utc": "2025-10-15T19:05:30",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=9efa0ffcaa8f03e5b8bf7402bac8e744bbe9996ef5506df0309847adf9f11eb2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137099363,
+      "datetime": 1760569530
+    },
+    {
+      "title": "Raymond James Maintains Johnson & Johnson (JNJ) Outperform Recommendation",
+      "description": "",
+      "published_utc": "2025-10-15T19:05:28",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=33b243b84ad8da80b682ab711a4b9d8f555de00db455dec70a6e0b324b864ab9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137099364,
+      "datetime": 1760569528
+    },
+    {
+      "title": "Stifel Maintains Johnson & Johnson (JNJ) Hold Recommendation",
+      "description": "",
+      "published_utc": "2025-10-15T19:05:27",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=8c0c0be8165f10907f97e64fe2e3e4133172b1c99e46c0d48014ffe634d3677a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137099365,
+      "datetime": 1760569527
+    },
+    {
+      "title": "Citigroup Maintains Johnson & Johnson (JNJ) Buy Recommendation",
+      "description": "",
+      "published_utc": "2025-10-15T19:05:25",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=11bae0eb4663677bbb74d1f900bfb7b37ab5c5c9879119dc95b04caf406d7e62",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137099366,
+      "datetime": 1760569525
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:28:08.494165+00:00",
+    "cache_key": "news_7b2d7fad3ea0d28b271e03368a31a71b",
+    "count": 5
+  }
+}

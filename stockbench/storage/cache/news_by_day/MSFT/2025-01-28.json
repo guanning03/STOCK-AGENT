@@ -1,0 +1,204 @@
+{
+  "items": [
+    {
+      "id": "45a125e9f0c0f35efa1f129b2db5ce9321eceb036b4a00460d33f87120ea44bd",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Microsoft, Amazon Web Services Could Face Cloud Services Investigation From UK Regulators",
+      "author": "Adam Eckert",
+      "published_utc": "2025-01-28T19:20:12Z",
+      "article_url": "https://www.benzinga.com/news/global/25/01/43284108/microsoft-amazon-web-services-could-face-cloud-services-investigation-from-uk-regulators",
+      "tickers": [
+        "MSFT",
+        "AMZN"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/28/Microsoft-Corporation_1.jpeg?width=1200&height=800&fit=crop",
+      "description": "UK regulators are considering investigating Microsoft and Amazon Web Services due to concerns about lack of competition in the cloud services market, which could lead to higher prices and less innovation.",
+      "keywords": [
+        "cloud services",
+        "competition",
+        "UK regulators",
+        "Microsoft",
+        "Amazon Web Services"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Microsoft could face investigation by UK regulators, but does not indicate whether the outcome would be positive or negative for the company."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Similar to Microsoft, the article states that Amazon Web Services could be investigated by UK regulators, but does not provide a clear indication of whether the outcome would be positive or negative for the company."
+        }
+      ]
+    },
+    {
+      "id": "6bb9e337365c98579d123687b0ae959594b16faef714111e86ef06bce6aaee1e",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "OpenAI Launches 'ChatGPT Gov' For US Agencies As DeepSeek Threat Heats Up AI Race",
+      "author": "Piero Cingari",
+      "published_utc": "2025-01-28T15:06:57Z",
+      "article_url": "https://www.benzinga.com/government/regulations/25/01/43271935/openai-launches-chatgpt-gov-for-us-agencies-as-deepseek-threat-heats-up-ai-race",
+      "tickers": [
+        "MSFT"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/28/chatgpt-ai.png?width=1200&height=800&fit=crop",
+      "description": "OpenAI launches a specialized version of ChatGPT for U.S. government agencies, aiming to counter the rising threat from China's lower-cost AI model DeepSeek. The move is seen as part of the geopolitical and economic battle for AI leadership.",
+      "keywords": [
+        "OpenAI",
+        "ChatGPT",
+        "DeepSeek",
+        "AI",
+        "U.S. government"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft's Azure cloud is used to host the new ChatGPT Gov, allowing government agencies to manage security, privacy, and compliance independently."
+        }
+      ]
+    },
+    {
+      "id": "54e707f16be21086ff1ea6522cb6bc15ac3f6694f31227f31af0ac720416290d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Nvidia, Microsoft, and OpenAI Just Said This About DeepSeek AI",
+      "author": "Jose Najarro",
+      "published_utc": "2025-01-28T14:25:45Z",
+      "article_url": "https://www.fool.com/investing/2025/01/28/nvidia-microsoft-and-openai-just-said-this-about-d/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805508/nvidia-headquarters-outside-with-black-nvidia-sign-with-nvidia-logo.jpg",
+      "description": "Nvidia stock dropped nearly 17% on Monday, but recent thoughts from CEOs of Nvidia, Microsoft, and OpenAI about DeepSeek AI might make the market reconsider.",
+      "keywords": [
+        "Nvidia",
+        "Microsoft",
+        "OpenAI",
+        "DeepSeek AI"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Nvidia stock dropped nearly 17% on Monday."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Microsoft was mentioned in the context of DeepSeek AI, but no specific sentiment was expressed."
+        }
+      ]
+    },
+    {
+      "id": "60a76c6c0011e08296b9c2980545d45dde2bf79db682586c95dc2ce75a8fe277",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Microsoft Eyes TikTok US Deal, Trump Says Acquisition Talks Are Underway",
+      "author": "Anusuya Lahiri",
+      "published_utc": "2025-01-28T11:16:49Z",
+      "article_url": "https://www.benzinga.com/25/01/43260646/microsoft-eyes-tiktok-us-deal-as-trump-confirms-acquisition-talks-are-underway",
+      "tickers": [
+        "MSFT",
+        "META",
+        "ORCL",
+        "TSLA"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/28/Trump-TikTok-Zuckerberg-Shutterstock.png?width=1200&height=800&fit=crop",
+      "description": "Microsoft is in talks to acquire TikTok's U.S. arm, with the platform boasting 170 million U.S. users and 4% of the digital ad market. The potential sale, valued at $40-$50 billion, has drawn interest from other high-profile bidders like Oracle and Tesla.",
+      "keywords": [
+        "Microsoft",
+        "TikTok",
+        "acquisition",
+        "U.S. market",
+        "digital advertising"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is in talks to acquire TikTok's U.S. arm, indicating a strategic move to expand its presence in the social media and digital advertising space."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Meta Platforms' Instagram as a competitor to TikTok, but does not provide any specific information about the company's involvement in the potential acquisition."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Oracle is mentioned as one of the high-profile bidders interested in acquiring TikTok's U.S. arm, suggesting the company sees potential in the platform."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Tesla CEO Elon Musk is mentioned as a potential contender for the TikTok deal, indicating the company's interest in the platform."
+        }
+      ]
+    },
+    {
+      "id": "57b4770dbd9a5379ecdf9d832d2774b0f2d470743fbc51eeaa1fc3995abbf597",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Prediction: Once the Panic Dies Down, Nvidia Stock Will Soar to a New Record High",
+      "author": "Danny Vena",
+      "published_utc": "2025-01-28T11:10:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/28/prediction-once-the-panic-dies-down-nvidia-stock-w/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "MSFT",
+        "PLTR"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805464/thoughtful-person-looking-at-graphs-on-a-tablet-computer.jpg",
+      "description": "Despite concerns about a Chinese startup's claims of developing a cheaper AI system, Nvidia's cutting-edge technology, track record of innovation, and dominant position in the enterprise AI market suggest its stock will continue to soar.",
+      "keywords": [
+        "Nvidia",
+        "AI",
+        "enterprise AI",
+        "technology innovation"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article argues that Nvidia's cutting-edge technology, track record of innovation, and dominant position in the enterprise AI market will continue to drive its stock price higher, despite concerns about a Chinese startup's claims of developing a cheaper AI system."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Microsoft has quickly incorporated AI capabilities across its software-as-a-service offerings, indicating the growing adoption of AI in the enterprise market, which benefits Nvidia."
+        },
+        {
+          "ticker": "PLTR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Palantir Technologies has developed an Artificial Intelligence Platform that has become the standard for solving real-world business problems using a company's own data, further highlighting the growing enterprise demand for AI solutions that Nvidia's products cater to."
+        }
+      ]
+    }
+  ]
+}

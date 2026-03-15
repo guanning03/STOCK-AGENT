@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "UnitedHealth: Everyone Is Overreacting",
+      "description": "Discover why this undervalued company, potentially 135% below true value, might present growth opportunities despite missing Q2 2025 earnings.",
+      "published_utc": "2025-08-03T07:58:53",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7dcbf239deb9a49243127b520d2a0e057eb8fd7f55b762af41f7abf0e5fe70b8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2159946636/image_2159946636.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136190755,
+      "datetime": 1754222333
+    },
+    {
+      "title": "UnitedHealth Group: Buy This Falling Knife - Raised 2026 Premiums Trigger Recovery Prospects",
+      "description": "UNH's oversold status has been overly done, as the market digests the market-wide headwinds arising from regulatory changes and macro uncertainties.",
+      "published_utc": "2025-08-03T05:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=54a0851eada973c6e2dfd07df782103dab41a119e8f6d8111121ef39212045ab",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/90201401/image_90201401.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136190132,
+      "datetime": 1754213400
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:31:51.471019+00:00",
+    "cache_key": "news_69a14066c94e969bbfed1c5939884706",
+    "count": 2
+  }
+}

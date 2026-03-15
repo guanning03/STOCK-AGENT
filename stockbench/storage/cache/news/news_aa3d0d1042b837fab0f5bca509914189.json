@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "SpaceX Capsule Safely Returns Four Astronauts to Earth",
+      "description": "Four astronauts returned to Earth on Saturday after hustling to the International Space Station five months ago to relieve the stuck test pilots of Boeing's Starliner. Their SpaceX capsule parachuted into the Pacific off the Southern California coast a day after departing the orbiting lab.",
+      "published_utc": "2025-08-11T15:41:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b7e442895f35bc5e265780560f95bf48026764ac2b3b8fbe5e690598a12f48f5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136316156,
+      "datetime": 1754941272
+    },
+    {
+      "title": "This Boeing Stock Straddle Gets Profitable On Big Move In Either Direction",
+      "description": "With implied volatility on Boeing hitting recent lows, now may be an opportune time to consider a long straddle — especially if you expect a bigger-than-anticipated move in the stock.  A long straddle is an options strategy that takes no initial view on whether shares will rise or fall.  With Boeing trading near 230 on Monday, investors can consider a long straddle trade by buying both the 230 call and 230 put expiring September 19.",
+      "published_utc": "2025-08-11T14:35:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=acdde3402f27a359e54e5c23a605b499533bb46babaf4247e9cec0225536e664",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136310627,
+      "datetime": 1754937309
+    },
+    {
+      "title": "Salesforce, IBM share losses contribute to Dow's nearly 250-point drop",
+      "description": "Salesforce, IBM share losses contribute to Dow's nearly 250-point drop",
+      "published_utc": "2025-08-11T11:52:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f20bc52ad9d2867846ae9ecf9b494a0c135bab7081cfd24599d1c8682b0e1de8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136331678,
+      "datetime": 1754927520
+    },
+    {
+      "title": "Embraer's Q2 Earnings Miss Estimates, Revenues Increase Y/Y",
+      "description": "Embraer posts wider-than-expected Q2 loss despite 21.8% revenue jump, with gains across all business segments and a record $29.7B backlog.",
+      "published_utc": "2025-08-11T08:42:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=635cf3a4076f0da85ab448384abf8fb6e7ae792f4461d94cd1fa232081ae6280",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136294320,
+      "datetime": 1754916120
+    },
+    {
+      "title": "Air India suspends Delhi-Washington flights due to plane shortages, Pakistan airspace ban",
+      "description": "The suspension will mean there are no flights between the two capital cities by an Indian airline, and comes amid rising tensions over U.S. President Donald Trump's high tariffs on Indian imports.  Air India, acquired by the Tata Group from the government in 2022, said on Monday that 26 of its Boeing 787-8 aircraft were being retrofitted to enhance customer experience, which would reduce aircraft availability until at least the end of 2026.",
+      "published_utc": "2025-08-11T07:51:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=db0acb1cc043b708d9904fc560c9a9a7e29417a8d686d30eb0d49f012d59c836",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136294346,
+      "datetime": 1754913069
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:01:06.165233+00:00",
+    "cache_key": "news_aa3d0d1042b837fab0f5bca509914189",
+    "count": 5
+  }
+}

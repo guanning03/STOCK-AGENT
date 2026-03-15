@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": "3c1d55128afff83993ebe44d9cf2a3d7ba4b6b2fbd9edec091e1cc7fce05892b",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Tuesday's Producer Inflation Report Could Stoke Market Volatility As Fed Path Remains Unclear",
+      "author": "Piero Cingari",
+      "published_utc": "2025-01-13T17:13:20Z",
+      "article_url": "https://www.benzinga.com/economics/macro-economic-events/25/01/42953940/tuesdays-producer-inflation-report-could-stoke-market-volatility-as-fed-path-rema",
+      "tickers": [
+        "QQQ",
+        "SPY",
+        "TLT"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/13/inflation-chart-shutter.jpeg?width=1200&height=800&fit=crop",
+      "description": "The upcoming Producer Price Index (PPI) report for December is expected to show continued inflationary pressures, which could increase market volatility as investors remain uncertain about the Federal Reserve's monetary policy path.",
+      "keywords": [
+        "Producer Price Index",
+        "Federal Reserve",
+        "Inflation",
+        "Market Volatility"
+      ],
+      "insights": [
+        {
+          "ticker": "QQQ",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that the Nasdaq 100, which tracks the Invesco QQQ Trust, has dropped 7% from its December highs amid rising Treasury yields, indicating a negative sentiment."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The S&P 500 has fallen over 5% in the past month, suggesting a negative sentiment for the SPDR S&P 500 ETF."
+        },
+        {
+          "ticker": "TLT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article states that the iShares 20+ Year Treasury Bond ETF has fallen more than 10% since early December, entering correction territory, indicating a negative sentiment."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:44:38.791625+00:00",
+    "cache_key": "news_25179ea7dcbd9fd68a2952213d2fe025",
+    "count": 1
+  }
+}

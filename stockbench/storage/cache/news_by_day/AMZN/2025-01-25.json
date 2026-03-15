@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "id": "3bd5b478a51c1e2a7f509322ee4275e73ff59e8bc1b16b550bfed2a14c7f3408",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "4 Soaring Stocks I'd Buy Now With No Hesitation",
+      "author": "Geoffrey Seiler",
+      "published_utc": "2025-01-25T23:41:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/25/4-soaring-stocks-id-buy-now-with-no-hesitation/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804712/package-delivery-amazon-ups-fedex1.jpg",
+      "description": "The article highlights four consumer goods stocks that the author believes are attractive investments: Amazon, Philip Morris International, e.l.f. Beauty, and JAKKS Pacific. The author provides an overview of the companies' business models, growth drivers, and valuation metrics.",
+      "keywords": [
+        "consumer goods",
+        "Amazon",
+        "Philip Morris International",
+        "e.l.f. Beauty",
+        "JAKKS Pacific"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Amazon's strong performance in its retail and cloud computing businesses, as well as its history of innovation and investment to maintain its competitive edge."
+        },
+        {
+          "ticker": "PM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Philip Morris is a growth stock in a defensive industry, with strong growth in its smokeless product portfolio, including Zyn and Iqos, which have better unit economics than traditional cigarettes."
+        },
+        {
+          "ticker": "ELF",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that e.l.f. Beauty has been a huge winner in the past five years, gaining significant market share in the mass cosmetics space, and still has opportunities in skincare and international markets. The company is also considered a cheap growth stock."
+        },
+        {
+          "ticker": "JAKK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights JAKKS Pacific's turnaround under its new CFO, its focus on evergreen content and licensing deals, and its cheap valuation, making it an under-the-radar stock to consider buying."
+        }
+      ]
+    },
+    {
+      "id": "d2e1918c964a64f1f1de2da65be582d6f72a2bba952de99588ad4a7bd9513fe1",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Reasons Amazon Is 1 of the Best Artificial Intelligence (AI) Stocks to Buy Right Now",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-25T15:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/25/3-reasons-amazon-is-one-of-the-best-ai-stocks/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804485/gettyimages-2149224996.jpg",
+      "description": "Amazon's AWS is a major driver of its profits, and the company's significant investments in data centers and cloud services position it well to capitalize on the growing demand for AI. Amazon's strong operating cash flow and reasonable valuation make it an attractive long-term investment in the AI space.",
+      "keywords": [
+        "Amazon",
+        "AWS",
+        "AI",
+        "cloud services",
+        "data centers",
+        "operating cash flow",
+        "valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights several reasons why Amazon is a strong AI stock to invest in, including its dominant position in cloud services through AWS, significant investments in data centers to support AI demand, strong operating cash flow, and reasonable valuation compared to its historical levels."
+        }
+      ]
+    },
+    {
+      "id": "03ce27fcc217af734481715cf413338bb5c127b6dfc7b33d7e06bf5482487006",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Average American Retires at 62. Buying These 3 Stocks Now Could Make Your Retirement Much More Comfortable.",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-25T08:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/25/the-average-american-retires-at-62-buying-these-3/?source=iedfolrf0000001",
+      "tickers": [
+        "PEP",
+        "AMZN",
+        "WOLF"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804642/senior-man-enjoying-retirement-in-swimming-pool.jpg",
+      "description": "The article recommends three stocks - PepsiCo, Amazon, and Wolfspeed - that could help Americans retire more comfortably at the average retirement age of 62. It highlights the growth potential and consistent performance of these companies.",
+      "keywords": [
+        "retirement",
+        "stocks",
+        "PepsiCo",
+        "Amazon",
+        "Wolfspeed"
+      ],
+      "insights": [
+        {
+          "ticker": "PEP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights PepsiCo's consistent earnings growth, aggressive stock buyback program, and long history of dividend increases, making it a reliable investment for retirement."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article cites Amazon's strong growth potential in cloud computing and e-commerce, which could provide significant returns for investors looking to fund an early retirement."
+        },
+        {
+          "ticker": "WOLF",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Wolfspeed's technology in silicon carbide, which is crucial for electric vehicles and other power-intensive applications, could experience rapid growth in the coming years, making it a promising investment."
+        }
+      ]
+    }
+  ]
+}

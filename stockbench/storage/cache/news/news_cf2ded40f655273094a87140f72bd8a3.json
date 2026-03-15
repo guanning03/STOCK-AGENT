@@ -1,0 +1,174 @@
+{
+  "items": [
+    {
+      "title": "TSLA, BYND, IBM And More: 5 Stocks That Dominated Investor Buzz This Week",
+      "description": "Retail investors buzzed about 5 stocks, from Oct. 20 to Oct. 24, on X and Reddit&#39;s r/WallStreetBets: TSLA, BYND, RGTI, IBM, AMZN.",
+      "published_utc": "2025-10-25T08:01:32",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=9a780aa4785e6e790fbf23d9a90bf4bf27d03ceece947005589e73a609efd90c",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/10/25/London---May-21-Ibm-Logo-On-The-Ibm-Clie.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138480666,
+      "datetime": 1761393692
+    },
+    {
+      "title": "Microsoft, Meta Set To Report Earnings As Investors Watch Out For Trump-Xi, Fed Meeting",
+      "description": "This week will witness earnings releases from the Magnificent 7 stocks. Investors will await news from Trump-Xi meeting. Read here for more details.",
+      "published_utc": "2025-10-25T07:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d5db441f4ccd9be07a8c416bf0dd115788548310d8ae67d27bbe6f36a1335745",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137207189,
+      "datetime": 1761390000
+    },
+    {
+      "title": "This Week In Markets: Earnings, Inflation, And Geopolitical Shifts",
+      "description": "Corporate earnings were the primary market driver this week, fueling sector-specific rallies and helping equities reclaim record levels.",
+      "published_utc": "2025-10-24T22:44:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bfc31fe75b5c863d4c55d411cce0ba9692135739721c602056ed365e303b723a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1892797470/image_1892797470.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137205490,
+      "datetime": 1761360240
+    },
+    {
+      "id": "dc018cdcbe2e614a4ba5f0668e40733611b1d4545f2479179042f7577ec8c7f9",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "5 Things to Know About Amazon Stock Before You Buy",
+      "author": "Billy Duberstein",
+      "published_utc": "2025-10-25T17:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/10/25/5-things-to-know-about-amazon-stock-before-you-buy/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "WMT",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/839487/gettyimages-1365806778.jpg",
+      "description": "Amazon is a diverse tech conglomerate with strong e-commerce, cloud computing (AWS), and emerging satellite broadband services. The company is poised for continued growth through strategic innovation, AI investments with Anthropic, and potential market leadership in revenue.",
+      "keywords": [
+        "Amazon",
+        "e-commerce",
+        "AWS",
+        "AI",
+        "Project Kuiper",
+        "Anthropic"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong revenue growth, expanding profit margins, innovative business strategies, successful AI partnership with Anthropic, and potential to become largest company by revenue"
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Slower revenue growth compared to Amazon, currently larger in annual revenue but likely to be overtaken"
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as current GPU provider, but Amazon developing alternative Trainium and Inferentia chips"
+        }
+      ]
+    },
+    {
+      "id": "a14aed81aea0e11efbb22a94aabdba789a70b1b6d66fa2cd19c345f9551d68dc",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Prediction: Nvidia Stock Is Going to Soar After Nov. 20",
+      "author": "Adam Spatacco",
+      "published_utc": "2025-10-25T07:25:00Z",
+      "article_url": "https://www.fool.com/investing/2025/10/25/prediction-nvidia-stock-is-going-to-soar-after-nov/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "MSFT",
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "META",
+        "ORCL",
+        "DELL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/838673/nvidia-headquarters-outside-with-black-nvidia-sign-with-nvidia-logo-1.jpg",
+      "description": "Nvidia is expected to report strong Q3 earnings on Nov. 19, with potential for significant stock growth driven by AI infrastructure expansion, new GPU architectures, and strong demand from major tech companies.",
+      "keywords": [
+        "Nvidia",
+        "AI",
+        "GPU",
+        "earnings",
+        "infrastructure",
+        "Blackwell"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong GPU demand, leading AI infrastructure position, expected 70% earnings growth, broad-based partnerships, and potential for continued market expansion"
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Part of hyperscalers investing heavily in AI infrastructure and GPU systems"
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Part of hyperscalers investing heavily in AI infrastructure and GPU systems"
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Part of hyperscalers investing heavily in AI infrastructure and GPU systems"
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Part of hyperscalers investing heavily in AI infrastructure and GPU systems"
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Part of hyperscalers investing heavily in AI infrastructure and GPU systems"
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Embedding Nvidia systems into enterprise infrastructure solutions"
+        },
+        {
+          "ticker": "DELL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Embedding Nvidia systems into enterprise infrastructure solutions"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:54:58.243406+00:00",
+    "cache_key": "news_cf2ded40f655273094a87140f72bd8a3",
+    "count": 5
+  }
+}

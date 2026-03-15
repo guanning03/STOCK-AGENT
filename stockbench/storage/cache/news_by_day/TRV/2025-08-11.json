@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Is GEICO the Cornerstone of Berkshire Hathaway's Insurance Growth?",
+      "description": "GEICO's cost-efficient model and steady float make it the driving force behind Berkshire Hathaway's insurance growth.",
+      "published_utc": "2025-08-11T13:42:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0e69faae14f8e102bba8f36edd9b33f6baf5fa255fc9e7e42439b40fb053a9aa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136310658,
+      "datetime": 1754934120
+    },
+    {
+      "title": "WRB Outperforms Industry, Trades at a Premium: How to Play the Stock",
+      "description": "W.R. Berkley stock gains from higher premiums, lower claims frequency in certain lines of business, effective capital deployment, and sufficient liquidity.",
+      "published_utc": "2025-08-11T10:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aaae0ae520869b391d9391f22f05d35ee66ee98d76a12c38f2651baba1f7fa0e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136310808,
+      "datetime": 1754922000
+    }
+  ]
+}

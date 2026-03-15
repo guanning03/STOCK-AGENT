@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today: Dow Skids As Oil Clears $100 On Iran War; This Hair Loss Play Tests Entry Point (Live Coverage)",
+      "description": "Stock Market Today: The Dow Jones index dived Monday as oil prices surged on the U.S.-Iran war. Nvidia and transport stocks dropped.",
+      "published_utc": "2026-03-09T11:16:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c85f47e762b748e7f7ec5f7595403aa49a816c1774dbfcecfd131907d9d16fd3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139352532,
+      "datetime": 1773069372
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "If I Could Only Buy 1 S&P 500 Stock From Each Sector for the Rest of 2025, I'd Go With These 11 Dividend Stocks",
+      "description": "Incorporating top stocks from a variety of sectors can be an effective way to balance out an investment portfolio.",
+      "published_utc": "2025-08-23T18:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3e6740c69a71feb93ddc85241dc8073e097e7e1471e06ac5b8525ef3b7ff7747",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136502601,
+      "datetime": 1755986700
+    },
+    {
+      "title": "This Billionaire Was Scooping Up Shares of Amazon and Alphabet in Q2. Should Investors Follow Suit and Buy the Stocks?",
+      "description": "Bill Ackman doesn't hold that many companies in Pershing Square Capital's portfolio, so when he buys shares, it's worth taking note.",
+      "published_utc": "2025-08-23T16:07:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=065ba0f299137812b842a0a565f3aa20797444d2e02daa2a89a7e76a6094e96f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136502602,
+      "datetime": 1755979620
+    },
+    {
+      "title": "Amazon AGI Labs chief defends his reverse acquihire",
+      "description": "The former Adept CEO said he hopes to be \"remembered more as \"an AI research innovator\" than a \"a deal structure innovator.\"",
+      "published_utc": "2025-08-23T16:01:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b6e81448be07459a5e92b726adcaba340afe028b5a00f10b520084f73962e711",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136502603,
+      "datetime": 1755979264
+    },
+    {
+      "title": "Prediction: This Quantum Computing Stock Will Still Be Worth More Than Berkshire Hathaway, Palantir, and Tesla Combined in 2030",
+      "description": "Quantum computing could become the next frontier of the artificial intelligence revolution.",
+      "published_utc": "2025-08-23T12:47:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=963004d4b5e80bab2c5fff729f22be257f34cf9ebb2bedd4c494b9da856a2d25",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136495839,
+      "datetime": 1755967620
+    },
+    {
+      "title": "Bill Ackman Invests $1.27 Billion in Amazon, Adds To Google and More",
+      "description": "Bill Ackman has made a hefty investment in Amazon, pouring in more than $1.27 billion within a span of three months.",
+      "published_utc": "2025-08-23T11:31:11",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=108658406b4b8fbcb60466b9e9e01e1735072573ed1107dd730c23ebddd94434",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/08/23/bill-ackman.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138624851,
+      "datetime": 1755963071
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:37:58.315560+00:00",
+    "cache_key": "news_2812ce4a5a295aeb1a89c87d9b065747",
+    "count": 5
+  }
+}

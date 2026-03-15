@@ -1,0 +1,116 @@
+{
+  "items": [
+    {
+      "id": "75606fb95ce04f021fd0fd712eaa6171c60c6bd02335f4afc49ea6d020fd250a",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Best Artificial Intelligence (AI) Stocks to Buy in January",
+      "author": "Geoffrey Seiler",
+      "published_utc": "2025-01-12T20:17:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/12/3-best-artificial-intelligence-ai-stocks-to-buy-in/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "MSFT",
+        "CRM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803438/gettyimages-1480633240.jpg",
+      "description": "The article discusses the growth opportunities in the AI sector, particularly for companies like Nvidia, Microsoft, and Salesforce. Nvidia's GPUs are driving the AI infrastructure build-out, while Microsoft and Salesforce are leveraging AI in their cloud computing and productivity offerings.",
+      "keywords": [
+        "AI",
+        "Nvidia",
+        "Microsoft",
+        "Salesforce"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia's revenue has skyrocketed due to the demand for its GPUs, which are essential for AI infrastructure. The company has a dominant 90% market share in the GPU space and is well-positioned to benefit from the continued growth in AI spending."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is planning to spend around $80 billion this year on AI data centers, which is expected to drive growth for its Azure cloud computing unit and AI-powered productivity tools. The company is also addressing capacity constraints to meet the growing demand for its AI services."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce is positioning itself as a leader in agentic AI, which is the next evolution of AI beyond generative AI. The company's Agentforce platform has seen rapid adoption, and it aims to have 1 billion Agentforce AI agents deployed by the end of fiscal 2026."
+        }
+      ]
+    },
+    {
+      "id": "52788a7b3fb30bbae3aacc79c0ece55be24378c360ff53eba20e6146d3cfde1b",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "A Russell 2000 Bull Market Could Be Coming: 1 Spectacular BlackRock ETF to Buy Hand Over Fist Before It Gets Here",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-12T09:48:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/12/russell-2000-bull-market-1-blackrock-etf-buy-hand/?source=iedfolrf0000001",
+      "tickers": [
+        "IWM",
+        "NVDA",
+        "MSFT",
+        "AAPL",
+        "SFM",
+        "INSM",
+        "SSB"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803443/a-golden-bull-figurine-on-top-of-a-strip-of-money.jpg",
+      "description": "The article discusses the potential for a bull market in the Russell 2000 small-cap index, driven by factors like falling interest rates and business-friendly policies. It highlights the iShares Russell 2000 ETF as a way for investors to profit from this potential rebound.",
+      "keywords": [
+        "Russell 2000",
+        "small-cap",
+        "bull market",
+        "iShares Russell 2000 ETF",
+        "interest rates",
+        "business-friendly policies"
+      ],
+      "insights": [
+        {
+          "ticker": "IWM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article recommends the iShares Russell 2000 ETF as a way for investors to profit from a potential rebound in the Russell 2000 index, as it tracks the performance of the index."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Nvidia as one of the large tech companies that make up a significant portion of the S&P 500, in contrast to the more balanced composition of the Russell 2000."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Microsoft as one of the large tech companies that make up a significant portion of the S&P 500, in contrast to the more balanced composition of the Russell 2000."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Apple as one of the large tech companies that make up a significant portion of the S&P 500, in contrast to the more balanced composition of the Russell 2000."
+        },
+        {
+          "ticker": "SFM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article uses Sprouts Farmers Market as an example of a small-cap company in the Russell 2000 that conducts most of its business within the U.S., which could benefit from the potential tailwinds mentioned in the article."
+        },
+        {
+          "ticker": "INSM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article uses Insmed as an example of a small-cap company in the Russell 2000 that is headquartered in the U.S., which could benefit from the potential tailwinds mentioned in the article."
+        },
+        {
+          "ticker": "SSB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article uses SouthState, an American regional bank, as an example of a small-cap company in the Russell 2000 that could benefit from the potential tailwinds mentioned in the article, such as falling interest rates."
+        }
+      ]
+    }
+  ]
+}

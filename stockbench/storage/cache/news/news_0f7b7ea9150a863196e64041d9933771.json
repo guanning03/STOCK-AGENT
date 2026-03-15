@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Honeywell International Inc. stock outperforms competitors despite losses on the day",
+      "description": "Honeywell International Inc. stock outperforms competitors despite losses on the day",
+      "published_utc": "2026-01-20T11:37:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=06fbd9a2521b9d3148b54a9bf77a933d5b3b995ac7722a55492c74f037a927e8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138235285,
+      "datetime": 1768927020
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:47:38.654938+00:00",
+    "cache_key": "news_0f7b7ea9150a863196e64041d9933771",
+    "count": 1
+  }
+}

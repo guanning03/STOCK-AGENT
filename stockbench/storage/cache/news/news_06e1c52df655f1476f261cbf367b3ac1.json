@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Investors Title Gains 22% in Six Months: Should You Buy the Stock?",
+      "description": "ITIC posts solid growth with rising premiums, strong exchange services and regulatory rate boosts, positioning itself well across key housing markets like Texas and North Carolina.",
+      "published_utc": "2025-12-09T10:59:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=146e20f271606659d508fa6dcfbaf349f49d55c9eeeeb9127e9289fc7547872b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137742862,
+      "datetime": 1765295940
+    },
+    {
+      "title": "1 Insurance Stock with Exciting Potential and 2 That Underwhelm",
+      "description": "Insurance providers use their expertise in risk assessment to help protect assets while offering consumers peace of mind through comprehensive coverage options. But worries about an economic slowdown and potential claims deterioration have kept sentiment in check, and over the past six months, the industry’s return was flat while the S&P 500 climbed by 14.3%.",
+      "published_utc": "2025-12-08T23:36:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b949e9cb51449c4ff3c53f9e17688329fe0b7593ce389841a99a47794bc0a0d8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137740395,
+      "datetime": 1765255012
+    },
+    {
+      "title": "Using Quantitative Signal Data For Portfolio Management",
+      "description": "One question weâve been asked many times is whether ValuEngine stock ratings can be used for portfolio management or merely for trading stocks.",
+      "published_utc": "2025-12-08T23:20:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0e9697e80a4d66d511283dcf20467a67b49ea7bcf5972e4e457e9cf8608de118",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2022152397/image_2022152397.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137738704,
+      "datetime": 1765254000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:20:16.817105+00:00",
+    "cache_key": "news_06e1c52df655f1476f261cbf367b3ac1",
+    "count": 3
+  }
+}

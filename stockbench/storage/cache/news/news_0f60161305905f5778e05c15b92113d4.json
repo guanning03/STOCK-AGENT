@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The Aerospace Recovery Is at ‘End of the Beginning.’ 7 Stocks for 2026.",
+      "description": "Deutsche Bank analyst Scott Deuschle published an outlook report on the sector on Wednesday. He has some ideas for investors.",
+      "published_utc": "2025-12-10T16:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2169755739992dfee9c719ff23f32aa08be2b14b16bfe6a532a2f07a127a933e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137755922,
+      "datetime": 1765401000
+    },
+    {
+      "title": "BAE Systems to advance autonomous space-based surveillance technology for DARPA",
+      "description": "The U.S. Defense Advanced Research Projects Agency (DARPA) has awarded BAE Systems' (LON: BA) FAST Labs™ research, development, and production organization a $16 million Phase 2 contract for the Oversight program. The Oversight program is focused on creating an autonomous system that keeps track, or maintains constant \"custody,\" of a large number of terrestrial assets via new satellite constellations.",
+      "published_utc": "2025-12-10T14:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2a62a8b96ce327ef22ed1f94a7d2a7ebd7b6dea014701b27d8dedf80d26ff26e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137750273,
+      "datetime": 1765393200
+    },
+    {
+      "title": "Boeing Finally Beat Airbus. This Matters More.",
+      "description": "Boeing Finally Beat Airbus. This Matters More.",
+      "published_utc": "2025-12-10T11:24:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=3a25bf8254cb9d2f65c3028564eb2e2cc85fc3b799c085378bb48127554d3d51",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137859982,
+      "datetime": 1765383840
+    },
+    {
+      "title": "Northrop Grumman Secures a Contract to Aid SiAW and AARGM-ER Programs",
+      "description": "NOC wins a $100M contract to bolster SiAW and AARGM-ER programs, expanding its role in advanced missile systems through 2034.",
+      "published_utc": "2025-12-10T11:17:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c8c2d8729b3d69905f2751d3798be26bc3cbbbda014a6662a6b2e884dffcd554",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137750088,
+      "datetime": 1765383420
+    },
+    {
+      "title": "Here’s why this analyst says Boeing stock is well positioned for 2026",
+      "description": "Investing.com -- Boeing is entering 2026 with improving execution, accelerating production, and a multiyear free-cash-flow ramp that TD Cowen believes the market is still underestimating.",
+      "published_utc": "2025-12-10T10:34:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7d06f8aa8fc454d6cbeb4289e1f17dede2636d54e43be9a4b3f181cbcfdaf724",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137750275,
+      "datetime": 1765380840
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:25:56.618141+00:00",
+    "cache_key": "news_0f60161305905f5778e05c15b92113d4",
+    "count": 5
+  }
+}

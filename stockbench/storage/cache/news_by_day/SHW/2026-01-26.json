@@ -1,0 +1,105 @@
+{
+  "items": [
+    {
+      "title": "Sherwin-Williams Announces and Celebrates 2025 Vendor of the Year Award Winners",
+      "description": "The Sherwin-Williams Company recognized its 2025 Vendor of the Year award winners this week during its annual National Sales Meeting in Orlando, FL. Four companies were named Vendor of the Year, with two additional partners honored for the Innovative Product of the Year Award and Marketing Agency Partner Award. Winners were selected for delivering high-quality products, exceptional service, and strong alignment with Sherwin-Williams mission to meet and exceed customer needs.",
+      "published_utc": "2026-01-26T14:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c53c4905c8992b852c50ff9688b2bf3ce79d4044b48bdd657005efb4058880ae",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138264393,
+      "datetime": 1769454000
+    },
+    {
+      "id": "2fa96f79a5e9786f1feb15d11ded617dda21a8df1cc3fbd0d5c06213b486e9cd",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Decorative Concrete Market - Global Industry Size, Share, Trends, Opportunity, and Forecast, 2021-2031",
+      "author": "Researchandmarkets.Com",
+      "published_utc": "2026-01-26T09:53:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2026/01/26/3225324/28124/en/Decorative-Concrete-Market-Global-Industry-Size-Share-Trends-Opportunity-and-Forecast-2021-2031.html",
+      "tickers": [
+        "CX",
+        "BASFY",
+        "PPG",
+        "SHW",
+        "MMM",
+        "RPM",
+        "HCMLY"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The global decorative concrete market is projected to grow from $24.06 billion in 2025 to $35.17 billion by 2031 at a 6.53% CAGR. Growth is driven by residential remodeling demand and urbanization, but high interest rates and reduced construction starts pose significant headwinds. Sustainability trends and 3D printing technology are reshaping the market.",
+      "keywords": [
+        "decorative concrete",
+        "market growth",
+        "residential remodeling",
+        "urbanization",
+        "3D concrete printing",
+        "sustainable construction",
+        "high interest rates",
+        "construction starts"
+      ],
+      "insights": [
+        {
+          "ticker": "CX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Cemex's Urbanization Solutions business expanded 31% in the fiscal year preceding 2024, and their Vertua lower-carbon products comprised 55% of total concrete sales, demonstrating strong growth in both urbanization and sustainability segments."
+        },
+        {
+          "ticker": "BASFY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "BASF is listed as a key player in the decorative concrete market but no specific performance metrics or developments are mentioned in the article."
+        },
+        {
+          "ticker": "PPG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "PPG is listed as a key player in the decorative concrete market but no specific performance metrics or developments are mentioned in the article."
+        },
+        {
+          "ticker": "SHW",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Sherwin-Williams is listed as a key player in the decorative concrete market but no specific performance metrics or developments are mentioned in the article."
+        },
+        {
+          "ticker": "MMM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "3M is listed as a key player in the decorative concrete market but no specific performance metrics or developments are mentioned in the article."
+        },
+        {
+          "ticker": "RPM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "RPM International is listed as a key player in the decorative concrete market but no specific performance metrics or developments are mentioned in the article."
+        },
+        {
+          "ticker": "HCMLY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Holcim demonstrated innovation leadership with Switzerland's first onsite 3D printed building using specialized printable mortar, completing 6.2-meter-high curved walls in 55 hours, showcasing technological advancement in architectural concrete applications."
+        }
+      ]
+    },
+    {
+      "title": "Curious about Sherwin-Williams (SHW) Q4 Performance? Explore Wall Street Estimates for Key Metrics",
+      "description": "Get a deeper insight into the potential performance of Sherwin-Williams (SHW) for the quarter ended December 2025 by going beyond Wall Street's top-and-bottom-line estimates and examining the estimates for some of its key metrics.",
+      "published_utc": "2026-01-26T09:15:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6dc1b719274c9d3ef41c2267555419276dd546df8d3a2741801f380b81ecf377",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138263584,
+      "datetime": 1769436910
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Ace Hardware Ranks #5 on Franchise Times Top 400 List for Fourth Consecutive Year",
+      "description": "Ace Hardware, the world's largest hardware cooperative, has earned the #5 ranking on the Franchise Times Top 400 list for the fourth year in a row. The Franchise Times Top 400 is an exclusive annual ranking of the largest U.S.-based franchise systems by global systemwide sales. Ace Hardware once again joins the top five alongside iconic global brands McDonald's, 7-Eleven, KFC, and Burger King, respectively.",
+      "published_utc": "2025-10-08T08:57:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cc93fa0733f72b2b086b822f00721c2deee80f3b30351577c482acdfbc8f5592",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137010958,
+      "datetime": 1759928220
+    },
+    {
+      "title": "Former CEO of McDonald's South Africa Joins CEO Coaching International as Partner and Coach",
+      "description": "CEO Coaching International, the leading CEO coaching firm for growth-focused CEOs and entrepreneurs globally, is pleased to announce Greg Solomon as its newest Partner and Coach.",
+      "published_utc": "2025-10-08T08:35:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d9a4c9e6bd0535975afd1b67600caf7c112fc7dd290f9764e55f92bae3c05e07",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137010082,
+      "datetime": 1759926900
+    },
+    {
+      "title": "Market Whales and Their Recent Bets on MCD Options",
+      "description": "",
+      "published_utc": "2025-10-08T08:01:20",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=d34a52610d8876c69504d3064f06171f4281c3a4061460be2d2c44de794684d1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138505933,
+      "datetime": 1759924880
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:06:59.088646+00:00",
+    "cache_key": "news_f1187d0fda6569a588a8fc1977f6d23d",
+    "count": 3
+  }
+}

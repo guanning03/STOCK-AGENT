@@ -1,0 +1,137 @@
+{
+  "items": [
+    {
+      "id": "cc79600f8f4300494f3f4f0ea6d03e0a2cc0c7e5a64f46758954927a264d5eb2",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Consumer Tech News (Jan 20-Jan 24): Trump Revokes Biden's AI Policies, Meta Launches New 'Edits' App To Lure TikTok Users & More",
+      "author": "Lekha Gupta",
+      "published_utc": "2025-01-25T16:00:48Z",
+      "article_url": "https://www.benzinga.com/news/large-cap/25/01/43216486/consumer-tech-news-jan-20-jan-24-trump-revokes-bidens-ai-policies-meta-launches-new-edits-app-to-l",
+      "tickers": [
+        "EA",
+        "META",
+        "TSLA",
+        "MSFT",
+        "AAPL",
+        "GOOG",
+        "GOOGL"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/25/Brightly-Glowing-Ai-Chip-On-Light-Circui.jpeg?width=1200&height=800&fit=crop",
+      "description": "President Trump revoked Biden's AI executive order, Electronic Arts reported a revenue miss, Meta launched a new video app to compete with TikTok, and other tech news.",
+      "keywords": [
+        "AI",
+        "Electronic Arts",
+        "Meta",
+        "TikTok",
+        "Tesla",
+        "Microsoft",
+        "Apple",
+        "Samsung",
+        "Google"
+      ],
+      "insights": [
+        {
+          "ticker": "EA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Electronic Arts reported a revenue miss for Q3, citing a slowdown in Global Football."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Meta launched a new video creation app called 'Edits' to attract TikTok users."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Tesla bull Ross Gerber voiced doubts about the effectiveness of an executive order in overriding existing laws concerning the TikTok ban."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "LinkedIn, owned by Microsoft, has been accused of sharing private data for AI model training without user consent."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple is reportedly bringing its AI capabilities to the Mac's Mail app with the upcoming macOS 15.4 update."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Samsung and Google have decided to collaborate for developing augmented reality glasses."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Samsung and Google have decided to collaborate for developing augmented reality glasses."
+        }
+      ]
+    },
+    {
+      "id": "b240a7ac851e97521d7a05228fc82b8ae1cc94d4965e55790b364661ee4f0a8d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "2 ETFs to Buy in 2025 and Hold Forever",
+      "author": "Jennifer Saibil",
+      "published_utc": "2025-01-25T14:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/25/2-etfs-to-buy-in-2025-and-hold-forever/?source=iedfolrf0000001",
+      "tickers": [
+        "VOO",
+        "VOOG",
+        "AAPL",
+        "MSFT",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804808/person-holding-a-stack-of-bills.jpg",
+      "description": "The article discusses the benefits of investing in index funds, particularly the Vanguard S&P 500 ETF and the Vanguard S&P 500 Growth ETF. It highlights the diversification and low-cost advantages of these ETFs, as well as their strong performance over time.",
+      "keywords": [
+        "index funds",
+        "ETFs",
+        "Vanguard",
+        "S&P 500",
+        "growth investing"
+      ],
+      "insights": [
+        {
+          "ticker": "VOO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the Vanguard S&P 500 ETF as a great choice for investors, citing its low expense ratio, diversification, and strong performance as reasons to invest in it."
+        },
+        {
+          "ticker": "VOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article also recommends the Vanguard S&P 500 Growth ETF, noting its outperformance of the regular S&P 500 ETF and its focus on growth stocks, which can provide additional upside potential for investors."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Apple as one of the large, established companies that are included in the Vanguard S&P 500 Growth ETF, indicating that it is a stable and well-performing stock."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Similar to Apple, the article mentions Microsoft as one of the large, established companies in the Vanguard S&P 500 Growth ETF, suggesting that it is a strong and reliable investment."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article also includes Nvidia as one of the large, established companies in the Vanguard S&P 500 Growth ETF, indicating that it is a high-performing growth stock."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:12:39.295891+00:00",
+    "cache_key": "news_914f310a0470d827d93f2033cd85e88c",
+    "count": 2
+  }
+}

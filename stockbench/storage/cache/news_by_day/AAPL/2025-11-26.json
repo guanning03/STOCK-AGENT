@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "These Stocks Moved the Most Today: Alphabet, Nvidia, AMD, Apple, Dell, Robinhood, Deere, HP Inc., Urban Outfitters, and More",
+      "description": "Alphabet fell and Nvidia rose Wednesday. Investors are betting Alphabet can become a dominant player in AI.",
+      "published_utc": "2025-11-26T16:38:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eb5695b9c19f77be97168f3248bafec858f720474c1a0f06711fdcfa8decc206",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137618947,
+      "datetime": 1764193080
+    },
+    {
+      "title": "As AI Market Wobbles, This Giant Makes Waves On Wall Street",
+      "description": "While Google and Apple soar and Nvidia and Palantir struggle, top funds once again bet huge on Banco Santander stock.",
+      "published_utc": "2025-11-26T16:10:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d6d403e66e1903d4f34d171d93f84f45f46d6bed6cfefddb1a8447c13f45f8c1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137618950,
+      "datetime": 1764191416
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq rally into Thanksgiving, notch best 4-day stretch since May",
+      "description": "Stock futures held steady as investors realigned amid a month of losses.",
+      "published_utc": "2025-11-26T16:01:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f98b6ad66d1b112140d228036c965b1ac6541d11435db458a545ba333f6f3172",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137618957,
+      "datetime": 1764190867
+    },
+    {
+      "title": "Apple projected to beat Samsung in smartphone shipments for first time since 2011",
+      "description": "Shipments of iPhones are expected to surge 10% in 2025 as Apple reclaims smartphone leadership from Samsung, fueled by strong iPhone 17 series reception.",
+      "published_utc": "2025-11-26T15:42:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b911a6a500d300dd98d0fb7dd73a9b24edcbacbd5684dec0789ea3585e45d11a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137618958,
+      "datetime": 1764189770
+    },
+    {
+      "title": "Tech Firms From Dell to HP Warn of Memory Chip Squeeze From AI",
+      "description": "Consumer electronics makers including Xiaomi Corp. have sounded the alarm about potential price increases, while others including Lenovo Group Ltd. have begun stockpiling memory chips in anticipation of rising costs.  Counterpoint Research this month forecast a 50% price rise for memory modules through the second quarter of next year.",
+      "published_utc": "2025-11-26T15:14:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b0b771c80dd2d1180531a3f98e17ce4bea1cef7f8c9e846c9b5967d147c282fe",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137618959,
+      "datetime": 1764188073
+    }
+  ]
+}

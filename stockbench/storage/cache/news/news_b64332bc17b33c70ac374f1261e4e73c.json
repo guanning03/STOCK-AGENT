@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "UnitedHealth Group (NYSE:UNH) Will Be Hoping To Turn Its Returns On Capital Around",
+      "description": "If you're not sure where to start when looking for the next multi-bagger, there are a few key trends you should keep an...",
+      "published_utc": "2025-11-29T06:00:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=872d2edbcf5c78abc9746ab56040bd999f8d942691906a0758c9719aeb59455f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137650013,
+      "datetime": 1764414014
+    },
+    {
+      "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of November 30",
+      "description": "Read here for the latest weekly dividend updates on Champions, Contenders, and Challengers. Track changes, ex-dividend, and pay dates.",
+      "published_utc": "2025-11-28T19:11:48",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5f52550159b6aef288e6c96475af2d242cf6e72b3efa439464f77411d999e0fb",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1072593728/image_1072593728.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137633665,
+      "datetime": 1764375108
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:42:58.736284+00:00",
+    "cache_key": "news_b64332bc17b33c70ac374f1261e4e73c",
+    "count": 2
+  }
+}

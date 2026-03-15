@@ -1,0 +1,103 @@
+{
+  "items": [
+    {
+      "title": "ADM to Present at 2025 Goldman Sachs Industrials & Materials Conference",
+      "description": "CHICAGO, November 24, 2025--ADM (NYSE: ADM) will present at the 2025 Goldman Sachs Industrials & Materials Conference on Wednesday, Dec. 3, in New York City. The company will participate in a fireside chat at 3:30 p.m. Eastern Time.",
+      "published_utc": "2025-11-24T16:31:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7c2c9b466a69acf6a85f32ce96715341db55dbac15cfb3324344c8bf454e02aa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137601560,
+      "datetime": 1764019860
+    },
+    {
+      "title": "JPMorgan and Goldman Upgrade MP Materials Amid Defense-Driven Demand Outlook",
+      "description": "MP Materials stock looks poised for a rebound as analysts see major upside and strategic importance in U.S. defense and rare-earth supply chains.",
+      "published_utc": "2025-11-24T16:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5af122240e518a613ae11d70551747b2d46a49f012f1c68f537e88446dcba05b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137611239,
+      "datetime": 1764018900
+    },
+    {
+      "title": "Beat the Market the Zacks Way: Goldman Sachs, Micron, Prelude in Focus",
+      "description": "GS stands out as Zacks showcases how its stock picks like MU and PRLD delivered strong gains despite a shaky market.",
+      "published_utc": "2025-11-24T08:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7927d4bf3007ef4bf72fe8f1006773070861a47e28c7fd82d75276fe3461dc59",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137590480,
+      "datetime": 1763989800
+    },
+    {
+      "id": "2031045877b562ddfbf5b72ef70ff9786939c00900bea106c7653ee7ae019d84",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "ING Group completes two risk sharing transactions",
+      "author": "Ing Group Media Relations",
+      "published_utc": "2025-11-24T07:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/11/24/3193199/0/en/ING-Group-completes-two-risk-sharing-transactions.html",
+      "tickers": [
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD"
+      ],
+      "image_url": "https://ml-eu.globenewswire.com/Resource/Download/f98b0fea-4867-42b4-a7ea-9e63eda03ea5",
+      "description": "ING Group successfully completed two significant risk transfer transactions, covering €10.5 billion in corporate loan portfolios, which are expected to reduce risk-weighted assets by €3.4 billion and improve capital ratios.",
+      "keywords": [
+        "risk transfer",
+        "corporate loans",
+        "capital management",
+        "banking"
+      ],
+      "insights": [
+        {
+          "ticker": "GS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned in a separate acquisition context by ING Bank Śląski, with no direct impact on the main transaction details"
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned in a separate acquisition context by ING Bank Śląski, with no direct impact on the main transaction details"
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned in a separate acquisition context by ING Bank Śląski, with no direct impact on the main transaction details"
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned in a separate acquisition context by ING Bank Śląski, with no direct impact on the main transaction details"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:32:17.784389+00:00",
+    "cache_key": "news_040da2ae5439520d8245ca0c965069f9",
+    "count": 4
+  }
+}

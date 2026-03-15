@@ -1,6 +1,81 @@
 {
   "items": [
     {
+      "title": "JPMorgan’s Tariff-Day Trade Is Going Long on Automaker Bonds",
+      "description": "(Bloomberg) -- Beaten-down corporate bonds from automakers could rally after Wednesday’s tariff announcement from US President Donald Trump, making the debt an attractive purchase, according to JPMorgan Chase & Co.Most Read from BloombergMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLondon Clears Final Hurdle for More High-Speed Trains to EuropeWhat Frank Lloyd Wright Learned From the DesertLocal Governments Vie for Fired Federal WorkersChicago School District Agree",
+      "published_utc": "2025-04-02T12:02:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3753af71aa1eed050912db0ee3edf15b6cc7ce3b4391a303823d2633d7d51670",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133669370,
+      "datetime": 1743609724
+    },
+    {
+      "title": "Charles Schwab Upgraded To Buy As It 'Shifts To Offense'",
+      "description": "Charles Schwab stock climbed on an upgrade Wednesday. BofA expects cautionary tone from banks for Q1 results next week.",
+      "published_utc": "2025-04-02T09:38:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e39e3f5cb0c1deaaaa90e0ee17d0ac77d8695b37b0e98a3923d12bd0375781f3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133669372,
+      "datetime": 1743601138
+    },
+    {
+      "title": "Treasuries Gain as Trade Tensions Rise Ahead of Trump’s Tariffs",
+      "description": "(Bloomberg) -- US Treasuries added to their recent rally as global trade tensions rose ahead of President Donald Trump’s tariff announcement.Most Read from BloombergWhat Frank Lloyd Wright Learned From the DesertLondon Clears Final Hurdle for More High-Speed Trains to EuropeMetro-North Is Faster Than Acela on NYC-New Haven Route After Signal UpdatesLocal Governments Vie for Fired Federal WorkersBank Regulators Fight for Desks as OCC Returns to New York TowerThe 10-year yield fell for a fourth co",
+      "published_utc": "2025-04-02T07:22:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=181d1593b1d2b7d69f95aa91178c1cdbc3d58da9b4119f3966eec3d56b043468",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133666092,
+      "datetime": 1743592956
+    },
+    {
+      "title": "Goldman Sachs, Johnson & Johnson share gains contribute to Dow's nearly 125-point jump",
+      "description": "Goldman Sachs, Johnson & Johnson share gains contribute to Dow's nearly 125-point jump",
+      "published_utc": "2025-04-02T07:21:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=669f9caacf9d054d907d1d8aa97d244be4c920fcbec0058fae145b9cfb54c0fe",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133669984,
+      "datetime": 1743592860
+    },
+    {
+      "title": "TCW Relative Value Large Cap Fund Q4 2024 Commentary",
+      "description": "The Fed lowered rates by 25 bps at its December meeting but forecasted fewer cuts (two versus four) in 2025 due to inflation concerns. Read more here.",
+      "published_utc": "2025-04-02T05:52:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7bcd232a6d2fbaae424ef3abf40065a9310ba1661af00829ef549546cee155b4",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2182047027/image_2182047027.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133668391,
+      "datetime": 1743587520
+    },
+    {
       "title": "JPMorgan Chase & Co. (JPM) Stock Sinks As Market Gains: What You Should Know",
       "description": "In the closing of the recent trading day, JPMorgan Chase & Co. (JPM) stood at $243.66, denoting a -0.67% change from the preceding trading day.",
       "published_utc": "2025-04-02T05:45:17",

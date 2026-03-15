@@ -1,6 +1,40 @@
 {
   "items": [
     {
+      "id": "c190292c0fb1d222c6f2d8b148c2e4df2596bc812731ad1fca7d0b92015cc898",
+      "publisher": {
+        "name": "MarketWatch",
+        "homepage_url": "https://www.marketwatch.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/marketwatch.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/marketwatch.ico"
+      },
+      "title": "Honeywell beefs up energy security offerings with $2 billion Sundyne deal",
+      "author": "Steve Gelsi",
+      "published_utc": "2025-03-04T21:19:00Z",
+      "article_url": "https://www.marketwatch.com/story/honeywell-beefs-up-energy-security-offerings-with-2-billion-sundyne-deal-5075f389?mod=mw_rss_topstories",
+      "tickers": [
+        "HON"
+      ],
+      "image_url": "https://images.mktw.net/im-87282398/social",
+      "description": "Honeywell International is acquiring pump and compressor maker Sundyne for $2.2 billion to bolster its Energy and Sustainability Solutions (ESS) business as the conglomerate prepares to break up.",
+      "keywords": [
+        "Honeywell",
+        "Sundyne",
+        "energy security",
+        "pump",
+        "compressor",
+        "conglomerate",
+        "break up"
+      ],
+      "insights": [
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Honeywell is expanding its energy security offerings through the acquisition of Sundyne, which aligns with its strategy to strengthen its ESS business as it prepares to break up the conglomerate."
+        }
+      ]
+    },
+    {
       "title": "Stock Market Today: Dow Jones Dives As Nvidia Plunges; Warren Buffett Gives This Warning With Trump Tariffs 'All Set' (Live Coverage)",
       "description": "The Dow Jones dived on the stock market today. Warren Buffett issued a warning as President Donald Trump said tariffs are 'all set.' Nvidia and Tesla fell.",
       "published_utc": "2025-03-04T05:16:54",

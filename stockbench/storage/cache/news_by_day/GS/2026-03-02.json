@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today: Dow Dips As Trump Says This On Iran; Warren Buffett Stock Flashes Sell Signal (Live Coverage)",
+      "description": "The Dow Jones index fell and other indexes were mixed after President Trump spoke on Iran. A Warren Buffett stock dived but Palantir popped. Oil and defense stocks rose.",
+      "published_utc": "2026-03-02T16:37:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fe29d5467c5cfa82630e5ebabe24ed39822249cc3b736041d6cd0d779b557ab4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139280701,
+      "datetime": 1772487424
+    },
+    {
+      "title": "Lightning Round: Goldman Sachs is way too cheap, says Jim Cramer",
+      "description": "'Mad Money' host Jim Cramer weighs in on viewer stocks.",
+      "published_utc": "2026-03-02T14:54:17",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=8c72f8205f3192899ee3464293413737eedbbae94c30b9cd9ff28d1376e0a770",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108272448-2ED3-REQ-030226-MMEBLOCK.jpg?v=1772496480&w=1920&h=1080",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139289319,
+      "datetime": 1772481257
+    },
+    {
+      "title": "Goldman Says European Gas Could Surge 130% to $25 on Hormuz Halt",
+      "description": "Bank warns one-month Strait of Hormuz disruption could more than double European and Asian LNG prices.",
+      "published_utc": "2026-03-02T14:54:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d49373ada898d3a86cdf90e7841b66c9ef17b557c33c5ba84cc91a7597df31be",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139280608,
+      "datetime": 1772481244
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Up After U.S.-Iran Attacks; LNG Stock Clears Entry As Oil Prices Pop (Live Coverage)",
+      "description": "The Dow Jones index was off opening lows on the stock market today after U.S.-Iran attacks. Tesla fell but oil and defense stocks rose.",
+      "published_utc": "2026-03-02T12:43:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=142298bf5a403b0ac85564ee681b22988a9bc7ae741904ef076082dc7c7639cc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139279060,
+      "datetime": 1772473418
+    },
+    {
+      "title": "UBS Underperforming Global Banks As Legal Liabilities Mount; Still Trades At Premium To Rivals",
+      "description": "UBS Group faces lawsuits and regulatory uncertainty. The company says they&#39;re alright. Market has other ideas.",
+      "published_utc": "2026-03-02T12:35:43",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=3a5b916be835981cfbb04e42ca8181b61555973d154883248114f6fc6bd3f364",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/03/02/White-Modern-Stylish-Photo-Save-The-Date.png?width=2048&height=1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139285719,
+      "datetime": 1772472943
+    }
+  ]
+}

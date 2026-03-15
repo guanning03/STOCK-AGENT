@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures rebound as Trump tempers tariff talk toward China",
+      "description": "US stock futures jumped Sunday night following Trump's retreat from combative comments on China last Friday.",
+      "published_utc": "2025-10-12T19:10:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=82af71fd3d012d6a193ab9b196c2c7453c41fe5cbe735b58814028babf6436e6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137063462,
+      "datetime": 1760310610
+    },
+    {
+      "title": "Dow Jones Futures Rise As Trump Says 'Eternity' Before Extra 100% China Tariff",
+      "description": "Dow Jones Futures Rise As Trump Says 'Eternity' Before Extra 100% China Tariff",
+      "published_utc": "2025-10-12T19:03:35",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=399684095cd32eb6290855f780a5e7df9f27e3f41d3c38b575d1892892792d07",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137108022,
+      "datetime": 1760310215
+    },
+    {
+      "title": "Shutdown Enters Week 2. Plus, Goldman Sachs, JPMorgan, Bank of America, Taiwan Semi, and More Stocks to Watch This Week.",
+      "description": "The consumer price index will be delayed until next week as a result of the government shutdown, but the producer price index is still on track for release. And we’ll see earnings from Wells Fargo, Morgan Stanley, ASML, and more.",
+      "published_utc": "2025-10-12T14:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c3d9b87a2bb4d66c601e79a5d7957f682aa2671961faec9155fb0bdd89e8059c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137063463,
+      "datetime": 1760292000
+    },
+    {
+      "title": "Trade Tensions, Market Volatility and Other Key Things to Watch this Week",
+      "description": "Markets enter a critical week following Friday's dramatic selloff triggered by President Trump's threat of \"massive tariffs\" against China over tighter rare-earth export rules.",
+      "published_utc": "2025-10-12T13:00:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=36e5ec82a80e649244ddd15ba04d5206e38c475945abdf013ec81b20847edaa5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137063464,
+      "datetime": 1760288402
+    },
+    {
+      "title": "Wall Street Brunch: Earnings Offer Certainty In Volatile Week To Come",
+      "description": "Listen below or on the go on Apple Podcasts and SpotifyItâs not often that the start of earnings season gets lost in the shuffle.",
+      "published_utc": "2025-10-12T11:56:50",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=12fb26d9c32ee5590e44e9362475d650a6a1d72290b27a137bdc7ac755e6984a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1035146880/image_1035146880.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137059985,
+      "datetime": 1760284610
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Lower rates aren't moving the housing market. What gives?",
+      "description": "Yahoo Finance Senior Reporter Brooke DiPalma sits down with Opening Bid host Brian Sozzi to discuss the housing market and whether lower interest rates will actually end up being a tailwind for the sector. To watch more expert insights and analysis on the latest market action, check out more Opening Bid.",
+      "published_utc": "2026-01-07T14:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=78a3b7a04aa50bab484396ec592ee5c2684d2965555d9968e5336e675146a290",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138033136,
+      "datetime": 1767814200
+    },
+    {
+      "title": "Home Depot Unusual Options Activity",
+      "description": "",
+      "published_utc": "2026-01-07T11:02:30",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=d3ff492ae4009d7d2627b7e1b5cd4be4640b5e68155d5c0df750a8f75cb77caa",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_4.jpg?width=2048&height=1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138948667,
+      "datetime": 1767801750
+    },
+    {
+      "title": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+      "description": "The stock market was little changed this morning after the S&P 500 hit records highs Tuesday.",
+      "published_utc": "2026-01-07T04:17:03",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=a57b975de029806c09eb01c4b7ec39385868263fc9dfb7e3d6ee1aa602c63b5b",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/107200469-1677528554271-NUP_200782_00155.jpg?v=1721682202&w=1920&h=1080",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138027947,
+      "datetime": 1767777423
+    },
+    {
+      "title": "Home Depot: A Fixer-Upper Amid Student Loans, Rising Healthcare Premiums, And Soft Labor Market",
+      "description": "",
+      "published_utc": "2026-01-07T00:55:06",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d8327b28ec3c53ba5a9a530e6f0f926c5c90e9efd4ff3957aad82a753ea44bbe",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138025491,
+      "datetime": 1767765306
+    }
+  ]
+}

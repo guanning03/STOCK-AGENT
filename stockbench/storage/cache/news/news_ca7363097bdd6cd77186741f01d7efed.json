@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar Inc. stock outperforms competitors on strong trading day",
+      "description": "Caterpillar Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-08-18T12:34:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=c0c8010b734b4127f8ce188f3a6c32a1337fdf93fa3ff97c6b0b05d607218bd2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136440990,
+      "datetime": 1755534840
+    },
+    {
+      "title": "The Only 2 Places I'd Put Big Money For Income And Growth Right Now",
+      "description": "Discover safe, income-generating, and growth-focused investments.",
+      "published_utc": "2025-08-18T03:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7b144ddc997381279d601a4ec61cbc140b6760927c92370568c4afe62d5f1a55",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1369291208/image_1369291208.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136406574,
+      "datetime": 1755502200
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:21:50.448985+00:00",
+    "cache_key": "news_ca7363097bdd6cd77186741f01d7efed",
+    "count": 2
+  }
+}

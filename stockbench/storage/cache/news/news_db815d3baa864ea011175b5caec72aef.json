@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stocks to Watch Wednesday Recap: JPMorgan, Cracker Barrel, EchoStar",
+      "description": "↗️ JPMorgan Chase (JPM): Shares of the largest U.S. bank rebounded 3.2% after a down day Tuesday stemming from new expense guidance. Banks in general performed well Wednesday in a broad market rally. ↗️ Cracker Barrel (CBRL): The restaurant chain's adjusted per-share quarterly loss was smaller than expected, but the company cut its annual outlook.",
+      "published_utc": "2025-12-10T16:51:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ea7728c8f5e5dd4a71d5b0ee0160643c2b39728e7279f79cc1ac774ec68cb1fb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137755718,
+      "datetime": 1765403464
+    },
+    {
+      "title": "JPMorgan Hands $1,000 to Employees Who Earn Less Than $80,000",
+      "description": "JPMorgan Chase  is giving a payment of up to $1,000 to employees whose annual pay is less than $80,000, many of whom will receive it in the form of a contribution to  JPMorgan  retirement plans, Chief Executive Officer Jamie Dimon said in a staff memo on Tuesday.  Employees qualify for the payment if they participate in the bank’s U.S. 401(k) plan, if they have worked there for at least one year, if their title is vice president or below, and if their total compensation is less than $80,000, according to a copy of the memo reviewed by Barron’s.  Employees who work outside the U.S. will get a cash payment instead of a 401(k) contribution, the memo said.",
+      "published_utc": "2025-12-10T13:53:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c0f58b5460448596a1304016e14b5b0257815c073df597d6524f9bd9cb62f10d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137749802,
+      "datetime": 1765392780
+    },
+    {
+      "title": "PNC Financial's Arm to Offer Direct Bitcoin Access via Coinbase",
+      "description": "PNC's arm rolls out direct bitcoin trading for private-wealthy clients, powered by Coinbase's CaaS to deliver integrated, on-platform digital-asset access.",
+      "published_utc": "2025-12-10T13:19:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1cdfc516fa56bab59a02d9c44d02020d80e3d3a9f523859a4f40658035c7cf16",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137750491,
+      "datetime": 1765390740
+    },
+    {
+      "title": "JPMorgan Stock Slides on Warning of Steep 2026 Expense Growth",
+      "description": "JPM shares slide after the bank warns that 2026 expenses may surge more than $9B on growth spending, tech investments and inflation pressures.",
+      "published_utc": "2025-12-10T13:04:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bc212be70791ba644e00b7a37fe58e60d20da2f5cddebb7e49adb62119bbc174",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137749803,
+      "datetime": 1765389840
+    },
+    {
+      "title": "Shares of stocks in the broader financial sector are trading higher amid overall market strength following the Fed's rate cut announcement.",
+      "description": "",
+      "published_utc": "2025-12-10T11:41:57",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=211e65636a12acef3e80c3aecbdd40b368dde194c51a2327da728d68941dd59a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138404607,
+      "datetime": 1765384917
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:25:17.455571+00:00",
+    "cache_key": "news_db815d3baa864ea011175b5caec72aef",
+    "count": 5
+  }
+}

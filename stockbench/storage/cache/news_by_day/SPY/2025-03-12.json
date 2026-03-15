@@ -1,0 +1,128 @@
+{
+  "items": [
+    {
+      "id": "46fd9127970c41b6c119b0be4c2c022e10dabf97ad831eab28d30e0fb3c60e2e",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Wall Street Rebounds As Cooling Inflation Draws Tech Dip Buyers: What's Driving Markets Wednesday?",
+      "author": "Piero Cingari",
+      "published_utc": "2025-03-12T18:17:09Z",
+      "article_url": "https://www.benzinga.com/economics/macro-economic-events/25/03/44285648/wall-street-rebounds-as-cooling-inflation-draws-tech-dip-buyers-whats-driving-mar",
+      "tickers": [
+        "AAL",
+        "UAL",
+        "INTC",
+        "PLTR",
+        "NVDA",
+        "TSLA",
+        "DIA",
+        "IWM",
+        "QQQ",
+        "SPY",
+        "XLK"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/03/12/Wall-Street-Cautiously-Optimistic-About-.jpeg?width=1200&height=800&fit=crop",
+      "description": "Wall Street rebounded as cooling inflation data fueled expectations of Fed rate cuts, driving a rally in tech stocks led by Tesla, Nvidia, and Palantir.",
+      "keywords": [
+        "inflation",
+        "Fed rate cuts",
+        "tech stocks",
+        "Tesla",
+        "Nvidia",
+        "Palantir"
+      ],
+      "insights": [
+        {
+          "ticker": "AAL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The company issued a negative outlook for the quarter, and Bank of America lowered its stock price target."
+        },
+        {
+          "ticker": "UAL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The stock dropped after major banks lowered their price targets."
+        },
+        {
+          "ticker": "INTC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The stock surged after a report revealed that Taiwan Semiconductor Manufacturing Company had approached Nvidia, AMD, and Broadcom about investing in a joint venture to operate Intel's factories."
+        },
+        {
+          "ticker": "PLTR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The stock rallied as part of the tech-led rebound."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The stock rallied as part of the tech-led rebound."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The stock rallied as part of the tech-led rebound."
+        },
+        {
+          "ticker": "DIA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The Dow remained flat despite the overall market rebound."
+        },
+        {
+          "ticker": "IWM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The Russell 2000 index gained 0.3%."
+        },
+        {
+          "ticker": "QQQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Nasdaq 100 index, which the QQQ ETF tracks, gained 1.2% as part of the tech-led rebound."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The S&P 500 index rose 0.6%."
+        },
+        {
+          "ticker": "XLK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Technology Select Sector SPDR Fund outperformed, gaining 1.8%."
+        }
+      ]
+    },
+    {
+      "id": "39cd822d288f4f816646fb93732fd0336317c23cc1d9295f4cd7f8c897b67ffd",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Inflation Cools More Than Expected In February, Strengthens The Case For Fed Rate Cuts",
+      "author": "Piero Cingari",
+      "published_utc": "2025-03-12T12:40:28Z",
+      "article_url": "https://www.benzinga.com/economics/macro-economic-events/25/03/44274165/inflation-cools-more-than-expected-in-february-strengthens-the-case-for-fed-rate-",
+      "tickers": [
+        "SPY"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/03/12/Us-Financial-Inflation-Crisis-With-Stock.jpeg?width=1200&height=800&fit=crop",
+      "description": "Inflation eased in February, coming in lower than expected and reinforcing the Federal Reserve's path toward interest rate cuts. The headline Consumer Price Index fell to 2.8% year-over-year, and core inflation slowed to 3.1%, strengthening the case for Fed rate cuts in 2025.",
+      "keywords": [
+        "inflation",
+        "federal reserve",
+        "interest rates",
+        "consumer price index"
+      ],
+      "insights": [
+        {
+          "ticker": "SPY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The softer-than-expected inflation data and the potential for Fed rate cuts are positive for the stock market, as evidenced by the rise in S&P 500 futures."
+        }
+      ]
+    }
+  ]
+}

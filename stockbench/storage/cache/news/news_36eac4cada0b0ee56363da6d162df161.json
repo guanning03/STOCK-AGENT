@@ -1,0 +1,111 @@
+{
+  "items": [
+    {
+      "title": "Review & Preview: Banks Take Center Stage",
+      "description": "Not that long ago Oracle was seen as the best way for public-market investors to play red-hot start-up and ChatGPT maker OpenAI, which has committed to buy $300 billion in cloud services from Oracle.  Sure enough, the cost of credit default swaps on Oracle debt, essentially insurance against a potential default, have risen to their highest level since the 2008 financial crisis.  The Nasdaq Composite finished the week down 1.6% after Friday’s 1.1% slide.",
+      "published_utc": "2025-12-12T19:55:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=af4606fc22390e79a5a1b8d6a9866e4372f0ce2b994cd6e6b3cb03bb925b8251",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137792239,
+      "datetime": 1765587300
+    },
+    {
+      "id": "d875a5efe8f5b156535fc891d79d488376e8cfc2f11a4b0c9e6a71b9e4717262",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "My Top 10 Stocks to Buy for 2026",
+      "author": "Adria Cimino",
+      "published_utc": "2025-12-13T09:10:00Z",
+      "article_url": "https://www.fool.com/investing/2025/12/13/my-top-10-stocks-to-buy-for-2026/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "LLY",
+        "AXP",
+        "CRWV",
+        "VKTX",
+        "META",
+        "ABT",
+        "UNH",
+        "CHWY",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F846027%2Fgettyimages-2192595100-1201x804-ed394ee.jpg&w=1200&op=resize",
+      "description": "The article highlights 10 stocks across various sectors that offer a balanced mix of growth, innovation, safety, and potential for future gains, with a strong focus on AI, healthcare, and technology companies.",
+      "keywords": [
+        "AI",
+        "stocks",
+        "investment",
+        "technology",
+        "healthcare",
+        "2026"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Leading AI chip designer with significant potential in AI infrastructure spending, expected to benefit from ongoing AI technology development"
+        },
+        {
+          "ticker": "LLY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong performance in weight loss drug market with promising pipeline and potential for continued revenue growth"
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Solid investment with steady earnings growth, expanding customer base among younger generations"
+        },
+        {
+          "ticker": "CRWV",
+          "sentiment": "positive",
+          "sentiment_reasoning": "AI-focused company offering chip capacity with potential for significant revenue growth"
+        },
+        {
+          "ticker": "VKTX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Promising candidate in weight loss drug market with potential to capture market share"
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Cheapest among Magnificent Seven tech stocks, committed to AI investment with growth potential"
+        },
+        {
+          "ticker": "ABT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Dividend King with diversified healthcare portfolio and strong free cash flow"
+        },
+        {
+          "ticker": "UNH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Largest US health insurer addressing challenges and showing potential for recovery"
+        },
+        {
+          "ticker": "CHWY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "E-commerce pet product company with high customer loyalty, profitable and debt-free"
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Established market giant with strong AI integration potential in AWS and e-commerce businesses"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:29:00.356879+00:00",
+    "cache_key": "news_36eac4cada0b0ee56363da6d162df161",
+    "count": 2
+  }
+}

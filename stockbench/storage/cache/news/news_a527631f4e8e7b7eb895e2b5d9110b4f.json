@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Dow Jones And U.S. Stocks Outlook: War Begins, Wall Street Unfazed (For Now!)",
+      "description": "US stock benchmarks gapped lower at the open but have bounced higher significantly since.",
+      "published_utc": "2026-03-02T18:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=96d21b73d100b968b0a42cc9e48a61282ba5d3636c2077ad14ba9a3a5a7966c4",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2256370348/image_2256370348.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139282751,
+      "datetime": 1772494800
+    },
+    {
+      "title": "Finding Your 'Perfect' Portfolio In The Age Of AI",
+      "description": "",
+      "published_utc": "2026-03-02T17:51:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=54033989d09e1de151f0c525103f4322360d4e2a4b6e735e774afd575e33c60b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139282495,
+      "datetime": 1772491860
+    },
+    {
+      "title": "Iran, The Strait Of Hormuz And 21 Miles Of Water That Could Shake Wall Street",
+      "description": "The current Strait of Hormuz blockade exposes severe global energy vulnerability. Click here to read more about escalating oil risks and my strategy.",
+      "published_utc": "2026-03-02T17:37:25",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=efc91c76b091c6311afa466ef164de15613884c070df82bf9aa534343909c3b8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2255716106/image_2255716106.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139282436,
+      "datetime": 1772491045
+    },
+    {
+      "title": "This Happened When Tech Stocks Became Cheaper Than Staple Stocks",
+      "description": "Buy S&P 500 index-tracking assets with a 7,778 end-2026 target. Use volatility for sector rotation; tech valuations look attractive. See more here.",
+      "published_utc": "2026-03-02T15:41:19",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6bae5d6c7f9fb3662f61cf6f5199559a86ba66ebe1e87f3d427273bce1578e26",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2260474979/image_2260474979.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139281861,
+      "datetime": 1772484079
+    },
+    {
+      "title": "BOTT Surged 114% but Its Korean and Chinese Holdings Carry Serious Risks",
+      "description": "The global push to automate physical labor, driven by aging workforces, rising wages, and manufacturing reshoring has created genuine investor demand for pure-play humanoid robotics exposure. Themes Humanoid Robotics ETF (NASDAQ:BOTT) attempts to fill that gap, but the tradeoffs matter before any allocation decision. What BOTT Is Built to Do BOTT tracks the Solactive Global ... BOTT Surged 114% but Its Korean and Chinese Holdings Carry Serious Risks",
+      "published_utc": "2026-03-02T15:07:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9287f038cb657db66e72fdf7816a12cfe26fdc18fe5552ecb6690cc6b5a81e4b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139280824,
+      "datetime": 1772482027
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:57:23.582705+00:00",
+    "cache_key": "news_a527631f4e8e7b7eb895e2b5d9110b4f",
+    "count": 5
+  }
+}

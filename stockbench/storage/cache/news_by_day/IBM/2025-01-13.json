@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "id": "24baf67d08263ccdf7a18062dab98f2103aa03aa79733deacb804a529a26a0bb",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Artificial Intelligence in Healthcare Industry Unlocking New Horizons in Patient Care and Cost Efficiency at a CAGR of 18.2% between 2025 and 2035 | Future Market Insights Inc.",
+      "author": "Sabyasachi Ghosh (Associate Vice President At Future Market Insights, Inc.)",
+      "published_utc": "2025-01-13T00:30:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/13/3008080/0/en/Artificial-Intelligence-in-Healthcare-Industry-Unlocking-New-Horizons-in-Patient-Care-and-Cost-Efficiency-at-a-CAGR-of-18-2-between-2025-and-2035-Future-Market-Insights-Inc.html",
+      "tickers": [
+        "IBM",
+        "INTC",
+        "MDT",
+        "MU",
+        "MSFT",
+        "NVDA"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/915d2f9c-7dc6-40c7-995c-2ba168208baa",
+      "description": "The global artificial intelligence in healthcare market is projected to grow exponentially, reaching an estimated valuation of USD 17,198.9 million by 2025 and USD 77,456.4 million by 2035. This growth is driven by advancements in AI technologies, rising healthcare costs, and increasing demand for innovative solutions.",
+      "keywords": [
+        "artificial intelligence",
+        "healthcare",
+        "patient care",
+        "cost efficiency",
+        "machine learning",
+        "big data analytics",
+        "precision medicine"
+      ],
+      "insights": [
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists International Business Machines as one of the key players in the artificial intelligence in healthcare industry, suggesting their active involvement and potential for growth in this market."
+        },
+        {
+          "ticker": "INTC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Intel Corporation as one of the key players in the artificial intelligence in healthcare industry, suggesting their active participation and potential for growth in this market."
+        },
+        {
+          "ticker": "MDT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Medtronic as one of the key players in the artificial intelligence in healthcare industry, indicating their involvement and potential for growth in this market."
+        },
+        {
+          "ticker": "MU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Micron Technology Inc. as one of the key players in the artificial intelligence in healthcare industry, suggesting their active participation and potential for growth in this market."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Microsoft Corporation as one of the key players in the artificial intelligence in healthcare industry, indicating their presence and potential contribution to the market's growth."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Nvidia Corporation as one of the key players in the artificial intelligence in healthcare industry, indicating their participation and potential for growth in this market."
+        }
+      ]
+    }
+  ]
+}

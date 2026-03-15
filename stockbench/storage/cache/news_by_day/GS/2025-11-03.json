@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Goldman Sachs says government shutdown could hit economy harder than ever",
+      "description": "Goldman said the dent to economic activity could far exceed past shutdowns, as it forecasted an end to the impasse later this month",
+      "published_utc": "2025-11-03T12:37:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=46091a760c14775816ea780432a78a06977a6cb73205d69c649c48326c2c7010",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137305965,
+      "datetime": 1762191425
+    },
+    {
+      "title": "Boyd Announces Sale of its Thermal Business to Eaton for $9.5 Billion",
+      "description": "BOCA RATON, Fla., November 03, 2025--Boyd Corporation (\"Boyd\"), the trusted global innovator in engineered materials and thermal solutions, today announced that it has signed a definitive agreement to sell its Thermal business to Eaton, an intelligent power management company, for $9.5 billion. The transaction is subject to customary closing conditions, including the receipt of required regulatory approvals, and is expected to close in the second quarter of 2026.",
+      "published_utc": "2025-11-03T07:17:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f5c5add76c366360a41d646678ad2dbe29f2013b8da16e0acb91ce7ad1e21f94",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137302305,
+      "datetime": 1762172220
+    },
+    {
+      "title": "Bank of England braced for tough call on interest rates",
+      "description": "The Bank of England is set for a knife-edge decision on whether to cut interest rates on Thursday.",
+      "published_utc": "2025-11-03T07:12:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e91f6b5028a5f26ae22d033420804166bd2cb63fb54dcc5d20dd05e6b369b9e3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137302306,
+      "datetime": 1762171951
+    },
+    {
+      "title": "Why the Goldman Sachs CEO isn’t buying the AI jobs freakout",
+      "description": "The fingerprints of artificial intelligence are all over mass layoffs and downsizing at Meta, Amazon, Salesforce, YouTube and other major companies, raising fears of an AI-fueled jobs wipeout for white-collar workers.",
+      "published_utc": "2025-11-03T05:30:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6d1867944ef0ecf943a2a14967f12a0dd83ddd6d101a2574434975d02239c982",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137302086,
+      "datetime": 1762165801
+    }
+  ]
+}

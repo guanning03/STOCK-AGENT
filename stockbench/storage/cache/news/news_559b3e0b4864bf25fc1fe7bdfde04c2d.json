@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Wells Fargo Maintains Equal-Weight on Amgen, Raises Price Target to $325",
+      "description": "Wells Fargo  analyst Mohit Bansal   maintains Amgen (NASDAQ:AMGN) with a Equal-Weight and raises the price target from $300 to $325.",
+      "published_utc": "2025-12-10T11:01:39",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=532ef01a2ef3c40c2305af20e213e4dca0a956c0dbafb90a72337dac78be105e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138666539,
+      "datetime": 1765382499
+    },
+    {
+      "title": "3 Top Dividend Stocks to Maximize Your Retirement Income",
+      "description": "The traditional ways to plan for your retirement may mean income can no longer cover expenses post-employment. But what if there was another option that could provide a steady, reliable source of income in your nest egg years?",
+      "published_utc": "2025-12-10T09:10:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b93139f7396844d64e539a20b271afdc463f0bca32f5e463ef4fa89065002d94",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137750212,
+      "datetime": 1765375802
+    },
+    {
+      "title": "AstraZeneca: A Rare Compound Growth Opportunity In Biopharma",
+      "description": "AstraZeneca PLC is rated a Buy due to strong growth, prudent R&D reinvestment, low leverage and resilience. Learn more about AZN stock here.",
+      "published_utc": "2025-12-10T05:26:49",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7607e031783e690b2011e6797309b77b7a7084aa1403fc9ee0fe0c21f814be29",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1307043297/image_1307043297.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137747724,
+      "datetime": 1765362409
+    },
+    {
+      "title": "Amgen: Improving Balance Sheet Is Bringing The Stock Close To Being A \"Buy\"",
+      "description": "Amgen Inc. is at least fairly valued, with improving balance sheet metrics and a robust growth pipeline offsetting looming patent expirations.",
+      "published_utc": "2025-12-10T05:07:33",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4840ff46cf1e594fb26eb61f75ce958f1abab01371cc3e449149692463a249e0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1304930579/image_1304930579.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137747641,
+      "datetime": 1765361253
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:24:38.248293+00:00",
+    "cache_key": "news_559b3e0b4864bf25fc1fe7bdfde04c2d",
+    "count": 4
+  }
+}

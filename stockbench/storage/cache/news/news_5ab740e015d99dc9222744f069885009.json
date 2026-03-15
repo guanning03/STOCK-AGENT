@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "2 Billionaires Just Loaded Up on Microsoft Stock. Do They Know Something We Don't for 2026?",
+      "description": "Microsoft is a popular holding among billionaires.",
+      "published_utc": "2025-12-29T16:58:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9a38e1dca5470d8d18243321a18bb409b3b257b5489646e82c1ee48be61a855e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137940135,
+      "datetime": 1767045480
+    },
+    {
+      "title": "US Equities Fall in Muted Trading as Nvidia, Tesla Decline",
+      "description": "US equity benchmarks fell Monday in muted trading with most of the Magnificent Seven tech stocks und",
+      "published_utc": "2025-12-29T16:55:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8ac09a13b2289fb5a2a51b94d979c5fd38f7e95b71d879695dbf8b4ef5af7c7d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137940111,
+      "datetime": 1767045358
+    },
+    {
+      "title": "Tracking The $13.74B Lone Pine Capital Portfolio - Q3 2025 Update",
+      "description": "",
+      "published_utc": "2025-12-29T16:26:17",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=07c6a6581054119b72e2feaab4363ba32aa6949f07ee27c1a4dfbcc7e3855fe3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137936206,
+      "datetime": 1767043577
+    },
+    {
+      "title": "Alphabet Stock’s 2025 Rebound Has Wall Street Betting on More Gains",
+      "description": "Alphabet stock was the best performer in the Magnificent 7 in 2025, as investors grew more confident in its AI and search strategy.",
+      "published_utc": "2025-12-29T15:31:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=66cd7c710d8e667e0a84e047120cbe46bfbec4c70d6540ad1899b0eb35d953ad",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137940114,
+      "datetime": 1767040260
+    },
+    {
+      "title": "Why anchoring 2026 portfolios in Big Tech and cybersecurity is the way to go",
+      "description": "Winthrop Capital's Adam Coons warns the margin of safety is evaporating and position sizing is now the only defense.",
+      "published_utc": "2025-12-29T14:35:45",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9f42d4c76d1bbcba93a7aad3ed22906e05c94ed1739e20aaee3543854e19e51f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137934598,
+      "datetime": 1767036945
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T09:18:16.498877+00:00",
+    "cache_key": "news_5ab740e015d99dc9222744f069885009",
+    "count": 5
+  }
+}

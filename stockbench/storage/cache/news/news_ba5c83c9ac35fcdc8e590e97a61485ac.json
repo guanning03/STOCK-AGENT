@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Why Salesforce Stock Dived by Nearly 21% in 2025",
+      "description": "Many market players felt the company was guilty by (apparent) association with legacy technology.",
+      "published_utc": "2026-01-28T16:55:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=20eb65ef964723a0759f280422cd6e26520712055da1d90df6d8fbd0a5892a81",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138289132,
+      "datetime": 1769637339
+    },
+    {
+      "title": "Generali Opens Position in Archer Aviation Stock, Buys 1 Million Shares for $7 Million",
+      "description": "Archer Aviation develops electric aircraft for urban air mobility, targeting city commuters and commercial partners with eVTOL technology.",
+      "published_utc": "2026-01-28T16:20:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e64447819ce42f0fe8158e2e7ee58e4e919cdcec854bfa0904518e7fe49c5143",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138288995,
+      "datetime": 1769635216
+    },
+    {
+      "title": "ServiceNow stock falls despite earnings beat as CEO Bill McDermott tries to get investors to stop thinking of it as a SaaS company",
+      "description": "The workflow automation giant posted strong earnings and announced an Anthropic partnership, as it tries to convince Wall Street it deserves an AI premium.",
+      "published_utc": "2026-01-28T16:13:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f70ee4723d443eb6436c732921dc6a1e608ca43e940193255cbcea11b4029a7b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138291083,
+      "datetime": 1769634780
+    },
+    {
+      "title": "Salesforce (CRM) Wins $5.6 Billion U.S. Army Technology Contract",
+      "description": "Salesforce, Inc. (NYSE:CRM) is one of the AI Stocks in Focus on Wall Street. On January 26, Salesforce announced that it has won a long-term US military technology contract. The US Army has awarded the company with a $5.6 billion, 10-year* Indefinite Delivery Indefinite Quantity (IDIQ) contract to modernize its operations. This landmark agreement will be […]",
+      "published_utc": "2026-01-28T14:52:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=676eeda676540e8b9aa4ddca63cd1a680fa43c27fcc146665359f272dced7197",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138287566,
+      "datetime": 1769629958
+    },
+    {
+      "title": "S&P 500 falls as Microsoft dives 11%, software stocks tumble: Live updates",
+      "description": "\"Magnificent Seven\" companies Meta Platforms, Microsoft and Tesla posted earnings results after Wednesday's close.",
+      "published_utc": "2026-01-28T13:05:33",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=7b40bdcbff0a7f82bc053920ca740dfc51b4b05cf334a231a9261a25ff38d7a6",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108258597-17696344772026-01-28t205958z_1206079957_rc2iaja4d538_rtrmadp_0_usa-stocks.jpeg?v=1769634552&w=1920&h=1080",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138296506,
+      "datetime": 1769623533
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:14:35.636317+00:00",
+    "cache_key": "news_ba5c83c9ac35fcdc8e590e97a61485ac",
+    "count": 5
+  }
+}

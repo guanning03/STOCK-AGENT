@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Boeing (BA): Evaluating the Current Valuation Following Ongoing Share Price Swings",
+      "description": "Boeing (BA) has recently caught the attention of investors with its share price swing, even though there hasn't been a single headline-grabbing announcement to drive the move. Sometimes, a lack of big news can be its own kind of signal, especially when a widely held stock like Boeing sees its price shift meaningfully. The question on many investors' minds is whether this is the market simply rebalancing, or whether something deeper about Boeing's future prospects is being reflected in the...",
+      "published_utc": "2025-09-13T10:00:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5f8ee60403941bf50cab6aeddb8441935ebbd7abb120ac7d2a8cac916a605476",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136736059,
+      "datetime": 1757772037
+    },
+    {
+      "title": "AP Top Financial News at 3:34 p.m. EDT",
+      "description": "Boeing workers reject their latest contract offer, extending strike at three Midwest plants",
+      "published_utc": "2025-09-13T01:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1cf74f1c814ba0edd7207acaead47add720c084271baf0fe1588737c6bc0fa5d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136736061,
+      "datetime": 1757739600
+    },
+    {
+      "title": "AP Top Extended Financial Headlines at 3:34 p.m. EDT",
+      "description": "Boeing workers have rejected another contract proposal, extending their nearly six-week strike at three Midwest plants",
+      "published_utc": "2025-09-13T01:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9f77ca0d9712e1d5860980f9aab882be87a9393345ced01e4470ed500297c110",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136736060,
+      "datetime": 1757739600
+    },
+    {
+      "title": "Lockheed Martin Counters Boeing's F-47 Victory With Cost-Effective F-35 Upgrade Using Sixth-Gen Technology",
+      "description": "Lockheed Martin is countering Boeing&#39;s F-47 win with a cost-effective F-35 upgrade that integrates sixth-generation tech, aiming to offer 80% of the F-47&#39;s capabilities at half the price.",
+      "published_utc": "2025-09-12T23:20:50",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=6c734cf7b3b1a2567719f35f261d5235b449fca1691efa6e2ab8509457b39f25",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/09/13/Lockheed-Martin.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138582227,
+      "datetime": 1757733650
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:41:55.075120+00:00",
+    "cache_key": "news_8bff7a8cdbbb23e85d673c31ff4b3420",
+    "count": 4
+  }
+}

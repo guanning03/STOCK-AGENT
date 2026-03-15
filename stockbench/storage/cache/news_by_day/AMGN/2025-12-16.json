@@ -1,0 +1,111 @@
+{
+  "items": [
+    {
+      "id": "b217858dfad3a7a17801faeb4a1ece22e913d7407e2592d1fc2fad9be48fb013",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Should You Buy the 5 Highest-Paying Dividend Stocks in the Dow Jones Before 2026?",
+      "author": "Stefon Walters",
+      "published_utc": "2025-12-16T17:07:00Z",
+      "article_url": "https://www.fool.com/investing/2025/12/16/should-you-buy-the-5-highest-paying-dividend-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "VZ",
+        "CVX",
+        "MRK",
+        "AMGN",
+        "KO",
+        "DIA"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F846535%2Fgettyimages-513232938.jpg&w=1200&op=resize",
+      "description": "The article analyzes the top 5 highest-paying dividend stocks in the Dow Jones, highlighting Chevron, Merck, and Coca-Cola as particularly attractive investments heading into 2026 due to their strong financial performance and consistent dividend payouts.",
+      "keywords": [
+        "dividend stocks",
+        "Dow Jones",
+        "investment",
+        "high-yield",
+        "income investing"
+      ],
+      "insights": [
+        {
+          "ticker": "VZ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "High dividend yield attractive, but limited stock price growth potential"
+        },
+        {
+          "ticker": "CVX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Operates across oil and gas ecosystem, generates significant revenue, strong dividend support"
+        },
+        {
+          "ticker": "MRK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Robust drug pipeline, shareholder-friendly dividend policy, working to diversify portfolio"
+        },
+        {
+          "ticker": "AMGN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Outperforming market, consistent dividend increases, but facing potential patent challenges"
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong brand, consistent performance, 63 consecutive years of dividend increases"
+        },
+        {
+          "ticker": "DIA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Low dividend yield, provides diversified market exposure with reduced individual stock risks"
+        }
+      ]
+    },
+    {
+      "title": "Amgen (AMGN) Price Target Trimmed at Morgan Stanley as Policy Risks Ease",
+      "description": "Amgen Inc. (NASDAQ:AMGN) is included among the 15 Best Blue-Chip Stocks with Growing Dividends. On December 12, Morgan Stanley cut its price target for Amgen Inc. (NASDAQ:AMGN) from $329 to $304, but kept its Equal Weight rating. The firm’s 2026 biopharma outlook sounds more optimistic, noting that a lot of the policy headaches that dragged […]",
+      "published_utc": "2025-12-16T14:08:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=80823d8252cd9367c6e638b9f601d8ea8c265564fc202d5df34fb2db98477886",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137806344,
+      "datetime": 1765912139
+    },
+    {
+      "title": "3 Healthcare Giants Just Raised Dividends—Here’s Who Pays the Most",
+      "description": "Healthcare behemoths, including the biggest name of them all, are increasing their dividends. Additionally, AMGN's dividend yield now sits solidly above 3%.",
+      "published_utc": "2025-12-16T09:17:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9cd8737da98198d4adb0874e5e3ba292854fd719e179fe9cc6fa12f9c11a0030",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137816785,
+      "datetime": 1765894620
+    },
+    {
+      "title": "How Amgen’s New CD19-Targeted gMG Approval At Amgen (AMGN) Has Changed Its Investment Story",
+      "description": "Earlier this month, Amgen announced that the FDA approved UPLIZNA (inebilizumab-cdon) for adults with generalized myasthenia gravis who are anti-AChR and anti-MuSK antibody positive, making it the first and only CD19-targeted B-cell therapy for this condition with maintenance dosing just twice a year after loading. This latest indication, added to UPLIZNA’s existing approvals in neuromyelitis optica spectrum disorder and IgG4-related disease, further reinforces Amgen’s position in rare, B...",
+      "published_utc": "2025-12-16T01:05:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5d4e1a003d5ccf21aeb29e85437e20e85b925881226fa4e94ce2f965b2ba0d3f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137800685,
+      "datetime": 1765865101
+    }
+  ]
+}

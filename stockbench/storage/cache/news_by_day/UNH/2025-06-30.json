@@ -1,6 +1,81 @@
 {
   "items": [
     {
+      "title": "These Were the Best and Worst S&P 500 Stocks During the Second Quarter",
+      "description": "Shares of a crypto exchange surged more than 100%, while a beleaguered healthcare company deepened its losses.",
+      "published_utc": "2025-06-30T16:07:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8301693e77d94697dbcbd5d94a6fb904c39e8954900a316f13178233c4a23e68",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135676063,
+      "datetime": 1751314020
+    },
+    {
+      "title": "UnitedHealth Group (NYSE:UNH) Removed From Multiple Russell Growth Indexes",
+      "description": "On June 30, 2025, UnitedHealth Group (NYSE:UNH) faced a significant repositioning as it was removed from multiple growth indices, including the Russell Top 200 Growth Index, indicating a shift in its investor perception as a growth stock. Over the past month, UnitedHealth's share price increased by 2%, aligning closely with broader market gains amid a favorable environment for U.S. stocks, seen through record highs in major indices like the S&P 500 and the Nasdaq Composite. Despite the...",
+      "published_utc": "2025-06-30T13:28:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b60512e05e9a61a000a6a124a69142174754a86cca7d543224293d3ed3c0bdf6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135666497,
+      "datetime": 1751304486
+    },
+    {
+      "title": "Jim Cramer on UnitedHealth Group: “I Can’t Pound the Table”",
+      "description": "UnitedHealth Group Incorporated (NYSE:UNH) is one of the 11 stocks that Jim Cramer recently commented on. Having bought half the amount of shares they intended to a while ago, a caller inquired whether now would be a good time to purchase the remaining half. In response, Cramer said: “Well, I’ve gotta tell you, there’s going […]",
+      "published_utc": "2025-06-30T12:01:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bf22fe8413c548d9d8cc183cd137b1c86d5857e2193f2e59b86df2bbc1cba1d5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135671456,
+      "datetime": 1751299281
+    },
+    {
+      "title": "Will CVS Health's Formulary Move Boost Its Weight Management Program? (Revised)",
+      "description": "CVS adds Wegovy to its top formularies and bolsters its Weight Management program, aiming to expand access while cutting costs.",
+      "published_utc": "2025-06-30T10:27:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1195d1c5183c46b4bfb2e8137f877465cceb36252b0fb31eef30b4fc80a7fc91",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135671331,
+      "datetime": 1751293620
+    },
+    {
+      "title": "UnitedHealth Group Incorporated(NYSE: UNH) dropped from Russell 3000 Growth Index",
+      "description": "UnitedHealth Group Incorporated dropped from Russell 3000 Growth Index...",
+      "published_utc": "2025-06-30T09:53:46",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=0d9a2cd4bc893d41a6e6a3d6e162013151485d85d431324fd5f47dc33b60528d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135665389,
+      "datetime": 1751291626
+    },
+    {
       "title": "UnitedHealth Group Incorporated(NYSE: UNH) dropped from Russell 1000 Growth-Defensive Index",
       "description": "UnitedHealth Group Incorporated dropped from Russell 1000 Growth-Defensive Index...",
       "published_utc": "2025-06-30T05:17:07",

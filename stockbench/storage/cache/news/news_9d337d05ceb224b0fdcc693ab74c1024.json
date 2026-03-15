@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Is Apple (AAPL) Still Priced Attractively After Recent Share Price Weakness?",
+      "description": "You might be wondering if Apple’s current share price still makes sense, or if the stock is starting to look expensive or interesting again based on the numbers. Apple recently closed at US$255.53, with a 7 day return of a 1.5% decline, a 30 day return of a 6.6% decline, a year to date return of a 5.7% decline, an 11.6% return over 1 year, and returns of 88.1% and 88.8% over 3 and 5 years respectively. These moves sit against a backdrop of ongoing product updates, services expansion, and...",
+      "published_utc": "2026-01-18T16:08:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d919e0dfc0121ef68d9d7ba4657fb2c52488e4eb175f42bf91f0a96941be5ad3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138172479,
+      "datetime": 1768770532
+    },
+    {
+      "title": "As Apple Teams Up with Google on Siri AI Upgrades, Should You Buy AAPL Stock?",
+      "description": "Apple’s decision to tap Google’s Gemini AI to supercharge Siri is redefining its AI strategy. Is AAPL a buy now?",
+      "published_utc": "2026-01-18T14:00:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=080284f258640c5d71e07917becad8eef17424cf9852613d178bcc723f7b2130",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138172857,
+      "datetime": 1768762802
+    },
+    {
+      "title": "Jim Cramer on JPMorgan: “It Was Due for a Breather”",
+      "description": "JPMorgan Chase & Co. (NYSE:JPM) is one of the stocks Jim Cramer shared his thoughts on. Cramer highlighted the company CEO’s comments after its earnings, as he remarked: “When JPMorgan reported yesterday, they posted a solid top and bottom line beat, excluding a $2.2 billion reserve that they took related to the Apple credit card […]",
+      "published_utc": "2026-01-18T12:48:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=53653c9efaf29f90641dc0389ee16d07d591372bf1df3eb81c4dca81b18bfb6e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138170750,
+      "datetime": 1768758512
+    },
+    {
+      "title": "'A broadening playbook': Wall Street sees stock market gains beyond tech",
+      "description": "Enthusiasm for artificial intelligence's prospects will continue to drive the market higher in 2026. The gains won't be limited to tech stocks, strategists say.",
+      "published_utc": "2026-01-18T11:05:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2e616c75999f7a8e7bc382595f1bb2b68e6998cf4ba51996cf6da7eff2c469fc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138169921,
+      "datetime": 1768752356
+    },
+    {
+      "title": "Should You Buy Alphabet Stock Before Feb. 4?",
+      "description": "The $4 trillion enterprise is ready to give investors a fresh update on its financial performance.",
+      "published_utc": "2026-01-18T10:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7ddd2a083693b185c2fe4c451fbb15437574711ab319bbbf7232f4ce3e0f114a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138169789,
+      "datetime": 1768749600
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:39:08.253963+00:00",
+    "cache_key": "news_9d337d05ceb224b0fdcc693ab74c1024",
+    "count": 5
+  }
+}

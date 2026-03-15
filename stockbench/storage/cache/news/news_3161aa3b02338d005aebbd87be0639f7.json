@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "AIG taps financial sector veteran as chief digital officer",
+      "description": "HP executive Scott Hallworth will be tasked with scaling generative AI use across the insurance company.",
+      "published_utc": "2025-08-18T11:37:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7ce5053583f0657561c85ba1278208cd82966a370b45066f21f5f23096bcdaa4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136411496,
+      "datetime": 1755531420
+    },
+    {
+      "title": "Travelers Companies Insiders Sell US$21m Of Stock, Possibly Signalling Caution",
+      "description": "Over the past year, many The Travelers Companies, Inc. ( NYSE:TRV ) insiders sold a significant stake in the company...",
+      "published_utc": "2025-08-18T10:00:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c324b587787df84152123dd7ea02a4847d6091c5bb9306cd3efa3a8b05586758",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136408948,
+      "datetime": 1755525610
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:22:55.858796+00:00",
+    "cache_key": "news_3161aa3b02338d005aebbd87be0639f7",
+    "count": 2
+  }
+}

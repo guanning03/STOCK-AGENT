@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Why Richtech Robotics Stock Plummeted by Over 30% Last Month",
+      "description": "Several negative developments put quite a hurt on the company's stock.",
+      "published_utc": "2026-03-08T19:54:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eb96f95f5660800957ab067dea8525798447566345899f8a6084c4c1889ba91f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139347385,
+      "datetime": 1773014092
+    },
+    {
+      "title": "Better Stock to Buy Now: Microsoft or Netflix?",
+      "description": "Netflix just eliminated the reason its stock was down so much.",
+      "published_utc": "2026-03-08T19:25:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b994a6402bb7d8f891b843f2e8abd775804f8c92b10d49b02623a8b2824faae3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139346670,
+      "datetime": 1773012300
+    },
+    {
+      "title": "1 Artificial Intelligence (AI) Stock to Buy Before It Soars 74% to Join Nvidia as a $4 Trillion-Dollar Company",
+      "description": "Amazon has been the worst-performing \"Magnificent Seven\" stock over the last five years. Don't bet on that happening again.",
+      "published_utc": "2026-03-08T16:50:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9c13fa05b7425d111247ddad02c48db6caaa0219ab8e59efb3811d50059eff32",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139345852,
+      "datetime": 1773003000
+    },
+    {
+      "title": "Nvidia and Meta Platforms Are Now Cheaper Than the S&P 500. Which \"Magnificent Seven\" Stock Is the Best Buy in March?",
+      "description": "Investors are getting a great price for these top artificial intelligence (AI) growth stocks.",
+      "published_utc": "2026-03-08T15:37:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=db0f22bee57f95a5d5f386444c19556e3d668605e34de1e23068c531f7d7064d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139344804,
+      "datetime": 1772998620
+    },
+    {
+      "title": "Bank of America resets Amazon stock forecast",
+      "description": "Amazon stock has lost about 7% year to date, at the time of writing, Friday afternoon, March 6, according to Yahoo Finance. Meanwhile, the SPDR S&P 500 index (SPY) is down about a little more than 1% in the same period. Alphabet (GOOGL) is down almost 5%.Microsoft (MSFT) is down 15%.Apple ...",
+      "published_utc": "2026-03-08T12:47:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fa5e55bd15730e837dcbaea227d7e88ecff46c37a3b3212bee5fbdb56cc62871",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139343780,
+      "datetime": 1772988420
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T04:11:34.984521+00:00",
+    "cache_key": "news_160a8457613f16399991cea5785ca2ff",
+    "count": 5
+  }
+}

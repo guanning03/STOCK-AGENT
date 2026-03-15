@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "title": "The old software investing playbook is dead. Here’s where to put your money now.",
+      "description": "The old software investing playbook is dead. Here’s where to put your money now.",
+      "published_utc": "2025-08-16T03:30:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=3fe5072ea4271c536710cb5a92d515d5d5fb819a55174c466e44ce35677adddd",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136384492,
+      "datetime": 1755329400
+    },
+    {
+      "id": "126b8f7496a1bba4e69666bb712204f90391aaa28d18fdc3a3c9ee20061b25ec",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "History Shows That Palantir Stock's Monster Run Is Speeding Toward an Epic Crash -- and It All Might Come Down to 1 Detail That No One Is Talking About",
+      "author": "Adam Spatacco",
+      "published_utc": "2025-08-16T16:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/08/16/history-shows-that-palantir-stocks-monster-run-is/?source=iedfolrf0000001",
+      "tickers": [
+        "PLTR",
+        "CRM",
+        "SAP",
+        "ADBE"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/829025/gettyimages-1160957483.jpg",
+      "description": "Palantir's stock has surged 147% year-to-date, becoming the top S&P 500 performer, but analysts warn its astronomical valuation and institutional investor behavior suggest a potential significant price correction is imminent.",
+      "keywords": [
+        "Palantir",
+        "AI",
+        "stock market",
+        "institutional investors",
+        "valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "PLTR",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Trading at an extremely high price-to-sales multiple of 137, significantly above industry peers, with signs of institutional investors potentially preparing to sell, indicating an overvalued stock at risk of a substantial price drop"
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a comparison point for Palantir's market capitalization, with no specific positive or negative commentary"
+        },
+        {
+          "ticker": "SAP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a comparison point for Palantir's market capitalization, with no specific positive or negative commentary"
+        },
+        {
+          "ticker": "ADBE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a comparison point for Palantir's market capitalization, with no specific positive or negative commentary"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:13:58.065261+00:00",
+    "cache_key": "news_9fd97915f1fb3619bb8a3160470a35e4",
+    "count": 2
+  }
+}

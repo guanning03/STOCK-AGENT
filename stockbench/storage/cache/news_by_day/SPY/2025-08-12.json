@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Consumer Price Index: Inflation Holds Steady At 2.7% In July, Lower Than Expected",
+      "description": "Inflation held steady in July as the headline figure for the Consumer Price Index was at 2.7% year-over-year, unchanged from June and lower than the expected 2.8% growth.",
+      "published_utc": "2025-08-12T15:55:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=50ae41ddfcf8daf3cb74aabee7288fe2aaa819d228b052dd0ce62f46b941dda2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2209777691/image_2209777691.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136325179,
+      "datetime": 1755028500
+    },
+    {
+      "title": "Economic Optimism Returns Among Small Businesses",
+      "description": "After peaking post-election at 105.1 in December, the headline index went on to fall to a low of 95.8 in April and has since erased about half of that decline. Click to read.",
+      "published_utc": "2025-08-12T12:18:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=58a94cf4d2a47d3de35e7cf817a0759edae2119f7452151ba5f25d6a7160bfce",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1688767071/image_1688767071.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136322522,
+      "datetime": 1755015480
+    },
+    {
+      "title": "XSD: A Deep Dive On This U.S.-Based Semiconductor ETF",
+      "description": "XSD offers exposure to 40 U.S. semiconductor stocks with a modified equal-weight approach. Click here for more information on XSD ETF.",
+      "published_utc": "2025-08-12T12:11:55",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ef51964c3ef750aff84d17b533582f1b3b7f0f4275ba90d5945c73f1213ed2ed",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1468266144/image_1468266144.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136322439,
+      "datetime": 1755015115
+    },
+    {
+      "title": "Benzinga Market Summary: S&P Rises Following July CPI Report, Airline Stocks Gain On Rising Fairs And Falling Gasoline Prices, Intel Stock Rises After CEO Meets With Trump",
+      "description": "",
+      "published_utc": "2025-08-12T10:33:57",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=eda7bb42b3a8bffb233d6371de80cba4a9dd8cfb1d0d7f799f2c8dc402db18cf",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138925027,
+      "datetime": 1755009237
+    },
+    {
+      "title": "AIER's Everyday Price Index Notches A Slight 0.10% Gain In July 2025",
+      "description": "In July 2025, the AIER Everyday Price Index rose to 296.1, a rise of 0.10 percent. This is the eighth consecutive monthly increase in the index.",
+      "published_utc": "2025-08-12T10:31:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3a870a4974676cd52bc7a2557cff08a01176ff944fb28ca35810e82cca9d144a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2208909805/image_2208909805.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136321097,
+      "datetime": 1755009060
+    }
+  ]
+}

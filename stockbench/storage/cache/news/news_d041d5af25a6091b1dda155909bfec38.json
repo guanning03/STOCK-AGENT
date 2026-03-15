@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The Fed Will Cut Interest Rates In September? Don't Be So Sure",
+      "description": "Financial markets figure there is an 86% probability that the FOMC will cut the Federal Funds rate by 0.25 percentage point. But that one-seventh chance of no change deserves consideration.",
+      "published_utc": "2025-09-01T12:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=706b8924a812a9471af9c2e02990d20a84cde093cf3a9e1c0423b077868b6cd7",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1418530162/image_1418530162.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136599059,
+      "datetime": 1756742700
+    },
+    {
+      "title": "Back To School",
+      "description": "Investing is complicated but even more so now with market volatility on a rampage. Bonds are also an interesting trade now. If Fed lowers interest rates, a bond market rally can be expected.",
+      "published_utc": "2025-09-01T10:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=56148e71e3e21f0d09044297bd09c7c5af551c47e739ed07337344cde307525d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2178352583/image_2178352583.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136598569,
+      "datetime": 1756737000
+    },
+    {
+      "title": "Why Traders Fear September: 10 S&P 500 Stocks To Watch As Weak Seasonality Kicks In",
+      "description": "September has a long-standing bearish reputation for U.S. stocks. Here&#39;s what history tells us—and the S&amp;P 500 stocks to watch.",
+      "published_utc": "2025-09-01T07:31:14",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=701cf65b47c53e2e73d57feed17d8d0d1cfa01c71e758281ea6ff2fc867acbac",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/09/01/SP-500-on-the-rise.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138420689,
+      "datetime": 1756726274
+    },
+    {
+      "title": "Housing: Things Are Getting Surreal",
+      "description": "The housing market continues to deteriorate, with new homes now selling at a rare discount to existing homes. Explore the latest housing market trends.",
+      "published_utc": "2025-09-01T06:18:36",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a84f489bddd8bbf1f151bcf597c9f0c1c77e66ac7b2a23e3e981daafa0e5caa7",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/490025664/image_490025664.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136597529,
+      "datetime": 1756721916
+    },
+    {
+      "title": "QDTE: Weekly Dividends Make Up For The Value It Loses",
+      "description": "QDTE stands out for its weekly income generation, with distributions outpacing share price decline. Read why QDTE ETF is a Buy.",
+      "published_utc": "2025-09-01T06:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d78c8e187763705473ed645efea8c7df98a7cc9b39ba889abbc0d4f3ddd81594",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1445810162/image_1445810162.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136597453,
+      "datetime": 1756720800
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:06:20.693523+00:00",
+    "cache_key": "news_d041d5af25a6091b1dda155909bfec38",
+    "count": 5
+  }
+}

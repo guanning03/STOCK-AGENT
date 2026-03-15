@@ -1,0 +1,370 @@
+{
+  "items": [
+    {
+      "id": "5bef6d5e694947150cfbd1cba5f94f5bd47bdfcd24414469492974ca8206bd00",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "AI ETFs In Focus As Alibaba Challenges DeepSeek With New Model",
+      "author": "Chandrima Sanyal",
+      "published_utc": "2025-01-29T18:50:50Z",
+      "article_url": "https://www.benzinga.com/news/global/25/01/43315374/ai-etfs-in-focus-as-alibaba-challenges-deepseek-with-new-model",
+      "tickers": [
+        "AAPL",
+        "AIQ",
+        "AMZN",
+        "ARKQ",
+        "BABA",
+        "BIDU",
+        "GOOG",
+        "GOOGL",
+        "MSFT",
+        "NVDA",
+        "QQQ",
+        "TSLA"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/29/deepseek-ai7_0.png?width=1200&height=800&fit=crop",
+      "description": "The ongoing AI arms race, with disruptive developments from DeepSeek and Alibaba's new Qwen 2.5-Max model, has thrust AI-focused ETFs into the spotlight. This escalating competition opens opportunities for investors to capitalize on the AI trend.",
+      "keywords": [
+        "AI",
+        "ETFs",
+        "Alibaba",
+        "DeepSeek"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Apple is mentioned as one of the holdings of the Invesco QQQ Trust ETF, which provides exposure to major tech companies involved in AI advancements."
+        },
+        {
+          "ticker": "AIQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights this ETF as providing broad exposure to top AI companies, including semiconductor firms and software developers, making it a potential investment opportunity in the AI space."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Amazon is mentioned as one of the holdings of the Invesco QQQ Trust ETF, which provides exposure to major tech companies involved in AI advancements."
+        },
+        {
+          "ticker": "ARKQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights this ETF, managed by Cathie Wood's ARK Invest, as targeting companies playing in AI-driven automation and robotics, making it a relevant investment option in the AI space."
+        },
+        {
+          "ticker": "BABA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article focuses on Alibaba's launch of its Qwen 2.5-Max AI model, which is seen as a competitive response to DeepSeek's advancements, indicating Alibaba's strong presence in the AI race."
+        },
+        {
+          "ticker": "BIDU",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Baidu is mentioned as one of the Chinese AI players racing to upgrade their AI offerings, but the article does not provide a specific sentiment towards the company."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alphabet is mentioned as one of the holdings of the Global X Artificial Intelligence & Technology ETF, indicating its involvement in AI advancements, but the article does not provide a specific sentiment towards the company."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alphabet is mentioned as one of the holdings of the Global X Artificial Intelligence & Technology ETF, indicating its involvement in AI advancements, but the article does not provide a specific sentiment towards the company."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Microsoft is mentioned as one of the holdings of the Global X Artificial Intelligence & Technology ETF, indicating its involvement in AI advancements, but the article does not provide a specific sentiment towards the company."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "NVIDIA is mentioned as one of the holdings of the Global X Artificial Intelligence & Technology ETF, indicating its involvement in AI advancements, but the article does not provide a specific sentiment towards the company."
+        },
+        {
+          "ticker": "QQQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article highlights this ETF as providing exposure to major tech companies involved in AI advancements, but does not provide a specific sentiment towards the ETF."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Tesla is mentioned as one of the holdings of the ARK Autonomous Technology & Robotics ETF, indicating its involvement in AI-driven automation and robotics, but the article does not provide a specific sentiment towards the company."
+        }
+      ]
+    },
+    {
+      "id": "e63da0123c6f339a15e177c5caa412803d4b9bcdcdb87037a65bdbeb72cb53e8",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "5 Monster Stocks to Hold for the Next 10 Years",
+      "author": "Justin Pope",
+      "published_utc": "2025-01-29T10:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/29/5-monster-stocks-to-hold-for-the-next-10-years/?source=iedfolrf0000001",
+      "tickers": [
+        "META",
+        "NVO",
+        "UBER",
+        "AMZN",
+        "TSLA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804584/long-term-stock-ideas.jpg",
+      "description": "The article discusses five companies that are well-positioned to thrive in the coming decade, including Meta Platforms, Novo Nordisk, Uber, Amazon, and Tesla. It analyzes the growth potential and competitive advantages of each company.",
+      "keywords": [
+        "Meta Platforms",
+        "Novo Nordisk",
+        "Uber",
+        "Amazon",
+        "Tesla",
+        "AI",
+        "weight loss",
+        "autonomous vehicles",
+        "cloud computing",
+        "electric vehicles"
+      ],
+      "insights": [
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Meta Platforms' leadership in AI, with its open-source AI model Llama attracting developers and its plans to invest heavily in AI, which could give it a competitive advantage in the future."
+        },
+        {
+          "ticker": "NVO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes Novo Nordisk's dominance in the weight loss drug market, with its GLP-1 agonist drugs Ozempic and Wegovy, and its potential to maintain market exclusivity through secondary patents."
+        },
+        {
+          "ticker": "UBER",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article argues that Uber's market leadership, network effects, and partnerships in autonomous technology could help it weather the potential disruption from self-driving vehicles and continue to grow."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Amazon's dominant positions in e-commerce and cloud computing, as well as its expansion into adjacent AI-driven opportunities, making it a compelling long-term investment."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article acknowledges the risks in Tesla's business, but also highlights its potential to capitalize on growth opportunities in electric vehicles, self-driving technology, and robotics, which could lead to significant rewards for long-term investors."
+        }
+      ]
+    },
+    {
+      "id": "500bb75bba58dbde6f66493716e3392c481abb04abba5f63d198817ab24b645d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Ultimate Growth Stock to Buy With $1,000 Right Now",
+      "author": "Lawrence Rothman, Cfa",
+      "published_utc": "2025-01-29T10:12:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/29/the-ultimate-growth-stock-to-buy-with-1000-right-n/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "MSFT",
+        "GOOG",
+        "GOOGL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804662/gettyimages-1481512675-1200x800-5b2df791.jpg",
+      "description": "The article discusses Amazon's growth prospects, particularly its cloud computing business Amazon Web Services (AWS), which accounts for a significant portion of the company's profits. It suggests that Amazon's growth potential remains strong, driven by the rapid adoption of generative AI technology.",
+      "keywords": [
+        "Amazon",
+        "AWS",
+        "cloud computing",
+        "generative AI"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Amazon's strong growth prospects, particularly in its AWS cloud computing business, which is expected to benefit from the rapid adoption of generative AI technology. The article suggests that Amazon's growth potential remains strong, despite its high valuation."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Microsoft's Azure cloud computing platform, which has a 20% market share, but does not provide any specific commentary on the company's performance or outlook."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Alphabet's Google Cloud platform, which has a 12% market share, but does not provide any specific commentary on the company's performance or outlook."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Alphabet's Google Cloud platform, which has a 12% market share, but does not provide any specific commentary on the company's performance or outlook."
+        }
+      ]
+    },
+    {
+      "id": "79a24a9aaa6938e8acf559712407068b3eaa47726eb942e8ad64c03366615474",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Despite Catapulting to an All-Time High, Netflix Just Missed a Golden Opportunity",
+      "author": "Sean Williams",
+      "published_utc": "2025-01-29T10:06:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/29/all-time-high-netflix-just-miss-golden-opportunity/?source=iedfolrf0000001",
+      "tickers": [
+        "NFLX",
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "AAPL",
+        "META",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805305/person-streaming-show-series-tablet-netflix-subscription-getty.jpg",
+      "description": "Netflix's strong performance in Q4 2024, driven by subscriber growth, original content, and pricing power, has propelled the stock to new highs. However, the company's board missed an opportunity to announce a stock split, which could have further boosted investor interest.",
+      "keywords": [
+        "Netflix",
+        "streaming",
+        "stock split",
+        "subscriber growth",
+        "original content",
+        "pricing power"
+      ],
+      "insights": [
+        {
+          "ticker": "NFLX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Netflix's strong performance in Q4 2024, with impressive subscriber growth, successful original content, and pricing power, which have driven the stock to new highs. The article suggests that a stock split could have further boosted investor interest in the company."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alphabet is mentioned as having a member on The Motley Fool's board of directors, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alphabet is mentioned as having a member on The Motley Fool's board of directors, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Amazon is mentioned as the parent company of Whole Foods Market, which has a member on The Motley Fool's board of directors, but the article does not provide any specific information about Amazon's performance or outlook."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Apple is mentioned as one of the FAANG stocks, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Meta Platforms (formerly Facebook) is mentioned as having a member on The Motley Fool's board of directors, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as an advertising partner of Motley Fool Money, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as an advertising partner of Motley Fool Money, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as an advertising partner of Motley Fool Money, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as an advertising partner of Motley Fool Money, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as an advertising partner of Motley Fool Money, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as an advertising partner of Motley Fool Money, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as an advertising partner of Motley Fool Money, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as an advertising partner of Motley Fool Money, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as an advertising partner of Motley Fool Money, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as an advertising partner of Motley Fool Money, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as an advertising partner of Motley Fool Money, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as an advertising partner of Motley Fool Money, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as an advertising partner of Motley Fool Money, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as an advertising partner of Motley Fool Money, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as an advertising partner of Motley Fool Money, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as an advertising partner of Motley Fool Money, but the article does not provide any specific information about the company's performance or outlook."
+        }
+      ]
+    }
+  ]
+}

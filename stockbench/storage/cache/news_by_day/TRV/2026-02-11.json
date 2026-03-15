@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Global Insurer AIG Held At Bay For Now Despite A-Level Credit Rating",
+      "description": "American International Group, Inc. stays Hold/Neutral: solid margins, balance sheet, dividend growth, and buybacks offset macro headwinds. Click for this AIG update.",
+      "published_utc": "2026-02-11T11:54:21",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d7face6a6925e97ce828f27558a0615c8d031b43258a0e94098f48d2c01dd300",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2242183928/image_2242183928.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139049463,
+      "datetime": 1770828861
+    },
+    {
+      "title": "Why The Narrative Around Travelers Companies (TRV) Is Shifting After Fresh Street And Valuation Updates",
+      "description": "The latest update to Travelers Companies' fair value estimate edges the price target to roughly US$301.10 per share, even as the revenue growth assumption in the model shifts to a much more cautious 53.83% decline. That combination reflects how recent Street research is balancing confidence in the business with a tougher backdrop for pricing across parts of the P&C market. Stay tuned to see how you can keep track of these moving targets and monitor how the Travelers story evolves from...",
+      "published_utc": "2026-02-11T04:11:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f300658c3f77af66484ae64451a8d4eb440d91e83a092e14a82891ec076c7f46",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139040520,
+      "datetime": 1770801080
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "ADP National Employment Report: 104K Private Jobs Added In July",
+      "description": "The forecast for the forthcoming BLS report is that 108,000 jobs were added in July.",
+      "published_utc": "2025-07-30T16:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e0e9d32acd7171c17e8b8360e4587670dad8041b3c7b1cbbbc4fefbb745278ba",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2193309585/image_2193309585.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136146815,
+      "datetime": 1753906500
+    },
+    {
+      "title": "Fed Acknowledges Slowing U.S. Economy As Two Vote For An Immediate Rate Cut",
+      "description": "",
+      "published_utc": "2025-07-30T15:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d078b1d642f020e3973ba4ed581e07ae809c74fc12cd491ad2bc224837cfce5d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136146667,
+      "datetime": 1753904700
+    },
+    {
+      "title": "How To Retire In 2025 On Dividends",
+      "description": "Ready to retire? Read more on how those preparing for retirement can develop a portfolio of dividend stocks.",
+      "published_utc": "2025-07-30T15:43:53",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=675fb94138efd8a127b6bb3c96d67b8d348920408a8ae12b348fea541e1ced30",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2187824383/image_2187824383.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136146668,
+      "datetime": 1753904633
+    },
+    {
+      "title": "Fed Governors Break Ranks On Rate Policy",
+      "description": "The Federal Reserve held rates steady at 4.25%-4.50%, but two Fed governors dissented for the first time in 30 years. Learn why the central bank is in no rush to cut rates.",
+      "published_utc": "2025-07-30T14:59:13",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=381e3a802c58161f53e2e6dd063880de15526f9256fb8611c38ebb21db9b0e53",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2226866943/image_2226866943.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136146551,
+      "datetime": 1753901953
+    },
+    {
+      "title": "President Trump Posts On Truth Social: \"I am pleased to announce that the United States of America has agreed to a Full and Complete Trade Deal with the Republic of Korea. The Deal is that South Korea will give to the United States $350 Billion Dollars for Investments owned and controlled by the United States, and selected by myself, as President. Additionally, South Korea will purchase $100 Billion Dollars of LNG, or other Energy products and, further..\"",
+      "description": "https://trumpstruth.org/statuses/32285",
+      "published_utc": "2025-07-30T14:31:19",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=c68cb8ba882ba5c7280b22647016b0cf7b4d6d5a6afe87891e5c3ee939012150",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138459939,
+      "datetime": 1753900279
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:25:31.388898+00:00",
+    "cache_key": "news_ac5ad0e5f073974edd6299e594e9e021",
+    "count": 5
+  }
+}

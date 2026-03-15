@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Is Caterpillar Set to Transform On-Site Energy for Data Centers?",
+      "description": "CAT teams with Vertiv to deliver pre-designed power and cooling architectures built for fast, reliable data center deployment.",
+      "published_utc": "2025-11-19T11:06:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3a229756a25b0a8080dfab14f0ffe2c5bb8460ba979473fa541e656ccb9028b5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137553998,
+      "datetime": 1763568360
+    },
+    {
+      "title": "Dow's nearly 200-point rally led by gains for NVIDIA Corp., Caterpillar shares",
+      "description": "Dow's nearly 200-point rally led by gains for NVIDIA Corp., Caterpillar shares",
+      "published_utc": "2025-11-19T05:16:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=cbec295197a4144e73adea5819bbd08fd7020ad09f85142ef4d974bba13acc24",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137557371,
+      "datetime": 1763547360
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Inflation Pressures Were Tamed A Few Years Ago",
+      "description": "The PCE deflator is a better measure than the CPI because the weightings of its components are dynamically adjusted to account for changes in consumer behavior.",
+      "published_utc": "2025-06-02T19:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=10808151850b9f8da29ad88a6c571c7a78132e4789bf1275354951f9e9f34348",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1551007220/image_1551007220.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134968312,
+      "datetime": 1748905500
+    },
+    {
+      "title": "'No More Mr. Nice Guy' Meets 'Still No Mr. Progress'",
+      "description": "Stocks centimetered higher Monday, undeterred by feeble factory data, a fresh outbreak of metals-based mischief, and the usual pantomime between Washington and Beijing.",
+      "published_utc": "2025-06-02T18:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0c36bf4e239514dfb7d796c1f9650cf7d3fdbbbac3c78b88db3c349ffe13af12",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1334907481/image_1334907481.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134968083,
+      "datetime": 1748903700
+    },
+    {
+      "title": "SEC Concerned About Crypto ETFs With Staking Exposure",
+      "description": "- The SEC is concerned about crypto ETFs that offer exposure to staking. - Staking allows crypto investors to earn rewards on the tokens they hold.",
+      "published_utc": "2025-06-02T16:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5bdb62cd4c407c1421d17e2eab99270af435dfddf5beed58b57eeb9b90377eb1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134968024,
+      "datetime": 1748896200
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq close higher as US-China trade tensions flare up",
+      "description": "China added fuel to simmering trade tensions with the US, setting investors on guard as they turned the page on a bullish May.",
+      "published_utc": "2025-06-02T16:04:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=547d657025bdee014b3a3103dc61487470fed2ba9005b430f606d95c8a925392",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134967197,
+      "datetime": 1748894678
+    },
+    {
+      "title": "President Trump Posts On Truth Social \"The AUTOPEN should have stopped Iran a long time ago from \"enriching.\" Under our potential Agreement — WE WILL NOT ALLOW ANY ENRICHMENT OF URANIUM!\"",
+      "description": "https://truthsocial.com/@realDonaldTrump/114616038217949758",
+      "published_utc": "2025-06-02T14:20:04",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=95811a4116a2808f922f28238d07bb7e5693fe9e75a5792a439bbe48bc8d4b55",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138650966,
+      "datetime": 1748888404
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "ELAM: Markets inch higher",
+      "description": "IBM’s CEO walked through some napkin math on data centers — and said that there’s “no way” to turn a profit at current costs. “$8 trillion of CapEx means you need roughly $800 billion of profit just to pay for the interest,” Arvind Krishna told “Decoder.” Krishna was skeptical that current tech would reach AGI, putting the likelihood between 0-1%. — Yahoo Finance This Week Different eras have ...",
+      "published_utc": "2025-12-05T20:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2afedf0e4626939222bd45422c0f6f49a39f02a7873e4d7d6743a278be8aa437",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137715468,
+      "datetime": 1764982980
+    },
+    {
+      "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of December 7",
+      "description": "Stay updated on Dividend Champions, Contenders, and Challengers. Review changes, ex-dividend, and pay dates.",
+      "published_utc": "2025-12-05T19:30:45",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=81d9840c52184ff00b18ae88dd7f70e73825caa975f17fd02baf431b26bd99c1",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1072593728/image_1072593728.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137714648,
+      "datetime": 1764981045
+    }
+  ]
+}

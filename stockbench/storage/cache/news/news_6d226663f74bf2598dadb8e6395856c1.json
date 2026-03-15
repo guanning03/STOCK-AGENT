@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "S&P 500, Nasdaq Snap 4-Day Advance as Netflix Slides",
+      "description": "The S&P 500 and the Nasdaq Composite fell on Monday after a four-day advance as Netflix (NFLX) and T",
+      "published_utc": "2025-12-08T16:47:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e4070b0e0a79fa040f7a6b34a4cd7d1f3b02776df05e66e106a1f82c77576def",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137736552,
+      "datetime": 1765230453
+    },
+    {
+      "title": "IBM: A Pivot To Hybrid Cloud And AI Makes It Attractive, But Overvalued",
+      "description": "Get the latest on IBM's Q3 2025 performance, dividend outlook, and valuation insights. See here to know if IBM stock is a buy or hold.",
+      "published_utc": "2025-12-08T16:43:21",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7b3db48a84a8f9ef4a6003d0499d8edbe974820bb8f9bebdd7a4a598f1f7812f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1358108249/image_1358108249.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137736043,
+      "datetime": 1765230201
+    },
+    {
+      "title": "Stocks to Watch Monday Recap: IBM, Boeing, Broadcom, CoreWeave",
+      "description": "↗️ Boeing (BA): The plane maker said Monday it had completed its long-awaited acquisition of Spirit AeroSystems. The stock rose 2.2%. ↗️ Confluent (CFLT): Tech stalwart IBM (IBM) is buying the data-infrastructure company for about $11 billion, confirming a Wall Street Journal report.",
+      "published_utc": "2025-12-08T16:38:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6502c12dbbd5f5300605fe966c7fd9f8bd3eb81c73c8d9f25a5133acb99b9a35",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137737627,
+      "datetime": 1765229884
+    },
+    {
+      "title": "Is It Too Late to Chase the IBM-Driven Rally in Confluent Stock?",
+      "description": "Confluent stock soars as IBM announces plans to buy the data streaming platform for $11 billion. Here’s why CFLT shares have little to no room for further upside in 2026.",
+      "published_utc": "2025-12-08T16:23:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8dd76e34e10145b0f4eeea7142ef8193f08ae915b58450850969c7a5f6ac974d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137737822,
+      "datetime": 1765229029
+    },
+    {
+      "title": "These Stocks Moved the Most Today: Warner Bros., Paramount, Netflix, Tesla, CoreWeave, Confluent, Marvell, Carvana, and More",
+      "description": "Warner Bros. Discovery stock jumps as Paramount Skydance launches a hostile bid, just days Warner Bros. reached a deal to be bought by Netflix. Paramount rises sharply and Netflix tumbles.",
+      "published_utc": "2025-12-08T16:12:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d07333f4ba97cf44e41902eebf20b2a8e4ab7d6b83a5237131fa707bb3fd2b37",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137736556,
+      "datetime": 1765228320
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:16:21.551561+00:00",
+    "cache_key": "news_6d226663f74bf2598dadb8e6395856c1",
+    "count": 5
+  }
+}

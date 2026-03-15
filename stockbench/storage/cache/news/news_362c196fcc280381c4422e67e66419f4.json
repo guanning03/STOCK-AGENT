@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Netflix Just Announced a 10-for-1 Stock Split -- Here's Why the Stock Looks Like a No-Brainer Buy Right Now",
+      "description": "Netflix is scheduled to execute a 10-for-1 stock split later this month.",
+      "published_utc": "2025-11-10T18:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d2bbecdae678c34a2b436d7fc7b56a16ebf7696385f7ae3a4f428e90ef2a6c0a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137437554,
+      "datetime": 1762816500
+    },
+    {
+      "title": "Goldman Sachs Says AI Boom Will Supercharge Energy Demand",
+      "description": "Goldman Sachs dismisses fears of an AI stock market bubble but warns that the rapid growth of AI data centers will dramatically increase US energy consumption and drive up utility costs.",
+      "published_utc": "2025-11-10T18:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fa1a6c4b258859822879b71c1781d11fbb7d58bff196bd3c92746b7f3666d63d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137437544,
+      "datetime": 1762815600
+    },
+    {
+      "title": "Jamf’s (NASDAQ:JAMF) Q3: Strong Sales",
+      "description": "Apple device management company Jamf (NASDAQ:JAMF) reported Q3 CY2025 results exceeding the market’s revenue expectations, with sales up 15.2% year on year to $183.5 million. Its non-GAAP profit of $0.25 per share was 7.7% above analysts’ consensus estimates.",
+      "published_utc": "2025-11-10T16:45:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f880de6a1aa78bbc757ff155438dad219367d36c8bd7a49fb0bd02024e94a61b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137437556,
+      "datetime": 1762811117
+    },
+    {
+      "title": "Jamf Announces Third Quarter 2025 Financial Results",
+      "description": "MINNEAPOLIS, November 10, 2025--Jamf (NASDAQ: JAMF), the standard in managing and securing Apple at work, today announced financial results for its third quarter ended September 30, 2025.",
+      "published_utc": "2025-11-10T16:07:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f153289784940647195b783c07bea70b46b8d50001ea9c031aea6d2cf3c1379e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137437557,
+      "datetime": 1762808820
+    },
+    {
+      "title": "Qualcomm Wants to Beat Nvidia in AI Chips, but QCOM Stock Needs to Win Over Wall Street First",
+      "description": "QCOM stock is down after earnings after failing to impress investors with its results. This comes as Qualcomm plans to get into the AI chip market to rival AMD and Nvidia.",
+      "published_utc": "2025-11-10T15:13:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d0eb7c6ffe1fb55dc1c25ae4356b18db374bf361c716d457364a3d3d105e7ac2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137437558,
+      "datetime": 1762805595
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:50:12.575985+00:00",
+    "cache_key": "news_362c196fcc280381c4422e67e66419f4",
+    "count": 5
+  }
+}

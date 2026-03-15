@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Nasdaq Surges Over 100 Points, Records Gains In October: Greed Index Remains In 'Fear' Zone",
+      "description": "CNN Money Fear and Greed index remained in Fear zone on Friday. US stocks closed higher, Nasdaq up 4.7% in October. Amazon reported earnings.",
+      "published_utc": "2025-11-02T18:04:06",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=ecd65caeed2fb4d678abadb94309d4664c7bde008af303cabca109255eb74737",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/02/Fear-and-Greed.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138415014,
+      "datetime": 1762124646
+    },
+    {
+      "title": "Analyst Says Nvidia (NVDA) Has ‘Zeroed Out’ of China Revenue",
+      "description": "We recently published Top Analyst Calls: 8 Stocks to Buy and Sell. NVIDIA Corp (NASDAQ:NVDA) is one of the top analyst calls. Patrick Moorhead of Moor Insights & Strategy commented on the China-related selloff after President Trump’s tariff announcements earlier in October. The analyst at the time said the selloff was an overreaction and made […]",
+      "published_utc": "2025-11-02T12:11:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a67856b8b1f6d38a7d67a4c488cf6e93a2d2a05536fc64e2aead85920bff9da2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137294316,
+      "datetime": 1762103475
+    },
+    {
+      "title": "25% of Warren Buffett's $315 Billion Portfolio Is Invested in 2 Artificial Intelligence (AI) Stocks",
+      "description": "AI isn't the only reason to buy them.",
+      "published_utc": "2025-11-02T12:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f658c0457ba0e177ec3a3c8508da89761cbfc815d9191c5ea5191508f07b868d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137294337,
+      "datetime": 1762102800
+    },
+    {
+      "title": "Warren Buffett Opens Up About The Biggest Investing Blunders Of His Career — Here They Are",
+      "description": "Over the decades, the &#34;Oracle of Omaha&#34; has shared candid reflections on his biggest blunders, from emotional decisions to missed opportunities, all of which provide timeless investing insights.",
+      "published_utc": "2025-11-02T11:42:13",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=57c19f24b45cd83cb9c9a55c483691e868b44b666b9b15e3c6a61b5a1257dbdd",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/02/Warren-Buffett_0.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138924972,
+      "datetime": 1762101733
+    },
+    {
+      "title": "Met Police accuses Apple of failing to check if iPhones are stolen",
+      "description": "The Met Police has accused Apple of failing to stop stolen iPhones from being traded in as the two sides clash over an epidemic of phone thefts.",
+      "published_utc": "2025-11-02T10:34:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a451ab322b89441bf01c6261884cf6f472357b65c12ed5a6cd9140167b53de58",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137294338,
+      "datetime": 1762097649
+    }
+  ]
+}

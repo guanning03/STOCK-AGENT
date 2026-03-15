@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "RLI Trading at a Premium to Industry: How to Play the Stock",
+      "description": "RLI stock is poised to gain from portfolio, business expansion, expanded distribution and operational strength, driving growth.",
+      "published_utc": "2025-09-22T10:28:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e23e317ada747b62294a9456f5bd12fd8a6cc456ee664ea392a57d3db2a56b55",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136844973,
+      "datetime": 1758551280
+    },
+    {
+      "title": "2 Reasons to Like TRV (and 1 Not So Much)",
+      "description": "While the S&P 500 is up 15.6% since March 2025, Travelers (currently trading at $277 per share) has lagged behind, posting a return of 6.8%. This may have investors wondering how to approach the situation.",
+      "published_utc": "2025-09-22T00:04:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ec8502f853ebccd3dee8a5800e37e20b90012adbe6e3a750c5b30b64b774553d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136851344,
+      "datetime": 1758513875
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "items": [
+    {
+      "id": "1f67bc5a66b6a68f37aac358484bb5b670d5ae7a2f41d0f22f4e70b2243b4df9",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Predition: This Supercharged Growth Stock Will Soar to $10 Trillion By 2030",
+      "author": "Danny Vena",
+      "published_utc": "2025-10-25T22:02:00Z",
+      "article_url": "https://www.fool.com/investing/2025/10/25/predition-this-supercharged-growth-stock-will-soar/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/836492/a-rising-stock-chart-on-a-mobile-device-and-a-stack-of-100-bills.jpg",
+      "description": "Nvidia is positioned as a leading AI chipmaker with potential to reach a $10 trillion market cap by 2030, driven by robust demand for AI-centric graphics processing units (GPUs) and strong market positioning in the AI technology landscape.",
+      "keywords": [
+        "Nvidia",
+        "AI",
+        "GPUs",
+        "market cap",
+        "technology",
+        "semiconductors"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Nvidia's exceptional revenue growth (3,480% over a decade), dominant market share in AI chips (92%), strong financial performance, and potential to reach a $10 trillion market cap by 2030"
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned briefly as a source for market size estimates, with no specific performance analysis"
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned briefly as a source for market size estimates, with no specific performance analysis"
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned briefly as a source for market size estimates, with no specific performance analysis"
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned briefly as a source for market size estimates, with no specific performance analysis"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:51:28.442155+00:00",
+    "cache_key": "news_5544f54a3bf9f399a259f685706d804f",
+    "count": 1
+  }
+}

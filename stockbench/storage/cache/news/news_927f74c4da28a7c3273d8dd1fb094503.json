@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer Says Procter & Gamble Stock is “Still Way Too High”",
+      "description": "The Procter & Gamble Company (NYSE:PG) is one of the stocks Jim Cramer shared insights on. Cramer said the stock is not “weak enough,” as he commented: “I didn’t include Procter & Gamble and Johnson & Johnson, both amazing companies, but their stocks, while weaker today, they’re not weak enough. They’re still way too high.” […]",
+      "published_utc": "2025-09-13T10:45:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ea33986e1df4bcf2541007075ffd0419605fdb5f6fd48ada9e69a743cbe4aa0a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136735948,
+      "datetime": 1757774705
+    },
+    {
+      "title": "How Strong Is Johnson & Johnson’s Value After FDA Nod for New Drug in 2025?",
+      "description": "Deciding what to do with Johnson & Johnson stock? You are not alone. Over the past year, plenty of investors have been trying to figure out if now is the time to buy, hold, or sell, especially as the company’s shares have edged upwards, climbing 11.1% over the last 12 months. What is driving that momentum? While the healthcare giant has not been immune to broader market shifts, its steady performance—up 2.1% in the last month and a strong 23.6% so far this year—hints at a growing confidence...",
+      "published_utc": "2025-09-13T09:39:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2cdee27fa6cc649a88d9964702abbea0db6a74f01ec1cfcb27fc1ba156a0755e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136735950,
+      "datetime": 1757770755
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:42:47.363697+00:00",
+    "cache_key": "news_927f74c4da28a7c3273d8dd1fb094503",
+    "count": 2
+  }
+}

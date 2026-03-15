@@ -1,0 +1,70 @@
+{
+  "items": [
+    {
+      "id": "8c6c145ecc6c35601df94328805167ead9ac113b43f70b687c7110002832feb8",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "4 Reasons to Buy McDonald's Stock Like There's No Tomorrow",
+      "author": "Leo Sun",
+      "published_utc": "2025-01-11T16:14:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/11/4-reasons-to-buy-mcdonalds-stock-like-theres-no-to/?source=iedfolrf0000001",
+      "tickers": [
+        "MCD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803174/friends-eating-fast-food.jpg",
+      "description": "McDonald's, the world's largest fast-food chain, has faced some near-term challenges, including slowing comparable store sales and an E. coli outbreak. However, these issues are temporary, and the company is taking steps to address them. With its global loyalty program, digital platform upgrades, and consistent dividend growth, McDonald's remains a solid long-term investment.",
+      "keywords": [
+        "McDonald's",
+        "fast-food",
+        "comparable store sales",
+        "E. coli outbreak",
+        "loyalty program",
+        "digital platform",
+        "dividend growth"
+      ],
+      "insights": [
+        {
+          "ticker": "MCD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights that McDonald's is facing temporary headwinds, but the company is taking steps to address them, such as launching new menu items, expanding its value offerings, and focusing on restoring consumer confidence. Additionally, the company's global loyalty program, digital platform upgrades, and consistent dividend growth make it a solid long-term investment."
+        }
+      ]
+    },
+    {
+      "id": "d4a28c3bee94ffe5dc4bd5b38782b6896edf8950e84cc113fdc9a86d1d35eb74",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "McDonald's Stock Has Underperformed the S&P 500 in 5 of the Past 6 Years. Will 2025 Be Any Better?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-11T08:33:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/11/mcdonalds-stock-has-underperformed-the-sp-500-in-5/?source=iedfolrf0000001",
+      "tickers": [
+        "MCD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802833/person-drinking-at-a-food-court.jpg",
+      "description": "McDonald's stock has underperformed the S&P 500 in 5 of the past 6 years, raising concerns for investors. The company may face challenges in growing its top and bottom lines in 2025, but it can still be a worthwhile investment for those seeking dividend income and stability.",
+      "keywords": [
+        "McDonald's",
+        "S&P 500",
+        "stock performance",
+        "dividend",
+        "growth"
+      ],
+      "insights": [
+        {
+          "ticker": "MCD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article suggests that while McDonald's stock has underperformed the market in recent years, it can still be a worthwhile investment for those seeking dividend income and stability, though it may face challenges in growing its business in 2025."
+        }
+      ]
+    }
+  ]
+}

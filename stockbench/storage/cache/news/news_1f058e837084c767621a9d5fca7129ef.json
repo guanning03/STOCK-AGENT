@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Could AI Crash the Economy in 2 Years? One Research Firm Says Yes.",
+      "description": "A recent research report says AI could create mass unemployment within two years.",
+      "published_utc": "2026-03-01T16:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=422ed4b476abb8a712672c54ebd6db8f642e37e9c24437a2395b29b2aa528019",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139272015,
+      "datetime": 1772400000
+    },
+    {
+      "title": "Forget BigBear.ai: This Cloud Platform Is Quietly Becoming Mission‑Critical for Fortune 500 AI Workloads",
+      "description": "The combination of a longtime AI leader and a data streaming pioneer is a better stock prospect.",
+      "published_utc": "2026-03-01T09:07:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac8d626a2ef369ab303463eb896d8e2294b26240fe6829e02cee33b6bd694960",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139270548,
+      "datetime": 1772374020
+    },
+    {
+      "title": "'Silent failure at scale': The AI risk that can tip the business world into disorder",
+      "description": "As AI systems become more complex the risk of surpassing human comprehension, not intelligence, could lead to chaos, artificial intelligence experts warn.",
+      "published_utc": "2026-03-01T04:00:01",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=ca724466494b8e77f7ca9b50f8417532968355d1b73cd68f91f6156f5fdcbf83",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108269912-1772033794480-gettyimages-2257476741-2025-12-18datacenter3_v05_camera0010001.jpeg?v=1772033807&w=1920&h=1080",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139270946,
+      "datetime": 1772355601
+    },
+    {
+      "title": "IBM: AI-Related Selloff In Software Makes Sense, But Not For IBM",
+      "description": "",
+      "published_utc": "2026-03-01T04:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9cf5e26536977360d5c58245a10b0bc472d632ae6dabf216784b3ad2cdfe46be",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139270133,
+      "datetime": 1772355600
+    },
+    {
+      "title": "Street Calls of the Week",
+      "description": "Investing.com -- Here is your Pro Recap of the top takeaways from Wall Street analysts for the past week.",
+      "published_utc": "2026-03-01T03:55:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=34dd7b97dd5063979cffd445bd571e5efac09bce95e24c08a012c93f98db73f3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139268928,
+      "datetime": 1772355301
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:51:17.265003+00:00",
+    "cache_key": "news_1f058e837084c767621a9d5fca7129ef",
+    "count": 5
+  }
+}

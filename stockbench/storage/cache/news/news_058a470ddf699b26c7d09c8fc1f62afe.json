@@ -1,0 +1,118 @@
+{
+  "items": [
+    {
+      "title": "Wall Street Enters Its Strongest Month: These 7 Stocks Often Crush It",
+      "description": "November is historically Wall Street&#39;s strongest month. These 7 stocks often delivered standout gains in recent decades.",
+      "published_utc": "2025-11-01T04:31:51",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=29089b67905794dc40c8c44bbc692fe11378c4035a9374b74450abdf85bfcab6",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/01/Opendoor--Super-Micro--Tesla-And-Rezolve.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138437956,
+      "datetime": 1761985911
+    },
+    {
+      "id": "0ea937125ed0af27983f6e481dfddf897cc1f07f171b07462d419db644cb13ca",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "ThinkCareBelieve: Week 41 of Trump's Golden America",
+      "author": "Thinkcarebelieve",
+      "published_utc": "2025-11-01T23:06:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/11/01/3178771/0/en/ThinkCareBelieve-Week-41-of-Trump-s-Golden-America.html",
+      "tickers": [
+        "BA",
+        "BApA"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/353cfcaf-e50d-4ea8-b709-7f9ab2de465f",
+      "description": "President Trump completed an extensive Asian Peace Tour, securing over $1.5 trillion in trade deals and investments across multiple countries including Japan, South Korea, China, and Southeast Asian nations, while also addressing domestic issues like immigration, child protection, and government investigations.",
+      "keywords": [
+        "Trump Asian Tour",
+        "Trade Deals",
+        "Investments",
+        "Immigration",
+        "Child Protection"
+      ],
+      "insights": [
+        {
+          "ticker": "BA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Secured significant aircraft purchases from Thailand (80 planes) and South Korea (103 planes)"
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Secured significant aircraft purchases from Thailand (80 planes) and South Korea (103 planes)"
+        }
+      ]
+    },
+    {
+      "id": "3080218c0e5cd34b2b4fce7c639eee27de7707dcf9cc6732e970ff35fcdf1971",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Huge News for GE Aerospace Investors (and Why It's Already Boosting Earnings)",
+      "author": "Lee Samaha",
+      "published_utc": "2025-11-01T07:14:00Z",
+      "article_url": "https://www.fool.com/investing/2025/11/01/huge-news-for-ge-aerospace-investors-and-why-its-a/?source=iedfolrf0000001",
+      "tickers": [
+        "GE",
+        "BA",
+        "BApA",
+        "EADSY",
+        "RTX"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/839525/aerospace-stocks-to-buy-in-2025.jpg",
+      "description": "GE Aerospace reports improved supply chain conditions, leading to higher engine service revenues and increased LEAP engine deliveries, with management raising full-year guidance for revenue, earnings, and free cash flow.",
+      "keywords": [
+        "aerospace",
+        "supply chain",
+        "engine deliveries",
+        "services revenue",
+        "LEAP engines"
+      ],
+      "insights": [
+        {
+          "ticker": "GE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Company experiencing supply chain improvements, increased engine deliveries, higher service revenues, and raised full-year financial guidance"
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Potential beneficiary of increased engine availability and production ramp-up"
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Potential beneficiary of increased engine availability and production ramp-up"
+        },
+        {
+          "ticker": "EADSY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Potential beneficiary of increased engine availability and production ramp-up"
+        },
+        {
+          "ticker": "RTX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a competitor in engine production, no significant positive or negative indicators"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:17:41.152774+00:00",
+    "cache_key": "news_058a470ddf699b26c7d09c8fc1f62afe",
+    "count": 3
+  }
+}

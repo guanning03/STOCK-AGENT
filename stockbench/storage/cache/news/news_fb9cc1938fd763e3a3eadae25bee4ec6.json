@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Boeing Job Shift Spurs Union Concerns And Raises Investor Execution Risks",
+      "description": "Boeing (NYSE:BA) is shifting certain engineering jobs to its South Carolina operations, raising fresh union concerns. Union leaders report increased anxiety around potential layoffs and job security for engineering employees. The company has previously said there would be no immediate change in employment levels tied to the move. Boeing has rejected union requests for formal job security guarantees, keeping future staffing plans uncertain. Boeing sits at the center of global commercial...",
+      "published_utc": "2026-02-15T09:07:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3f8ee43ca03a9d3f242842189a4470eb9442f6a1336dfacce980591b3cd3598d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139106980,
+      "datetime": 1771164458
+    },
+    {
+      "title": "These 3 Stocks Just Graduated to the MSCI World Index",
+      "description": "The MSCI World Index's February review adds three new companies to the global benchmark as capital flows into space, AI, and aerospace sectors.",
+      "published_utc": "2026-02-15T07:08:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f9e83c8f071b46feb03afb88b892dc8b949e4b4d7fbfb6456619ecfa23c97f3f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139114169,
+      "datetime": 1771157280
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:05:53.401057+00:00",
+    "cache_key": "news_fb9cc1938fd763e3a3eadae25bee4ec6",
+    "count": 2
+  }
+}

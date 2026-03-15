@@ -1,0 +1,118 @@
+{
+  "items": [
+    {
+      "title": "AFRM vs. AXP: Which Fintech Play is the Better Bet for 2026?",
+      "description": "Affirm's rapid growth, expanding merchant network and embedded BNPL model give it an edge over legacy players like AmEx, heading into 2026.",
+      "published_utc": "2025-12-22T11:52:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=63ea350ad30ca92d00b89d8ea1a431907e884ec96391574d64ff0422e513bc25",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137878589,
+      "datetime": 1766422320
+    },
+    {
+      "title": "Truist Securities Maintains Buy on American Express, Raises Price Target to $420",
+      "description": "Truist Securities  analyst Brian Foran   maintains American Express (NYSE:AXP) with a Buy and raises the price target from $395 to $420.",
+      "published_utc": "2025-12-22T09:05:06",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=21d0365bff57cb072e9a32a295f53d1a5f3857beddf84ba316dc15a8abedb4b6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138835807,
+      "datetime": 1766412306
+    },
+    {
+      "title": "Warren Buffett Departs With 64% of Berkshire Hathaway in 5 Stocks to Hold Forever",
+      "description": "Despite Warren Buffett’s impending departure, these five dividend stocks are likely to stay in the Berkshire Hathaway portfolio for decades to come.",
+      "published_utc": "2025-12-22T07:15:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=61b0ba5df5f96b0ddc5a6252967422dcd468142c6defe59f9e66f743b6d9c98b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137856410,
+      "datetime": 1766405718
+    },
+    {
+      "id": "4622890a9cabb2a0fa63b804caf0ae2140fd839fce0a1440c8c8d3e8e66960b7",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Prediction: Berkshire Hathaway Will Stop Selling Apple Stock in 2026",
+      "author": "Daniel Sparks",
+      "published_utc": "2025-12-22T08:31:00Z",
+      "article_url": "https://www.fool.com/investing/2025/12/22/prediction-berkshire-hathaway-will-stop-selling-ap/?source=iedfolrf0000001",
+      "tickers": [
+        "BRK.A",
+        "BRK.B",
+        "AAPL",
+        "GOOG",
+        "GOOGL",
+        "AXP"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F848388%2Fapple-iphone-17-pro.jpg&w=1200&op=resize",
+      "description": "Berkshire Hathaway has been trimming its Apple stake over the past two years, but analyst Daniel Sparks predicts the company will stop selling Apple stock in 2026 under new CEO Greg Abel's leadership. The selling appears to be a position-sizing move rather than a loss of confidence, as Apple remains Berkshire's largest holding at $65 billion. With $354 billion in cash and improving Apple business fundamentals showing double-digit growth expectations, Abel may choose to hold remaining shares and deploy capital elsewhere.",
+      "keywords": [
+        "Berkshire Hathaway",
+        "Apple stock",
+        "CEO transition",
+        "Greg Abel",
+        "position sizing",
+        "capital deployment",
+        "concentration risk"
+      ],
+      "insights": [
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Despite recent Apple stock sales, Berkshire's actions reflect prudent portfolio management rather than bearish sentiment. The company maintains Apple as its largest holding, has substantial cash reserves for capital deployment, and is transitioning to new leadership that may adopt a more tech-focused strategy."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Despite recent Apple stock sales, Berkshire's actions reflect prudent portfolio management rather than bearish sentiment. The company maintains Apple as its largest holding, has substantial cash reserves for capital deployment, and is transitioning to new leadership that may adopt a more tech-focused strategy."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple shows improving business momentum with 8% revenue growth in Q4 FY2025 and management guidance for 10-12% growth in the holiday quarter. Strong iPhone demand and CEO commentary support continued confidence, making it unlikely Berkshire will continue aggressive selling."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire recently established a new stake in Alphabet valued at over $4 billion, now in the company's top 10 holdings. This indicates confidence in the company and suggests new management may be more inclined toward tech investments."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire recently established a new stake in Alphabet valued at over $4 billion, now in the company's top 10 holdings. This indicates confidence in the company and suggests new management may be more inclined toward tech investments."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as Berkshire's second-largest holding valued at approximately $57 billion, but no specific sentiment drivers are discussed in the article."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T09:01:25.164313+00:00",
+    "cache_key": "news_57aa5f042ac2b2cf3eda37229f2e7100",
+    "count": 4
+  }
+}

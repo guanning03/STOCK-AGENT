@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Look outside of tech for market winners, Jim Cramer says",
+      "description": "CNBC's Jim Cramer named stocks worth buying outside of the tech sector.",
+      "published_utc": "2025-11-12T13:41:01",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=a882863d83efdc0d570f272c1f3ea844feb3427b0e8d0fca41cb6416317785e6",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/104524980-20170612-1091-2390.jpg?v=1497300345&w=1920&h=1080",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137469728,
+      "datetime": 1762972861
+    },
+    {
+      "title": "Final Trade: LMAT, REGN, BA, TJX",
+      "description": "The final trades of the day with CNBC's Melissa Lee and the 'Fast Money' traders.",
+      "published_utc": "2025-11-12T13:03:45",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=4651c82932d7800dde8180eef509c60f345c91628f4e3e7a626c8cb6b6622898",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108225140-17629884491762988447-42524605593-1080pnbcnews.jpg?v=1762988448&w=1920&h=1080",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137469787,
+      "datetime": 1762970625
+    },
+    {
+      "title": "M&S hires BA boss after chairman attacked airline’s service",
+      "description": "Marks & Spencer has appointed the boss of British Airways to its board after the retailer’s chairman criticised the airline’s declining service.",
+      "published_utc": "2025-11-12T12:23:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d8f5bd020cfdda79fbced191e86607cd5766f2e65d0296065a64c26aa9cc2f8e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137465656,
+      "datetime": 1762968238
+    },
+    {
+      "title": "The Gaza War Has Been Big Business for U.S. Companies",
+      "description": "Two years on, Israel’s war in Gaza might be finally drawing to a close.  Sales of U.S. weapons to Israel have surged since October 2023, with Washington approving more than $32 billion in armaments, ammunition and other equipment to the Israeli military over that time, according to a Wall Street Journal analysis of State Department disclosures.",
+      "published_utc": "2025-11-12T12:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=74ce85952518e0c9111c8c92c9d86bef61a10cb461664fec82fcd49e3e908f05",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137466908,
+      "datetime": 1762966800
+    },
+    {
+      "title": "Howmet's Commercial Aerospace Market Gains Momentum: Can It Sustain?",
+      "description": "HWM continues to witness commercial aerospace strength as engine product sales surge, fueled by new aircraft and strong spare parts needs.",
+      "published_utc": "2025-11-12T11:48:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d1c27e836da035f09a2dcd7aad6bf7158a883a4224ab5342d12246f2ece5ed55",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137466932,
+      "datetime": 1762966080
+    }
+  ]
+}

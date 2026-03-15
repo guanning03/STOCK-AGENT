@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Dow Jones And U.S. Index Outlook: Hawkish NFP Sends Stocks Lower",
+      "description": "Stock benchmarks give up their early gains as traders price out cuts after the strong non-farm payrolls report.",
+      "published_utc": "2026-02-11T18:55:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=dd37c3a846549cdb8b1fca24fa8e365ffde6b0b20c63a9ff35fbe7896423ef4b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1457838120/image_1457838120.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139052513,
+      "datetime": 1770854100
+    },
+    {
+      "title": "3 Warning Signs The Stock Market Is Overdue For A Sharp Correction",
+      "description": "The bullish narrative may be masking deeper structural cracks beneath the surface. Read here for a deeper macroeconomic analysis.",
+      "published_utc": "2026-02-11T15:30:39",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8ea38a2e365e5d7e92b4a8c97e80cd34233b281f0ce4549fed3eab4f0fa12d22",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1453534485/image_1453534485.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139051377,
+      "datetime": 1770841839
+    },
+    {
+      "title": "Private Sector Ramps Up Hiring. Job Losses Mount At Federal And State Governments",
+      "description": "The federal government shed another 34,000 jobs in January as previously departed employees whose separation packages expired at yearend came off the payrolls.",
+      "published_utc": "2026-02-11T15:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=08a040683cacffb54510c928049c385d7cf2283cf6fb23683ee5aa133075b3b8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2212729104/image_2212729104.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139051230,
+      "datetime": 1770840000
+    },
+    {
+      "title": "Employment Report: 130K Jobs Added In January, Higher Than Expected",
+      "description": "The latest employment report showed that 130,000 jobs were added in January, up from December's 48,000 addition.",
+      "published_utc": "2026-02-11T13:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=eb338e0fcdd898250eadbd6a2101d4f8a83fc3286999e5ddb650faa31767d2b9",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2212729104/image_2212729104.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139050328,
+      "datetime": 1770834900
+    },
+    {
+      "title": "WCLD Down 30% as Growth Investors Finally Get Cold Feet About AI Spend",
+      "description": "Cloud computing stocks are trading like they’ve hit a wall. WisdomTree Cloud Computing Fund (NASDAQ:WCLD) dropped 30.5% over the past year to $28.60, a stark reversal from the sector’s pandemic-era dominance. This divergence from the S&P 500 (NYSEARCA:SPY)’s 14.4% gain reflects investor skepticism about whether emerging cloud software companies can maintain their business models as ... WCLD Down 30% as Growth Investors Finally Get Cold Feet About AI Spend",
+      "published_utc": "2026-02-11T13:29:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b8bf9e31b91de2b707e41baa6365b54b4a4e0ca3e5b81b35f7971dea3d31b7a2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139048470,
+      "datetime": 1770834558
+    }
+  ]
+}

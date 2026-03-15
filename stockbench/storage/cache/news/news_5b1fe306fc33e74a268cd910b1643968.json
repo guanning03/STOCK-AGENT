@@ -1,0 +1,97 @@
+{
+  "items": [
+    {
+      "title": "Boeing (BA) CEO “is a Nonsense Guy,” Says Jim Cramer",
+      "description": "We recently published 9 Stocks Jim Cramer Talked About. The Boeing Company (NYSE:BA) is one of the stocks on Jim Cramer talked about. The Boeing Company (NYSE:BA) is one of the largest aircraft manufacturers in the world. The firm has seen its performance improve in 2025 as the shares are up by 26% year-to-date. Cramer has […]",
+      "published_utc": "2025-12-27T04:19:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=67af40289aa94dce6dcbe58d241c1230d17aa3207b028fc90592741781bc216b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137931175,
+      "datetime": 1766827142
+    },
+    {
+      "title": "Benzinga Bulls And Bears: Nvidia, Intel, Oracle — And Markets Gain In Shortened Trading Week",
+      "description": "Benzinga examined the prospects for many investors&#39; favorite stocks over the last week — here&#39;s a look at some of our top stories.",
+      "published_utc": "2025-12-27T04:01:01",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=1a84885b2c92682a10e6192e867928ef5f318e28fa829032c98b5e1abef9986f",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/12/27/Bulls-and-Bears-1.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138420036,
+      "datetime": 1766826061
+    },
+    {
+      "id": "1d42bf8fd04e3ad14b20a4399ca7e8e25533ad8f4f451f9b3835101b8e5adfaa",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "2 No-Brainer Defense Stocks to Buy With $500 Right Now",
+      "author": "Rich Smith",
+      "published_utc": "2025-12-27T10:05:00Z",
+      "article_url": "https://www.fool.com/investing/2025/12/27/2-no-brainer-defense-stocks-to-buy-with-500-now/?source=iedfolrf0000001",
+      "tickers": [
+        "TXT",
+        "HII",
+        "BA",
+        "BApA",
+        "NOC"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F848329%2Finfographic-flow-chart-of-the-defense-industry-with-icons-representing-rockets-helicopters-fighter-jets-and-other-hardware.jpg&w=1200&op=resize",
+      "description": "The article recommends two relatively affordable defense stocks: Textron (TXT) and Huntington Ingalls Industries (HII), both trading near 1.1x sales valuations. Textron produces aircraft and military vehicles through divisions like Cessna, Beechcraft, and Bell Helicopter. Huntington Ingalls, a former Northrop Grumman spinoff, is a primary U.S. Navy shipbuilder specializing in aircraft carriers and submarines. The author favors Huntington Ingalls due to a recent Navy contract award for a new small surface combatant warship design, which could lead to significant revenue growth as it potentially replaces a canceled frigate program.",
+      "keywords": [
+        "defense stocks",
+        "military spending",
+        "shipbuilding",
+        "aircraft manufacturing",
+        "U.S. Navy contracts",
+        "valuation",
+        "geopolitical tensions"
+      ],
+      "insights": [
+        {
+          "ticker": "TXT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Recommended as a relatively cheap defense stock trading at 1.1x sales with diversified revenue streams from Cessna, Beechcraft, and Bell Helicopter divisions serving both civil and military customers. Solid valuation metrics make it attractive for defense investors."
+        },
+        {
+          "ticker": "HII",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strongly recommended as the author's preferred choice due to recent Navy contract award for new small surface combatant warship design. Stock trades at attractive 1.1x sales valuation with significant growth potential as it could replace a canceled frigate program with potentially 20+ new ship orders."
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned only as a partner with Bell Helicopter on the V-22 Osprey program. No investment recommendation or sentiment expressed in the article."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned only as a partner with Bell Helicopter on the V-22 Osprey program. No investment recommendation or sentiment expressed in the article."
+        },
+        {
+          "ticker": "NOC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned only as the former parent company of Huntington Ingalls prior to its 2011 spinoff. No direct investment recommendation provided."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T09:12:09.891646+00:00",
+    "cache_key": "news_5b1fe306fc33e74a268cd910b1643968",
+    "count": 3
+  }
+}

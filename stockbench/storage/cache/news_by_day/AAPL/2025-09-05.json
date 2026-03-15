@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Inside Spotify’s Plot to Take Down Apple",
+      "description": "The music service’s rebellion against an App Store ‘tax’ over the past decade has significantly weakened Apple’s grip on the mobile world",
+      "published_utc": "2025-09-05T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=34a8d6ada7b5c97087eafdca5af73f43e150d243b470cee0f795ff59e92304ce",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136652671,
+      "datetime": 1757120400
+    },
+    {
+      "title": "Dow Jones Futures: Market Wavers At Highs, Apple iPhone Event Due; Nvidia, Tesla, AppLovin, Robinhood In Focus",
+      "description": "Dow Jones futures: The stock market had a mixed week but is right at highs. The Apple iPhone event looms. Nvidia, Tesla, AppLovin are in focus.",
+      "published_utc": "2025-09-05T20:44:28",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=77b8ff09d98e6ef83f8d04fa8ae4078c74ca9e7b79c00643f0c21e4047acec81",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136652632,
+      "datetime": 1757119468
+    },
+    {
+      "title": "MNTN CEO on Apple Plans AI Search Tool for Siri",
+      "description": "Mark Douglas, MNTN CEO, says Apple has little choice but to develop an AI-powered web search tool for Siri to rival OpenAI. He tells Romaine Bostick and Katie Greifeld on \"The Close\" that Apple doesn't have a strong track record on execution.",
+      "published_utc": "2025-09-05T20:04:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=377298d5fd9e7670e681aa99e169c8c606aa895b368e93966dad877432ad46b2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136652674,
+      "datetime": 1757117090
+    }
+  ]
+}

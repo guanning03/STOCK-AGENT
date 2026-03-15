@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "id": "46947294330f11c69240115c01afc8da2ed57734ee88a0d07411c7a17821ca8f",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "2 Undervalued AI Stocks You Can Buy Now",
+      "author": "Parkev Tatevosian, Cfa",
+      "published_utc": "2025-10-26T07:33:00Z",
+      "article_url": "https://www.fool.com/investing/2025/10/26/2-undervalued-ai-stocks-you-can-buy-now/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "CRM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/839728/copy-of-ts1_amazon_salesforce.jpg",
+      "description": "The stock market has been rallying, making it challenging to find undervalued stocks. Investors are concerned about high market valuations, suggesting potential opportunities in select AI-related stocks.",
+      "keywords": [
+        "AI stocks",
+        "undervalued stocks",
+        "market valuation",
+        "investment opportunities"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a potential investment opportunity in the AI and technology sector, with current market capitalization of $2.4T"
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Referenced in the article as a potential investment, though specific details about its AI potential are not elaborated"
+        }
+      ]
+    }
+  ]
+}

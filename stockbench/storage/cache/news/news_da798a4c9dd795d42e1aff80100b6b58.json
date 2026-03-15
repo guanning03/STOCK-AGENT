@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "IBM and University of Dayton Announce Joint Research Collaboration for Next-Generation Semiconductor Technologies",
+      "description": "IBM (NYSE: IBM) and the University of Dayton today announced an agreement for the joint research and development of next-generation semiconductor technologies and materials. The collaboration aims to advance critical technologies for the age of AI including AI hardware, advanced packaging, and photonics.",
+      "published_utc": "2025-11-19T15:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7835acb9c2eb1aab541613f770fb20e552f1717af529e3f1ea9ca40f45a77585",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137553989,
+      "datetime": 1763584200
+    },
+    {
+      "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
+      "description": "Stocks closed higher on Wednesday ahead of Nvidia earnings, breaking a four-day losing streak for the S&P 500.",
+      "published_utc": "2025-11-19T15:06:50",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=436d43792b0825cf7bfddf808ff1cd2e16137207280114a53be75851ff6a6c70",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108197831-1757624736424-IMG_7481.jpg?v=1757624963&w=1920&h=1080",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137559076,
+      "datetime": 1763582810
+    },
+    {
+      "title": "Look for companies beyond buzzy tech stocks and speculative names, Jim Cramer says",
+      "description": "CNBC's Jim Cramer on Wednesday encouraged investors to choose stocks that aren't necessarily trendy.",
+      "published_utc": "2025-11-19T13:20:23",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=7ce8a6117835221ab2f21b51c8ea6e58037cd9c41cd76745152ef4bc631ce908",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/107076310-1655341006752-IMG_1949rbbb.jpg?v=1697582097&w=1920&h=1080",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137559249,
+      "datetime": 1763576423
+    },
+    {
+      "title": "IBM Expands AI Consulting Capabilities: Will it Drive Growth?",
+      "description": "IBM links its AI platform with Microsoft Copilot to boost consulting efficiency, streamline workflows and tap rising AI services demand.",
+      "published_utc": "2025-11-19T11:57:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5516638ebfc5ade6857727aa258809978c73a51e778825237d3f74645af1b6aa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137553990,
+      "datetime": 1763571420
+    },
+    {
+      "title": "Is Innodata Becoming a Critical Data Partner for Big Tech AI?",
+      "description": "INOD posts record Q3 revenue as it cements its role in Big Tech's AI pipelines, landing five new major AI partnerships.",
+      "published_utc": "2025-11-19T11:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0434d141700ae5a8af7feb2f497fee1f8ca02b8312387641b9916febc5518f40",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137553991,
+      "datetime": 1763569800
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:21:23.135572+00:00",
+    "cache_key": "news_da798a4c9dd795d42e1aff80100b6b58",
+    "count": 5
+  }
+}

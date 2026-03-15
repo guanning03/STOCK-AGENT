@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Global Cyber Monday online sales hit $17.3 billion, Salesforce data shows",
+      "description": "Shoppers spent ​$17.3 billion online ‌on Cyber Monday, Salesforce data showed,‌ capping the Black Friday weekend. Global online sales were up 5.3% through 12 ⁠p.m. ET (1700 GMT), according to ‍the data firm.",
+      "published_utc": "2025-12-01T17:44:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=79f834f3441184ab1fb67b8f66a892c767864867c014aed2cf8194273081ac29",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137659095,
+      "datetime": 1764629081
+    },
+    {
+      "title": "Earnings live: MongoDB stock soars on strong Q3 results as reports from CrowdStrike, Marvell loom",
+      "description": "The third quarter earnings season has been mostly positive, with most of the reports in the rearview mirror.",
+      "published_utc": "2025-12-01T16:24:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4a963ef84a08cb17dd4165ad98e1c6a6aae41144cc41bd9fa2024b437a184111",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137659096,
+      "datetime": 1764624288
+    },
+    {
+      "title": "Salesforce CEO Marc Benioff Just Said Gemini 3 Changed the World. Does That Make GOOGL Stock a Buy?",
+      "description": "GOOGL's new AI model is turning heads in a hot resurgence, sparking fresh enthusiasm. So, is now the perfect time to scoop up GOOGL shares?",
+      "published_utc": "2025-12-01T16:23:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=038bd13d4b3d897e6c8858c3ef5598d36901448efb6453766f7d755d01fa5327",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137658761,
+      "datetime": 1764624221
+    },
+    {
+      "title": "Amazon and Google Launches Game-Changing Cloud Alliance",
+      "description": "AWS and Google Join Forces to End Multicloud Bottlenecks",
+      "published_utc": "2025-12-01T16:15:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b95e6e6d2170c61f25719cd0433eafa322c429e7049c1db3596183dd9e3c5a5e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137658694,
+      "datetime": 1764623743
+    },
+    {
+      "title": "Amazon And Google Unveil New Multicloud Link",
+      "description": "New service targets faster, smoother data movement",
+      "published_utc": "2025-12-01T16:12:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9eef0b2fa1948b979f6af135a690f66d59c6d17e02d2a1f11456948b9bfc3121",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137658695,
+      "datetime": 1764623530
+    }
+  ]
+}

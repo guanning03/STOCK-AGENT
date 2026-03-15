@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Prediction: All \"Ten Titans\" Stocks Will Surpass $1 Trillion in Market Cap by 2030",
+      "description": "The Ten Titans already make up 38% of the S&P 500, but their share could grow if companies keep delivering on investor expectations.",
+      "published_utc": "2025-08-24T19:12:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=21506a32bd26bd2e8cb299d0693e1834738da72b97c33b4ccc8a045bbd406e21",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136507773,
+      "datetime": 1756077120
+    },
+    {
+      "title": "If you bought Bitcoin instead of every new iPhone, you’d have $250M",
+      "description": "Bitcoin or iPhone, which investment would have paid more?",
+      "published_utc": "2025-08-24T18:00:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2219010c26b8b851571c82f93c92505738ad14bc5c10403441a6544a640d2cd3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136507784,
+      "datetime": 1756072815
+    },
+    {
+      "title": "Tracking Renaissance Technologies (RenTec) 13F Portfolio - Q2 2025 Update",
+      "description": "",
+      "published_utc": "2025-08-24T16:08:01",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5af03a9d2830ba72b2e198c9657b545ae8d7d8941028d9d6e3cde20a2dffefca",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136504690,
+      "datetime": 1756066081
+    },
+    {
+      "title": "Netflix’s ‘KPop Demon Hunters’ is probably the biggest movie in theaters",
+      "description": "This is Netflix's first time winning the domestic box office.",
+      "published_utc": "2025-08-24T15:59:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=390d947eadec7e91d89abc8db8b332bcd287771bd8582c26f09c9b33d5e1ad3a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136507785,
+      "datetime": 1756065569
+    },
+    {
+      "title": "Prediction: These 2 Trillion-Dollar Artificial Intelligence (AI) Stocks Could Strike a Megadeal That Wall Street Isn't Ready For",
+      "description": "Most of the \"Magnificent Seven\" companies have built and scaled legitimate artificial intelligence (AI) platforms, but two outliers in big tech remain.",
+      "published_utc": "2025-08-24T14:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4aa61de7969df2e537fcbf75911a5d0975ee96cf94d45ea916556d38a6a8a54d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136502572,
+      "datetime": 1756058400
+    }
+  ]
+}

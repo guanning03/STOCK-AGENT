@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The 1-Minute Market Report, December 28, 2025",
+      "description": "Discover key market trends: S&P 500 hits record highs, global stocks outperform, precious metals rally, and AI stocks lead.",
+      "published_utc": "2025-12-27T17:21:19",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4efc3e0745461cdc204bba00fdd8ee79dce92d63bcb5f5afa9f24ecd6f9b99df",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213764535/image_1213764535.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137919303,
+      "datetime": 1766874079
+    },
+    {
+      "title": "The Santa Claus Rally Begins",
+      "description": "U.S. equity markets began the holidayâshortened trading week on a firm footing. Broad gains in major indexes and the start of the Santa Claus rally marked this week.",
+      "published_utc": "2025-12-27T17:01:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f7f044b637c00ef65002edab6e3c49b28b0f3d9c7180b388d093fcbc8da82548",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/645540142/image_645540142.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137919224,
+      "datetime": 1766872860
+    },
+    {
+      "title": "AI Bubble Risk In Our Cautious 2026 S&P 500 Outlook",
+      "description": "",
+      "published_utc": "2025-12-27T07:17:21",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=093f0804c1fd6f270c65691c8d6272abdcf4583678fe079c3686fd2f22413466",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137916094,
+      "datetime": 1766837841
+    },
+    {
+      "title": "All-In On AI: What Happens If the Bubble Pops In 2026?",
+      "description": "If the AI bubble were to pop, the fallout would likely cause widespread damage due to what Apollo Global calls a &#34;single point of failure.&#34;",
+      "published_utc": "2025-12-27T05:01:04",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=009b573bf4182ecb0ed30c52ff4dbbd665acffeb36715f194d948648b886ab39",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/12/27/Tech-Bubble-Risk-And-Economic-Technology.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138917002,
+      "datetime": 1766829664
+    },
+    {
+      "title": "Retirement Income And 10%+ Yields: No, They Aren't Mutually Exclusive",
+      "description": "Discover how to achieve high-yield income with covered call ETFs, CEFs, and BDCsâwithout sacrificing financial independence. Click for the picks!",
+      "published_utc": "2025-12-27T04:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1dcc465ac3af3907542c48c3bc88a37f488001935291b5954f4007436abad55a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1388149066/image_1388149066.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137915072,
+      "datetime": 1766826900
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T09:13:15.400956+00:00",
+    "cache_key": "news_3e73784ee176a97edb40abc348901227",
+    "count": 5
+  }
+}

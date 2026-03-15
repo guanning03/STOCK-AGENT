@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Inflation On A Roll",
+      "description": "",
+      "published_utc": "2026-02-16T18:55:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c4616f36eb27c7dfa04405a1a13c8f307406f57453029b32fe12499ec122e4b8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139119503,
+      "datetime": 1771286100
+    },
+    {
+      "title": "Illinois Foundation Doubles Down on Shift4 Payments, Buys $5 Million in Stock",
+      "description": "Shift4 Payments delivers integrated payment solutions and analytics to merchants across retail, hospitality, and eCommerce sectors.",
+      "published_utc": "2026-02-16T15:17:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=26273c3be830ed3d6bdbd997c6eae2d1e769a70589cbcfc7a9a1c90f92256aa5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139117394,
+      "datetime": 1771273032
+    },
+    {
+      "title": "Alibaba’s New AI Model Runs 8x Faster While Sentiment Hits 60.6",
+      "description": "Over the past week, shares of Alibaba (NYSE:BABA) fell 4.46%, coinciding with a shift in retail investor sentiment. Discussion around the stock remains elevated on Reddit and X, with sentiment improving from neutral in January 2026 to a bullish 60.6 in recent weeks. Attention centers on Alibaba’s aggressive AI push, particularly the February 16th launch ... Alibaba’s New AI Model Runs 8x Faster While Sentiment Hits 60.6",
+      "published_utc": "2026-02-16T14:00:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bdb0ca24b6b9557e9c5b49669f433e0758b72bee954f98333ece32da170e99ab",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139116872,
+      "datetime": 1771268405
+    },
+    {
+      "title": "SPY vs. Global Stocks: These Charts Are Flashing A Rare Warning Signal",
+      "description": "A rare death cross in the SPY vs. ACWX ratio — unseen since 2018 — is raising questions about whether this is a temporary rotation or the start of a structural shift away from U.S. equity dominance.",
+      "published_utc": "2026-02-16T13:06:02",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=2abb58b10eff2ea594d0b105b7bb9a56ca191bfeb8ce2ce4816de6357c4a3a3e",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/02/16/Global-Billionaire-Wealth-Soars.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139122400,
+      "datetime": 1771265162
+    },
+    {
+      "title": "AI Turns From Friend To Foe - Will AI Kill The Bull Market?",
+      "description": "Wall Street doesnât like uncertainty that points to multiple compression in certain sectors. Investors donât like sudden, extreme volatility. AI is currently fueling both. Read more here.",
+      "published_utc": "2026-02-16T09:50:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4de78c446ebc9b3955c9df273b97a303ed8fbcb50e15d8719a4f0b89e7e1c92c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2197475078/image_2197475078.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139116619,
+      "datetime": 1771253400
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:11:33.881186+00:00",
+    "cache_key": "news_7913a65715000898e1ddfaec95b9e8bf",
+    "count": 5
+  }
+}

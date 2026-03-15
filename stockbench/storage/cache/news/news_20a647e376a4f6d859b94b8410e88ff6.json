@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "id": "f68e2f79d7bba0581778dbe0f5a9f4dd42e7255a2f6e1aee6a65bc4ef0f31ef1",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "[Latest] Global Surface Mining Equipment Market Size/Share Worth USD 103.10 Billion by 2033 at a 7.10% CAGR: Custom Market Insights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth, Growth Rate, Value)",
+      "author": "Custom Market Insights",
+      "published_utc": "2025-01-14T19:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/14/3009595/0/en/Latest-Global-Surface-Mining-Equipment-Market-Size-Share-Worth-USD-103-10-Billion-by-2033-at-a-7-10-CAGR-Custom-Market-Insights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segm.html",
+      "tickers": [
+        "CAT",
+        "KMTUY",
+        "HTCMY",
+        "TEX"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/74609d89-5437-4826-b7b8-31238ea2e65c",
+      "description": "The global surface mining equipment market is expected to grow from $55.61 billion in 2023 to $103.10 billion by 2033, at a CAGR of 7.10%. Key drivers include increasing demand for minerals and metals, preference for advanced mining techniques, and technological advancements.",
+      "keywords": [
+        "surface mining equipment",
+        "mining industry",
+        "market growth",
+        "technological advancements"
+      ],
+      "insights": [
+        {
+          "ticker": "CAT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Caterpillar is a leading player in the surface mining equipment market, indicating strong industry presence and growth potential."
+        },
+        {
+          "ticker": "KMTUY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Komatsu is another major player in the surface mining equipment market, suggesting the company is well-positioned to benefit from the industry's growth."
+        },
+        {
+          "ticker": "HTCMY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Hitachi Construction Machinery is a key player in the market, highlighting its importance and potential to capitalize on the industry's expansion."
+        },
+        {
+          "ticker": "TEX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Terex Corporation's inclusion as a key player suggests the company's surface mining equipment offerings are in demand and can benefit from the market's growth."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:45:57.549114+00:00",
+    "cache_key": "news_20a647e376a4f6d859b94b8410e88ff6",
+    "count": 1
+  }
+}

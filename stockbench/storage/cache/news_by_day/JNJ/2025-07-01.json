@@ -1,6 +1,81 @@
 {
   "items": [
     {
+      "title": "Thrivent Mid Cap Value Fund Q1 2025 Commentary",
+      "description": "For the quarter, Thrivent Mid Cap Value Fund underperformed its benchmark due to negative stock selection.",
+      "published_utc": "2025-07-01T19:55:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6cdbf15c23489131c788c8729c9fb4b99effd034ad580ce4522c6476d14d9bd1",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1990350865/image_1990350865.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135702249,
+      "datetime": 1751414100
+    },
+    {
+      "title": "Johnson & Johnson (JNJ) Rises As Market Takes a Dip: Key Facts",
+      "description": "Johnson & Johnson (JNJ) concluded the recent trading session at $155.92, signifying a +2.08% move from its prior day's close.",
+      "published_utc": "2025-07-01T17:45:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eeef653cdec8fbedf4d770c0f1bc026729f236f74d25a828238a88200cb40c85",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135699805,
+      "datetime": 1751406304
+    },
+    {
+      "title": "A Promising Depression Drug Works. Psychedelics Are Back.",
+      "description": "Positive data on depression treatment based on a drug related to the psychedelic DMT is breathing life into shares of biotechs working on psychedelic medicines, after years of disappointments.  Just as top Trump administration health officials have begun to show a more receptive attitude to psychedelics, atai Life Sciences and Beckley Psytech said Tuesday that patients with difficult-to-treat depression symptoms who took Beckley’s drug BPL-003 saw improvement in an eight-week trial.  Atai is in the process of acquiring Beckley.",
+      "published_utc": "2025-07-01T15:06:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=770c61a8b07ce3e56e4e9754ab94701104385588f0e2f40d2b104e876b12305b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135697986,
+      "datetime": 1751396760
+    },
+    {
+      "title": "'RFK Jr. Vows Overhaul of Lawsuit-Sparing Vaccine Injury Program'- Bloomberg",
+      "description": "https://www.bloomberg.com/news/articles/2025-07-01/rfk-jr-vows-overhaul-of-lawsuit-sparing-vaccine-injury-program?embedded-checkout=true",
+      "published_utc": "2025-07-01T10:06:14",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=eb50c1bb756fe2bcf681967fde4e7c2e36bd20c85eb91161dce6f74f58b981fc",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138464018,
+      "datetime": 1751378774
+    },
+    {
+      "title": "Dow's 300-point rally highlighted by gains in Amgen, Merck shares",
+      "description": "Dow's 300-point rally highlighted by gains in Amgen, Merck shares",
+      "published_utc": "2025-07-01T07:14:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=d71523d544b94030d53eb6b87630c8a93b7a7ac763b72501532ba7fd0a8134ed",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135729800,
+      "datetime": 1751368440
+    },
+    {
       "title": "PJM Appoints Deena O'Brien as Senior Director of Communications",
       "description": "PJM Interconnection has appointed Deena O'Brien as senior director of corporate communications with responsibility for external and internal communications, creative services, PJM's online presence, and service delivery for external and internal conferences and meetings.",
       "published_utc": "2025-07-01T01:27:00",

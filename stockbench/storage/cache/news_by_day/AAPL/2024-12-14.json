@@ -1,0 +1,286 @@
+{
+  "items": [
+    {
+      "id": "a13406fccfd3b446f5521e05a81f641aa493ab35e0b1a8c2ed802b86548344c1",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Unstoppable Stock That Could Join Nvidia, Apple, Microsoft, Amazon, Alphabet, Meta, and Tesla in the $1 Trillion Club",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-14T10:15:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/14/1-stock-nvidia-apple-amazon-meta-tesla-1-trillion/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "META",
+        "TSLA",
+        "ORCL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800665/a-person-looking-at-server-hardware-while-holding-a-laptop-computer.jpg",
+      "description": "Oracle is quickly becoming a leader in artificial intelligence (AI) data center infrastructure, which could catapult the company to a $1 trillion valuation in under a decade. The company's OCI Supercluster technology allows developers to scale up to 65,000 Nvidia GPUs, and it's building new clusters that will support up to 131,000 of Nvidia's latest Blackwell GPUs.",
+      "keywords": [
+        "Oracle",
+        "Nvidia",
+        "AI",
+        "data centers",
+        "trillion-dollar club"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia's GPUs are essential for developing AI, and Oracle's infrastructure is designed to support a large number of Nvidia GPUs, which is seen as a positive for Nvidia's business."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Apple is mentioned as one of the companies that have joined the trillion-dollar club, but the article does not provide any specific insights about Apple's business or stock."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Microsoft is mentioned as one of the companies that have joined the trillion-dollar club, but the article does not provide any specific insights about Microsoft's business or stock."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Amazon is mentioned as one of the companies that have joined the trillion-dollar club, but the article does not provide any specific insights about Amazon's business or stock."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alphabet is mentioned as one of the companies that have joined the trillion-dollar club, but the article does not provide any specific insights about Alphabet's business or stock."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alphabet is mentioned as one of the companies that have joined the trillion-dollar club, but the article does not provide any specific insights about Alphabet's business or stock."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Meta Platforms has developed the world's most popular open-source large language models (LLMs), called Llama, and that the company will shift some of its training workloads to Oracle's infrastructure, which is seen as a positive for Oracle's business."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Tesla is mentioned as one of the companies that have joined the trillion-dollar club, but the article does not provide any specific insights about Tesla's business or stock."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article focuses on Oracle's potential to join the trillion-dollar club, highlighting the company's leadership in AI data center infrastructure and its growing demand for its services. The article suggests that Oracle's stock could double in value if it reaches a $1 trillion valuation."
+        }
+      ]
+    },
+    {
+      "id": "a5bf8e7928b4fbe08bffd7909a2be9ebf6d578086ae0843e4b68c1d6d0cf1ae8",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "This Magnificent Stock Has Made Many Millionaires, and Could Make More",
+      "author": "Reuben Gregg Brewer",
+      "published_utc": "2024-12-14T08:36:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/14/this-magnificent-stock-has-made-many-millionaires/?source=iedfolrf0000001",
+      "tickers": [
+        "BRK.A",
+        "BRK.B",
+        "AAPL",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK",
+        "KO",
+        "AXP",
+        "CVX"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800521/24_09_14-wooden-blocks-spelling-out-bull-and-bear-_mf-dload-gettyimages-1316129074-1201x656-9cff472.jpg",
+      "description": "Berkshire Hathaway, a conglomerate led by Warren Buffett, is preparing for the next investment opportunity by selling appreciated stock investments and holding a large cash position. The company's stock price is near all-time highs, and Buffett has warned investors that it will be difficult to achieve strong performance in the future.",
+      "keywords": [
+        "Berkshire Hathaway",
+        "Warren Buffett",
+        "investment strategy",
+        "stock market"
+      ],
+      "insights": [
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway is preparing for the next investment opportunity by holding a large cash position, which suggests the company is well-positioned to take advantage of future market conditions."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway is preparing for the next investment opportunity by holding a large cash position, which suggests the company is well-positioned to take advantage of future market conditions."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire Hathaway has sold some of its Apple stock, but the article does not provide a clear sentiment on the company itself."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire Hathaway has sold some of its Bank of America stock, but the article does not provide a clear sentiment on the company itself."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire Hathaway has sold some of its Bank of America stock, but the article does not provide a clear sentiment on the company itself."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire Hathaway has sold some of its Bank of America stock, but the article does not provide a clear sentiment on the company itself."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire Hathaway has sold some of its Bank of America stock, but the article does not provide a clear sentiment on the company itself."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire Hathaway has sold some of its Bank of America stock, but the article does not provide a clear sentiment on the company itself."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire Hathaway has sold some of its Bank of America stock, but the article does not provide a clear sentiment on the company itself."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire Hathaway has sold some of its Bank of America stock, but the article does not provide a clear sentiment on the company itself."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire Hathaway has sold some of its Bank of America stock, but the article does not provide a clear sentiment on the company itself."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire Hathaway has sold some of its Bank of America stock, but the article does not provide a clear sentiment on the company itself."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire Hathaway has sold some of its Bank of America stock, but the article does not provide a clear sentiment on the company itself."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire Hathaway has sold some of its Bank of America stock, but the article does not provide a clear sentiment on the company itself."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire Hathaway has sold some of its Bank of America stock, but the article does not provide a clear sentiment on the company itself."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire Hathaway has sold some of its Bank of America stock, but the article does not provide a clear sentiment on the company itself."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire Hathaway has sold some of its Bank of America stock, but the article does not provide a clear sentiment on the company itself."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire Hathaway has sold some of its Bank of America stock, but the article does not provide a clear sentiment on the company itself."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire Hathaway has sold some of its Bank of America stock, but the article does not provide a clear sentiment on the company itself."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Coca-Cola as one of the stocks in Berkshire Hathaway's portfolio, but does not provide any specific sentiment on the company."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions American Express as one of the stocks in Berkshire Hathaway's portfolio, but does not provide any specific sentiment on the company."
+        },
+        {
+          "ticker": "CVX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Chevron as one of the stocks in Berkshire Hathaway's portfolio, but does not provide any specific sentiment on the company."
+        }
+      ]
+    },
+    {
+      "id": "d7219ef326856b1ff00329643e2068f18a1d09d0f95f3902204dbc3e5580d5ee",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Could Buying SoFi Stock Today Set You Up for Life?",
+      "author": "Jennifer Saibil",
+      "published_utc": "2024-12-14T08:30:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/14/could-buying-sofi-stock-today-set-you-up-for-life/?source=iedfolrf0000001",
+      "tickers": [
+        "SOFI",
+        "AAPL",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799525/a-person-sitting-at-a-computer-holding-a-baby.jpg",
+      "description": "SoFi, an online bank, has expanded beyond its core lending products and is seeing strong growth in customer signups and product offerings. While the company faces some risks, such as macroeconomic factors and interest rate changes, its diversified platform has helped it remain profitable. The article suggests SoFi could be a good long-term investment for a well-diversified portfolio.",
+      "keywords": [
+        "SoFi",
+        "online banking",
+        "financial services",
+        "growth",
+        "diversification",
+        "investment"
+      ],
+      "insights": [
+        {
+          "ticker": "SOFI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights SoFi's impressive growth, diversification, and profitability, suggesting it could be a good long-term investment."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article uses Apple as an example of a successful investment that could have provided staggering returns if invested in early on."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article uses Nvidia as another example of a successful investment that could have provided staggering returns if invested in early on."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "The global M&A boom is rolling into 2026 as AI sparks deal frenzy — but cash is getting tight",
+      "description": "Markets are betting that the global M&A surge has not yet finished, as Wall Street recovered its appetite for large-scale financings.",
+      "published_utc": "2026-02-24T15:33:55",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=f3df33a0bed4b835408cb7edf1055c65ae26104800c0f757e323d248f95fb22c",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108268450-1771854657817-gettyimages-526243022-img_6011.jpeg?v=1771854670&w=1920&h=1080",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139212458,
+      "datetime": 1771965235
+    },
+    {
+      "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+      "description": "Software stocks bounced after the latest bout of selling, lifting the major averages to a winning session Tuesday.",
+      "published_utc": "2026-02-24T15:08:27",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=f4fa05989b295f9aa8e289fe72291d8df70532718497e8edf3751a8867599c94",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108248938-1767726601571-gettyimages-2254355316-CES_2026.jpeg?v=1771972656&w=1920&h=1080",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139212460,
+      "datetime": 1771963707
+    },
+    {
+      "title": "The Anti-AI Trade Is Red Hot. Here’s What’s Beating Artificial- Intelligence Stocks.",
+      "description": "Investors fleeing hard-hit software companies are taking comfort in stocks that might not get disrupted as much by the artificial-intelligence revolution.  Analysts at Goldman Sachs noted in a report Tuesday that a basket of European companies it considers capital-intensive has outperformed capital-light stocks—in industries such as media, retail, business services, and software—by 35% since 2025.  Airbus BMW Volkswagen Nestle Diageo  and ASML were some of the companies in Goldman’s capital-intensive basket.",
+      "published_utc": "2026-02-24T15:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1adad25409a5291757ded5345c922bec97e49b391ddf15e462edbfbddd53bd7f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139201615,
+      "datetime": 1771963260
+    },
+    {
+      "title": "Governments are rushing to hoard critical minerals as the 'resource nationalism' era arrives",
+      "description": "A new race to secure critical minerals is unfolding across the global economy.",
+      "published_utc": "2026-02-24T13:00:07",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=b4561622aee30f1499fb4d16e32b9ed98efc680adcee0940c793f0e93bc1b390",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108173324-17527576292020-04-22t000000z_1572527383_rc2n9g9jccmr_rtrmadp_0_usa-rareearths.jpeg?v=1752757676&w=1920&h=1080",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139212810,
+      "datetime": 1771956007
+    },
+    {
+      "title": "Citigroup Agrees to Sell 24% Banamex Stake, Moves Closer to IPO Plan",
+      "description": "C agrees to sell 24% of Banamex to institutional investors, edging closer to a potential IPO for its Mexican banking unit.",
+      "published_utc": "2026-02-24T12:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f9668e1ed6fd815038808bb48b3283f3d3a26a76b98c86a9c77b9c4c9d50b2d2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139200925,
+      "datetime": 1771954380
+    }
+  ]
+}

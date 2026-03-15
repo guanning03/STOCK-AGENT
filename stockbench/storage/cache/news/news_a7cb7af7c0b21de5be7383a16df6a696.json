@@ -1,0 +1,155 @@
+{
+  "items": [
+    {
+      "id": "c584d1c1398c20e9162a65d512ebd083610c1dfcc87f967b81290208215eeb27",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Prediction: 2 AI Stocks Will Be Worth More Than Nvidia by Year-End in 2025",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-12T19:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/12/2-ai-stocks-be-worth-more-than-nvidia-stock-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "AMZN",
+        "GOOG",
+        "GOOGL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803562/money-21.jpg",
+      "description": "Nvidia, Amazon, and Alphabet are competing in the AI race, with Amazon and Alphabet poised to potentially surpass Nvidia's current $3.4 trillion market value by the end of 2025. Amazon's cloud services and AI investments, as well as Alphabet's leadership in AI products, could drive their growth.",
+      "keywords": [
+        "Nvidia",
+        "Amazon",
+        "Alphabet",
+        "AI",
+        "cloud computing",
+        "market value"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia is currently worth $3.4 trillion and is expected to continue benefiting from the AI boom, but public clouds may take the momentum lead in 2025."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon is well positioned to monetize AI due to its leadership in cloud infrastructure and platform services, and its investments in AI product development could drive further growth."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet's Google Cloud is a leader in several AI product categories, and it has gained market share, which could help it surpass Nvidia's current market value by the end of 2025."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet's Google Cloud is a leader in several AI product categories, and it has gained market share, which could help it surpass Nvidia's current market value by the end of 2025."
+        }
+      ]
+    },
+    {
+      "id": "6f8b5f83f55967a88087888d61503df6581d3e10022a9531441dd90e45bd0fe9",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Stocks That Could Soar in the AI Agent Boom",
+      "author": "Adria Cimino",
+      "published_utc": "2025-01-12T10:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/12/3-stocks-that-could-soar-in-the-ai-agent-boom/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "AMZN",
+        "SOUN",
+        "SOUNW"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803439/investor-smiling-phone-at-home.jpg",
+      "description": "The article discusses the growth of AI stocks, particularly in the area of AI agents, and highlights three companies that could benefit from this trend: Nvidia, Amazon, and SoundHound AI.",
+      "keywords": [
+        "artificial intelligence",
+        "AI stocks",
+        "AI agents",
+        "Nvidia",
+        "Amazon",
+        "SoundHound AI"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Nvidia is well-positioned to benefit from the growth of AI agents, as the company is expanding beyond just chips and into software to support AI development. Nvidia is offering customers blueprints to build their own AI agents, which could be a new source of growth for the company."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Amazon Web Services (AWS) is well-positioned to benefit from the growth of AI agents, as customers are already using AWS and can easily build AI agents through the Amazon Bedrock platform. Additionally, Amazon itself could benefit from AI agents to improve the efficiency of its e-commerce business."
+        },
+        {
+          "ticker": "SOUN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights SoundHound AI as a conversational AI expert that is quickly growing its AI agent portfolio, which could help it carve out a spot in the agentic AI space. The company's technology, which turns speech directly into meaning, could be beneficial for various industries."
+        },
+        {
+          "ticker": "SOUNW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights SoundHound AI as a conversational AI expert that is quickly growing its AI agent portfolio, which could help it carve out a spot in the agentic AI space. The company's technology, which turns speech directly into meaning, could be beneficial for various industries."
+        }
+      ]
+    },
+    {
+      "id": "6f8e5240e6b6340546ba02287999dbaef1bb2359bd9f78927f3b65fb90d50ffb",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Artificial Intelligence (AI) Stocks to Buy in 2025 and Hold for the Rest of the Decade",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-12T09:17:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/12/3-artificial-intelligence-ai-stocks-to-buy-in-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "AMZN",
+        "META"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802809/ai-tech-graphic.jpg",
+      "description": "The article highlights three AI stocks with strong growth potential over the next 3-5 years: Nvidia, Amazon, and Meta Platforms. Nvidia's new Blackwell chip design, Amazon's leading cloud platform, and Meta's investments in AI and virtual reality are expected to drive their growth.",
+      "keywords": [
+        "Artificial Intelligence",
+        "AI stocks",
+        "Nvidia",
+        "Amazon",
+        "Meta Platforms"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia's Blackwell chip design is expected to improve energy efficiency and performance, driving continued growth in the AI market."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon's leading cloud platform, AWS, is well-positioned to benefit from the growth of the AI market, which could reach $2 trillion by 2030."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Meta's investments in AI and virtual reality, along with its strong digital advertising business, make it a promising AI-focused stock."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:39:10.973197+00:00",
+    "cache_key": "news_a7cb7af7c0b21de5be7383a16df6a696",
+    "count": 3
+  }
+}

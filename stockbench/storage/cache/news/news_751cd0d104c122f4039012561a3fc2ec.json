@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "The Goldman Sachs Group, Inc. (GS) Presents At Barclays 23rd Annual Global Financial Services Conference Transcript",
+      "description": "Get insights from Goldman Sachs CEO on strategy, M&A, AI, and private credit trends at",
+      "published_utc": "2025-09-08T17:41:20",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b2bfe4d554c73f6f2c8b3d879b48dd25ebe888954d99c8e9d8817d06e11ec9d8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136673861,
+      "datetime": 1757367680
+    },
+    {
+      "title": "An AI Spending Slowdown Would Drag Down the Market: Goldman Sachs",
+      "description": "An AI Spending Slowdown Would Drag Down the Market: Goldman Sachs",
+      "published_utc": "2025-09-08T08:29:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=53ad63561dceec8927c65a2a8a6a9bdefcc096d8570916723407169f27259cc5",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136712846,
+      "datetime": 1757334540
+    },
+    {
+      "title": "Goldman’s Kostin Says US Stock Rally Set to Expand to Small Caps",
+      "description": "The team led by David Kostin said a limited group of stocks had driven gains so far, with the median constituent in the S&P 500 Index remaining 11% below its 52-week high.  Expected Federal Reserve interest-rate cuts and a pickup in corporate earnings increase the chances of the rally broadening to areas such as small caps, they said.  “Narrow market breadth indicates there is still room for ‘catch up’ trades to continue in pockets of the market that have lagged,” Kostin wrote in a note.",
+      "published_utc": "2025-09-08T06:08:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=091c10dcfca5608db677e86466e6f8ef7336a3a4c18317a15a9eb6f692fb1c0a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136669213,
+      "datetime": 1757326090
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:24:54.766256+00:00",
+    "cache_key": "news_751cd0d104c122f4039012561a3fc2ec",
+    "count": 3
+  }
+}

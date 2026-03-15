@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "title": "10 Industrials Stocks Whale Activity In Today's Session",
+      "description": "",
+      "published_utc": "2026-02-16T08:35:18",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=711487e56384e1f002104c47c1665526a371f9db31b669813534d498ce534ae6",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=2048&height=1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139121951,
+      "datetime": 1771248918
+    },
+    {
+      "id": "91ff2e7c99bdc61e47638988a599262f307be654229fc270b8f20ebc54691497",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "2 Dividend Stocks to Hold for the Next 10 Years",
+      "author": "Marc Guberti",
+      "published_utc": "2026-02-16T06:30:00Z",
+      "article_url": "https://www.fool.com/investing/2026/02/16/2-dividend-stocks-to-hold-for-the-next-10-years/?source=iedfolrf0000001",
+      "tickers": [
+        "V",
+        "CAT"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F854819%2Fgettyimages-1924765911-1200x800-5b2df79.jpg&w=1200&op=resize",
+      "description": "The article recommends Visa and Caterpillar as two dividend stocks suitable for long-term holding over the next decade. Visa, the world's largest payments network, offers strong dividend growth with a 14% increase and high profit margins. Caterpillar, a construction leader, benefits from AI infrastructure buildout demand, particularly for power generators, delivering record results and a 7% dividend increase.",
+      "keywords": [
+        "dividend stocks",
+        "long-term investing",
+        "passive income",
+        "dividend growth",
+        "Visa",
+        "Caterpillar",
+        "AI infrastructure",
+        "power generators",
+        "shareholder returns"
+      ],
+      "insights": [
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong financial performance with $10.9B Q1 revenue, 53.7% net profit margin, 14% dividend increase, 14% GAAP net income growth, and sufficient flexibility for future dividend hikes. Positioned as a durable company with long-term tailwinds in the payments industry."
+        },
+        {
+          "ticker": "CAT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Record-breaking fiscal 2025 results with 18% Q4 revenue growth, $51B backlog (71% improvement), 35% year-to-date stock performance, and 7% dividend increase. Benefits from AI infrastructure buildout megatrend, particularly power generation demand for data centers."
+        }
+      ]
+    }
+  ]
+}

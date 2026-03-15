@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "id": "ee697f6634d1375d760a4a883cc7058d3c7b16e012157a63aece30bf94c306c1",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why Plug Power Stock Is Surging Again Today",
+      "author": "Neha Chamaria",
+      "published_utc": "2025-10-13T17:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/10/13/why-plug-power-stock-is-surging-again-today/?source=iedfolrf0000001",
+      "tickers": [
+        "PLUG",
+        "AMZN",
+        "HD",
+        "WMT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/837539/gettyimages-1407030939.jpg",
+      "description": "Plug Power's stock has rallied 67% in October, driven by analyst upgrades, potential profitability in 2025, and strategic focus on electrolyzers and material handling businesses. Tax credits and partnerships with major companies like Amazon and Walmart further boost its prospects.",
+      "keywords": [
+        "hydrogen",
+        "electrolyzers",
+        "fuel cell",
+        "green energy",
+        "stock rally"
+      ],
+      "insights": [
+        {
+          "ticker": "PLUG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Stock up 67% in October, analyst price target raised, expected to achieve positive gross margin by 2025, expanding tax credits, and strategic business focus"
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a customer of Plug Power, no direct performance commentary"
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a customer of Plug Power, no direct performance commentary"
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a customer of Plug Power, no direct performance commentary"
+        }
+      ]
+    },
+    {
+      "title": "CEO Pay vs. Worker Wages: 7 Companies With Biggest Gaps",
+      "description": "CEO pay gaps at major U.S. companies like Starbucks and Walmart reveal stark inequality, with executive salaries dwarfing employee wages across industries.",
+      "published_utc": "2025-10-13T09:07:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=db1ea4782ab7fa177515d9101e2506854949bba012ace75e361d5fc5e92aaa6b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137068449,
+      "datetime": 1760360827
+    },
+    {
+      "title": "Trex Company: Composite Decking Leader With Potential For High Growth, But Lofty Valuation - Hold",
+      "description": "Trex Company leads the composite decking market, leveraging its pioneering status and strong brand. See why I rate TREX stock a Hold right now.",
+      "published_utc": "2025-10-13T05:49:22",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=defccab6e8a2055bb34b95f7e51cb939cd64f740db3d36a455fc1014895c4407",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1500244630/image_1500244630.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137067358,
+      "datetime": 1760348962
+    }
+  ]
+}

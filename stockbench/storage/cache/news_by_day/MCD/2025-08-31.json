@@ -1,0 +1,121 @@
+{
+  "items": [
+    {
+      "title": "Are Markets Open On Labor Day? Here's What's Open And What's Closed On September 1",
+      "description": "Are markets open on Labor Day 2025? Learn what&#39;s open and closed on Sept 1, from stocks to stores. Plan your holiday with our guide!",
+      "published_utc": "2025-08-31T21:15:38",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=7413ce108e47a1002970ed7de7a15e5c1b81f718b658cb357e9fbe38d6b92c5d",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/09/01/Wall-Street.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138412250,
+      "datetime": 1756689338
+    },
+    {
+      "title": "Stifel Raises PT on McDonald’s (MCD) Stock",
+      "description": "McDonald’s Corporation (NYSE:MCD) is one of the Best Consumer Cyclical Stocks to Buy According to Hedge Funds. On August 22, Stifel analyst Chris O’Cull lifted the price target on the company’s stock to $315 from $300, while keeping a “Hold” rating. As per the analyst, assessing the impact of McDonald’s Corporation (NYSE:MCD) reportedly agreeing with franchisees to […]",
+      "published_utc": "2025-08-31T17:12:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=87b22d3139570f5d6220885fd4b7732d72a14290a9a9efaa7e2382cf45a36327",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136596202,
+      "datetime": 1756674738
+    },
+    {
+      "id": "e16d0d0e525a71edb139f803a370bc39e221db8e21d41178537ffdcd909d9f9b",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Standout Themes That Emerged From Earnings Season",
+      "author": "Geoffrey Seiler",
+      "published_utc": "2025-08-31T12:20:00Z",
+      "article_url": "https://www.fool.com/investing/2025/08/31/3-standout-themes-that-emerged-from-earnings-seaso/?source=iedfolrf0000001",
+      "tickers": [
+        "MSFT",
+        "NVDA",
+        "CMG",
+        "MCD",
+        "GM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/830945/gettyimages-2195340917.jpg",
+      "description": "The second-quarter earnings season revealed three major themes: continued AI investment by tech giants, shifting dynamics in the restaurant industry, and growing economic pressure from tariffs across multiple sectors.",
+      "keywords": [
+        "AI",
+        "earnings",
+        "tech",
+        "restaurants",
+        "tariffs",
+        "semiconductors"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong AI-driven growth across cloud computing, Azure, and enterprise software with accelerating Microsoft 365 Copilot app adoption"
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Standout performer in semiconductor space, benefiting from robust AI infrastructure spending"
+        },
+        {
+          "ticker": "CMG",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Experienced a surprising 4.0% decline in same-store sales, indicating consumer spending challenges"
+        },
+        {
+          "ticker": "MCD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong U.S. same-store sales growth of 2.5% by leveraging value offerings during economic pressures"
+        },
+        {
+          "ticker": "GM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Absorbed significant tariff costs but remains confident in mitigation strategies"
+        }
+      ]
+    },
+    {
+      "title": "Fast food used to be a cheap meal option. Why has that changed?",
+      "description": "What's been happening in the fast-food landscape that it has become harder to feed a family as a cheap meal?",
+      "published_utc": "2025-08-31T06:05:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fd86a3bec0e2a95a24eb1fd1347495f42c389ae8f1d5bd7d23e5023a5b8b9e5d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136596203,
+      "datetime": 1756634724
+    },
+    {
+      "title": "McDonald's And Microsoft Among 12 Companies To Announce Annual Increases In September",
+      "description": "August saw strong dividend growth, but September will likely bring modest hikes from long-time growers like Altria, Dover, and AWR. See why streaks will continue.",
+      "published_utc": "2025-08-31T05:25:42",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0f88802d827122ba953182769e34f5226370ba9bb22a677f48c966cec70423cd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2159689517/image_2159689517.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136587919,
+      "datetime": 1756632342
+    }
+  ]
+}

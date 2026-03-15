@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "CB Lags Industry, Trades at a Premium: What Should Investors Do Now?",
+      "description": "Chubb Limited fuels growth with global middle-market expansion, strategic M&A, strong premiums, and a solid capital position despite catastrophe risk.",
+      "published_utc": "2025-08-12T10:11:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0f3d72317627b4bb64e47c66f6ca7ea4cd0acd28d1c01c1300e287b1446c87b8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136320780,
+      "datetime": 1755007860
+    },
+    {
+      "title": "CINF Outperforms Industry, Trades at a Premium: How to Play the Stock",
+      "description": "Cincinnati Financial stock is poised to gain from new business-written premiums, an agent-focused business model, improved interest income, and effective capital deployment.",
+      "published_utc": "2025-08-12T10:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8079a513548f1ca9cdaaf0cd29fee14daa502bb04ca401cbdc4833e0fb77da0b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136321010,
+      "datetime": 1755007380
+    },
+    {
+      "title": "How Do Investors Really Feel About Travelers Companies?",
+      "description": "",
+      "published_utc": "2025-08-12T07:00:37",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f7fc9cd5c68ba84a493b87f5867bacad86c1e8d269a7c7f5c2ed7df68a66a128",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138570458,
+      "datetime": 1754996437
+    },
+    {
+      "title": "Price Over Earnings Overview: Travelers Companies",
+      "description": "",
+      "published_utc": "2025-08-12T06:00:22",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=8be1e92ca488cc63a86bb51a87864c09e1707c0b205f45055e8a371111bc0995",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138570459,
+      "datetime": 1754992822
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:04:35.367989+00:00",
+    "cache_key": "news_0b866c96f1ed86e91cd73a7a322d334a",
+    "count": 4
+  }
+}

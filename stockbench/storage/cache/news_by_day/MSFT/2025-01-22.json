@@ -1,0 +1,418 @@
+{
+  "items": [
+    {
+      "id": "656fe5ab1d51988fa00ca1a2cbabcb46bea17aaba49d4242882d34af569d07b5",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why Lumen Technologies Stock Is Soaring Today",
+      "author": "Keith Noonan",
+      "published_utc": "2025-01-22T20:49:11Z",
+      "article_url": "https://www.fool.com/investing/2025/01/22/why-lumen-technologies-stock-is-soaring-today/?source=iedfolrf0000001",
+      "tickers": [
+        "LUMN",
+        "ORCL",
+        "SFTBY",
+        "MSFT",
+        "META"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804901/gettyimages-1248262649.jpg",
+      "description": "Lumen Technologies stock is seeing strong bullish momentum due to the potential benefits from the Stargate AI infrastructure venture announced by OpenAI, Oracle, and Softbank. The $500 billion investment in U.S. data centers could boost demand for Lumen's private connectivity fabric solutions.",
+      "keywords": [
+        "Lumen Technologies",
+        "Stargate",
+        "AI infrastructure",
+        "data centers"
+      ],
+      "insights": [
+        {
+          "ticker": "LUMN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Lumen Technologies could benefit from the Stargate AI infrastructure venture, as the company has already secured major data center partnerships with Microsoft and Meta Platforms. The potential for increased demand for Lumen's private connectivity fabric solutions is seen as a positive catalyst for the stock."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Oracle is another partner in the Stargate venture, which is expected to drive substantial investment in AI infrastructure. This indicates a positive sentiment towards Oracle's participation in the project."
+        },
+        {
+          "ticker": "SFTBY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Softbank is the third partner in the Stargate venture, which is expected to lead to significant investment in U.S. data centers. This suggests a positive outlook for Softbank's involvement in the project."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Lumen has already secured major data center partnerships with Microsoft, which could benefit from the Stargate venture's investment in AI infrastructure. This indicates a positive sentiment towards Microsoft's potential involvement."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Lumen has also secured data center partnerships with Meta Platforms, which could benefit from the Stargate venture's investment in AI infrastructure. This suggests a positive sentiment towards Meta Platforms' potential involvement."
+        }
+      ]
+    },
+    {
+      "id": "b1a6afb69a9b4e8cbbbc913f3eddb1351a8c7787448cbc32ba7704ddff007504",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why Microsoft Stock Is Jumping Today",
+      "author": "Keith Noonan",
+      "published_utc": "2025-01-22T19:50:38Z",
+      "article_url": "https://www.fool.com/investing/2025/01/22/why-microsoft-stock-is-jumping-today/?source=iedfolrf0000001",
+      "tickers": [
+        "MSFT",
+        "ORCL",
+        "SFTBY"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804902/gettyimages-1292531161.jpg",
+      "description": "Microsoft stock is gaining ground after President Trump announced a new private-sector artificial intelligence (AI) investment initiative involving OpenAI, Oracle, and Softbank. The initiative could benefit Microsoft, but there are concerns about its impact on the company's relationship with OpenAI.",
+      "keywords": [
+        "Microsoft",
+        "OpenAI",
+        "Oracle",
+        "Softbank",
+        "AI",
+        "investment"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft's stock is climbing due to the new AI investment initiative, which could benefit the company as a leading player in the AI infrastructure services market through its Azure cloud platform. However, there are concerns that the initiative could lessen OpenAI's reliance on Microsoft, which could impact the company's relationship with OpenAI."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Oracle is mentioned as one of the companies involved in the new AI investment initiative, but the article does not provide any specific information about the impact on Oracle, so the sentiment is neutral."
+        },
+        {
+          "ticker": "SFTBY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Softbank is mentioned as one of the companies involved in the new AI investment initiative, but the article does not provide any specific information about the impact on Softbank, so the sentiment is neutral."
+        }
+      ]
+    },
+    {
+      "id": "9d3976d293c5017b226594aa15a4c6ee9d74b25ab82c945d87f028b0766e6528",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Microsoft Invests In Carbon Credits To Restore Amazon Rainforest, Faces Challenges From Data Center Growth, Trump's Fossil Fuel Focus",
+      "author": "Anusuya Lahiri",
+      "published_utc": "2025-01-22T17:46:43Z",
+      "article_url": "https://www.benzinga.com/government/regulations/25/01/43137590/microsoft-invests-in-carbon-credits-to-restore-amazon-rainforest-faces-challenges-from-dat",
+      "tickers": [
+        "MSFT",
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/22/Microsoft-Corporation.jpeg?width=1200&height=800&fit=crop",
+      "description": "Microsoft has invested $200 million to buy 3.5 million carbon credits to restore the Amazon and Atlantic forests in Brazil. However, the company's carbon footprint has increased by 40% since 2020 due to the growth of its data centers, putting pressure on its emissions promises. The Trump administration's focus on fossil fuels has also posed challenges for Microsoft and other tech giants in their sustainability efforts.",
+      "keywords": [
+        "Microsoft",
+        "carbon credits",
+        "Amazon rainforest",
+        "data centers",
+        "emissions",
+        "climate change",
+        "fossil fuels"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "mixed",
+          "sentiment_reasoning": "Microsoft has taken a positive step by investing in carbon credits to restore the Amazon and Atlantic forests, but its growing data center energy consumption has led to a significant increase in its carbon footprint, which is a concern."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Alphabet's Google as one of the Big Tech companies facing challenges in controlling their data center energy consumption and emissions."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Alphabet's Google as one of the Big Tech companies facing challenges in controlling their data center energy consumption and emissions."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article discusses the energy challenges faced by Amazon's data centers, similar to other Big Tech companies."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Bank of America has invested $205 million in a carbon capture project, which is a positive step towards addressing climate change."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Bank of America has invested $205 million in a carbon capture project, which is a positive step towards addressing climate change."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Bank of America has invested $205 million in a carbon capture project, which is a positive step towards addressing climate change."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Bank of America has invested $205 million in a carbon capture project, which is a positive step towards addressing climate change."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Bank of America has invested $205 million in a carbon capture project, which is a positive step towards addressing climate change."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Bank of America has invested $205 million in a carbon capture project, which is a positive step towards addressing climate change."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Bank of America has invested $205 million in a carbon capture project, which is a positive step towards addressing climate change."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Bank of America has invested $205 million in a carbon capture project, which is a positive step towards addressing climate change."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Bank of America has invested $205 million in a carbon capture project, which is a positive step towards addressing climate change."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Bank of America has invested $205 million in a carbon capture project, which is a positive step towards addressing climate change."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Bank of America has invested $205 million in a carbon capture project, which is a positive step towards addressing climate change."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Bank of America has invested $205 million in a carbon capture project, which is a positive step towards addressing climate change."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Bank of America has invested $205 million in a carbon capture project, which is a positive step towards addressing climate change."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Bank of America has invested $205 million in a carbon capture project, which is a positive step towards addressing climate change."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Bank of America has invested $205 million in a carbon capture project, which is a positive step towards addressing climate change."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Bank of America has invested $205 million in a carbon capture project, which is a positive step towards addressing climate change."
+        }
+      ]
+    },
+    {
+      "id": "cbc1a8e93a4085cf4adcb4b6ba616ead059a3dc2bd6ac5c04128fa9b7021a61e",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Nvidia and AI Stock Investors Got Amazing News From a Massive AI Infrastructure Investment",
+      "author": "Jose Najarro",
+      "published_utc": "2025-01-22T16:30:46Z",
+      "article_url": "https://www.fool.com/investing/2025/01/22/nvidia-and-ai-stock-investors-got-amazing-news-fro/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "AMD",
+        "MSFT",
+        "ORCL",
+        "AVGO"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804826/ai-artificial-intelligence-neural-network-technology.jpg",
+      "description": "OpenAI, SoftBank, and Oracle have announced a massive investment in AI infrastructure, which is expected to benefit Nvidia and other AI-related stocks.",
+      "keywords": [
+        "AI",
+        "infrastructure",
+        "investment",
+        "Nvidia",
+        "stocks"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The massive investment in AI infrastructure is expected to benefit Nvidia, a leading provider of AI hardware and software."
+        },
+        {
+          "ticker": "AMD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that the author has a position in Advanced Micro Devices, suggesting the company may also benefit from the AI infrastructure investment."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that the author has a position in Microsoft, which could indicate the company's potential involvement or benefits from the AI infrastructure investment."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Oracle is mentioned as one of the companies involved in the AI infrastructure investment, suggesting a positive outlook for the company."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article recommends Broadcom, but does not provide any specific details about how the company may be affected by the AI infrastructure investment."
+        }
+      ]
+    },
+    {
+      "id": "dbcec16f7eba7ea1d0ec1b754c12a2c998d7c5713b2e6a785577467a0b38a445",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Could Investing in Quantum Computing Make You a Millionaire? The Answer Might Surprise You.",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-22T12:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/22/could-investing-in-quantum-computing-make-you-a/?source=iedfolrf0000001",
+      "tickers": [
+        "QBTS",
+        "QBTS.WS",
+        "QUBT",
+        "IONQ",
+        "IONQ.WS",
+        "RGTI",
+        "RGTIW",
+        "IBM",
+        "MSFT",
+        "GOOG",
+        "GOOGL",
+        "NVDA",
+        "AMD",
+        "MU"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804471/gettyimages-1409727146.jpg",
+      "description": "The article discusses the potential of investing in quantum computing stocks, warning that the recent price surges and declines in this sector may be driven by speculative trading rather than fundamental progress. It suggests that investors may be better off focusing on diversified tech and chip stocks that are exploring quantum computing as one of many AI-driven opportunities.",
+      "keywords": [
+        "quantum computing",
+        "AI",
+        "investing",
+        "tech stocks",
+        "chip stocks"
+      ],
+      "insights": [
+        {
+          "ticker": "QBTS",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that the recent price surges and declines in quantum computing stocks like D-Wave may be driven by speculative trading rather than fundamental progress."
+        },
+        {
+          "ticker": "QBTS.WS",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that the recent price surges and declines in quantum computing stocks like D-Wave may be driven by speculative trading rather than fundamental progress."
+        },
+        {
+          "ticker": "QUBT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that the recent price surges and declines in quantum computing stocks like Quantum Computing may be driven by speculative trading rather than fundamental progress."
+        },
+        {
+          "ticker": "IONQ",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that the recent price surges and declines in quantum computing stocks like IonQ may be driven by speculative trading rather than fundamental progress."
+        },
+        {
+          "ticker": "IONQ.WS",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that the recent price surges and declines in quantum computing stocks like IonQ may be driven by speculative trading rather than fundamental progress."
+        },
+        {
+          "ticker": "RGTI",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that the recent price surges and declines in quantum computing stocks like Rigetti Computing may be driven by speculative trading rather than fundamental progress."
+        },
+        {
+          "ticker": "RGTIW",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that the recent price surges and declines in quantum computing stocks like Rigetti Computing may be driven by speculative trading rather than fundamental progress."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that investors may be better off focusing on diversified tech stocks like IBM that are exploring quantum computing as one of many AI-driven opportunities."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that investors may be better off focusing on diversified tech stocks like Microsoft that are exploring quantum computing as one of many AI-driven opportunities."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that investors may be better off focusing on diversified tech stocks like Alphabet that are exploring quantum computing as one of many AI-driven opportunities."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that investors may be better off focusing on diversified tech stocks like Alphabet that are exploring quantum computing as one of many AI-driven opportunities."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that investors may be better off focusing on diversified chip stocks like Nvidia that are exploring quantum computing as one of many AI-driven opportunities."
+        },
+        {
+          "ticker": "AMD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that investors may be better off focusing on diversified chip stocks like Advanced Micro Devices that are exploring quantum computing as one of many AI-driven opportunities."
+        },
+        {
+          "ticker": "MU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that investors may be better off focusing on diversified chip stocks like Micron Technology that are exploring quantum computing as one of many AI-driven opportunities."
+        }
+      ]
+    }
+  ]
+}

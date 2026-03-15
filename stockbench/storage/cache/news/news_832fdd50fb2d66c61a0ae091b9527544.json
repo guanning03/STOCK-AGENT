@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The 1-Minute Market Report, March 8, 2026",
+      "description": "The S&P 500's bull market remains intact but is showing increasing signs of fragility, with heightened sensitivity to macro shocks. Read more about the market here.",
+      "published_utc": "2026-03-07T18:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cd86f963d795f217ee9dfb8856977903a90fb1b795165d07162132e97e336c16",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213764535/image_1213764535.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139339986,
+      "datetime": 1772926800
+    },
+    {
+      "title": "Pool Corporation Is Down 39%, But Wall Street Still Sees a $281 Stock",
+      "description": "Pool Corporation Has Fallen 39% in a Year – Here Is What Analysts Are Saying Pool Corporation (NASDAQ:POOL) is sitting at $213.66 as of March 6, 2026, while the average analyst price target sits at $266.09. That’s a gap of roughly 25% implied upside just to reach consensus. But zoom out and the story gets ... Pool Corporation Is Down 39%, But Wall Street Still Sees a $281 Stock",
+      "published_utc": "2026-03-07T10:17:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2237003f9f7b9ff0dc4faeb88914237c7a14da739ae007d2df85efaa99c74c1a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139334203,
+      "datetime": 1772896637
+    },
+    {
+      "title": "The Tape Is (Rapidly) Deteriorating: Markets Are Weak, Breadth Is Terrible",
+      "description": "Middle East conflict and Strait of Hormuz risks drive inflation fears.",
+      "published_utc": "2026-03-07T04:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=049d8e4e3a4f7375b28a7c035edea0c1b9942f6297544bcad0e0a53969ea1f49",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2150589738/image_2150589738.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139333184,
+      "datetime": 1772874000
+    },
+    {
+      "title": "February Jobs Report: Signs Of Slowdown, But Rate Cut Unlikely",
+      "description": "The US labor market report shows a 92k payroll drop as US-Iran tensions raise inflation risks and stall Fed rate cuts. Read more about the job market here.",
+      "published_utc": "2026-03-07T03:48:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d77c82b110a4c5fdabd0abe16ce87aa02653a912a6f988156980978d5b2fc947",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2155192264/image_2155192264.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139332713,
+      "datetime": 1772873280
+    },
+    {
+      "title": "ARK Innovation ETF: The Trading Strategy Is Now Flashing 'Sell' (Rating Downgrade)",
+      "description": "",
+      "published_utc": "2026-03-07T03:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8a7ee63ef1ca9f7d13fe1c74339b22a808d4cd50e9f6cbb75245f8b6ea3c2074",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139332489,
+      "datetime": 1772872200
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T04:11:08.897178+00:00",
+    "cache_key": "news_832fdd50fb2d66c61a0ae091b9527544",
+    "count": 5
+  }
+}

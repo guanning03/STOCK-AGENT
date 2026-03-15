@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Airbus Signs Deal With Two Chinese Airlines, Lags Boeing In Net Orders For 2025",
+      "description": "Airbus signed deals with two Chinese airlines, but looks set to close the year with fewer total orders than its forever rival Boeing.",
+      "published_utc": "2025-12-29T16:08:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cd0a793deb6a28799dbd9f54b0e8245a18fd26bc892b3863cfc1a165c6e6eb10",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137935072,
+      "datetime": 1767042533
+    },
+    {
+      "title": "Jim Cramer’s guide to investing: Pick out the obvious winners",
+      "description": "CNBC's Jim Cramer detailed his approach to investing in high-quality growth stocks.",
+      "published_utc": "2025-12-29T13:31:22",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=2b03909072d772cbaf8c5645cd42ba423e526284d5144fe2ee4e61c14730f6dd",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/104608847-IMG_5164-jim-cramer.jpg?v=1693522825&w=1920&h=1080",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137941475,
+      "datetime": 1767033082
+    },
+    {
+      "title": "Boeing Gets $8.6B Grant to Build Aircraft for Israel Air Force",
+      "description": "Boeing Gets $8.6B Grant to Build Aircraft for Israel Air Force",
+      "published_utc": "2025-12-29T13:13:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=ec9bcb587640be836198019a78bf18decfc0ce19ad686d07e93a75c3338aee41",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138074499,
+      "datetime": 1767031980
+    },
+    {
+      "title": "National Presto Industries Gets $92.3M Warhead Contract With Boeing",
+      "description": "National Presto Industries Gets $92.3M Warhead Contract With Boeing",
+      "published_utc": "2025-12-29T12:13:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=a3b107e48951a17455bd86cea74cdd908787755c9828db9d08c9159db2953142",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138074500,
+      "datetime": 1767028380
+    },
+    {
+      "title": "Boeing Poised for Further Growth With Sustained Global Defense Spending, Tigress Says",
+      "description": "Boeing (BA) is poised for long-term growth, with demand in defense, space and security acting as a b",
+      "published_utc": "2025-12-29T11:04:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=96210b459b513e4ea801e71329122aa367eea7296b39a6cc9a2256729831a3fb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137933474,
+      "datetime": 1767024282
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T09:21:19.912663+00:00",
+    "cache_key": "news_1579ae7fb03eda37b8dea3b78344c958",
+    "count": 5
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Amgen Inc. stock underperforms Tuesday when compared to competitors",
+      "description": "Amgen Inc. stock underperforms Tuesday when compared to competitors",
+      "published_utc": "2026-02-10T11:33:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=3b45b9b1362002277ff1ea2870862673d312c0c6a7eed428f1810c2ce24b2f58",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139060141,
+      "datetime": 1770741180
+    },
+    {
+      "title": "Just Two Days Till Amgen Inc. (NASDAQ:AMGN) Will Be Trading Ex-Dividend",
+      "description": "Regular readers will know that we love our dividends at Simply Wall St, which is why it's exciting to see Amgen Inc...",
+      "published_utc": "2026-02-10T08:15:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0a6f93daee64d0e4db93fb0e76c21a16f04c61f8ba992a7da33a4019b4982c1b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139029629,
+      "datetime": 1770729356
+    },
+    {
+      "title": "Gilead Sciences: Buy This Stock For Both Dividend And Growth",
+      "description": "",
+      "published_utc": "2026-02-10T00:45:33",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e81d72ae20afbebf3fb8841caae7adbb69cb25fe0e1e1f62e222e0a30a1acee9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139028076,
+      "datetime": 1770702333
+    },
+    {
+      "title": "The 5 Most Interesting Analyst Questions From Amgen’s Q4 Earnings Call",
+      "description": "Amgen’s fourth-quarter results reflected broad-based sales growth across its diverse portfolio, with management crediting strong volume gains in key products such as Repatha, Evenity, and Tezspire. CEO Robert Bradway highlighted that 13 products delivered double-digit sales growth and 14 surpassed $1 billion in annual sales. The company also reported continued momentum in its rare disease and oncology segments, with notable performances from its biosimilars business. Management noted that sales",
+      "published_utc": "2026-02-10T00:37:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=76e2760cfff01b9819972c926457bfca344ea58d99fb8dbbaf7840e4ba65f038",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139028428,
+      "datetime": 1770701845
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:55:25.046898+00:00",
+    "cache_key": "news_019bdf242ad1df5daeadc9dbf11168c0",
+    "count": 4
+  }
+}

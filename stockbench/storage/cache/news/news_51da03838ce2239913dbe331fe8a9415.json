@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Who Said That The USD And Gold Can't Rally Together?",
+      "description": "A new wave of an unusual trade has been unfolding: a steep rally in gold, coinciding with a steep rally in the US dollar.",
+      "published_utc": "2025-10-08T15:25:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3f4b98690a12ed0ed609e48b6918173f3ddaf6bf2daf9329ac33f151ec0c4f5d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1617616054/image_1617616054.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137020028,
+      "datetime": 1759951500
+    },
+    {
+      "title": "3 Economic 'Inflection Points' To Monitor Closely",
+      "description": "Key economic gauges provide inflection points for the stock market. Learn more about weak jobs data, rising delinquencies, and tech-driven GDP growth.",
+      "published_utc": "2025-10-08T12:35:19",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6043f1a3d4d6b90b6e3d407cad2c498867354693ef6fbd13d6bc2c2f4f07875b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/88621317/image_88621317.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137014105,
+      "datetime": 1759941319
+    },
+    {
+      "title": "'Flying Blind' In The Shutdown?",
+      "description": "With the federal government shutdown delaying major economic data releases, investors are left navigating markets without key signals just as rate decisions remain in play.",
+      "published_utc": "2025-10-08T11:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=419e78a0e7cfbb7d13edc2f70597eb2826f9bf2a98590b64e07594913680a07f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2238010955/image_2238010955.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137013707,
+      "datetime": 1759938300
+    },
+    {
+      "title": "BARK CEO Shifts Focus From Institutional to 'Sophisticated Retail Investors' On X And Discord, Saying They Drive 'Performance Of A Stock Much More'",
+      "description": "BARK&#39;s CEO explains his pivot from institutional funds to engaging retail investors on X and Discord. Learn his new market strategy.",
+      "published_utc": "2025-10-08T11:24:22",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=3ac45a3f59eb4c8d8d7fdc7591a0b24747da31e048b1781a49064601abb4e77a",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/10/08/Plymouth--Minnesota---April-3--2025-Bark.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138659278,
+      "datetime": 1759937062
+    },
+    {
+      "title": "S&P 500 Nears Historic Bubble Levels As Investors Question Durability Of Rally",
+      "description": "S&P 500 trades near 6,715 as bubble talk and tech weakness limit upside momentum. Click here for more information on Market Outlook.",
+      "published_utc": "2025-10-08T11:03:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=11fa393f1e7360cb5e4720dd101abe578427dcfdab79d30ac04434f1b4979ca7",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1328821143/image_1328821143.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137013139,
+      "datetime": 1759935780
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:10:01.994188+00:00",
+    "cache_key": "news_51da03838ce2239913dbe331fe8a9415",
+    "count": 5
+  }
+}

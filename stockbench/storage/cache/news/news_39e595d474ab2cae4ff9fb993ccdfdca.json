@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Citigroup Seizes Japan's M&A Boom, Plans to Expand IB Team",
+      "description": "C ramps up Japan investment banking, planning a 30% headcount boost by 2026 as a record M&A boom reshapes the corporate landscape.",
+      "published_utc": "2025-12-24T13:35:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8cd9a3c06424673f01279d0d3d2d85fc38db26e0bd2882aca9f6fa5537138050",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137897392,
+      "datetime": 1766601300
+    },
+    {
+      "title": "Big US banks add $600bn in value as deregulation spurs gains",
+      "description": "America’s six largest banks added $600bn in market value in 2025, spurred on by the Trump administration’s push to deregulate the industry and...",
+      "published_utc": "2025-12-24T09:58:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fae7895d523e1da9f1b25bbb25b3f3750ca50809b195d10406f81e0262d00202",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137897208,
+      "datetime": 1766588295
+    },
+    {
+      "title": "10 Financials Stocks Whale Activity In Today's Session",
+      "description": "",
+      "published_utc": "2025-12-24T08:35:24",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=66e7e76e32749b0ccac55e411e6e04c7a2a60004b18371b049aedcacb0caae1c",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=2048&height=1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138474418,
+      "datetime": 1766583324
+    },
+    {
+      "title": "Are You Doubting Santa Rally? 4 Low P/E Momentum ETFs to Play",
+      "description": "Some may doubt the Santa Rally this year amid AI overvaluation and inflation woes. Low P/E momentum ETFs -- XMVM, XSVM, PYZ, VAMO -- offer a balanced year-end play.",
+      "published_utc": "2025-12-24T08:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1a71a445ba7f47e4ac3e1b266fa2048f1fb688a69197e118ed1015611d19226d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137897394,
+      "datetime": 1766581200
+    },
+    {
+      "title": "Unpacking the Latest Options Trading Trends in Goldman Sachs Group",
+      "description": "",
+      "published_utc": "2025-12-24T06:01:43",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=4ddc842181d25f02f3cd8d9e6732afc6ad771d914a1fce5e527d9d804a431c93",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_3.jpg?width=2048&height=1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138601314,
+      "datetime": 1766574103
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T09:04:15.127837+00:00",
+    "cache_key": "news_39e595d474ab2cae4ff9fb993ccdfdca",
+    "count": 5
+  }
+}

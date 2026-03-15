@@ -1,0 +1,290 @@
+{
+  "items": [
+    {
+      "id": "cbf064cd50465a2d6afc4a0d6f5aa4a8f793973cab2b289501833085f5ffc5dc",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "O Tecnológico de Monterrey Cria Uma Rede Global e Compartilha Sua Plataforma TECgpt Para Promover a Adoção da IA na Educação",
+      "author": "N/A",
+      "published_utc": "2025-01-29T19:19:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/29/3017531/0/pt/O-Tecnol%C3%B3gico-de-Monterrey-Cria-Uma-Rede-Global-e-Compartilha-Sua-Plataforma-TECgpt-Para-Promover-a-Ado%C3%A7%C3%A3o-da-IA-na-Educa%C3%A7%C3%A3o.html",
+      "tickers": [
+        "MSFT"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/9ae18480-d07a-4447-a42d-04537218479e",
+      "description": "Tecnológico de Monterrey, in collaboration with Microsoft, launched the TECgpt initiative and the AI Global Education Network (AIGEN) to support the adoption of AI in higher education institutions worldwide. A pilot program will be implemented in 10 universities to integrate the TECgpt platform.",
+      "keywords": [
+        "Tecnológico de Monterrey",
+        "Microsoft",
+        "AI",
+        "education",
+        "AIGEN",
+        "TECgpt"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is mentioned as a collaborator with Tecnológico de Monterrey in the initiative, indicating a positive partnership between the two organizations."
+        }
+      ]
+    },
+    {
+      "id": "8219e188fd3ecf8691acc4cc7ed7c964385e752929a688160cc4c197f40fcffb",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why C3.ai Stock Is Sinking Today",
+      "author": "Keith Noonan",
+      "published_utc": "2025-01-29T19:16:48Z",
+      "article_url": "https://www.fool.com/investing/2025/01/29/why-c3ai-stock-is-sinking-today/?source=iedfolrf0000001",
+      "tickers": [
+        "AI",
+        "MSFT",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805740/gettyimages-1484192634.jpg",
+      "description": "C3.ai's stock is falling as investors try to understand the impact of DeepSeek's new AI model, which is said to be more efficient than ChatGPT. Proposed legislation to limit US-China AI cooperation is also weighing on the stock. The implications for C3.ai are unclear, as the new AI model could either benefit or hurt the company.",
+      "keywords": [
+        "C3.ai",
+        "DeepSeek",
+        "AI",
+        "ChatGPT",
+        "US-China relations"
+      ],
+      "insights": [
+        {
+          "ticker": "AI",
+          "sentiment": "negative",
+          "sentiment_reasoning": "C3.ai's stock is dropping due to investor concerns over the potential impact of DeepSeek's new AI model and proposed legislation that could affect the AI industry."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Microsoft, as a company focused on AI infrastructure, could face headwinds from the new AI model, but the overall impact is unclear."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Similar to Microsoft, the article suggests that Nvidia, another AI infrastructure company, could face challenges from the new AI model."
+        }
+      ]
+    },
+    {
+      "id": "5bef6d5e694947150cfbd1cba5f94f5bd47bdfcd24414469492974ca8206bd00",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "AI ETFs In Focus As Alibaba Challenges DeepSeek With New Model",
+      "author": "Chandrima Sanyal",
+      "published_utc": "2025-01-29T18:50:50Z",
+      "article_url": "https://www.benzinga.com/news/global/25/01/43315374/ai-etfs-in-focus-as-alibaba-challenges-deepseek-with-new-model",
+      "tickers": [
+        "AAPL",
+        "AIQ",
+        "AMZN",
+        "ARKQ",
+        "BABA",
+        "BIDU",
+        "GOOG",
+        "GOOGL",
+        "MSFT",
+        "NVDA",
+        "QQQ",
+        "TSLA"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/29/deepseek-ai7_0.png?width=1200&height=800&fit=crop",
+      "description": "The ongoing AI arms race, with disruptive developments from DeepSeek and Alibaba's new Qwen 2.5-Max model, has thrust AI-focused ETFs into the spotlight. This escalating competition opens opportunities for investors to capitalize on the AI trend.",
+      "keywords": [
+        "AI",
+        "ETFs",
+        "Alibaba",
+        "DeepSeek"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Apple is mentioned as one of the holdings of the Invesco QQQ Trust ETF, which provides exposure to major tech companies involved in AI advancements."
+        },
+        {
+          "ticker": "AIQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights this ETF as providing broad exposure to top AI companies, including semiconductor firms and software developers, making it a potential investment opportunity in the AI space."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Amazon is mentioned as one of the holdings of the Invesco QQQ Trust ETF, which provides exposure to major tech companies involved in AI advancements."
+        },
+        {
+          "ticker": "ARKQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights this ETF, managed by Cathie Wood's ARK Invest, as targeting companies playing in AI-driven automation and robotics, making it a relevant investment option in the AI space."
+        },
+        {
+          "ticker": "BABA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article focuses on Alibaba's launch of its Qwen 2.5-Max AI model, which is seen as a competitive response to DeepSeek's advancements, indicating Alibaba's strong presence in the AI race."
+        },
+        {
+          "ticker": "BIDU",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Baidu is mentioned as one of the Chinese AI players racing to upgrade their AI offerings, but the article does not provide a specific sentiment towards the company."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alphabet is mentioned as one of the holdings of the Global X Artificial Intelligence & Technology ETF, indicating its involvement in AI advancements, but the article does not provide a specific sentiment towards the company."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alphabet is mentioned as one of the holdings of the Global X Artificial Intelligence & Technology ETF, indicating its involvement in AI advancements, but the article does not provide a specific sentiment towards the company."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Microsoft is mentioned as one of the holdings of the Global X Artificial Intelligence & Technology ETF, indicating its involvement in AI advancements, but the article does not provide a specific sentiment towards the company."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "NVIDIA is mentioned as one of the holdings of the Global X Artificial Intelligence & Technology ETF, indicating its involvement in AI advancements, but the article does not provide a specific sentiment towards the company."
+        },
+        {
+          "ticker": "QQQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article highlights this ETF as providing exposure to major tech companies involved in AI advancements, but does not provide a specific sentiment towards the ETF."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Tesla is mentioned as one of the holdings of the ARK Autonomous Technology & Robotics ETF, indicating its involvement in AI-driven automation and robotics, but the article does not provide a specific sentiment towards the company."
+        }
+      ]
+    },
+    {
+      "id": "298bcde98fa01883a6b53d4952d274d9f73660e7dcb98cb566efe948e7256de1",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Stocks Tick Down Ahead Of Fed Meeting, Nvidia Jitters Resume, Trump Media Rallies: What's Driving Markets Wednesday?",
+      "author": "Piero Cingari",
+      "published_utc": "2025-01-29T18:04:24Z",
+      "article_url": "https://www.benzinga.com/25/01/43313939/stocks-tick-down-ahead-of-fed-meeting-nvidia-jitters-resume-trump-media-rallies-whats-driving-markets-wednesday",
+      "tickers": [
+        "NVDA",
+        "MSFT",
+        "META",
+        "XLF",
+        "XLC",
+        "XLK"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/29/Jerome-Powell.png?width=1200&height=800&fit=crop",
+      "description": "Stocks are little changed ahead of the Federal Reserve's policy decision, with tech stocks under pressure as Nvidia weighs on the sector. Investors are focused on any signals from the Fed regarding future rate cuts.",
+      "keywords": [
+        "Federal Reserve",
+        "interest rates",
+        "tech stocks",
+        "Nvidia"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Nvidia's stock fell 5%, weighing on the tech sector."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Microsoft is set to report earnings after the market close, with investors awaiting management's comments on the DeepSeek AI competitive threat."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Meta Platforms is set to report earnings after the market close, with investors awaiting management's comments on the DeepSeek AI competitive threat."
+        },
+        {
+          "ticker": "XLF",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Financial stocks, tracked by the XLF ETF, hit fresh record highs."
+        },
+        {
+          "ticker": "XLC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The XLC ETF is outperforming, up 0.8%."
+        },
+        {
+          "ticker": "XLK",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The XLK ETF is lagging, down 0.9%."
+        }
+      ]
+    },
+    {
+      "id": "0ef43cedb3d51a8f20daba0b8c2d87cb2021259000a3d8c3353ab8018e81376e",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Smartest Growth Stocks to Buy With $1,000 Right Now",
+      "author": "Selena Maranjian",
+      "published_utc": "2025-01-29T12:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/29/the-smartest-growth-stocks-to-buy-with-1000-right/?source=iedfolrf0000001",
+      "tickers": [
+        "TSM",
+        "MSFT",
+        "SE",
+        "AMD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804780/getty-closeup-of-happy-smiling-freckled-face.jpg",
+      "description": "The article discusses four growth stocks to consider for investment: Taiwan Semiconductor Manufacturing (TSMC), Microsoft, Sea Limited, and Advanced Micro Devices (AMD). It highlights the strengths and potential of each company, as well as their reasonable valuations.",
+      "keywords": [
+        "growth stocks",
+        "investing",
+        "semiconductor",
+        "cloud computing",
+        "e-commerce",
+        "AI"
+      ],
+      "insights": [
+        {
+          "ticker": "TSM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights TSMC's position as the world's largest semiconductor manufacturer, its technological prowess, and its role in fueling the growth of AI. It also notes the company's stable operations and reasonable valuation."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article praises Microsoft's diverse business, including its dominant Office 365 suite, Azure cloud platform, Xbox gaming, and Windows operating system. It notes the company's strong financial performance and reasonable valuation."
+        },
+        {
+          "ticker": "SE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article describes Sea Limited as a major player in digital entertainment, e-commerce, and financial services in Asia, with strong revenue growth and a reasonable valuation."
+        },
+        {
+          "ticker": "AMD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article acknowledges the headwinds facing AMD, such as weak demand for gaming chips, but notes that the company's data center chip business is booming. It also highlights the stock's reasonable valuation compared to its historical average."
+        }
+      ]
+    }
+  ]
+}

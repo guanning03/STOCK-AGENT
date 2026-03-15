@@ -1,0 +1,81 @@
+{
+  "items": [
+    {
+      "id": "2e6c92bb32f3ad925b460251da83e23e4a3789bb216749159554a2a911614a0d",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "HD Investors Have Opportunity to Join The Home Depot, Inc. Fraud Investigation with the Schall Law Firm",
+      "author": "Schall Law Firm",
+      "published_utc": "2025-12-24T16:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/12/24/3210353/0/en/HD-Investors-Have-Opportunity-to-Join-The-Home-Depot-Inc-Fraud-Investigation-with-the-Schall-Law-Firm.html",
+      "tickers": [
+        "HD"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/60f84371-8ef5-454a-ab60-63e56a837741",
+      "description": "The Schall Law Firm is investigating The Home Depot for potential securities violations following the company's Q3 2025 earnings announcement on November 18, 2025. Home Depot missed sales forecasts, attributing the shortfall to lack of storms and consumer uncertainty in housing. The stock fell over 6% on the news. The firm is seeking shareholders who suffered losses to participate in the investigation.",
+      "keywords": [
+        "fraud investigation",
+        "securities violation",
+        "earnings miss",
+        "shareholder lawsuit",
+        "Q3 2025 results"
+      ],
+      "insights": [
+        {
+          "ticker": "HD",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The company missed sales forecasts, experienced a 6% stock price decline, and is now subject to a fraud investigation by a securities litigation firm, indicating serious concerns about potential misstatements or disclosure failures to investors."
+        }
+      ]
+    },
+    {
+      "title": "Wall Street Analysts Think Home Depot (HD) Is a Good Investment: Is It?",
+      "description": "The average brokerage recommendation (ABR) for Home Depot (HD) is equivalent to a Buy. The overly optimistic recommendations of Wall Street analysts make the effectiveness of this highly sought-after metric questionable. So, is it worth buying the stock?",
+      "published_utc": "2025-12-24T09:30:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=83c2dbe4f1876cc0021e2fe3f486b16b8af326e087c2857d4e46514039d51c45",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137897333,
+      "datetime": 1766586604
+    },
+    {
+      "title": "Consumers clearly seeking discounts and promotions, says Neuberger Berman's San Marco",
+      "description": "John San Marco, Neuberger Berman, joins 'Closing Bell Overtime' to talk his holiday read on retailers and 2026 outlook.",
+      "published_utc": "2025-12-24T09:00:14",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=9a4f9b2cedb26138f751ebe3212d379a40ed9e2316cdb1d4d9845f0772043d46",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108245692-17666025461766602543-43149932972-1080pnbcnews.jpg?v=1766602545&w=1920&h=1080",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137900301,
+      "datetime": 1766584814
+    },
+    {
+      "title": "10 Consumer Discretionary Stocks Whale Activity In Today's Session",
+      "description": "",
+      "published_utc": "2025-12-24T08:35:19",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=e41f96aa7f9c1e6c7c731fa80cbb11689b3e62ba1b8278c1c9a7c0ae091fd229",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_3.jpg?width=2048&height=1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138514931,
+      "datetime": 1766583319
+    }
+  ]
+}

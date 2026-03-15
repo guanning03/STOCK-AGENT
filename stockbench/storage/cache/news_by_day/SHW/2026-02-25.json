@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Lowe's CEO says the housing market is under pressure, even as the retailer's sales jump more than 10%",
+      "description": "Lowe's posted more than 10% sales growth in the fourth quarter at a time when housing turnover and home improvement demand are slow.",
+      "published_utc": "2026-02-25T01:26:27",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=92fe1cf35042dafeaca90216ac33757b8edbdc34b8f0cfeaad28162d18128120",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108265891-1771019846405-gettyimages-2246741823-LOWES_EARNS.jpeg?v=1771019900&w=1920&h=1080",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139212601,
+      "datetime": 1772000787
+    }
+  ]
+}

@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Goldman Sachs, Amazon.com Inc. share gains contribute to Dow's 229-point climb",
+      "description": "Goldman Sachs, Amazon.com Inc. share gains contribute to Dow's 229-point climb",
+      "published_utc": "2025-04-02T11:42:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=9edf30f41937168a3984c8fce44f17c34994380ed110caf7ac8ce94b9b03a7f6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133704637,
+      "datetime": 1743608520
+    },
+    {
+      "title": "Dow's 250-point rally highlighted by gains for Goldman Sachs, Amazon.com Inc. shares",
+      "description": "Dow's 250-point rally highlighted by gains for Goldman Sachs, Amazon.com Inc. shares",
+      "published_utc": "2025-04-02T08:49:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f53cfbded9237c421a76c60e3c144db6fb6ba4574a74553fb2c141fca8feccd9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133669500,
+      "datetime": 1743598140
+    },
+    {
       "title": "Caterpillar (CAT) Rises But Trails Market: What Investors Should Know",
       "description": "In the most recent trading session, Caterpillar (CAT) closed at $330.57, indicating a +0.23% shift from the previous trading day.",
       "published_utc": "2025-04-02T05:45:18",
@@ -14,6 +44,21 @@
       "api_source": "finnhub_company",
       "id": 133658268,
       "datetime": 1743543918
+    },
+    {
+      "title": "Equipmake signs development agreement with CorPower Ocean",
+      "description": "Equipmake Holdings PLC on Wednesday announced a development agreement with CorPower Ocean AB, a Stockholm-based wave energy device developer. Norfolk, England-based Equipmake is an electrification...",
+      "published_utc": "2025-04-02T03:32:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=174b785cf07151065026026794c7ffd7665607355effeafd8f6b3d49ea2af065",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133665614,
+      "datetime": 1743579127
     }
   ]
 }

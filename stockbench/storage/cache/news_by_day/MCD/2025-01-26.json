@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "id": "140eb50b8bf707ef73b821cb694c5c6b090d82e72b4f41c1fee43b1274a1c996",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Where Will Domino's Pizza Stock Be in 3 Years?",
+      "author": "Demitri Kalogeropoulos",
+      "published_utc": "2025-01-26T12:22:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/26/where-will-dominos-pizza-stock-be-in-3-years/?source=iedfolrf0000001",
+      "tickers": [
+        "DPZ",
+        "CMG",
+        "BROS",
+        "MCD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805029/gettyimages-498272302.jpg",
+      "description": "Domino's Pizza faces challenges in the competitive fast-food market, with its stock likely to underperform rivals and the broader market in the coming years. While the company has a strong brand and profitability, its valuation is high compared to peers, and it may struggle to significantly accelerate sales growth.",
+      "keywords": [
+        "Domino's Pizza",
+        "fast-food",
+        "valuation",
+        "growth"
+      ],
+      "insights": [
+        {
+          "ticker": "DPZ",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that Domino's stock is likely to underperform the market in the coming years due to its high valuation compared to peers, and its inability to significantly accelerate sales growth like some competitors."
+        },
+        {
+          "ticker": "CMG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Chipotle is a more tempting investment option compared to Domino's, as it is expanding sales at a faster rate and has a rising profit margin."
+        },
+        {
+          "ticker": "BROS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Dutch Bros is a growth-focused investment option that may be preferred over Domino's, as it has more room to expand its store footprint in the coming years."
+        },
+        {
+          "ticker": "MCD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article notes that McDonald's is more profitable than Domino's at a lower price, but is growing slowly, which may make it less attractive to some investors."
+        }
+      ]
+    }
+  ]
+}

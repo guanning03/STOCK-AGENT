@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "American Express (AXP) Stock Sinks As Market Gains: Here's Why",
+      "description": "American Express (AXP) closed the most recent trading day at $295.93, moving -0.49% from the previous trading session.",
+      "published_utc": "2025-06-04T17:50:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=611a410cf4ba91bf02216b15d02dccda0df2cfdd12ece4b166b23e4715dce5c3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135034151,
+      "datetime": 1749073811
+    },
+    {
+      "title": "American Express Introduces Maison Amex: An Exclusive Venue during Canadian Grand Prix Weekend in Montreal",
+      "description": "American Express Canada, the Official Payments Partner of Formula 1 is launching Maison Amex, a bespoke pit stop for select Cardmembers during the FORMULA 1 PIRELLI GRAND PRIX DU CANADA 2025 race weekend. Located in the heart of Montréal, Maison Amex is an exclusive lounge to relax and refuel with complimentary snacks by Chef Danny Smiles of Le Violon, which was recently ranked #1 Best New Restaurant by Canada's 100 Best in 2025.",
+      "published_utc": "2025-06-04T07:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8f6fb90a74c9eb472a757c6ab86082328305cc0dfaf3093955ee0e12bfd193d4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135010787,
+      "datetime": 1749034800
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T00:15:05.880413+00:00",
+    "cache_key": "news_588fc1a3c1faa5799a5d0393664f65b7",
+    "count": 2
+  }
+}

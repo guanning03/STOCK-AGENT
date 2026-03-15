@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Stock Futures Drift Higher Ahead of Jobs, Inflation Data",
+      "description": "Investors are awaiting the release of the January jobs report, which was delayed a week because of the shutdown, and the CPI data for January.",
+      "published_utc": "2026-02-08T18:22:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=de2744169e13dc83bcc73fdbd19988103f2db1d9bed35ab3f2e17d7d2fc03e19",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138397536,
+      "datetime": 1770592920
+    },
+    {
+      "title": "Risks Rise for Bitcoin, Gold, and Silver as Goldman Sachs Warns $80 Billion in Stock Selling",
+      "description": "Goldman Sachs warns up to $80 billion in equity selling could intensify liquidity stress, raising risks for Bitcoin, gold, and silver.",
+      "published_utc": "2026-02-08T16:13:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f4b225f58adfe61938739f3e8525cd0cfb589afc111c1cc8ca620f668cac0698",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138396779,
+      "datetime": 1770585195
+    },
+    {
+      "title": "Goldman Sachs revamps Nvidia stock forecast ahead of earnings",
+      "description": "Nvidia shareholders are eagerly anticipating the AI-chip giant's quarterly earnings results on February 25. The stakes are particularly high, given mounting competition from AMD and Broadcom, yet Goldman Sachs thinks Nvidia will deliver a $2 billion revenue surprise. Analysts at the 157-year-old ...",
+      "published_utc": "2026-02-08T13:45:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=86c6c37ee75f139fc1cfb1bcad35fcb01752e375f2b1a5e9958e5381c30ba3fc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138395415,
+      "datetime": 1770576324
+    },
+    {
+      "title": "Goldman Sachs Group (NYSE:GS) Will Pay A Larger Dividend Than Last Year At $4.50",
+      "description": "The Goldman Sachs Group, Inc.'s ( NYSE:GS ) dividend will be increasing from last year's payment of the same period to...",
+      "published_utc": "2026-02-08T08:13:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e04d41edd14fd5a27b51f767b0cb44250adf82dc830a80db80c8daeb6eb01134",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138392911,
+      "datetime": 1770556429
+    },
+    {
+      "title": "The Dow Surged Past 50,000. How It Got There, and Where It Goes Next.",
+      "description": "The Dow Surged Past 50,000. How It Got There, and Where It Goes Next.",
+      "published_utc": "2026-02-08T04:44:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=01a668c963fec31acc90865946a1ff118433785b00907b764e53535b4498b0d8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139083318,
+      "datetime": 1770543840
+    }
+  ]
+}

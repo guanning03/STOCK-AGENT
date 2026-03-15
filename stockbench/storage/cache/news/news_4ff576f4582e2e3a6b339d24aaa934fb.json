@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "CNBC Daily Open: Investors sell off tech despite steady Broadcom numbers",
+      "description": "In the near term, investors may still be flighty, unless something concretely reassuring, such as Oracle achieving positive cash flow, takes place.",
+      "published_utc": "2025-12-14T15:25:09",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=ba41bb5a4007418a66fa12e5a18a608cacb1a98c8b5b41f851e54f215ee9ce93",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108241611-1765761642216-gettyimages-2217725711-BROADCOM_EARNS.jpeg?v=1765761660&w=1920&h=1080",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137794292,
+      "datetime": 1765743909
+    },
+    {
+      "title": "Wall Street strategists are divided over valuations",
+      "description": "Strategists are divided on valuations — specifically, on the direction of the forward price-earnings (P/E) ratio as it hovers near five-year highs.",
+      "published_utc": "2025-12-14T11:59:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0efe2caa3f68f7ba12f0ea9f7fca6d74e3df5e2544dff8a92326b1fdaedb22d5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137792367,
+      "datetime": 1765731550
+    },
+    {
+      "title": "BlackRock Demands AI Fluency In New Hires But Warns Against Over-Reliance During Interviews",
+      "description": "BlackRock is reshaping its hiring to prioritize AI skills as the technology transforms financial services and entry-level jobs evolve.",
+      "published_utc": "2025-12-13T21:33:51",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=a8ad8be5a2cec12de04c33de7f99985154d27be72eab1c12388ec2e1e4d6f5d8",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/12/14/BlackRock.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138402477,
+      "datetime": 1765679631
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:31:50.491125+00:00",
+    "cache_key": "news_4ff576f4582e2e3a6b339d24aaa934fb",
+    "count": 3
+  }
+}

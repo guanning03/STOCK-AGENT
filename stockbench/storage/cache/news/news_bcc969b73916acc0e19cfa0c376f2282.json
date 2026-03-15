@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Wendy’s Stock Is Cheap, But Can the Turnaround Actually Work?",
+      "description": "Wendy's is set up for a robust rebound, but investors are likely to feel more pain before it begins. Margin pressure points to dividend risk in 2026.",
+      "published_utc": "2026-02-17T13:27:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=62f826d552259590d89aee4007ef82b06b87dd6a8aecb2cb0a32e737b4ca58b6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139138686,
+      "datetime": 1771352820
+    },
+    {
+      "title": "Builders FirstSource's Q4 Earnings & Sales Lag, Margins Down Y/Y",
+      "description": "After a weak fourth quarter and softer 2025 results, can BLDR rebound as housing demand stabilizes?",
+      "published_utc": "2026-02-17T11:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3a4f7e2f9ba01066fc9d9cb9c4dbfa63702c5768d164283d31aa602e7e87c4de",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139125104,
+      "datetime": 1771344060
+    },
+    {
+      "title": "McDonald's unveils 2026 menu as sales rebound",
+      "description": "Some may call McDonald's cheap fast food, but one area the company has not skimped on is innovation. Over the past year, McDonald's has introduced several new offerings and brought back fan favorites, including the Grinch Meal and Buffalo Ranch, as well as the return of the Snack Wrap and ...",
+      "published_utc": "2026-02-17T09:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d474e37bc21cf5b9fe60586b249b71e08ffa3cb88f668c39f84d8b1335b62d62",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139124014,
+      "datetime": 1771338780
+    },
+    {
+      "title": "Zeus Packaging Group expands with KOEX Packaging purchase",
+      "description": "Zeus said that the deal will increase production and logistics capacity within Europe and extend its presence into the US.",
+      "published_utc": "2026-02-17T08:43:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=af364b71cff888d25d673a57c0add72c9cac88163e107bcf3662d1025564edec",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139122166,
+      "datetime": 1771335798
+    },
+    {
+      "title": "MCD and TXRH: 2 Low-Risk Restaurant Stocks With Upside",
+      "description": "The restaurant sector has become highly competitive as consumers increasingly seek value, with McDonald's and Texas Roadhouse leading the way.",
+      "published_utc": "2026-02-17T08:19:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5734ddd45df15557e28cd5f8b099af37c7651c069eff9c2af22d036f4ef25072",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139134090,
+      "datetime": 1771334340
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:13:05.593405+00:00",
+    "cache_key": "news_bcc969b73916acc0e19cfa0c376f2282",
+    "count": 5
+  }
+}

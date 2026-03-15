@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Here Are My Top \"Magnificent Seven\" Stocks to Buy Now",
+      "description": "The \"Magnificent Seven\" stocks are still some of the best buys in the market.",
+      "published_utc": "2025-08-10T19:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=51989651a16e3f67eb65122be9adc9d51b2100a1044b8cc8704e5b3b797ee3c2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136292101,
+      "datetime": 1754868600
+    },
+    {
+      "title": "Exclusive: Former Intel CEO Craig Barrett outlines plan to save Intel and America’s advanced chip manufacturing",
+      "description": "Intel needs a cash infusion of roughly $40 billion to remain at the leading edge of chip manufacturing, according to former CEO Craig Barrett. The U.S. government is unlikely to be the main savior—instead cash rich chip customers like Nvidia, Apple, and Google need to step up.",
+      "published_utc": "2025-08-10T19:06:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0511defb2a4ee3239c2cb0bb6677cff689df570becebe8d796eecac2be845be2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136292140,
+      "datetime": 1754867184
+    },
+    {
+      "title": "Dow Jones Futures Rise With Nvidia, AMD In Focus; Google, Apple, Tesla Flash Buy Signals",
+      "description": "Dow Jones Futures Rise With Nvidia, AMD In Focus; Google, Apple, Tesla Flash Buy Signals",
+      "published_utc": "2025-08-10T19:03:02",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=3b084e6022a04b9d7a6a2bb963d0f2d5cd9d1697947a79c746987525da8bdeb6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136295840,
+      "datetime": 1754866982
+    },
+    {
+      "title": "After Sitting on the Sidelines For 14 Months, Warren Buffett Could Be Buying One of His Favorite Stocks Again",
+      "description": "Buffett bought shares of this stock for 23 straight quarters, but suddenly stopped last year.",
+      "published_utc": "2025-08-10T18:23:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6f002c5481475414ee783676187b2531147f6514fe418cc5dd0d803a3b7bd1b8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136292141,
+      "datetime": 1754864580
+    },
+    {
+      "title": "Trump Wanted Intel CEO Out, Now Lip-Bu Tan Is Heading To The White House On Monday: Report",
+      "description": "Intel CEO Lip-Bu Tan is set to meet with President Trump at the White House to address criticism over his ties to Chinese businesses and secure his future amid political and internal challenges.",
+      "published_utc": "2025-08-10T17:49:04",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=32984d49cad0d2fccde813943d5160197415b350e477bd2485a270f54ea0bdbf",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/08/10/Santa-Clara--Ca--Usa---Nov-22--2023-Inte.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138715913,
+      "datetime": 1754862544
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:56:56.812208+00:00",
+    "cache_key": "news_09df67663b9554da8a4cc0742049c381",
+    "count": 5
+  }
+}

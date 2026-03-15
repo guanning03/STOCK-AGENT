@@ -1,0 +1,166 @@
+{
+  "items": [
+    {
+      "id": "a03e7586dc652fce1610c2676d80254c7fbd408f680c50099fe00b365adb6bfe",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Warren Buffett Preparing to Save Wall Street From Itself? History Shows What the Billionaire Legend Could Be Doing With His Record $325 Billion in Cash.",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-11T16:23:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/11/is-warren-buffett-preparing-to-save-wall-street-fr/?source=iedfolrf0000001",
+      "tickers": [
+        "BRK.A",
+        "BRK.B",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803178/warren-buffett-berkshire-hathaway-cash-reserve-2025.jpg",
+      "description": "Berkshire Hathaway, led by Warren Buffett, has amassed a record $325 billion in cash, leading to speculation that Buffett may be preparing to strategically invest in companies during a potential financial crisis, similar to his actions during the Great Recession.",
+      "keywords": [
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "financial crisis",
+        "Wall Street"
+      ],
+      "insights": [
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway has a large cash reserve, which could be used to strategically invest in companies during a financial crisis, similar to Buffett's actions in the past."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway has a large cash reserve, which could be used to strategically invest in companies during a financial crisis, similar to Buffett's actions in the past."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway has invested in Bank of America in the past, providing the company with a cash infusion during the Great Recession."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway has invested in Bank of America in the past, providing the company with a cash infusion during the Great Recession."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway has invested in Bank of America in the past, providing the company with a cash infusion during the Great Recession."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway has invested in Bank of America in the past, providing the company with a cash infusion during the Great Recession."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway has invested in Bank of America in the past, providing the company with a cash infusion during the Great Recession."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway has invested in Bank of America in the past, providing the company with a cash infusion during the Great Recession."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway has invested in Bank of America in the past, providing the company with a cash infusion during the Great Recession."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway has invested in Bank of America in the past, providing the company with a cash infusion during the Great Recession."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway has invested in Bank of America in the past, providing the company with a cash infusion during the Great Recession."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway has invested in Bank of America in the past, providing the company with a cash infusion during the Great Recession."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway has invested in Bank of America in the past, providing the company with a cash infusion during the Great Recession."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway has invested in Bank of America in the past, providing the company with a cash infusion during the Great Recession."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway has invested in Bank of America in the past, providing the company with a cash infusion during the Great Recession."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway has invested in Bank of America in the past, providing the company with a cash infusion during the Great Recession."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway has invested in Bank of America in the past, providing the company with a cash infusion during the Great Recession."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway has invested in Bank of America in the past, providing the company with a cash infusion during the Great Recession."
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway invested in Goldman Sachs during the Great Recession, providing the investment bank with a cash infusion."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway invested in Goldman Sachs during the Great Recession, providing the investment bank with a cash infusion."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway invested in Goldman Sachs during the Great Recession, providing the investment bank with a cash infusion."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway invested in Goldman Sachs during the Great Recession, providing the investment bank with a cash infusion."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:31:05.647124+00:00",
+    "cache_key": "news_3798889b0d1987eb64d71407c36fd0bc",
+    "count": 1
+  }
+}

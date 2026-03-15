@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Why Does Visa Continue to Sit at the Center of Digital Payments?",
+      "description": "V remains central to digital payments thanks to its massive global network, transaction-based model and expanding value-added services as cash use declines.",
+      "published_utc": "2026-01-05T12:08:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b5eddf6787f624c20230022bc875bff0829bfbd65bf821721992595f16931e20",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137997672,
+      "datetime": 1767632880
+    },
+    {
+      "title": "Visa Inc. Cl A stock underperforms Monday when compared to competitors despite daily gains",
+      "description": "Visa Inc. Cl A stock underperforms Monday when compared to competitors despite daily gains",
+      "published_utc": "2026-01-05T11:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=d571ceea6eeefe63ee6aaab7ecb7cfbbd580622a0b3d8dc8ed2de3f76a1a5e40",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138003094,
+      "datetime": 1767630660
+    },
+    {
+      "title": "My Dividend Stock Portfolio: New November Dividend Record - 100 Holdings With 12 Buys",
+      "description": "Read about the latest moves in my dividend stock portfolio and why I trimmed NVDA/AMD on valuation and rotated into BDCs (ARCC, OBDC, HTGC) for yield.",
+      "published_utc": "2026-01-05T10:47:28",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c7d57cc52fce12c1c1fb6836f77982bdb9233d7d33af4280465110aaef63946d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213764535/image_1213764535.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137994613,
+      "datetime": 1767628048
+    },
+    {
+      "title": "This Week In Digital Payment - South Africa Embraces Cashless Revolution With Rapid Growth",
+      "description": "South Africa's digital payment landscape is experiencing significant growth, as highlighted by a report from EBC Financial Group. The rapid adoption of cashless transactions is fostering greater financial inclusion and economic participation, with card-based transactions projected to surpass ZAR2.9 trillion ($159 billion) by 2025. This growth is driven by increased merchant acceptance, advancements in contactless technology, and the proliferation of mobile-led payments. Moreover, the...",
+      "published_utc": "2026-01-05T07:37:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=06324755f2f1329987484ca015be14f3b68d50036283538519a382208d4cede4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137991016,
+      "datetime": 1767616650
+    },
+    {
+      "title": "VIG: Proof That A Higher Yield Isn't Everything",
+      "description": "Vanguard Dividend Appreciation ETF (VIG) mixes dividend growth with favorable sectors. Read more about VIG here.",
+      "published_utc": "2026-01-05T02:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1c161cf429298579cc1f69edda183ab767a637d65062d78afe362969dd6b2950",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2231588505/image_2231588505.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137989894,
+      "datetime": 1767597300
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T00:59:27.091644+00:00",
+    "cache_key": "news_8cd17791eb097e421d4b266e71d3879c",
+    "count": 5
+  }
+}

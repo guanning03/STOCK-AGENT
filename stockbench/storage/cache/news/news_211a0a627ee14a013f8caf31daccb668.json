@@ -1,0 +1,221 @@
+{
+  "items": [
+    {
+      "id": "bb4f21fed60219f6da914b91900cd97212ac476e9ce2f704ecc1212f993110da",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "YourUpdate TV Speaks with Gayle King and Adam Glassman About Oprah’s Favorite Things",
+      "author": "D S Simon Media",
+      "published_utc": "2024-12-18T23:16:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2024/12/18/2999449/0/en/YourUpdate-TV-Speaks-with-Gayle-King-and-Adam-Glassman-About-Oprah-s-Favorite-Things.html",
+      "tickers": [
+        "AMZN"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/5115f449-412d-4a05-bbcb-add09b3f2838",
+      "description": "Oprah's Favorite Things 2024 gift guide features 116 gifts, with over 60% from small, women-, LGBTQ-, Latinx-, and Black-owned businesses. Amazon and Oprah have partnered for the 10th year to curate a selection of items available in the guide exclusively on Amazon.",
+      "keywords": [
+        "Oprah's Favorite Things",
+        "small businesses",
+        "Amazon",
+        "Gayle King",
+        "Adam Glassman"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon has partnered with Oprah for the 10th year to curate a selection of items for the Oprah's Favorite Things gift guide, which features a majority of gifts from small businesses. This suggests a positive relationship and collaboration between Amazon and Oprah's brand."
+        }
+      ]
+    },
+    {
+      "id": "b0132ea212a0b2262cfa293618c93d871a4ef8eb90a169f5ffdc783155326dbb",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "Microsoft Dominates AI Race With Massive Nvidia Chip Purchase",
+      "author": "The Tokenist",
+      "published_utc": "2024-12-18T20:14:00Z",
+      "article_url": "https://www.investing.com/analysis/microsoft-dominates-ai-race-with-massive-nvidia-chip-purchase-200655444",
+      "tickers": [
+        "AMZN",
+        "GOOG",
+        "GOOGL"
+      ],
+      "amp_url": "https://m.investing.com/analysis/microsoft-dominates-ai-race-with-massive-nvidia-chip-purchase-200655444?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "Microsoft has purchased a massive 485,000 of Nvidia's 'Hopper' chips, significantly outpacing its tech rivals in investing in AI infrastructure. This strategic move positions Microsoft as a leader in AI development and a critical customer for Nvidia.",
+      "keywords": [
+        "Microsoft",
+        "Nvidia",
+        "AI",
+        "chip purchase"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Amazon's chip purchase of 196,000 is also lower than Microsoft's, suggesting it is not prioritizing AI investment to the same extent as Microsoft."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Google's chip purchase of 169,000 is the lowest among the major tech companies mentioned, indicating it is not leading the AI race in terms of infrastructure investment."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Google's chip purchase of 169,000 is the lowest among the major tech companies mentioned, indicating it is not leading the AI race in terms of infrastructure investment."
+        }
+      ]
+    },
+    {
+      "id": "87fa90ec160ff19dedf05d069fcb250fb251fed17da938df40c3d44a64956047",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "2 Stocks Set to Dominate in 2025",
+      "author": "Keithen Drury",
+      "published_utc": "2024-12-18T13:15:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/18/2-stocks-set-to-dominate-in-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800125/person-smiling-while-looking-at-a-tablet.jpg",
+      "description": "Taiwan Semiconductor (TSM) and Amazon (AMZN) are poised for strong performance in 2025. TSM's cutting-edge 2nm chips and AWS's cloud computing dominance are expected to drive growth for these companies.",
+      "keywords": [
+        "Taiwan Semiconductor",
+        "Amazon",
+        "cloud computing",
+        "AI",
+        "chip technology"
+      ],
+      "insights": [
+        {
+          "ticker": "TSM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Taiwan Semiconductor is at the forefront of technological advancements, with its cutting-edge 3nm and upcoming 2nm chips expected to drive strong demand and revenue growth in 2025."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon's cloud computing division, AWS, is a major profit driver for the company and is expected to continue growing rapidly, benefiting from the increasing demand for cloud-based services and AI model training."
+        }
+      ]
+    },
+    {
+      "id": "842d7eb6e9f5cb24b1c0e08b270a9f2a5311f4808378f42cf259d3920bc7c38f",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Delivery Drone Market to Register a CAGR of 40.3% from 2025 to 2034, to Reach USD 29,417.91 million by 2034 – Report by Polaris Market Research",
+      "author": "Polaris Market Research",
+      "published_utc": "2024-12-18T11:01:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2024/12/18/2998886/0/en/Delivery-Drone-Market-to-Register-a-CAGR-of-40-3-from-2025-to-2034-to-Reach-USD-29-417-91-million-by-2034-Report-by-Polaris-Market-Research.html",
+      "tickers": [
+        "EADSY",
+        "AMZN",
+        "BA",
+        "BApA"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/cf0a808d-3703-43f4-9b34-ec72345f8585",
+      "description": "The delivery drone market is expected to grow rapidly due to rising demand for fast and contactless delivery options, as well as increased investments in drone technology.",
+      "keywords": [
+        "delivery drones",
+        "unmanned aerial vehicles",
+        "e-commerce",
+        "healthcare",
+        "retail"
+      ],
+      "insights": [
+        {
+          "ticker": "EADSY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Airbus SAS as one of the top players in the delivery drone market, indicating their strong presence and potential for growth."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "As a leading e-commerce company, Amazon's involvement in the delivery drone market suggests its potential to benefit from the growing demand for fast and efficient delivery options."
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Boeing's inclusion as a top player in the delivery drone market indicates its expertise and capabilities in the aerospace industry, which can be leveraged for the growth of the delivery drone market."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Boeing's inclusion as a top player in the delivery drone market indicates its expertise and capabilities in the aerospace industry, which can be leveraged for the growth of the delivery drone market."
+        }
+      ]
+    },
+    {
+      "id": "0188a94f91b9c97d7d872a2f689031f89c0438c11777619102677e2260f76c14",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "US Stocks Led By Apple, Nvidia, And Other Tech Giants Dominate Nearly Two-Thirds Of MSCI World Index, Drawing Parallels To 1980s Peak",
+      "author": "Rishabh Mishra",
+      "published_utc": "2024-12-18T09:53:29Z",
+      "article_url": "https://www.benzinga.com/24/12/42548075/us-stock-markets-outsized-influence-resurges-as-it-dominates-two-thirds-of-msci-world-indexs-capitalization-mirro",
+      "tickers": [
+        "AAPL",
+        "MSFT",
+        "NVDA",
+        "AMZN"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2024/12/18/magnificent-7-shutter.jpeg?width=1200&height=800&fit=crop",
+      "description": "U.S. tech giants like Apple, Microsoft, Nvidia, and Amazon now make up nearly two-thirds of the MSCI World Index, a level of dominance not seen since the 1980s. This concentration in a few large companies raises concerns about the market's stability.",
+      "keywords": [
+        "US stocks",
+        "tech giants",
+        "MSCI World Index",
+        "market concentration"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple is one of the largest and most dominant companies in the MSCI World Index, reflecting the strength of the U.S. tech sector."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is another major U.S. tech company that has a significant presence in the MSCI World Index."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia is a leading U.S. tech company that has contributed to the dominance of American firms in the MSCI World Index."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon is a prominent U.S. tech giant that is a major component of the MSCI World Index."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:41:27.151684+00:00",
+    "cache_key": "news_211a0a627ee14a013f8caf31daccb668",
+    "count": 5
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "items": [
+    {
+      "title": "Dow Jones Futures Fall; Trump Says He's Made Fed Chief Decision",
+      "description": "Dow Jones Futures Fall; Trump Says He's Made Fed Chief Decision",
+      "published_utc": "2025-11-30T17:53:48",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=4bb67cca12f847cb9609be90cf37747b3ba59f7f001741ca898e10fe53dce97d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137681311,
+      "datetime": 1764543228
+    },
+    {
+      "id": "90d20484628f1d600729dfb54ea7a5b2f6b87806cff41172e6f177698849b382",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 ETF Could Turn $500 Monthly Into a $370,000 Portfolio That Pays $11,000 in Annual Dividend Income",
+      "author": "Stefon Walters",
+      "published_utc": "2025-11-30T04:12:00Z",
+      "article_url": "https://www.fool.com/investing/2025/11/29/1-etf-could-turn-500-monthly-into-a-372000-portfol/?source=iedfolrf0000001",
+      "tickers": [
+        "VYM",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "VYLD",
+        "XOM",
+        "JNJ",
+        "WMT"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F842275%2Fcopy-of-dividends-blackboard-sketch-doodle.jpg&w=1200&op=resize",
+      "description": "The Vanguard High Dividend Yield ETF (VYM) offers potential for long-term investors to build a substantial dividend-generating portfolio by consistently investing $500 monthly, with historical average returns of 10.7% and a 3% dividend yield.",
+      "keywords": [
+        "dividend ETF",
+        "passive income",
+        "long-term investing",
+        "dividend reinvestment"
+      ],
+      "insights": [
+        {
+          "ticker": "VYM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Demonstrates consistent performance, broad diversification across sectors, and potential for significant long-term portfolio growth through dividend reinvestment"
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a blue-chip stock within the ETF's holdings without specific performance details"
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a blue-chip stock within the ETF's holdings without specific performance details"
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a blue-chip stock within the ETF's holdings without specific performance details"
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a blue-chip stock within the ETF's holdings without specific performance details"
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a blue-chip stock within the ETF's holdings without specific performance details"
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a blue-chip stock within the ETF's holdings without specific performance details"
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a blue-chip stock within the ETF's holdings without specific performance details"
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a blue-chip stock within the ETF's holdings without specific performance details"
+        },
+        {
+          "ticker": "VYLD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a blue-chip stock within the ETF's holdings without specific performance details"
+        },
+        {
+          "ticker": "XOM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a blue-chip stock within the ETF's holdings without specific performance details"
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a blue-chip stock within the ETF's holdings without specific performance details"
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a blue-chip stock within the ETF's holdings without specific performance details"
+        }
+      ]
+    }
+  ]
+}

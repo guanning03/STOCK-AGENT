@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Spirit AeroSystems Reports Second Quarter 2025 Results",
+      "description": "Second quarter 2025",
+      "published_utc": "2025-08-05T16:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e51f307edac316df667bc786a41451bb9ca72ff9f45f3e6e1116a6c28bb81029",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136217190,
+      "datetime": 1754424900
+    },
+    {
+      "title": "Leidos Holdings Beats on Q2 Earnings, Raises '25 View",
+      "description": "LDOS posts a Q2 earnings beat with 22% profit growth. It raises full-year guidance on solid demand across all segments.",
+      "published_utc": "2025-08-05T14:14:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5f0162d635e8269e81c25c9e9319b07ff3ca75dbd185e847f44a30de8f2dc272",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136217173,
+      "datetime": 1754417640
+    },
+    {
+      "title": "NASA and Congress Wrestle Over the Space Station—and How to Replace It",
+      "description": "Acting administrator Sean Duffy directed NASA to support a broad set of private space-station work as officials battle over winding down the ISS.",
+      "published_utc": "2025-08-05T14:02:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=251636335a782ce7d248cf61521f2ac8f2dab542414ca1ed295fc83cc36d4069",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136217192,
+      "datetime": 1754416920
+    },
+    {
+      "title": "Dow Hovers Near Breakeven. Most of the Market Is Struggling.",
+      "description": "The Dow was positive in Tuesday afternoon trading after a round-trip from a 100-point gain to a 100-point decline.  The blue-chip index was moving in and out of positive territory with 16 of its 30 stocks on the rise.  UnitedHealth Group, 3M, Amazon.com, Home Depot, and Boeing were among its biggest contributors.",
+      "published_utc": "2025-08-05T13:31:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=52a61e7331f2df4cabc5f0ee4d2dc2f05fb82f69552142784d18c12b62172de1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136217084,
+      "datetime": 1754415119
+    },
+    {
+      "title": "The Dow Is Back to Breakeven. Most of the Market Is Struggling.",
+      "description": "The Dow was flat in Tuesday afternoon trading after a round-trip from a 100-point gain to a 100-point decline.  The blue-chip index was moving in and out of positive territory with 13 of its 30 stocks on the rise.  UnitedHealth Group, 3M, Amazon.com, Home Depot, and Boeing were among its biggest contributors.",
+      "published_utc": "2025-08-05T13:08:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4537b94d06e04506b467870b08b02156bb4a097e6c8afb1448662fb49ab3c43a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136214771,
+      "datetime": 1754413687
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:42:45.737054+00:00",
+    "cache_key": "news_fd8b491c5020aeac266b38a98e555d5d",
+    "count": 5
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "RecessionAlert Weekly Leading Economic Index",
+      "description": "",
+      "published_utc": "2025-07-21T19:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=703cd12fc3177a5252cc3cf364cf5cf979c3183e26af702e57de5073f9b122c6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136029197,
+      "datetime": 1753140900
+    },
+    {
+      "title": "Model Portfolio For Capital Appreciation, July 2025",
+      "description": "Build a high-performing portfolio with over 20 expert-recommended stocks. Focused on capital growth, beat the S&P 500 using institutional-grade picks. See more.",
+      "published_utc": "2025-07-21T17:23:24",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e1c798100ae494d89b0ad8561f66cf75a2e7da04aa6e2ba800c19a315d605d20",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/482730527/image_482730527.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136028779,
+      "datetime": 1753133004
+    },
+    {
+      "title": "Follow The Consumer, They Lead The Way",
+      "description": "US consumption remains resilient, with retail sales rebounding in June despite widespread fears of tariff-driven inflation. I remain optimistic for continued economic growth. Read on here.",
+      "published_utc": "2025-07-21T14:22:18",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8939c9406140f23985935f1643f52ea99c5709c68755721813e7245ac4a6da3b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/836709534/image_836709534.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136028183,
+      "datetime": 1753122138
+    },
+    {
+      "title": "Housing: Iceberg On The Starboard Bow",
+      "description": "Deteriorating housing market impacts consumer confidence, spending, and the economy. Click for more on how real estate is affecting the market.",
+      "published_utc": "2025-07-21T13:39:59",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c51bc9c0a89b754230540aedd43575bf78abec05810f062f2696d35de4ecd1fd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2196060396/image_2196060396.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136028047,
+      "datetime": 1753119599
+    },
+    {
+      "title": "Trump Wanted To Break China—Now It's Crushing The US At Its Own Game",
+      "description": "Chinese large-cap stocks are beating the S&amp;P 500 by the widest margin since 2009, led by Xiaomi&#39;s explosive rally in 2025.",
+      "published_utc": "2025-07-21T12:50:12",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=700506d0c68792bc74f84f7462f4eb2b45280b6d52e978000910f4df663110f1",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/07/21/US-China-tariffs.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138404427,
+      "datetime": 1753116612
+    }
+  ]
+}

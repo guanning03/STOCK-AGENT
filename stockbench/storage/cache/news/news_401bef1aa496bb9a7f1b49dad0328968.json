@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today: Dow Up As Buffett Stock Tests Entry; Tesla Jumps On Musk Move (Live Coverage)",
+      "description": "The Dow was firm and the Nasdaq gained. Tesla rose on the stock market today after an Elon Musk move. A Warren Buffett stock tested an entry.",
+      "published_utc": "2025-09-15T17:21:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5322948e5176ecd7649d20e945c7e7e94e4dcf04a469d104678b2b0f7bda407f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136768019,
+      "datetime": 1757971287
+    },
+    {
+      "title": "McDonald's plans $200 million investment to promote regenerative practices on US cattle ranches",
+      "description": "McDonald’s said Monday it plans to invest $200 million over the next seven years to promote regenerative agriculture practices on cattle ranches.  The Chicago burger giant said the investment was its largest to date in support of regenerative agriculture in the U.S. The company has also funded regenerative projects on potato farms in Canada and Europe.  “As a brand that serves more than 90% of Americans every year, we recognize the responsibility we have to help safeguard our food systems for long-term vitality,” Cesar Piña, McDonald’s chief supply chain officer for North America, said in a statement.",
+      "published_utc": "2025-09-15T15:04:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=13659b64be3752d433e1c9a11ad594755d9ab7efb2b45b9149bb78ec3d1a4250",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136765867,
+      "datetime": 1757963066
+    },
+    {
+      "title": "McDonald's Corp. stock underperforms Monday when compared to competitors",
+      "description": "McDonald's Corp. stock underperforms Monday when compared to competitors",
+      "published_utc": "2025-09-15T12:34:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=011f71471c4c72512d1244ff36bca6abf44ac9940194fef8378387d568fb7f79",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136776300,
+      "datetime": 1757954040
+    },
+    {
+      "title": "McDonald’s invests in regenerative agriculture",
+      "description": "The quick-service burger restaurant aims to speed up improved grazing principles among U.S. cattle producers",
+      "published_utc": "2025-09-15T11:38:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aa539577657fe6f60eaca0b1f96e10e78c37f9d790645e0ca8cfbe1c87f403d4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136765930,
+      "datetime": 1757950726
+    },
+    {
+      "title": "McDonald's USA Makes Company's Largest-Ever Investment in Regenerative Agriculture through National Fish and Wildlife Foundation Partnership",
+      "description": "Beef has been at the core of McDonald's menu and identity since it first opened its doors 70 years ago. Today, McDonald's USA is announcing its participation in an initiative that helps demonstrate its continued commitment to responsible beef sourcing and stewardship of natural resources.",
+      "published_utc": "2025-09-15T10:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c6585934c852e63a36486fbe7ae9eedaa05d36c89d0fc57b77b0f6253e6ad9dc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136749576,
+      "datetime": 1757946600
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:49:07.447258+00:00",
+    "cache_key": "news_401bef1aa496bb9a7f1b49dad0328968",
+    "count": 5
+  }
+}

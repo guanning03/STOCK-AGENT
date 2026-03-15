@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "SPEU: European Stock Remain Cheap Relative To The S&P 500",
+      "description": "Explore the SPDR Portfolio Europe ETF (SPEU) for diversified exposure to European stocks.",
+      "published_utc": "2025-03-29T12:10:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3302fed631ee69ed8a88a85ee2ddce1f69b3223ee70399a74e5b01931ff7ef83",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2178349113/image_2178349113.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133553271,
+      "datetime": 1743264600
+    },
+    {
+      "title": "SCHD: It Is No Longer Just About Income And Growth, But Also About Alpha",
+      "description": "Discover why SCHD is a top choice for income investors with solid yields and dividend growth. Explore key reasons why SCHD shines in today's market.",
+      "published_utc": "2025-03-29T11:09:54",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1bcef804b869a7e01ddf61edf21cd8c9d83159056350a491923581d8e46b001c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1771879591/image_1771879591.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133550126,
+      "datetime": 1743260994
+    },
+    {
+      "title": "RDVI: Option ETF That Delivers Price Stability",
+      "description": "",
+      "published_utc": "2025-03-29T10:55:56",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=364d35869f8b0684206cffd26e954d0f9527e1f915342ef6c97edb8636871eea",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133549110,
+      "datetime": 1743260156
+    },
+    {
+      "title": "Weekly Indicators: New Orders Sink Further, But Consumer Readings Still Steady",
+      "description": "Februaryâs data shows gains in home sales and spending. Read why high-frequency indicators suggest an improving economy, despite volatility in long-term signals.",
+      "published_utc": "2025-03-29T04:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=dd27d7bec52d4c84e0640d690ca44aeb326430338c5e56f4a6384e7ba28098a2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1185425484/image_1185425484.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133528555,
+      "datetime": 1743235200
+    },
+    {
+      "title": "Looking For Market Opportunities Amid Tariff Tensions",
+      "description": "",
+      "published_utc": "2025-03-29T03:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=93b1eac27f6c59e31fd76790caf9712ded9ea16d659a4417385a3c6c6acb6c16",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133528478,
+      "datetime": 1743233400
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T23:01:45.560087+00:00",
+    "cache_key": "news_46577ba4e81e567a8b9c5b9e4803d4a9",
+    "count": 5
+  }
+}

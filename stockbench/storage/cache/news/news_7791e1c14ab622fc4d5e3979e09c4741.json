@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Zenity Labs Exposes Widespread \"AgentFlayer\" Vulnerabilities Allowing Silent Hijacking of Major Enterprise AI Agents Circumventing Human Oversight",
+      "description": "At Black Hat USA 2025, Zenity Labs revealed AgentFlayer, a comprehensive set of 0click exploit chains that allow attackers to silently compromise enterprise AI agents and assistants without requiring any user action. The research, presented by Zenity co-founder and CTO Michael Bargury and threat researcher Tamir Ishay Sharbat in their session, \"AI Enterprise Compromise: 0Click Exploit Methods,\" demonstrates how widely deployed AI agents from major vendors can be hijacked to exfiltrate data, mani",
+      "published_utc": "2025-08-06T19:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=74830e199c6f21c1df0a36d5365a14a453b1a73cb5829ef4b21b35d13ceb9428",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136245969,
+      "datetime": 1754523000
+    },
+    {
+      "title": "Salesforce Deal 'A Recipe For Value': Informatica CEO",
+      "description": "Amit Walia, CEO of Informatica, says the merging of two companies is all about context in \"the world of AI,\" emphasizing that Informatica focuses on data management, the area where AI will be most successful. He speaks with Romaine Bostick and Vonnie Quinn on \"The Close,\" saying that pairing with Salesforce becomes \"a recipe for huge value creation\" for their customers.",
+      "published_utc": "2025-08-06T18:02:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f29cf440741e48b867adc7e8c81bf3ab0ab7f7e7c643d64b012d3b7cba84b15e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136246230,
+      "datetime": 1754517774
+    },
+    {
+      "title": "Harry Qelm Baabsman's 2025 Half-Year Letter To Investors",
+      "description": "Discover how Steppe Eagle's patient investment strategy focuses on sustainable, high-quality businesses.",
+      "published_utc": "2025-08-06T17:05:09",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=29c28b932cbfc407a432da07623bbfe656942c018383fd524de936b168161646",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1440537288/image_1440537288.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136243470,
+      "datetime": 1754514309
+    },
+    {
+      "title": "Informatica Reports Second Quarter 2025 Financial Results",
+      "description": "REDWOOD CITY, Calif., August 06, 2025--Informatica (NYSE: INFA), a leader in enterprise AI-powered cloud data management, today announced financial results for its second quarter 2025, ended June 30, 2025.",
+      "published_utc": "2025-08-06T16:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b5e2093b330686a09fb8593005c14bcedf2438ce3e856bd23ee7d02bce905fed",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136246231,
+      "datetime": 1754510700
+    },
+    {
+      "title": "Why Oracle Stock and 2 Other Software Plays Are Struggling Even as Tech Shares Rally",
+      "description": "FEATURE  Software stocks may be hitting turbulence at altitude, with the exchange-traded fund (IGV) showing signs of fatigue. Last week, the ETF slid 3.6%, its worst weekly decline in four months, recording a bearish engulfing candle.",
+      "published_utc": "2025-08-06T15:21:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7e56a254c10ad82933bc858d9920e556d738757e69153de87532fd9ed8d7dffd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136246166,
+      "datetime": 1754508060
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:46:28.189182+00:00",
+    "cache_key": "news_7791e1c14ab622fc4d5e3979e09c4741",
+    "count": 5
+  }
+}

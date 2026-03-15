@@ -1,0 +1,142 @@
+{
+  "items": [
+    {
+      "id": "a76ad89816ddbbd7656c6dac32a0b073f8ebc85309a5c21d5b98aa7cca62b85d",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Model N Celebrates 25 Years of Revenue Optimization and Compliance Leadership and Launches Registration for Rainmaker Industry Event",
+      "author": "N/A",
+      "published_utc": "2025-01-22T14:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/22/3013519/0/en/Model-N-Celebrates-25-Years-of-Revenue-Optimization-and-Compliance-Leadership-and-Launches-Registration-for-Rainmaker-Industry-Event.html",
+      "tickers": [
+        "JNJ",
+        "AZN",
+        "SYK",
+        "STX",
+        "AVGO",
+        "MCHP"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/048e6cca-3315-485e-bf49-f08ed6bcc940",
+      "description": "Model N, a leader in revenue optimization and compliance solutions for life sciences and high-tech companies, is celebrating its 25th anniversary and launching registration for its annual Rainmaker conference. The event will showcase the company's latest innovations in revenue management technology, with a focus on AI, data analytics, and user experience.",
+      "keywords": [
+        "revenue optimization",
+        "compliance",
+        "life sciences",
+        "high-tech",
+        "Rainmaker conference",
+        "AI",
+        "data analytics",
+        "user experience"
+      ],
+      "insights": [
+        {
+          "ticker": "JNJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Johnson & Johnson as one of the companies that Model N partners with, but does not provide any additional information about the company's performance or relationship with Model N."
+        },
+        {
+          "ticker": "AZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions AstraZeneca as one of the companies that Model N partners with, but does not provide any additional information about the company's performance or relationship with Model N."
+        },
+        {
+          "ticker": "SYK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Stryker as one of the companies that Model N partners with, but does not provide any additional information about the company's performance or relationship with Model N."
+        },
+        {
+          "ticker": "STX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Seagate Technology as one of the companies that Model N partners with, but does not provide any additional information about the company's performance or relationship with Model N."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Broadcom as one of the companies that Model N partners with, but does not provide any additional information about the company's performance or relationship with Model N."
+        },
+        {
+          "ticker": "MCHP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Microchip Technology as one of the companies that Model N partners with, but does not provide any additional information about the company's performance or relationship with Model N."
+        }
+      ]
+    },
+    {
+      "id": "172824e7ec95036572a6642d8f385535b701eb1526516e1bea848e7513ca5168",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Johnson & Johnson Tops Q4 EPS Forecasts",
+      "author": "Jesterai",
+      "published_utc": "2025-01-22T13:44:39Z",
+      "article_url": "https://www.fool.com/data-news/2025/01/22/johnson-johnson-tops-eps-forecasts/?source=iedfolrf0000001",
+      "tickers": [
+        "JNJ"
+      ],
+      "image_url": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/c23399e0a71714feff3d0b57dbbacf3f94162eee-2000x1200.jpg",
+      "description": "Johnson & Johnson reported strong fourth-quarter 2024 results, with revenue and adjusted earnings per share exceeding analyst estimates. However, the company faces challenges due to patent expirations and regulatory hurdles, which have affected its financial performance.",
+      "keywords": [
+        "Johnson & Johnson",
+        "earnings",
+        "patent expirations",
+        "regulatory challenges"
+      ],
+      "insights": [
+        {
+          "ticker": "JNJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Johnson & Johnson had a strong quarter, with revenue and adjusted earnings per share exceeding analyst estimates. However, the company faces challenges due to patent expirations and regulatory hurdles, which have affected its financial performance."
+        }
+      ]
+    },
+    {
+      "id": "f15aef6fb2e1615d1a1c98b5e527b61950dd952465036b3111f22cbfce33ec00",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Johnson & Johnson Q4 Earnings: Cancer Drugs Performance Drives Revenue Beat, Issues Strong FY25 Outlook",
+      "author": "Vandana Singh",
+      "published_utc": "2025-01-22T13:21:09Z",
+      "article_url": "https://www.benzinga.com/25/01/43125966/johnson-johnson-reports-q4-earnings-above-wall-street-estimates-driven-by-strong-cancer-drugs-revenue",
+      "tickers": [
+        "JNJ",
+        "ITCI"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/22/Johnson-Johnson-logo-in-front-of-one-of-.jpeg?width=1200&height=800&fit=crop",
+      "description": "Johnson & Johnson reported strong Q4 earnings, driven by the performance of its cancer drugs. The company also issued a positive outlook for fiscal year 2025, with expected sales of $90.9 billion to $91.7 billion and adjusted EPS of $10.75 to $10.95.",
+      "keywords": [
+        "Johnson & Johnson",
+        "cancer drugs",
+        "earnings",
+        "outlook"
+      ],
+      "insights": [
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company reported a revenue beat and issued a strong outlook for fiscal year 2025, indicating strong performance and growth prospects."
+        },
+        {
+          "ticker": "ITCI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Johnson & Johnson agreed to acquire Intra-Cellular Therapies Inc., a biopharmaceutical company focused on central nervous system disorders, suggesting a strategic move to expand its portfolio."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:11:59.891704+00:00",
+    "cache_key": "news_b1f4df353681ac16db0690e1e1b0573d",
+    "count": 3
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "items": [
+    {
+      "id": "80eb385350ad1631dba70cb5fc79c37dadbd5995011f6a0667684baaf10c500f",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "Aerospace and Defense Stocks to Watch: The Biggest US Contractors by Revenue",
+      "author": "Frank Holmes",
+      "published_utc": "2025-01-13T20:25:00Z",
+      "article_url": "https://www.investing.com/analysis/aerospace-and-defense-stocks-to-watch-the-biggest-us-contractors-by-revenue-200656170",
+      "tickers": [
+        "AMTM",
+        "BAH",
+        "LDOS",
+        "HII",
+        "LHX",
+        "BA",
+        "BApA",
+        "GD",
+        "NOC",
+        "RTX",
+        "LMT"
+      ],
+      "amp_url": "https://m.investing.com/analysis/aerospace-and-defense-stocks-to-watch-the-biggest-us-contractors-by-revenue-200656170?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "The article ranks the top 10 largest U.S. defense contractors by revenue, highlighting their key capabilities and growth prospects in the aerospace and defense industry amid rising global tensions.",
+      "keywords": [
+        "aerospace",
+        "defense",
+        "contractors",
+        "revenue",
+        "U.S. military",
+        "national security"
+      ],
+      "insights": [
+        {
+          "ticker": "AMTM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amentum is a leading provider of engineering and technical services, specializing in supporting government missions with $5.7 billion in defense-related revenue."
+        },
+        {
+          "ticker": "BAH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Booz Allen Hamilton is a leading provider of technology and consulting services for the Department of Defense, leveraging advanced capabilities in AI and cybersecurity to address complex defense challenges."
+        },
+        {
+          "ticker": "LDOS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Leidos specializes in IT services and solutions, providing support for mission-critical systems for the Department of Defense and other federal agencies, with $11.1 billion in defense revenue."
+        },
+        {
+          "ticker": "HII",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Huntington Ingalls Industries is a leader in shipbuilding and defense technologies, generating $11.4 billion in defense-related revenue as the sole builder of U.S. Navy aircraft carriers and a key supplier of nuclear-powered submarines."
+        },
+        {
+          "ticker": "LHX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "L3Harris Technologies is known for its advanced communication systems, tactical radios and next-generation jamming technology, with $15.6 billion in defense-related revenue."
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Boeing's defense segment contributed $32.7 billion in revenue, complementing its commercial aerospace business, despite challenges in its commercial segment."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Boeing's defense segment contributed $32.7 billion in revenue, complementing its commercial aerospace business, despite challenges in its commercial segment."
+        },
+        {
+          "ticker": "GD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "General Dynamics' diverse portfolio spans combat vehicles, shipbuilding and IT services, generating $33.7 billion in defense revenue, and its profitability is expected to rise through improved margins."
+        },
+        {
+          "ticker": "NOC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Northrop Grumman is at the forefront of aerospace and defense innovation, with $35.2 billion in defense revenue, known for its contributions to nuclear modernization, the B-21 Raider stealth bomber and space systems."
+        },
+        {
+          "ticker": "RTX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "RTX specializes in missile systems, integrated defense solutions and advanced sensors, with $40.6 billion in defense revenue, and its strategic divestitures demonstrate its commitment to delivering shareholder value."
+        },
+        {
+          "ticker": "LMT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Lockheed Martin stands as a giant in the defense sector, with a whopping $64.7 billion in defense revenue, known for its iconic programs like the F-35 Lightning II fighter jet and advanced hypersonic weapons, and its robust backlog and commitment to cutting-edge technology make it a no-brainer for defense investors."
+        }
+      ]
+    }
+  ]
+}

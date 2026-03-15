@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Merck’s Heart Pill Slashes Cholesterol Levels in Test Patients",
+      "description": "The daily pill reduced LDL cholesterol by 56% in just six months, among patients whose LDL defy treatment with everyday statin drugs.",
+      "published_utc": "2025-11-10T16:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cd1dcc678f221e9a9dd9e8e12e6c2121f6aed9edece2003400de7d273c796396",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137415864,
+      "datetime": 1762809600
+    },
+    {
+      "title": "Amgen CEO talks trial results of cardiac drug Repatha",
+      "description": "Amgen Chairman, President and CEO Bob Bradway joins 'Mad Money' host Jim Cramer to talk quarterly results, its recent drug trials, what is ahead for the company and more.",
+      "published_utc": "2025-11-10T14:25:55",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=26c8db2f1339432d31ed5545ba41f522a4986d33bcea646fec10ad6922437cc2",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108223985-2ED1-REQ-111025-MMBBLOCKSHORT.jpg?v=1762818500&w=1920&h=1080",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137448224,
+      "datetime": 1762802755
+    },
+    {
+      "title": "Amgen CEO Bob Bradway goes one-on-one with Jim Cramer",
+      "description": "Amgen Chairman, President and CEO Bob Bradway joins 'Mad Money' host Jim Cramer to talk quarterly results, its recent drug trials, what is ahead for the company and more.",
+      "published_utc": "2025-11-10T14:21:48",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=e60554bc7dc10eb1a72f18df6ea2ac4c6abd67489b3e666cc00b7fb771ffd22f",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108223992-2ED1-REQ-111025-BBLOCK.jpg?v=1762819662&w=1920&h=1080",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137448225,
+      "datetime": 1762802508
+    },
+    {
+      "title": "CEO of drugmaker Amgen talks new results from cholesterol drug trial",
+      "description": "Amgen CEO Bob Bradway told CNBC's Jim Cramer about his company's treatment to reduce heart attack risk.",
+      "published_utc": "2025-11-10T13:39:59",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=46c8565b1e7de788300bba3d601d8bda9540510006bdb01399e6ccb857b51319",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/107390832-1711031881240-gettyimages-1244662987-porzycki-pharmace221110_npGy2.jpeg?v=1762804398&w=1920&h=1080",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137448226,
+      "datetime": 1762799999
+    },
+    {
+      "title": "Are These 4 Biotech Stocks Set to Beat Q3 Earnings Estimates?",
+      "description": "Alto Neuroscience, Autolus Therapeutics, Ascendis Pharma and Immuneering are gearing up to report Q3 results that could top expectations.",
+      "published_utc": "2025-11-10T11:21:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=877f405f48fd14d51729b48bb9c43bc2eb55d994dcd1734202be682688a5bfe5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137396561,
+      "datetime": 1762791660
+    }
+  ]
+}

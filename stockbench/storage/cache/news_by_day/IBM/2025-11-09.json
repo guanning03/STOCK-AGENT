@@ -1,0 +1,114 @@
+{
+  "items": [
+    {
+      "id": "81d6500426bcb8bc800c32251108848dfaf2c60616d0ae9dc44532a88d31d19a",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Artificial General Intelligence Is Coming: 1 Unstoppable Vanguard ETF to Buy Now",
+      "author": "Todd Shriber",
+      "published_utc": "2025-11-09T15:03:00Z",
+      "article_url": "https://www.fool.com/investing/2025/11/09/artificial-general-intelligence-is-coming-1-unstop/?source=iedfolrf0000001",
+      "tickers": [
+        "VGT",
+        "NVDA",
+        "MSFT",
+        "IBM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/841733/agi.jpg",
+      "description": "The article discusses the potential of Artificial General Intelligence (AGI) and highlights the Vanguard Information Technology ETF as a strategic investment vehicle for potential AI technological advancements, noting that while AGI is currently theoretical, it could have significant future implications.",
+      "keywords": [
+        "Artificial General Intelligence",
+        "AGI",
+        "AI investing",
+        "technology ETF",
+        "semiconductors"
+      ],
+      "insights": [
+        {
+          "ticker": "VGT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "ETF offers broad exposure to tech companies potentially benefiting from AI development, has low fees, and includes key AI-related companies in its portfolio"
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Represents 17.16% of the ETF's weight and is a leader in GPU technology critical for AI development"
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Third-largest ETF holding with over 13% portfolio weight and actively discussing AGI development"
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Considered an AGI player but with less clear immediate potential compared to other tech companies"
+        }
+      ]
+    },
+    {
+      "title": "Wall Street Brunch: Here Come The 13Fs",
+      "description": "Hedge funds will disclose positions ahead of Fridayâs 13F deadline. Disney to report earnings. Trump slams âmoney suckingâ health insurers.",
+      "published_utc": "2025-11-09T08:31:06",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b4cf6eaedc5457495bc16e9733c501cd983875f7ccf32b6fb0edc8e8b8e1b778",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1842518997/image_1842518997.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137387617,
+      "datetime": 1762695066
+    },
+    {
+      "title": "Executives are starting to talk about the shutdown more on earnings calls — and some are sounding more concerned",
+      "description": "Executives are starting to talk about the shutdown more on earnings calls — and some are sounding more concerned",
+      "published_utc": "2025-11-09T05:00:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=c4879fe126567202e9de84a5dbf22728ead04bf6812a117d6940d28ee0f460c0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137456410,
+      "datetime": 1762682400
+    },
+    {
+      "title": "Down 50%, Should You Buy the Dip on Quantum Computing?",
+      "description": "A rebound for this speculative technology stock could arrive sooner than you think.",
+      "published_utc": "2025-11-09T04:17:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2088cf63fad53767dfd94c5cd2e9990df09bba30786597b4742bbb5b77b320cf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137392540,
+      "datetime": 1762679820
+    },
+    {
+      "title": "TCW Relative Value Large Cap Fund Q3 2025 Sectors And Securities",
+      "description": "All sectors in the Russell 1000 Value were in the positive save for Consumer Staples. Portfolio stock selection was a positive (+240 bps) in the quarter led by Intel, Seagate and Tapestry.",
+      "published_utc": "2025-11-09T02:29:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=043c42ac83a65c1a5115fd186e750869e9b500d84f7da28ca097cf781dab61dd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1316782736/image_1316782736.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137385924,
+      "datetime": 1762673340
+    }
+  ]
+}

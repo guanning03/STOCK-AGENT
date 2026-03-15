@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "title": "Keep an Eye on These 3 Dividend Champion Stocks in 2025",
+      "description": "These companies expect strong revenue growth and analyst sentiment suggests significant upside.",
+      "published_utc": "2025-09-13T13:04:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9e5d0f8591b8aa99aff48b61b1cd1becf3639e4f5d279189e3d620790d8e1823",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136735936,
+      "datetime": 1757783040
+    },
+    {
+      "title": "Caxton and CTP Publishers and Printers Full Year 2025 Earnings: EPS: R1.68 (vs R1.83 in FY 2024)",
+      "description": "Caxton and CTP Publishers and Printers ( JSE:CAT ) Full Year 2025 Results Key Financial Results Revenue: R6.80b (up...",
+      "published_utc": "2025-09-13T03:04:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5a45e3fa09d69d3b4706f8579bd4c0c97f834627593b124176d7631c1363e779",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136736037,
+      "datetime": 1757747099
+    },
+    {
+      "id": "184538c2611a9d33540154cc399380e5ac0742390ff2fe7c3b8be37cf4710b84",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Best Dividend Stocks to Buy: Deere vs. Caterpillar",
+      "author": "Parkev Tatevosian, Cfa",
+      "published_utc": "2025-09-13T12:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/09/13/best-dividend-stocks-to-buy-deere-vs-caterpillar/?source=iedfolrf0000001",
+      "tickers": [
+        "DE",
+        "CAT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/833439/dividend-stocks-growing-money-income-cash.jpg",
+      "description": "The article discusses two dividend stock investment options in the industrial machinery sector, highlighting Deere and Caterpillar as potential choices for dividend stock investors.",
+      "keywords": [
+        "dividend stocks",
+        "industrial machinery",
+        "investing",
+        "stock recommendations"
+      ],
+      "insights": [
+        {
+          "ticker": "DE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Recommended as a strong dividend stock investment option with potential for returns"
+        },
+        {
+          "ticker": "CAT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Recommended as a strong dividend stock investment option with potential for returns"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:39:44.035762+00:00",
+    "cache_key": "news_f44a75bb928aca1e23c3fa12c7be618b",
+    "count": 3
+  }
+}

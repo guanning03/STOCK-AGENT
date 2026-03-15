@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "title": "Airbus bags Saudi order as Franco-Israeli dispute rocks air show",
+      "description": "Airbus bagged a $3.5 billion plane order from Saudi Arabia's AviLease on the opening day of the Paris Airshow on Monday, as a diplomatic dispute erupted over France's decision to shut down four Israeli stands for displaying deadly weapons.  Delegates expect this year's iteration of the world's biggest aviation trade show to see less business than usual, partly due to last week's deadly crash of an Air India Boeing 787 and also because Boeing racked up huge deals during U.S. President Donald Trump's recent tour of the Middle East.  But Airbus looks set to close a series of sales on its home turf, and interest in the defence side of the show is high as Europe ramps up military spending and conflict between Israel and Iran escalates.",
+      "published_utc": "2025-06-15T18:03:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1482dd83281bf3032b6a2e30904a313e10950377aefd4cc9c6a20671b9592b5d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135299926,
+      "datetime": 1750024996
+    },
+    {
+      "title": "Paris Airshow opens under cloud of India crash, Mideast conflict",
+      "description": "PARIS (Reuters) -The Paris Airshow opens on Monday with its usual fanfare of aircraft orders expected to be tempered by concerns over India’s deadliest air disaster and escalating missile strikes between Israel and Iran that have rattled the global aviation industry.  Every two years, Le Bourget Airport in the northeast of Paris is transformed into a showcase for the aerospace and defence industry, its sprawling tarmac lined with fighter jets, commercial airliners and autonomous drones.  Delegates say they expect this year's event from June 16-20 to be more sombre and several public activities to be scaled back after last week's air disaster, when an Air India Boeing 787 crashed shortly after takeoff, killing over 240 people.",
+      "published_utc": "2025-06-15T18:03:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7f19e487c8d80baa144a3a49ba5a4b3e54f9c4a7bcd16a033c057a2ef9a5fba3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135289908,
+      "datetime": 1750024996
+    },
+    {
+      "title": "India orders sweeping aviation review following fatal AI171 crash",
+      "description": "India’s Civil Aviation Ministry has launched a multi-tieredinvestigation and initiated a raft of safety reforms following thefatal crash of Air India Flight AI171 on June 12, 2025. The...",
+      "published_utc": "2025-06-15T18:00:09",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=3e2718aaf0dc4beca6947f885c7ef77ecb905e537cfca09ff6d47d3d29586311",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135288380,
+      "datetime": 1750024809
+    },
+    {
       "title": "Boeing trims projection for 20-year jet demand",
       "description": "(Reuters) -Boeing expects global demand for air travel to increase by more than 40% by 2030, driving the need for thousands of new jetliners in the next few years, according to its 20-year demand forecast for commercial airliners released Sunday ahead of the Paris Airshow.  European rival Airbus last week revised up its own 20-year commercial demand forecast by 2% to 43,420 jets, saying the air transport industry was expected to ride out current trade tensions.  Boeing's delivery projection includes nearly 33,300 single-aisle airliners, just over 7,800 widebody jets, 955 factory-built freighters and 1,545 regional jets.",
       "published_utc": "2025-06-15T06:16:54",
@@ -14,6 +59,36 @@
       "api_source": "finnhub_company",
       "id": 135273665,
       "datetime": 1749939414
+    },
+    {
+      "title": "Musk's ISS Concerns, Auto Tariffs, Boeing Dreamliner Crash And Trump-Musk Reconciliation: This Week In Mobility",
+      "description": "The weekend was filled with significant developments in the business world, from a plane crash to concerns over the ISS. Here&#39;s a recap of the top stories.",
+      "published_utc": "2025-06-15T06:01:21",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=64c9822c2b10cb05bd2eb9abd7fef166879326f60dceb55d5a763c1d4a74e788",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/06/15/Paris--France---June-16--2023-Elon-Musk-.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138822566,
+      "datetime": 1749981681
+    },
+    {
+      "title": "Russian air attack damaged Boeing offices in Ukraine, FT reports",
+      "description": "A building used by Boeing inKyiv was badly damaged in a recent large-scale Russian airattack, the Financial Times reported on Sunday, citing sixpeople familiar with the matter and photographs seen...",
+      "published_utc": "2025-06-15T03:03:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=7fb82b4ebce8b355d68240f5773d882569950aaf15793a2f3db4e362ccc526ea",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135284581,
+      "datetime": 1749970987
     },
     {
       "title": "Boeing : 20-Year Forecast Shows Steady Demand for Nearly 44,000 New Airplanes",

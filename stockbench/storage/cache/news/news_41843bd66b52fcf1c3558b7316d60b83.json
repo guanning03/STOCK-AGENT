@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "How AWS’s Graviton5 And AI Partner Push At Amazon.com (AMZN) Has Changed Its Investment Story",
+      "description": "In early December 2025, Amazon Web Services introduced new Graviton5-powered EC2 M9g instances, expanded its Nova AI model portfolio, and saw partners like Dynatrace, BigID, Perion, and Reply deepen integrations with AWS and Amazon DSP, enhancing AI observability, security, advertising performance, and agentic AI capabilities across enterprise and retail ecosystems. These moves highlight how Amazon is tightening the link between its custom silicon, advanced AI services, and high-intent media...",
+      "published_utc": "2025-12-10T18:16:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7e0579c47d3625ea32ca08f1c78b2300c3bf85930f8071e30ca33311ad13ec16",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137755737,
+      "datetime": 1765408579
+    },
+    {
+      "title": "Amazon Expands Same-Day Grocery Delivery. Rival Stocks Are Falling.",
+      "description": "The company has long offered grocery delivery via its Amazon Fresh and Whole Foods Market services, but it only recently included perishable groceries.",
+      "published_utc": "2025-12-10T18:09:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6b44f0f61964ef2bae455591876a577245d73ad1d12b0658434a87ebe50fad89",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137755738,
+      "datetime": 1765408140
+    },
+    {
+      "title": "Amazon's AI Capex Problem Is Its Superpower",
+      "description": "Discover why Amazon's AI-driven AWS growth signals 43% stock upside by 2026.",
+      "published_utc": "2025-12-10T17:17:01",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c9e2d6bef02fe44bff5f2c0d17919234ad360a8b0a4cd570183537328f6a5192",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1317474419/image_1317474419.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137753172,
+      "datetime": 1765405021
+    },
+    {
+      "title": "Stocks to Watch Wednesday Recap: JPMorgan, Cracker Barrel, EchoStar",
+      "description": "↗️ JPMorgan Chase (JPM): Shares of the largest U.S. bank rebounded 3.2% after a down day Tuesday stemming from new expense guidance. Banks in general performed well Wednesday in a broad market rally. ↗️ Cracker Barrel (CBRL): The restaurant chain's adjusted per-share quarterly loss was smaller than expected, but the company cut its annual outlook.",
+      "published_utc": "2025-12-10T16:51:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ea7728c8f5e5dd4a71d5b0ee0160643c2b39728e7279f79cc1ac774ec68cb1fb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137755718,
+      "datetime": 1765403464
+    },
+    {
+      "title": "It’s a Big Day for Cisco Stock. It Has Highest Close Since Dot-Com Bubble Burst.",
+      "description": "Cisco Systems  stock was once one of the most notable victims of the dot-com bubble bursting in 2000.  Cisco stock rose 0.9% on Wednesday to $80.25, closing at a record high for the first time since March 27, 2000.  This new record comes as shares have jumped 36% this year and are on pace for their best year to date performance through Dec. 10 since 2009, according to Dow Jones Market Data.",
+      "published_utc": "2025-12-10T16:19:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bfeb4cfadda8621e063d29a8e9bfc29d1c6d70302345963bb544a0534438fb97",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137755740,
+      "datetime": 1765401540
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:26:09.698714+00:00",
+    "cache_key": "news_41843bd66b52fcf1c3558b7316d60b83",
+    "count": 5
+  }
+}

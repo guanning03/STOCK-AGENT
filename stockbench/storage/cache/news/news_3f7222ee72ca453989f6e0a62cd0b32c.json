@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Rates Spark: Focus On Quantitative Tightening Tweaks From The Fed",
+      "description": "The yield on the US 10-year Treasury is hovering around 4%, while the 2-year is sticking close to 3.5%.",
+      "published_utc": "2025-10-28T19:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9accf4007e44b9f57e68aab2dca0c41e69cbd8f474edb606ba04827192e1e5f4",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2201869801/image_2201869801.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137241930,
+      "datetime": 1761693300
+    },
+    {
+      "title": "Benzinga Market Summary: Nuclear Stocks Rise On Cameco Deal With Brookfield And US Government, NVIDIA To Make Investment In Nokia, S&P Rises",
+      "description": "",
+      "published_utc": "2025-10-28T11:13:42",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=72297538739609451a33e80592886b9acf6a2b8648771e53aee9a9a5e32b244e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138908510,
+      "datetime": 1761664422
+    },
+    {
+      "title": "Hamas Says It Has No Connection To Attack On Israeli Forces In Rafah; Says It Is Committed To Ceasefire Deal",
+      "description": "-Reuters",
+      "published_utc": "2025-10-28T10:57:08",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f810995c6ff67b6a7b7bd698db872d04218046ce58805cbd00628b13b4d48f99",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138917294,
+      "datetime": 1761663428
+    },
+    {
+      "title": "Where Is This Bull Market's Second Wave",
+      "description": "S&P 500 rally defies expectations; anticipate a news-driven 5% correction as a buy opportunity.",
+      "published_utc": "2025-10-28T10:04:48",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ba940ef2ce600d4a819efb0688ac8c3c14a9bc6b1ee578f5e582b0a1e0e5791c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/525952861/image_525952861.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137240049,
+      "datetime": 1761660288
+    },
+    {
+      "title": "AI's Black Swan: The Data Center Power Drain That Forces Higher Interest Rates",
+      "description": "AI-driven infrastructure fueling surge in US electricity demand with data centers projected to double energy consumption. Read more on S&P 500 stock here.",
+      "published_utc": "2025-10-28T10:02:12",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b2f9a5097b41d12682e49c7ee1292c8db6a571810a218c45ecfdd71476710a21",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/962884198/image_962884198.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137240051,
+      "datetime": 1761660132
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:09:36.337412+00:00",
+    "cache_key": "news_3f7222ee72ca453989f6e0a62cd0b32c",
+    "count": 5
+  }
+}

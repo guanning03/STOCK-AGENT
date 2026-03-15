@@ -1,0 +1,135 @@
+{
+  "items": [
+    {
+      "id": "12932c72151eb68e3a619bdde6cd8d28f3a2097db58f80ca09b1141e216f3ee4",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is the Fidelity High Dividend ETF the Smartest Investment You Can Make Today?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-12T10:22:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/12/is-the-fidelity-high-dividend-etf-the-smartest-inv/?source=iedfolrf0000001",
+      "tickers": [
+        "FDVV",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "AAPL",
+        "AVGO",
+        "MSFT",
+        "NVDA",
+        "PG",
+        "V",
+        "VOO",
+        "PM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/810689/getty-smiling-happy-blue-collar-worker-in-hard-hat.jpg",
+      "description": "The article discusses the benefits of investing in dividend-paying stocks during market pullbacks, highlighting the Fidelity High Dividend ETF as a potential option. It provides performance comparisons and details on the ETF's holdings and fees.",
+      "keywords": [
+        "dividend stocks",
+        "market pullback",
+        "Fidelity High Dividend ETF"
+      ],
+      "insights": [
+        {
+          "ticker": "FDVV",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article presents the Fidelity High Dividend ETF as a favorable investment option during market pullbacks, highlighting its strong performance, diversified portfolio, and low expense ratio."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase is an advertising partner of Motley Fool Money, but this information is not directly relevant to the main content of the article."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase is an advertising partner of Motley Fool Money, but this information is not directly relevant to the main content of the article."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase is an advertising partner of Motley Fool Money, but this information is not directly relevant to the main content of the article."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase is an advertising partner of Motley Fool Money, but this information is not directly relevant to the main content of the article."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase is an advertising partner of Motley Fool Money, but this information is not directly relevant to the main content of the article."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase is an advertising partner of Motley Fool Money, but this information is not directly relevant to the main content of the article."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase is an advertising partner of Motley Fool Money, but this information is not directly relevant to the main content of the article."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase is an advertising partner of Motley Fool Money, but this information is not directly relevant to the main content of the article."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Selena Maranjian has positions in Apple, but this information is not directly relevant to the main content of the article."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Selena Maranjian has positions in Broadcom, but this information is not directly relevant to the main content of the article."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Selena Maranjian has positions in Microsoft, but this information is not directly relevant to the main content of the article."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Selena Maranjian has positions in Nvidia, but this information is not directly relevant to the main content of the article."
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Selena Maranjian has positions in Procter & Gamble, but this information is not directly relevant to the main content of the article."
+        },
+        {
+          "ticker": "V",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Selena Maranjian has positions in Visa, but this information is not directly relevant to the main content of the article."
+        },
+        {
+          "ticker": "VOO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions the Vanguard S&P 500 ETF as a comparison to the Fidelity High Dividend ETF, but does not provide a specific sentiment or recommendation."
+        },
+        {
+          "ticker": "PM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that The Motley Fool recommends Philip Morris International, but this information is not directly relevant to the main content of the article."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T22:42:19.557388+00:00",
+    "cache_key": "news_5f567b2f5f87e6d3a4c3ae478c2bd736",
+    "count": 1
+  }
+}

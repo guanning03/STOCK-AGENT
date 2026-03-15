@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today: Indexes Eye Record Highs On Fed Rate Cut, Powell's Comments; Palantir Jumps (Live Coverage)",
+      "description": "Stock Market Today: The Dow Jones index rises Wednesday after the Fed rate cut. Microsoft stock sold off.",
+      "published_utc": "2025-12-10T16:32:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=53193e008199c611e26b23f08cd9c23663ba42de90b82ebb146c8306450ba0de",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137755721,
+      "datetime": 1765402333
+    },
+    {
+      "title": "Sverica Capital Management Announces Sale of Coastal to Tata Consultancy Services for $700 Million",
+      "description": "AUSTIN, Texas, December 10, 2025--Sverica Capital Management LP (\"Sverica\") announced today the sale of its Fund V portfolio company Coastal Cloud Holdings, LLC (\"Coastal\" or the \"Company\") to Tata Consultancy Services Limited (or \"TCS\") for $700 million. This marks the culmination of a five-year successful partnership with Coastal, during which the Company more than quadrupled in size while maintaining best in class profitability and solidified its market leadership as one of the largest and fa",
+      "published_utc": "2025-12-10T16:25:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=39867e5c1e89f8aaef4e64a8d6286b7aeaccb445a400c3afa98cf4d14ccac181",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137755952,
+      "datetime": 1765401900
+    },
+    {
+      "title": "Stock Market Today: Dow Rises, Powell Sees No 'Risk-Free Path' After Rate Cut; Palantir Jumps (Live Coverage)",
+      "description": "Stock Market Today: The Dow Jones index rises Wednesday after the Fed rate cut. Microsoft stock sold off.",
+      "published_utc": "2025-12-10T14:52:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0f97b1a56d8f8edb0f1a05ae0c5fc71f4373a24b1488febd7574da9c6630eaa0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137749633,
+      "datetime": 1765396355
+    },
+    {
+      "title": "3 Key Reasons to Buy Five9 Stock Beyond the 49% Decline in a Year",
+      "description": "FIVN's underperformance contrasts with accelerating AI adoption, stronger bookings and a platform advantage built on deep conversational data.",
+      "published_utc": "2025-12-10T12:11:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c7e6f4ea558814a5420ba303bd59540feb8369a94721ce366fd4d018be11e221",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137750067,
+      "datetime": 1765386660
+    },
+    {
+      "title": "Salesforce Inc. stock outperforms competitors on strong trading day",
+      "description": "Salesforce Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-12-10T11:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=fdf0de85e833eb3d1bfbca8bc4ecd8d9d08d171ad2c460d28eeae308e969f469",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137761474,
+      "datetime": 1765384320
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:25:04.391428+00:00",
+    "cache_key": "news_8cd1284822984b9a8a442d97a12b3940",
+    "count": 5
+  }
+}

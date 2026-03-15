@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Berkshire Hathaway Has Had a Tough Summer. Will It Get a Buffett Swansong Boost?",
+      "description": "Warren Buffett isn’t used to lagging behind the market.  The billionaire’s  Berkshire Hathaway  investment group has firmly outpaced the  over the past five years, and has delivered staggering returns since he began converting it from a textile company into an acquisition machine in the mid-1960s.  Buffett, who turns 95 later this month, announced his effective retirement last spring by naming Greg Abel, a longtime Berkshire colleague, as his successor.",
+      "published_utc": "2025-08-20T18:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=638687b2a5d3253e9c78c56268b32c6c1e2262e5ee23d25f405c8b1502f7d371",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136450351,
+      "datetime": 1755727200
+    },
+    {
+      "title": "Tracking Jeremy Grantham's GMO Capital Portfolio - Q2 2025 Update",
+      "description": "GMOâs 13F portfolio grew to $33.23B in Q2 2025, with Microsoft, Meta, Alphabet, Oracle, and Apple as top holdings. Read more about the portfolio here.",
+      "published_utc": "2025-08-20T17:48:59",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1752da494c03f4d1c83d55ee99d4a662014fa49c4d61c67a181e3e504c898d52",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136449150,
+      "datetime": 1755726539
+    },
+    {
+      "title": "WW International: Slimmed Down And Poised For Recovery",
+      "description": "WW International surpasses Q2 estimates but faces sell-off due to guidance concerns. It trades at a low 4.4x EV/EBITDA. See more on WW stock here.",
+      "published_utc": "2025-08-20T17:32:25",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4804c9fb41bcfa83e269f4880394b7e8d299ae1ca17a68bbe989bc5b1c2c74d3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/458295429/image_458295429.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136449027,
+      "datetime": 1755725545
+    },
+    {
+      "title": "UnitedHealth Group Names Lead Independent Director",
+      "description": "Health-insurance giant said it was making a number of governance changes, including the appointment of a new lead independent director and the formation of a public responsibility committee.",
+      "published_utc": "2025-08-20T16:38:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2bb75d00179a73f734f1d19c22a9c7af41c362b0be8e777b4554abe5a3a17e09",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136450352,
+      "datetime": 1755722280
+    },
+    {
+      "title": "Trump Worth More Than $5 Billion After $100 Million In Bond Purchases While In Office",
+      "description": "President Donald Trump has purchased more than $100 million worth of bonds since taking office in January",
+      "published_utc": "2025-08-20T14:54:16",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=efcb082eae1238f4578a1d91d31ab9d4ac985f4534c0190e04731bddef18fb40",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/08/20/Wilkes-barre--Pa---August-2--2018-Presid.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138595153,
+      "datetime": 1755716056
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:31:25.689831+00:00",
+    "cache_key": "news_6127dc960e6d746ac054e5c6487a56d0",
+    "count": 5
+  }
+}

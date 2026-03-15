@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Wells Fargo Stock Is Soaring After It Reported Earnings. Here's What Investors Need to Know.",
+      "description": "The megabank looks to be an early winner of the earnings season.",
+      "published_utc": "2025-10-18T13:22:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0bf378ffae2a3a156851b4762b1a9c305a70c6c7806db2dfa962526acb49dcb9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137164257,
+      "datetime": 1760808120
+    },
+    {
+      "title": "The Weekend: IMF warns of global debt emergency as Reeves grapples with slowing jobs market",
+      "description": "Key moments from the last seven days, plus a glimpse at the week ahead.",
+      "published_utc": "2025-10-18T08:58:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e2f3bc563d4600745782d4091a803a740fa1d301bfc42cf9befa1a6aca6d07a7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137164157,
+      "datetime": 1760792331
+    }
+  ]
+}

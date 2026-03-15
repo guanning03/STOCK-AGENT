@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "BlackRock & Goldman Sachs Beat Q3 Expectations and Post Record AUM",
+      "description": "BlackRock and Goldman Sachs helped highlight Tuesday's earnings lineup after exceeding their Q3 expectations and hitting records in assets under management (AUM).",
+      "published_utc": "2025-10-14T19:17:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=82fa50a03965e842c0ec9fffd85d8b565b09ac38e7908f34fa4e8d6a595e4dec",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137094040,
+      "datetime": 1760483820
+    },
+    {
+      "title": "Goldman Sachs (GS) Profit Margin Surges to 27.5%, Reinforcing Bullish Community Narratives",
+      "description": "Goldman Sachs (GS) posted a net profit margin of 27.5%, a notable rise from last year’s 23.1%, signaling a meaningful lift in profitability. Earnings leapt 38.2% over the past year, a sharp turnaround compared to the company’s five-year annual average earnings decline of 3.6% per year. Investors are likely to view the combination of stronger margins, substantial recent growth, and a comparatively low 15.5x Price-To-Earnings ratio as constructive, especially as the company’s rate of growth is...",
+      "published_utc": "2025-10-14T18:11:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=20b8ae1d704e0ed71568fa3d1ba86fd455723aa815e6e8887ff57884c8c99fe3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137094041,
+      "datetime": 1760479909
+    },
+    {
+      "title": "These Stocks Moved the Most Today: JPMorgan, Wells Fargo, Goldman, AMD, Walmart, J&J, Navitas, Polaris, and More",
+      "description": "JPMorgan Chase, Wells Fargo, and Goldman Sachs post quarterly earnings that top Wall Street estimates.",
+      "published_utc": "2025-10-14T17:06:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b55faaa9e4c06da13f373ceefba17cb850df467b4819380c6d34d1ed6aa93831",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137089672,
+      "datetime": 1760475960
+    },
+    {
+      "title": "Nasdaq, S&P 500 Fall as Trump Threatens China With Cooking Oil Purchase Ban",
+      "description": "The Nasdaq Composite and the S&P 500 declined on Tuesday after President Donald Trump threatened to",
+      "published_utc": "2025-10-14T17:04:34",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0db77c8f1c9f7c7329502b72b519469babc0d9c92e9118b4ee83be2b6315fae4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137088733,
+      "datetime": 1760475874
+    },
+    {
+      "title": "Review and Preview: Stocks Get Seared",
+      "description": "Review and Preview: Stocks Get Seared",
+      "published_utc": "2025-10-14T16:02:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=356eeb94ca08c1750831486e7c9401d398f58f6aa08d7005b97138aba0c648f0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137108991,
+      "datetime": 1760472120
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:19:25.471149+00:00",
+    "cache_key": "news_b3257975132a887d4c4189e7b93dd6da",
+    "count": 5
+  }
+}

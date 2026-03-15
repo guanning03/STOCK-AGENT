@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today: Dow Loses 400 Points Amid U.S.-Iran Battle; Palantir Climbs As Nvidia Slips (Live Coverage)",
+      "description": "Stock Market Today: The Dow Jones index sinks Tuesday as U.S.-Iran conflict heats up. Palantir rose.",
+      "published_utc": "2026-03-03T16:28:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4a004fdebeb8e147ffb658a31f769e6726e5c3ff0167295582cc186e4e75601b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139291138,
+      "datetime": 1772573288
+    },
+    {
+      "title": "Terex, Caterpillar, Littelfuse, Flowserve, and AAON Stocks Trade Down, What You Need To Know",
+      "description": "A number of stocks fell in the afternoon session after geopolitical tensions in the Middle East sent crude oil prices soaring, stoking fears of resurgent inflation.",
+      "published_utc": "2026-03-03T16:12:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f3836bbd9a42dbc61efe0d4ef28b00ccf79c2bf9e79f7650dd0d44813bffbcf6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139291224,
+      "datetime": 1772572362
+    },
+    {
+      "title": "TRIMAX Power Systems Announces the Appointment of Josh Rutledge as Executive Vice President, Power Generation Systems",
+      "description": "TRIMAX Power Systems, a rapidly expanding provider of decommissioned, repackaged, and remarketed stationary and modular backup energy generation systems, today announced the hiring of Josh Rutledge as Executive Vice President, Power Generation Systems. The company is a Miami-based subsidiary of private equity–backed TRIMAX Holdings, a Wyoming limited liability company.",
+      "published_utc": "2026-03-03T15:38:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a038995617f340e8eac9df78b6ec6c1c6ec698a9da31961432c487395dfe4617",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139291225,
+      "datetime": 1772570280
+    },
+    {
+      "title": "Caterpillar: Powering The AI Economy, Shares Fairly Valued (Rating Downgrade)",
+      "description": "Caterpillar stock is up 250% in 5 years as its Power & Energy unit rides the data center boom. Click for this updated look at CAT stock prospects.",
+      "published_utc": "2026-03-03T13:59:01",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9899940aae1c04d55679b85d73d5c17a818d0819ae740c903dcbf087155ab7c3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/530008866/image_530008866.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139291995,
+      "datetime": 1772564341
+    },
+    {
+      "title": "Stock Market Today: Dow Cuts Losses Over U.S.-Iran; These Oil Firms Move Up (Live Coverage)",
+      "description": "Stock Market Today: The Dow Jones index dives Tuesday as U.S.-Iran conflict heats up. Two oil names rally.",
+      "published_utc": "2026-03-03T13:33:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ff620ccceda6f8e4b31c86a11960bfd074178699fdd67804bc8d5f8c48464c2a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139290560,
+      "datetime": 1772562832
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:58:41.985709+00:00",
+    "cache_key": "news_c181a0bcfd3cc6534444f24b01cc7ccd",
+    "count": 5
+  }
+}

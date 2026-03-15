@@ -1,0 +1,364 @@
+{
+  "items": [
+    {
+      "id": "ee752b0f7821b55d229aba40c98626291e2ba31038fdf4d007d33ea96f2679fd",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "American Express: Buy, Sell, or Hold?",
+      "author": "Justin Pope",
+      "published_utc": "2025-01-11T23:32:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/11/american-express-buy-sell-or-hold/?source=iedfolrf0000001",
+      "tickers": [
+        "AXP"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803285/business-credit-card.jpg",
+      "description": "American Express, a leading credit card company, has seen its stock price surge by almost 60% over the past year, driven by strong business momentum and the growing consumer debt in the US. The article analyzes whether the stock is still a good investment, considering its valuation and potential risks.",
+      "keywords": [
+        "American Express",
+        "credit card",
+        "consumer debt",
+        "stock valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights American Express's strong brand, innovative approach, and ability to capture value throughout the lending process. It also notes the company's pursuit of 10% annualized revenue growth and analysts' estimates of 14% average annual earnings growth over the next 3-5 years, making it a solid long-term investment."
+        }
+      ]
+    },
+    {
+      "id": "02a99b97621928eae9ffdc3b51fccf08a545719430bcf582e9f9221cf636cd37",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Berkshire Hathaway: Buy, Sell, or Hold?",
+      "author": "Justin Pope",
+      "published_utc": "2025-01-11T23:14:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/11/berkshire-hathaway-buy-sell-or-hold/?source=iedfolrf0000001",
+      "tickers": [
+        "BRK.A",
+        "BRK.B",
+        "AAPL",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK",
+        "AXP",
+        "KO"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803284/brk-10.jpg",
+      "description": "Berkshire Hathaway, Warren Buffett's holding company, has created significant wealth over the decades. However, its current high valuation relative to historical norms makes it a less attractive buy today, despite its strong track record. Investors should consider holding on to the stock if they already own it, but may want to wait for a more favorable valuation before making a new investment.",
+      "keywords": [
+        "Berkshire Hathaway",
+        "Warren Buffett",
+        "holding company",
+        "valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "BRK.A",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article suggests that Berkshire Hathaway's current high valuation relative to historical norms makes it less attractive as a buy, despite its strong track record. However, the article also notes that it is a clear winner and an excellent stock to hold in a diversified portfolio, so a neutral sentiment is appropriate."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article suggests that Berkshire Hathaway's current high valuation relative to historical norms makes it less attractive as a buy, despite its strong track record. However, the article also notes that it is a clear winner and an excellent stock to hold in a diversified portfolio, so a neutral sentiment is appropriate."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Apple, which is one of its notable investments. This suggests a positive sentiment towards Apple as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Bank of America, which is one of its notable investments. This suggests a positive sentiment towards Bank of America as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Bank of America, which is one of its notable investments. This suggests a positive sentiment towards Bank of America as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Bank of America, which is one of its notable investments. This suggests a positive sentiment towards Bank of America as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Bank of America, which is one of its notable investments. This suggests a positive sentiment towards Bank of America as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Bank of America, which is one of its notable investments. This suggests a positive sentiment towards Bank of America as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Bank of America, which is one of its notable investments. This suggests a positive sentiment towards Bank of America as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Bank of America, which is one of its notable investments. This suggests a positive sentiment towards Bank of America as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Bank of America, which is one of its notable investments. This suggests a positive sentiment towards Bank of America as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Bank of America, which is one of its notable investments. This suggests a positive sentiment towards Bank of America as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Bank of America, which is one of its notable investments. This suggests a positive sentiment towards Bank of America as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Bank of America, which is one of its notable investments. This suggests a positive sentiment towards Bank of America as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Bank of America, which is one of its notable investments. This suggests a positive sentiment towards Bank of America as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Bank of America, which is one of its notable investments. This suggests a positive sentiment towards Bank of America as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Bank of America, which is one of its notable investments. This suggests a positive sentiment towards Bank of America as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Bank of America, which is one of its notable investments. This suggests a positive sentiment towards Bank of America as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Bank of America, which is one of its notable investments. This suggests a positive sentiment towards Bank of America as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in American Express, which is one of its notable investments. This suggests a positive sentiment towards American Express as part of Berkshire Hathaway's portfolio."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway has a stake in Coca-Cola, which is one of its notable investments. This suggests a positive sentiment towards Coca-Cola as part of Berkshire Hathaway's portfolio."
+        }
+      ]
+    },
+    {
+      "id": "fcd599534704576d76533e6bc0aa78e49d11dff8803db8952d695ddf0d1c268d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Better Warren Buffett Stock: Chevron vs. American Express",
+      "author": "Reuben Gregg Brewer",
+      "published_utc": "2025-01-11T16:05:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/11/better-warren-buffett-stock-chevron-vs-american-ex/?source=iedfolrf0000001",
+      "tickers": [
+        "AXP",
+        "CVX"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803146/24_12_05-a-closeup-of-warren-buffett-_mf-dload-source-motley-fol-buffett13-tmf.jpg",
+      "description": "The article compares the investment prospects of American Express and Chevron, two stocks owned by Warren Buffett's Berkshire Hathaway. While American Express has seen its stock price double since late 2023, it now looks expensive. Chevron, on the other hand, offers a higher dividend yield and has not seen a similar price surge, making it potentially more attractive for income investors.",
+      "keywords": [
+        "American Express",
+        "Chevron",
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "dividend",
+        "valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "AXP",
+          "sentiment": "negative",
+          "sentiment_reasoning": "American Express's stock price has roughly doubled since the end of 2023, making it look expensive based on traditional valuation metrics. The company's price-to-sales and price-to-earnings ratios are significantly higher than their historical averages, and its dividend yield is near its lowest levels in the past decade."
+        },
+        {
+          "ticker": "CVX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Chevron offers a higher dividend yield of 4.4%, which has been in the top half of the range over the past decade. The company has also increased its dividend annually for 37 consecutive years, demonstrating its ability to navigate the volatility of the energy sector. While Chevron's stock price has not seen a significant surge like American Express, it may be more attractive for income investors."
+        }
+      ]
+    },
+    {
+      "id": "bc1d853bc9c599ae28bca06a7380936510222c9f4c94116aefefe5f345d5ac8b",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "2 Warren Buffett Stocks to Buy Hand Over Fist in January",
+      "author": "Motley Fool",
+      "published_utc": "2025-01-11T13:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/11/2-warren-buffett-stocks-to-buy-hand-over-fist-in/?source=iedfolrf0000001",
+      "tickers": [
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK",
+        "AXP",
+        "BRK.A",
+        "BRK.B"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803266/analyst_analyzing_stock_charts_on_three_desktop_screens.jpg",
+      "description": "The article discusses the investment potential of Bank of America and American Express, two stocks that are part of Berkshire Hathaway's portfolio. It highlights the positive outlook for Bank of America's financials and American Express' strong customer base and product strategy.",
+      "keywords": [
+        "Bank of America",
+        "American Express",
+        "Berkshire Hathaway",
+        "investing"
+      ],
+      "insights": [
+        {
+          "ticker": "BAC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Bank of America's strong financial position, improving macroeconomic environment, and growth in key business lines, which could drive up its share prices in 2025."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Bank of America's strong financial position, improving macroeconomic environment, and growth in key business lines, which could drive up its share prices in 2025."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Bank of America's strong financial position, improving macroeconomic environment, and growth in key business lines, which could drive up its share prices in 2025."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Bank of America's strong financial position, improving macroeconomic environment, and growth in key business lines, which could drive up its share prices in 2025."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Bank of America's strong financial position, improving macroeconomic environment, and growth in key business lines, which could drive up its share prices in 2025."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Bank of America's strong financial position, improving macroeconomic environment, and growth in key business lines, which could drive up its share prices in 2025."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Bank of America's strong financial position, improving macroeconomic environment, and growth in key business lines, which could drive up its share prices in 2025."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Bank of America's strong financial position, improving macroeconomic environment, and growth in key business lines, which could drive up its share prices in 2025."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Bank of America's strong financial position, improving macroeconomic environment, and growth in key business lines, which could drive up its share prices in 2025."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Bank of America's strong financial position, improving macroeconomic environment, and growth in key business lines, which could drive up its share prices in 2025."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Bank of America's strong financial position, improving macroeconomic environment, and growth in key business lines, which could drive up its share prices in 2025."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Bank of America's strong financial position, improving macroeconomic environment, and growth in key business lines, which could drive up its share prices in 2025."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Bank of America's strong financial position, improving macroeconomic environment, and growth in key business lines, which could drive up its share prices in 2025."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Bank of America's strong financial position, improving macroeconomic environment, and growth in key business lines, which could drive up its share prices in 2025."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Bank of America's strong financial position, improving macroeconomic environment, and growth in key business lines, which could drive up its share prices in 2025."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Bank of America's strong financial position, improving macroeconomic environment, and growth in key business lines, which could drive up its share prices in 2025."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article cites American Express' premium customer base, successful product refresh strategy, and reasonable valuation as reasons for it being an attractive investment option in 2025."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway sold a significant number of Bank of America shares in 2024, but still maintains a substantial stake in the company."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway sold a significant number of Bank of America shares in 2024, but still maintains a substantial stake in the company."
+        }
+      ]
+    }
+  ]
+}

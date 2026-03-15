@@ -1,0 +1,121 @@
+{
+  "items": [
+    {
+      "title": "3 Top Quantum Computing Stocks to Buy in 2025",
+      "description": "These stocks will be huge winners if they play their qubits right.",
+      "published_utc": "2025-08-23T05:50:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=46a14e3ccc6f3b61c2dc742d80ea1055eccfb36858642405fdabb1c23bbe37a1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136495948,
+      "datetime": 1755942600
+    },
+    {
+      "title": "3 Dividend Stocks to Double Up on Right Now",
+      "description": "Reliable dividends, high yields, and solid growth prospects are shared by these three stocks.",
+      "published_utc": "2025-08-23T05:50:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=45f853bb5146987ebc7a606c8cbe0114e72e55599119d83685b8c2979bc7bb6f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136496109,
+      "datetime": 1755942600
+    },
+    {
+      "title": "IBM and NASA Unveil “Surya,” AI Model to Predict Solar Storms",
+      "description": "International Business Machines Corporation (NYSE:IBM) is one of the Trending AI Stocks on Wall Street. On August 20, IBM and NASA revealed the most advanced open-source foundation model developed to understand high resolution solar observation data and predict solar activity impacts on Earth and space-based technology. “Surya” applies artificial intelligence to solar image interpretation and space […]",
+      "published_utc": "2025-08-22T21:45:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fe4256091984b75bc5db47d8eb280e1bb06df6d77a41ca0218046020368ceb25",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136496111,
+      "datetime": 1755913552
+    },
+    {
+      "id": "3c1a88dd41d3d3dcabcdcb2a2106d058443f2b9358821250829071892802b398",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Next Artificial Intelligence (AI) Evolution Could Send This Quantum Computing Stock Soaring",
+      "author": "James Brumley",
+      "published_utc": "2025-08-23T14:24:00Z",
+      "article_url": "https://www.fool.com/investing/2025/08/23/the-next-artificial-intelligence-ai-evolution-coul/?source=iedfolrf0000001",
+      "tickers": [
+        "QUBT",
+        "NVDA",
+        "RGTI",
+        "RGTIW",
+        "IONQ",
+        "IONQ.WS",
+        "IBM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/829254/laser-technology.jpg",
+      "description": "Quantum Computing, a small quantum technology company, is developing unique photonic qubit systems that can operate at room temperature, potentially revolutionizing quantum computing with more affordable and accessible technology.",
+      "keywords": [
+        "quantum computing",
+        "AI",
+        "photonic qubits",
+        "technology innovation"
+      ],
+      "insights": [
+        {
+          "ticker": "QUBT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Despite being in early stages with minimal revenue, the company shows promising technology with unique room-temperature photonic qubit systems, potential for miniaturization, and partnerships with prestigious organizations like NASA"
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a current AI hardware provider with impressive technology, but potentially limited by silicon and binary computing constraints"
+        },
+        {
+          "ticker": "RGTI",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a quantum computing competitor with more expensive systems compared to Quantum Computing"
+        },
+        {
+          "ticker": "RGTIW",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a quantum computing competitor with more expensive systems compared to Quantum Computing"
+        },
+        {
+          "ticker": "IONQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as another quantum computing competitor without significant detailed analysis"
+        },
+        {
+          "ticker": "IONQ.WS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as another quantum computing competitor without significant detailed analysis"
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Referenced for quantum computing platform rental rates, with no specific positive or negative commentary"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:37:19.029323+00:00",
+    "cache_key": "news_9a8029282a41e965645e603211bd22ff",
+    "count": 4
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Earnings live: UnitedHealth stock falls 19%, American Airlines slides, Texas Instruments pops, Logitech edges higher",
+      "description": "The fourth quarter earnings season kicks into high gear this week, with Big Tech results from Microsoft, Meta, Tesla, and Apple headlining the earnings calendar.",
+      "published_utc": "2026-01-27T16:39:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=96299e8855b4628084e5315469274d410c381b787cf51b84eaea29ea9c786ef2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138275253,
+      "datetime": 1769549981
+    },
+    {
+      "title": "Caterpillar is Set to Report Q4 Earnings: Buy, Sell or Hold the Stock?",
+      "description": "CAT's Q4 earnings are set to decline for the sixth straight quarter, with weaker pricing and higher costs pressuring results despite higher volumes.",
+      "published_utc": "2026-01-27T12:54:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d334c7f959a371895d82e2ed04b659afdd42d708536d69eedd0b2182e89894ff",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138274007,
+      "datetime": 1769536440
+    },
+    {
+      "title": "Earnings live: UnitedHealth stock tumbles, UPS and General Motors rise",
+      "description": "The fourth quarter earnings season kicks into high gear this week, with Big Tech results from Microsoft, Meta, Tesla, and Apple headlining the earnings calendar.",
+      "published_utc": "2026-01-27T08:07:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0feeb47f0747b3a4209e56e8602e8c46de03ca91f95310e540cb95037240cd92",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138269983,
+      "datetime": 1769519249
+    },
+    {
+      "title": "Jefferies Maintains Buy on Caterpillar, Raises Price Target to $750",
+      "description": "Jefferies  analyst Stephen Volkmann   maintains Caterpillar (NYSE:CAT) with a Buy and raises the price target from $700 to $750.",
+      "published_utc": "2026-01-27T06:11:18",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=1b597076ed7d449f90472b04d48fa6ef627d76229c0796d768fbfb5a2c6d97dd",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138929341,
+      "datetime": 1769512278
+    },
+    {
+      "title": "Jim Cramer on Caterpillar: “In the Old Days, CAT Usually Went Down on Earnings, That’s Over”",
+      "description": "Caterpillar Inc. (NYSE:CAT) is one of the stocks in focus as Jim Cramer shared his weekly game plan. Cramer was bullish on the company stock as he remarked: We talk a lot about ancillary data center plays, which means Caterpillar, which has backup generators that are needed to keep these server farms running. In the […]",
+      "published_utc": "2026-01-26T21:33:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c2cc45db9ffd9fbca30a2efded078b69736f9e6c987f09335b01ca58c00f0f38",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138266490,
+      "datetime": 1769481200
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:08:42.289797+00:00",
+    "cache_key": "news_5236160759be75f82bd34257671f4f5f",
+    "count": 5
+  }
+}

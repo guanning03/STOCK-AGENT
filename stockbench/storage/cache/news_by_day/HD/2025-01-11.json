@@ -1,0 +1,78 @@
+{
+  "items": [
+    {
+      "id": "cbd21c70ebc32a4f0b5e5d45c36f6f77b4451fd8a625087b329aeb6160067809",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Best Stock to Buy Right Now: Costco vs. Home Depot",
+      "author": "Neil Patel",
+      "published_utc": "2025-01-11T13:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/11/best-stock-to-buy-now-costco-vs-home-depot/?source=iedfolrf0000001",
+      "tickers": [
+        "COST",
+        "HD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803040/two-traders-looking-at-a-chart.jpg",
+      "description": "Costco and Home Depot are two leading retail companies with strong market positions and long-term potential. While Costco has reported solid financial results, its current valuation is high, making Home Depot the better buy at the moment.",
+      "keywords": [
+        "Costco",
+        "Home Depot",
+        "retail stocks",
+        "valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "COST",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Costco is a dominant player in the warehouse club industry, with a strong membership base and high customer retention. The company has been reporting solid financial results and is expected to have long-term staying power."
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Home Depot is the clear leader in the home improvement industry, which has long-term growth potential due to an aging housing stock and a shortage of housing inventory. While the company has faced some challenges recently, its current valuation makes it the better buy compared to Costco."
+        }
+      ]
+    },
+    {
+      "id": "bedb6183cfb601d925df0baebf5969d333b1e4d8b97638762300d1b4d39c7253",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Have $500? 2 Absurdly Cheap Stocks Long-Term Investors Should Buy Right Now",
+      "author": "Lawrence Rothman, Cfa",
+      "published_utc": "2025-01-11T09:32:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/11/have-500-2-absurdly-cheap-stocks-long-term-investo/?source=iedfolrf0000001",
+      "tickers": [
+        "ULTA",
+        "HD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802961/gettyimages-483562851-1200x834-a844512.jpg",
+      "description": "The article discusses two undervalued stocks, Ulta Beauty and Home Depot, that have underperformed the S&P 500 but present buying opportunities for long-term investors. Ulta Beauty's stock is trading at a lower P/E ratio compared to its historical average and the S&P 500, while Home Depot's stock is also trading at a discount to the broader market despite the recent slowdown in home improvement projects.",
+      "keywords": [
+        "Ulta Beauty",
+        "Home Depot",
+        "undervalued stocks",
+        "long-term investing"
+      ],
+      "insights": [
+        {
+          "ticker": "ULTA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Ulta Beauty's stock is undervalued, trading at a P/E ratio of 17 compared to its historical median of 27 and the S&P 500's P/E of 30. The company's broad product offerings and ability to weather inflationary pressures make it an attractive investment opportunity for long-term investors."
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article indicates that Home Depot's stock is trading at a discount to the S&P 500, with a P/E ratio of 26 compared to the broader market's 30. The company is well-positioned to benefit from the eventual recovery in the housing market and home improvement projects, making it a compelling investment for long-term investors."
+        }
+      ]
+    }
+  ]
+}

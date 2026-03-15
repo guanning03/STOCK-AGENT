@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Visa Stock Analysis: A Great Business, But Already Priced for Perfection",
+      "description": "Strong Fundamentals, Limited Upside?",
+      "published_utc": "2025-11-30T10:39:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f9e934f82e66b4affdcf0593fd72fb18678c9e2b8bc6ad6e3e73065bbbe4b206",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137649840,
+      "datetime": 1764517143
+    },
+    {
+      "title": "Klarna's Crypto Play: A Plan to Fix Its Profit Problem",
+      "description": "Klarna's launch of a stablecoin is a strategic pivot to lower transaction costs and challenge legacy payment networks, signaling a new era for fintech.",
+      "published_utc": "2025-11-30T08:36:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3e72890b33bb789649e9ec3237406aa00424668d6a15559003d1cc03e241452a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137662197,
+      "datetime": 1764509760
+    },
+    {
+      "title": "How much money you need to be in the wealthiest 10% of Americans",
+      "description": "You need nearly $2 million in net worth to be considered part of the wealthiest 10% of Americans.",
+      "published_utc": "2025-11-30T04:00:01",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=07b861706cbf1c8e3f6ea59e28a5c36f6e55cb3cb2aaec0c969c765f47f2081b",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108232661-1764180905965-gettyimages-685046336-img_0743.jpeg?v=1764180991&w=1920&h=1080",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137645181,
+      "datetime": 1764493201
+    },
+    {
+      "title": "Potentially 12%-15% Consistent Income: Monthly Options Series (December 2025)",
+      "description": "Selling options can generate annual income but requires discipline, risk management, and due diligence. Read more about one strategy.",
+      "published_utc": "2025-11-30T03:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f125926d5022926af4b125d79d427b2173f118d0833eb2bac26ac3a62d71a226",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/803420378/image_803420378.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137643761,
+      "datetime": 1764491400
+    },
+    {
+      "title": "Visa: Don't Miss Out On This Dividend Growth Company",
+      "description": "Last month, Visa boosted its quarterly payout by 13.6%, inching closer to becoming a Dividend Aristocrat. Read why I'm standing by my Buy rating for V stock.",
+      "published_utc": "2025-11-30T02:00:28",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0b01cfa538acf5cfc91230ad5c0b384fac6d4d8b34f55613d14946fd3f2f2143",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/665585002/image_665585002.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137643171,
+      "datetime": 1764486028
+    }
+  ]
+}

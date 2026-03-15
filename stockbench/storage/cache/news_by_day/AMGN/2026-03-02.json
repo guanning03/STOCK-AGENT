@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "id": "087a159823c02d2b1981d7f17ad9ea4e37f07d69a2f48b8b94af9bf28cc6c3dd",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "A Couple's Financial Manifesto, Revisited",
+      "author": "Motley Fool Staff",
+      "published_utc": "2026-03-02T16:19:00Z",
+      "article_url": "https://www.fool.com/investing/2026/03/02/a-couples-financial-manifesto-revisited/?source=iedfolrf0000001",
+      "tickers": [
+        "MSFT",
+        "HD",
+        "CAT",
+        "AMGN",
+        "SHW",
+        "AXP"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F856651%2Fa-couples-financial-manifesto-revisited.jpg&w=1200&op=resize",
+      "description": "Robert Brokamp and his wife Elizabeth revisit their financial manifesto written 26 years ago, discussing five key principles for managing money as a couple: prioritizing long-term goals, tracking spending, controlling food costs, finding savings opportunities, and regular financial check-ins. They reflect on what worked well, areas for improvement, and offer advice for couples seeking financial harmony.",
+      "keywords": [
+        "financial manifesto",
+        "couple finances",
+        "money management",
+        "budgeting",
+        "financial planning",
+        "spending tracking",
+        "long-term goals",
+        "marital finances"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a top holding in the Dow Jones Industrial Average with approximately 5% allocation. Included in context of index composition rather than company-specific analysis."
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed as a top Dow holding with approximately 5% allocation. Referenced only as part of index discussion without company-specific commentary."
+        },
+        {
+          "ticker": "CAT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as second-largest Dow holding at 9%, benefiting from allocation to industrials sector. Included in index composition context without specific company analysis."
+        },
+        {
+          "ticker": "AMGN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed as a top Dow holding with approximately 5% allocation. Mentioned only in context of index holdings without company-specific evaluation."
+        },
+        {
+          "ticker": "SHW",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Included as a top Dow holding with approximately 5% allocation. Referenced as part of index composition without specific company analysis."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed as a top Dow holding with approximately 5% allocation. Mentioned in index context and noted as an advertising partner, but without company-specific commentary."
+        }
+      ]
+    },
+    {
+      "title": "Amgen Inc. (AMGN) Presents at TD Cowen 46th Annual Health Care Conference Transcript",
+      "description": "Amgen Inc. (AMGN) TD Cowen 46th Annual Health Care Conference March 2, 2026 1:10 PM ESTCompany ParticipantsKave Niksefat - Senior Vice President of Global...",
+      "published_utc": "2026-03-02T13:07:46",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d2ba9e978dff535a238e0fcc95bea932e0883fa6e437da5616af5d0d0440eb75",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139280982,
+      "datetime": 1772474866
+    }
+  ]
+}

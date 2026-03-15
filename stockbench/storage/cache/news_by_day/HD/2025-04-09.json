@@ -86,6 +86,21 @@
           "sentiment_reasoning": "The article lists Home Depot as one of Prologis' major tenants, but does not offer any commentary on the company."
         }
       ]
+    },
+    {
+      "title": "Shares of consumer discretionary stocks are trading higher after President Trump issued a 90-day pause on reciprocal tariffs for all countries except China, which may reduce risks towards the consumer economy.",
+      "description": "",
+      "published_utc": "2025-04-09T09:53:44",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=b26b479f16fa61617c30d5cb144279473702e8bcb5595a210ddd902a1bbc1579",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138408771,
+      "datetime": 1744206824
     }
   ]
 }

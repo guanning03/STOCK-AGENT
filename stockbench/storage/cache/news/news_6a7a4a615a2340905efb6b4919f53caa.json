@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "id": "35ff621c2375547303c3fab3753253f7d191010b62ea2cc9ccda194d101c1a8e",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Should I Buy Lowe's Stock?",
+      "author": "Will Healy",
+      "published_utc": "2024-12-01T12:15:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/01/should-i-buy-lowes-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "LOW",
+        "HD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799240/couple-looking-at-paint-color-options.jpg",
+      "description": "Lowe's Companies is the second-largest home improvement retailer, but its growth potential is limited due to market saturation. While it offers a solid dividend yield, its stock is unlikely to outperform the broader market. Investors should treat Lowe's as a hold, focusing on the steady dividend rather than expecting significant capital appreciation.",
+      "keywords": [
+        "Lowe's Companies",
+        "home improvement",
+        "dividend",
+        "value stock",
+        "growth potential"
+      ],
+      "insights": [
+        {
+          "ticker": "LOW",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article suggests that Lowe's is a value stock with limited growth potential due to market saturation. While it offers a solid dividend yield, the stock is unlikely to outperform the broader market, leading to a neutral sentiment."
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Home Depot as Lowe's larger rival in the home improvement retail industry, but does not provide any specific insights or sentiment about the company."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T18:41:24.998504+00:00",
+    "cache_key": "news_6a7a4a615a2340905efb6b4919f53caa",
+    "count": 1
+  }
+}

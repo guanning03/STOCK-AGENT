@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Stock market today: S&P 500, Nasdaq futures rise as Dow lags with Fed meeting, GM earnings on deck",
+      "description": "Tech stocks are a bright spot as tariffs, healthcare, and political insecurity weigh on investors.",
+      "published_utc": "2026-01-26T18:57:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ae062b61506ac6c35a7aca4b45a840b6a0fe9ad90a378f413671cef1c91541ac",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138268621,
+      "datetime": 1769471826
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise with Fed meeting, Big Tech earnings on deck",
+      "description": "Markets are being dragged in opposite directions, with tech leading an upward charge as tariffs, healthcare, and political insecurity weigh on investors.",
+      "published_utc": "2026-01-26T18:57:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=07c26da7334ac0d191a6276349a77def37a4c846c3bb5ebee19ba3e1323c4cf0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138268086,
+      "datetime": 1769471826
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures mixed with Fed meeting, Big Tech earnings on deck",
+      "description": "Markets are being dragged in opposite directions, with tech leading an upward charge as tariffs, healthcare, and political insecurity weigh on investors.",
+      "published_utc": "2026-01-26T18:57:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=460fe4a507aafa4886ad2778b588c688672fc67b1abe368acf208c4d25ce6fd1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138265404,
+      "datetime": 1769471826
+    },
+    {
+      "title": "Stock Market Today, Jan. 26: CoreWeave Jumps After Nvidia Invests $2 Billion in AI Infrastructure Partnership",
+      "description": "Today, Jan. 26, 2026, investors weigh a deepening AI infrastructure pact against bubble talk for this fast-growing cloud player.",
+      "published_utc": "2026-01-26T17:47:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a0417b4ad2134c5c40e400682ace9190120053b175a52c34f2c0a58a338bc7b1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138265398,
+      "datetime": 1769467627
+    },
+    {
+      "title": "Microsoft And Meta Earnings Preview: Capex Growth Looms Amid AI Investment",
+      "description": "Big tech companies' growing need to invest in technology infrastructure to support generative AI is continuing to raise expectations for capital expenditures in 2026. Read more here.",
+      "published_utc": "2026-01-26T17:25:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=40c0b1649799f1ad1727594f04965b5d1e3349a2106b9f7d6824be16fd587fa8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2215718144/image_2215718144.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138266388,
+      "datetime": 1769466300
+    }
+  ]
+}

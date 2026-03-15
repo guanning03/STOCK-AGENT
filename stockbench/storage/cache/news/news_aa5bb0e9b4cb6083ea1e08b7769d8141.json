@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Earnings live: Tesla stock falls after earnings miss, IBM sinks",
+      "description": "Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.",
+      "published_utc": "2025-10-22T16:35:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dfaa6cf3bc8a7f8e4c6cf44e24367dafdecec51dd5d3c93cb7ab543ec79b815f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137191825,
+      "datetime": 1761165308
+    },
+    {
+      "title": "HONEYWELL ANNOUNCES UPDATED BUSINESS SEGMENT STRUCTURE AHEAD OF AEROSPACE SPIN-OFF",
+      "description": "Honeywell (NASDAQ: HON) today announced its updated business segment structure ahead of the planned separation of its Aerospace Technologies business, expected in the second half of 2026, and its Solstice Advanced Materials business, expected to be completed on October 30, 2025.",
+      "published_utc": "2025-10-22T16:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4c4ff256a144322005673b953d7861ca6a647b9276d768d90f1d4fec89aaac50",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137192042,
+      "datetime": 1761164100
+    },
+    {
+      "title": "Honeywell International Inc. stock outperforms competitors despite losses on the day",
+      "description": "Honeywell International Inc. stock outperforms competitors despite losses on the day",
+      "published_utc": "2025-10-22T12:36:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=598365125f55cbc35739f0f9e5b247348298074993eaf2ba7a8176d2ec8ffb0e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137252398,
+      "datetime": 1761150960
+    },
+    {
+      "title": "Honeywell International Expects To Complete Separation Of Solstice Advanced Materials Business On Oct. 30, Aerospace Technologies Operations In H2 2026",
+      "description": "Honeywell (NASDAQ: HON) today announced its updated business segment structure ahead of the planned separation of its Aerospace Technologies business, expected in the second half of 2026, and its Solstice Advanced",
+      "published_utc": "2025-10-22T12:17:44",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=41e5bcfdb4b9ce5772a0c97c6883aa8fb3bbbf28c688e0cbedc9bb9e5e0d6fa7",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138825755,
+      "datetime": 1761149864
+    },
+    {
+      "title": "Earnings live: Netflix stock dives, GE Vernova reverses gains, Hilton rises as Tesla earnings loom",
+      "description": "Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.",
+      "published_utc": "2025-10-22T08:09:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1f9dd8f36265be32d05b6caeab1e83d70e9d4fa4499a9490f8911477e8b53011",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137187842,
+      "datetime": 1761134988
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:49:56.891971+00:00",
+    "cache_key": "news_aa5bb0e9b4cb6083ea1e08b7769d8141",
+    "count": 5
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "The Eternal Debate Over Valuations",
+      "description": "The US stock marketâs performance since the dark days of April has truly been something to behold.",
+      "published_utc": "2025-08-08T22:25:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4dba2a8d95e8ff5f79c0852e23cf63b4d243ac063ac89baa238e78107d88549b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1169722388/image_1169722388.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136275721,
+      "datetime": 1754706300
+    },
+    {
+      "title": "Is It Too Late To Buy Technology?",
+      "description": "Of the 15 Sectors covered in reports by ValuEngine, the Technology sector ranks fourth in expected 12-month price return according to our forecast model. Read more here.",
+      "published_utc": "2025-08-08T21:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=dfad6d0c4ac2c19df0579d8db3abf613c97275d898c706218c3eb6a0e2e44b04",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1309279439/image_1309279439.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136275531,
+      "datetime": 1754703000
+    }
+  ]
+}

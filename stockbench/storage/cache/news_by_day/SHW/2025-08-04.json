@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Sherwin-Williams Co. stock rises Monday, still underperforms market",
+      "description": "Sherwin-Williams Co. stock rises Monday, still underperforms market",
+      "published_utc": "2025-08-04T12:42:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=70c9c909a173eb1ec418803e7a61cd7e536cf290cd4613c177a8e6f6c1768ddf",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136253831,
+      "datetime": 1754325720
+    },
+    {
+      "title": "ExchangeRight Fully Subscribes $62 Million Net-Leased Portfolio 69 DST, Expanding Essential Income REIT Pipeline",
+      "description": "PASADENA, Calif., August 04, 2025--ExchangeRight has announced the full subscription of Net-Leased Portfolio 69 DST, reflecting continued demand for the company’s historically recession-resilient, diversified net-leased offerings that support ExchangeRight’s Essential Income REIT’s growing acquisition pipeline. The $62 million portfolio of net-leased real estate, backed by primarily investment-grade companies operating in necessity-based industries, provides investors with monthly distributions",
+      "published_utc": "2025-08-04T09:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cbd1d55f3ff5a773c556c2da36216b9472489b4c50a8fc475b8f000fd7c52ec9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136198165,
+      "datetime": 1754312400
+    }
+  ]
+}

@@ -1,6 +1,86 @@
 {
   "items": [
     {
+      "title": "Honeywell International Inc. stock underperforms Wednesday when compared to competitors",
+      "description": "Honeywell International Inc. stock underperforms Wednesday when compared to competitors",
+      "published_utc": "2025-04-16T12:37:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=1b3b0976fb233e8a89afdf2ca297038d13c77a0836be01f651477e2b2b209357",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133947851,
+      "datetime": 1744821420
+    },
+    {
+      "title": "Shares of companies within the broader industrial sector are trading lower amid overall market weakness after Fed Chair Powell made remarks at the Economic Club. Stocks across sectors may also be weighed down on trade tension fears after after the United States informed NVIDIA that it may require a license to export chips to China.",
+      "description": "",
+      "published_utc": "2025-04-16T11:09:10",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=989fe5d45d91162a0889faf4ddf940d9178f60a6797e4a1917dce6b6a04ec34a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138474060,
+      "datetime": 1744816150
+    },
+    {
+      "id": "ae9ee72cdf06baf369e6df9231eab3dead7c61bc85f2531080b822e379b4a06c",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Global Aircraft Lighting Market Report 2025-2029: North America Tops the Market with Cutting-edge Innovations",
+      "author": "Na",
+      "published_utc": "2025-04-16T08:36:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/04/16/3062345/28124/en/Global-Aircraft-Lighting-Market-Report-2025-2029-North-America-Tops-the-Market-with-Cutting-edge-Innovations.html",
+      "tickers": [
+        "RTX",
+        "ATRO",
+        "HON",
+        "THLLY"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The global aircraft lighting market is projected to grow from $1.98 billion in 2024 to $2.68 billion by 2029, driven by increasing aircraft production, demand for passenger comfort, and smart lighting adoption. North America holds the largest market share, supported by leading airlines and MRO facilities.",
+      "keywords": [
+        "aircraft lighting",
+        "market growth",
+        "North America",
+        "passenger comfort",
+        "smart lighting"
+      ],
+      "insights": [
+        {
+          "ticker": "RTX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "RTX is mentioned as one of the top players in the aircraft lighting market, indicating its strong presence and competitiveness in the industry."
+        },
+        {
+          "ticker": "ATRO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Astronics Corporation is also listed as one of the leading players in the aircraft lighting market, suggesting its strong market position."
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Honeywell International Inc. is identified as one of the key players in the aircraft lighting market, indicating its strong presence and capabilities in this sector."
+        },
+        {
+          "ticker": "THLLY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Thales is listed as a leading company in the aircraft lighting market, suggesting its strong position and influence in the industry."
+        }
+      ]
+    },
+    {
       "title": "Aristotle Global Equity Q1 2025 Commentary",
       "description": "",
       "published_utc": "2025-04-16T07:20:00",

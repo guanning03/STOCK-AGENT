@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Home Depot (HD) Increases Despite Market Slip: Here's What You Need to Know",
+      "description": "In the most recent trading session, Home Depot (HD) closed at $389.68, indicating a +2.28% shift from the previous trading day.",
+      "published_utc": "2026-02-10T17:45:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4fd6c9ba7710ba49d0c24d8098089769b01cf8302dc3b6b046d744c821e3236a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139038315,
+      "datetime": 1770763505
+    },
+    {
+      "title": "The Home Depot to Host Fourth Quarter & Fiscal Year Earnings Conference Call on February 24",
+      "description": "The Home Depot®, the world's largest home improvement retailer, announced today that it will hold its Fourth Quarter & Fiscal Year Earnings Conference Call on Tuesday, February 24, at 9 a.m. ET.",
+      "published_utc": "2026-02-10T08:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f52ad6a20470ad7fac08455eb9028aea48faca07157df3c66038985e8625e826",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139029576,
+      "datetime": 1770728400
+    },
+    {
+      "title": "American Express, Walt Disney share gains lead Dow's nearly 225-point climb",
+      "description": "American Express, Walt Disney share gains lead Dow's nearly 225-point climb",
+      "published_utc": "2026-02-10T04:45:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=c246e7c6120c5225a17829c7776ecedfadbaaf5559b732001cd94a702f9a0997",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139059085,
+      "datetime": 1770716700
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "id": "12cf0c6ac3fdf2ad5fc9963b543c411da854eabf02f1059a8b6f38fab6034062",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Defense Electronics Market to Hit Valuation of US$ 257.19 Billion By 2033 | Astute Analytica",
+      "author": "N/A",
+      "published_utc": "2024-12-24T13:30:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2024/12/24/3001703/0/en/Defense-Electronics-Market-to-Hit-Valuation-of-US-257-19-Billion-By-2033-Astute-Analytica.html",
+      "tickers": [
+        "BA",
+        "BApA",
+        "GD",
+        "HON",
+        "LHX",
+        "LMT",
+        "NOC",
+        "RTX"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/a77988df-ad1a-4619-9a4e-367c858dc70e",
+      "description": "The global defense electronics market is rapidly evolving, driven by technological advancements and rising geopolitical tensions. Key trends include the adoption of unmanned systems, advanced network-centric warfare, and the integration of artificial intelligence. The market is expected to grow at a CAGR of 6.07% from 2025 to 2033, reaching $257.19 billion by 2033.",
+      "keywords": [
+        "defense electronics",
+        "geopolitical tensions",
+        "technological advancements",
+        "unmanned systems",
+        "network-centric warfare",
+        "artificial intelligence"
+      ],
+      "insights": [
+        {
+          "ticker": "BA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Boeing is listed as one of the prominent players in the global defense electronics market, highlighting its involvement and expertise in this sector."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Boeing is listed as one of the prominent players in the global defense electronics market, highlighting its involvement and expertise in this sector."
+        },
+        {
+          "ticker": "GD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "General Dynamics is mentioned as a key player in the defense electronics market, indicating its strong position and contribution to the industry."
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Honeywell International Inc. is listed as one of the key players in the defense electronics market, highlighting its involvement and expertise in this industry."
+        },
+        {
+          "ticker": "LHX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "L3Harris Technologies Inc. is included in the list of key players in the defense electronics market, suggesting its significant role and expertise in this industry."
+        },
+        {
+          "ticker": "LMT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Lockheed Martin is mentioned as a key player in the defense electronics market, highlighting its involvement and expertise in this industry."
+        },
+        {
+          "ticker": "NOC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Northrop Grumman Corporation is included in the list of prominent players in the global defense electronics market, suggesting its significant role and capabilities in this sector."
+        },
+        {
+          "ticker": "RTX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Raytheon is listed as one of the key players in the defense electronics market, indicating its strong presence and expertise in this industry."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:55:02.638570+00:00",
+    "cache_key": "news_fe388e736232b0d45033b18819c3b1d0",
+    "count": 1
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Salesforce employees call on CEO Benioff to cancel ICE 'opportunities'",
+      "description": "More than 1,400 Salesforce employees have signed a letter calling on CEO Marc Benioff to cancel all potential business with the U.S. ICE agency.",
+      "published_utc": "2026-02-10T17:12:40",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=21f1237758c1f5bc84aabb4feb80dfb9ce8949fc49201dcb34c1ff0f11c1fcb3",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108264229-1770776276886-gettyimages-2256811761-DAVOS_WEF_2026.jpeg?v=1770776333&w=1920&h=1080",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139045872,
+      "datetime": 1770761560
+    },
+    {
+      "title": "AMD Taps Ariel Kelman To Sharpen AI And Data Center Story",
+      "description": "Advanced Micro Devices (NasdaqGS:AMD) has appointed Ariel Kelman as Senior Vice President and Chief Marketing Officer. Kelman, who has experience at Salesforce, Oracle, and AWS, will focus on AI and enterprise marketing as AMD scales its data center and AI offerings. For you as an investor following NasdaqGS:AMD, this move sits at the intersection of chips and cloud. AMD is pushing deeper into data center and AI with products such as EPYC server processors and the MI450 AI accelerator,...",
+      "published_utc": "2026-02-10T17:12:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7f1e71737d84420634f2e278ca0a28eba6e833b3e9ca3cd5182b8b11a0a77ab2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139037424,
+      "datetime": 1770761546
+    },
+    {
+      "title": "Software selloff 'biggest opportunity so far in 2026,' investor says",
+      "description": "STORY: Global markets were rattled last week after AI developer Anthropic's launch of plug-ins for its Claude Cowork agent reignited fears that rapidly progressing AI systems could encroach on the core businesses of traditional software companies.That led to the S&P 500 software and services index falling as much as 17% in six sessions through Thursday. The index has rebounded about 7% since Thursday.\"When we look at software, one of the key differentiators we believe between the potential winners and losers is the business model,\" Hegener explained. \"Is it a per-seat subscription business model vis-a-vis Salesforce? Or is it more of a usage-based, computation usage-based business model?\"Among the latter is Datadog, which beat Wall Street estimates for fourth-quarter results on Tuesday, sending its shares up more than 13%.\"We believe that that business is actually much better positioned now with the adoption of artificial intelligence versus a Salesforce, which could arguably be completely replaced by a few Claude bots,\" he said.",
+      "published_utc": "2026-02-10T17:01:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fab38ffe140f269bbbdf79926151a38c477845c1a7f446e834b9158214dcab0c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139037464,
+      "datetime": 1770760897
+    },
+    {
+      "title": "Freshworks forecasts annual revenue above estimates on strong AI-driven software demand",
+      "description": "Freshworks forecast annual revenue above Wall Street estimates on Tuesday, betting on growing adoption of its software tools that incorporate ‌artificial intelligence to automate customer support and IT services. Businesses are increasingly adopting ‌AI-driven software to efficiently manage IT services, automate workflows and improve customer support, driving demand for companies ​such as Freshworks, ServiceNow and Salesforce. The forecast comes amid widespread concern surrounding the potential impact of newer AI tools on various services offered by established software firms, although analysts have downplayed the risks.",
+      "published_utc": "2026-02-10T16:16:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9fd3a1432e4ae0f73d58e38dbba511b8c7c9a81d960541ebdc1f48122cd4102a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139036353,
+      "datetime": 1770758192
+    },
+    {
+      "title": "'Self-Inflicted Injury,' Trump's AI Czar Warns As '1,200 Different AI Laws' Could Cost The U.S. The Global AI Race",
+      "description": "America could be tripping itself in the global artificial intelligence sprint. \"I worry that we could lose the AI race because of a self-inflicted injury,\" White House AI and crypto czar David Sacks said last month, warning that excessive caution could undermine U.S. progress. Speaking at the World Economic Forum in Davos, Switzerland, Sacks added that public confidence may rise as more practical AI tools prove their value. In a discussion with Salesforce CEO Marc Benioff (NYSE:CRM), Sacks said",
+      "published_utc": "2026-02-10T13:31:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4af3461963d2cf91a7615a61991a2df44fececcdaab3a7a8bc4e743b1a3b733a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139034947,
+      "datetime": 1770748270
+    }
+  ]
+}

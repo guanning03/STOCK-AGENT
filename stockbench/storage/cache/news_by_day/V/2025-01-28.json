@@ -1,0 +1,55 @@
+{
+  "items": [
+    {
+      "id": "c1955b1868fb2733afc546fb93111d4304d6edf044e26c6702a0d4a1f665f70c",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Transactions by Payment Cards to Top 1.1 Trillion Annually by 2029",
+      "author": "Globe Newswire",
+      "published_utc": "2025-01-28T19:19:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/28/3016716/0/en/Transactions-by-Payment-Cards-to-Top-1-1-Trillion-Annually-by-2029.html",
+      "tickers": [
+        "V",
+        "MA",
+        "AXP",
+        "DFS"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/7c8c8e01-ec41-4367-99f5-b197b2e70e69",
+      "description": "The Nilson Report projects that credit, debit, and prepaid card transactions on global brand card networks will reach 1.109 trillion worldwide in 2029, a 43% increase from 2024. Asia-Pacific is expected to be the top region, led by UnionPay, followed by Europe and the United States.",
+      "keywords": [
+        "credit cards",
+        "debit cards",
+        "prepaid cards",
+        "global payments",
+        "transaction volume",
+        "regional trends"
+      ],
+      "insights": [
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article projects strong growth in global card transactions, which is positive for Visa as a leading global payment network."
+        },
+        {
+          "ticker": "MA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article projects strong growth in global card transactions, which is positive for Mastercard as a leading global payment network."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article includes American Express as one of the major global payment networks, which is expected to benefit from the projected growth in card transactions."
+        },
+        {
+          "ticker": "DFS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article includes Discover as one of the global payment networks, but does not provide any specific details about its performance or outlook."
+        }
+      ]
+    }
+  ]
+}

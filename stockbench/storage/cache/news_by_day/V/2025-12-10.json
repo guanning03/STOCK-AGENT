@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Dow jumps 500 points to record as Oracle sparks rush out of AI trade into broader market: Live updates",
+      "description": "The S&P 500 fell as Oracle's results reignited fears about high-flying tech stocks.",
+      "published_utc": "2025-12-10T13:02:32",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=7a7646802bfd3ec7bea2cd1db5c4c6e52739ad976006c9d8f386a87905c5249b",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108161127-17502651952025-06-18t164428z_2051448516_rc225fancd7l_rtrmadp_0_usa-stocks.jpeg?v=1757430493&w=1920&h=1080",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137759243,
+      "datetime": 1765389752
+    },
+    {
+      "title": "Fintech unicorn Zilch lands payments licence from City watchdog",
+      "description": "One of Britain’s most prominent fintech unicorns has secured a payments services licence from UK regulators as it hunts for acquisition targets ahead of an eventual move to list its shares publicly.  Sky News understands that Zilch, which has more than five million customers, will announce on Thursday that it has been awarded the licence by the Financial Conduct Authority (FCA).  It is also expected to say that it has deepened its relationship with Visa, the global payments network, by becoming a direct, principal member, which will pave the way for new payment-related collaborations between the two companies.",
+      "published_utc": "2025-12-10T09:58:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=49de88fc29f9225fdcee669d8a161846d25b61739603212b3643a4de67ffecff",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137749833,
+      "datetime": 1765378680
+    },
+    {
+      "title": "Price Over Earnings Overview: Visa",
+      "description": "",
+      "published_utc": "2025-12-10T09:00:38",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=484c89561dbadedd51d9f780ac5886702fd67388992f979da6432a87e4a05c38",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_3.jpg?width=2048&height=1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138452656,
+      "datetime": 1765375238
+    },
+    {
+      "title": "Coherent and Beazer Homes have been highlighted as Zacks Bull and Bear of the Day",
+      "description": "COHR rides surging AI/datacenter demand, doubling revenue projections and deepening ties with NVIDIA and Apple.",
+      "published_utc": "2025-12-10T08:31:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fb6129c50fa6fac04125e97ce8db3044bba84517d0d31d2603b4136b86ef4acf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137749834,
+      "datetime": 1765373460
+    },
+    {
+      "title": "Mastercard Turns on the Cash Tap: Buybacks Boom, Dividends Bloom",
+      "description": "MA boosts shareholder rewards with a new $14B buyback and a 14% dividend hike as strong cash flow fuels continued capital returns.",
+      "published_utc": "2025-12-10T08:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8d96758a0f777fbf7fd506536dc530e912a9eaa4a664a28e5a649d77c2d26dbd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137749835,
+      "datetime": 1765371900
+    }
+  ]
+}

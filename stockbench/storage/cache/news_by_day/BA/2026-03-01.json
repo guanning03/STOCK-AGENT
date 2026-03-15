@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Iran live updates: Trump outlines war's objectives, says U.S. 'will easily prevail'",
+      "description": "Follow the latest news after the U.S. and Israel launched a massive attack on Iran that killed Iran's Supreme Leader Ayatollah Ali Khamenei.",
+      "published_utc": "2026-03-01T18:50:07",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=a218cda7fcd2b8e2e3f6c8eb8e479a45403de67960e0296b0b9134ce0d9a7d96",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108272096-1772470309859-gettyimages-2263888092-AFP_99M79L8.jpeg?v=1772470332&w=1920&h=1080",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139278616,
+      "datetime": 1772409007
+    },
+    {
+      "title": "Iran conflict: Where things stand, global responses — and what comes next",
+      "description": "The U.S.-Israel conflict with Iran is extending into its third day with each side pledging escalation.",
+      "published_utc": "2026-03-01T18:00:59",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=3629fa69af2b4b5f4954665307b508319d924629888ebcafa0e92d77c769f081",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108271699-17724103772026-03-01t103724z_933634594_rc2lvja9bdso_rtrmadp_0_iran-crisis.jpeg?v=1772410412&w=1920&h=1080",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139278617,
+      "datetime": 1772406059
+    },
+    {
+      "title": "Global week ahead: Operation Epic Fury means new risks for markets",
+      "description": "Investors will grapple with how to trade the fallout of the U.S. and Israel's joint action in Iran.",
+      "published_utc": "2026-03-01T13:15:25",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=bea7de328f51d8de20ea7638c1fa666d7b69f1682d66e478cba1e09d8ad7e951",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108271556-1772370288350-gettyimages-2263665910-AA_01032026_2676384.jpeg?v=1772370330&w=1920&h=1080",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139278428,
+      "datetime": 1772388925
+    },
+    {
+      "title": "What travelers need to know after the U.S., Israeli strikes on Iran",
+      "description": "What travelers need to know after the strikes in the Middle East.",
+      "published_utc": "2026-03-01T07:06:16",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=74d483e72b2d65a23e150fbac56dcb3e96c49bee986d2c3c0b8c51ae1fe02525",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108271565-1772371407521-gettyimages-2263689192-AFP_99FE9WE.jpeg?v=1772371520&w=1920&h=1080",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139270962,
+      "datetime": 1772366776
+    },
+    {
+      "title": "Delta Fleet Renewal Reshapes Long Haul Strategy And Investor Trade Offs",
+      "description": "Delta Air Lines (NYSE:DAL) announces a major long term fleet renewal, including new widebody jet orders from both Airbus and Boeing. The company plans to add next generation aircraft aimed at supporting international route growth and improving fuel efficiency. The order commitments represent a multi year investment that is expected to shape Delta’s global network and capacity planning. Delta is one of the largest global carriers, with a business built around premium corporate travel, a...",
+      "published_utc": "2026-03-01T05:08:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f4950a37431a840f949c61566e158f117c1ee1b785c901bba3a05cc95dd72d65",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139269524,
+      "datetime": 1772359703
+    }
+  ]
+}

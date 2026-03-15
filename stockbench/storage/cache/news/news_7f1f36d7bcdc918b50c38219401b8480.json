@@ -1,0 +1,63 @@
+{
+  "items": [
+    {
+      "id": "47a9b349dbe7581f68b6f3cfe22124e7be02e3182d5ca94f89dd8dfdd8e79a19",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Healthcare Security Systems Market to Reach USD 35.27 Billion by 2034 at 10.63% CAGR",
+      "author": "Towards Healthcare",
+      "published_utc": "2026-02-09T13:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2026/02/09/3234450/0/en/Healthcare-Security-Systems-Market-to-Reach-USD-35-27-Billion-by-2034-at-10-63-CAGR.html",
+      "tickers": [
+        "VZ",
+        "MSFT",
+        "HON",
+        "MSI"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "description": "The global healthcare security systems market is valued at USD 15.68 billion in 2026 and is expected to grow to USD 35.27 billion by 2034 at a 10.63% CAGR. Growth is driven by rising cyberattacks on healthcare data, increasing violence and theft in medical facilities, and strict data protection regulations. North America leads the market while Asia Pacific shows the fastest growth. Hardware solutions currently dominate, but software segments are expected to grow fastest during the forecast period.",
+      "keywords": [
+        "healthcare security systems",
+        "cybersecurity",
+        "market growth",
+        "data protection",
+        "physical security",
+        "cyberattacks",
+        "electronic health records",
+        "surveillance systems",
+        "access control"
+      ],
+      "insights": [
+        {
+          "ticker": "VZ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strategic partnership with Accenture announced in March 2025 to strengthen healthcare cybersecurity defenses, demonstrating active market engagement and growth opportunity in healthcare security solutions."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Announced PLN 2.8 billion investment in Poland in February 2025 to enhance cloud, AI infrastructure, and cybersecurity capabilities including healthcare sector, indicating strong commitment to healthcare security market expansion."
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed as a key market player in healthcare security systems but no specific recent developments or partnerships mentioned in the article."
+        },
+        {
+          "ticker": "MSI",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Identified as a key player in the healthcare security systems market but no specific recent developments or strategic initiatives mentioned."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:51:55.993077+00:00",
+    "cache_key": "news_7f1f36d7bcdc918b50c38219401b8480",
+    "count": 1
+  }
+}

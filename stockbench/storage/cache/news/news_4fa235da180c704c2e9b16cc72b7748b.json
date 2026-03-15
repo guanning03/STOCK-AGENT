@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Nasdaq, S&P 500 Notch Record Highs as September Fed Rate Cut Bets Increase",
+      "description": "The Nasdaq Composite and the S&P 500 hit fresh record highs on Tuesday as expectations for a Federal",
+      "published_utc": "2025-08-12T16:57:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=000309f21c2a18c2f4453de50f179947c2aa46c9741296537ca4f37fe54aaf76",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136328375,
+      "datetime": 1755032221
+    },
+    {
+      "title": "Why Boeing Stock Had Such a Great Day",
+      "description": "Shares of  Boeing  rose Tuesday after the company reported solid monthly deliveries.  Boeing stock added 2.9%, closing at $232.61, while the  and  rose 1.1%.  A strong market can help shares of any company, but Boeing had good news for investors, too.",
+      "published_utc": "2025-08-12T16:09:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ede692cd32683c78472b1b3e73efd69107739e677b84963cb8d7a5559b3723b5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136328376,
+      "datetime": 1755029340
+    },
+    {
+      "title": "Boeing Stock Is Having a Great Day. Here Is Why.",
+      "description": "Shares of  Boeing  rose Tuesday after the company reported solid monthly deliveries.  Boeing stock was up 2.4% at $231.52, while the  and  were up 1%.  A strong market can help shares of any company, but Boeing had good news for investors, too.",
+      "published_utc": "2025-08-12T15:48:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ed6addb48ec3c24da7ec9a8ebd80ec866e1c389389b172e417ed5443af3b3e5b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136323049,
+      "datetime": 1755028080
+    },
+    {
+      "title": "Boeing Trails Airbus on July Deliveries, Beats European Rival on Orders",
+      "description": "Boeing (BA) on Tuesday reported deliveries for July that fell sequentially and lagged behind Airbus'",
+      "published_utc": "2025-08-12T15:16:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=81dc0b294e700797c0530baa0cbf3a6dd1237e6b126e8bd6fb1234b355e7fee0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136323050,
+      "datetime": 1755026218
+    },
+    {
+      "title": "Boeing plane deliveries fell in July",
+      "description": "Boeing delivered 48 airplanes in July, down from 60 in June, which was its best month in a year and a half",
+      "published_utc": "2025-08-12T13:08:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0945ebf1824e69ed0f75bf82d46a21ca3dd5dda9686caa5829267e4c22948f65",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136339686,
+      "datetime": 1755018534
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:05:40.639394+00:00",
+    "cache_key": "news_4fa235da180c704c2e9b16cc72b7748b",
+    "count": 5
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The 1-Minute Market Report August 31, 2025",
+      "description": "Market momentum is slowing, with the S&P 500 barely negative for the week and signs of a potential 10-15% correction ahead. Read more about the market here.",
+      "published_utc": "2025-08-31T19:37:17",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=16fac5ac4559815529eec82efc94eeca56353f1dc2b4f83319c47b65ab8fc817",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213764535/image_1213764535.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136593218,
+      "datetime": 1756683437
+    },
+    {
+      "title": "Top 10 High-Yield Dividend Stocks For September 2025",
+      "description": "My watchlist outperformed SPY and VYM since July 1st, offering higher yield and competitive total returns. Check out September's top picks here.",
+      "published_utc": "2025-08-31T18:35:28",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=82e27aec9fcdaa5c710e100371b609fa13189598ff225b75dbd2de6739b9a04b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2158691690/image_2158691690.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136592868,
+      "datetime": 1756679728
+    },
+    {
+      "title": "3 Market Predictions For September",
+      "description": "Discover 3 expert market predictions for September. Will the stock rally continue despite historical trends? Read now for insights and investment tips.",
+      "published_utc": "2025-08-31T09:14:09",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=628bdbfab9e67488380c4f7ce1fd6f658afcb428fd6b2c34503d49b51e8eb3d6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2205178605/image_2205178605.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136588878,
+      "datetime": 1756646049
+    },
+    {
+      "title": "SPLG: S&P 500 Dashboard For September",
+      "description": "SPLG reflects an S&P 500 skewed by mega-cap gains, despite median overvaluation and sector imbalances. Learn why SPLG ETF is a hold.",
+      "published_utc": "2025-08-31T06:46:39",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fae2e5c6c4fe6cd9690b6e42262e9d8e2a80563dafe4ff73ba54298b1a06a510",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1480239219/image_1480239219.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136588322,
+      "datetime": 1756637199
+    },
+    {
+      "title": "Flawed Jobs Data Threatens Fed's September Rate Cut",
+      "description": "Market tension is high as September's Fed rate decision hinges on the upcoming, unreliable August jobs report. Learn more about the market here.",
+      "published_utc": "2025-08-31T05:55:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8e0e47e121f273df17adf262e29946c62dc4f50a2ad678ab4fcd7f0155abbda8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2225545768/image_2225545768.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136588113,
+      "datetime": 1756634100
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:01:45.161119+00:00",
+    "cache_key": "news_6e9685da767b653a7d026c50796f5f3c",
+    "count": 5
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Global software stocks extend losses amid fears over AI-led disruption",
+      "description": "Wall Street's fears around artificial intelligence-driven disruption affecting software companies made their way to Asia and Europe.",
+      "published_utc": "2026-02-03T18:58:05",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=a91b46f882b085ac40c518baba24aef5d966965149506d4fcd84996c86f6dfd4",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108246307-1767025794257-gettyimages-2236521867-syn08393.jpeg?v=1767025847&w=1920&h=1080",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138354569,
+      "datetime": 1770163085
+    },
+    {
+      "title": "Stock Market Today, Feb. 3: Nasdaq Tumbles 1.4% as AI Fears Grow",
+      "description": "Today, Feb. 3, 2026, Walmart’s $1 trillion milestone stands out as rising bond yields and tech weakness drag major U.S. indexes lower.",
+      "published_utc": "2026-02-03T17:44:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=86c71053d3318bd791221663935b35346fc5e66ea3ef88d4f0136ac965345da9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138348101,
+      "datetime": 1770158653
+    },
+    {
+      "title": "Threat of New AI Tools Wipes $300 Billion Off Software and Data Stocks",
+      "description": "From Legalzoom.com and Expedia to Ares and Apollo, shares of companies that sell or invest in software fell sharply on Tuesday.",
+      "published_utc": "2026-02-03T17:44:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c9833768afe4b9fc96f23f290fc2cd1e42606211764303342b8b18e6bd56a739",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138348226,
+      "datetime": 1770158640
+    },
+    {
+      "title": "Heard on the Street Recap: Code Red",
+      "description": "Anthropic's launch of new AI productivity tools spooked investors. The worries hit a wide swath of software and data service companies. Among the worst-hit companies on the Nasdaq were Thomson Reuters and Intuit, which shed 16% and 11%, respectively.",
+      "published_utc": "2026-02-03T17:14:45",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=14dc9ed7a62c64324e333885987e7294187698a7c8024e302bdb95338eabed5e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138348169,
+      "datetime": 1770156885
+    },
+    {
+      "title": "Software Stocks Have Gotten Crushed. This Chart Says It’s Not Time to Buy Yet.",
+      "description": "“Old tech” software names like  Adobe  and  Intuit  are both off more than 40% from their annual peaks.  The weakness is especially glaring on the IGV ETF’s ratio chart versus the  While IGV trades 28% below its most recent 52-week high, the semiconductor ETF is down just 5% from its own annual peak.",
+      "published_utc": "2026-02-03T17:13:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e042edc612d116fc3e4433492cd882ae909480a49d18199d72c11e18124497cb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138348120,
+      "datetime": 1770156780
+    }
+  ]
+}

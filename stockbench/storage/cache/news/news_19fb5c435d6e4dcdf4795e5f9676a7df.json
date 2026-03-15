@@ -1,0 +1,133 @@
+{
+  "items": [
+    {
+      "id": "6f466c9a02f26a448a0b5ed45fa957bde2a066a10bbea29eb445285b6d055ac9",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "US Stocks To Open Higher On Shortened Trading Day: Santa Claus Rally Period Officially Begins, Says Analyst",
+      "author": "Rishabh Mishra",
+      "published_utc": "2024-12-24T11:26:09Z",
+      "article_url": "https://www.benzinga.com/24/12/42667439/us-stocks-to-open-higher-on-shortened-trading-day-as-santa-clause-rally-period-begins-says-analyst",
+      "tickers": [
+        "AVGR",
+        "CREV",
+        "CREVW",
+        "NEUE",
+        "TIVC",
+        "TOVX",
+        "SPY",
+        "QQQ"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2024/12/24/Wall-Street.jpeg?width=1200&height=800&fit=crop",
+      "description": "US stock futures are trading higher ahead of a shortened trading session on Christmas Eve. Analysts expect a 'Santa Rally' during this period, which has historically seen positive returns. However, they also caution about potential market corrections in 2025 due to stretched valuations.",
+      "keywords": [
+        "US stocks",
+        "Santa Claus Rally",
+        "market outlook",
+        "market correction"
+      ],
+      "insights": [
+        {
+          "ticker": "AVGR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company announced it has received a Notice of Allowance for a U.S. patent, which is a positive development."
+        },
+        {
+          "ticker": "CREV",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company inked an agreement with OIC for further financing to support its ongoing liquidity, which is a positive sign."
+        },
+        {
+          "ticker": "CREVW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company inked an agreement with OIC for further financing to support its ongoing liquidity, which is a positive sign."
+        },
+        {
+          "ticker": "NEUE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company entered into a definitive merger to be acquired at a premium, which is a positive outcome for shareholders."
+        },
+        {
+          "ticker": "TIVC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company's CEO outlined 2025 priorities, including a 30% reduction in net operating loss, which is a positive development."
+        },
+        {
+          "ticker": "TOVX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company received a notice of allowance for a U.S. Patent, which is a positive development."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The ETF is trading higher in premarket, reflecting the overall positive sentiment in the market."
+        },
+        {
+          "ticker": "QQQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The ETF is trading higher in premarket, reflecting the positive sentiment in the tech-heavy Nasdaq Composite."
+        }
+      ]
+    },
+    {
+      "id": "e9cad2596025fb373918c01d89d9532523304f495d32504dd00c56b94e3f2771",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "Dow Jones: A Relevant Benchmark or a Relic of the Past?",
+      "author": "Marketbeat.Com",
+      "published_utc": "2024-12-24T07:35:00Z",
+      "article_url": "https://www.investing.com/analysis/dow-jones-a-relevant-benchmark-or-a-relic-of-the-past-200655611",
+      "tickers": [
+        "SPY",
+        "QQQ",
+        "RSP",
+        "DIA"
+      ],
+      "amp_url": "https://m.investing.com/analysis/dow-jones-a-relevant-benchmark-or-a-relic-of-the-past-200655611?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "The article discusses the relevance of the Dow Jones Industrial Average (DJIA) as a benchmark for the US stock market, compared to the S&P 500 index. It argues that the DJIA, with only 30 stocks, may no longer accurately represent the broader market, and the S&P 500 should be considered a more comprehensive and accurate barometer.",
+      "keywords": [
+        "Dow Jones",
+        "S&P 500",
+        "Nasdaq 100",
+        "index",
+        "benchmark"
+      ],
+      "insights": [
+        {
+          "ticker": "SPY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article argues that the S&P 500 index, with 500 stocks, is a more accurate representation of the US stock market and should be the primary benchmark used by investors and fund managers."
+        },
+        {
+          "ticker": "QQQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions the Nasdaq 100 index as another major index, but does not make a strong argument for or against its relevance as a benchmark."
+        },
+        {
+          "ticker": "RSP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the Invesco S&P 500 Equal-Weight ETF as a way to get an even playing field, as it tracks the S&P 500 index with equal weighting for each constituent, rather than market capitalization weighting."
+        },
+        {
+          "ticker": "DIA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that the DJIA, with only 30 stocks, may not be an accurate representation of the broader US stock market, and that the S&P 500 index should be considered a more comprehensive and accurate benchmark."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:56:08.333434+00:00",
+    "cache_key": "news_19fb5c435d6e4dcdf4795e5f9676a7df",
+    "count": 2
+  }
+}

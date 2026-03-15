@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Nvidia earnings: Wall Street sighs with relief after AI wave doesn’t crash",
+      "description": "Amid a blackout of data due to the government shutdown, the $5tn chipmaker’s report took on wider significance",
+      "published_utc": "2025-11-19T18:47:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2c919a56ae7bad14df2cd0d18610734a9f5b2b3a71b69d6932b2cb866448e37f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137553741,
+      "datetime": 1763596051
+    },
+    {
+      "title": "Jeff Auxier's Strategic Moves: Fiserv Inc. Takes Center Stage with 0.24% Portfolio Impact",
+      "description": "Insightful Analysis of Jeff Auxier (Trades, Portfolio)'s Third Quarter 2025 13F Filing",
+      "published_utc": "2025-11-19T18:00:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b30a0d0fc1a1376e92adcddaeb81275135af34bdddbff9dac30bd50183e69518",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137553742,
+      "datetime": 1763593232
+    },
+    {
+      "title": "Nvidia ‘Committed to Engagement’ With the U.S., China",
+      "description": "Nvidia Chief Financial Officer Colette Kress said the company is disappointed with regulatory hurdles it faces to send computing products to China and said the company would continue to engage with U.S. and Chinese governments.  “To establish a sustainable leadership and position in AI computing, America must win the support of every developer and be the platform of choice for every commercial business, including those in China,” she said.  Earlier this week, ​​Amazon.com joined Microsoft in supporting legislation that threatens to further limit Nvidia’s ability to export to China.",
+      "published_utc": "2025-11-19T17:30:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8fd63e327b8de2bc7ba5243ff455b6f0951c25512b6d7b1c4e2da2c7f735ac39",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137553743,
+      "datetime": 1763591449
+    },
+    {
+      "title": "Nvidia blows past revenue targets and forecasts trillions in AI infrastructure spending by end of decade",
+      "description": "Strong revenue and “off-the-charts” GPU demand show Nvidia’s AI engine still roaring as CEO Jensen Huang delivers a beat-and-raise quarter",
+      "published_utc": "2025-11-19T16:48:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=34454cf0acd6c17eaa1006f51974ef5925e0d878a562ab3e471ac3f2e04bf97e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137553744,
+      "datetime": 1763588884
+    },
+    {
+      "title": "Invent Hires Former Red Hat, Microsoft Executive As Chief AI Officer",
+      "description": "Jim Zimmerman will deploy and manage Invent's AI strategy at scale.",
+      "published_utc": "2025-11-19T16:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7de3f2682b23baabe9fb1a29d4f0a4c44d5b1bac6fde5717190922c30afab56d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137553745,
+      "datetime": 1763588700
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:18:46.189963+00:00",
+    "cache_key": "news_072e838b81807a3e950d0d4384765194",
+    "count": 5
+  }
+}

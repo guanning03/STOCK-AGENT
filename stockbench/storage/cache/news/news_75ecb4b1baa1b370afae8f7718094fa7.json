@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Job Openings Hit 10-Month Low In July",
+      "description": "Job openings fell to their lowest level in ten months in July, hitting 7.181 million vacancies, according to the latest Job Openings and Labor Turnover Survey (JOLTS).",
+      "published_utc": "2025-09-03T17:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6ba5c6b8875fe160b3e7ad8f76734386141eb7ddac6ea4f521ea8586c77560a8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2174702214/image_2174702214.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136633743,
+      "datetime": 1756933200
+    },
+    {
+      "title": "Dow Jones Forms Rising Wedge: What It Means For The Index",
+      "description": "US indices just concluded a decent month after a scary monthly open, with the Dow Jones up 3.44% in August.",
+      "published_utc": "2025-09-03T15:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6dffe4d4b0fe515bd74219da0ecabd437952b118a73825599bf40ecfdb90d3b9",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1854380206/image_1854380206.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136633296,
+      "datetime": 1756927800
+    },
+    {
+      "title": "Trouble Brewing In Private Markets",
+      "description": "It's critical for investors to evaluate the health of private markets because pain there may roll into public markets as well. Read the full analysis here.",
+      "published_utc": "2025-09-03T14:29:02",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=39ae4557a91fdda23dc0c62ae597fbda9e53f17026d56761f57cbe13d730e169",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1468452725/image_1468452725.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136633038,
+      "datetime": 1756924142
+    },
+    {
+      "title": "What Might Make The August CPI Report Come In Very Hot",
+      "description": "A hot CPI may not derail the imminent rate cut, but could limit further cuts in 2025, keeping investors cautious on future Fed policy. Read the latest analysis ahead of the report here.",
+      "published_utc": "2025-09-03T13:40:56",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7af2a2c9ed55508ec455f372bf5e8e4f61af231dbba386a16d13be0e8d9d5315",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1376405147/image_1376405147.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136632751,
+      "datetime": 1756921256
+    },
+    {
+      "title": "VDE: The Strategy Behind Vanguard's $9B Energy ETF Powerhouse",
+      "description": "Discover how VDE offers low-cost, high-yield exposure to the U.S. energy sector.",
+      "published_utc": "2025-09-03T13:37:36",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ec6dee8a508a8764b9b8111eead21ca74ca78ca518ca469a2e90f1427db3305e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2169720697/image_2169720697.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136632755,
+      "datetime": 1756921056
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:15:30.462283+00:00",
+    "cache_key": "news_75ecb4b1baa1b370afae8f7718094fa7",
+    "count": 5
+  }
+}

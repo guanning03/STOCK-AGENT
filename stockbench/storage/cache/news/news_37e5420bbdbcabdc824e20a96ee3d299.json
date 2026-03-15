@@ -1,0 +1,121 @@
+{
+  "items": [
+    {
+      "title": "Amgen Inc. stock outperforms competitors on strong trading day",
+      "description": "Amgen Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-08-19T12:36:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b60e38c798ed6e8f12c45939316c5adba0ad1374c205e8622650cdaae47c0c1f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136441578,
+      "datetime": 1755621360
+    },
+    {
+      "title": "eGenesis Appoints Douglas Williams, Ph.D., and Adam Craig, M.D., Ph.D., to its Board of Directors",
+      "description": "CAMBRIDGE, Mass., August 19, 2025--eGenesis Appoints Douglas Williams, Ph.D., and Adam Craig, M.D., Ph.D., to its Board of Directors",
+      "published_utc": "2025-08-19T08:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5e1079b6f40e56f485ff1e228dafd1ac7bfd721de9162c10b2eca1ef1b7a20d7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136417844,
+      "datetime": 1755604800
+    },
+    {
+      "title": "Bank On Healthcare And An Aging Population With 14% Yield: HQH",
+      "description": "Discover how rising healthcare spending can be turned into income growth. Build a retirement portfolio that thrives in a key sector.",
+      "published_utc": "2025-08-19T03:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=51e0b31c470fe3a32598b7340dd31af509a06ea732c62173163dd76df69c1d09",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2195105991/image_2195105991.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136417379,
+      "datetime": 1755588900
+    },
+    {
+      "id": "1b69e6040ac88afc07f2b0221b3d8f5f1b04bf37d3c8ec83a353d76004e20f84",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Ligand to Participate in September Investor Conferences",
+      "author": "Todd Davis And Tavo Espinoza",
+      "published_utc": "2025-08-19T20:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/08/19/3135989/0/en/Ligand-to-Participate-in-September-Investor-Conferences.html",
+      "tickers": [
+        "LGND",
+        "AMGN",
+        "MRK",
+        "PFE",
+        "JAZZ",
+        "GILD",
+        "BAX"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/1fe91aa2-494e-4b30-89e8-cad771bbaabf",
+      "description": "Ligand Pharmaceuticals executives will participate in two upcoming investor conferences: Citi 20th Annual BioPharma Conference in Boston and H.C. Wainwright 27th Annual Global Investment Conference in New York, presenting and hosting investor meetings.",
+      "keywords": [
+        "investor conferences",
+        "biopharmaceutical",
+        "presentations",
+        "one-on-one meetings"
+      ],
+      "insights": [
+        {
+          "ticker": "LGND",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Company is actively engaging with investors, presenting at conferences, and highlighting its diverse business model and technology platforms"
+        },
+        {
+          "ticker": "AMGN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a partner company with no specific context indicating positive or negative implications"
+        },
+        {
+          "ticker": "MRK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a partner company with no specific context indicating positive or negative implications"
+        },
+        {
+          "ticker": "PFE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a partner company with no specific context indicating positive or negative implications"
+        },
+        {
+          "ticker": "JAZZ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a partner company with no specific context indicating positive or negative implications"
+        },
+        {
+          "ticker": "GILD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a partner company with no specific context indicating positive or negative implications"
+        },
+        {
+          "ticker": "BAX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a partner company with no specific context indicating positive or negative implications"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:27:17.425478+00:00",
+    "cache_key": "news_37e5420bbdbcabdc824e20a96ee3d299",
+    "count": 4
+  }
+}

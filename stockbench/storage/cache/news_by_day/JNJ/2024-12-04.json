@@ -1,0 +1,111 @@
+{
+  "items": [
+    {
+      "id": "ccf42b3e1c0205b1283ee087a8a6d82ac719dfe27e0dd0f13d4cc0e07023f49d",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Medical Tapes Industry Report 2024, with Profiles of Leading Companies, including 3M, Johnson & Johnson, Smith & Nephew, B. Braun Melsungen and Molnlycke Health Care",
+      "author": "Researchandmarkets.Com",
+      "published_utc": "2024-12-04T18:48:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2024/12/04/2991849/28124/en/Medical-Tapes-Industry-Report-2024-with-Profiles-of-Leading-Companies-including-3M-Johnson-Johnson-Smith-Nephew-B-Braun-Melsungen-and-Molnlycke-Health-Care.html",
+      "tickers": [
+        "MMM",
+        "JNJ",
+        "SNN"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The global medical tapes market is expected to grow from $5.6 billion in 2024 to $7 billion by 2029, driven by healthcare advancements, an aging population, and technological innovations. The market is segmented by product, application, and end-user, with North America and Europe leading the growth.",
+      "keywords": [
+        "medical tapes",
+        "healthcare",
+        "aging population",
+        "technology",
+        "market segmentation",
+        "regional analysis"
+      ],
+      "insights": [
+        {
+          "ticker": "MMM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "3M is mentioned as one of the leading companies in the medical tapes industry, indicating its strong market position and potential for growth."
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Johnson & Johnson is also listed as a leading company in the medical tapes market, suggesting its significant presence and competitiveness in the industry."
+        },
+        {
+          "ticker": "SNN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Smith & Nephew is included among the top companies in the medical tapes market, highlighting its importance and potential for future performance."
+        }
+      ]
+    },
+    {
+      "id": "477b38388734f7449569a3673878f4e11ad5fa4d7c6efe06d76e615e458bced4",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Global Artificial Sweeteners Market to Observe Growth at a CAGR of ~4% by 2030 | DelveInsight",
+      "author": "Delveinsight",
+      "published_utc": "2024-12-04T18:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2024/12/04/2991828/0/en/Global-Artificial-Sweeteners-Market-to-Observe-Growth-at-a-CAGR-of-4-by-2030-DelveInsight.html",
+      "tickers": [
+        "INGR",
+        "ADM",
+        "CE",
+        "CDXS",
+        "IFF",
+        "JNJ"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/dbcddd65-71dd-4559-8875-ae89ac4f96db",
+      "description": "The global artificial sweeteners market is expected to grow at a CAGR of around 4% from 2024 to 2030, driven by the increasing demand for low-calorie foods due to the rising rates of diabetes, hypertension, and obesity, as well as ongoing research and development efforts leading to new product launches.",
+      "keywords": [
+        "artificial sweeteners",
+        "diabetes",
+        "obesity",
+        "low-calorie foods",
+        "research and development"
+      ],
+      "insights": [
+        {
+          "ticker": "INGR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Ingredion is mentioned as one of the notable companies operating in the artificial sweeteners market, indicating its involvement and potential contribution to the market growth."
+        },
+        {
+          "ticker": "ADM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "ADM is mentioned as one of the notable companies operating in the artificial sweeteners market, indicating its involvement and potential contribution to the market growth."
+        },
+        {
+          "ticker": "CE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Celanese Corporation is mentioned as one of the notable companies operating in the artificial sweeteners market, indicating its involvement and potential contribution to the market growth."
+        },
+        {
+          "ticker": "CDXS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Codexis, Inc. is mentioned as one of the notable companies operating in the artificial sweeteners market, indicating its involvement and potential contribution to the market growth."
+        },
+        {
+          "ticker": "IFF",
+          "sentiment": "positive",
+          "sentiment_reasoning": "International Flavors & Fragrances Inc. is mentioned as one of the notable companies operating in the artificial sweeteners market, indicating its involvement and potential contribution to the market growth."
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Johnson & Johnson Services, Inc. is mentioned as one of the notable companies operating in the artificial sweeteners market, indicating its involvement and potential contribution to the market growth."
+        }
+      ]
+    }
+  ]
+}

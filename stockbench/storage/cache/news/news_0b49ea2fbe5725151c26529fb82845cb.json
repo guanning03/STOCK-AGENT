@@ -1,0 +1,272 @@
+{
+  "items": [
+    {
+      "id": "449b0953b2866ed808c03de146bfd9cd9bb1a1aa3f2e79fcdf88eaf35ad88c9d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Here's How Incredibly Expensive Apple's Stock Is",
+      "author": "Travis Hoium",
+      "published_utc": "2024-12-18T14:24:55Z",
+      "article_url": "https://www.fool.com/investing/2024/12/18/apples-stock-is-insanely-overvalued/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801313/burning-money.jpg",
+      "description": "The article discusses how Apple, once an iconic company, is no longer growing and its new products have fallen flat. It suggests that Treasuries may be a better investment option than Apple stock currently.",
+      "keywords": [
+        "Apple",
+        "Treasuries",
+        "investment"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that Apple is no longer growing and its new products have fallen flat, indicating a negative outlook on the company's performance."
+        }
+      ]
+    },
+    {
+      "id": "6c3122612e8ea5e2ae0246b5d34951edcd800704dfe24df4b082632cec76fb39",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Warren Buffett Stock to Hold Forever",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-18T12:30:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/18/1-warren-buffett-stock-to-hold-forever/?source=iedfolrf0000001",
+      "tickers": [
+        "KO",
+        "PG",
+        "AXP",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799273/people-drinking-cola.jpg",
+      "description": "Warren Buffett is a big fan of Coca-Cola, which he has held in Berkshire Hathaway's portfolio for decades. Coca-Cola is a Dividend King with a strong brand, pricing power, and global reach, making it an attractive long-term investment for Buffett and other investors.",
+      "keywords": [
+        "Coca-Cola",
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "Dividend King",
+        "long-term investment"
+      ],
+      "insights": [
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Coca-Cola's strong brand, pricing power, global reach, and status as a Dividend King, making it an attractive long-term investment for Warren Buffett and other investors. The article also notes that Coca-Cola has been a key holding in Berkshire Hathaway's portfolio for decades."
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not mention Procter & Gamble, so no sentiment can be determined."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that American Express is one of the three stocks that Warren Buffett does not plan to ever sell, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Apple is one of the three stocks that Warren Buffett does not plan to ever sell, indicating a positive sentiment towards the company."
+        }
+      ]
+    },
+    {
+      "id": "0e17202e0b6826dbfb5180ab56ba38c39d038639751f0f8f02ca58d0b1a60703",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Meet the 3 Artificial Intelligence (AI) Stocks Dan Ives Says Will Become The First Members of the $4 Trillion Club in 2025",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-18T10:50:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/18/meet-the-3-artificial-intelligence-ai-stocks-dan-i/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "MSFT",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801059/gettyimages-1298611710.jpg",
+      "description": "Dan Ives of Wedbush Securities believes Apple, Microsoft, and Nvidia are poised to become the first $4 trillion companies by 2025, driven by their strong AI capabilities and growing demand for their products and services.",
+      "keywords": [
+        "Artificial Intelligence",
+        "Apple",
+        "Microsoft",
+        "Nvidia"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple's new Apple Intelligence software, which leverages ChatGPT, is expected to drive a major iPhone upgrade cycle and propel the company's growth in the AI space."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft has successfully integrated AI enhancements across its ecosystem, particularly in its Azure cloud platform, which is seeing strong demand and growth in AI-related services."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia's graphics processing units, data center services, and CUDA software make it a dominant player in the AI chip market, and the launch of its Blackwell architecture is expected to drive further growth."
+        }
+      ]
+    },
+    {
+      "id": "0188a94f91b9c97d7d872a2f689031f89c0438c11777619102677e2260f76c14",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "US Stocks Led By Apple, Nvidia, And Other Tech Giants Dominate Nearly Two-Thirds Of MSCI World Index, Drawing Parallels To 1980s Peak",
+      "author": "Rishabh Mishra",
+      "published_utc": "2024-12-18T09:53:29Z",
+      "article_url": "https://www.benzinga.com/24/12/42548075/us-stock-markets-outsized-influence-resurges-as-it-dominates-two-thirds-of-msci-world-indexs-capitalization-mirro",
+      "tickers": [
+        "AAPL",
+        "MSFT",
+        "NVDA",
+        "AMZN"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2024/12/18/magnificent-7-shutter.jpeg?width=1200&height=800&fit=crop",
+      "description": "U.S. tech giants like Apple, Microsoft, Nvidia, and Amazon now make up nearly two-thirds of the MSCI World Index, a level of dominance not seen since the 1980s. This concentration in a few large companies raises concerns about the market's stability.",
+      "keywords": [
+        "US stocks",
+        "tech giants",
+        "MSCI World Index",
+        "market concentration"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple is one of the largest and most dominant companies in the MSCI World Index, reflecting the strength of the U.S. tech sector."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is another major U.S. tech company that has a significant presence in the MSCI World Index."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia is a leading U.S. tech company that has contributed to the dominance of American firms in the MSCI World Index."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon is a prominent U.S. tech giant that is a major component of the MSCI World Index."
+        }
+      ]
+    },
+    {
+      "id": "a64973302a15f3507c4bb64e7880736bac01dcdc0cc967d709bfd1017ff120fb",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Purpose Investments Inc. annonce les distributions de décembre 2024",
+      "author": "Na",
+      "published_utc": "2024-12-18T01:47:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2024/12/18/2998704/0/fr/Purpose-Investments-Inc-annonce-les-distributions-de-d%C3%A9cembre-2024.html",
+      "tickers": [
+        "AAPL",
+        "MSFT",
+        "AMD",
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "META",
+        "NVDA",
+        "TSLA",
+        "BRK.A",
+        "BRK.B"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/a28192cb-6294-4424-8c24-646fee2c81cd",
+      "description": "Purpose Investments announced the December 2024 distributions for its ETFs and closed-end funds. The distributions will be paid on January 6, 2025, with the ex-distribution date being December 27, 2024 for variable capital funds and December 31, 2024 for fixed capital funds.",
+      "keywords": [
+        "Purpose Investments",
+        "ETFs",
+        "Closed-End Funds",
+        "Distributions"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions a monthly distribution for the Purpose - AAPL ETF, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions a monthly distribution for the Purpose - MSFY ETF, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "AMD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions a monthly distribution for the Purpose - YAMD ETF, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions a monthly distribution for the Purpose - YAMZ ETF, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions a monthly distribution for the Purpose - YGOG ETF, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions a monthly distribution for the Purpose - YGOG ETF, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions a monthly distribution for the Purpose - YMET ETF, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions a monthly distribution for the Purpose - YNVD ETF, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions a monthly distribution for the Purpose - YTSL ETF, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions a monthly distribution for the Purpose - BRKY ETF, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions a monthly distribution for the Purpose - BRKY ETF, indicating a positive sentiment towards the company."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:41:40.332309+00:00",
+    "cache_key": "news_0b49ea2fbe5725151c26529fb82845cb",
+    "count": 5
+  }
+}

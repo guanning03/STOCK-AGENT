@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Better Weight Loss Stock: Novo Nordisk Vs. Amgen",
+      "description": "They may appeal to different kinds of investors.",
+      "published_utc": "2026-03-08T14:50:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c2430cb2e65819ca65e555d5ac351fa3901786a497c89743a2fe72da51e53e65",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139344810,
+      "datetime": 1772995800
+    },
+    {
+      "title": "Amgen Inc. (AMGN) Completes Phase 3 Trial for ABP 206 Opdivo Biosimilar Candidate",
+      "description": "Amgen Inc. (NASDAQ:AMGN) is one of the 10 best stocks to invest in during a recession. On February 27, 2026, Amgen Inc. (NASDAQ:AMGN)’s Phase 3 study (NCT05907122) saw an update. The study investigating ABP 206, a biosimilar candidate for Opdivo (nivolumab), has officially reached Completed status. The trial enrolled 256 subjects with resected stage III […]",
+      "published_utc": "2026-03-08T12:50:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9d0513ed37b08bd2e1026e2d82f1c06ffbcaa1f050765921c547c2e744963f02",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139343851,
+      "datetime": 1772988630
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T04:13:19.884895+00:00",
+    "cache_key": "news_89efb9466f62f0af8b7f1fb8c82d8491",
+    "count": 2
+  }
+}

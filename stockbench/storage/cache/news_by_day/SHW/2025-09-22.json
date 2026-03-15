@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Sherwin-Williams: Stingy 401(K) Changes Paint A Dim Picture",
+      "description": "Sherwin-Williams stock is navigating benefit cuts and market headwinds. Here's why investors should keep a close eye on the paint company.",
+      "published_utc": "2025-09-22T11:30:28",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=60e6fa2282b7fbca3bf5ea2dbd7cedb5affe2a5d00e0e21cc2ba9c1f7a416980",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2160230261/image_2160230261.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136844005,
+      "datetime": 1758555028
+    },
+    {
+      "title": "Sherwin-Williams: The Premium Is Hard To Justify",
+      "description": "",
+      "published_utc": "2025-09-22T06:48:46",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=520188a2994f326d57ff41c3b8eb663936cf27d02c2c103d28ae4379733ed627",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136842664,
+      "datetime": 1758538126
+    }
+  ]
+}

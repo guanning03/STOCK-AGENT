@@ -1,0 +1,80 @@
+{
+  "items": [
+    {
+      "title": "Human Spaceflight: No Longer Possible Without SpaceX",
+      "description": "Human spaceflight just because a seller's market -- and Elon Musk is the only seller out there.",
+      "published_utc": "2025-12-13T21:35:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0e7b7f04a511c226798f03e22597412a13357bcc302be10b03db8475eb04fab8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137792571,
+      "datetime": 1765679700
+    },
+    {
+      "id": "75553ae7d4d425a5ec3bebc211fd6ca83b57665425f217afc5f24ff84f4ab2f6",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Are RTX Stock Investors Happy, or Did They Miss Out?",
+      "author": "Lee Samaha",
+      "published_utc": "2025-12-14T14:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/12/14/are-rtx-stock-investors-happy-or-did-they-miss-out/?source=iedfolrf0000001",
+      "tickers": [
+        "RTX",
+        "GE",
+        "BA",
+        "BApA",
+        "LMT"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F844225%2Finvesting-in-great-stocks.jpg&w=1200&op=resize",
+      "description": "RTX stock has outperformed the market, but faces challenges in its defense segment with fixed-price development program issues. The commercial aerospace business has been strong, benefiting from increased flight departures post-pandemic.",
+      "keywords": [
+        "aerospace",
+        "defense",
+        "stock performance",
+        "commercial aviation",
+        "fixed-price contracts"
+      ],
+      "insights": [
+        {
+          "ticker": "RTX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mixed performance with strong commercial aerospace segment but challenges in defense contracts and operational issues like engine contamination"
+        },
+        {
+          "ticker": "GE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Performed better than RTX, benefited from commercial aerospace recovery and aftermarket business growth"
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Experiencing similar defense contract challenges and margin pressure"
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Experiencing similar defense contract challenges and margin pressure"
+        },
+        {
+          "ticker": "LMT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Facing difficulties with fixed-price development programs and potential margin compression"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:35:07.220270+00:00",
+    "cache_key": "news_da95e1201320fb83fea3ea6ac9122557",
+    "count": 2
+  }
+}

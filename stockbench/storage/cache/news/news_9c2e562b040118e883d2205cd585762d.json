@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Pros: 3 Trouble Signs Every Investor Should Watch",
+      "description": "On Wednesday the Fast Money traders were squarely focused on 3 key developments that may signal serious challenges lie ahead for the stocks.",
+      "published_utc": "2025-11-24T10:26:44",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=a1d409ea9e088b299f32cea48722ef8cd4fad42f3ffa44f5ef3a77f91b86b89d",
+      "category": "company",
+      "image": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo_new.png?v=1524171804&w=1920&h=1080",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137604850,
+      "datetime": 1763998004
+    },
+    {
+      "title": "Here's How Much a $1000 Investment in Caterpillar Made 10 Years Ago Would Be Worth Today",
+      "description": "Why investing for the long run, especially if you buy certain popular stocks, could reap huge rewards.",
+      "published_utc": "2025-11-24T08:30:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7dc876f889f3dfc26660156c7103ffdd627b01115e084a05297878418941bf7c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137591449,
+      "datetime": 1763991005
+    },
+    {
+      "title": "Caterpillar Is Quietly Beating Nvidia Stock This Year. Should You Buy It?",
+      "description": "Caterpillar stock has surged 52% so far this year.",
+      "published_utc": "2025-11-24T03:26:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8364da070d9f1059dd23dfdb9d1f033273d9e333e7144342b364134eb160bb8a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137589191,
+      "datetime": 1763972760
+    },
+    {
+      "title": "My Most Important Market Bet In Years - And Why I'm Doubling Down Now",
+      "description": "Discover why cyclical value stocks may outperform as economic recovery gains traction.",
+      "published_utc": "2025-11-24T02:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8b4534aec597634cca8f9a018b96f1268345d0f7d42429df40f3cb589f761c88",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/152183169/image_152183169.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137588704,
+      "datetime": 1763969400
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:33:23.178665+00:00",
+    "cache_key": "news_9c2e562b040118e883d2205cd585762d",
+    "count": 4
+  }
+}

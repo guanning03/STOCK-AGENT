@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Near-Perfect Portfolio Strategy For Today's Uncertain Market",
+      "description": "Read about our \"Near-Perfect\" Strategy portfolio for steady income, growth, and lower risk.",
+      "published_utc": "2025-11-22T03:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=221607b1c54689dba3e4a239f08f65758edde4bc7cb93a602e72e00d6f0d3ffe",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1272926075/image_1272926075.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137577160,
+      "datetime": 1763800200
+    },
+    {
+      "title": "Jim Cramer on Kenvue: “I Think It is a Good Situation, Not a Bad One”",
+      "description": "Kenvue Inc. (NYSE:KVUE) is one of the stocks on Jim Cramer’s radar recently. During the lightning round, a caller asked if long-term shareholders should be worried. Here’s what Mad Money’s host had to say in response: “Okay, it’s a really important question because I’ve been looking to buy Kimberly. I think the answer is no. […]",
+      "published_utc": "2025-11-22T02:29:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0c56a94ce1c6f2733f2d139304d435867336976cc4afb95e55970db56506efd6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137578769,
+      "datetime": 1763796593
+    }
+  ]
+}

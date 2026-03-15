@@ -1,0 +1,108 @@
+{
+  "items": [
+    {
+      "id": "7b212124861e07e3fc9fb4fa50a5a1fa4fa1fc2f6c5d6b9512d3302cf4d14ad5",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "AMD's Stock Has Doubled This Year. Here's Why It's Not Too Late to Invest.",
+      "author": "David Jagielski",
+      "published_utc": "2025-11-02T14:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/11/02/amds-stock-has-doubled-this-year-heres-why-its-not/?source=iedfolrf0000001",
+      "tickers": [
+        "AMD",
+        "NVDA",
+        "IBM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/839966/a-robot-working-with-a-human.jpg",
+      "description": "AMD's stock has surged 115% this year, driven by strong growth in its AI chip business. Despite initial challenges competing with Nvidia, AMD is now seen as a promising investment with potential for significant future earnings in artificial intelligence.",
+      "keywords": [
+        "AMD",
+        "AI",
+        "semiconductor",
+        "technology",
+        "stock investment"
+      ],
+      "insights": [
+        {
+          "ticker": "AMD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong AI chip business growth, potential partnership with OpenAI, attractive forward P/E ratio, CEO's optimistic revenue projections, and potential to reach $1 trillion market valuation"
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a key competitor to AMD, previously outperformed AMD but now seeing slower growth"
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as exploring AMD's chips for quantum computer development"
+        }
+      ]
+    },
+    {
+      "title": "Quantum Threat to Bitcoin: How Panic Could Break Crypto Before Physics Does",
+      "description": "Experts say the real danger to Bitcoin isn’t quantum machines—it’s human panic and slow preparation.",
+      "published_utc": "2025-11-02T11:01:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b62f5b846ae5f7b70be2ea90cbec3f6ff190fe0ca2117986568ba5d222274882",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137294405,
+      "datetime": 1762099303
+    },
+    {
+      "title": "IBM Stock Is Outperforming Nvidia's This Year. Are Shares a Buy?",
+      "description": "IBM shares are outperforming Nvidia's in 2025 as the company sees its strongest revenue growth in years.",
+      "published_utc": "2025-11-02T08:37:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ef9dde0b5ddba38d3fd802812a4cec2ab9ddf57e34c02c4245c84e1d84c0ae6b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137294328,
+      "datetime": 1762090620
+    },
+    {
+      "title": "3 Top Quantum Computing Stocks to Buy in 2025",
+      "description": "Commercially viable quantum computers are in the future, and these three companies are leading the way.",
+      "published_utc": "2025-11-02T06:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f67c1f44f6988100f144bb8e5da3b4de97dc392c83741b6380627ba2dbad3937",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137294359,
+      "datetime": 1762083900
+    },
+    {
+      "title": "IBM’s quantum bet could finally pay off",
+      "description": "Investing.com -- IBM is betting its next big turnaround will come from the smallest things imaginable. At a recent event, executives including CFO James Kavanaugh and research head Jay Gambetta said the company’s quantum computing roadmap remains on track to deliver commercial gains before 2030. If it works, it could restore IBM’s reputation for technological leadership and justify a valuation premium that looks generous by past standards.",
+      "published_utc": "2025-11-02T05:30:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=08ae25b8838143bd375dbb9e9f348d3b21eb2e10ac050033736e7fac65a23484",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137294334,
+      "datetime": 1762079406
+    }
+  ]
+}

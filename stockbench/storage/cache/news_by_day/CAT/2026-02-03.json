@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+      "description": "A sell-off in tech names pulled the S&P 500 and Nasdaq Composite to a losing session on Tuesday. The Dow, which briefly touched a fresh high, also closed lower.",
+      "published_utc": "2026-02-03T15:11:35",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=2e969ca36c022ca3616268994df859bea1f8a575bb5275793a47575cb555dc16",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108216553-1761309874594-gettyimages-2242649858-ALPHABET_EARNS.jpeg?v=1770141907&w=1920&h=1080",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138354623,
+      "datetime": 1770149495
+    },
+    {
+      "title": "S&P 500 falls for a second day after AMD earnings, weak jobs data: Live updates",
+      "description": "Tech put on the worst performance of the 11 sectors in the S&P 500, falling more than 2% on Tuesday.",
+      "published_utc": "2026-02-03T13:03:55",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=097617f9fd18337ea766f82b130b0e3006f4c4886dc3d23391e50f4250b7aaee",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108255370-17690326632026-01-21t215601z_1748655105_rc2v5japswy2_rtrmadp_0_usa-stocks.jpeg?v=1769032713&w=1920&h=1080",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138354595,
+      "datetime": 1770141835
+    },
+    {
+      "title": "ACI Wins Multi-Year Caterpillar Engagement as Strategic Technology Transformation Partner",
+      "description": "ACI, a global provider of enterprise-grade technology services, today announced it has entered into a multi-year, strategic partnership with Caterpillar Inc. (NYSE: CAT). ACI will lead a comprehensive modernization initiative focused on mission-critical applications across Caterpillar's dealer network.",
+      "published_utc": "2026-02-03T12:37:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=42f179e3ceb7c2ec910e95138adf4a6a6a994bda7832044c079df603c16e52f4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138344120,
+      "datetime": 1770140220
+    },
+    {
+      "title": "Baird Highlights Backlog Strength and Earnings Visibility at Caterpillar (CAT)",
+      "description": "Caterpillar Inc. (NYSE:CAT) is included among the Dividend Growth Stocks: 25 Aristocrats. On January 30, Baird raised its price target on Caterpillar Inc. (NYSE:CAT) to $805 from $680 and maintained an Outperform rating. The firm updated its model after reviewing fourth-quarter results that pointed to a large backlog, solid earnings visibility, and returns on invested […]",
+      "published_utc": "2026-02-03T09:07:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=185cd760c571faac0bce3430f85d6b383b65f129b5a6e2ab754b823179c5bb91",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138342596,
+      "datetime": 1770127658
+    },
+    {
+      "title": "What's Going On With Caterpillar Stock Today?",
+      "description": "Caterpillar shares ticked higher in Tuesday&#39;s premarket after multiple analysts raised price targets following the company&#39;s late-January earnings beat.",
+      "published_utc": "2026-02-03T07:15:29",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f75c5d503f04ce8e16c1bed88b242f8c44001b0e86e29c3c740ad4fbb1e1b1aa",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/02/03/Caterpillar--Kuala-Lumpur--Malaysia---Ja.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138929309,
+      "datetime": 1770120929
+    }
+  ]
+}

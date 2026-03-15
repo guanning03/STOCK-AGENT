@@ -1,0 +1,158 @@
+{
+  "items": [
+    {
+      "id": "8c6d2d54b86966cf555fc256720638473e1b32d7e476f3f9c1579f35907c0c88",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "2 No-Brainer Technology Stocks to Buy Right Now",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-20T13:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/20/2-no-brainer-technology-stocks-to-buy-right-now/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804382/gettyimages-1492319884.jpg",
+      "description": "Nvidia and Amazon are well-positioned to capitalize on the growing demand for AI infrastructure and cloud computing. Nvidia's dominance in the GPU market and Amazon's leadership in cloud services make them attractive investment opportunities.",
+      "keywords": [
+        "Nvidia",
+        "Amazon",
+        "AI",
+        "Cloud Computing",
+        "Technology Stocks"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia is the leader in AI infrastructure, with its GPUs providing the computing power needed to train AI models. The company's CUDA software platform has become the de facto standard for developers, and it is well-positioned to benefit from the growing demand for AI computing power."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon's AWS cloud computing unit is its most profitable business, and the company is helping organizations build and deploy their own AI models and applications through its Bedrock and SageMaker solutions. Amazon is also using AI to improve its e-commerce and logistics operations, making it a well-rounded player in the AI and cloud computing space."
+        }
+      ]
+    },
+    {
+      "id": "7a2072a8b255e6e6224fcad6803af0e43cc9060bc105a2b06b88feb46c5bc75e",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Could This Growth Stock Have a Meteoric Rise in 2025?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-20T11:17:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/20/could-this-growth-stock-have-meteoric-rise-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "ROKU",
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804334/three-people-on-couch-watching-tv-living-room.jpg",
+      "description": "Roku, a leading smart-TV platform, continues to post solid double-digit revenue growth despite facing competition from tech giants like Alphabet, Amazon, and Apple. The company's growth is driven by the rise of streaming entertainment and digital advertising, and its leading market share in North America makes it a stock worth considering for long-term investors.",
+      "keywords": [
+        "Roku",
+        "streaming",
+        "digital advertising",
+        "competition"
+      ],
+      "insights": [
+        {
+          "ticker": "ROKU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Roku's strong growth trajectory, with 13% year-over-year increase in households and 16% sales gain in Q3 2024. It also notes Roku's leading market share in smart-TV operating systems in North America, which gives it an advantage over its larger competitors. The article suggests Roku is well-positioned to benefit from the rise of streaming entertainment and digital advertising, making it an attractive investment opportunity."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Alphabet as a direct competitor to Roku in the streaming and digital advertising space, but does not provide a clear assessment of Alphabet's performance or outlook."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Alphabet as a direct competitor to Roku in the streaming and digital advertising space, but does not provide a clear assessment of Alphabet's performance or outlook."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article identifies Amazon as a competitor to Roku in the streaming and digital advertising market, but does not offer a detailed analysis of Amazon's performance or position."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists Apple as a direct competitor to Roku in the streaming and digital advertising space, but does not provide any specific insights about Apple's performance or outlook."
+        }
+      ]
+    },
+    {
+      "id": "225b164b8814a54ef5cdb7a03fd9a57e3730254a72e8af1565eaed8e47ddfc14",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Will Donald Trump Heed Warren Buffett's Stark Warning About Tariffs?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-20T08:50:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/20/will-donald-trump-heed-warren-buffetts-stark-warni/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "TSLA",
+        "META",
+        "BRK.A",
+        "BRK.B"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804375/buffett2-tmf.jpg",
+      "description": "The article discusses Trump's proposed tariffs, including steep tariffs on imports from China, Canada, and Mexico. It also highlights Warren Buffett's warnings about the negative economic impact of such tariffs leading to a trade war.",
+      "keywords": [
+        "tariffs",
+        "trade war",
+        "Trump",
+        "Buffett",
+        "economy"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Amazon founder and chairman Jeff Bezos is expected to attend Trump's inauguration, but does not provide any specific information about Amazon's stance on the proposed tariffs."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Tesla CEO Elon Musk is expected to attend Trump's inauguration, but does not provide any specific information about Tesla's stance on the proposed tariffs."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Meta Platforms founder and CEO Mark Zuckerberg is expected to attend Trump's inauguration, but does not provide any specific information about Meta's stance on the proposed tariffs."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights that Warren Buffett, the CEO of Berkshire Hathaway, has publicly warned about the negative economic impact of steep tariffs that could lead to a trade war. This suggests that Buffett is against the proposed tariffs."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights that Warren Buffett, the CEO of Berkshire Hathaway, has publicly warned about the negative economic impact of steep tariffs that could lead to a trade war. This suggests that Buffett is against the proposed tariffs."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:02:09.500711+00:00",
+    "cache_key": "news_8efaf36c3605e338f4a887d3390b9471",
+    "count": 3
+  }
+}

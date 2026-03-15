@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer on Procter & Gamble: “It Has the Opportunity to Shake Things Up”",
+      "description": "The Procter & Gamble Company (NYSE:PG) is one of the stocks Jim Cramer talked about. During the episode, Cramer noted that it is one of the few consumer packaged goods companies that “doesn’t have a GLP-1 problem,” as he said: “I can go over how NVIDIA or Broadcom are down huge too much, and they’re […]",
+      "published_utc": "2026-01-10T14:56:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c6314886d0e5bffe1f9bf0fc50c54b71bd6d36068427d8bde7ad24048e5bf386",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138068766,
+      "datetime": 1768075001
+    },
+    {
+      "title": "Can the Dogs of the Dow Really Beat the Magnificent 7 in 2026?",
+      "description": "Even suggesting that the Dogs of the Dow could outperform the Magnificent 7 in 2026 seems ludicrous. The Dogs consist of stodgy, beaten-down stocks from the Dow Jones Industrial Average, often mature companies that have underperformed recently, leading to high dividend yields. In contrast, the Magnificent 7 represent elite Big Tech firms driving market gains ... Can the Dogs of the Dow Really Beat the Magnificent 7 in 2026?",
+      "published_utc": "2026-01-10T09:53:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0152f8a502dd68997ff926d391135913263a4d9049013bf348a10c49a18866d7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138065576,
+      "datetime": 1768056817
+    },
+    {
+      "title": "January Dogs Of The Dow: One Ideal 'Safer' Dividend Buy",
+      "description": "January 2026 Dogs of the Dow update: Verizon is the only âdogcatcherâ stock.",
+      "published_utc": "2026-01-10T04:52:01",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1660b2a2ba8c3d9e6bd7a573907b58ceded4a1a0c4d63c9ba3a114cc975bf4d3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1839458057/image_1839458057.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138055995,
+      "datetime": 1768038721
+    }
+  ]
+}

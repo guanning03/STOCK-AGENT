@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "id": "f3f11d491cb3e8cb81d5156a975a4bd286bd6fbb5d7ff936763e6759afb0ca55",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Every Palantir Investor Should Keep an Eye on This Number",
+      "author": "Jeremy Bowman",
+      "published_utc": "2024-12-29T14:21:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/29/every-palantir-investor-should-watch-this-number/?source=iedfolrf0000001",
+      "tickers": [
+        "PLTR",
+        "LMT",
+        "RTX",
+        "BA",
+        "BApA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802178/globe-cloud-software-network.jpg",
+      "description": "Palantir Technologies (PLTR) has seen its stock price soar 379% year-to-date, driven by strong revenue growth and expanding margins. However, the company's valuation has become extremely high, with a price-to-sales ratio of 75. To maintain its gains, Palantir will need to continue accelerating its revenue growth, which will be a key metric to watch going forward.",
+      "keywords": [
+        "Palantir Technologies",
+        "data fusion",
+        "artificial intelligence",
+        "government contracts",
+        "commercial business",
+        "revenue growth",
+        "valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "PLTR",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a balanced view on Palantir, acknowledging the company's strong performance and growth, but also highlighting concerns about its lofty valuation. The neutral sentiment reflects the fact that the article does not take a clear stance on whether the stock is a good investment or not, but rather focuses on the key factors that will determine the stock's future performance."
+        },
+        {
+          "ticker": "LMT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Lockheed Martin is mentioned as one of the traditional leaders in the defense industry that Palantir's consortium is challenging. The article does not provide any specific analysis or commentary on Lockheed Martin, so the sentiment is neutral."
+        },
+        {
+          "ticker": "RTX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "RTX (Raytheon Technologies) is mentioned alongside Lockheed Martin and Boeing as traditional defense industry leaders that Palantir's consortium is challenging. The article does not provide any specific analysis or commentary on RTX, so the sentiment is neutral."
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Boeing is mentioned as one of the traditional defense industry leaders that Palantir's consortium is challenging. The article does not provide any specific analysis or commentary on Boeing, so the sentiment is neutral."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Boeing is mentioned as one of the traditional defense industry leaders that Palantir's consortium is challenging. The article does not provide any specific analysis or commentary on Boeing, so the sentiment is neutral."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:09:00.019829+00:00",
+    "cache_key": "news_9b55c091a1e5c701bcdcd7a994a855dd",
+    "count": 1
+  }
+}

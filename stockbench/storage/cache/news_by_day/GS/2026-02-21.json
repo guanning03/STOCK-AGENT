@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "id": "bf51624990848fda4cb24720db660edb455188b92fcab852a8773752e1b9442c",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Could This $14 Stock Be Your Ticket to Millionaire Status?",
+      "author": "Steven Porrello",
+      "published_utc": "2026-02-21T02:30:00Z",
+      "article_url": "https://www.fool.com/investing/2026/02/20/could-this-14-stock-be-your-ticket-to-millionai/?source=iedfolrf0000001",
+      "tickers": [
+        "SMR",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD",
+        "OKLO",
+        "NNE"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F855629%2Fnuscale-logo-on-smartphone-with-stock-chart-background-smr.webp&w=1200&op=resize",
+      "description": "NuScale Power, a nuclear technology company with the only U.S. NRC-approved small modular reactor design, faces challenges despite significant long-term potential. While data center power demand could surge 175% by 2030, NuScale has no firm sales yet and is burning cash with losses. Trading at 68x sales with a $4.1B market cap, the stock presents high risk and volatility despite transformative technology potential.",
+      "keywords": [
+        "nuclear energy",
+        "small modular reactors",
+        "data centers",
+        "power grid",
+        "NRC approval",
+        "cash burn",
+        "high valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "SMR",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Company has significant technological advantages (only U.S. NRC-approved SMR design) and massive market opportunity (175% data center power demand growth by 2030), but faces near-term headwinds including no firm sales, cash burn, operating losses, and expensive valuation (68x sales). High risk-reward profile warrants cautious stance."
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned only as source of research data on data center power demand projections; no direct investment thesis or company-specific information provided."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned only as source of research data on data center power demand projections; no direct investment thesis or company-specific information provided."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned only as source of research data on data center power demand projections; no direct investment thesis or company-specific information provided."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned only as source of research data on data center power demand projections; no direct investment thesis or company-specific information provided."
+        },
+        {
+          "ticker": "OKLO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a competing nuclear startup in the SMR space, but no specific analysis or sentiment provided in the article."
+        },
+        {
+          "ticker": "NNE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a competing nuclear startup in the SMR space, but no specific analysis or sentiment provided in the article."
+        }
+      ]
+    }
+  ]
+}

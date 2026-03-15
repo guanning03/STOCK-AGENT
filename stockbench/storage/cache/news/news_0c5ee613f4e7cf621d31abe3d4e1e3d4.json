@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "McDONALD'S RAISES QUARTERLY CASH DIVIDEND BY 5%",
+      "description": "McDonald's Board of Directors declared a quarterly cash dividend of $1.86 per share of common stock payable on December 15, 2025 to shareholders of record at the close of business on December 1, 2025. The 5% increase over the Company's previous quarterly dividend reflects continued confidence in the Accelerating the Arches growth strategy and our ability to drive long-term profitable growth for all stakeholders.",
+      "published_utc": "2025-10-22T17:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=72c1567dbb95a8fec446de636bbe64f219634275991f8e80ae904dfd92807b71",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137191939,
+      "datetime": 1761166800
+    },
+    {
+      "title": "McDonald's Increases Quarterly Dividend by 5%",
+      "description": "McDonald's Increases Quarterly Dividend by 5%",
+      "published_utc": "2025-10-22T13:22:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=824ebc4db4249559ff6f32cfb0abe68d955dbbbd2f09eca49833054aeea7f9ad",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137226291,
+      "datetime": 1761153720
+    },
+    {
+      "title": "AWS Outage: Why Amazon Stock Didn't Take A Hit From Cloud Crash",
+      "description": "Amazon started off the week racing to fix a massive cloud outage that drove errors for users of apps from McDonald's to Robinhood Markets.  Despite the AWS meltdown, Amazon stock is poised to end the week with a modest gain.  The gains Monday came even as the extent of its Amazon Web Services outage became clear early that morning and set off cascading problems across the broader internet throughout the day.",
+      "published_utc": "2025-10-22T13:02:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4ef16355f59ce8b536285d592c42b09fa383747cb4285dd34f9f07985a1c8fa1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137187563,
+      "datetime": 1761152552
+    },
+    {
+      "title": "McDonald's Increases Quarterly Dividend From $1.77 To $1.86 Per Share",
+      "description": "McDonald&#39;s Board of Directors declared a quarterly cash dividend of $1.86 per share of common stock payable on December 15, 2025 to shareholders of record at the close of business on December 1, 2025. The 5% increase",
+      "published_utc": "2025-10-22T13:02:08",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=ea16e7a4191ec2407ef260ba4a6405d52c2b74edaeda0754639fc8d353874709",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138505924,
+      "datetime": 1761152528
+    },
+    {
+      "title": "Beyond Meat shares surge over 1,000pc in ‘meme stock’ frenzy",
+      "description": "Shares in fake meat business Beyond Meat have soared almost 1,300pc in under a week as so-called “meme stock” investors plough into the unloved US business.",
+      "published_utc": "2025-10-22T12:43:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3e12f939738ed56303a9fc2183f7b5a15f2b24c036a12cab45ca3434d5621c5f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137187503,
+      "datetime": 1761151380
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:48:12.330057+00:00",
+    "cache_key": "news_0c5ee613f4e7cf621d31abe3d4e1e3d4",
+    "count": 5
+  }
+}

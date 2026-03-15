@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "'Just Beginning,' Awardco Founder On The Superpower That Allowed Him To Build A $1 Billion Business",
+      "description": "",
+      "published_utc": "2025-12-03T17:01:14",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=ddaf70978b02309d1e8221937a93b200f00692fd51c5abb7b993ea14a4f5eb45",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/12/03/Startup-Funding-Or-Project-Crowdfunding-.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138505882,
+      "datetime": 1764799274
+    },
+    {
+      "title": "UnitedHealth, Nike share gains lead Dow's nearly 400-point climb",
+      "description": "UnitedHealth, Nike share gains lead Dow's nearly 400-point climb",
+      "published_utc": "2025-12-03T08:40:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=211dfdb5dfd6fa0b009c58590ffeeab9e504577a015a216b04dfa725f766585c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137682274,
+      "datetime": 1764769200
+    },
+    {
+      "title": "Buy Verizon, December's Ideal \"Safer\" Dog Of The Dow",
+      "description": "Read the latest Dogs of the Dow update: see which top dividend stocks offer optimal value, growth forecasts, and safe yields.",
+      "published_utc": "2025-12-03T07:02:23",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2667faafae3ff28b914df962f1f36c6af7bda25b202492689598e8cf884cc067",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1219303612/image_1219303612.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137672165,
+      "datetime": 1764763343
+    },
+    {
+      "title": "Dow extends gains, Nasdaq and S&P 500 flip higher in late-morning trading",
+      "description": "Dow extends gains, Nasdaq and S&P 500 flip higher in late-morning trading",
+      "published_utc": "2025-12-03T05:45:25",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=15951efe285bd87f0e05d27e1cee95d0fa153c09d22aa2d3d4c2081703d3f5f6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137682473,
+      "datetime": 1764758725
+    },
+    {
+      "title": "Dow up nearly 150 points on gains for shares of UnitedHealth, McDonald's",
+      "description": "Dow up nearly 150 points on gains for shares of UnitedHealth, McDonald's",
+      "published_utc": "2025-12-03T05:25:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=ea5019515b07d28ae95e234fbaa3fcf29b9e9fa938ebab819abff3cabd5372a4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137682474,
+      "datetime": 1764757500
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:01:05.192807+00:00",
+    "cache_key": "news_4822ea708a0ec16326bb87e0358221fa",
+    "count": 5
+  }
+}

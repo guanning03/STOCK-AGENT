@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "U.S. PPI Drops To 2.6% In August: A Tale Of Two Service Prices",
+      "description": "The Producer Price Index for Final Demand (PPI-FD) declined 0.1% MoM in August, bringing the annual increase down to 2.6% from 3.1% in the previous month.",
+      "published_utc": "2025-09-10T19:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ef01d751afa4056beac036a34a2dcedee955e9640cf3874a3a3bb7fbe2da4d93",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2208911029/image_2208911029.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136693555,
+      "datetime": 1757547900
+    },
+    {
+      "title": "ETF Education: Managing  Avoiding Closures",
+      "description": "Even low-cost ETFs need to generate revenue to cover their cost.",
+      "published_utc": "2025-09-10T17:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=de7bcbb88b74ad7eddf127bc68544467a11384c0ad130c5abb0fb50a210e0371",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136742379,
+      "datetime": 1757540700
+    },
+    {
+      "title": "ETF Investors Pile Into U.S. Equity Giants as Bond and Sector Funds See Outflows",
+      "description": "Here are the daily ETF fund flows for September 10, 2025.",
+      "published_utc": "2025-09-10T16:23:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c3ae77774eb9c71ff56470259d3a16daa5b3eac490d54f08f899b80e2f519f64",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136742382,
+      "datetime": 1757535832
+    },
+    {
+      "title": "'Trump Has Heated Call With Netanyahu Over Israeli Strike On Qatar; The Israeli Leader Said That He Had A Brief Window To Launch The Strikes Against The Militant Group's Leadership' - WSJ Exclusive",
+      "description": "https://www.wsj.com/world/middle-east/trump-has-heated-call-with-netanyahu-over-israeli-strike-on-qatar-83831fab",
+      "published_utc": "2025-09-10T16:07:13",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=6875730ef8a126436f9ac0777e25d4aa2f64b273d45d5c5ec3e915446fb82906",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138917343,
+      "datetime": 1757534833
+    },
+    {
+      "title": "AI Has Become The Economy And Market",
+      "description": "US economic growth is now driven almost solely by deficit spending and AI Revolution as traditional drivers like jobs, housing, & consumer strength falter. Read what investors need to know.",
+      "published_utc": "2025-09-10T14:34:27",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0dc7e943ff4bd5e1b93ef0bb2f7b9ac1d309c0c26e0d7fd8049b391da43c3558",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2208413410/image_2208413410.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136687259,
+      "datetime": 1757529267
+    }
+  ]
+}

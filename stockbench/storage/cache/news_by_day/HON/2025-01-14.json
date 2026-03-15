@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": "097c6ae186fd2a840bd1fd978222169ec6e4be3c5560a137f8797836eade6dea",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Audible Signals & Alarm Market Outlook 2024-2029: Increasing Demand for Low-Frequency Sound Alarms",
+      "author": "Globe Newswire",
+      "published_utc": "2025-01-14T15:59:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/14/3009479/28124/en/Audible-Signals-Alarm-Market-Outlook-2024-2029-Increasing-Demand-for-Low-Frequency-Sound-Alarms.html",
+      "tickers": [
+        "ETN",
+        "SBGSY",
+        "HON"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The global audible signals and alarm market is expected to grow at a CAGR of 4.98% from 2023 to 2029, driven by increasing demand for alarms in the residential segment and advancements in audio technology. North America and Europe are the dominant regions, with the US and EU regulations playing a key role.",
+      "keywords": [
+        "audible signals",
+        "alarm market",
+        "residential segment",
+        "audio technology",
+        "North America",
+        "Europe"
+      ],
+      "insights": [
+        {
+          "ticker": "ETN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Eaton is also listed as one of the leading global audible signals and alarm market vendors, suggesting its strong position in the industry."
+        },
+        {
+          "ticker": "SBGSY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Schneider Electric is mentioned as a key player in the global audible signals and alarm market, highlighting its importance in the industry."
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Honeywell International is included in the list of leading global audible signals and alarm market vendors, indicating its significant role in the market."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Quantum Computing Stocks Rally. IonQ, Honeywell In Space Collaboration.",
+      "description": "Quantum computing stocks rallied amid the DOE's announcement that it will partner with IonQ, Honeywell to develop use cases in space.",
+      "published_utc": "2025-09-17T16:02:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f275f951e5b3855aaca78f90a5150d1166c1321e6d7dbdd94f6e6495f1a7bdc2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136791463,
+      "datetime": 1758139366
+    },
+    {
+      "title": "Boeing, Honeywell sued by Air India crash victim families",
+      "description": "The families of four passengers killed in the June 12 crash of an Air India Boeing 787 said in a lawsuit that the accident resulted from allegedly faulty fuel switches, which the U.S. Federal Aviation Administration has said do not appear to have caused the accident that killed 260 people.  The lawsuit filed on Wednesday in Delaware Superior Court blames Boeing and Honeywell, which made the switches, for the crash seconds after Flight 171 took off for London from the Indian city of Ahmedabad.",
+      "published_utc": "2025-09-17T16:01:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ef44fa8dfa1eb9090f17dec89012464482f342b8ea50782539d9ab4c4dd180ab",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136791653,
+      "datetime": 1758139289
+    },
+    {
+      "title": "Honeywell, Caterpillar CTOs say AI can ease labor, skills gaps in manufacturing",
+      "description": "Honeywell and Caterpillar say AI is critical to address the manufacturing sector's labor shortage and skills gaps.",
+      "published_utc": "2025-09-17T15:57:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=688e401920cd80fb9612d3f451202f2db179b34e6c62e0e82006c97d2b9333a3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136797676,
+      "datetime": 1758139041
+    },
+    {
+      "title": "Families of Victims in Air India 171 Crash Sue Boeing, Honeywell",
+      "description": "WILMINGTON, Del., September 17, 2025--The families of four passengers who died in the catastrophic crash of Air India Flight 171 have filed a product defect and negligence lawsuit against The Boeing Company (NYSE: BA) and Honeywell International (NASDAQ: HON). The lawsuit alleges a faulty fuel cutoff switch led to the crash that killed 242 people aboard the aircraft and 19 more on the ground shortly after takeoff from the international airport in Ahmedabad, India, in June of this year.",
+      "published_utc": "2025-09-17T14:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dfea94fdcf9147b73eca3a59e4f5955575907616658be67501d8be89d8d8cc9a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136791654,
+      "datetime": 1758132000
+    },
+    {
+      "title": "Honeywell's Unit Prices Senior Notes Offering at $1B in Aggregate",
+      "description": "HON's Solstice unit prices $1B senior notes due 2033, with proceeds tied to its upcoming spin-off and corporate needs.",
+      "published_utc": "2025-09-17T11:51:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d16d40e2eea0257f83d1a05172d55aa8019905e9be8700db1886b35ca6252d59",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136791679,
+      "datetime": 1758124260
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T04:00:01.249206+00:00",
+    "cache_key": "news_f05cc2fc96413cc47f78b2a7538ff5bb",
+    "count": 5
+  }
+}

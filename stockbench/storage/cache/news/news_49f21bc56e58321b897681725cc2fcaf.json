@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Why Services Are Central to Mastercard's Evolving Growth Story",
+      "description": "Mastercard's growing Services business is emerging as a key growth engine, diversifying revenues, boosting resilience and strengthening its long-term strategy.",
+      "published_utc": "2025-12-24T13:32:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f74497cfc1306ae3ba428f1062dd7d966a6f748f091cdc0bc1db029baed78f1b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137897231,
+      "datetime": 1766601120
+    },
+    {
+      "title": "The Hot Economy Is Leaving Small Businesses Out in the Cold. Why This Holiday Season Is So Bleak.",
+      "description": "Higher costs are hurting profit margins at many smaller retailers, even as more shoppers head to big-box stores.",
+      "published_utc": "2025-12-24T11:04:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2d604865612bfc08899f0ebae375ad9c906794000fe16ac384dc5e77ad526ada",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137897239,
+      "datetime": 1766592240
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T09:05:59.922874+00:00",
+    "cache_key": "news_49f21bc56e58321b897681725cc2fcaf",
+    "count": 2
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today: Dow Dips, AppLovin Dives; Cathie Wood Loads Up On This Stock (Live Coverage)",
+      "description": "The Dow Jones dipped Monday as AppLovin cratered. Tesla and Palantir rallied on the stock market today. Cathie Wood bought a China stock.",
+      "published_utc": "2025-10-06T16:28:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=83c7e95d451657340d865f005675964604e128a52554750733578c2a87a8fc5e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136993080,
+      "datetime": 1759782503
+    },
+    {
+      "title": "Stock Market Today: Dow Jones Dips, But More Stocks Clear Entries; This Cheap Stock Rockets On Trump Report (Live Coverage)",
+      "description": "The Dow Jones dipped Monday as AMD soared on an OpenAI deal. Tesla and Palantir rallied on the stock market today. Coinbase and Bitcoin rose.",
+      "published_utc": "2025-10-06T15:34:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=38f9681bd096e6e9f63b7df3ee0cd9474a103e4eed246498911588cf0327db7d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136988953,
+      "datetime": 1759779275
+    },
+    {
+      "title": "OpenAI’s Golden Touch Spreads as Stocks Soar Off Mere Mentions",
+      "description": "The company behind ChatGPT held its annual developers event Monday, and mere mentions of other publicly traded firms by presenters sent those shares soaring.  Online travel companies also saw brief pops, with Expedia Group, Inc., and TripAdvisor Inc., both advancing at least 7%.",
+      "published_utc": "2025-10-06T14:59:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=156534660da936554119b2527f4b80597ca218688924ea9848b03dcb750e6199",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136990464,
+      "datetime": 1759777152
+    },
+    {
+      "title": "Cybersecurity Reimagined: AvePoint CSMO Mario Carvajal, Live at Nasdaq",
+      "description": "Tech Edge hosted a fireside chat on Oct. 2 at Nasdaq MarketSite with Mario Carvajal, Chief Strategy and Marketing Officer at AvePoint, Inc. (Nasdaq: AVPT). The in-person interview was joined by Editor-in-Chief John Jannarone and they discussed cybersecurity reimagined with AI, preparation for going public, introducing data security layer and more. Watch the interview below, or […]",
+      "published_utc": "2025-10-06T12:41:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e8a88e6cdbb6b2f7bc8ca8826b1103ac24dcfd3957e2840f36e723a5967194aa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136988982,
+      "datetime": 1759768868
+    },
+    {
+      "title": "DOCU Powering the Future of Agreement Intelligence Excellence",
+      "description": "DocuSign's AI-powered Intelligent Agreement Management platform is redefining how enterprises create, manage and execute digital agreements.",
+      "published_utc": "2025-10-06T10:56:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=70e7fdf82ed1e72dfa9bcb585349680b83eadd6f718d0aedf3a5c3f8df610edd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136988991,
+      "datetime": 1759762560
+    }
+  ]
+}

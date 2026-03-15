@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": "6c3122612e8ea5e2ae0246b5d34951edcd800704dfe24df4b082632cec76fb39",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Warren Buffett Stock to Hold Forever",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-18T12:30:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/18/1-warren-buffett-stock-to-hold-forever/?source=iedfolrf0000001",
+      "tickers": [
+        "KO",
+        "PG",
+        "AXP",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799273/people-drinking-cola.jpg",
+      "description": "Warren Buffett is a big fan of Coca-Cola, which he has held in Berkshire Hathaway's portfolio for decades. Coca-Cola is a Dividend King with a strong brand, pricing power, and global reach, making it an attractive long-term investment for Buffett and other investors.",
+      "keywords": [
+        "Coca-Cola",
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "Dividend King",
+        "long-term investment"
+      ],
+      "insights": [
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Coca-Cola's strong brand, pricing power, global reach, and status as a Dividend King, making it an attractive long-term investment for Warren Buffett and other investors. The article also notes that Coca-Cola has been a key holding in Berkshire Hathaway's portfolio for decades."
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not mention Procter & Gamble, so no sentiment can be determined."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that American Express is one of the three stocks that Warren Buffett does not plan to ever sell, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Apple is one of the three stocks that Warren Buffett does not plan to ever sell, indicating a positive sentiment towards the company."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Consumer Staples Are Massively Outperforming the Market—Here’s Why",
+      "description": "Consumer staples are emerging as a clear defensive leader as high-beta technology stocks, software, and crypto drag the broader market lower.",
+      "published_utc": "2026-02-08T11:35:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e0ea66ed25d7bcfd0f58ed9f9c33a78518eadcd51f1517f4940f9dcba4526e16",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138608845,
+      "datetime": 1770568500
+    },
+    {
+      "title": "S&P 500: From One Extreme To Another And No End In Sight  (Technical Analysis)",
+      "description": "S&P 500 (SPY) briefly broke its trend channel then reversed, signaling choppy, bias-free trading like 2014-2015.",
+      "published_utc": "2026-02-08T11:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d5236bf291efc8085f869e52932dcb3322f856d2b2250ec18a9c1535fa3c4c99",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2254337493/image_2254337493.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138396198,
+      "datetime": 1770566400
+    },
+    {
+      "title": "My Ultimate Strategy For High Income And Market-Beating Returns",
+      "description": "Index investing carries hidden risks and popular dividend strategies may disappoint; one overlooked approach can reshape your total returns. Learn why it wins.",
+      "published_utc": "2026-02-08T08:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=69389ae220e52d91d0fe724205b7d4acf716ed36127cd4701104b2ea0938d81c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2175808388/image_2175808388.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138394474,
+      "datetime": 1770555900
+    },
+    {
+      "title": "Liquidity Drain And Event Risk May Create A Volatile Week For Markets",
+      "description": "Treasury settlements drain $62B this weekâoften pressuring the S&P 500. Click for updated market outlook.",
+      "published_utc": "2026-02-08T04:55:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=05adcdac1799a622a7af91ff4578d27d46c45e6dd4659778f1ba53f8e7d0147e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/530493088/image_530493088.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138393230,
+      "datetime": 1770544500
+    },
+    {
+      "title": "8%+ Dividends: 2 Retirement Income Powerhouses",
+      "description": "Weakening growth prospects favor income, and overshooting on yield creates risk for portfolios during periods of market volatility. Check out why 8% income wins.",
+      "published_utc": "2026-02-08T04:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cc6aab0db88bf8f79907e67005b6be57a94fb6cb82d98d0dc2423d2df6df3501",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1455029754/image_1455029754.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138393084,
+      "datetime": 1770542100
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:48:39.793299+00:00",
+    "cache_key": "news_670ae3e9c5576e1f6c96ec1a3a94dd5f",
+    "count": 5
+  }
+}

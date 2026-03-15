@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Trump administration unresponsive after container ship fire, Port of Los Angeles chief says",
+      "description": "As a container ship continues to burn, the head of the Port of Los Angeles has repeatedly asked the Trump administration for help.",
+      "published_utc": "2025-11-23T12:02:44",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=2c5762fb936ce532da75b7c3fcb1199146e896367e8c36105d5163d8bcd23cf6",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108230830-1763986932338-1000w_q95-1.jpg?v=1763987002&w=1920&h=1080",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137590992,
+      "datetime": 1763917364
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:28:48.103136+00:00",
+    "cache_key": "news_84a660fddbdac2d1cace0aef1ade95b6",
+    "count": 1
+  }
+}

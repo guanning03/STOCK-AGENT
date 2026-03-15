@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Model Portfolio For Capital Appreciation, September 2025",
+      "description": "Discover 20 top stocks & 2 ETFs for capital appreciation.",
+      "published_utc": "2025-09-28T19:13:23",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8f0c4de44ea1f1c1c90b42526ac3e93041074b49a2cd0d6bb87d81a3e8640aad",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/482730527/image_482730527.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136911301,
+      "datetime": 1759101203
+    },
+    {
+      "title": "Morgan Stanley Makes Huge Call on Microsoft",
+      "description": "Morgan Stanley updates its Microsoft stock forecast",
+      "published_utc": "2025-09-28T16:57:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f0dcbf39fc97d2dfafd172de0cf3476586f83b8ed09815c2fc663bdad993a0e1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136913519,
+      "datetime": 1759093037
+    },
+    {
+      "title": "Tracking Philippe Laffont's ~$36B Coatue Management Portfolio - Q2 2025 Update",
+      "description": "Coatue Managementâs Q2 2025 13F portfolio increased from $22.7B to $35.9B. Check out the significant new stakes and major stake increases in the portfolio.",
+      "published_utc": "2025-09-28T16:48:45",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e6a7fb55076a2ceb31a3f603bae9be018f2d997d5bfc33a8ab9db55e5318fd00",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/472298390/image_472298390.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136910560,
+      "datetime": 1759092525
+    },
+    {
+      "title": "IonQ, Inc. (IONQ): A Bull Case Theory",
+      "description": "We came across a bullish thesis on IonQ, Inc. on Investing With Purpose’s Substack. In this article, we will summarize the bulls’ thesis on IONQ. IonQ, Inc.’s share was trading at $66.81 as of September 18th. IonQ (IONQ) is making a deliberate bet on the commercial viability of quantum computing within this decade, positioning itself to be […]",
+      "published_utc": "2025-09-28T16:23:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5d4b69550d20d72e297ef4b86e33a715507fcb21806fba1446e856a7ea17ed6a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136913520,
+      "datetime": 1759091005
+    },
+    {
+      "title": "The billion-dollar infrastructure deals powering the AI boom",
+      "description": "Here's everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI.",
+      "published_utc": "2025-09-28T14:07:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=401bbac751e15b91cea563b20c09e483f19b9b1499ee44567045dce48411f9f4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136913497,
+      "datetime": 1759082820
+    }
+  ]
+}

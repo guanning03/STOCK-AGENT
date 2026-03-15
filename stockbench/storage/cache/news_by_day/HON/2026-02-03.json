@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+      "description": "A sell-off in tech names pulled the S&P 500 and Nasdaq Composite to a losing session on Tuesday. The Dow, which briefly touched a fresh high, also closed lower.",
+      "published_utc": "2026-02-03T15:11:35",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=2e969ca36c022ca3616268994df859bea1f8a575bb5275793a47575cb555dc16",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108216553-1761309874594-gettyimages-2242649858-ALPHABET_EARNS.jpeg?v=1770141907&w=1920&h=1080",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138354623,
+      "datetime": 1770149495
+    },
+    {
+      "title": "S&P 500 falls for a second day after AMD earnings, weak jobs data: Live updates",
+      "description": "Tech put on the worst performance of the 11 sectors in the S&P 500, falling more than 2% on Tuesday.",
+      "published_utc": "2026-02-03T13:03:55",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=097617f9fd18337ea766f82b130b0e3006f4c4886dc3d23391e50f4250b7aaee",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108255370-17690326632026-01-21t215601z_1748655105_rc2v5japswy2_rtrmadp_0_usa-stocks.jpeg?v=1769032713&w=1920&h=1080",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138354595,
+      "datetime": 1770141835
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights Exxon Mobil, Lockheed Martin, Honeywell International and AMREP",
+      "description": "Exxon Mobil anchors Zacks' latest top stock reports as energy, defense and industrial leaders show resilience amid mixed macro signals.",
+      "published_utc": "2026-02-03T11:41:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=04bbe4b39483459935216458b70eb1728b68d6d4f8e0761ad193f4ef378294fe",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138345547,
+      "datetime": 1770136860
+    },
+    {
+      "title": "Return Trends At Honeywell International (NASDAQ:HON) Aren't Appealing",
+      "description": "There are a few key trends to look for if we want to identify the next multi-bagger. Firstly, we'd want to identify a...",
+      "published_utc": "2026-02-03T06:01:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d6aee86d6c51718bc11a775e3275174f82a18e609c470d878289696754e83811",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138340802,
+      "datetime": 1770116466
+    }
+  ]
+}

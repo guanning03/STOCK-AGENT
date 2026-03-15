@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Data May Be Signaling Change - Weekly Blog #922",
+      "description": "It is worth noting that the popular stock market indices generally rose a small amount.",
+      "published_utc": "2026-01-05T18:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d020049e18237c5dbf02f2fdb5913b1bb0afa31f848df259b32896ee3338ec69",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1427537698/image_1427537698.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137996394,
+      "datetime": 1767654900
+    },
+    {
+      "title": "Rates Spark: Yeah, SNAFU Is About Right",
+      "description": "The dust has settled to an extent following the weekend skirmishes in Venezuela.",
+      "published_utc": "2026-01-05T17:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b3cbc6f9c0bffa3c50dcfa8f09d23ef1aa33a21c9a005ac71408ad17710238f6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1219364803/image_1219364803.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137996089,
+      "datetime": 1767650400
+    },
+    {
+      "title": "Move Over, Pelosi: This Congress Member Posted 2025's Best Market Return With A 52% Gain",
+      "description": "The list of the top 10 members of Congress for 2025 investment portfolio gains. Where did Marjorie Taylor Greene rank and how close was Nancy Pelosi to the Top 10?",
+      "published_utc": "2026-01-05T14:39:38",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=bbf4a953559b6f641da23de5812229aa0e17e7767cf12772f53a3499d61d5d6a",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/01/05/Congress-Spending-And-Wasting-Your-Money.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138430102,
+      "datetime": 1767641978
+    },
+    {
+      "title": "President Trump Posts On Truth Social \"Pregnant Women, DON'T USE TYLENOL UNLESS ABSOLUTELY NECESSARY, DON'T GIVE TYLENOL TO YOUR YOUNG CHILD FOR VIRTUALLY ANY REASON, BREAK UP THE MMR SHOT INTO THREE TOTALLY SEPARATE SHOTS (NOT MIXED!), TAKE CHICKEN P SHOT SEPARATELY, TAKE HEPATITAS B SHOT AT 12 YEARS OLD, OR OLDER, AND, IMPORTANTLY, TAKE VACCINE IN 5 SEPARATE MEDICAL VISITS! President DJT\"",
+      "description": "https://trumpstruth.org/statuses/34457",
+      "published_utc": "2026-01-05T13:24:35",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=d9b37886018ec0cc609363aefd7f0ebc1f0127d36acb2dfc0daf9cd02c2f0d5d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138925719,
+      "datetime": 1767637475
+    },
+    {
+      "title": "Cathie Wood Beats S&P 500 in 2025 — This ARK ETF Delivered The Knockout With A 50% Gain",
+      "description": "Ark Invest saw its main ETFs beat the S&amp;P 500 performance in 2025. Here&#39;s a look at the top performing ETF from the Cathie Wood company and its top holdings.",
+      "published_utc": "2026-01-05T12:43:41",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=bc49fa60a85e344fa6851059f7f062628b7d9e6339ca1668560a04015ed485f4",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/01/05/Cathie-Wood-Drops-32-Million-On-CoreWeav.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138420619,
+      "datetime": 1767635021
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:03:09.222719+00:00",
+    "cache_key": "news_2cd0673062ecb528292c15b52ec87595",
+    "count": 5
+  }
+}

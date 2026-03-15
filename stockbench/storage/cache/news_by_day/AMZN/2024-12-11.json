@@ -1,0 +1,168 @@
+{
+  "items": [
+    {
+      "id": "e155c86fb33d83630b30fb728a29b78b443e8350e3654e9309cd9269601be810",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "New Children’s Book Validates Young Readers In the “Big Feelings” They Get That Might Confuse Them",
+      "author": "William Dale Blank",
+      "published_utc": "2024-12-11T18:45:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2024/12/11/2995693/0/en/New-Children-s-Book-Validates-Young-Readers-In-the-Big-Feelings-They-Get-That-Might-Confuse-Them.html",
+      "tickers": [
+        "AMZN"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/9c3132da-f1d8-4b16-9f9c-3ca698148b65",
+      "description": "A new children's storybook, 'Is It Okay to Be Me?', aims to inspire young readers to embrace their individuality and understand the importance of teamwork through four engaging stories featuring a mouse, a rat, and a snapping turtle.",
+      "keywords": [
+        "children's book",
+        "individuality",
+        "teamwork",
+        "life lessons"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The book is available for purchase on Amazon.com, indicating it is being distributed through this major online retailer."
+        }
+      ]
+    },
+    {
+      "id": "8101cf6a21577670842cb0da7a06cee296c1bc77ec57a9b1e08c671abb2fd6c2",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "5 Magnificent Investments That I'm \"Never\" Selling",
+      "author": "Anders Bylund",
+      "published_utc": "2024-12-11T16:11:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/11/5-magnificent-investments-that-im-never-selling/?source=iedfolrf0000001",
+      "tickers": [
+        "VOO",
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "SOUN",
+        "SOUNW"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800208/golden-eggs-and-dollars.jpg",
+      "description": "The article discusses a few stocks and ETFs that the author believes have long-term staying power and can be held indefinitely in an investment portfolio, including Vanguard S&P 500 ETF, Alphabet, Amazon, and SoundHound AI.",
+      "keywords": [
+        "investing",
+        "stocks",
+        "ETFs",
+        "long-term",
+        "portfolio"
+      ],
+      "insights": [
+        {
+          "ticker": "VOO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The author considers the Vanguard S&P 500 ETF as a stable, predictable, and trustworthy investment that should be a part of any long-term portfolio."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The author believes Alphabet (Google's parent company) is the safest single-stock investment due to its flexible management approach and ability to adapt to market changes."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The author believes Alphabet (Google's parent company) is the safest single-stock investment due to its flexible management approach and ability to adapt to market changes."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The author trusts Amazon to deliver solid gains in the long run due to its flexibility, diverse portfolio of products and services, and a management team focused on continuous innovation."
+        },
+        {
+          "ticker": "SOUN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The author sees potential in SoundHound AI as a leading innovator in the voice-controlled AI market, but recommends waiting for the stock to cool down from its recent price spike before building a position."
+        },
+        {
+          "ticker": "SOUNW",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The author sees potential in SoundHound AI as a leading innovator in the voice-controlled AI market, but recommends waiting for the stock to cool down from its recent price spike before building a position."
+        }
+      ]
+    },
+    {
+      "id": "0b34130eaabd4e04d67011749ba203a846a628b59a8db3960d3683f86fb45501",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Best Stock to Buy Right Now: Amazon vs. Apple",
+      "author": "Neil Patel",
+      "published_utc": "2024-12-11T15:17:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/11/best-stock-to-buy-right-now-amazon-vs-apple/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800472/trader-pondering-at-screens.jpg",
+      "description": "Amazon and Apple are two of the most dominant tech companies, with market caps of $2.4 trillion and $3.7 trillion, respectively. While both stocks trade at record highs, Amazon may be the better buy due to its multiple growth engines, including e-commerce, cloud computing, and digital advertising. Apple's high valuation and softer growth prospects could lead to underperformance compared to the broader market.",
+      "keywords": [
+        "Amazon",
+        "Apple",
+        "tech giants",
+        "market cap",
+        "growth engines",
+        "valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon has multiple growth engines, including e-commerce, cloud computing, and digital advertising, which are expected to drive strong growth in the future."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Apple's high valuation and softer growth prospects could lead to underperformance compared to the broader market, despite its strong brand and ecosystem."
+        }
+      ]
+    },
+    {
+      "id": "c7f65404077c88e506ccc5ace06349d8f0fc80369560c830a6bf9f8d09bcd1bf",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "History Says the Nasdaq Could Soar in 2025: 1 Trillion-Dollar AI Stock to Buy That's Highly Rated by Wall Street",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-11T09:38:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/11/nasdaq-soar-2025-ai-stock-to-buy-wall-st/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800397/bull-market-2.jpg",
+      "description": "The article suggests that the Nasdaq Composite could surge in 2025 based on historical trends, and highlights Amazon as a trillion-dollar AI stock that is highly rated by Wall Street analysts.",
+      "keywords": [
+        "Nasdaq",
+        "Amazon",
+        "AI",
+        "cloud computing",
+        "digital advertising"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Amazon as a trillion-dollar AI stock that is highly rated by Wall Street analysts, with 94% of analysts rating the stock as a buy. The article cites Amazon's strong presence in e-commerce, digital advertising, and cloud computing, as well as its use of AI to drive growth in these areas."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Is It Really a Good Sign When Executives Buy Their Own Stock? We Ran the Numbers",
+      "description": "We looked at 1,400 insider purchases over the past five years to find out whether they give share prices a boost.",
+      "published_utc": "2026-02-04T19:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=40979f50fd2df7b2543651d12f40cde17e82f27648503b544ac95263d707723b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138359999,
+      "datetime": 1770249600
+    },
+    {
+      "title": "Analysts flag alarming correlation amid tech sell-off",
+      "description": "The tech sell-off continued on Wall Street as the tech-heavy Nasdaq Composite and the S&P 500 benchmark sank on Feb. 4. While the former was down 1.8%, the latter was down 0.6% at press time. Nearly all the Magnificent Seven stocks were trading in the red zone at the time of writing. ...",
+      "published_utc": "2026-02-04T18:57:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3efa8d282b9544469cb39ba854ac397977534bdf73a3542f1f8bd20f35959a77",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138359997,
+      "datetime": 1770249435
+    },
+    {
+      "title": "Dow Jones Futures Rise; Google Beats Views, Reports Huge AI Spending",
+      "description": "The rotation out of techs continued in a divided stock market, but Eli Lilly jumped. Google rose late on earnings and huge capital spending plans.",
+      "published_utc": "2026-02-04T18:44:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac639f02aff7e7e53c2fa867939b5fb2876d87fe05ba5716e08c6a8c81d2a38e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138358983,
+      "datetime": 1770248654
+    },
+    {
+      "title": "Alphabet won’t talk about the Google-Apple AI deal, even to investors",
+      "description": "Alphabet CEO skipped an analyst's question about Apple on the company's earnings call.",
+      "published_utc": "2026-02-04T18:28:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=30d0abfed7367a4f0879c9825a322f8c437d200dc7b87a23ae70e01d9a17613d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138360001,
+      "datetime": 1770247711
+    },
+    {
+      "title": "Google parent earnings beat projections amid plans to invest deeply in AI",
+      "description": "Alphabet reports $34.5bn profit and revenue soars 48% in recent quarter as it plans a sharp increase in AI spending",
+      "published_utc": "2026-02-04T17:43:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7447f9460e6f41974a6382f7816a6f1985f6b7635c1aad0b02e74e09cd3e9049",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138358984,
+      "datetime": 1770245001
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:38:50.764800+00:00",
+    "cache_key": "news_2e686b719e180d9cf234bef901094eb0",
+    "count": 5
+  }
+}

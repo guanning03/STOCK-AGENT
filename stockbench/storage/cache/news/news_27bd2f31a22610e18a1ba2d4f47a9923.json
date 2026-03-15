@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "How Is Caterpillar's Stock Performance Compared to Other Industrial Stocks?",
+      "description": "As Caterpillar has outperformed its industry peers recently, analysts remain moderately optimistic about the stock’s prospects.",
+      "published_utc": "2025-11-26T10:37:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cb19f43bb853f28760aada7917551781095faf384adba5ec782463ae6a886f62",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137614524,
+      "datetime": 1764171464
+    },
+    {
+      "title": "What Every Caterpillar Investor Should Know Before Buying",
+      "description": "Artificial intelligence (AI)-led demand growth is helping drive the industrial stock higher.",
+      "published_utc": "2025-11-26T04:35:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b1414c707d6ccaa4ec671e82e14cb46e052b48f6e2897e108f3ad1bf67c2c902",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137611343,
+      "datetime": 1764149700
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:37:57.556083+00:00",
+    "cache_key": "news_27bd2f31a22610e18a1ba2d4f47a9923",
+    "count": 2
+  }
+}

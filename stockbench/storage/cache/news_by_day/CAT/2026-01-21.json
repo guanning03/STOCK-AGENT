@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar (CAT) Surpasses Market Returns: Some Facts Worth Knowing",
+      "description": "Caterpillar (CAT) closed at $645.38 in the latest trading session, marking a +2.6% move from the prior day.",
+      "published_utc": "2026-01-21T17:45:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=74ad5af51416a32a5435fc897b51e4d95e0959011801de376ed65e28554a2712",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138200198,
+      "datetime": 1769035505
+    },
+    {
+      "title": "Caterpillar Inc. stock underperforms Wednesday when compared to competitors despite daily gains",
+      "description": "Caterpillar Inc. stock underperforms Wednesday when compared to competitors despite daily gains",
+      "published_utc": "2026-01-21T11:33:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=fa8c21b4ba71d6cd2dc9cb5f44699ac995d16e7f33c5ce998303cfc8bbfc7d03",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138208017,
+      "datetime": 1769013180
+    },
+    {
+      "title": "Is Most-Watched Stock Caterpillar Inc. (CAT) Worth Betting on Now?",
+      "description": "Zacks.com users have recently been watching Caterpillar (CAT) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+      "published_utc": "2026-01-21T09:00:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d64c557033fda4a51f4f8f6ffa7631e5d94698f5d3ff054ad81ec2a11d9c5bc2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138197187,
+      "datetime": 1769004005
+    },
+    {
+      "title": "CES 2026: Autonomous Driving Hits An Inflection Point",
+      "description": "",
+      "published_utc": "2026-01-21T00:57:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ad878ec32194a15e611e8ed628a479ff6fc79d252df043240f44ce219e5929d2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138194046,
+      "datetime": 1768975020
+    }
+  ]
+}

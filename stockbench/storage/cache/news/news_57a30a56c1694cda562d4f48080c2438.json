@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Boeing Stock Falls Below This Crucial Level As FAA Grounds MD-11 Jets",
+      "description": "On Saturday, the FAA issued an order to ground all MD-11 planes while the crash is investigated. An MD-11 operated by United Parcel Service crashed last Wednesday.",
+      "published_utc": "2025-11-10T14:27:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d0782c291f6a3db32b0c79bb4774218b0515d7c5f35e112ce3e8c0b8cea98b16",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137437830,
+      "datetime": 1762802830
+    },
+    {
+      "title": "KKR to Sell Novaria Group to Arcline for $2.2 Billion",
+      "description": "The sale comes as private-equity firms are increasing investment in the aerospace and defense sector.",
+      "published_utc": "2025-11-10T13:55:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4424badeb2b4bb7728d118c23bab629c1afa5dffb8ffb9803b4b3d97c3f0fd7f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137437831,
+      "datetime": 1762800900
+    },
+    {
+      "title": "British Airways owner threatens to shift investment to Madrid amid Heathrow row",
+      "description": "The chief executive of British Airways (BA) has warned that its Spanish owner could ditch investment in Heathrow if the bill for the airport’s third runway is too high.",
+      "published_utc": "2025-11-10T13:41:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4c2f46283930cad8a0fddbc399a318c431e5705d6d6985a5368bc92eac9beb73",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137437833,
+      "datetime": 1762800066
+    },
+    {
+      "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+      "description": "Stocks closed higher on Monday, with the Nasdaq gaining more than 2% as investors eyed a potential end to the U.S. government shutdown.",
+      "published_utc": "2025-11-10T12:59:40",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=8738679a5a66aec4d3db96fd66b9a22d639d6a95665070d222d19259342203d2",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/106851494-16153186742021-03-09t193256z_659824395_rc2v7m9sq1m7_rtrmadp_0_usa-stocks.jpeg?v=1627935646&w=1920&h=1080",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137448153,
+      "datetime": 1762797580
+    },
+    {
+      "title": "Boeing Bets Big With $1 Billion Dreamliner Expansion",
+      "description": "Expansion adds 1,000 jobs as jetmaker ramps up production",
+      "published_utc": "2025-11-10T10:58:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=801facab0dd2a869c5b865ba98c72b83cc877652044b4a8f7e6d930418575ca1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137396668,
+      "datetime": 1762790283
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:49:46.434789+00:00",
+    "cache_key": "news_57a30a56c1694cda562d4f48080c2438",
+    "count": 5
+  }
+}

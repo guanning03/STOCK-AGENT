@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Dow Jones Futures: Amazon, Broadcom, Nvidia, Tesla Are Big Movers; Palantir Sells Off On Earnings",
+      "description": "Dow Jones Futures: Amazon, Broadcom, Nvidia, Tesla Are Big Movers; Palantir Sells Off On Earnings",
+      "published_utc": "2025-11-03T18:07:28",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=90f2f7757658465c3ea361d9fc234b56ec2559a98c10aba278d909f4ea42defd",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137316623,
+      "datetime": 1762211248
+    },
+    {
+      "title": "Amazon Q3: Surprising Results From Retail Indicate Strong Upside Potential (Double-Upgrade)",
+      "description": "Amazon's improved fundamentals and revenue growth make it a compelling investment now. See here for more analysis on AMZN stock.",
+      "published_utc": "2025-11-03T17:50:22",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5b8e5362814433ad5d2cd40335a3147bcece6283b49eaf9f584a0804197950f4",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1252468735/image_1252468735.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137309379,
+      "datetime": 1762210222
+    },
+    {
+      "title": "Nvidia Termed 'Undervalued' By Masayoshi Son Last Year, Now Worth $5 Trillion: Here Is What Japanese Billionaire Investor Said About Ongoing AI Hype",
+      "description": "SoftBank CEO Masayoshi Son&#39;s 2024 prediction that Nvidia was &#34;undervalued&#34; has proven accurate as Jensen Huang&#39;s chipmaking giant surpasses a $5 trillion market cap, validating Son&#39;s bold $9 trillion AI vision.",
+      "published_utc": "2025-11-03T16:28:14",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=e58e29bc2783c5eceb227d941339dc93e29c1c4aa6142c501405719b0f5bf963",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/03/Masayoshi-Son.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138610805,
+      "datetime": 1762205294
+    },
+    {
+      "title": "What Happened When Small-Town America Became Data Center, U.S.A.",
+      "description": "What Happened When Small-Town America Became Data Center, U.S.A.",
+      "published_utc": "2025-11-03T16:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=f70f808b8993a4a3e42e4044cd78aa74b9313fe0d725ace5ed29de802dd04365",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137316624,
+      "datetime": 1762203600
+    },
+    {
+      "title": "A Dave Ramsey Caller Is Losing His High-Paying Job In December, Yet He's In A Position Most People Dream Of. 'This Is Just An Inconvenience'",
+      "description": "",
+      "published_utc": "2025-11-03T14:31:55",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=af65da253b526f68a763995257ef273c81a9790ddb5fa28a3182937811c838c4",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/03/Layoffs-Continue-To-Surge.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138805756,
+      "datetime": 1762198315
+    }
+  ]
+}

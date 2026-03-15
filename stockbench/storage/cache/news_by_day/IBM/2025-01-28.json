@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "id": "c090b2793f69fcafc41e941feae0183ea8a39e13a01247c4ac3fe2bc42ea2f1b",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "IBM BOARD APPROVES REGULAR QUARTERLY CASH DIVIDEND",
+      "author": "Prnewswire",
+      "published_utc": "2025-01-28T16:09:00Z",
+      "article_url": "https://www.benzinga.com/pressreleases/25/01/n43275810/ibm-board-approves-regular-quarterly-cash-dividend",
+      "tickers": [
+        "IBM"
+      ],
+      "image_url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "description": "IBM's board of directors has declared a regular quarterly cash dividend of $1.67 per common share, payable on March 10, 2025 to stockholders of record on February 10, 2025. This marks the company's consecutive quarterly dividend payments since 1916.",
+      "keywords": [
+        "IBM",
+        "dividend"
+      ],
+      "insights": [
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article reports that IBM's board has approved a regular quarterly cash dividend, which is a positive sign for the company's financial stability and commitment to returning value to shareholders."
+        }
+      ]
+    },
+    {
+      "id": "9d5af4437a9890a5cb733b44b0d25198b694d2efbb8c65a7fb6cc2298464bae5",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Should You Buy IBM Stock Before Jan. 29?",
+      "author": "Timothy Green",
+      "published_utc": "2025-01-28T15:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/28/should-you-buy-ibm-stock-before-jan-29/?source=iedfolrf0000001",
+      "tickers": [
+        "IBM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805435/gettyimages-1353134043.jpg",
+      "description": "IBM is set to report Q4 earnings on January 29. The stock has surged 65% in the past 3 years as the company focuses on hybrid-cloud and AI platforms. While the stock could see short-term volatility based on the earnings report, IBM is a buy for long-term investors due to its enterprise customer base and positioning in generative AI.",
+      "keywords": [
+        "IBM",
+        "earnings",
+        "stock",
+        "AI",
+        "cloud"
+      ],
+      "insights": [
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that IBM is a buy for long-term investors due to its enterprise customer base, focus on hybrid-cloud and AI platforms, and potential for growth in the coming years."
+        }
+      ]
+    }
+  ]
+}

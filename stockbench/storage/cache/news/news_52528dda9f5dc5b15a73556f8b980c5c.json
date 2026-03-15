@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer Says Procter & Gamble Stock is “Still Way Too High”",
+      "description": "The Procter & Gamble Company (NYSE:PG) is one of the stocks Jim Cramer shared insights on. Cramer said the stock is not “weak enough,” as he commented: “I didn’t include Procter & Gamble and Johnson & Johnson, both amazing companies, but their stocks, while weaker today, they’re not weak enough. They’re still way too high.” […]",
+      "published_utc": "2025-09-13T10:45:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ea33986e1df4bcf2541007075ffd0419605fdb5f6fd48ada9e69a743cbe4aa0a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136735948,
+      "datetime": 1757774705
+    },
+    {
+      "title": "Big Brands Play Down Their Americanness Abroad",
+      "description": "Coca-Cola, McDonald’s, Procter & Gamble have all launched ad campaigns stressing their local ties in Europe this year.",
+      "published_utc": "2025-09-13T06:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a6cd0da00a4e0c3a59b48cb07bc2d1f26a848194e263adc0432c583d039ce596",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136735960,
+      "datetime": 1757759400
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:42:34.265962+00:00",
+    "cache_key": "news_52528dda9f5dc5b15a73556f8b980c5c",
+    "count": 2
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Earnings live: UnitedHealth stock falls 19%, American Airlines slides, Texas Instruments pops, Logitech edges higher",
+      "description": "The fourth quarter earnings season kicks into high gear this week, with Big Tech results from Microsoft, Meta, Tesla, and Apple headlining the earnings calendar.",
+      "published_utc": "2026-01-27T16:39:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=96299e8855b4628084e5315469274d410c381b787cf51b84eaea29ea9c786ef2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138275253,
+      "datetime": 1769549981
+    },
+    {
+      "title": "Earnings live: UnitedHealth stock falls 19%, American Airlines slides, Northrop Grumman rises",
+      "description": "The fourth quarter earnings season kicks into high gear this week, with Big Tech results from Microsoft, Meta, Tesla, and Apple headlining the earnings calendar.",
+      "published_utc": "2026-01-27T16:39:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ae6d685319edbc722832fe57c10cdc3f0ce790f30a63b20d759e249d547e28c2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138275311,
+      "datetime": 1769549981
+    },
+    {
+      "title": "Capital One Travel Adds Discover Cardholders in Push to Rival Chase and Amex",
+      "description": "Capital One Travel isn't seen as a luxury player like Amex and Chase, but adding Discover's cardholders significantly boosts its competitive position.",
+      "published_utc": "2026-01-27T14:20:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=915ac319b18cc0d975f00305f21bf5ff4046e63631c890730bd870ffdf760d43",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138274054,
+      "datetime": 1769541642
+    },
+    {
+      "title": "Is Mastercard Stock a Smart Bet Ahead of Q4 Earnings? Key Estimates",
+      "description": "MA heads into Q4 earnings with projected double-digit revenue and EPS growth, strong volumes and cross-border gains, but valuation remains stretched.",
+      "published_utc": "2026-01-27T11:54:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=526cb668a5d0c95fe1aa8f45ec931c5ba6c43d082c80f89ce5b3e9e3b045806d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138273955,
+      "datetime": 1769532840
+    },
+    {
+      "title": "Earnings live: UnitedHealth stock tumbles, UPS and General Motors rise",
+      "description": "The fourth quarter earnings season kicks into high gear this week, with Big Tech results from Microsoft, Meta, Tesla, and Apple headlining the earnings calendar.",
+      "published_utc": "2026-01-27T08:07:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0feeb47f0747b3a4209e56e8602e8c46de03ca91f95310e540cb95037240cd92",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138269983,
+      "datetime": 1769519249
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:09:21.510696+00:00",
+    "cache_key": "news_0def85d557485ad7d6e1601014eae7aa",
+    "count": 5
+  }
+}

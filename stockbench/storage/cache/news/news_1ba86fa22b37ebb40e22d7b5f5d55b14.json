@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Monetary Policy: Everything Old Is New Again...But Not The Same",
+      "description": "Explore how the Fed's shifting policy and eroding credibility impact inflation, markets, and investor risk.",
+      "published_utc": "2025-12-07T17:38:40",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a6a42140a6ea433fc4a30f912873b64b3c913032fe4ddf1feca03382b213890c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2158864439/image_2158864439.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137728763,
+      "datetime": 1765147120
+    },
+    {
+      "title": "FOMC Preview: Markets In Full Apnea Ahead Of The Fed",
+      "description": "Discover why Fed liquidity actions, not just rate cuts, drive markets.",
+      "published_utc": "2025-12-07T17:38:28",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5f772ae20d43cf8948845c8f4265b10149258a909f58a2b8346bdafd269189f0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2249465231/image_2249465231.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137728764,
+      "datetime": 1765147108
+    },
+    {
+      "title": "Federal Reserve Watch: The End To Quantitative Tightening",
+      "description": "Discover how the Fed's end to quantitative tightening impacted markets and rate policy. Learn what this means for investors and the S&P 500.",
+      "published_utc": "2025-12-07T17:04:42",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8b1782073b4f628e86692b7fb463b81ddaaeec06d46a9c06ad482908dc665c1b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2241409120/image_2241409120.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137728601,
+      "datetime": 1765145082
+    },
+    {
+      "title": "The Rate Cut May Produce A 'Sell The News' Event",
+      "description": "Get insights on Fed rate cut effects, market rally strategies, and stock picks.",
+      "published_utc": "2025-12-07T16:23:57",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=67428d807ecf69c2c8939364cf542c84a62fbe821697401ed68623b69a2ea8eb",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1377855304/image_1377855304.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137728386,
+      "datetime": 1765142637
+    },
+    {
+      "title": "Favorable Economic Data Supports A Dovish Fed In 2026",
+      "description": "Explore how upcoming Fed decisions and dovish inflation data shape 2026 policy outlook.",
+      "published_utc": "2025-12-07T14:40:18",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=97388b045bbd0281412ce331a0024ff4c8997eeeb44c447d12a729346819fe08",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2222240653/image_2222240653.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137727929,
+      "datetime": 1765136418
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:13:18.413611+00:00",
+    "cache_key": "news_1ba86fa22b37ebb40e22d7b5f5d55b14",
+    "count": 5
+  }
+}

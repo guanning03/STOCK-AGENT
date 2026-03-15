@@ -1,0 +1,92 @@
+{
+  "items": [
+    {
+      "title": "Fed Rate Decision; UnitedHealth, Apple, Microsoft, Visa Earnings; and Many More Stocks to Watch This Week",
+      "description": "A quarter-point rate cut is all but certain at this week’s Federal Open Market Committee meeting. And we’ll see earnings reports from roughly 160 S&P 500 companies.",
+      "published_utc": "2025-10-26T14:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=47141a32a2820c0ed88eb2ada80153c406e7d69e90f97a1bfb552c1b0aa59fe3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137215727,
+      "datetime": 1761501600
+    },
+    {
+      "id": "dfb470ec43a47961672e703a8a89d7ff844324798f0d6293fd9fc857cd9fabc0",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Spectacular Stocks You Can Buy and Hold Forever",
+      "author": "Parkev Tatevosian, Cfa",
+      "published_utc": "2025-10-26T10:28:00Z",
+      "article_url": "https://www.fool.com/investing/2025/10/26/3-spectacular-stocks-you-can-buy-and-hold-forever/?source=iedfolrf0000001",
+      "tickers": [
+        "MSFT",
+        "MCD",
+        "V"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/839732/copy-of-p2_hold-forever.jpg",
+      "description": "The article discusses long-term investment strategies focusing on stocks that can be held indefinitely, emphasizing the benefits of compounding growth for investors who adopt a buy-and-hold approach.",
+      "keywords": [
+        "long-term investing",
+        "buy-and-hold",
+        "compounding growth",
+        "stock recommendations"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Highlighted as a recommended long-term investment stock with strong market presence and potential for sustained growth"
+        },
+        {
+          "ticker": "MCD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned in the article but no specific investment rationale was provided"
+        },
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Author personally holds a position in the stock and suggests it as a potential long-term investment"
+        }
+      ]
+    },
+    {
+      "title": "Big Tech earnings, a crucial Fed meeting, and a Trump-Xi sit-down: What to watch this week",
+      "description": "The market enters the fourth full week of the government shutdown with international trade and domestic rates in focus.",
+      "published_utc": "2025-10-26T07:43:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d53d413b03c1a0ac92ec641a985569447756ccce2cce57c1eaac143e2d2eba8d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137215648,
+      "datetime": 1761479034
+    },
+    {
+      "title": "Wall Street Week Ahead",
+      "description": "Get the latest stock market updates, Q3 earnings highlights, and expert gold investment insights.",
+      "published_utc": "2025-10-26T03:01:35",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c68aad4ae2924996a3a5d51f7fb2a98117fe57727304ada2cbac36ac95e0a414",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2156176139/image_2156176139.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137211528,
+      "datetime": 1761462095
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "id": "5063365e690757c782c5f172def658eb483ba4a141688d2eb507932efd9bfc6f",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Up 4%, 10%, and 25% in 3 Months, These 3 Dow Jones Dividend Growth Stocks Are Buys in December",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-18T10:51:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/18/buy-dow-jones-dividend-growth-stocks-december/?source=iedfolrf0000001",
+      "tickers": [
+        "MSFT",
+        "V",
+        "DIS"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801131/gettyimages-1150434783-1201x764-6e0eb16.jpg",
+      "description": "The article discusses three Dow Jones dividend growth stocks - Microsoft, Visa, and Walt Disney - that have seen significant gains in the past three months. It argues that these companies have the potential to continue growing their earnings and dividends in the long run.",
+      "keywords": [
+        "Dow Jones",
+        "dividend growth stocks",
+        "Microsoft",
+        "Visa",
+        "Walt Disney"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Microsoft's strong performance, driven by its advancements in artificial intelligence, and its potential to continue monetizing AI and accelerating growth. It also notes the company's impeccable balance sheet and consistent dividend growth."
+        },
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article praises Visa's business model, which benefits from network effects and the transition to digital payments. It also notes the company's consistent growth in key metrics and reasonable valuation."
+        },
+        {
+          "ticker": "DIS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Disney's best days may be ahead, as the company transitions from a legacy media company to a modern entertainment giant. It highlights the potential for the company's streaming platform, cruise line, and park expansions to drive growth."
+        }
+      ]
+    },
+    {
+      "id": "8094585c57ac82d8993d1df572e35485dd43df39ce0c04ef2faa90c7b631b868",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Prediction: This Will Be Wall Street's Next Trillion-Dollar Stock",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-18T10:06:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/18/prediction-wall-street-next-trillion-dollar-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "AVGO",
+        "V"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801038/stock-chart-quote-bear-bull-trading-invest-short-options-getty.jpg",
+      "description": "Broadcom, a networking solutions provider, has become the latest company to reach a trillion-dollar market cap, driven by its success in the artificial intelligence (AI) market. The article suggests that Visa could be the next company to reach this milestone, citing its strong competitive advantages and growth potential.",
+      "keywords": [
+        "Broadcom",
+        "Visa",
+        "Trillion-dollar company",
+        "Artificial intelligence"
+      ],
+      "insights": [
+        {
+          "ticker": "AVGO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Broadcom has become the 11th publicly traded company worldwide to reach a trillion-dollar market cap, driven by its strong performance in the AI networking solutions market. The company reported a 220% year-over-year growth in AI sales in fiscal 2024, and management expects AI revenue to grow significantly in the next three years."
+        },
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Visa is the likeliest company to follow in Broadcom's footsteps and reach a trillion-dollar valuation next. Visa has strong macro and company-specific factors working in its favor, including its dominant position in the credit card network market and its ability to expand into underbanked, rapidly growing emerging markets."
+        }
+      ]
+    }
+  ]
+}

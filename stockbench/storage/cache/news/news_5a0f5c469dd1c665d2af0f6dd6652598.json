@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer on International Business Machines: “Inexpensive Stock Even Here”",
+      "description": "International Business Machines Corporation (NYSE:IBM) is one of the stocks that Jim Cramer shared takes on, along with navigating market shortages. Cramer noted that the company reported a “magnificent number,” as he stated: Beyond the Mag Seven, let me throw in IBM. They reported a magnificent number. Oh my God, Mag Eight? I don’t know. […]",
+      "published_utc": "2026-01-31T08:48:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aabce247b2be26309b997ae4b33903608c3508567444f6406cee0b6c8c76c7ea",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138315140,
+      "datetime": 1769867302
+    },
+    {
+      "title": "This 'Outdated' IBM Technology Just Did Something It Hasn't Done in 20 Years",
+      "description": "The mainframe business is thriving.",
+      "published_utc": "2026-01-31T08:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=84033d9699ba52ad12c5a31b4139fb409a5d8abba08ab1bd3b450cee84b6024e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138315141,
+      "datetime": 1769866200
+    },
+    {
+      "title": "Californian tech company to move headquarters to Florida",
+      "description": "D-Wave Quantum Inc. said it will relocate its headquarters to Boca Raton, Fla., before the end of the year.",
+      "published_utc": "2026-01-31T06:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f9d9608e2ecc40dc2bb6af808f74b26a8841cb50f02869d6d8e919494cfc6226",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138314409,
+      "datetime": 1769857200
+    },
+    {
+      "title": "Amazon’s layoffs are staggering. We’ve seen this before",
+      "description": "Big Tech continues to wrestle with mass layoffs, most recently with Amazon’s announcement of 16,000 job cuts. It’s a trend that started long before the AI race: organizational change brought by the arrival of new technology.",
+      "published_utc": "2026-01-31T05:00:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=97a155bb0a21e0b8f70af47a000f9d85c8a72d1b1183ecdd42bb686db46f0338",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138314410,
+      "datetime": 1769853646
+    },
+    {
+      "title": "Benzinga Bulls And Bears: Microsoft, Meta, UnitedHealth — And Warsh Pick Jolts Markets",
+      "description": "Benzinga examined the prospects for many investors&#39; favorite stocks over the last week — here&#39;s a look at some of our top stories.",
+      "published_utc": "2026-01-31T04:01:31",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=2404c25625d901abe7695669edb4238fcfe45c9cd524dd6fa228d13f3b0d3f18",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/01/31/Bulls-and-Bears-1.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138449948,
+      "datetime": 1769850091
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:19:36.748431+00:00",
+    "cache_key": "news_5a0f5c469dd1c665d2af0f6dd6652598",
+    "count": 5
+  }
+}

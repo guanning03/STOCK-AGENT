@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Dow Jones And U.S. Index Outlook: Stocks Explode Despite War Rumors, A Bull Trap?",
+      "description": "US stock benchmarks exploded after forming a bottom in yesterday's trading.",
+      "published_utc": "2026-02-18T18:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=48ac1403df71dc8b7d212152022210376c55cbc2e37991b82adfaab79e450662",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1040865674/image_1040865674.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139141922,
+      "datetime": 1771456500
+    },
+    {
+      "title": "PEJ: Modest Upside With Meaningful Constraints",
+      "description": "",
+      "published_utc": "2026-02-18T16:36:08",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cf6a68cbb986b5b0e89980335925f85b291c154cf35166025fc07074d1b19d37",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139141313,
+      "datetime": 1771450568
+    },
+    {
+      "title": "International Stocks Are Outperforming. Investment Pros Weigh the ‘Sell America’ Trade.",
+      "description": "Investment advisors agree that it would be foolish for clients not to own foreign shares. The question is what to buy now and how much.",
+      "published_utc": "2026-02-18T15:23:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e644da1c3c92a0e026bed1c9eb0c87ab45cf5c7e0a4269b71e088b12b1e49629",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139139609,
+      "datetime": 1771446180
+    },
+    {
+      "title": "The Mag 7 Hit A Critical Level",
+      "description": "",
+      "published_utc": "2026-02-18T15:00:26",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=66067474d591616409601033eee881485345530a9ae626f7db99d1129be0e3b0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139140627,
+      "datetime": 1771444826
+    },
+    {
+      "title": "Joel Greenblatt's Strategic Moves: A Closer Look at State Street SPDR S&P 500 ETF Trust",
+      "description": "Insights from the Fourth Quarter 2025 13F Filing",
+      "published_utc": "2026-02-18T14:01:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2e22f4e5f0826ebafb988648f5768237d1ea1ef7f8a847b49850ec07cabcd5cc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139138924,
+      "datetime": 1771441266
+    }
+  ]
+}

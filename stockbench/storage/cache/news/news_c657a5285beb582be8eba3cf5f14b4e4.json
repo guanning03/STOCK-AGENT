@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Nvidia’s results ease concerns over AI boom",
+      "description": "The company’s stock price gained more than 2% in Wednesday’s extended trading after the numbers came out.",
+      "published_utc": "2025-11-19T17:23:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5ee4ae86b41f8c3ed325ef479798720b16e2993196f18af9554d1643cbaf35a8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137553210,
+      "datetime": 1763591021
+    },
+    {
+      "title": "Apple Stock Has Made Investors Rich for 20 Years — What Happens Next?",
+      "description": "Apple stock has delivered massive gains for two decades, but can it keep climbing? Explore what analysts predict for the tech giant’s future.",
+      "published_utc": "2025-11-19T16:55:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ae5398a112d9d4fd5c71740f7e514d46b33e18259e24f71b937315d79f84eb5b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137553211,
+      "datetime": 1763589308
+    },
+    {
+      "title": "Nvidia's earnings attest to its leadership in the AI race. By the numbers",
+      "description": "Nvidia reported more eye-catching numbers for its fiscal third quarter Wednesday, with net income jumping 65% and revenue increasing 62% from a year earlier.  Last month, Nvidia became the first public company to reach a market capitalization of $5 trillion.  The ravenous appetite for the Silicon Valley company's chips is the main reason that the company’s stock price has increased so rapidly since early 2023.",
+      "published_utc": "2025-11-19T16:38:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=97573ee06b98aedfe7d3fe4b45a41f3ca06c1c20d3ad6153ccdd455f6af89b23",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137553212,
+      "datetime": 1763588285
+    },
+    {
+      "title": "Alphabet Stock Rises, but Falls Short of Passing Microsoft in Market Cap",
+      "description": "Earlier today, Alphabet was on pace to surpass Microsoft in total market cap for the first time in seven years — but the stock later gave up some of those gains.  Alphabet stock got a boost late last week after a filing showed that Warren Buffett’s Berkshire Hathaway purchased 17.8 million shares of the company during the third quarter.  On Tuesday, Alphabet launched Gemini 3, an updated version of its own large language model — offering a chance to gain some ground in the artificial intelligence arms race.",
+      "published_utc": "2025-11-19T16:17:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bff2a0c40adc1ed686c255bb324870598e9e223aeec89ad29e6f1b993dec83ca",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137553214,
+      "datetime": 1763587024
+    },
+    {
+      "title": "Apple Is Making Huge China Market Share Wins. Does That Make AAPL Stock a Buy Here?",
+      "description": "Apple stock continues to trade at an elevated multiple as the iPhone is gaining market share in China, driven by strong iPhone 17 demand.",
+      "published_utc": "2025-11-19T13:53:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dd9203fd77a88946ec477f200a3df2fd26561e15d69b5864c9a8b75c59f81ea2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137553215,
+      "datetime": 1763578427
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:22:15.402022+00:00",
+    "cache_key": "news_c657a5285beb582be8eba3cf5f14b4e4",
+    "count": 5
+  }
+}

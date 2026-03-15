@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "The Fate of a Little-Known Company Behind Goldman’s Apple Card Is in Limbo",
+      "description": "ATLANTA— Leland Strange  is addicted to Dr Pepper and goes to Waffle House so often the staff knows how he likes his hash browns: with onions burned to a crisp.  The unassuming 84-year-old is the force behind the little-known company that gives  Apple’s  credit card distinctive features, like bills on the first of every month and a payment wheel that shows cardholders their projected interest costs.  JPMorgan Chase  is in advanced talks to take over as the card’s issuer from Goldman, in what would be one of the biggest credit-card deals ever, The Wall Street Journal reported.",
+      "published_utc": "2025-08-03T15:39:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cc1dcdde13be620ed2dd3c4b1b6f4d4ca5eb2691419e45193534a15a3b6ae2b2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136195325,
+      "datetime": 1754249940
+    },
+    {
+      "title": "OPEC+ Agrees to Big Output Hike as Focus Shifts to Its Next Move",
+      "description": "(Bloomberg) -- OPEC+ will sharply hike production again in September to finish unwinding its latest tranche of supply cuts in a push for market share, but left a question mark hanging over its future options as global markets face a mounting surplus.Most Read from BloombergWe Should All Be Biking Along the BeachSeeking Relief From Heat and Smog, Cities Follow the WindChicago Curbs Hiring, Travel to Tackle $1 Billion Budget HoleNYC Mayor Adams Gives Bally’s Bronx Casino Plan a Second ChanceSaudi",
+      "published_utc": "2025-08-03T10:41:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a566e9f5da66fd30eb8cff8169cf09eee28434e9df1ee28ecb2cc3092e542066",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136195404,
+      "datetime": 1754232071
+    },
+    {
+      "title": "Why QuantumScape Stock Plummeted This Week",
+      "description": "QuantumScape's share price saw a huge pullback in response to multiple bearish catalysts this week.",
+      "published_utc": "2025-08-03T05:49:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=04877605fce964ab9d2e02bf345e2a744adee14dcd28ea2397ca1256f1ebe558",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136194320,
+      "datetime": 1754214540
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:30:19.726576+00:00",
+    "cache_key": "news_53ddbbb07ca6e7f2503b464b7c87ada3",
+    "count": 3
+  }
+}

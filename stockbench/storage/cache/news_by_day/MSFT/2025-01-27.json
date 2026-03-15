@@ -1,0 +1,298 @@
+{
+  "items": [
+    {
+      "id": "d9ae3133e9d43f140c9b212fd33a01aafc13558839c9060ef5312c44244b85ce",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why Nvidia, Broadcom, Microsoft, and Other Artificial Intelligence (AI) Stocks Crashed Monday Morning",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-27T17:27:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/27/why-nvidia-broadcom-microsoft-and-other-artificial/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "AVGO",
+        "MSFT",
+        "GOOG",
+        "GOOGL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805394/an-angry-person-with-hands-outstretched-looking-at-a-computer-monitor.jpg",
+      "description": "Nvidia, Broadcom, Microsoft, and Alphabet stocks fell sharply on Monday due to concerns that a Chinese startup, DeepSeek, has developed an AI model that can perform well on older and cheaper hardware, potentially disrupting the AI industry.",
+      "keywords": [
+        "Nvidia",
+        "Broadcom",
+        "Microsoft",
+        "Alphabet",
+        "AI",
+        "DeepSeek"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Nvidia is the leading provider of GPUs used for training and running AI systems, and if AI models can be trained on lower-cost, inferior chips, Nvidia has a lot to lose."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Broadcom supplies networking products that work with chips in the data center, and if demand for these high-end chips falters, Broadcom's sales of ancillary products could suffer."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Microsoft has heavily invested in AI and integrated its capabilities across its products and services, and if there are less costly alternatives, customers might not be as willing to pay top dollar for Microsoft's solutions."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Alphabet has also spent heavily to develop next-generation AI models for its Google Cloud customers, and if there are less costly alternatives, Alphabet's results could suffer."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Alphabet has also spent heavily to develop next-generation AI models for its Google Cloud customers, and if there are less costly alternatives, Alphabet's results could suffer."
+        }
+      ]
+    },
+    {
+      "id": "b3389d58bd453e47da89aa722467d07de28d217794ed47979cf5c4b4e023d022",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Growth Trends and Developments in the Artificial Intelligence (AI) Industry, 2025-2033 - Featuring Microsoft, IBM, Amazon, Baidu, Nvidia, Oracle, HPE, Intel, Salesforce, and Alphabet",
+      "author": "Researchandmarkets.Com",
+      "published_utc": "2025-01-27T15:54:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/27/3015780/28124/en/Growth-Trends-and-Developments-in-the-Artificial-Intelligence-AI-Industry-2025-2033-Featuring-Microsoft-IBM-Amazon-Baidu-Nvidia-Oracle-HPE-Intel-Salesforce-and-Alphabet.html",
+      "tickers": [
+        "MSFT",
+        "IBM",
+        "AMZN",
+        "BIDU",
+        "NVDA",
+        "ORCL",
+        "HPE",
+        "HPEpC",
+        "INTC",
+        "CRM",
+        "GOOG",
+        "GOOGL"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The global AI market is expected to grow significantly, reaching $2.53 trillion by 2033, driven by advancements in machine learning, increasing demand for automation, and growing adoption across industries. However, data privacy and lack of skilled workforce remain challenges.",
+      "keywords": [
+        "artificial intelligence",
+        "machine learning",
+        "automation",
+        "data analytics",
+        "healthcare",
+        "finance",
+        "manufacturing",
+        "Canada",
+        "France",
+        "China",
+        "Saudi Arabia"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is a leading player in the AI industry, and its solutions are expected to contribute to the market growth."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IBM is a major provider of AI services and solutions, which are in high demand as businesses seek to leverage AI for efficiency and decision-making."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon's AI capabilities, including its cloud services and machine learning offerings, are likely to drive growth in the AI market."
+        },
+        {
+          "ticker": "BIDU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Baidu, as a leading Chinese tech company, is expected to contribute to the rapid growth of the AI market in China."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia's expertise in hardware and software for AI, including its GPU technology, positions it well to benefit from the AI market expansion."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Oracle's AI-powered solutions and services are likely to see increased demand as the AI market grows."
+        },
+        {
+          "ticker": "HPE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "HPE's AI-enabled infrastructure and services are expected to contribute to the growth of the AI market."
+        },
+        {
+          "ticker": "HPEpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "HPE's AI-enabled infrastructure and services are expected to contribute to the growth of the AI market."
+        },
+        {
+          "ticker": "INTC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Intel's AI-focused hardware and software offerings are likely to benefit from the expansion of the AI market."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce's AI-powered customer relationship management solutions are expected to see increased adoption as the AI market grows."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet's (Google) AI capabilities, including its machine learning and natural language processing technologies, are likely to contribute to the AI market's growth."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet's (Google) AI capabilities, including its machine learning and natural language processing technologies, are likely to contribute to the AI market's growth."
+        }
+      ]
+    },
+    {
+      "id": "5741f0e003cb7296890009d37c05cc16cc7785f59d081a280ab5a6b44db00c6d",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Market Clubhouse Morning Memo - January 27th, 2025 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META and TSLA)",
+      "author": "Rips",
+      "published_utc": "2025-01-27T15:07:14Z",
+      "article_url": "https://www.benzinga.com/news/large-cap/25/01/43235605/market-clubhouse-morning-memo-january-27th-2025-trade-strategy-for-spy-qqq-aapl-msft-nvda-googl-me",
+      "tickers": [
+        "AAPL",
+        "GOOG",
+        "GOOGL",
+        "META",
+        "MSFT",
+        "NVDA",
+        "SPY",
+        "QQQ",
+        "TSLA"
+      ],
+      "image_url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "description": "The article discusses the current trading levels and strategies for SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, and TSLA. It provides key support and resistance levels, as well as potential price targets for bulls and bears.",
+      "keywords": [
+        "SPY",
+        "QQQ",
+        "AAPL",
+        "MSFT",
+        "NVDA",
+        "GOOGL",
+        "META",
+        "TSLA",
+        "trading strategy",
+        "technical analysis"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article provides both bullish and bearish price targets for Apple, indicating a neutral sentiment as the stock is expected to trade within a range."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article outlines potential support and resistance levels for Alphabet, suggesting a neutral sentiment as the stock is expected to trade within a range."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article outlines potential support and resistance levels for Alphabet, suggesting a neutral sentiment as the stock is expected to trade within a range."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents both bullish and bearish price targets for Meta, indicating a neutral sentiment as the stock is expected to trade within a range."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article provides key support and resistance levels for Microsoft, suggesting a neutral sentiment as the stock is expected to trade within a range."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article outlines potential price targets for both bullish and bearish scenarios for NVIDIA, indicating a neutral sentiment as the stock is expected to trade within a range."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents both bullish and bearish price targets for the SPY ETF, suggesting a neutral sentiment as the ETF is expected to trade within a range."
+        },
+        {
+          "ticker": "QQQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article outlines potential support and resistance levels for the QQQ ETF, indicating a neutral sentiment as the ETF is expected to trade within a range."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article provides both bullish and bearish price targets for Tesla, suggesting a neutral sentiment as the stock is expected to trade within a range."
+        }
+      ]
+    },
+    {
+      "id": "0cc5a0ae5d2735d4a98dba2801690bbf048a178b543f0132e2d7dce74625e101",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Nvidia Stock Is Up Over 900% Since 2023. Here's Why It's Still a Screaming Buy.",
+      "author": "Keithen Drury",
+      "published_utc": "2025-01-27T12:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/27/nvidia-stock-is-up-over-800-since-2023/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "TSM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804788/nvidia-voyager-headquarters.jpg",
+      "description": "Nvidia's stock has gained 906% since the start of 2023, but the author argues it is not overvalued compared to its peers. The company's success is tied to the growth of artificial intelligence, and analysts expect its revenue to grow 52% by 2026, indicating there is still plenty of growth left in the business.",
+      "keywords": [
+        "Nvidia",
+        "artificial intelligence",
+        "stock valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article argues that Nvidia's stock is not overvalued despite its recent astronomical rise, and that the company's growth prospects, particularly in the artificial intelligence market, are still strong. Analysts expect Nvidia's revenue to grow 52% by 2026, indicating there is still plenty of growth left in the business."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares Nvidia's forward earnings multiple to that of Apple, noting that Apple trades at a lower multiple, but suggests that Nvidia's valuation is still reasonable given its expected growth."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares Nvidia's forward earnings multiple to that of Microsoft, noting that Microsoft trades at a lower multiple, but suggests that Nvidia's valuation is still reasonable given its expected growth."
+        },
+        {
+          "ticker": "TSM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article cites Taiwan Semiconductor Manufacturing, Nvidia's chip manufacturer, as forecasting that AI-related chips would double their revenue in 2025, which is seen as a clear indication that Nvidia's growth is far from over."
+        }
+      ]
+    }
+  ]
+}

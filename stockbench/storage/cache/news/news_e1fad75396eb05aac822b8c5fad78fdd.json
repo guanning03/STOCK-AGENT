@@ -1,0 +1,114 @@
+{
+  "items": [
+    {
+      "title": "Buffett's Departure From Berkshire Hathaway Puts Spotlight on Greg Abel",
+      "description": "Warren Buffett has retired as the CEO of Berkshire Hathaway Inc., marking the end of his six-decade-long tenure. Greg Abel, his successor, took charge on the first day of the new year, stepping into a role fraught with challenges. What Happened: Abel’s key responsibility will be the effective allocation of Berkshire’s burgeoning cash reserves, which recently crossed the $350 billion mark. This amount surpasses the market values of Home Depot Inc. (NYSE:HD), Procter & Gamble Co. (NYSE:PG), and Ge",
+      "published_utc": "2026-01-04T15:15:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f0eac6f9c83d77d58a00904461ee14519110be138bc5d0ee53c03fabd82b2bd5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137985908,
+      "datetime": 1767557752
+    },
+    {
+      "title": "3 Stocks That Could Be Easy Wealth Builders",
+      "description": "If you want to build wealth the slow and steady way, take a look at this trio of consumer staples Dividend Kings today.",
+      "published_utc": "2026-01-04T14:23:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f3b0825dbd5f6eb107171046c31020930e92c0e566f9a0a3ee5a8b24d16c36ab",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137985914,
+      "datetime": 1767554580
+    },
+    {
+      "title": "Kimberly-Clark: Buy This Dividend Aristocrat While The Market Overreacts",
+      "description": "Kimberly-Clark (KMB) looks undervalued near 52-week lows with a 5% dividend yield; Kenvue merger could add $1.9B synergies.",
+      "published_utc": "2026-01-04T04:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=558d96fb66aac6c2f3f0cbd99a030b126aebfc54ae121289327d38af83b09549",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1420015160/image_1420015160.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137980854,
+      "datetime": 1767517200
+    },
+    {
+      "id": "53b372952e374d0d7be94ccd0d8af3a0da18f5d8493be12be71d304683d13c15",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "VDC vs. RSPS: Broad Diversification or Balanced Bets for Consumer Staples Investors?",
+      "author": "Sara Appino",
+      "published_utc": "2026-01-04T21:00:08Z",
+      "article_url": "https://www.fool.com/coverage/etfs/2026/01/04/vdc-vs-rsps-broad-diversification-or-balanced-bets-for-consumer-staples-investors/?source=iedfolrf0000001",
+      "tickers": [
+        "VDC",
+        "RSPS",
+        "WMT",
+        "COST",
+        "PG"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F68e88b35844c8ea3f09f6b0350420ee30bed3518-1401x1251.png%3Fw%3D1401%26h%3D1251&w=1200&op=resize",
+      "description": "Vanguard's VDC consumer staples ETF outperforms Invesco's RSPS with lower fees (0.09% vs 0.40%), broader diversification (105 vs 37 holdings), and stronger 1-year returns (0.05% vs -3.2%). VDC uses market-cap weighting with megacap concentration, while RSPS employs equal-weighting to reduce single-stock risk. Both offer defensive sector exposure with lower volatility, appealing to investors seeking stability over growth.",
+      "keywords": [
+        "consumer staples ETF",
+        "VDC",
+        "RSPS",
+        "expense ratio",
+        "diversification",
+        "equal-weighted",
+        "market-cap weighted",
+        "dividend yield",
+        "defensive stocks"
+      ],
+      "insights": [
+        {
+          "ticker": "VDC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "VDC demonstrates superior performance with significantly lower expense ratio (0.09%), broader diversification (105 holdings), stronger 1-year returns (0.05% vs -3.2%), lower max drawdown (16.55% vs 18.64%), and better 5-year growth ($1,244 vs $988 on $1,000 invested). Lower costs and proven track record of 21.9 years support positive outlook."
+        },
+        {
+          "ticker": "RSPS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "RSPS offers a differentiated equal-weighting strategy that reduces concentration risk and provides exposure to mid-sized companies, but is hampered by higher expense ratio (0.40%), negative 1-year returns (-3.2%), higher volatility (max drawdown 18.64%), and smaller asset base ($236.2M). Useful for risk-averse investors but underperforms on cost and returns."
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Walmart is mentioned as the largest holding in VDC at 14.53%, representing significant concentration in the fund. No specific performance commentary provided; neutral mention as a major portfolio component."
+        },
+        {
+          "ticker": "COST",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Costco is the second-largest holding in VDC at 12.00%. Mentioned as part of the megacap concentration strategy; no specific performance analysis provided."
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Procter & Gamble is the third-largest holding in VDC at 10.09%. Included as part of the market-cap weighted portfolio; no specific sentiment indicators provided."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T00:58:08.697648+00:00",
+    "cache_key": "news_e1fad75396eb05aac822b8c5fad78fdd",
+    "count": 4
+  }
+}

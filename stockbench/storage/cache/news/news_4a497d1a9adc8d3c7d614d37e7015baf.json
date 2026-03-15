@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Nasdaq closes higher to start November, boosted by Amazon and other AI leaders",
+      "description": "Investors moved further into the artificial intelligence trade following a number of deal announcements.",
+      "published_utc": "2025-11-02T13:02:10",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=476b59536a1f6707ef9184770a99eff248ea5a063c9017ea10e47932ab697cfc",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108220653-1762187355172-Traders-Photo-20251102-KK-PRESS-013.jpg?v=1762187577&w=1920&h=1080",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137334696,
+      "datetime": 1762106530
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:20:31.298240+00:00",
+    "cache_key": "news_4a497d1a9adc8d3c7d614d37e7015baf",
+    "count": 1
+  }
+}

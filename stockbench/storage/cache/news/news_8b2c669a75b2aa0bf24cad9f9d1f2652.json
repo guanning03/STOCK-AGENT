@@ -1,0 +1,90 @@
+{
+  "items": [
+    {
+      "title": "Nvidia will deliver key earnings report this week",
+      "description": "Check out the stocks that propelled last week's huge Dow rally.",
+      "published_utc": "2025-08-24T06:58:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7b86059d86ff84352acd6fae86a8258b87a44dd3f1d25102d65586b83cc7a8d5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136502538,
+      "datetime": 1756033110
+    },
+    {
+      "title": "2 Top Stocks to Buy Now if You Want Decades of Passive Income",
+      "description": "Temporary factors have caused these two dividend-paying companies' stock prices to dip.",
+      "published_utc": "2025-08-24T03:50:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=29a6176107e3de46012c21fca17c856742a49c8e14f4fcd4e4683cacb14e771c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136502663,
+      "datetime": 1756021800
+    },
+    {
+      "id": "438e479fafd36b0aaaaab2cab53874679c8ac947780ee708dcd2560b715e4265",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why Joby Aviation Stock Plummeted This Week",
+      "author": "Keith Noonan",
+      "published_utc": "2025-08-24T10:01:00Z",
+      "article_url": "https://www.fool.com/investing/2025/08/24/why-joby-aviation-stock-plummeted-this-week/?source=iedfolrf0000001",
+      "tickers": [
+        "JOBY",
+        "JOBY.WS",
+        "HD",
+        "TGT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/830721/gettyimages-1169868458.jpg",
+      "description": "Joby Aviation experienced a 10.1% stock price decline last week due to macroeconomic risks, inflation concerns, and AI valuation pressures, but saw partial recovery after Federal Reserve Chair Jerome Powell's speech suggesting potential interest rate cuts.",
+      "keywords": [
+        "eVTOL",
+        "aviation",
+        "interest rates",
+        "inflation",
+        "AI",
+        "stock market"
+      ],
+      "insights": [
+        {
+          "ticker": "JOBY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Stock experienced volatility with a 10.1% decline, but showed recovery potential due to positive regulatory progress and potential interest rate cuts. The company completed its first FAA-governed inter-airport trip, indicating technological advancement."
+        },
+        {
+          "ticker": "JOBY.WS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Stock experienced volatility with a 10.1% decline, but showed recovery potential due to positive regulatory progress and potential interest rate cuts. The company completed its first FAA-governed inter-airport trip, indicating technological advancement."
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Mentioned in context of reinforcing inflation concerns through their Q2 report"
+        },
+        {
+          "ticker": "TGT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Mentioned in context of reinforcing inflation concerns through their Q2 report"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:39:29.950723+00:00",
+    "cache_key": "news_8b2c669a75b2aa0bf24cad9f9d1f2652",
+    "count": 3
+  }
+}

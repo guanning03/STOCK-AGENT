@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Consumer Tech News (Jan 5-9): Semiconductors Steal CES 2026 Spotlight, AI Regulation Tightens As Governments Crack Down & More",
+      "description": "Nvidia, AMD, Intel, and TSMC dominate CES 2026 with AI chips, open-source autonomy, and next-gen platforms as global demand accelerates across data centers and vehicles. Markets swing as Maduro&#39;s capture sparks drone stock rallies, AI regulation tightens, mega PAC funding surges, and tech earnings, chips, and defense dominate headlines.",
+      "published_utc": "2026-01-11T07:01:22",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=cc39bcbe903c58e82605a53a11721cb4ea418c8c6ee828a0f66d6fff441a3e64",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/01/11/CES-2026.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138438648,
+      "datetime": 1768132882
+    },
+    {
+      "title": "Top Wall Street analysts recommend these dividend stocks for consistent income",
+      "description": "TipRanks discusses three dividend-paying stocks, including Permian Resources and International Business Machines.",
+      "published_utc": "2026-01-11T03:18:05",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=773b172b15dadacc250cbd8d1eedd722a1e4b67afbe673c4b352e4cd8cd3d1a8",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108214044-1760962400323-gettyimages-2234419123-20090101250912-99-09254.jpeg?v=1760962422&w=1920&h=1080",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138064466,
+      "datetime": 1768119485
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:19:56.694885+00:00",
+    "cache_key": "news_04e4ae3d9b856f31a4e3567a81a57a1e",
+    "count": 2
+  }
+}

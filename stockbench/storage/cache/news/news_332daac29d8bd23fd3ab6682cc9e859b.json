@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "id": "0d256d2eed4682b5005441e311ef8701b12af3f78f1c76467ad3118dfec25527",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Protective Coatings Market to Witness 5.20% CAGR by 2031 | SkyQuest Technology",
+      "author": "N/A",
+      "published_utc": "2024-12-09T10:58:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2024/12/09/2993552/0/en/Protective-Coatings-Market-to-Witness-5-20-CAGR-by-2031-SkyQuest-Technology.html",
+      "tickers": [
+        "PPG",
+        "SHW",
+        "AXTA",
+        "RPM",
+        "MAS"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/c673c6fa-f0e7-47bf-8490-fe528c593820",
+      "description": "The global protective coatings market is expected to grow at a CAGR of 5.20% from 2024 to 2031, reaching a value of $22.91 billion. The market is driven by the rising demand for corrosion protection and increasing infrastructure development, particularly in the Asia-Pacific region.",
+      "keywords": [
+        "protective coatings",
+        "market growth",
+        "corrosion protection",
+        "infrastructure development"
+      ],
+      "insights": [
+        {
+          "ticker": "PPG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions PPG Industries Inc. as one of the prominent players in the protective coatings market, indicating its strong position and potential to benefit from the market growth."
+        },
+        {
+          "ticker": "SHW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article includes The Sherwin-Williams Company as a prominent player in the protective coatings market, indicating its strong market position and potential to benefit from the industry's growth."
+        },
+        {
+          "ticker": "AXTA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Axalta Coating Systems LLC as one of the key players in the protective coatings market, suggesting its strong presence and ability to capitalize on the market opportunities."
+        },
+        {
+          "ticker": "RPM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article includes RPM International Inc. as a prominent player in the protective coatings market, indicating its strong market position and potential to benefit from the industry's growth."
+        },
+        {
+          "ticker": "MAS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Masco Corporation as one of the key players in the protective coatings market, suggesting its strong presence and ability to capitalize on the market opportunities."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:06:34.871221+00:00",
+    "cache_key": "news_332daac29d8bd23fd3ab6682cc9e859b",
+    "count": 1
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "items": [
+    {
+      "title": "OWL Co-CEO Claps Back On Jamie Dimon's 'Cockroach' Remark: 'Might Be A Lot More Cockroaches At JPMorgan'",
+      "description": "A war of words has erupted over the health of the U.S. credit markets, with Blue Owl Capital Inc. (NYSE:OWL) co-CEO Marc Lipschultz firing back at a stark warning from JPMorgan Chase & Co. (NYSE:JPM) CEO Jamie Dimon. Blue Owl Co-CEO Rejects Problems ...",
+      "published_utc": "2025-10-17T22:31:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d3aab116e94f232ae12aa95aa41eece1941ec628ae252cecea9cec3359de2b28",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137164107,
+      "datetime": 1760754668
+    },
+    {
+      "title": "Review & Preview: The Banks Are OK, For Now",
+      "description": "A day after worries about the U.S. banking system threatened to spin out of control, the market took a deep breath.",
+      "published_utc": "2025-10-17T20:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b52201e95eeb90755de05b82a66a16111cf5f797cf0a79bd283702ff548ea64d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137131241,
+      "datetime": 1760745600
+    },
+    {
+      "id": "9253bd61e7ed5632fcd01cb24d813bb6bfbc6457d3f0f1c538e23504211a1d6c",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Jamie Dimon Just Gave a Big Warning to Stock Market Investors",
+      "author": "Matt Frankel, Cfp",
+      "published_utc": "2025-10-18T16:33:36Z",
+      "article_url": "https://www.fool.com/investing/2025/10/18/jamie-dimon-just-gave-a-big-warning-to-stock-marke/?source=iedfolrf0000001",
+      "tickers": [
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "VYLD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/838460/dimon-tile.png",
+      "description": "Bank earnings are showing strength, but JPMorgan Chase CEO Jamie Dimon's comments about recent auto industry bankruptcies have raised investor concerns about potential broader financial risks.",
+      "keywords": [
+        "bank earnings",
+        "auto industry",
+        "bankruptcies",
+        "financial risks"
+      ],
+      "insights": [
+        {
+          "ticker": "AMJB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "While bank earnings appear strong, Dimon's comments about auto industry bankruptcies suggest potential underlying economic challenges that could impact the bank's performance"
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "While bank earnings appear strong, Dimon's comments about auto industry bankruptcies suggest potential underlying economic challenges that could impact the bank's performance"
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "While bank earnings appear strong, Dimon's comments about auto industry bankruptcies suggest potential underlying economic challenges that could impact the bank's performance"
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "While bank earnings appear strong, Dimon's comments about auto industry bankruptcies suggest potential underlying economic challenges that could impact the bank's performance"
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "While bank earnings appear strong, Dimon's comments about auto industry bankruptcies suggest potential underlying economic challenges that could impact the bank's performance"
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "While bank earnings appear strong, Dimon's comments about auto industry bankruptcies suggest potential underlying economic challenges that could impact the bank's performance"
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "While bank earnings appear strong, Dimon's comments about auto industry bankruptcies suggest potential underlying economic challenges that could impact the bank's performance"
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "While bank earnings appear strong, Dimon's comments about auto industry bankruptcies suggest potential underlying economic challenges that could impact the bank's performance"
+        },
+        {
+          "ticker": "VYLD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "While bank earnings appear strong, Dimon's comments about auto industry bankruptcies suggest potential underlying economic challenges that could impact the bank's performance"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:31:11.832702+00:00",
+    "cache_key": "news_982ca6fd2ee6883a287d1bceeb41e494",
+    "count": 3
+  }
+}

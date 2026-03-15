@@ -1,0 +1,111 @@
+{
+  "items": [
+    {
+      "title": "2 Monster Stocks to Hold for the Next 10 Years",
+      "description": "Caterpillar and Okta benefit from the AI boom but have enough other revenue streams to balance out any boom-and-bust cycle.",
+      "published_utc": "2026-02-17T16:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6a50141721dc1318e6b543622eb7e999b24ac3a41c75aed072975a5dd4ec1dd5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139126476,
+      "datetime": 1771362300
+    },
+    {
+      "title": "Trump’s America First Agenda Is Pushing Industrial ETFs like XLI To The Moon",
+      "description": "The industrial sector doesn’t make headlines like tech stocks do, but it’s the machinery behind infrastructure spending, defense budgets, and manufacturing cycles. When GDP growth accelerates or governments commit to multi-year infrastructure plans, industrial companies see order books expand. That’s the core thesis behind The Industrial Select Sector SPDR Fund (NYSEARCA:XLI), which offers pure exposure ... Trump’s America First Agenda Is Pushing Industrial ETFs like XLI To The Moon",
+      "published_utc": "2026-02-17T15:00:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1be10f339b7166df68c95028a32f474e6fda64c44d56ab13091d0689c15722be",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139126570,
+      "datetime": 1771358402
+    },
+    {
+      "id": "22c99006c716e236835af5d184b38ddb623b20a4f21cf79b70bddd8384c01221",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Southeast Asia Used Construction Equipment Market Research Report 2025-2030 - China is the Leading Investor in Manufacturing Hubs Like Vietnam and Thailand",
+      "author": "Researchandmarkets.Com",
+      "published_utc": "2026-02-17T09:45:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2026/02/17/3238990/28124/en/Southeast-Asia-Used-Construction-Equipment-Market-Research-Report-2025-2030-China-is-the-Leading-Investor-in-Manufacturing-Hubs-Like-Vietnam-and-Thailand.html",
+      "tickers": [
+        "CAT",
+        "SSUMY",
+        "KMTUY"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The Southeast Asia used construction equipment market is projected to grow from 73,464 units in 2024 to 86,517 units by 2030 at a CAGR of 2.76%. Growth is driven by infrastructure investments in Indonesia, Vietnam, and the Philippines, along with increased mining activities for battery materials. China leads manufacturing investments in the region, while rising imports of affordable Chinese used equipment reshape procurement patterns. However, growth is tempered by the expansion of equipment rental markets and stricter import regulations.",
+      "keywords": [
+        "used construction equipment",
+        "Southeast Asia market",
+        "infrastructure investment",
+        "mining activities",
+        "equipment financing",
+        "Chinese imports",
+        "rental market",
+        "import regulations"
+      ],
+      "insights": [
+        {
+          "ticker": "CAT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Identified as a front-runner and market leader in Southeast Asia with strong market share, high brand loyalty, and premium quality positioning. Benefits from infrastructure and mining growth drivers in the region."
+        },
+        {
+          "ticker": "SSUMY",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Noted as lagging in adopting new technologies and having low product diversification, putting it at a competitive disadvantage in the evolving market."
+        },
+        {
+          "ticker": "KMTUY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Listed as a front-runner with strong market presence and offering flexible financing solutions for used construction equipment, positioning it well to capitalize on growing demand."
+        }
+      ]
+    },
+    {
+      "title": "Here is What to Know Beyond Why Caterpillar Inc. (CAT) is a Trending Stock",
+      "description": "Zacks.com users have recently been watching Caterpillar (CAT) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+      "published_utc": "2026-02-17T09:00:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c18d5ed64ea67bad0ae93593326cc77a2cd6507232a70bfcd20a1e1b6ffd7907",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139123978,
+      "datetime": 1771336805
+    },
+    {
+      "title": "Dow's nearly 150-point fall led by losses for Salesforce, Caterpillar stocks",
+      "description": "Dow's nearly 150-point fall led by losses for Salesforce, Caterpillar stocks",
+      "published_utc": "2026-02-17T04:58:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=25da36ea61bcaab38c6fa3bbee0ec7f4ad68ac841833d7e4ee2b59752cbf4ae6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139200014,
+      "datetime": 1771322280
+    }
+  ]
+}

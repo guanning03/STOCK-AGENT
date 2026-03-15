@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "id": "46e9896aca6deaf241dff501e77d27c6c73d7dcff8ba1238757fe97daea7f572",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is the SPDR S&P 500 ETF Trust the Smartest Investment You Can Make Today?",
+      "author": "Adria Cimino",
+      "published_utc": "2025-03-09T16:10:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/09/is-the-spdr-sp-500-etf-trust-the-smartest-investme/?source=iedfolrf0000001",
+      "tickers": [
+        "SPY",
+        "KO",
+        "ABBV"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/810315/gettyimages-1279395367.jpg",
+      "description": "The article discusses investing in the SPDR S&P 500 ETF Trust (SPY) during a market downturn caused by uncertainty over President Trump's tariffs. It argues that quality stocks and ETFs may be trading at bargain prices, and the S&P 500 has historically recovered and delivered strong returns over the long term.",
+      "keywords": [
+        "SPDR S&P 500 ETF Trust",
+        "S&P 500",
+        "market uncertainty",
+        "tariffs",
+        "long-term investing"
+      ],
+      "insights": [
+        {
+          "ticker": "SPY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article recommends investing in the SPDR S&P 500 ETF Trust as a smart move, as it provides exposure to the resilient S&P 500 index, which has historically recovered and delivered strong returns over the long term, even during market downturns."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Coca-Cola's stock advanced over the past month, even as the overall market declined, suggesting it may be a good diversification option."
+        },
+        {
+          "ticker": "ABBV",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that AbbVie's stock advanced over the past month, even as the overall market declined, suggesting it may be a good diversification option."
+        }
+      ]
+    }
+  ]
+}

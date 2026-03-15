@@ -1,0 +1,101 @@
+{
+  "items": [
+    {
+      "id": "c71998946c83e9b0b9d7d3049dc07b688bb1049fbc53485d97452a0bd9b16f19",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "V Investor Alert: Kessler Topaz Meltzer & Check, LLP Urges V Investors with Losses to Contact the Firm",
+      "author": "N/A",
+      "published_utc": "2024-11-30T20:07:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2024/11/30/2989352/0/en/V-Investor-Alert-Kessler-Topaz-Meltzer-Check-LLP-Urges-V-Investors-with-Losses-to-Contact-the-Firm.html",
+      "tickers": [
+        "V"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/405ec490-b904-4a5e-85a7-710cdebe280d",
+      "description": "A securities class action lawsuit has been filed against Visa Inc. (V) on behalf of investors who purchased or acquired Visa securities between November 16, 2023, and September 23, 2024. The lawsuit alleges that Visa was not in compliance with federal antitrust laws and did not have effective internal programs and policies to assess and control compliance with these laws.",
+      "keywords": [
+        "Visa",
+        "securities class action lawsuit",
+        "antitrust laws"
+      ],
+      "insights": [
+        {
+          "ticker": "V",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article alleges that Visa was not in compliance with federal antitrust laws and did not have effective internal programs and policies to assess and control compliance with these laws, which could have a negative impact on the company."
+        }
+      ]
+    },
+    {
+      "id": "810ee9fd05c41d64e953c7c9f047966f73512a946f583c3a69d25d60e86989d0",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "ROSEN, TRUSTED INVESTOR COUNSEL, Encourages Visa Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm – V",
+      "author": "N/A",
+      "published_utc": "2024-11-30T18:09:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2024/11/30/2989348/673/en/ROSEN-TRUSTED-INVESTOR-COUNSEL-Encourages-Visa-Inc-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-First-Filed-by-the-Firm-V.html",
+      "tickers": [
+        "V"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092",
+      "description": "Rosen Law Firm is encouraging Visa Inc. investors to seek legal counsel before the January 21, 2025 lead plaintiff deadline in a securities class action lawsuit. The lawsuit alleges that Visa made materially false and misleading statements regarding its compliance with federal antitrust laws.",
+      "keywords": [
+        "Visa Inc.",
+        "securities class action",
+        "antitrust laws"
+      ],
+      "insights": [
+        {
+          "ticker": "V",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article indicates that Visa is accused of making materially false and misleading statements regarding its compliance with federal antitrust laws, which suggests potential legal and financial issues for the company."
+        }
+      ]
+    },
+    {
+      "id": "464e4d782792c40da82a638714628f781597245cd51ec264f401300ec0f9e89e",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Should You Buy Visa While It's Below $320?",
+      "author": "Reuben Gregg Brewer",
+      "published_utc": "2024-11-30T09:30:00Z",
+      "article_url": "https://www.fool.com/investing/2024/11/30/should-you-buy-visa-while-its-below-320/?source=iedfolrf0000001",
+      "tickers": [
+        "V",
+        "MA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/798964/24_05_13-a-person-using-a-calculator-with-a-piggy-bank-in-the-foreground-_mf-dload-1200x800-5b2df79.jpg",
+      "description": "Visa is a payment processing company that has seen strong growth, with a 10% increase in transactions in fiscal 2024. While the stock is trading near its all-time high, it appears fairly valued, making it an interesting option for dividend growth investors.",
+      "keywords": [
+        "Visa",
+        "Mastercard",
+        "payment processing",
+        "dividend growth"
+      ],
+      "insights": [
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Visa has a strong industry position, a growing business, and a still-bright future. It is fairly valued, making it an attractive option for dividend growth investors."
+        },
+        {
+          "ticker": "MA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mastercard is mentioned as sharing an effective duopoly with Visa in the payment processing industry, but no specific sentiment is provided for the company."
+        }
+      ]
+    }
+  ]
+}

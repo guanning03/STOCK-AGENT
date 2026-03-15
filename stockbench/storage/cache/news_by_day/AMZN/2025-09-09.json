@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today: Dow Climbs 196 Points; Apple Sinks, Oracle Soars On Results (Live Coverage)",
+      "description": "Stock Market Today: Dow Climbs 196 Points; Apple Sinks, Oracle Soars On Results (Live Coverage)",
+      "published_utc": "2025-09-09T12:27:41",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=93c1501c6325ed3be890f88a20d2af9dd6a01c081c1beeb02d798ef6b5fc76cb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136712777,
+      "datetime": 1757435261
+    },
+    {
+      "title": "Four Reasons To Watch Amazon Stock — Including A Fresh Breakout",
+      "description": "Four Reasons To Watch Amazon Stock — Including A Fresh Breakout",
+      "published_utc": "2025-09-09T12:00:06",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=7689cdd476ab40e728f38dd588432f406db6fc424aba2d178cb205f1a1e6ce86",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136712778,
+      "datetime": 1757433606
+    },
+    {
+      "title": "10 Consumer Discretionary Stocks With Whale Alerts In Today's Session",
+      "description": "",
+      "published_utc": "2025-09-09T09:35:24",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=4b16a670d61a1b865e8bd87ed9c65a276a798a760d8f597f503aa56bf442ec60",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138422229,
+      "datetime": 1757424924
+    },
+    {
+      "title": "AMZY: Understanding The Strategy And Suitability Of This High-Yielding ETF",
+      "description": "AMZY ETF offers high monthly income by writing call options on Amazon but caps upside potential and swaps capital gains for yield. Click here for more on AMZY.",
+      "published_utc": "2025-09-09T08:00:28",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4f4d804dde2ac4ed35cf3aa71dda3f7542bfb8b58357a39945b828ec65920734",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1742587085/image_1742587085.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136677835,
+      "datetime": 1757419228
+    },
+    {
+      "title": "Forget dollars, Bitcoin could run Earth-Mars economy",
+      "description": "Jose Puente and Carlos Puente explore Bitcoin's feasibility as the shared monetary standard between Earth and Mars.",
+      "published_utc": "2025-09-09T07:48:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f6e482b222e4415ae624788bc08787d5633b9a9f2ef80c0fd97b5ee68dab740a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136678058,
+      "datetime": 1757418494
+    }
+  ]
+}

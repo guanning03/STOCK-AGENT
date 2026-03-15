@@ -1,0 +1,346 @@
+{
+  "items": [
+    {
+      "id": "0b7b3bb92fd16107746fcfa091347a4a1c8ab83c34a97692dbee977ad3d3d17b",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Cathie Wood Goes Bargain Hunting. Here's 1 \"Magnificent Seven\" Stock She Just Bought on the DeepSeek Dip.",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-16T23:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/16/cathie-wood-goes-bargain-hunting-heres-1-magnifice/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "ARKW",
+        "ARKK",
+        "ARKF",
+        "ARKQ",
+        "ARKX"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807337/gettyimages-1302564832.jpg",
+      "description": "Cathie Wood's Ark Invest has been buying Amazon (AMZN) shares amid the recent market sell-off triggered by concerns over a Chinese AI startup called DeepSeek. The article argues that Wood's decision to buy the dip in Amazon is a smart move, as the company's investments in AI infrastructure are already paying off.",
+      "keywords": [
+        "Cathie Wood",
+        "Amazon",
+        "DeepSeek",
+        "AI",
+        "Ark Invest"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article argues that Amazon's investments in AI infrastructure, particularly through its $8 billion investment in Anthropic, are already bearing fruit, with AWS accelerating both revenue and profit growth. The author believes that investors are focusing too much on Amazon's spending and not giving enough credit to the growth the company has already witnessed."
+        },
+        {
+          "ticker": "ARKW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Cathie Wood's Ark Invest has been adding over 120,000 shares worth more than $28 million to five of its exchange-traded funds, including ARK Next Generation Internet, indicating a positive sentiment towards the fund's holdings."
+        },
+        {
+          "ticker": "ARKK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Cathie Wood's Ark Invest has been adding over 120,000 shares worth more than $28 million to five of its exchange-traded funds, including ARK Innovation, indicating a positive sentiment towards the fund's holdings."
+        },
+        {
+          "ticker": "ARKF",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Cathie Wood's Ark Invest has been adding over 120,000 shares worth more than $28 million to five of its exchange-traded funds, including ARK Fintech Innovation, indicating a positive sentiment towards the fund's holdings."
+        },
+        {
+          "ticker": "ARKQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Cathie Wood's Ark Invest has been adding over 120,000 shares worth more than $28 million to five of its exchange-traded funds, including ARK Autonomous Technology & Robotics, indicating a positive sentiment towards the fund's holdings."
+        },
+        {
+          "ticker": "ARKX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Cathie Wood's Ark Invest has been adding over 120,000 shares worth more than $28 million to five of its exchange-traded funds, including ARK Space Exploration & Innovation, indicating a positive sentiment towards the fund's holdings."
+        }
+      ]
+    },
+    {
+      "id": "2ab06cdfb57dcbf21855e9f21aff490807a9c80f8291fd8aaebbda173653713e",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "This 6%-Yielding Dividend Stock Hits Its Target for the 19th Year in a Row",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-16T13:08:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/16/this-6-yielding-dividend-stock-hits-its-target-for/?source=iedfolrf0000001",
+      "tickers": [
+        "ENB",
+        "AMZN",
+        "T",
+        "TBB",
+        "TpA",
+        "TpC",
+        "TM",
+        "BP",
+        "DUK",
+        "DUKB",
+        "DUKH",
+        "DUKpA",
+        "EQNR"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807833/arrows-hitting-bullseyes.jpg",
+      "description": "Enbridge, a pipeline and utility company, has achieved its annual financial guidance for 19 consecutive years, demonstrating the stability of its business model. The company is well-positioned for continued growth, with investments in organic expansion projects and strategic acquisitions that are expected to drive EBITDA and distributable cash flow growth in the coming years.",
+      "keywords": [
+        "Enbridge",
+        "pipeline",
+        "utility",
+        "financial guidance",
+        "growth",
+        "EBITDA",
+        "distributable cash flow"
+      ],
+      "insights": [
+        {
+          "ticker": "ENB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Enbridge's consistent financial performance, stable business model, and growth prospects, indicating a positive outlook for the company."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Amazon as a power purchase agreement partner for Enbridge's solar energy projects, but does not provide any further details about Amazon's performance or outlook."
+        },
+        {
+          "ticker": "T",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions AT&T as a power purchase agreement partner for Enbridge's solar energy projects, but does not provide any further details about AT&T's performance or outlook."
+        },
+        {
+          "ticker": "TBB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions AT&T as a power purchase agreement partner for Enbridge's solar energy projects, but does not provide any further details about AT&T's performance or outlook."
+        },
+        {
+          "ticker": "TpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions AT&T as a power purchase agreement partner for Enbridge's solar energy projects, but does not provide any further details about AT&T's performance or outlook."
+        },
+        {
+          "ticker": "TpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions AT&T as a power purchase agreement partner for Enbridge's solar energy projects, but does not provide any further details about AT&T's performance or outlook."
+        },
+        {
+          "ticker": "TM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Toyota as a power purchase agreement partner for Enbridge's solar energy projects, but does not provide any further details about Toyota's performance or outlook."
+        },
+        {
+          "ticker": "BP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions BP's Kaskida project, which Enbridge is supporting, but does not provide any further details about BP's performance or outlook."
+        },
+        {
+          "ticker": "DUK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Enbridge's T15 Reliability Project to connect its system to Duke Energy's 1.4 GW Roxboro gas-fired power plant, but does not provide any further details about Duke Energy's performance or outlook."
+        },
+        {
+          "ticker": "DUKB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Enbridge's T15 Reliability Project to connect its system to Duke Energy's 1.4 GW Roxboro gas-fired power plant, but does not provide any further details about Duke Energy's performance or outlook."
+        },
+        {
+          "ticker": "DUKH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Enbridge's T15 Reliability Project to connect its system to Duke Energy's 1.4 GW Roxboro gas-fired power plant, but does not provide any further details about Duke Energy's performance or outlook."
+        },
+        {
+          "ticker": "DUKpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Enbridge's T15 Reliability Project to connect its system to Duke Energy's 1.4 GW Roxboro gas-fired power plant, but does not provide any further details about Duke Energy's performance or outlook."
+        },
+        {
+          "ticker": "EQNR",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Equinor's Sparta development project, which Enbridge is supporting, but does not provide any further details about Equinor's performance or outlook."
+        }
+      ]
+    },
+    {
+      "id": "a2448750bbbb2c1376d92546c5dd112690a91f29e4146fb314839cc3677be078",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Reasons to Buy Toast Stock Like There's No Tomorrow",
+      "author": "Jennifer Saibil",
+      "published_utc": "2025-02-16T12:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/16/3-reasons-to-buy-toast-like-theres-no-tomorrow/?source=iedfolrf0000001",
+      "tickers": [
+        "TOST",
+        "AAPL",
+        "AMZN",
+        "NVDA",
+        "MSFT",
+        "SQ",
+        "XYZ"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806011/people-ordering-in-a-restaurant-using-toast-pos.jpg",
+      "description": "Toast, a cloud-based AI company serving the restaurant industry, is seeing strong growth and profitability. With a large market opportunity, international expansion, and new product offerings, Toast stock is a compelling buy despite its recent stock gains.",
+      "keywords": [
+        "Toast",
+        "restaurant industry",
+        "cloud-based",
+        "AI",
+        "growth",
+        "profitability"
+      ],
+      "insights": [
+        {
+          "ticker": "TOST",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Toast's strong growth, profitability, and large market opportunity, making it a compelling investment."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Apple is mentioned as one of the largest components of the S&P 500, but the article does not provide any specific insights about the company."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Amazon is mentioned as one of the largest components of the S&P 500, but the article does not provide any specific insights about the company."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article notes that Nvidia is slated to release earnings, which could affect the market, but does not provide any further analysis."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article notes that Microsoft is slated to release earnings, which could affect the market, but does not provide any further analysis."
+        },
+        {
+          "ticker": "SQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Block's Square seller's business is mentioned as a competitor to Toast, but the article does not provide any specific insights about the company."
+        },
+        {
+          "ticker": "XYZ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Block's Square seller's business is mentioned as a competitor to Toast, but the article does not provide any specific insights about the company."
+        }
+      ]
+    },
+    {
+      "id": "d85dbab8616dacf8bb175e5fc2535095c8978f6e96cf9746998c1e60ff1afa3a",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Nvidia's Stock Hasn't Been This Cheap in Nearly a Year. Here's What History Says Happens Next.",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-16T11:33:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/16/nvidias-stock-hasnt-been-this-cheap-in-nearly-a-ye/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "META",
+        "GOOG",
+        "GOOGL",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807383/engineer-looking-at-lines-of-code-for-artificial-intelligence-ai.jpg",
+      "description": "Nvidia's stock is currently trading at a historically low valuation, but the company's largest clients are expected to significantly increase their AI-related spending in the coming years, which bodes well for Nvidia's business and stock performance.",
+      "keywords": [
+        "Nvidia",
+        "AI",
+        "stock price",
+        "valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Nvidia's stock is currently undervalued and that the company's business outlook remains strong, with its largest clients expected to significantly increase their AI-related spending in the coming years."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Meta Platforms is one of Nvidia's largest clients and is expected to significantly increase its capital expenditures in 2025, which is seen as a positive for Nvidia's business."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Alphabet, another major Nvidia client, is also expected to increase its capital expenditures in 2025, which is viewed as a positive for Nvidia's business."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Alphabet, another major Nvidia client, is also expected to increase its capital expenditures in 2025, which is viewed as a positive for Nvidia's business."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Amazon, one of Nvidia's largest clients, is expected to have around $100 billion in capital expenditures in 2025, which is seen as a positive for Nvidia's business."
+        }
+      ]
+    },
+    {
+      "id": "6a682926ae06d0de625ecdcd53c1d7ce9d6468bd37324b0ff55c54d5ad38ccbb",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "This Stock Is Already Up 34% in 2025. Its Growth Is Getting a Big Boost From Amazon and Alphabet.",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-16T11:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/16/this-stock-is-already-up-34-in-2025-its-growth-is/?source=iedfolrf0000001",
+      "tickers": [
+        "PINS",
+        "AMZN",
+        "GOOG",
+        "GOOGL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807428/smiling-person-with-phone.jpg",
+      "description": "Pinterest's user base is largely untapped, with over 90% of its international users being undermonetized. However, partnerships with Amazon and Alphabet are helping to scale advertising demand and improve monetization, driving the stock's 34% year-to-date gains in 2025.",
+      "keywords": [
+        "Pinterest",
+        "Amazon",
+        "Alphabet",
+        "digital advertising",
+        "monetization"
+      ],
+      "insights": [
+        {
+          "ticker": "PINS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights that Pinterest's international user base, which makes up over 50% of its total users, is currently undermonetized by over 90% compared to its overall average. However, the company's partnerships with Amazon and Alphabet are helping to scale advertising demand and improve monetization in these markets, driving the stock's 34% year-to-date gains in 2025."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon is mentioned as one of the key partners helping Pinterest scale advertising demand and improve monetization, particularly in international markets where Pinterest was struggling to generate first-party advertising demand on its own."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet, the parent company of Google, is also mentioned as a key partner helping Pinterest scale advertising demand and improve monetization, particularly in international markets where Pinterest was struggling to generate first-party advertising demand on its own."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet, the parent company of Google, is also mentioned as a key partner helping Pinterest scale advertising demand and improve monetization, particularly in international markets where Pinterest was struggling to generate first-party advertising demand on its own."
+        }
+      ]
+    }
+  ]
+}

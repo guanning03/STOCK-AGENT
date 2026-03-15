@@ -1,0 +1,154 @@
+{
+  "items": [
+    {
+      "id": "8edbb9e73857ff6a7824d42cae555ba1e26a5010e746a6365c8e3be43076661d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why Broadcom Stock Was Climbing Today",
+      "author": "Jeremy Bowman",
+      "published_utc": "2024-12-11T16:44:21Z",
+      "article_url": "https://www.fool.com/investing/2024/12/11/why-broadcom-stock-was-climbing-today/?source=iedfolrf0000001",
+      "tickers": [
+        "AVGO",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800682/a-semiconductor-chip-being-made.jpg",
+      "description": "Broadcom is teaming up with Apple on an AI chip, which could accelerate Broadcom's growth in the AI sector. The partnership strengthens Broadcom's relationship with Apple, its biggest customer. Broadcom's upcoming earnings report is expected to show strong growth, and investors will be focused on the company's AI revenue.",
+      "keywords": [
+        "Broadcom",
+        "Apple",
+        "AI",
+        "earnings report"
+      ],
+      "insights": [
+        {
+          "ticker": "AVGO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Broadcom's partnership with Apple on an AI chip could be a significant opportunity for the company, as it could accelerate its growth in the AI sector. The article also notes that Broadcom's upcoming earnings report is expected to show strong growth, further supporting the positive sentiment."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the partnership between Broadcom and Apple on an AI chip, which strengthens Broadcom's relationship with the world's largest consumer electronics company. This suggests a positive sentiment towards Apple's involvement in the partnership."
+        }
+      ]
+    },
+    {
+      "id": "0b34130eaabd4e04d67011749ba203a846a628b59a8db3960d3683f86fb45501",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Best Stock to Buy Right Now: Amazon vs. Apple",
+      "author": "Neil Patel",
+      "published_utc": "2024-12-11T15:17:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/11/best-stock-to-buy-right-now-amazon-vs-apple/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800472/trader-pondering-at-screens.jpg",
+      "description": "Amazon and Apple are two of the most dominant tech companies, with market caps of $2.4 trillion and $3.7 trillion, respectively. While both stocks trade at record highs, Amazon may be the better buy due to its multiple growth engines, including e-commerce, cloud computing, and digital advertising. Apple's high valuation and softer growth prospects could lead to underperformance compared to the broader market.",
+      "keywords": [
+        "Amazon",
+        "Apple",
+        "tech giants",
+        "market cap",
+        "growth engines",
+        "valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon has multiple growth engines, including e-commerce, cloud computing, and digital advertising, which are expected to drive strong growth in the future."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Apple's high valuation and softer growth prospects could lead to underperformance compared to the broader market, despite its strong brand and ecosystem."
+        }
+      ]
+    },
+    {
+      "id": "bb6dcbaf3ee48c739c29494f25ba67714c0a7d5ca703a4cfadfb4d800d0bb110",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Computer Hardware Manufacturing Market Set to Reach US$ 765.64 Billion with a Robust 10% CAGR by 2034 | Fact.MR Report",
+      "author": "Fact.Mr",
+      "published_utc": "2024-12-11T12:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2024/12/11/2995238/0/en/Computer-Hardware-Manufacturing-Market-Set-to-Reach-US-765-64-Billion-with-a-Robust-10-CAGR-by-2034-Fact-MR-Report.html",
+      "tickers": [
+        "AAPL",
+        "DELL",
+        "HPQ",
+        "MSFT",
+        "INTC",
+        "AMD",
+        "NVDA"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/f482b854-04d1-4f4e-9237-f7c7c6823e10",
+      "description": "The global computer hardware manufacturing market is projected to reach US$ 765.64 billion by 2034, driven by advancements in processor power, memory, storage, and the growing demand for advanced hardware to manage complex applications of emerging technologies like 5G, AI, and machine learning.",
+      "keywords": [
+        "computer hardware manufacturing",
+        "5G",
+        "machine learning",
+        "artificial intelligence",
+        "semiconductors",
+        "gaming"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that leading computer hardware manufacturing companies, including Apple, are making significant investments in R&D to introduce advanced features and technology, indicating a positive outlook for the company."
+        },
+        {
+          "ticker": "DELL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that leading computer hardware manufacturing companies, including Dell, are making significant investments in R&D to introduce advanced features and technology, indicating a positive outlook for the company."
+        },
+        {
+          "ticker": "HPQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that leading computer hardware manufacturing companies, including HP, are making significant investments in R&D to introduce advanced features and technology, indicating a positive outlook for the company."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that leading computer hardware manufacturing companies, including Microsoft, are making significant investments in R&D to introduce advanced features and technology, indicating a positive outlook for the company."
+        },
+        {
+          "ticker": "INTC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that leading computer hardware manufacturing companies, including Intel, are making significant investments in R&D to introduce advanced features and technology, indicating a positive outlook for the company."
+        },
+        {
+          "ticker": "AMD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that leading computer hardware manufacturing companies, including AMD, are making significant investments in R&D to introduce advanced features and technology, indicating a positive outlook for the company."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that leading computer hardware manufacturing companies, including NVidia, are making significant investments in R&D to introduce advanced features and technology, indicating a positive outlook for the company."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:18:39.068886+00:00",
+    "cache_key": "news_61cbf1e220738bd87e59801da8034c5a",
+    "count": 3
+  }
+}

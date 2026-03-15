@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "American Express Insiders Sell US$45m Of Stock, Possibly Signalling Caution",
+      "description": "Many American Express Company ( NYSE:AXP ) insiders ditched their stock over the past year, which may be of interest to...",
+      "published_utc": "2026-02-08T09:00:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5408356e52210586a0095fcb4a2e2d3b64c34f90a152baa11f11eb12a902b82f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138393603,
+      "datetime": 1770559219
+    },
+    {
+      "title": "2 of the Safest Buffett Stocks Investors Can Buy in 2026",
+      "description": "It can be important for investors to have a solid foundation in their portfolios.",
+      "published_utc": "2026-02-08T08:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7e5afd3100d200f75ae5f0ee3731327fdf70d1704a20f3349f3497c5c11aab33",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138392866,
+      "datetime": 1770555900
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:46:02.842879+00:00",
+    "cache_key": "news_609980fcf760e9077d91a1b9d41c5afd",
+    "count": 2
+  }
+}

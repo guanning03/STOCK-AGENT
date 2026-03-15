@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Klarna Takes Aim At Premium Credit Cards With Its New Membership Program",
+      "description": "For about $220, members will get media subscriptions and cash back; and for $540 a year, access to airport lounges, the buy now, pay later provider said.",
+      "published_utc": "2025-10-27T14:32:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f25a0b6e468555c4d39425962dd429c59cf4700dc49a1c8aeb5ecd0935f33d04",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137231021,
+      "datetime": 1761589972
+    },
+    {
+      "title": "Here's How Much $100 Invested In American Express 5 Years Ago Would Be Worth Today",
+      "description": "",
+      "published_utc": "2025-10-27T13:31:11",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=a2cdac4cb2d6d8e4705d4020590061d34d6d2ec42a3e994b36383612dc1c9f8b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138835827,
+      "datetime": 1761586271
+    },
+    {
+      "title": "American Express Co. stock rises Monday, still underperforms market",
+      "description": "American Express Co. stock rises Monday, still underperforms market",
+      "published_utc": "2025-10-27T12:33:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=16b7f311745f6e31e3479219d4adb84a69744c67293af409169ab07560e05d70",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137251272,
+      "datetime": 1761582780
+    },
+    {
+      "title": "Jim Cramer on Mastercard: “You Can Put This One on Auto”",
+      "description": "Mastercard Incorporated (NYSE:MA) is one of the stocks in focus in the game plan Jim Cramer shared. Cramer expects the company to report an “enviable quarter.” He remarked: “Thursday morning, we’ve got another company that should report an enviable quarter, and that is MasterCard. You can put this one on auto. MasterCard’s going to be […]",
+      "published_utc": "2025-10-27T11:54:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c3e88c18650f9db42e08d6be07cbe083e1412307d43a65dcc1b03e4f5059bb09",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137230924,
+      "datetime": 1761580476
+    },
+    {
+      "title": "Visa Q3 Preview: Could Credit Card Stock Be 'Poised To Snap Back To Its Winning Ways?'",
+      "description": "Visa looks to piggyback off a strong earnings report from American Express and show strength in consumer spending.",
+      "published_utc": "2025-10-27T09:37:11",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=0d5e311f8dba70ac17027e3912067e8e3a03dfcc3901bdd01f3f60078c33e8af",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/10/27/Visa-Plastic-Electronic--Credit-Cards-Cl.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138835828,
+      "datetime": 1761572231
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:02:24.548319+00:00",
+    "cache_key": "news_0bca62116f342680f90b4421b3c318fb",
+    "count": 5
+  }
+}

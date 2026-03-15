@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "2 Reasons to Watch TRV and 1 to Stay Cautious",
+      "description": "Travelers trades at $291.86 and has moved in lockstep with the market. Its shares have returned 10.4% over the last six months while the S&P 500 has gained 8.6%.",
+      "published_utc": "2026-02-09T23:03:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1bf9afc4b1420f10a3b9b47da11b15a8e9f029014cb98c8ff2d34394cef70574",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139036408,
+      "datetime": 1770696195
+    },
+    {
+      "title": "Travelers Cos. Inc. stock underperforms Monday when compared to competitors",
+      "description": "Travelers Cos. Inc. stock underperforms Monday when compared to competitors",
+      "published_utc": "2026-02-09T11:44:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=ca8224afe7c71317ac72c6bf606cf741987281612ed1f87535002bd052a0a8a6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139065675,
+      "datetime": 1770655440
+    },
+    {
+      "title": "TRV Stock Near 52-Week High: A Signal for Investors to Hold Tight?",
+      "description": "Travelers' momentum in moderating auto premiums, resilient investment income and strong capital is likely to sustain its earnings growth.",
+      "published_utc": "2026-02-09T10:50:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f7ca324d291d1bea9975736524f60ffabd260cde19cc367d490ca9c15df954e3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138610293,
+      "datetime": 1770652200
+    }
+  ]
+}

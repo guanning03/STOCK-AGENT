@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "The Goldman Sachs Group, Inc. (NYSE:GS) is a favorite amongst institutional investors who own 78%",
+      "description": "Key Insights Significantly high institutional ownership implies Goldman Sachs Group's stock price is sensitive to their...",
+      "published_utc": "2025-08-23T10:00:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7464decfcfb0a882fd281cccaba40f10342546d843b45ba9212510155a5d0914",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136496112,
+      "datetime": 1755957609
+    },
+    {
+      "title": "NVIDIA, Dell Set To Report Earnings As Investors Focus On Core PCE Price Index",
+      "description": "This week witnesses earnings releases from giants like NVDA, DELL and BABA. Stay updated with Wall Street Week Ahead by Seeking Alpha!",
+      "published_utc": "2025-08-23T07:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d70c45331a1d53c8a721dab98575bf0eb568d7c6609b3250f75cfc26d64ee375",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136494571,
+      "datetime": 1755946800
+    },
+    {
+      "title": "Goldman Sachs Group (GS) Affirms Push for Growth in India with New Office",
+      "description": "The Goldman Sachs Group, Inc. (NYSE:GS) is one of the best stocks to buy according to billionaire Ken Fisher. On August 18, the investment bank reiterated its focus on pursuing growth opportunities in the Indian market with the opening of a new office in Mumbai. The inauguration of a new, expanded office space underscores Goldman […]",
+      "published_utc": "2025-08-22T23:57:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=19f7d733d5fefed6ea7f06bd6672075a3845b3b64b6ec0a414e84c75060e24d9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136496113,
+      "datetime": 1755921426
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:34:28.738179+00:00",
+    "cache_key": "news_7a8fc14a3d343f48247e2cfab1219520",
+    "count": 3
+  }
+}

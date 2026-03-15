@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Will Apple's Explosive Growth Continue? This Often Overlooked Figure Answers the Question.",
+      "description": "In spite of Apple's earnings strength, its stock underperformed the S&P 500 last year.",
+      "published_utc": "2026-02-03T18:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=746feff69efd767c951997d1b6f2a4eb3ce93c54fd075e36690a772a4da7660e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138348111,
+      "datetime": 1770161400
+    },
+    {
+      "title": "Silicon Labs Stock Pops on Report of Deal Talks With Texas Instruments",
+      "description": "Texas Instruments  is in advanced discussions about buying Silicon Laboratories, a maker of mixed-signal chips used in smart homes, industrial automation, and commercial applications, according to a report.  The Financial Times said that talks between the two companies were at an advanced stage and that a deal that values Silicon Laboratories at about $7 billion could happen within days.  Shares of Silicon Laboratories were up nearly 33% in late Tuesday trading after the report.",
+      "published_utc": "2026-02-03T18:24:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=387e4e56bda629a41357e7a694bc57aeae7fe96a3f575133de12067b5561a1d9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138348446,
+      "datetime": 1770161040
+    },
+    {
+      "title": "How Much Dividend Income Can You Get From $250,000?",
+      "description": "Usually in the ballpark of a few thousand bucks per year, but the precise answer ultimately depends on what your goal is, and what you're willing to give up.",
+      "published_utc": "2026-02-03T18:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2a58be021cd33848ad7287673c446153266e5d9d8294b542c317c9862e6e409e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138348112,
+      "datetime": 1770159900
+    },
+    {
+      "title": "Looking At The Apple AAPL Narrative After Gemini Deal And Margin Concerns",
+      "description": "The latest update on Apple’s stock story includes a small lift in fair value, from US$286.58 to US$291.65 per share, alongside a slightly higher discount rate at 8.31% and more conservative long run revenue growth assumptions at 6.99%. Those tweaks sit against a backdrop of ongoing debate about the pace of services growth and how the Google Gemini partnership and memory costs could shape Apple’s financial profile over time. Read on to see how these shifting assumptions relate to the broader...",
+      "published_utc": "2026-02-03T17:09:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=14addafb2ea7db135b877e10216eed5a2e9b3cc2080d84cd0ba47d08a7b652ca",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138348113,
+      "datetime": 1770156559
+    },
+    {
+      "title": "Ondo brings tokenized U.S. stocks and commodities to MetaMask",
+      "description": "Popular tokenization firm Ondo Finance has expanded access to tokenized U.S. stocks, exchange-traded funds (ETFs) and commodities by integrating Ondo Global Markets directly into MetaMask, a leading self-custodial crypto wallet developed by Consensys. Announced on Feb. 3, the ...",
+      "published_utc": "2026-02-03T17:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=28e0c4f1e130dec9377d19e8e524a31a9b9cce38b744dd9d9f7cf3479642d229",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138348107,
+      "datetime": 1770156000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:34:16.485015+00:00",
+    "cache_key": "news_4faa8d603d0b6f7aafe6f7ef85eb0918",
+    "count": 5
+  }
+}

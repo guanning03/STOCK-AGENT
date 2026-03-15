@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "id": "13f578d032637f4938e06e2ef79bb77a8666ca8f91b291fbaff1d431f4b292d0",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why Home Depot Is Sinking Today",
+      "author": "Lou Whiteman",
+      "published_utc": "2025-02-12T17:01:28Z",
+      "article_url": "https://www.fool.com/investing/2025/02/12/why-home-depot-is-sinking-today/?source=iedfolrf0000001",
+      "tickers": [
+        "HD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807453/gettyimages-155445643.jpg",
+      "description": "A key government measure of inflation came in hotter than expected in January, fueled in part by an uptick in housing costs. This could put a damper on housing sales and home improvements, impacting companies like Home Depot.",
+      "keywords": [
+        "inflation",
+        "interest rates",
+        "housing market",
+        "home improvement"
+      ],
+      "insights": [
+        {
+          "ticker": "HD",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Home Depot's business is closely tied to the housing and renovation markets, which are sensitive to interest rates. The hotter-than-expected inflation data raises doubts about rate cuts in 2025, which could negatively impact Home Depot's performance."
+        }
+      ]
+    }
+  ]
+}

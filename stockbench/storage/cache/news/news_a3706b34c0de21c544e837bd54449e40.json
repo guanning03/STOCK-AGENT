@@ -1,0 +1,241 @@
+{
+  "items": [
+    {
+      "title": "JPMorgan CEO Jamie Dimon says Europe has a ‘real problem’",
+      "description": "“Europe has a real problem,” Dimon said Saturday at the Reagan National Defense Forum.  While he praised some European leaders who he said were aware of the issues, he cautioned politics is “really hard.”",
+      "published_utc": "2025-12-06T15:49:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ce3d4aca645fb06e77c423df12431f8348319eb376fbee176c8c492cc9a81f26",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137726339,
+      "datetime": 1765054142
+    },
+    {
+      "title": "AI Plays Lead Five Stocks To Watch Near Buy Points",
+      "description": "Artificial intelligence, data center and energy plays highlight this week's list of stocks to watch.  Taiwan Semiconductor and Vertiv Holdings have rebounded near buy points following concerns over an AI bubble.  Nuclear play Constellation Energy and Drugmaker Genmab are forming bases, while JPMorgan Chase is closing back in on a buy point.",
+      "published_utc": "2025-12-06T08:00:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e0d7bb07039100a3bdb994f2bfd7365e4de7257604db5f33615f89047dd7f1da",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137718571,
+      "datetime": 1765026015
+    },
+    {
+      "id": "7c4b0016b71a6b03a5c1c0f3742dd7fffe4ddc0ca4886b41ab7b683c6f62c177",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Banks Split On Copper Outlook As Citi, JPMorgan Turn Bullish And Goldman Counters",
+      "author": "Stjepan Kalinic",
+      "published_utc": "2025-12-06T16:16:47Z",
+      "article_url": "https://www.benzinga.com/markets/commodities/25/12/49246397/banks-split-on-copper-outlook-as-citi-jpmorgan-turn-bullish-and-goldman-counters?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+      "tickers": [
+        "C",
+        "CpN",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "VYLD"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/12/06/Copper-Ore--Macro-Photography--Ore-Extra.jpeg?width=1200&height=800&fit=crop",
+      "description": "Major banks have diverging views on copper prices, with Citi and JPMorgan predicting price increases to $12,500-$13,000 per ton by 2026, while Goldman Sachs believes current prices are unsustainable. Trading house Mercuria is withdrawing significant copper inventory, potentially signaling supply tightness.",
+      "keywords": [
+        "copper",
+        "commodities",
+        "tariffs",
+        "metal exchange",
+        "supply chain"
+      ],
+      "insights": [
+        {
+          "ticker": "C",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Predicts copper prices reaching $13,000 per ton by Q2 2026, citing structural deficit and multiple bullish catalysts"
+        },
+        {
+          "ticker": "CpN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Predicts copper prices reaching $13,000 per ton by Q2 2026, citing structural deficit and multiple bullish catalysts"
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Projects copper deficit of 330,000 tons in 2026 and expects prices to reach about $12,500 per ton"
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Projects copper deficit of 330,000 tons in 2026 and expects prices to reach about $12,500 per ton"
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Projects copper deficit of 330,000 tons in 2026 and expects prices to reach about $12,500 per ton"
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Projects copper deficit of 330,000 tons in 2026 and expects prices to reach about $12,500 per ton"
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Projects copper deficit of 330,000 tons in 2026 and expects prices to reach about $12,500 per ton"
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Projects copper deficit of 330,000 tons in 2026 and expects prices to reach about $12,500 per ton"
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Projects copper deficit of 330,000 tons in 2026 and expects prices to reach about $12,500 per ton"
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Projects copper deficit of 330,000 tons in 2026 and expects prices to reach about $12,500 per ton"
+        },
+        {
+          "ticker": "VYLD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Projects copper deficit of 330,000 tons in 2026 and expects prices to reach about $12,500 per ton"
+        }
+      ]
+    },
+    {
+      "id": "09abb1c32490c1cef8f610333ff2b85a2601c3ec5965a2af1d650a806afb8085",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Should You Buy Bitcoin While It's Under $100,000?",
+      "author": "Dominic Basulto",
+      "published_utc": "2025-12-06T01:36:00Z",
+      "article_url": "https://www.fool.com/investing/2025/12/05/should-you-buy-bitcoin-while-its-under-100000/?source=iedfolrf0000001",
+      "tickers": [
+        "MSTR",
+        "STRC",
+        "STRD",
+        "STRF",
+        "STRK",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "VYLD"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F845088%2Fbitcoin-balloon-getting-popped.jpg&w=1200&op=resize",
+      "description": "Bitcoin is experiencing a price decline but remains attractive compared to other cryptocurrencies. Despite being down 30% from its all-time high, historical patterns suggest potential future recovery and growth.",
+      "keywords": [
+        "Bitcoin",
+        "cryptocurrency",
+        "crypto market",
+        "investment",
+        "volatility"
+      ],
+      "insights": [
+        {
+          "ticker": "MSTR",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Stock down 35% for the year with potential financial challenges and risk of selling Bitcoin holdings"
+        },
+        {
+          "ticker": "STRC",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Stock down 35% for the year with potential financial challenges and risk of selling Bitcoin holdings"
+        },
+        {
+          "ticker": "STRD",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Stock down 35% for the year with potential financial challenges and risk of selling Bitcoin holdings"
+        },
+        {
+          "ticker": "STRF",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Stock down 35% for the year with potential financial challenges and risk of selling Bitcoin holdings"
+        },
+        {
+          "ticker": "STRK",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Stock down 35% for the year with potential financial challenges and risk of selling Bitcoin holdings"
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as providing potential Bitcoin price projection of $170,000 by end of next year"
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as providing potential Bitcoin price projection of $170,000 by end of next year"
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as providing potential Bitcoin price projection of $170,000 by end of next year"
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as providing potential Bitcoin price projection of $170,000 by end of next year"
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as providing potential Bitcoin price projection of $170,000 by end of next year"
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as providing potential Bitcoin price projection of $170,000 by end of next year"
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as providing potential Bitcoin price projection of $170,000 by end of next year"
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as providing potential Bitcoin price projection of $170,000 by end of next year"
+        },
+        {
+          "ticker": "VYLD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as providing potential Bitcoin price projection of $170,000 by end of next year"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:06:58.608864+00:00",
+    "cache_key": "news_a3706b34c0de21c544e837bd54449e40",
+    "count": 4
+  }
+}

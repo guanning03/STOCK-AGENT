@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Wall Street Pushes Solo 401(k)s as More Americans Work for Themselves",
+      "description": "The likes of JPMorgan and Betterment are racing to offer solo 401(k)s to a new cohort: Post-pandemic contractors and self-employed DIY savers looking to shelter more income, grow assets tax-deferred or tax-free, all with the click of a button.",
+      "published_utc": "2026-01-26T15:09:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f7091fd26cadde5d68b4371db5a015ea83b4675f6dfef8fa88bf18e72e69101e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138264888,
+      "datetime": 1769458160
+    },
+    {
+      "title": "As Trump Targets JPMorgan in New Debanking Lawsuit, Should You Sell JPM Stock?",
+      "description": "Trump has filed a new $5 billion lawsuit against J.P. Morgan.",
+      "published_utc": "2026-01-26T14:25:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2f991e9e13cb6e0bcc78cd7cb690ae382d939df65a82ff02a1d18ccd2df165ca",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138265434,
+      "datetime": 1769455518
+    },
+    {
+      "title": "Why Exponent (EXPO) Stock Is Trading Up Today",
+      "description": "Shares of scientific consulting firm Exponent (NASDAQ:EXPO) jumped 2.3% in the morning session after JPMorgan initiated coverage on the company with an 'Overweight' rating and a $100 price target.",
+      "published_utc": "2026-01-26T12:11:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=06d120db96cc55b969295c81341917e6d8c08c13a2f5cc89ad85184afa64c453",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138263933,
+      "datetime": 1769447466
+    },
+    {
+      "title": "Goldman Sachs: Thank God The Apple Saga Is Over",
+      "description": "",
+      "published_utc": "2026-01-26T12:07:55",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b6ddfd5f96b1d960af2d1b2b2cac3def2670b02af043b67b74cec1707166bb23",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138265037,
+      "datetime": 1769447275
+    },
+    {
+      "title": "Are You Looking for a High-Growth Dividend Stock?",
+      "description": "Dividends are one of the best benefits to being a shareholder, but finding a great dividend stock is no easy task. Does JPMorgan Chase & Co. (JPM) have what it takes? Let's find out.",
+      "published_utc": "2026-01-26T11:45:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b039373e99a2778febf1bdcd2290385fb59a2344e9eaaf228919ce5106c3d67d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138264320,
+      "datetime": 1769445901
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:05:39.122613+00:00",
+    "cache_key": "news_96ec6b31dab89a80e8e85b8a007e85b8",
+    "count": 5
+  }
+}

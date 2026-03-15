@@ -1,0 +1,102 @@
+{
+  "items": [
+    {
+      "id": "c35d69e743506eb629dee21a6898e63cb455d7fea09448bd395e5a50e3a9eb73",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why Today (Dec. 18) Is a Big Day for the Stock Market",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-18T09:00:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/18/why-today-dec-18-is-big-day-for-stock-market/?source=iedfolrf0000001",
+      "tickers": [
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801279/market-13.jpg",
+      "description": "The Federal Reserve is expected to cut interest rates by a quarter-point at its upcoming meeting, but the stock market may tumble if officials signal fewer rate cuts than expected. The economy and labor market are stronger than anticipated, and inflation has reaccelerated, which could lead the Fed to revise its long-term economic projections.",
+      "keywords": [
+        "Federal Reserve",
+        "interest rates",
+        "stock market",
+        "inflation",
+        "economic projections"
+      ],
+      "insights": [
+        {
+          "ticker": "GS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Goldman Sachs expects three quarter-point interest rate cuts by March 2025, which is more optimistic than the market's expectations."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Goldman Sachs expects three quarter-point interest rate cuts by March 2025, which is more optimistic than the market's expectations."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Goldman Sachs expects three quarter-point interest rate cuts by March 2025, which is more optimistic than the market's expectations."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Goldman Sachs expects three quarter-point interest rate cuts by March 2025, which is more optimistic than the market's expectations."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase anticipates five quarter-point interest rate cuts by December 2025, which is also more optimistic than the market's expectations."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase anticipates five quarter-point interest rate cuts by December 2025, which is also more optimistic than the market's expectations."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase anticipates five quarter-point interest rate cuts by December 2025, which is also more optimistic than the market's expectations."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase anticipates five quarter-point interest rate cuts by December 2025, which is also more optimistic than the market's expectations."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase anticipates five quarter-point interest rate cuts by December 2025, which is also more optimistic than the market's expectations."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase anticipates five quarter-point interest rate cuts by December 2025, which is also more optimistic than the market's expectations."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase anticipates five quarter-point interest rate cuts by December 2025, which is also more optimistic than the market's expectations."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase anticipates five quarter-point interest rate cuts by December 2025, which is also more optimistic than the market's expectations."
+        }
+      ]
+    }
+  ]
+}

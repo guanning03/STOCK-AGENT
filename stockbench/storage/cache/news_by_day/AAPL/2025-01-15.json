@@ -1,0 +1,328 @@
+{
+  "items": [
+    {
+      "id": "2880d62952188aa05437c5cf16af19c2878f51f261ff1be8806eb7dad4e3f456",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why Arm Holdings Stock Surged Higher Today",
+      "author": "Johnny Rice",
+      "published_utc": "2025-01-15T20:50:05Z",
+      "article_url": "https://www.fool.com/investing/2025/01/15/why-arm-holdings-stock-surged-higher-today/?source=iedfolrf0000001",
+      "tickers": [
+        "ARM",
+        "AAPL",
+        "QCOM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804137/arm-holdings-stock-surge-picasso-project-strategy.jpg",
+      "description": "Arm Holdings is developing a strategy called 'Picasso' to significantly raise licensing fees by up to 300% and potentially design its own chips, aiming to boost revenue by $1 billion. The company has also hired a new executive to help advance its plans.",
+      "keywords": [
+        "Arm Holdings",
+        "licensing fees",
+        "revenue growth",
+        "chip design"
+      ],
+      "insights": [
+        {
+          "ticker": "ARM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Arm is developing a strategic plan called 'Picasso' to significantly increase its licensing fees and potentially move into chip design, which could lead to substantial revenue growth for the company."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Apple is mentioned as one of Arm's clients that incorporates Arm's intellectual property into their chip designs, but the article does not provide any specific information about Apple's involvement or the impact on the company."
+        },
+        {
+          "ticker": "QCOM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Qualcomm is also mentioned as one of Arm's clients that incorporates Arm's intellectual property into their chip designs, but the article does not provide any specific information about Qualcomm's involvement or the impact on the company."
+        }
+      ]
+    },
+    {
+      "id": "11f03d3a922b334f0a60aa6c8ad51f95e1b44bb6d0a8d943c03a9d52bf5ed018",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Ultimate High-Yield Dividend ETF to Buy With $500 Right Now",
+      "author": "Leo Sun",
+      "published_utc": "2025-01-15T15:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/15/the-ultimate-high-yield-dividend-etf-to-buy-with/?source=iedfolrf0000001",
+      "tickers": [
+        "JEPQ",
+        "AAPL",
+        "NVDA",
+        "MSFT",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803816/hundred-dollar-bills-stuffed-into-a-piggy-bank.jpg",
+      "description": "As interest rates are expected to fall in 2024-2025, income investors may gradually rotate back towards higher-yielding dividend stocks and ETFs. The JPMorgan Nasdaq Equity Premium Income ETF (JEPQ) is highlighted as a dependable way to earn a near-10% yield through its covered call strategy, offsetting market volatility with diversification.",
+      "keywords": [
+        "dividend stocks",
+        "ETFs",
+        "interest rates",
+        "JPMorgan Nasdaq Equity Premium Income ETF"
+      ],
+      "insights": [
+        {
+          "ticker": "JEPQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the JPMorgan Nasdaq Equity Premium Income ETF as a dependable way to earn a high yield of nearly 10% through its covered call strategy, which offsets market volatility with diversification."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Apple is mentioned as one of the top holdings of the JPMorgan Nasdaq Equity Premium Income ETF, but the article does not provide a specific sentiment towards the company."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Nvidia is mentioned as one of the top holdings of the JPMorgan Nasdaq Equity Premium Income ETF, but the article does not provide a specific sentiment towards the company."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Microsoft is mentioned as one of the top holdings of the JPMorgan Nasdaq Equity Premium Income ETF, but the article does not provide a specific sentiment towards the company."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Amazon is mentioned as one of the top holdings of the JPMorgan Nasdaq Equity Premium Income ETF, but the article does not provide a specific sentiment towards the company."
+        }
+      ]
+    },
+    {
+      "id": "9f4609bfe184ba49363aaa9e0bf9617b4380c503a788ddf70a98fa524b889c1d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why Apple Stock Could Get Hammered This Year",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-15T10:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/15/why-apple-stock-could-get-hammered-this-year/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "GOOG",
+        "GOOGL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803853/copy-of-red-decline-stocks-down-bear.jpg",
+      "description": "Apple's stock may face challenges in 2023 due to stagnating iPhone sales, the potential loss of a lucrative Google search deal, and a lofty valuation that could be difficult to justify as interest rates rise.",
+      "keywords": [
+        "Apple",
+        "iPhone",
+        "Google",
+        "Alphabet",
+        "Valuation",
+        "Interest Rates"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that Apple's iPhone sales are stagnating, and the company may lose a significant revenue stream from its Google search deal, which could put pressure on the stock. Additionally, the company's valuation is seen as elevated, making it vulnerable to a correction as interest rates rise."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that Google is facing an antitrust trial, which could lead to the company being forced to divest major assets, including the $20 billion annual payment to Apple for being the default search engine on Safari. This could negatively impact Alphabet's financial performance."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that Google is facing an antitrust trial, which could lead to the company being forced to divest major assets, including the $20 billion annual payment to Apple for being the default search engine on Safari. This could negatively impact Alphabet's financial performance."
+        }
+      ]
+    },
+    {
+      "id": "02b511e45cd944b8cc90425ed1c32a74970922a734aa7c87ee3125fded143034",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Warren Buffett Has Plowed $77.8 Billion Into His Favorite Stock Since 2018. Why Did He Recently Stop Buying It?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-15T09:22:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/15/warren-buffett-favorite-stock-buying-berkshire/?source=iedfolrf0000001",
+      "tickers": [
+        "BRK.A",
+        "BRK.B",
+        "AAPL",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK",
+        "CVX",
+        "TMUS",
+        "SNOW",
+        "HPQ",
+        "FND",
+        "PARA",
+        "PARAA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803723/warren-buffett-looking-at-the-camera.jpg",
+      "description": "Warren Buffett's Berkshire Hathaway has been a major buyer of its own stock, investing $77.8 billion since 2018. However, the company did not repurchase any shares in the third quarter of 2024, which could signal Buffett's caution about the market's valuation.",
+      "keywords": [
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "stock buybacks",
+        "market valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "BRK.A",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire Hathaway has been a major buyer of its own stock, investing $77.8 billion since 2018. However, the company did not repurchase any shares in the third quarter of 2024, which could signal Buffett's caution about the market's valuation."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire Hathaway has been a major buyer of its own stock, investing $77.8 billion since 2018. However, the company did not repurchase any shares in the third quarter of 2024, which could signal Buffett's caution about the market's valuation."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway significantly reduced its position in Apple, which was its largest holding, during the first nine months of 2024. This was likely due to Apple's high valuation, with its P/E ratio reaching a multiyear high."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway reduced its position in Bank of America, along with other stocks, during the first three quarters of 2024, which could indicate Buffett's cautious outlook on the market."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway reduced its position in Bank of America, along with other stocks, during the first three quarters of 2024, which could indicate Buffett's cautious outlook on the market."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway reduced its position in Bank of America, along with other stocks, during the first three quarters of 2024, which could indicate Buffett's cautious outlook on the market."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway reduced its position in Bank of America, along with other stocks, during the first three quarters of 2024, which could indicate Buffett's cautious outlook on the market."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway reduced its position in Bank of America, along with other stocks, during the first three quarters of 2024, which could indicate Buffett's cautious outlook on the market."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway reduced its position in Bank of America, along with other stocks, during the first three quarters of 2024, which could indicate Buffett's cautious outlook on the market."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway reduced its position in Bank of America, along with other stocks, during the first three quarters of 2024, which could indicate Buffett's cautious outlook on the market."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway reduced its position in Bank of America, along with other stocks, during the first three quarters of 2024, which could indicate Buffett's cautious outlook on the market."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway reduced its position in Bank of America, along with other stocks, during the first three quarters of 2024, which could indicate Buffett's cautious outlook on the market."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway reduced its position in Bank of America, along with other stocks, during the first three quarters of 2024, which could indicate Buffett's cautious outlook on the market."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway reduced its position in Bank of America, along with other stocks, during the first three quarters of 2024, which could indicate Buffett's cautious outlook on the market."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway reduced its position in Bank of America, along with other stocks, during the first three quarters of 2024, which could indicate Buffett's cautious outlook on the market."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway reduced its position in Bank of America, along with other stocks, during the first three quarters of 2024, which could indicate Buffett's cautious outlook on the market."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway reduced its position in Bank of America, along with other stocks, during the first three quarters of 2024, which could indicate Buffett's cautious outlook on the market."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway reduced its position in Bank of America, along with other stocks, during the first three quarters of 2024, which could indicate Buffett's cautious outlook on the market."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway reduced its position in Bank of America, along with other stocks, during the first three quarters of 2024, which could indicate Buffett's cautious outlook on the market."
+        },
+        {
+          "ticker": "CVX",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway reduced its position in Chevron, along with other stocks, during the first three quarters of 2024, which could indicate Buffett's cautious outlook on the market."
+        },
+        {
+          "ticker": "TMUS",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway reduced its position in T-Mobile, along with other stocks, during the first three quarters of 2024, which could indicate Buffett's cautious outlook on the market."
+        },
+        {
+          "ticker": "SNOW",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway completely exited its position in Snowflake, along with other stocks, during the first three quarters of 2024, which could indicate Buffett's cautious outlook on the market."
+        },
+        {
+          "ticker": "HPQ",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway completely exited its position in HP, along with other stocks, during the first three quarters of 2024, which could indicate Buffett's cautious outlook on the market."
+        },
+        {
+          "ticker": "FND",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway completely exited its position in Floor & Decor, along with other stocks, during the first three quarters of 2024, which could indicate Buffett's cautious outlook on the market."
+        },
+        {
+          "ticker": "PARA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway completely exited its position in Paramount Global, along with other stocks, during the first three quarters of 2024, which could indicate Buffett's cautious outlook on the market."
+        },
+        {
+          "ticker": "PARAA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway completely exited its position in Paramount Global, along with other stocks, during the first three quarters of 2024, which could indicate Buffett's cautious outlook on the market."
+        }
+      ]
+    }
+  ]
+}

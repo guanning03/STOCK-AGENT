@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Consumer Tech News (Nov 10-14): China Lifts Rare Earth Export Ban to U.S., Microsoft and Google Invest Billions in AI Data Centers & More",
+      "description": "China ends year-long gallium, germanium, and antimony export ban to the U.S., following the high-profile Trump-Xi meeting and trade negotiations. Microsoft invests $10B in AI data centers in Portugal and Atlanta; Alphabet allocates $6.4B for German infrastructure expansion.",
+      "published_utc": "2025-11-16T11:57:09",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=a8c26cbb2b4d683f847826b5faeaeb9d77996572ff6a6e4886318a3022c5439a",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/16/U-S---China-settle-rare-earths.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138451982,
+      "datetime": 1763312229
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:07:39.334559+00:00",
+    "cache_key": "news_596b01765666549362594f8efb48ee06",
+    "count": 1
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "items": [
+    {
+      "title": "Why Open Source AI Could Be the Best Bet for Developers and Investors",
+      "description": "Tech giants are pouring trillions of dollars into AI chips and data centers while the industry quietly faces a fork in the road between open source and proprietary models. AMD chair and CEO Lisa Su and former IBM CEO Sam Palmisano explain why that choice could shape the next era of computing.",
+      "published_utc": "2025-12-13T08:08:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=271fc0527cb32ac059a6d7e992330168ed103deb355013e0fc4ec5becb1c3a90",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137792262,
+      "datetime": 1765631320
+    },
+    {
+      "title": "IBM CEO Arvind Krishna Breaks Down Why A 100-Gigawatt AGI Push Could Cost $8T, Says That's 'Today's Number'",
+      "description": "Artificial intelligence companies are pouring extraordinary sums into massive data centers. One estimate now puts a 100-gigawatt artificial general intelligence effort at about $8 trillion. International Business Machines Corp. (NYSE:IBM) CEO Arvind Krishna recently told the \"Decoder\" podcast. He said filling a 1-gigawatt data center costs about $80 billion and called it \"today's number.\" Krishna said a company committing 20–30 gigawatts could face about $1.5 trillion in spending using current c",
+      "published_utc": "2025-12-12T21:01:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=53c1a45d6ed3362d53eecef33718318ec887c1356f018001334203a1e724902c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137792338,
+      "datetime": 1765591268
+    },
+    {
+      "title": "With Talk of a SpaceX IPO, Tesla Shareholders Dream of an X Corp.",
+      "description": "Tesla shareholders have already approved an investment by the electric-vehicle maker in Elon Musk’s xAI. Could SpaceX be next?",
+      "published_utc": "2025-12-12T19:24:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=313b9563b486a64447e53e6d60b6a0f9425adab31994e5ad041d0464d265fd68",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137792181,
+      "datetime": 1765585440
+    },
+    {
+      "id": "cc18b6e32aed17e7f2a7ea63aae99172879af4541276bbacd3d737787a3b5571",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Software Testing Market to Hit USD 126.91 Billion by 2033, Driven by Rising Demand for High-Quality and Secure Digital Applications | SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-12-13T14:45:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/12/13/3204990/0/en/Software-Testing-Market-to-Hit-USD-126-91-Billion-by-2033-Driven-by-Rising-Demand-for-High-Quality-and-Secure-Digital-Applications-SNS-Insider.html",
+      "tickers": [
+        "ACN",
+        "IBM",
+        "CTSH"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The global Software Testing Market is projected to grow from USD 54.11 billion in 2025 to USD 126.91 billion by 2033, driven by digital transformation, cloud adoption, and increasing demand for secure, high-quality software applications.",
+      "keywords": [
+        "software testing",
+        "digital transformation",
+        "cloud computing",
+        "automation testing",
+        "market growth"
+      ],
+      "insights": [
+        {
+          "ticker": "ACN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Successfully moved 45% of generative AI projects from proof-of-concept to production with Google Cloud"
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a key player in software testing market without specific recent developments highlighted"
+        },
+        {
+          "ticker": "CTSH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed as a key market player without specific recent strategic insights"
+        }
+      ]
+    },
+    {
+      "id": "5755b9f6b1ae0be0bbc036813d5f0d53d2e5dde5cc10edf9b2e1b1d1b0237e58",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Law Enforcement Software Market Set for Steady Growth to USD 40.82 Billion by 2033, Driven by Rising Digital Policing and Public Safety Needs | SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-12-13T14:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/12/13/3204981/0/en/Law-Enforcement-Software-Market-Set-for-Steady-Growth-to-USD-40-82-Billion-by-2033-Driven-by-Rising-Digital-Policing-and-Public-Safety-Needs-SNS-Insider.html",
+      "tickers": [
+        "AXON",
+        "MSI",
+        "ORCL",
+        "IBM"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The law enforcement software market is projected to grow from USD 18.86 billion in 2025 to USD 40.82 billion by 2033, driven by digital policing technologies, AI-enabled analytics, and cloud-based tools for crime prevention and public safety.",
+      "keywords": [
+        "law enforcement",
+        "software",
+        "digital policing",
+        "AI analytics",
+        "public safety"
+      ],
+      "insights": [
+        {
+          "ticker": "AXON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Announced new AI-powered tools and partnerships expanding real-time public safety ecosystem"
+        },
+        {
+          "ticker": "MSI",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a key player with CommandCentral software, but no specific developments highlighted"
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Enhanced Public Safety Suite with AI-enabled mobile voice controls and real-time analytics"
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed as a key player with i2 Analyst's Notebook, but no specific recent developments mentioned"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:30:05.834910+00:00",
+    "cache_key": "news_994f70df47ae5e646cbc5dceec8f1bf3",
+    "count": 5
+  }
+}

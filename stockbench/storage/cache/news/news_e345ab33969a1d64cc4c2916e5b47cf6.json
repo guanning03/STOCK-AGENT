@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "How ethereum rose to become a mainstream cryptocurrency",
+      "description": "Here's what to know about ethereum and what sets it apart from other blockchains.",
+      "published_utc": "2025-07-27T13:00:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c15e2d4d1172b809b6efd4389c4a4d46d0df6257567a660641ab9595c0593855",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101666,
+      "datetime": 1753635601
+    },
+    {
+      "title": "Fed Is Set for Contentious Debate as Investors Eye Fall Rate Cut",
+      "description": "(Bloomberg) -- Federal Reserve officials are determined to hold interest rates steady a little while longer, though an increasingly contentious debate at this week’s policy meeting may bolster expectations for rate cuts in the fall.Most Read from BloombergThe High Costs of Trump’s ‘Big Beautiful’ New Car Loan DeductionCan This Bridge Ease the Troubled US-Canadian Relationship?Trump Administration Sues NYC Over Sanctuary City PolicyFed Chair Jerome Powell is under intense pressure from President",
+      "published_utc": "2025-07-27T13:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ef0648f1b61b51b522da21ac63b1d08639ecf5faa265ac3148c2e97505d578bf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101655,
+      "datetime": 1753635600
+    },
+    {
+      "title": "Citi Rolls Out a New Premium Card in Fight for Affluent Customers",
+      "description": "With a $595 annual fee, the Strata Elite will compete with the Chase Sapphire Reserve and American Express Platinum.",
+      "published_utc": "2025-07-27T09:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=20373717a1c3e7c4ce66fc9a91f527316949f20612af27856a8c708025015436",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101656,
+      "datetime": 1753621200
+    },
+    {
+      "title": "Franklin Mutual Shares Fund Q2 2025 Commentary",
+      "description": "Franklin Mutual Shares Fund (Class Z) underperformed its benchmark, the Russell 1000 Value Index, for the quarter ended June 30, 2025. Read more here.",
+      "published_utc": "2025-07-27T06:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c638f40b75bde31e753e712dce4ceb33dd8d2c6312a0bfbf092c88d9ac3d74a3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/170141153/image_170141153.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136100688,
+      "datetime": 1753610400
+    },
+    {
+      "title": "LQDW: A 17% Yield Is Possible Only With A Steep Capital Decay",
+      "description": "LQDW offers a 17% yield via a covered call strategy on an investment-grade bond ETF. Click here to read why LQDW is a Sell.",
+      "published_utc": "2025-07-26T21:43:04",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=104109b8aad8f2fed23f99557dbbafa26a8f7f91a65fba1b0d691621d19f290a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2208972174/image_2208972174.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136099319,
+      "datetime": 1753580584
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:15:56.620426+00:00",
+    "cache_key": "news_e345ab33969a1d64cc4c2916e5b47cf6",
+    "count": 5
+  }
+}

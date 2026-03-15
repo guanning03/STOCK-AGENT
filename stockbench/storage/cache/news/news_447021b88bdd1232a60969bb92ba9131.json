@@ -1,0 +1,90 @@
+{
+  "items": [
+    {
+      "id": "7f77d06d4747338bd1e19efe0f225a615d6ebdf6441fd7267837fccf87a3f57d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Best Large-Cap Stock to Buy: Amazon Stock vs. Walmart Stock",
+      "author": "N/A",
+      "published_utc": "2024-12-24T16:30:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/24/best-large-cap-stock-to-buy-amazon-stock-vs-walmar/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "WMT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802018/investing-team-chart-graph-stock-investor-finance-business.jpg",
+      "description": "The Motley Fool is a financial services company founded in 1993, dedicated to providing investing solutions, personal finance education, and market analysis to millions of people worldwide.",
+      "keywords": [
+        "financial services",
+        "investing",
+        "personal finance",
+        "market analysis"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Motley Fool has a position in and recommends Amazon, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Motley Fool has a position in and recommends Walmart, indicating a positive sentiment towards the company."
+        }
+      ]
+    },
+    {
+      "id": "f0f63ad92b56b6aac2aa10e0bc8f689510ef664bb13bf53c0b67d2caa2c5f7dc",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Cathie Wood Goes Bargain Hunting: 3 Stocks She Just Bought",
+      "author": "Rick Munarriz",
+      "published_utc": "2024-12-24T12:30:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/24/cathie-wood-goes-bargain-hunting-3-stocks-she-just/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "GTLB",
+        "TXG"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802047/gettyimages-1283427204.jpg",
+      "description": "Cathie Wood, the co-founder and CEO of Ark Invest, has been slowing the pace of her portfolio moves lately. However, she still made some notable purchases on Monday, increasing her existing positions in Amazon, GitLab, and 10x Genomics.",
+      "keywords": [
+        "Cathie Wood",
+        "Ark Invest",
+        "Amazon",
+        "GitLab",
+        "10x Genomics"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon's stock has rallied 48% this year, and Wall Street analysts remain bullish on the company's future, with one analyst raising his price target to $290, representing a 29% gain in the coming year."
+        },
+        {
+          "ticker": "GTLB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "GitLab's revenue is slowing, but it has consistently beaten Wall Street profit targets and has a strong customer retention rate. Cathie Wood sees a bargain in the stock, which is trading just below where it was a year ago."
+        },
+        {
+          "ticker": "TXG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "10x Genomics is one of the market's biggest disappointments of 2024, with the stock trading 74% lower this year. While the company's differentiated platform offers long-term promise, its revenue declined in the latest quarter, and profitability is several years away."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:55:15.786959+00:00",
+    "cache_key": "news_447021b88bdd1232a60969bb92ba9131",
+    "count": 2
+  }
+}

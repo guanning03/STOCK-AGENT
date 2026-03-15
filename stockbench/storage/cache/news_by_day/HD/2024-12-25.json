@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": "a343edecfd341d1e022999bfd90da581747bf53af15453b79f4f38197c0986c6",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "If You Bought 1 Share of Home Depot at Its IPO, Here's How Many Shares You Would Own Now",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-25T11:45:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/25/if-you-bought-1-share-of-home-depot-at-its-ipo-her/?source=iedfolrf0000001",
+      "tickers": [
+        "HD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802038/portrait-of-shocked-lawyer-surprised-emotional-it-manager.jpg",
+      "description": "If you had bought one share of Home Depot during its IPO in 1981, you would now own 341 shares due to 13 stock splits, worth $133,672 at the current share price.",
+      "keywords": [
+        "Home Depot",
+        "stock splits",
+        "long-term investing"
+      ],
+      "insights": [
+        {
+          "ticker": "HD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Home Depot is described as a best-performing stock and a go-to retailer for home improvement, indicating its strong performance and growth over the long term."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "id": "a7699ada8992334462bec355852e14633a0681172d6de0f3b4353079930573cd",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why Home Depot Stock Was Moving Higher Today",
+      "author": "Jeremy Bowman",
+      "published_utc": "2025-01-15T16:12:35Z",
+      "article_url": "https://www.fool.com/investing/2025/01/15/why-home-depot-stock-was-moving-higher-today/?source=iedfolrf0000001",
+      "tickers": [
+        "HD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804070/home-depot-aisle.jpg",
+      "description": "Home Depot's stock rose as the core Consumer Price Index (CPI) was lower than expected in December, indicating slowing inflation. This is positive for Home Depot as it could lead to lower interest rates, which would benefit the housing market and Home Depot's business.",
+      "keywords": [
+        "Home Depot",
+        "inflation",
+        "interest rates",
+        "housing market"
+      ],
+      "insights": [
+        {
+          "ticker": "HD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that slowing inflation and the potential for lower interest rates would be beneficial for Home Depot, as it would help the housing market and the company's business."
+        }
+      ]
+    }
+  ]
+}

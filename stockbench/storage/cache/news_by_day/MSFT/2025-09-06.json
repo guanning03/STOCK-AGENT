@@ -1,0 +1,158 @@
+{
+  "items": [
+    {
+      "id": "83d9831c4dd6b931ee8980fb5f37437abae239961b02c8284c83fcbe9ac26cdb",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Prediction: This Underrated AI Stock Could Be the Next $4 Trillion Giant",
+      "author": "Geoffrey Seiler",
+      "published_utc": "2025-09-06T16:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/09/06/prediction-this-underrated-ai-stock-could-be-the-n/?source=iedfolrf0000001",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "AAPL",
+        "MSFT",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/831898/gettyimages-1489971344.jpg",
+      "description": "Alphabet overcame antitrust challenges and is positioned for significant growth through AI, search dominance, cloud computing, and emerging technologies like robotaxis and quantum computing.",
+      "keywords": [
+        "AI",
+        "search",
+        "cloud computing",
+        "antitrust",
+        "technology"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong market position, AI innovation, accelerating search revenue, cloud growth, potential for expansion to $4 trillion market cap, and favorable court ruling protecting search advantages"
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong market position, AI innovation, accelerating search revenue, cloud growth, potential for expansion to $4 trillion market cap, and favorable court ruling protecting search advantages"
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Potential expanded partnership with Alphabet for AI integration, mentioned as a potential collaborator"
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a comparative benchmark for valuation metrics"
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned only as a comparative valuation reference"
+        }
+      ]
+    },
+    {
+      "id": "69ebaf23ec75b42dcd0ead9d958d48b6dc32c0e036e9535585875758b904d62b",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "If You'd Invested $1,000 in the Vanguard S&P 500 ETF (VOO) 10 Years Ago, Here's How Much You'd Have Today",
+      "author": "Matt Frankel",
+      "published_utc": "2025-09-06T14:06:00Z",
+      "article_url": "https://www.fool.com/investing/2025/09/06/if-youd-invested-1000-in-the-vanguard-sp-500-etf-v/?source=iedfolrf0000001",
+      "tickers": [
+        "VOO",
+        "MSFT",
+        "AMZN",
+        "AAPL",
+        "NVDA",
+        "GOOG",
+        "GOOGL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/830896/man-on-couch-with-money-2024.jpg",
+      "description": "A $1,000 investment in the Vanguard S&P 500 ETF a decade ago would now be worth $4,100, representing an annualized return of about 15%, largely driven by large-cap technology stocks.",
+      "keywords": [
+        "investment",
+        "ETF",
+        "S&P 500",
+        "technology stocks",
+        "returns"
+      ],
+      "insights": [
+        {
+          "ticker": "VOO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Demonstrated strong 15% annualized returns over a decade, significantly outperforming historical average market returns"
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Part of top-performing megacap tech stocks that drove significant market growth"
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Part of top-performing megacap tech stocks that drove significant market growth"
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Part of top-performing megacap tech stocks that drove significant market growth"
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Part of top-performing megacap tech stocks that drove significant market growth"
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Part of top-performing megacap tech stocks that drove significant market growth"
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Part of top-performing megacap tech stocks that drove significant market growth"
+        }
+      ]
+    },
+    {
+      "title": "Top 50 High-Quality Dividend Stocks For September 2025",
+      "description": "Discover top dividend growth stocks with strong returns and solid fundamentals.",
+      "published_utc": "2025-09-06T08:18:15",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=816cb82211b1f4e0c9cbebc972cd6540a67e42bf785f13a6d0d525ee198d9560",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2148089915/image_2148089915.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136656860,
+      "datetime": 1757161095
+    },
+    {
+      "title": "Microsoft: No Signs Of Slowing Down",
+      "description": "Microsoft's fundamentals remain robust, with strong revenue and EPS growth, and its recent AI-driven partnerships are fueling further optimism.",
+      "published_utc": "2025-09-06T02:31:39",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=84e702cf15644e6373a68627d9264825ed62bc1a3fbde0cb21147fe06cd7c171",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2172935400/image_2172935400.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136655633,
+      "datetime": 1757140299
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Boeing (BA) Successfully Demonstrates Autonomous MQ-28 Ghost Bat With Royal Australian Air Force",
+      "description": "Boeing (BA) recently showcased its innovative prowess with the successful completion of operational demonstrations of the MQ-28 Ghost Bat aircraft, enhancing expectations for its future contributions to unmanned flight teaming capabilities. Over the last quarter, Boeing’s stock saw an 8.92% rise, a move potentially bolstered by these demonstrations alongside robust client announcements, such as significant orders from WestJet, Macquarie AirFinance, and Korean Air. While broader economic...",
+      "published_utc": "2025-09-06T14:13:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=362b85d78d51b13ed815285c06a3604d68a8e137a856d8e7f74f805cc2fdb8e5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136669317,
+      "datetime": 1757182400
+    },
+    {
+      "title": "September Dogs Of The Dow Unleash One Ideal 'Safer' DiviDog",
+      "description": "Discover why Verizon is the standout Dow Dog for dividends and potential 19%+ returns.",
+      "published_utc": "2025-09-05T22:07:39",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1411b8fdf9d950ed4a557a748e1abc18582b4a5d86b95304b40b97619dfc20dc",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1920872358/image_1920872358.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136654562,
+      "datetime": 1757124459
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:19:00.575146+00:00",
+    "cache_key": "news_d292cca782dd8d812b9e7d912cf8a01c",
+    "count": 2
+  }
+}

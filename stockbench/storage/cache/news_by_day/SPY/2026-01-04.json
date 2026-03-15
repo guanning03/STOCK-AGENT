@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Why NOBL Could Falter",
+      "description": "NOBL ETF initiated at Hold: diversified equal-weight Dividend Aristocrats with low concentration, but recent underperformance vs SPY.",
+      "published_utc": "2026-01-04T18:45:04",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5c5e4fa36c7fb27aca57c0a314dadf9f0b3d97473fc614e814fb27eb09c56436",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1254581610/image_1254581610.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137985527,
+      "datetime": 1767570304
+    },
+    {
+      "title": "YMAX: The Magic Reinvestment Number For This Super Yielder",
+      "description": "Learn about YieldMax Universe Fund (YMAX): 47%+ yield, option-income ETF risks, capped upside, and why reinvestment matters.",
+      "published_utc": "2026-01-04T17:14:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9f956c927ee8026d811918fa889a7a6e64f1b682004461e34b8747cb4aca022a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2221147115/image_2221147115.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137985166,
+      "datetime": 1767564840
+    },
+    {
+      "title": "DYNF: Low Cost Active Factor ETF Now Outperforming The S&P 500 Index",
+      "description": "Review DYNFâs factor-rotation ETF strategy, current expansion-phase tilt, and performance vs SPY.",
+      "published_utc": "2026-01-04T16:44:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9b2f327421a9428d35e1952714b8274df8107b3cd5774444df6d3a4819306811",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2189596675/image_2189596675.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137985054,
+      "datetime": 1767563040
+    },
+    {
+      "title": "S&P 500: Last Week's Sellers 'Guessed' Correctly About Venezuela (Technical Analysis)",
+      "description": "S&P 500 (SPY) drops 100 points amid the Santa Rally. The selling at the end of the week may be related to weekend news on Venezuela.",
+      "published_utc": "2026-01-04T11:00:51",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0efc74f5f4553d6ab67a3b154d16f83081f0d9ff7b91d60e870ac0af0fa8014f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2234875955/image_2234875955.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137983733,
+      "datetime": 1767542451
+    },
+    {
+      "title": "Top & Flop ETF Areas of 2025 (Revised)",
+      "description": "Silver, gold & platinum ETFs (SLVP, SILJ, GOEX) crushed it in 2025, while MEME & VIXY lagged.",
+      "published_utc": "2026-01-04T11:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c0f569161acb736eca1b01006226baf546132d87d5d584146829f288d1cd0328",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137985924,
+      "datetime": 1767542400
+    }
+  ]
+}

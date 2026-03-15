@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "IonQ Stock Falls 2.5% This Week on Short-Seller Report and Legal Probe Converge",
+      "description": "IonQ Inc (NYSE:IONQ) dropped 2.5% this week, underperforming both the SPDR S&P 500 ETF Trust (NYSEARCA:SPY)’s 1.3% decline and the Invesco QQQ Trust (NASDAQ:QQQ)’s 1.3% drop. The bad news? Shares were down. The good news? Friday saw a welcome relief rally of 9%. Shares opened the day largely flat, but rallied into noon. IonQ shares ... IonQ Stock Falls 2.5% This Week on Short-Seller Report and Legal Probe Converge",
+      "published_utc": "2026-02-15T11:22:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=08c3a980ba65e91c84f9544253861780785d0351f82db6c55532930a8c9da765",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139107550,
+      "datetime": 1771172577
+    },
+    {
+      "title": "S&P 500: Finally, Something Bearish (Technical Analysis)",
+      "description": "Track mounting red flags and a new bearish weekly shiftâkey 6764 support and 6550 target.",
+      "published_utc": "2026-02-15T11:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0282306efe6194c8e50b5af4e980eae089f1e9d4d16199e402aeab9b6d6e29e6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2254337493/image_2254337493.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139109160,
+      "datetime": 1771171200
+    },
+    {
+      "title": "Coca-Cola’s Week in Review: Analysts Raise Price Targets Q4 Beat",
+      "description": "Coca-Cola (NYSE:KO) closed Friday at $78.67, down 0.5% for the week but up 12.5% year-to-date. That crushes both the SPDR S&P 500 ETF Trust (NYSEARCA:SPY) (flat YTD) and is close to the Consumer Staples Select Sector SPDR Fund (NYSEARCA:XLP) (up 15.2% YTD). Three storylines drove the action: Q4 earnings sparked analyst upgrades, incoming CEO Henrique ... Coca-Cola’s Week in Review: Analysts Raise Price Targets Q4 Beat",
+      "published_utc": "2026-02-15T10:44:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8dac68b086eb3f9307d6d3f3eede732461b4f5b8ede0a44757938860beae5dc1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139107457,
+      "datetime": 1771170260
+    },
+    {
+      "title": "Perspectives On Rotations Into Value, Small-Cap, Developed And Emerging Markets",
+      "description": "Themes of rotation out of large-cap US growth stocks and into small-cap and/or value stocks and/or international stocks continue to dominate market commentary. Read more here.",
+      "published_utc": "2026-02-15T05:59:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7d081ba0e08f0ba88cff98f8ce4a89f0b6b0f55303c304ee4c45e46fd743acc4",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2259148968/image_2259148968.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139107041,
+      "datetime": 1771153140
+    },
+    {
+      "title": "An $80 Billion Liquidity Storm May Be About To Hit Stocks This Week",
+      "description": "This coming week offers little relief, especially with the Treasury poised to settle nearly $60 billion in T-bills. Read why pressure on risk assets may persist.",
+      "published_utc": "2026-02-15T04:55:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e2bead07ae5af32069536da696d96ca34f0963cbab709f9acddcfcdb47780366",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1340257149/image_1340257149.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139106772,
+      "datetime": 1771149300
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:06:58.780282+00:00",
+    "cache_key": "news_bb1b7982bc763698a3e3abe0c01a1fc2",
+    "count": 5
+  }
+}

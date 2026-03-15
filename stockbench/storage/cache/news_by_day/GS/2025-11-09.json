@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "CNBC Daily Open: Too early to fret about tech pullback?",
+      "description": "Earnings have been \"reassuring\" despite worries about tech stocks' high valuations, a strategist told CNBC. That means the fall in tech stocks might not last.",
+      "published_utc": "2025-11-09T15:06:33",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=7fb31c5c95d6fc12a3307959c7f3f93055d75d554827edf434d14d0a6a984011",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108223047-1762529068925-gettyimages-2245509709-anotherday142727139_dqpyldvt.jpeg?v=1762529152&w=1920&h=1080",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137396105,
+      "datetime": 1762718793
+    }
+  ]
+}

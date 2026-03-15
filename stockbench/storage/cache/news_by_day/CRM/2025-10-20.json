@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Zeta Global, Salesforce, HubSpot, BILL, and PagerDuty Stocks Trade Up, What You Need To Know",
+      "description": "A number of stocks jumped in the afternoon session after positive news on corporate earnings, easing political and trade tensions, and optimism about future interest rate cuts all converged to lift investor sentiment.",
+      "published_utc": "2025-10-20T17:56:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5f80ec57eec717762ec4bfb452b2d2956b9249b6e6f8699268d9c214e402ca77",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137173892,
+      "datetime": 1760997383
+    },
+    {
+      "title": "Stock Market Today: Dow Jumps, Apple Clears Entry As iPhone 17 Does This; These Gold Stocks Shine (Live Coverage)",
+      "description": "The Dow Jones index was up Monday but lagged the Nasdaq. Cleveland-Cliffs soared on the stock market today. Amazon rose amid an AWS outage.",
+      "published_utc": "2025-10-20T14:05:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fdefd2fe925d8635fd269e57802109f11db645a9d3ddd65791bb8b7317536471",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137173035,
+      "datetime": 1760983548
+    },
+    {
+      "title": "Dow rallies 550 points on gains for shares of Salesforce, Apple",
+      "description": "Dow rallies 550 points on gains for shares of Salesforce, Apple",
+      "published_utc": "2025-10-20T10:04:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=91a312f31ebd1be67cda5de25f3781b36cdaafda4941d0b06208b3fb7769a909",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137225678,
+      "datetime": 1760969040
+    },
+    {
+      "title": "CobbleStone® Named Leader and Ace Performer in 2025 SPARK Matrix™ for Contract Lifecycle Management",
+      "description": "CobbleStone Software, a widely acclaimed leader in contract management software, has been recognized as a Leader and Ace Performer in the 2025 SPARK Matrix™ for Contract Lifecycle Management by QKS Group.",
+      "published_utc": "2025-10-20T09:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dbeb960f7ec23fcd069004a145be21cdf5e426bc7e57c809f0b21fa791e5c431",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137174203,
+      "datetime": 1760967000
+    },
+    {
+      "title": "Microsoft and Salesforce lead ‘low-code’ development landscape",
+      "description": "The success of Microsoft Power Platform and Salesforce Flow is largely based on their mature low-code technology.",
+      "published_utc": "2025-10-20T08:29:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ae7292dffad7478dcb99713f16966ac24ee580b291f82f4a4e387f2fb58e4821",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137174204,
+      "datetime": 1760963393
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "id": "184bff7d356a5c3ad0317e2e3e074b976a05319969ade3ac5d344796c7faaaab",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "This Top Quantum Computing Stock Nears $1 Billion in Signings",
+      "author": "Timothy Green",
+      "published_utc": "2025-02-08T11:40:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/08/this-top-quantum-computing-stock-nears-1-billion-i/?source=iedfolrf0000001",
+      "tickers": [
+        "IBM",
+        "IONQ",
+        "IONQ.WS",
+        "RGTI",
+        "RGTIW"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806742/gettyimages-2156615862-1.jpg",
+      "description": "IBM is well positioned for the future of quantum computing, with nearly 80 externally available quantum systems and the leading quantum computing software platform. While quantum computing is not yet commercially viable, IBM expects to demonstrate the first error-corrected quantum computer by 2028 and reach thousands of qubits sometime after 2033, potentially leading to true commercial viability.",
+      "keywords": [
+        "quantum computing",
+        "IBM",
+        "commercial viability"
+      ],
+      "insights": [
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IBM is well-positioned for the future of quantum computing, with a strong lead in deployed quantum systems and quantum computing software. The company expects to reach key milestones in the development of error-corrected and scalable quantum computers, which could lead to the technology becoming commercially viable."
+        },
+        {
+          "ticker": "IONQ",
+          "sentiment": "negative",
+          "sentiment_reasoning": "As a pure-play quantum computing company, IonQ is considered a risky bet, as it will need to survive long enough to reap the benefits of the quantum computing revolution, which is still at least a decade away from commercial viability."
+        },
+        {
+          "ticker": "IONQ.WS",
+          "sentiment": "negative",
+          "sentiment_reasoning": "As a pure-play quantum computing company, IonQ is considered a risky bet, as it will need to survive long enough to reap the benefits of the quantum computing revolution, which is still at least a decade away from commercial viability."
+        },
+        {
+          "ticker": "RGTI",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Similar to IonQ, Rigetti Computing is a pure-play quantum computing company, which is considered a risky bet due to the long timeline for the technology to become commercially viable."
+        },
+        {
+          "ticker": "RGTIW",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Similar to IonQ, Rigetti Computing is a pure-play quantum computing company, which is considered a risky bet due to the long timeline for the technology to become commercially viable."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Vanguard, BlackRock Map Out Global ETF Ambitions",
+      "description": "- Vanguard has stepped up client engagement initiatives centred around its 50th anniversary. - BlackRock has also just released a new advertising campaign.",
+      "published_utc": "2025-06-16T18:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=25b4e6efd240117114a7f714751200a4b44053ceccdb2b0b7d8032929f8647b4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135312409,
+      "datetime": 1750111200
+    },
+    {
+      "title": "IWM Assets Surged $787M Friday Amid Israel-Iran Conflict",
+      "description": "- IWM led ETF inflows despite the Dow's 770-point plunge on geopolitical tensions. - QQQ and IVV gained while SPY and VOO saw outflows.",
+      "published_utc": "2025-06-16T17:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=67391ab82a2c687077d1c402bd8a5449062c2aaaf85f0b0b9f17e8113d64a608",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135312534,
+      "datetime": 1750110300
+    },
+    {
+      "title": "Will The Israel-Iran Conflict Reshuffle The Fed's Policy Playbook?",
+      "description": "The Israel-Iran conflict adds more uncertainty for inflation and the economic outlook.",
+      "published_utc": "2025-06-16T16:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=169d4a6259f42d5ef2297a710c668d299155dd618cfa399a084af208aa08808b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1503371245/image_1503371245.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135311892,
+      "datetime": 1750105800
+    },
+    {
+      "title": "Consumer Sentiment Rebounds In June",
+      "description": "The Michigan Consumer Sentiment Index rose to 60.5 this month, its highest level since February but still historically low.",
+      "published_utc": "2025-06-16T15:50:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e389f2cb2a3c5e288440f84111a7cc71f974820398705a4879b5f10d47596a7b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2217411568/image_2217411568.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135311549,
+      "datetime": 1750103400
+    },
+    {
+      "title": "Reuters Citing Iranian State TV Saying Iran Launches Combined Drone And Missile Operations Targeting Tel Aviv And Haifa",
+      "description": "",
+      "published_utc": "2025-06-16T11:51:01",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=d8a2765717ffb33fd50809950ead70f8f31e5d213c87943e9826fa1577aed439",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138422325,
+      "datetime": 1750089061
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T00:29:29.503780+00:00",
+    "cache_key": "news_ace6ff670b697f358fccf49961d51092",
+    "count": 5
+  }
+}

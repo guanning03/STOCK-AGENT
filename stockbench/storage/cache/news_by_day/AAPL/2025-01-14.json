@@ -1,0 +1,305 @@
+{
+  "items": [
+    {
+      "id": "a29a19b995b86644f1e79f8dea70dd3bdcb2f72ad41cab642360f05fc4439489",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Should You Buy Stock in the Largest Company in the World?",
+      "author": "Adria Cimino",
+      "published_utc": "2025-01-14T12:05:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/14/should-you-buy-stock-in-worlds-biggest-company/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803694/gettyimages-1147525564.jpg",
+      "description": "The article discusses whether investors should buy Apple stock, given the company's long history, strong market position, and growth opportunities in services and AI. It suggests that while Apple may not deliver the same growth as younger or high-growth companies, it remains a compelling investment for most investors due to its competitive advantages and potential for continued growth.",
+      "keywords": [
+        "Apple",
+        "technology",
+        "investing",
+        "services",
+        "AI"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Apple's strong market position, innovation, and ability to maintain customer loyalty, as well as its growth opportunities in services and AI. It suggests that Apple remains a compelling investment for most investors despite potentially not delivering the same growth as younger or high-growth companies."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Nvidia as the second-largest company by market value, but does not provide any specific insights or analysis about the company."
+        }
+      ]
+    },
+    {
+      "id": "00855537f6821b10ba78d16758357d82fae34aa4ace92b44cd0c815d4d46f026",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Here's My Top AI ETF to Buy Right Now",
+      "author": "Matt Frankel",
+      "published_utc": "2025-01-14T11:33:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/14/heres-my-top-ai-etf-to-buy-right-now/?source=iedfolrf0000001",
+      "tickers": [
+        "QQQ",
+        "ARKQ",
+        "COST",
+        "AAPL",
+        "NVDA",
+        "MSFT",
+        "CRWD",
+        "TTD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803213/investor-2024.jpg",
+      "description": "The Invesco QQQ ETF provides exposure to large-cap AI stocks at a lower cost than many dedicated AI ETFs. While not a pure-play AI fund, it has significant AI exposure, with around 70% of its assets invested in AI-related companies. The ETF's low expense ratio and diverse portfolio make it a potentially attractive option for investors seeking AI exposure.",
+      "keywords": [
+        "AI",
+        "ETF",
+        "Invesco QQQ",
+        "Nasdaq-100",
+        "investment fees"
+      ],
+      "insights": [
+        {
+          "ticker": "QQQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the Invesco QQQ ETF as a potentially attractive option for investors seeking AI exposure, due to its significant AI exposure (around 70% of assets), low expense ratio, and diverse portfolio. The ETF is presented as a cost-effective way to gain exposure to the AI trend."
+        },
+        {
+          "ticker": "ARKQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions the Ark Autonomous Technology & Robotics ETF as another excellent AI ETF, but notes that it has a unique strategy and may be more suitable for risk-tolerant investors."
+        },
+        {
+          "ticker": "COST",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article notes that Costco is a Nasdaq-100 component that is not a direct AI play, highlighting that the Invesco QQQ ETF is not a pure-play AI fund."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Apple as one of the top 10 holdings of the Invesco QQQ ETF, indicating that the ETF provides exposure to major AI-focused tech companies."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Nvidia as one of the top 10 holdings of the Invesco QQQ ETF, indicating that the ETF provides exposure to major AI-focused tech companies."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Microsoft as one of the top 10 holdings of the Invesco QQQ ETF, indicating that the ETF provides exposure to major AI-focused tech companies."
+        },
+        {
+          "ticker": "CRWD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions CrowdStrike as an example of an AI stock that has significant growth potential and is held by the Invesco QQQ ETF."
+        },
+        {
+          "ticker": "TTD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions The Trade Desk as an example of an AI stock that has significant growth potential and is held by the Invesco QQQ ETF."
+        }
+      ]
+    },
+    {
+      "id": "d7ada996e10fda21ba250c4947e29378cca5c074a3a9103b9af98199bb87314e",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Prediction: This Will Be Wall Street's First $5 Trillion Company -- and It's Not Nvidia",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-14T09:51:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/14/prediction-wall-street-first-5-trillion-not-nvidia/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "NVDA",
+        "MSFT",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803684/nyse-floor-trader-invest-buy-sell-options-stock-exchange-getty.png",
+      "description": "The article suggests that Amazon, not Nvidia, is the most likely candidate to become the first $5 trillion company on Wall Street, due to its diverse revenue streams and growth potential in cloud services and advertising.",
+      "keywords": [
+        "Amazon",
+        "Nvidia",
+        "Microsoft",
+        "Apple",
+        "AI",
+        "cloud services",
+        "advertising"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Amazon has the clearest path to a $5 trillion market cap, driven by the growth of its cloud services (AWS) and advertising segments, which are less dependent on the AI bubble compared to Nvidia and Microsoft."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that Nvidia's chances of becoming the first $5 trillion company are likely to be thwarted by the historical pattern of new technologies and innovations going through an early stage bubble, which could negatively impact Nvidia's AI-driven growth."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article suggests that Microsoft's heavy investment in an AI-driven future could also be negatively impacted if the AI bubble bursts, making it unlikely for the company to be the first to reach a $5 trillion valuation."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article suggests that Apple's valuation is already trading at one of its priciest levels in a decade, leaving little room for it to reach a $5 trillion market cap."
+        }
+      ]
+    },
+    {
+      "id": "e57a2201d86141d87269104758b5261216484819031253d4582026e6f2928e12",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Mobile 3D Market to Worth Over US$ 479.92 Billion By 2033 | Diverse End User Engagement Fostering Novel Implementations Says Astute Analytica",
+      "author": "Astute Analytica",
+      "published_utc": "2025-01-14T08:30:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/14/3009034/0/en/Mobile-3D-Market-to-Worth-Over-US-479-92-Billion-By-2033-Diverse-End-User-Engagement-Fostering-Novel-Implementations-Says-Astute-Analytica.html",
+      "tickers": [
+        "AAPL",
+        "SONY",
+        "GOOG",
+        "GOOGL",
+        "HTHIY",
+        "NVDA",
+        "INTC",
+        "QCOM",
+        "SHCAY",
+        "MMM"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/a77988df-ad1a-4619-9a4e-367c858dc70e",
+      "description": "The global mobile 3D market is projected to grow significantly, driven by advancements in hardware, software, and diverse end-user applications. Key players in the industry are investing in innovative solutions to enhance immersive experiences across gaming, healthcare, and design sectors.",
+      "keywords": [
+        "mobile 3D",
+        "AR",
+        "VR",
+        "gaming",
+        "healthcare",
+        "design"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Apple is a key player in the mobile 3D market, indicating its involvement in driving the industry's growth and innovation."
+        },
+        {
+          "ticker": "SONY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Sony Corporation is mentioned as a key player in the mobile 3D market, highlighting its contribution to the industry's growth and advancements."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Google is listed as one of the key players in the mobile 3D market, suggesting its active participation in the industry's growth and innovation."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Google is listed as one of the key players in the mobile 3D market, suggesting its active participation in the industry's growth and innovation."
+        },
+        {
+          "ticker": "HTHIY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Hitachi, Ltd. is identified as a key player in the mobile 3D market, indicating its involvement in the development and implementation of mobile 3D technologies."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "NVIDIA Corporation is listed as a prominent player in the mobile 3D market, suggesting its active participation in driving the industry's growth and innovation."
+        },
+        {
+          "ticker": "INTC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Intel Corporation is mentioned as a key player in the mobile 3D market, highlighting its contribution to the industry's advancements."
+        },
+        {
+          "ticker": "QCOM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Qualcomm Technologies, Inc. is identified as a prominent player in the mobile 3D market, indicating its involvement in the development and implementation of mobile 3D technologies."
+        },
+        {
+          "ticker": "SHCAY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Sharp Corporation is listed as a key player in the mobile 3D market, suggesting its active participation in driving the industry's growth and innovation."
+        },
+        {
+          "ticker": "MMM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "3M Company is mentioned as a prominent player in the mobile 3D market, highlighting its contribution to the industry's advancements."
+        }
+      ]
+    },
+    {
+      "id": "4e1a7b8324c83709418df38104a0ccb401e7b819f75f74a09bfbc4dd9ae6a77e",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Things to Know About Sirius XM Stock Before You Buy",
+      "author": "Dan Victor",
+      "published_utc": "2025-01-14T02:23:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/13/3-things-to-know-about-sirius-xm-stock-before-you/?source=iedfolrf0000001",
+      "tickers": [
+        "SIRI",
+        "SPOT",
+        "AAPL",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803638/siri-stock-outlook-2025.jpg",
+      "description": "Sirius XM Holdings is struggling to retain subscribers as satellite radio falls out of favor, facing competition from streaming services. The company's financial results have disappointed, leading to a steep stock price decline, but its valuation appears cheap. However, the market remains skeptical about the company's ability to turn things around, and investors are advised to avoid the stock for now.",
+      "keywords": [
+        "Sirius XM Holdings",
+        "satellite radio",
+        "streaming services",
+        "stock valuation",
+        "subscriber decline"
+      ],
+      "insights": [
+        {
+          "ticker": "SIRI",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article highlights Sirius XM's ongoing challenges, including declining subscribers, competition from streaming services, and disappointing financial results. The company is facing an uphill battle to turn things around, and the market remains skeptical about its ability to do so."
+        },
+        {
+          "ticker": "SPOT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Spotify is mentioned as one of the competitors to Sirius XM's satellite radio service, but the article does not provide any specific commentary on Spotify's performance or outlook."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Apple's music services are mentioned as another competitor to Sirius XM, but the article does not delve into the impact on Apple's business."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Amazon's music services are mentioned as a competitor to Sirius XM, but the article does not provide any further details on the impact on Amazon's business."
+        }
+      ]
+    }
+  ]
+}

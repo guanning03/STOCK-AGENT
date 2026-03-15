@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer's top 10 things to watch in the stock market Wednesday",
+      "description": "Club holding Nvidia's quarterly earnings report is in focus as the S&P 500 tries to break its four- session losing streak.",
+      "published_utc": "2025-11-19T04:03:31",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=d3c5c3fad02b6bf873b13b996aca53ac0e03c214aa901dea22f09f09a1783c1d",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108222120-17623850772025-11-05t232015z_1107606753_rc2lqhan43vc_rtrmadp_0_britain-royals-king.jpeg?v=1762385223&w=1920&h=1080",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137547897,
+      "datetime": 1763543011
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:21:36.256903+00:00",
+    "cache_key": "news_b1f457034f87911a4f44552276abe6ec",
+    "count": 1
+  }
+}

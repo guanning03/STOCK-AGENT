@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Prediction: This AI Stock Could Be the Next $4 Trillion Company in 2026",
+      "description": "Don't count out the reemerging search and artificial intelligence (AI) giant.",
+      "published_utc": "2025-12-17T17:50:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8342c465a25ad630ad7883b14337e96ae22de6e1ad1a66cf37ff6dadb167e3ef",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137816595,
+      "datetime": 1766011800
+    },
+    {
+      "title": "Nasdaq Composite Logs Worst Day in Nearly 4 Weeks Amid Tech Selloff",
+      "description": "The Nasdaq Composite on Wednesday posted its worst day in nearly four weeks, with technology stocks",
+      "published_utc": "2025-12-17T17:03:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8780c56650292452a7351647f3f0c0fb746a17c77403444068cdcb265d6870f5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137816600,
+      "datetime": 1766008993
+    },
+    {
+      "title": "Prediction: These 2 AI Darlings Will Be Worth $5 Trillion or More in 2026",
+      "description": "Nvidia is a shoo-in to breach this level. But what about the other?",
+      "published_utc": "2025-12-17T16:35:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ec3aa6daf497db49fa21c2d6654de44e87fabfd8fa25b6f5f43b5d793a2210cd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137816601,
+      "datetime": 1766007300
+    },
+    {
+      "title": "Apple Seen Moving From AI Laggard To Leader In 2026",
+      "description": "Investment bank Morgan Stanley sees Apple becoming an AI leader in 2026, starting with a new Siri digital assistant.",
+      "published_utc": "2025-12-17T16:30:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fa8dac8d36c95f11d81015583e0a3c944a64304d960f378dc31cfadef5461f56",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137816602,
+      "datetime": 1766007013
+    },
+    {
+      "title": "3 Best Tech ETF Picks for 2026",
+      "description": "Tech stocks and the \"Magnificent Seven\" have led the market higher for some time. It's time to evaluate the sector again heading into 2026.",
+      "published_utc": "2025-12-17T16:18:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e635bf655584c3ff3651058a8d058a90f1e031502c88fadc771a809cb1632db2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137816603,
+      "datetime": 1766006280
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:49:37.509530+00:00",
+    "cache_key": "news_13d6a2b1272de49eed1c45bba9eac7c8",
+    "count": 5
+  }
+}

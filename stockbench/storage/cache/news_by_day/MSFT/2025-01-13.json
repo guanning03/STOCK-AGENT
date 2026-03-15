@@ -1,0 +1,260 @@
+{
+  "items": [
+    {
+      "id": "d224cef382fe22caa1dc5c823df516e21cc3325f43f928586b75fc07f72a1587",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "Can US Export Restrictions Lead to the End of the AI Boom?",
+      "author": "The Tokenist",
+      "published_utc": "2025-01-13T20:36:00Z",
+      "article_url": "https://www.investing.com/analysis/can-us-export-restrictions-lead-to-the-end-of-the-ai-boom-200656171",
+      "tickers": [
+        "META",
+        "NVDA",
+        "MSFT",
+        "AMZN",
+        "ORCL"
+      ],
+      "amp_url": "https://m.investing.com/analysis/can-us-export-restrictions-lead-to-the-end-of-the-ai-boom-200656171?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "The US government has expanded export controls on advanced AI chips, aiming to limit China's access to this technology. This move has faced backlash from the tech industry, which warns of unintended consequences and disruptions to global supply chains and AI infrastructure rollout plans.",
+      "keywords": [
+        "AI",
+        "export controls",
+        "semiconductor industry",
+        "US-China tech competition"
+      ],
+      "insights": [
+        {
+          "ticker": "META",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The new regulations will limit Meta's ability to expand its data centers and AI compute capacity outside the US and a few trusted nations."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The disruption to global supply chains and AI infrastructure rollout plans is likely to negatively impact Nvidia, a major supplier of AI chips."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Microsoft's Azure cloud expansion outside the US and trusted nations will be curtailed due to the new restrictions on AI compute capacity."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Amazon's AWS rollout plans will be affected by the limits on AI compute capacity in non-trusted countries."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The new framework is described as one of the most destructive to hit the US tech industry, which includes Oracle."
+        }
+      ]
+    },
+    {
+      "id": "a354916fa099c1b90bbaba876333114fcf6c3ffe2a1c19fe740434dbdc772d64",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why Nvidia Stock Skyrocketed 171.2% in 2024 but Is Losing Ground in 2025",
+      "author": "Keith Noonan",
+      "published_utc": "2025-01-13T20:12:48Z",
+      "article_url": "https://www.fool.com/investing/2025/01/13/why-nvidia-stock-skyrocketed-1712-in-2024-but-is-s/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803573/gettyimages-1482246510.jpg",
+      "description": "Nvidia's stock price surged 171.2% in 2024 due to strong demand for its GPUs in AI, but has faced pullbacks in 2025 due to macroeconomic pressures and geopolitical risks, including potential export restrictions to China.",
+      "keywords": [
+        "Nvidia",
+        "AI",
+        "stock split",
+        "macroeconomic pressures",
+        "geopolitical risks"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Nvidia's stock had a strong performance in 2024 but is facing headwinds in 2025 due to macroeconomic and geopolitical factors."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft's planned $80 billion investment in AI data center capabilities is expected to benefit Nvidia, as its GPUs are a key component in AI infrastructure."
+        }
+      ]
+    },
+    {
+      "id": "e3d1ec10832634943ada6440bb6a3193a329c974edfe83ffed82f28818887085",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Investors Take Note: 5 Companies Using AI Agents to Drive Innovation",
+      "author": "Dan Victor",
+      "published_utc": "2025-01-13T13:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/13/investors-take-note-5-companies-using-ai-agents-to/?source=iedfolrf0000001",
+      "tickers": [
+        "ADBE",
+        "CRWD",
+        "DOCU",
+        "MSFT",
+        "SOUN",
+        "SOUNW"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803487/ai-stocks-2025-outlook.jpg",
+      "description": "The article discusses five cloud software companies that are leveraging artificial intelligence (AI) as a long-term growth driver. It highlights the potential of AI in various industries and the opportunities for investors to buy stocks in companies that are developing innovative AI solutions.",
+      "keywords": [
+        "artificial intelligence",
+        "cloud software",
+        "investing",
+        "technology"
+      ],
+      "insights": [
+        {
+          "ticker": "ADBE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Adobe's market-leading creative tools and the potential of its Firefly AI, which has capabilities like text-to-image generation and generative fill that have been game-changers for the creative industry. The company's strong financial performance and growth outlook are also noted."
+        },
+        {
+          "ticker": "CRWD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "CrowdStrike is described as a dominant force in AI-powered cybersecurity through its Falcon platform, which uses advanced machine learning for proactive threat detection and automated response capabilities. The company's strong growth and earnings momentum are highlighted, indicating a robust outlook."
+        },
+        {
+          "ticker": "DOCU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes Docusign's integration of generative AI into its Intelligent Agreement Management (IAM) platform, which creates a more comprehensive suite of solutions for organizations. The company's category leadership and expansion opportunities are also mentioned as positive factors."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Microsoft's early investment and ongoing partnership with OpenAI, the creator of ChatGPT, which has secured its position as an AI leader. The integration of large language models (LLMs) across its Office productivity suite and the AI capabilities powering its Azure cloud platform are seen as positive factors."
+        },
+        {
+          "ticker": "SOUN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes SoundHound's impressive stock price increase of over 640% in the past year, indicating its position as one of the most exciting players in AI innovation. The company's conversational intelligence technology and its expanding market presence in various industries are highlighted as positive factors, despite the stock's pricey valuation."
+        },
+        {
+          "ticker": "SOUNW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes SoundHound's impressive stock price increase of over 640% in the past year, indicating its position as one of the most exciting players in AI innovation. The company's conversational intelligence technology and its expanding market presence in various industries are highlighted as positive factors, despite the stock's pricey valuation."
+        }
+      ]
+    },
+    {
+      "id": "a828b090cf82222d510fea4294188d113be40bf4472164eb1f936eef03c67182",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "Despite Choppy Start to 2025, Bulls Could Reclaim Record Highs by Spring",
+      "author": "Ed Yardeni",
+      "published_utc": "2025-01-13T13:20:00Z",
+      "article_url": "https://www.investing.com/analysis/despite-choppy-start-to-2025-bulls-could-reclaim-record-highs-by-spring-200656121",
+      "tickers": [
+        "NVDA",
+        "MSFT",
+        "DELL",
+        "AMZN",
+        "GOOG",
+        "GOOGL"
+      ],
+      "amp_url": "https://m.investing.com/analysis/despite-choppy-start-to-2025-bulls-could-reclaim-record-highs-by-spring-200656121?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "The article discusses the outlook for the stock market in early 2025, noting that despite a choppy start, the S&P 500 and Nasdaq could resume climbing to new record highs during the spring. It outlines potential positive and negative factors that could impact the market.",
+      "keywords": [
+        "stock market",
+        "economy",
+        "earnings",
+        "valuation",
+        "interest rates",
+        "inflation"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Nvidia's stock price has risen on expectations that the company's CEO will deliver a bullish keynote at CES 2025, highlighting the importance of Nvidia's GPU chips for AI."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Microsoft announced plans to significantly increase its spending on data centers, underscoring the growing demand for AI-related infrastructure."
+        },
+        {
+          "ticker": "DELL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Dell, as an infrastructure provider, is likely to benefit from the increased spending on data centers and AI-related technology."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Amazon, along with Google, has signed nuclear power agreements to power their AI-enabled server farms, indicating their commitment to supporting the growth of AI."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Google, like Amazon, has signed nuclear power agreements to support the growth of its AI infrastructure."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Google, like Amazon, has signed nuclear power agreements to support the growth of its AI infrastructure."
+        }
+      ]
+    },
+    {
+      "id": "359471330e06714b7c5471a0e4e9ca6789c30b0fafe150583d972fff4a457079",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Sapiens Now Available in the Microsoft Azure Marketplace",
+      "author": "Prnewswire",
+      "published_utc": "2025-01-13T12:20:00Z",
+      "article_url": "https://www.benzinga.com/pressreleases/25/01/n42941354/sapiens-now-available-in-the-microsoft-azure-marketplace",
+      "tickers": [
+        "SPNS",
+        "MSFT"
+      ],
+      "image_url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "description": "Sapiens International Corporation, a global leader in intelligent insurance software solutions, has announced the availability of its SaaS solutions in the Microsoft Azure Marketplace. This strategic alignment with Microsoft Azure underscores Sapiens' commitment to enabling the insurance industry's digital transformation.",
+      "keywords": [
+        "Sapiens",
+        "Microsoft Azure",
+        "insurance software",
+        "digital transformation"
+      ],
+      "insights": [
+        {
+          "ticker": "SPNS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Sapiens' strategic partnership with Microsoft Azure, which enables insurers to leverage advanced capabilities and reinforces Sapiens' commitment to customer transformation. This suggests a positive outlook for the company."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Microsoft Azure Marketplace welcomes Sapiens, indicating a positive collaboration between the two companies to provide cloud-based solutions to customers."
+        }
+      ]
+    }
+  ]
+}

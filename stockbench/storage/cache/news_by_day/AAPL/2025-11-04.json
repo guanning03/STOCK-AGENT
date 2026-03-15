@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer Recommends These 4 AI Stocks These Days, Says 'Wise Speculation' Can Change Your Life",
+      "description": "",
+      "published_utc": "2025-11-04T17:01:11",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=0c0d1e040ae992313b3503a869a4bc8f33cbdedd685bc6bbf27ff5dcf39a0ec4",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/04/Jim-Cramer-Says-He-Envies-AMD--Dell-Shar.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138460854,
+      "datetime": 1762293671
+    },
+    {
+      "title": "Apple: Gotta Pay The Piper",
+      "description": "Apple Inc.'s fiscal Q4 revenue rose, but high valuation and limited growth may signal risks. Click for my updated look at AAPL stock post earnings.",
+      "published_utc": "2025-11-04T15:00:58",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a154eda1b8cf455620889b9d85e61841d28b401b3f2950992c39f0ec1325f7ea",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1340775990/image_1340775990.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137331307,
+      "datetime": 1762286458
+    },
+    {
+      "title": "Qualcomm Set To Supply 90% Of iPhone 17 Modems, Analyst Says",
+      "description": "Qualcomm (QCOM) is poised for growth with strong demand for smartphones, Apple&#39;s iPhone 17 chip share, and expanding AI opportunities. JPMorgan analyst raised price forecast to $210.",
+      "published_utc": "2025-11-04T10:38:20",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=fefe5351fa09483d83ae2bcc70d2ebc9f8e648c8f48faf278b1a1a7a5be31d64",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/04/Qualcomm--shutterstock-2410134973.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138674151,
+      "datetime": 1762270700
+    },
+    {
+      "title": "Warren Buffett Has One Warning Before You Make This Investment Mistake",
+      "description": "Short of predicting the future, listening to experts might be the best thing you can do to protect your finances. Luckily, the instructions are pretty simple.",
+      "published_utc": "2025-11-04T10:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dfa3506e4c2c03b05cd30d52be7de27f26e5cc944adf509480c4a09fb110fde5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137311837,
+      "datetime": 1762268400
+    },
+    {
+      "title": "Apple iPhone 17 Base Model Leads Global Demand, Jefferies Says",
+      "description": "Analysts highlight strong sales trends despite potential margin pressure",
+      "published_utc": "2025-11-04T09:37:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b916b491cf110dc38f7d1389a13ca845730cfb6155a7ec0d27a613153ea86a65",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137311839,
+      "datetime": 1762267064
+    }
+  ]
+}

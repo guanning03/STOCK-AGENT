@@ -1,0 +1,126 @@
+{
+  "items": [
+    {
+      "title": "Honeywell International Inc. (HON) Stock Falls Amid Market Uptick: What Investors Need to Know",
+      "description": "Honeywell International Inc. (HON) concluded the recent trading session at $202.5, signifying a -2.93% move from its prior day's close.",
+      "published_utc": "2025-10-15T18:15:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=971738677cc89b145ea6cbe93a82d042292ddc5384e106ed749f4dc49ab40ec0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137102101,
+      "datetime": 1760566502
+    },
+    {
+      "title": "This Market Newcomer Could Become the Semiconductor Industry's Next Hot Stock: Interview with Qnity CEO Jon Kemp",
+      "description": "A stagnant General Electric answered one of corporate America's biggest questions: is it better to go alone or go together? Last year, the industrial giant broke itself up into three businesses, with its core business dedicated to Aerospace, while energy spinoff GE Vernova and health care spinoff ...",
+      "published_utc": "2025-10-15T16:37:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=17f182e7bb09191cf5348ffb8321bf1a1559aad729a5593a4b76d6f330d2113e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137101985,
+      "datetime": 1760560661
+    },
+    {
+      "title": "10 Industrials Stocks With Whale Alerts In Today's Session",
+      "description": "",
+      "published_utc": "2025-10-15T09:35:34",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=6be871a7a34f1c26d307a2b3c4071f944e578d425a6b2eabe4b693e799d86fd3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138411381,
+      "datetime": 1760535334
+    },
+    {
+      "title": "Dow's 133-point fall led by losses for Travelers, Honeywell stocks",
+      "description": "Dow's 133-point fall led by losses for Travelers, Honeywell stocks",
+      "published_utc": "2025-10-15T09:11:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=c2d4928ceee4857a6055ffd42e1ed8b1d53c8a66db9811e8d194f433db14f881",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137108127,
+      "datetime": 1760533860
+    },
+    {
+      "id": "16a0dfdf553f417df74addd92cf72babda1a2ef4d80ba9f0abf475862d589caf",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "CORRECTION - Just 2 Days Left to Register! Greenwich C-suite executives invited to HMG Strategy’s 18th Annual C-Level Technology Leadership Summit on October 16",
+      "author": "Hunter Muller",
+      "published_utc": "2025-10-15T01:40:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/10/15/3166760/0/en/CORRECTION-Just-2-Days-Left-to-Register-Greenwich-C-suite-executives-invited-to-HMG-Strategy-s-18th-Annual-C-Level-Technology-Leadership-Summit-on-October-16.html",
+      "tickers": [
+        "IBM",
+        "RMNI",
+        "APH",
+        "CCZ",
+        "CMCSA",
+        "HON"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/4b886685-faf4-4f80-8e8a-77cac364fa1b",
+      "description": "HMG Strategy is hosting its 18th Annual Greenwich CIO Summit, bringing together C-suite technology leaders to discuss innovation, cybersecurity, AI, and digital transformation on October 16, 2025.",
+      "keywords": [
+        "technology leadership",
+        "CIO summit",
+        "AI",
+        "cybersecurity",
+        "digital transformation"
+      ],
+      "insights": [
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Represented by Nicholas Donofrio, Fellow Emeritus, speaking about innovation and transformation"
+        },
+        {
+          "ticker": "RMNI",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a Platinum Partner with a VP of IT Data, Analytics & Innovation presenting"
+        },
+        {
+          "ticker": "APH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Represented by Linda Chan, VP of IT, with no specific context indicating positive or negative sentiment"
+        },
+        {
+          "ticker": "CCZ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Listed as a Platinum Partner with a Senior Director of Product Strategy presenting"
+        },
+        {
+          "ticker": "CMCSA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Listed as a Platinum Partner with a Senior Director of Product Strategy presenting"
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Represented by Global Product Security Architecture Director with no specific context"
+        }
+      ]
+    }
+  ]
+}

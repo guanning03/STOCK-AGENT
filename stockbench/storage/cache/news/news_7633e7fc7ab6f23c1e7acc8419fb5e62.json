@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "GameStop Plugs 'Infinite Money Glitch,' Stock Starts Printing Cash",
+      "description": "GameStop Corp. (NYSE:GME) was in the spotlight this week for two reasons: a literal infinite money glitch found within its own stores and massive insider buys from CEO Ryan Cohen. Infinite Money Glitch YouTuber RJCmedia exposed a trade-in loophole involving the newly released Nintendo Switch 2 that allowed customers to essentially print store credit. The exploit was remarkably simple: a customer would purchase a new Nintendo Switch 2 for $414.99. By immediately trading the console back in alongs",
+      "published_utc": "2026-01-24T18:31:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ec002ae4f15084a4c575dda9b35fdd0b2167a4bf383467e706b9e651d4eadf17",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138248927,
+      "datetime": 1769297472
+    },
+    {
+      "title": "Ericsson Proposes Bigger Dividends After Strong Quarter",
+      "description": "Ericsson (NASDAQ:ERIC) stock rose Friday after the Swedish telecom giant reported stronger-than-expected fourth-quarter earnings. Ericsson, which generates the bulk of its revenue from network infrastructure, software solutions, and professional services, reported EPS of 27 cents, beating the analyst consensus estimate of 23 cents. The company’s reported sales for the quarter were 69.3 billion Swedish Krona ($7.37 billion). Although this represented a 5% year-over-year (Y/Y) decline, it topped t",
+      "published_utc": "2026-01-24T18:01:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=762d8fcfaebaa2a274b4c123564919f21d209cf649b741b159bdd1c316ec6986",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138248928,
+      "datetime": 1769295712
+    },
+    {
+      "title": "Bill Gates Issues Warning on AI Investment Hype, Urges Caution",
+      "description": "Bill Gates on Wednesday warned the AI industry will be \"hypercompetitive,\" and that \"a reasonable percentage\" of today's pricey tech stocks will lose a lot of their value.",
+      "published_utc": "2026-01-24T15:25:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=382c552660fc0ffbfcfb783fa6b2f81cac4c952b0eeefccc207169808cb151a6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138248525,
+      "datetime": 1769286300
+    },
+    {
+      "title": "My 5 Favorite Stocks to Buy Right Now",
+      "description": "The consumer space can be a great place to find attractive stocks right now.",
+      "published_utc": "2026-01-24T13:54:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=22d08da1bd0e22f25be009aec4d68a29bd1703f770eecd0c7101a681dd7d5415",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138247913,
+      "datetime": 1769280840
+    },
+    {
+      "title": "Samsung just dropped a quiet bombshell in streaming",
+      "description": "Samsung is busy. But this time it's not a new phone or tablet that is making waves. Instead, Samsung is diligently rewriting the rules for streaming. Yes, you heard that right. Not Netflix (NFLX) or Amazon (AMZN), but Samsung, the tech giant, just revealed that Samsung TV Plus, its free ...",
+      "published_utc": "2026-01-24T13:47:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a3a0f65059df9b3d68b5a81048691445934c6dedfa3aec3a8b6409e46071b588",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138247914,
+      "datetime": 1769280420
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:57:14.323811+00:00",
+    "cache_key": "news_7633e7fc7ab6f23c1e7acc8419fb5e62",
+    "count": 5
+  }
+}

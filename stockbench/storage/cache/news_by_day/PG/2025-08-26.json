@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "The Procter & Gamble Company: Premium Stability at a Premium Price",
+      "description": "Comfort Stock or Overpriced Security Blanket?",
+      "published_utc": "2025-08-26T16:44:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=00f70c3964cdfc674966afe4842d40c3dbb304feb507b4df920eddaed889f010",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136536356,
+      "datetime": 1756241081
+    },
+    {
+      "title": "Newsmax Q2: Sell (Unless This One Metric Improves)",
+      "description": "Newsmax Inc.'s Q2 '25 highlights growth with significant losses from the Dominion settlement. Click for my look at NMAX earnings and prospects.",
+      "published_utc": "2025-08-26T04:56:48",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=60fc14b8b1b814c20c770ba5f607d558b0afd71ff8f1b379673eb8d9db4d27cd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1168086488/image_1168086488.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136524785,
+      "datetime": 1756198608
+    }
+  ]
+}

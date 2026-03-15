@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Prediction: This Will Be the Next Quantum Computing Stock That Berkshire Hathaway Buys",
+      "description": "Berkshire Hathaway currently holds two quantum computing stocks: Alphabet and Amazon.",
+      "published_utc": "2025-11-30T18:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4c56f5a3837400634218fc7120ee6d37958f297751dfe36a621fe7823aec54b5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137649646,
+      "datetime": 1764545400
+    },
+    {
+      "title": "Dow Jones Futures Fall; Trump Says He's Made Fed Chief Decision",
+      "description": "Dow Jones Futures Fall; Trump Says He's Made Fed Chief Decision",
+      "published_utc": "2025-11-30T17:53:48",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=4bb67cca12f847cb9609be90cf37747b3ba59f7f001741ca898e10fe53dce97d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137681311,
+      "datetime": 1764543228
+    },
+    {
+      "title": "Black Friday Weekend Wrap: Retailers Give a Thumbs-up",
+      "description": "While the level of footfall and transactions proved to be good on Black Friday and Saturday, retailers are of two minds — they're optimistic yet uncertain about how the holiday season could play out.",
+      "published_utc": "2025-11-30T17:21:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2371df70db675a0046b22ddf3628f6445c88028c24a059b4e8f41a15d3390851",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137649695,
+      "datetime": 1764541291
+    },
+    {
+      "title": "5 Amazing Growth Stocks to Buy Before 2026",
+      "description": "These stocks all have incredible short-term and long-term opportunities.",
+      "published_utc": "2025-11-30T16:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bbd0759d50433492e4dab7ed88cbccf4f809a49926333a8f41093fd6f18d5b15",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137649696,
+      "datetime": 1764536700
+    },
+    {
+      "title": "Megacap Tech Top",
+      "description": "Is megacap tech peaking? Discover why capital is shifting to energy, industrials, financials, and materials. Click here to read more about Crescat's strategy.",
+      "published_utc": "2025-11-30T16:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=74e25e9277bc9d45f622ea51d71ebfbd310ef2ee5d86d2dafeb42795d4023584",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2197707031/image_2197707031.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137647454,
+      "datetime": 1764536400
+    }
+  ]
+}

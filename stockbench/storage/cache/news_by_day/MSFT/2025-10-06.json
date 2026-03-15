@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today: Dow Jones Dips, But More Stocks Clear Entries; This Cheap Stock Rockets On Trump Report (Live Coverage)",
+      "description": "The Dow Jones dipped Monday as AMD soared on an OpenAI deal. Tesla and Palantir rallied on the stock market today. Coinbase and Bitcoin rose.",
+      "published_utc": "2025-10-06T15:34:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=38f9681bd096e6e9f63b7df3ee0cd9474a103e4eed246498911588cf0327db7d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136988953,
+      "datetime": 1759779275
+    },
+    {
+      "title": "Vertiv Technologies: 2025's AI Breakout Facing A Cooldown?",
+      "description": "",
+      "published_utc": "2025-10-06T15:27:59",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5d6b946cc0917e66add82a9d6ac9ac2d0d742c892ec8f9a26c91f1c16ddfb8ee",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136993007,
+      "datetime": 1759778879
+    },
+    {
+      "title": "Microsoft Stock Holds Firm Above Key Averages Amid AI Deal With AMD And OpenAI",
+      "description": "Microsoft shares closed at $517.35, stabilizing after a breakout from Septemberâs downtrend.",
+      "published_utc": "2025-10-06T15:25:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c9c1bb22456fde301f3dcf5f6e22eec65e8ee5dea0ef0d9ece7194b1fb7003ec",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1729779122/image_1729779122.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136993008,
+      "datetime": 1759778700
+    },
+    {
+      "title": "Microsoft buys another 100 MW of solar, this time in Japan",
+      "description": "The new deal covers output from four different solar projects. Microsoft has said it will spend $2.9 billion to expand its infrastructure in Japan.",
+      "published_utc": "2025-10-06T15:19:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2e04473baf72f6dc94fc84b7b6b360289073dbf35ab04a22f4d2e053f30182ce",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136988974,
+      "datetime": 1759778353
+    },
+    {
+      "title": "Microsoft Stock Rises After Company Shoots Down Xbox Exit Rumors",
+      "description": "Microsoft (MSFT, Financials) shares ticked higher Monday after the company stepped in to squash growing rumors that it was done making Xbox consoles.  Speculation had been swirling online that the Xbox Series X and S would be the last of their kind, with Microsoft supposedly shifting to a cloud-only future centered on Xbox Game Pass.  In a statement to Windows Central, Microsoft said, We are actively investing in our future first-party consoles and devices designed, engineered and built by Xbox.",
+      "published_utc": "2025-10-06T14:45:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=704b8cc4e5cf6a649ff9ad61c4864d373b3cb29f7bed69f2638e6e579b0b383a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136988975,
+      "datetime": 1759776303
+    }
+  ]
+}

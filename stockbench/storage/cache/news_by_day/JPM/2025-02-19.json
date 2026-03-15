@@ -1,6 +1,111 @@
 {
   "items": [
     {
+      "id": "bcf9c2ffbb41a744274731679f4610048dd8f46ad6885850fea2372e376d6ee1",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "Can Global Stocks Continue to Outperform the US in 2025?",
+      "author": "Charles-Henry Monchau",
+      "published_utc": "2025-02-19T07:41:00Z",
+      "article_url": "https://www.investing.com/analysis/can-global-stocks-continue-to-outperform-the-us-in-2025-200657489",
+      "tickers": [
+        "SBAGY",
+        "WBRBY",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "BLK",
+        "DIVB",
+        "GDMN"
+      ],
+      "amp_url": "https://m.investing.com/analysis/can-global-stocks-continue-to-outperform-the-us-in-2025-200657489?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "Global stocks have outperformed US stocks so far in 2025, with international stocks up 5.8% compared to a 2.9% gain for the S&P 500. Investors are also pouring money into companies expected to benefit from Ukraine's post-war reconstruction efforts, as well as gold and gold mining stocks.",
+      "keywords": [
+        "global stocks",
+        "US stocks",
+        "Ukraine reconstruction",
+        "gold",
+        "gold mining"
+      ],
+      "insights": [
+        {
+          "ticker": "SBAGY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Strabag SE as an Austrian construction company that is expected to play a significant role in Ukraine's post-war reconstruction efforts."
+        },
+        {
+          "ticker": "WBRBY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Wienerberger AG, a company specializing in residential real estate construction and related materials, is mentioned as having significant exposure in countries neighboring Ukraine and is expected to be involved in the reconstruction efforts."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase is collaborating with BlackRock and McKinsey to establish a fund aimed at attracting private investment for Ukraine's reconstruction, indicating a positive outlook for the company's involvement."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase is collaborating with BlackRock and McKinsey to establish a fund aimed at attracting private investment for Ukraine's reconstruction, indicating a positive outlook for the company's involvement."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase is collaborating with BlackRock and McKinsey to establish a fund aimed at attracting private investment for Ukraine's reconstruction, indicating a positive outlook for the company's involvement."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase is collaborating with BlackRock and McKinsey to establish a fund aimed at attracting private investment for Ukraine's reconstruction, indicating a positive outlook for the company's involvement."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase is collaborating with BlackRock and McKinsey to establish a fund aimed at attracting private investment for Ukraine's reconstruction, indicating a positive outlook for the company's involvement."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase is collaborating with BlackRock and McKinsey to establish a fund aimed at attracting private investment for Ukraine's reconstruction, indicating a positive outlook for the company's involvement."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase is collaborating with BlackRock and McKinsey to establish a fund aimed at attracting private investment for Ukraine's reconstruction, indicating a positive outlook for the company's involvement."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase is collaborating with BlackRock and McKinsey to establish a fund aimed at attracting private investment for Ukraine's reconstruction, indicating a positive outlook for the company's involvement."
+        },
+        {
+          "ticker": "BLK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "BlackRock is mentioned as collaborating with JPMorgan Chase and McKinsey to establish a fund for Ukraine's reconstruction, suggesting a positive sentiment towards the company's participation."
+        },
+        {
+          "ticker": "DIVB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "BlackRock is mentioned as collaborating with JPMorgan Chase and McKinsey to establish a fund for Ukraine's reconstruction, suggesting a positive sentiment towards the company's participation."
+        },
+        {
+          "ticker": "GDMN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that gold mining companies could be the biggest beneficiaries of the favorable situation for gold, as production costs have risen only about $100-$200/oz while gold prices have increased by nearly $1,000/oz, implying a positive sentiment towards gold miners."
+        }
+      ]
+    },
+    {
       "title": "J.P. Morgan Asset Management Announces Liquidation of JPMorgan Sustainable Infrastructure ETF (BLLD)",
       "description": "NEW YORK, Feb. 18, 2025 /PRNewswire/ -- J.P. Morgan Asset Management today announced the upcoming liquidation and dissolution of the JPMorgan Sustainable Infrastructure ETF . ...",
       "published_utc": "2025-02-19T00:46:05",

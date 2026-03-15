@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Is American Express Stock a Millionaire Maker?",
+      "description": "The premium credit card company has been a successful investment in the past.",
+      "published_utc": "2026-01-11T12:50:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f010df23d2443441e576772dcb1e3b2a796c8c1ef2a8996fd495fe32230d8b88",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138069038,
+      "datetime": 1768153800
+    },
+    {
+      "title": "Trump Wants to Cap Credit-Card Interest Rates. These Stocks Could Feel the Heat.",
+      "description": "President Donald Trump on Friday called for credit-card companies to cap the interest rates they charge customers, as the president leans harder into addressing consumers’ affordability concerns.  “Effective January 20, 2026, I, as President of the United States, am calling for a one year cap on Credit Card Interest Rates of 10%,” he said in a Truth Social post.  It was unclear how the move would be enacted, but credit-card companies may already be bracing for a negative stock reaction if a reduction in rates hits their net interest income.",
+      "published_utc": "2026-01-10T19:31:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=219b5d912ee24aa79fb4424d5642c20d03e8dd72f0eeeec67b1c802ed3b1b8b1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138061160,
+      "datetime": 1768091460
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:18:51.189334+00:00",
+    "cache_key": "news_df6234ebf351718df2d4ff10652e0780",
+    "count": 2
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "id": "e8f956081558e5b0316abfaa4089eb2ae9267bd2eb6eee8f64a5297670a40ede",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Could McDonald's Be a Millionaire-Maker Stock?",
+      "author": "James Brumley",
+      "published_utc": "2025-02-08T23:23:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/08/could-mcdonalds-be-a-millionaire-maker-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "MCD",
+        "AMZN",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806421/fast-food-hamburger-fries-drink.jpg",
+      "description": "McDonald's is a reliable and profitable fast-food giant, with a strong franchise model that generates steady revenue and dividend growth. While not a high-growth stock, its consistent performance and share buybacks have made it a potential millionaire-maker for long-term investors who reinvest its dividends.",
+      "keywords": [
+        "McDonald's",
+        "fast-food",
+        "franchise",
+        "dividend",
+        "share buybacks"
+      ],
+      "insights": [
+        {
+          "ticker": "MCD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights McDonald's as a reliable and profitable fast-food company with a strong franchise model that generates steady revenue and dividend growth. It has the potential to be a 'millionaire-maker' stock for long-term investors who reinvest its dividends."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Amazon as a subsidiary of Whole Foods Market, but does not provide any specific insights about Amazon's performance or outlook."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares McDonald's to Nvidia as a growth stock, but does not provide any further details about Nvidia's performance or outlook."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:45:41.030743+00:00",
+    "cache_key": "news_fec311f3ed307c64f8c17f5d62c10186",
+    "count": 1
+  }
+}

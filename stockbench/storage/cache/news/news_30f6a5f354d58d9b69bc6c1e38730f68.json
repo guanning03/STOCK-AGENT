@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Here Are My Top \"Magnificent Seven\" Stocks to Buy Now",
+      "description": "The \"Magnificent Seven\" stocks are still some of the best buys in the market.",
+      "published_utc": "2025-08-10T19:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=51989651a16e3f67eb65122be9adc9d51b2100a1044b8cc8704e5b3b797ee3c2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136292101,
+      "datetime": 1754868600
+    },
+    {
+      "title": "Twilio Q2: Won't Remain Cheap For Too Long",
+      "description": "Twilio's strong fundamentals, innovations, and Microsoft partnership signal growth. Raised guidance underscores 67% upside potential.",
+      "published_utc": "2025-08-10T18:06:31",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9e9c5ec9c796490b07e5826bcdf6b5f01e3c33d848a3c8fa44e2856143ecd7d0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1910584874/image_1910584874.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136290561,
+      "datetime": 1754863591
+    },
+    {
+      "title": "Exclusive-SK Hynix expects AI memory market to grow 30% a year to 2030",
+      "description": "SEOUL/SAN FRANCISCO (Reuters) -South Korea's SK Hynix forecasts that the market for a specialized form of memory chip designed for artificial intelligence will grow 30% a year until 2030, a senior executive said in an interview with Reuters.  The upbeat projection for global growth in high-bandwidth memory (HBM) for use in AI brushes off concern over rising price pressures in a sector that for decades has been treated like commodities such as oil or coal.  \"AI demand from the end user is pretty much, very firm and strong,\" said SK Hynix's Choi Joon-yong, the head of HBM business planning at SK Hynix.",
+      "published_utc": "2025-08-10T18:04:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=81f469f6eb89f422139fb14f6c2366d8d2558582b9b78e31ec1e0265094871a4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136292117,
+      "datetime": 1754863479
+    },
+    {
+      "title": "Trading Is Getting Too Risky, Invest Instead; Here Are My 4 Rules",
+      "description": "Current market exuberance and risky trading behavior remind me of the dot-com era. Check out four key rules to navigate volatile markets.",
+      "published_utc": "2025-08-10T17:52:57",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bf17fe3402652b2db7f382a6309459c2a7adcb1e82b82053bb642100dcf322b5",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1990350877/image_1990350877.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136290531,
+      "datetime": 1754862777
+    },
+    {
+      "title": "Alphabet: The Stock To Buy If You Want To Invest In Quantum Computing Supremacy",
+      "description": "",
+      "published_utc": "2025-08-10T16:49:05",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=599a64fd0e5ec5ebe03526a9851450d5fe078015beff079ca963b878df46c6c2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136290291,
+      "datetime": 1754858945
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:53:27.162413+00:00",
+    "cache_key": "news_30f6a5f354d58d9b69bc6c1e38730f68",
+    "count": 5
+  }
+}

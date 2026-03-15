@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+      "description": "November started with gains for both the Nasdaq and the S&P 500, but it was a down day for the Dow Jones Industrial Average, as AI stocks were leading the charge once again.",
+      "published_utc": "2025-11-03T14:07:01",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=dbe0c0714315ddeba60ce30f31a352bc1a7fbc018d2aa29daacd19a430716a68",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108180546-1754063406057-IMG_8884.jpg?v=1754063887&w=1920&h=1080",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137334738,
+      "datetime": 1762196821
+    },
+    {
+      "title": "Merck, Nike share losses contribute to Dow's 134-point drop",
+      "description": "Merck, Nike share losses contribute to Dow's 134-point drop",
+      "published_utc": "2025-11-03T07:15:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=50e52717399e0661f4ad325439568f2e2672512043daf8bc66b2a7134f27d978",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137317287,
+      "datetime": 1762172100
+    },
+    {
+      "title": "US Equity Investors to Focus on Earnings This Week as Government Shutdown Set to Become Longest in History",
+      "description": "US equity investors will focus on quarterly earnings this week, especially from companies that can b",
+      "published_utc": "2025-11-03T05:11:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a6060a7647e5784a6953c8094376c9c4d66d796b83acf8856638f2903e2216af",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137302204,
+      "datetime": 1762164681
+    },
+    {
+      "title": "McDonald’s Earnings, Tariff Update, Musk Pay Vote: What to Watch This Week",
+      "description": "Following President Trump's return from Asia, eyes are on whether an end to the government shutdown is in sight. Meanwhile, investors will dig into earnings from McDonald’s, Palantir and a host of other companies.",
+      "published_utc": "2025-11-03T02:42:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ff8d2f32b639a1e96b557372561eb0ebd65fbd9227ae0f2adb2141eb5941029f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137302131,
+      "datetime": 1762155774
+    },
+    {
+      "title": "November trading, Berkshire's cash hoard, Big Tech's ad revenue and more in Morning Squawk",
+      "description": "Here are five key things investors need to know to start the trading day.",
+      "published_utc": "2025-11-03T02:37:54",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=f292f2b81b09797bb4d4566afb40bbc0fe408e7c6c436b378aedbb3fae13deda",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108219418-1761837546035-gettyimages-2243611225-AFP_82J47WK.jpeg?v=1762131896&w=1920&h=1080",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137334100,
+      "datetime": 1762155474
+    }
+  ]
+}

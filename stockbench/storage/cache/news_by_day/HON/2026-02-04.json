@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "CNBC Daily Open: Alphabet capex plans spook investors, while AMD has a brutal day in markets",
+      "description": "Alphabet expects capital expenditure for 2026 to come in between $175 billion and $185 billion — at the higher end, capex will more than double from last year.",
+      "published_utc": "2026-02-04T15:13:15",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=78f85bd9a1e04e5fbf7dee466421881ca87ed9e9853b81e7d603503835a06bb6",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108261075-1770161242025-gettyimages-2259269004-ALPHABET_EARNS.jpeg?v=1770161334&w=1920&h=1080",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138365465,
+      "datetime": 1770235995
+    },
+    {
+      "title": "Jim Cramer on Solstice: “It’s a Fantastic Stock”",
+      "description": "Solstice Advanced Materials, Inc. (NASDAQ:SOLS) is one of the stocks Jim Cramer looked at recently. Answering a caller’s query about the stock, Cramer said: Solstice is terrific. It’s the spin-off of… Honeywell. It’s been just a horse. We own some. We were too quick to sell it. It’s a fantastic stock. Solstice Advanced Materials, Inc. […]",
+      "published_utc": "2026-02-04T14:36:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bb77d3df252a6e7d1de087366a63ea955ee19fceeee4f692840e15267fa175b2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138356700,
+      "datetime": 1770233797
+    },
+    {
+      "title": "Jim Cramer says the tech sell-off proves why this old investing rule still matters",
+      "description": "Tech is not the only investable part of the market, CNBC's Jim Cramer stressed Wednesday.",
+      "published_utc": "2026-02-04T13:27:33",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=1d546014ce60ada270e1a3bfe687a765f12ed3c25264793e497fd0af3b525d6d",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/107113455-NUP_198430_00728r.jpg?v=1697496177&w=1920&h=1080",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138365467,
+      "datetime": 1770229653
+    },
+    {
+      "title": "2 Top Dow Stocks to Buy Now for Calm in the Storm",
+      "description": "We look into two top Dow Stocks, Caterpillar and Honeywell, that might weather the market storm.",
+      "published_utc": "2026-02-04T09:00:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f345748a721573839fdb03ec9db6490159f772701a88a589d2bd34313ba4d01c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138355340,
+      "datetime": 1770213602
+    },
+    {
+      "title": "HONEYWELL ANNOUNCES PARTICIPATION AT UPCOMING INVESTOR CONFERENCES",
+      "description": "Honeywell (NASDAQ: HON) today announced its participation at upcoming investor conferences in February. Vimal Kapur, chairman and chief executive officer of Honeywell, will present at Barclays Industrial Select Conference in Miami, Florida, on Tuesday, February 17, 2026, from 8:40 a.m. - 9:10 a.m. EST.",
+      "published_utc": "2026-02-04T08:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3b765230f20b5f6495eff639f4addb3f968009d831dab9ca1e277f357c5c1108",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138352885,
+      "datetime": 1770210000
+    }
+  ]
+}

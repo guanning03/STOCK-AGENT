@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Family favorite restaurant chain closed over 1,000 locations",
+      "description": "When I was younger, maybe under age 10, my family frequently opted to drive for vacations or business trips. We might make the trek from the Boston area to Washington, D.C., or head up to other parts of New England at least twice a year. As a kid, those trips meant a lot of time to read, since ...",
+      "published_utc": "2025-12-02T12:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=769f9f07e238cbec6c041d0ebe15211aae882de89eb0d353d4493b534490f8d3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137672780,
+      "datetime": 1764696780
+    },
+    {
+      "title": "Burger King doubles down on burgers amid chicken craze",
+      "description": "Beverages will also become a more important focus for the chain in 2026",
+      "published_utc": "2025-12-02T11:54:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dc52ccf37b109d586f7d2707d1a567663fcbc7b8c6da48bb3fffce1d862bd09a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137667772,
+      "datetime": 1764694449
+    }
+  ]
+}

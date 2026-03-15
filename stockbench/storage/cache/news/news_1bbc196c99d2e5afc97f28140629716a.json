@@ -1,0 +1,90 @@
+{
+  "items": [
+    {
+      "id": "2d04cb59476c64333a3d13d8fc80bc61c32e971a63e28c1a82797051bd38da61",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "$INDX Token Pre-Sale Kicks Off as CryptoIndex.com Paves the Way for Decentralized Indexing",
+      "author": "N/A",
+      "published_utc": "2025-01-07T03:06:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/07/3005066/0/en/INDX-Token-Pre-Sale-Kicks-Off-as-CryptoIndex-com-Paves-the-Way-for-Decentralized-Indexing.html",
+      "tickers": [
+        "V"
+      ],
+      "image_url": "https://www.globenewswire.com/news-release/2025/01/07/3005066/0/en/INDX-Token-Pre-Sale-Kicks-Off-as-CryptoIndex-com-Paves-the-Way-for-Decentralized-Indexing.html",
+      "description": "CryptoIndex.com, a new decentralized index protocol, aims to democratize access to the cryptocurrency market and empower users with tools to manage, create, and invest in crypto indexes. The platform offers a range of features, including user-customizable portfolios, sector-specific indexes, and a voting system for index holders.",
+      "keywords": [
+        "CryptoIndex.com",
+        "decentralized index protocol",
+        "cryptocurrency market",
+        "crypto indexes"
+      ],
+      "insights": [
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that CryptoIndex.com is driven by an expert team from Visa, among other companies, which suggests that the platform has attracted talent from established and reputable organizations in the financial and technology sectors."
+        }
+      ]
+    },
+    {
+      "id": "6983a57c59c470b18858842c6b7e5f47ef838b14f5c33f9048f1ff254fd8d386",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Bragar Eagel & Squire, P.C. Reminds Investors That Class Action Lawsuits Have Been Filed Against Wolfspeed, Xerox, Visa, and Zeta and Encourages Investors to Contact the Firm",
+      "author": "N/A",
+      "published_utc": "2025-01-07T02:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/07/3005057/0/en/Bragar-Eagel-Squire-P-C-Reminds-Investors-That-Class-Action-Lawsuits-Have-Been-Filed-Against-Wolfspeed-Xerox-Visa-and-Zeta-and-Encourages-Investors-to-Contact-the-Firm.html",
+      "tickers": [
+        "WOLF",
+        "XRX",
+        "V",
+        "ZETA"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/29481954-f2ff-4756-b5a9-d982a6497bd0",
+      "description": "Bragar Eagel & Squire, P.C. has filed class action lawsuits against Wolfspeed, Xerox, Visa, and Zeta Global Holdings, alleging various financial and operational issues at these companies.",
+      "keywords": [
+        "Wolfspeed",
+        "Xerox",
+        "Visa",
+        "Zeta Global Holdings",
+        "class action lawsuit"
+      ],
+      "insights": [
+        {
+          "ticker": "WOLF",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The lawsuit alleges that Wolfspeed provided misleading revenue projections and failed to meet expectations due to slower-than-anticipated demand ramp-up."
+        },
+        {
+          "ticker": "XRX",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The lawsuit alleges that Xerox failed to disclose issues with its salesforce productivity and product launch delays, leading to lower sales and revenue."
+        },
+        {
+          "ticker": "V",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The lawsuit alleges that Visa was not in compliance with federal antitrust laws and did not have effective internal programs to assess and control compliance."
+        },
+        {
+          "ticker": "ZETA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The lawsuit alleges that Zeta used two-way contracts and predatory consent farms to artificially inflate its financial results, undermining the integrity of its data collection and reported financials."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:22:34.133236+00:00",
+    "cache_key": "news_1bbc196c99d2e5afc97f28140629716a",
+    "count": 2
+  }
+}

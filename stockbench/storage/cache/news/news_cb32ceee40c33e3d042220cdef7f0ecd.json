@@ -1,0 +1,130 @@
+{
+  "items": [
+    {
+      "title": "Every payment method Costco accepts: From EBT to Apple Pay",
+      "description": "Costco is America’s favorite warehouse club, boasting almost twice as many members as its next-biggest rival, Sam’s Club, despite its more expensive membership fees. Another important distinction between the retailers is the payment methods each one accepts. For instance, while you can use any ...",
+      "published_utc": "2025-11-08T10:08:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d3a884471779b85d177a35404dab1bfdcb3f86d0caa5d3c412b884f17354e502",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137384472,
+      "datetime": 1762614480
+    },
+    {
+      "title": "As Warren Buffett Waves Goodbye – 5 Dividend Stocks That Never Leave Berkshire Hathaway",
+      "description": "If any investor has stood the test of time, it’s Warren Buffett, and with good reason. For years, the “Oracle of Omaha” has had a rock star-like presence in the investing world, and his annual Berkshire Hathaway shareholders meeting draws thousands of loyal fans who are investors. They were stunned at this year’s meeting when ... As Warren Buffett Waves Goodbye – 5 Dividend Stocks That Never Leave Berkshire Hathaway",
+      "published_utc": "2025-11-08T08:31:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1be91272a78d3ba520b92ed58d7b33f09e8308e881a575223ea22b7c0b776eb9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137384473,
+      "datetime": 1762608666
+    },
+    {
+      "title": "1 Warren Buffett Stock to Buy Hand Over Fist in November",
+      "description": "The holiday season is coming, and this stock is poised for success.",
+      "published_utc": "2025-11-08T07:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cf8b2d801060b1e0d3688c5cb5982483e9f94298320bdbd3813d1e359b4ef2f0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137378384,
+      "datetime": 1762603800
+    },
+    {
+      "title": "Don't want to pay $895 for the Amex Platinum? Here are 10+ low-cost alternatives",
+      "description": "No single card can replace everything the Amex Platinum offers, but do you really need all of its benefits?",
+      "published_utc": "2025-11-08T03:10:01",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=9dab0660ae49ebb34cb38d5c453ff6f6e352847ef02c7acb09eedc826949c2fe",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108218926-1761766605739-gettyimages-1474166577-6a7a5559.jpeg?v=1761766637&w=1920&h=1080",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137379743,
+      "datetime": 1762589401
+    },
+    {
+      "id": "e682cb2625b74427c9469ed43fd7487042c0287da89386e0021c249de53934ca",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Warren Buffett Sends a $382 Billion Warning to Wall Street. Are You Paying Attention?",
+      "author": "Jennifer Saibil",
+      "published_utc": "2025-11-08T23:05:00Z",
+      "article_url": "https://www.fool.com/investing/2025/11/08/warren-buffett-sends-a-382-billion-warning-to-wall/?source=iedfolrf0000001",
+      "tickers": [
+        "BRK.A",
+        "BRK.B",
+        "UNH",
+        "AAPL",
+        "KO",
+        "AXP"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/841225/warren-buffett.jpg",
+      "description": "Warren Buffett is accumulating record cash reserves of $382 billion, signaling caution in the current market. He suggests investors be selective, prepared for volatility, and ready to capitalize on rare investment opportunities.",
+      "keywords": [
+        "cash reserves",
+        "investment strategy",
+        "market caution",
+        "stock opportunities"
+      ],
+      "insights": [
+        {
+          "ticker": "BRK.A",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Accumulating cash indicates market uncertainty but not pessimism about long-term investing"
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Accumulating cash indicates market uncertainty but not pessimism about long-term investing"
+        },
+        {
+          "ticker": "UNH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Buffett invested when its price-to-earnings ratio fell below 10, indicating an attractive buying opportunity"
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Partially sold position but still considered a long-term holding"
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "One of three stocks Buffett claims he would never sell"
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Another stock Buffett claims he would never sell"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:39:03.740699+00:00",
+    "cache_key": "news_cb32ceee40c33e3d042220cdef7f0ecd",
+    "count": 5
+  }
+}

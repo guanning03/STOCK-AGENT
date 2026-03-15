@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "title": "NewsMax, Trump & DJT, Visa's offer to Apple: Trending Tickers",
+      "description": "Madison Mills, joined by Tematica Research chief investment officer Chris Versace, examines some of the top trending tickers on Yahoo Finance's platform. NewsMax (NMAX) stock pulled back from its post–initial public offering (IPO) skyrocket. Trump Media & Technology Group (DJT) is in focus after Truth Social filed papers with the SEC that could allow US President Donald Trump to sell his stake worth $2.3 billion at Tuesday's close. Visa (V) reportedly offers Apple (AAPL) $100 million to switch its credit card to the Visa network, according to reports from the Wall Street Journal. To watch more expert insights and analysis on the latest market action, check out more Catalysts here.",
+      "published_utc": "2025-04-02T10:49:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1e6e09be9b785c0fb9174215ecd79160587f7b1d566dcc4c5d4c3ce88124313f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133669213,
+      "datetime": 1743605372
+    },
+    {
+      "title": "Visa Offers Apple Millions to Get Credit Card Network Ops, Report Says",
+      "description": "Visa has reportedly offered Apple around $100 million in a bid to replace Mastercard as the provider of the Cupertino-based tech firm's payments network.",
+      "published_utc": "2025-04-02T09:27:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6841fb6b6840ac2febeeaa6d75aa7464e621caeed1d93797f2de6a4dcdf955ec",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133669216,
+      "datetime": 1743600426
+    },
+    {
+      "title": "How Apple Gets a Lift From Visa’s $100M Credit Card Offer",
+      "description": "How Apple Gets a Lift From Visa’s $100M Credit Card Offer",
+      "published_utc": "2025-04-02T06:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=eaed33f4fc39256dfa1167493c18660e13545ffbec55146c9716113eb368332e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134146539,
+      "datetime": 1743589920
+    },
+    {
       "title": "Visa Inc. (V): The Best Financial Stock Billionaires Are Investing In",
       "description": "We recently published a list of 10 Best Financial Stocks to Buy According to Billionaires. In this article, we are going to take a look at where Visa Inc. (NYSE:V) stands against other best financial stocks to invest in. Financial stocks had a great run in 2024, jumping over 30% by mid-December and outpacing the […]",
       "published_utc": "2025-04-02T06:15:05",
@@ -14,6 +59,21 @@
       "api_source": "finnhub_company",
       "id": 133658158,
       "datetime": 1743545705
+    },
+    {
+      "title": "Market Chatter: Visa Offers $100 Million to Replace Mastercard on Apple Card",
+      "description": "Visa (V) has proposed $100 million to Apple (AAPL) in a move to take over network operations on the",
+      "published_utc": "2025-04-02T06:12:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a4bba5317a44579b1f1576ccf1f8d09984cc42c6acb8e37b8992a228f544f173",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133666016,
+      "datetime": 1743588767
     },
     {
       "title": "Visa (V) Stock Drops Despite Market Gains: Important Facts to Note",
@@ -44,6 +104,21 @@
       "api_source": "finnhub_company",
       "id": 133658052,
       "datetime": 1743536760
+    },
+    {
+      "title": "Apple Stock Falls. Why Visa’s Credit Card Move Is a Boost for the Tech Giant.",
+      "description": "Apple Stock Falls. Why Visa’s Credit Card Move Is a Boost for the Tech Giant.",
+      "published_utc": "2025-04-02T02:55:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=2428627d0c41a51023de1b1051484fd554db57cc96244b4fd0bb7a1737afcbb6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133666388,
+      "datetime": 1743576900
     }
   ]
 }

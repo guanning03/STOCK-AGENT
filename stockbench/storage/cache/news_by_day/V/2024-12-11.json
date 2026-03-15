@@ -1,0 +1,105 @@
+{
+  "items": [
+    {
+      "id": "6f223a0f2c4f5930207bca1b1a5196ef34d59f1872f8768dcee531a9466f29e5",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Here's My Favorite Warren Buffett Stock Heading Into 2025 and Beyond",
+      "author": "Stefon Walters",
+      "published_utc": "2024-12-11T10:30:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/11/heres-my-favorite-warren-buffett-stock-heading-int/?source=iedfolrf0000001",
+      "tickers": [
+        "V",
+        "BRK.A",
+        "BRK.B",
+        "MA",
+        "AXP",
+        "DFS"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/796487/pay-credit-card-restaurant-dining-digital-payment.jpg",
+      "description": "Visa is a top stock in Berkshire Hathaway's portfolio due to its competitive advantage, strong margins, and network effect that drives organic growth. While the stock is not cheap, the author believes it is a long-term staple in their portfolio.",
+      "keywords": [
+        "Visa",
+        "Berkshire Hathaway",
+        "Mastercard",
+        "American Express",
+        "Discover Financial Services"
+      ],
+      "insights": [
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Visa's strong financial performance, industry-leading margins, and dominant market position as reasons for the positive sentiment. The author believes Visa is a long-term investment opportunity."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article discusses Visa as a stock in Berkshire Hathaway's portfolio, indicating the author's belief in Berkshire Hathaway's investment decisions and the company's success."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article discusses Visa as a stock in Berkshire Hathaway's portfolio, indicating the author's belief in Berkshire Hathaway's investment decisions and the company's success."
+        },
+        {
+          "ticker": "MA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares Visa's valuation to Mastercard's, but does not provide a strong opinion on Mastercard itself."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions American Express as an advertising partner of Motley Fool Money, but does not discuss the company in detail."
+        },
+        {
+          "ticker": "DFS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Discover Financial Services as an advertising partner of Motley Fool Money, but does not provide any analysis or opinion on the company."
+        }
+      ]
+    },
+    {
+      "id": "11b240e0925472535d4bb1aba4beb603b2f361e78164d98f16a7c474f82954f0",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "FxPro Group Announces the Launch of BankPro: A Private Digital Banking Solution",
+      "author": "N/A",
+      "published_utc": "2024-12-11T07:35:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2024/12/11/2995095/0/en/FxPro-Group-Announces-the-Launch-of-BankPro-A-Private-Digital-Banking-Solution.html",
+      "tickers": [
+        "V",
+        "NDAQ"
+      ],
+      "image_url": "https://www.globenewswire.com/news-release/2024/12/11/2995095/0/en/FxPro-Group-Announces-the-Launch-of-BankPro-A-Private-Digital-Banking-Solution.html",
+      "description": "FxPro Group, a global leader in financial services, has launched BankPro, a private digital bank offering multi-currency accounts, Visa Platinum cards, and integrated investment and trading capabilities. BankPro is regulated by the Central Bank of The Bahamas and aims to redefine digital financial solutions for individuals and corporations.",
+      "keywords": [
+        "FxPro Group",
+        "BankPro",
+        "private digital bank",
+        "multi-currency accounts",
+        "Visa Platinum cards",
+        "investment and trading"
+      ],
+      "insights": [
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that BankPro offers exclusive Visa Platinum cards, which suggests a positive sentiment towards Visa as a partner in the digital banking solution."
+        },
+        {
+          "ticker": "NDAQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Similar to NYSE, the article mentions Nasdaq as one of the major exchanges available for investment through BankPro, suggesting a neutral sentiment."
+        }
+      ]
+    }
+  ]
+}

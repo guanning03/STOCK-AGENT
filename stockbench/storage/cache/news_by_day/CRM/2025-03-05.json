@@ -1,6 +1,44 @@
 {
   "items": [
     {
+      "id": "82a5ad86adf53815775ac3a5cc8ad11a54d0fb7c2b957b941291a74e1715fdf4",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Varonis Announces Varonis for Agentforce to Enable Safe AI Rollouts",
+      "author": "Varonis Systems, Inc.",
+      "published_utc": "2025-03-05T14:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/03/05/3037444/33473/en/Varonis-Announces-Varonis-for-Agentforce-to-Enable-Safe-AI-Rollouts.html",
+      "tickers": [
+        "VRNS",
+        "CRM"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/7e0eb00a-e71c-4c69-a420-648bee4b8efd",
+      "description": "Varonis announced the launch of Varonis for Agentforce, which provides IT and security teams with visibility into the agentic AI layer of the Salesforce platform. This allows organizations to monitor AI agents and their access to enterprise data, helping to identify and mitigate potential security risks.",
+      "keywords": [
+        "Varonis",
+        "Agentforce",
+        "Salesforce",
+        "AI security",
+        "data security"
+      ],
+      "insights": [
+        {
+          "ticker": "VRNS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Varonis' new product offering, Varonis for Agentforce, which expands the company's security capabilities and provides critical visibility into the agentic AI layer. This suggests Varonis is proactively addressing emerging security challenges posed by the increasing use of AI in business operations."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Salesforce's Agentforce platform is mentioned as the focus of Varonis' new security solution, indicating Varonis is expanding its security offerings to cover the Salesforce ecosystem. The article does not provide any specific commentary on Salesforce's performance or outlook."
+        }
+      ]
+    },
+    {
       "title": "Salesforce, Inc. (CRM) Presents at Morgan Stanley Technology, Media & Telecom Conference (Transcript)",
       "description": "",
       "published_utc": "2025-03-05T02:26:34",

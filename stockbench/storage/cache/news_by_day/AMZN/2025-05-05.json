@@ -1,6 +1,81 @@
 {
   "items": [
     {
+      "title": "Meta, Microsoft, Alphabet, and Amazon Just Delivered Incredible News for Nvidia Stock Investors",
+      "description": "Nvidia sells the most powerful data center chips for developing artificial intelligence (AI) models.  Concerns have swirled about declining demand for these chips as President Trump's tariffs sow uncertainty throughout the economy.  Like much of the stock market, Nvidia (NASDAQ: NVDA) has experienced significant volatility in 2025.",
+      "published_utc": "2025-05-05T18:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=92fa37844ea7e1d8d337c8de8871888687c8b109e97f0b855578f17fa2c0975d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134266117,
+      "datetime": 1746482700
+    },
+    {
+      "title": "AMZN Q1 Earnings Call: Cloud, Retail, and AI Initiatives Highlight Mixed Segment Results",
+      "description": "Cloud computing and online retail behemoth Amazon (NASDAQ:AMZN) met Wall Street’s revenue expectations in Q1 CY2025, with sales up 8.6% year on year to $155.7 billion. The company expects next quarter’s revenue to be around $161.5 billion, close to analysts’ estimates. Its non-GAAP profit of $1.59 per share was 16.2% above analysts’ consensus estimates.",
+      "published_utc": "2025-05-05T18:02:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fd53922550b85cee17c055408f921bcb3cd1ab509fac7327b0f0499521ef5140",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134266118,
+      "datetime": 1746482525
+    },
+    {
+      "title": "Buy, Sell, or Hold These Mag 7 Stocks After Earnings: AAPL, AMZN",
+      "description": "Markets haven't kept the momentum investors were hoping for after receiving much-anticipated quarterly results from Amazon (AMZN) and Apple (AAPL) last Thursday.",
+      "published_utc": "2025-05-05T16:18:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4829ee2005411ef6711755100de11e3dbff1654bdbdfb07b72ed68c9c142c04b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134266077,
+      "datetime": 1746476280
+    },
+    {
+      "title": "Jim Cramer Warns Amazon.com (AMZN) Faces “Hair on the Story” Despite “One of the World’s Best Companies”",
+      "description": "We recently published a list of Jim Cramer Says Big Tech is Back And Deep Dives Into These 8 Stocks. In this article, we are going to take a look at where Amazon.com Inc. (NASDAQ:AMZN) stands against other stocks that Jim Cramer discussed. During the latest episode of Mad Money, which aired on the 1st of […]",
+      "published_utc": "2025-05-05T16:08:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3c1cc3aeb9cd6df7a6a4816fd3251b792449e9dea43298e34e95f58f4e931fbc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134266120,
+      "datetime": 1746475736
+    },
+    {
+      "title": "Disney Q2 Earnings Preview: Growth Opportunity Or Growth Trap?",
+      "description": "Disney's Q2 2025 earnings focus on ESPN's new D2C service, aiming to offset cable TV decline and enhance Disney+ appeal. Click here to read why DIS stock is a Hold.",
+      "published_utc": "2025-05-05T14:38:51",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a1e028c751c114ccda215c381021fe9dca6b4eea13e6ee7e23d0acc21f385cd8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1387946646/image_1387946646.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134251682,
+      "datetime": 1746470331
+    },
+    {
       "title": "Amazon.com Inc. (AMZN): Among Billionaire Chase Coleman’s Stocks with Huge Upside Potential",
       "description": "We recently published a list of Billionaire Chase Coleman’s 10 Stocks with Huge Upside Potential. In this article, we are going to take a look at where Amazon.com Inc. (NASDAQ:AMZN) stands against other Billionaire Chase Coleman’s stocks with huge upside potential. Equity markets achieved an unprecedented winning streak over the past two years at the […]",
       "published_utc": "2025-05-05T05:12:05",

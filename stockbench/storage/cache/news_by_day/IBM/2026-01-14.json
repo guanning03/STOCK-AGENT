@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "‘Sickening and greedy’: California millionaire slams Larry Page and Sergey Brin for cutting ties with the state to avoid wealth tax",
+      "description": "As billionaires flee the state to avoid the proposed wealth tax, other high earners support the one-time tax.",
+      "published_utc": "2026-01-14T12:16:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5c6bd55accab4d14af04ba7be7d40b2cc93903709c3a6b8665ff8bd19af86654",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138115445,
+      "datetime": 1768410968
+    },
+    {
+      "title": "Cerebras scores OpenAI deal worth over $10 billion ahead of AI chipmaker's IPO",
+      "description": "The deal will help diversify Cerebras away from the United Arab Emirates G42, which accounted for 87% of revenue in the first half of 2024.",
+      "published_utc": "2026-01-14T10:19:31",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=2633b863c799fbb260232445d34fb43761d90b7f5bdb031e9f12be37444bd2c5",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108251873-1768328756027-gettyimages-2223516653-FRANCE_RAISE_SUMMIT.jpeg?v=1768330004&w=1920&h=1080",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138153320,
+      "datetime": 1768403971
+    },
+    {
+      "title": "ASML's Installed Base Management Business Picks Up: What's Driving it?",
+      "description": "ASML Holding's IBM business is gaining momentum in 2025, driven by system upgrades, expanding EUV adoption, and rising service revenues.",
+      "published_utc": "2026-01-14T10:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=29ddbb59bd16caeb7ebd45e17d891aa50b1b910c0214bb3ffaa8eaaf72c84951",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138113190,
+      "datetime": 1768403400
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights NVIDIA, Lockheed Martin, IBM, Microsoft and Palantir",
+      "description": "NVIDIA anchors a 2026 investment thesis built on AI infrastructure, defense spending and quantum priorities reshaping global tech markets.",
+      "published_utc": "2026-01-14T10:09:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f3a8c8f935f0f509f0c20602a11c416b5919ea6e583f7e1c60ab11663bbef956",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138113048,
+      "datetime": 1768403340
+    },
+    {
+      "title": "OpenAI Forges Multibillion-Dollar Computing Partnership With Cerebras",
+      "description": "OpenAI Forges Multibillion-Dollar Computing Partnership With Cerebras",
+      "published_utc": "2026-01-14T09:59:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=2ff61d6a900c8137a33b9cc782500cddbf24d051d7a96ab7e0b3ad11e3dbe0b4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138207392,
+      "datetime": 1768402740
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Arch Capital Q3 Earnings Beat, Revenues Miss Estimates",
+      "description": "Arch Capital's strong underwriting and investment gains drive Q3 earnings beat, even as revenues narrowly miss estimates.",
+      "published_utc": "2025-10-28T13:29:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c0d601aa7f4b7587382c0c13a24f0cc6246c549c28492b9b88041d8e1e26282d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137243742,
+      "datetime": 1761672540
+    },
+    {
+      "title": "Cincinnati Financial Q3 Earnings and Revenues Top, Premiums Rise Y/Y",
+      "description": "Cincinnati Financial's Q3 profit doubles as strong premium growth, pricing gains and higher investment income lift results.",
+      "published_utc": "2025-10-28T13:26:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=148be8cc9b7acf276f047fdb5733f251dbe56305603068e03b1ba83704fc6c7d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137243743,
+      "datetime": 1761672360
+    },
+    {
+      "title": "Brown & Brown Q3 Earnings & Revenues Beat Estimates, Dividend Raised",
+      "description": "BRO's Q3 results reflect increased organic revenues, higher commission and fees, and expanded EBITDAC margin, offset by higher expenses.",
+      "published_utc": "2025-10-28T10:47:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=150649e8fde7e23d07ac4227866e3c88129bd43c8003bd8f3e5a051f163c4056",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137243797,
+      "datetime": 1761662820
+    },
+    {
+      "title": "Principal Financial Q3 Earnings & Revenues Lag Estimates, Dividend Up",
+      "description": "PFG's Q3 results reflect solid performance across most of the segments, offset by higher expenses.",
+      "published_utc": "2025-10-28T10:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=da5e52123e6831781aa8e0f3c82d612afdd17e85985621f9084473822d06f600",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137243798,
+      "datetime": 1761661800
+    },
+    {
+      "title": "How drivers over 55 can save more than $300 a year on car insurance",
+      "description": "A defensive driving course can save older drivers up to 15% on their premiums",
+      "published_utc": "2025-10-28T02:01:01",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=760b5c03c04f980d84d31c1fd43499a884a9f10ac7f6e037bd1239ed49342c2b",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/106792572-1605123701875-gettyimages-738775873-bld245573.jpeg?v=1761336548&w=1920&h=1080",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139213397,
+      "datetime": 1761631261
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:07:25.071704+00:00",
+    "cache_key": "news_bd480a605088dadd82c2abd50202dadd",
+    "count": 5
+  }
+}

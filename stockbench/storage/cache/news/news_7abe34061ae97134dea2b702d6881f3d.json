@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Double Top QQQ Euphoria Is Likely Ending",
+      "description": "Stock market insights: Double top patterns, QQQ risks, and choppy trends may signal a bear market. Read here for insights on the market.",
+      "published_utc": "2025-08-04T19:44:33",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c1f5158cd2411f2e8894b60aec6e0c9054ac607bee26317f009717b9eee54b24",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/173799300/image_173799300.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136204904,
+      "datetime": 1754351073
+    },
+    {
+      "title": "OpenAI's User Base Soars as GPT-5 Approaches",
+      "description": "700 million weekly active users and $13 billion ARR fuel momentum",
+      "published_utc": "2025-08-04T18:21:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8c3af14271182492f491b8755ae997404bfad27e4d0e9b099654f7da08b2a3d5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136205614,
+      "datetime": 1754346074
+    },
+    {
+      "title": "Microsoft Stock Soars on the Back of AI. Can the Momentum Continue or Is It Too Late to Buy the Stock?",
+      "description": "The tech giant turned in a speculator quarter to end its fiscal year.",
+      "published_utc": "2025-08-04T18:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=617f702082b716549284ad51769f4a002c3520ac6bbd816565e8237651408c14",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136205615,
+      "datetime": 1754345700
+    },
+    {
+      "title": "Palantir (NASDAQ:PLTR) Beats Expectations in Strong Q2, Guides for Strong Full-Year Sales",
+      "description": "Data-mining and analytics company Palantir (NYSE:PLTR) reported revenue ahead of Wall Street’s expectations in Q2 CY2025, with sales up 48% year on year to $1.00 billion. On top of that, next quarter’s revenue guidance ($1.09 billion at the midpoint) was surprisingly good and 10.5% above what analysts were expecting. Its non-GAAP profit of $0.16 per share was 15.6% above analysts’ consensus estimates.",
+      "published_utc": "2025-08-04T16:23:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4623189493f56819cc27844f4ebf6e12284c3eda7e3cef62a45b45746359c8a1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136205618,
+      "datetime": 1754339000
+    },
+    {
+      "title": "LINK Rebounds 4% as Chainlink Roll Outs Data Streams for U.S. Equities and ETFs",
+      "description": "Chainlink's new product aims to support the next wave of tokenized real-world assets.",
+      "published_utc": "2025-08-04T16:16:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=18cc625d0f5fa95a50d138749e1f03963faa0d218323f6bb3cd02ecb2b9d2cac",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136205619,
+      "datetime": 1754338577
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:35:07.881156+00:00",
+    "cache_key": "news_7abe34061ae97134dea2b702d6881f3d",
+    "count": 5
+  }
+}

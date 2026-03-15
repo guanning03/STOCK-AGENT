@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "2 Growth Stocks With Sky-High Potential to Hold for Decades",
+      "description": "These are two dominant companies with long runways and powerful flywheels.",
+      "published_utc": "2025-08-24T19:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5099de615118b5f27c22fe7d385af1ba5ffbccbf7c1ea9d11651b1a7e91021a3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136507796,
+      "datetime": 1756077600
+    },
+    {
+      "title": "Prediction: All \"Ten Titans\" Stocks Will Surpass $1 Trillion in Market Cap by 2030",
+      "description": "The Ten Titans already make up 38% of the S&P 500, but their share could grow if companies keep delivering on investor expectations.",
+      "published_utc": "2025-08-24T19:12:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=21506a32bd26bd2e8cb299d0693e1834738da72b97c33b4ccc8a045bbd406e21",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136507773,
+      "datetime": 1756077120
+    },
+    {
+      "title": "5 No-Brainer Warren Buffett Stocks to Buy Right Now -- Including Amazon.com",
+      "description": "For many years, Berkshire didn't include many technology stocks. That's changed.",
+      "published_utc": "2025-08-24T12:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3aed83c42f443bc6bfc8229c24f3c54a8acb303b8776fcd8cdff477e51775659",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136502587,
+      "datetime": 1756052100
+    },
+    {
+      "title": "The \"Ten Titans\" Stocks Now Make Up 38% of the S&P 500. Here's What It Means for Your Investment Portfolio",
+      "description": "Massive growth stocks are driving the performance of the S&P 500, for better or for worse.",
+      "published_utc": "2025-08-24T11:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0beed2ea303bafdbcdee6489b172454ab0df5c2c868733b172d80693a4b795d7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136502531,
+      "datetime": 1756047600
+    },
+    {
+      "title": "The Best Growth Stocks I'd Buy Right Now",
+      "description": "These three companies are poised to reward investors with growth.",
+      "published_utc": "2025-08-24T09:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=84032bc4ada4c1ddc2c21e227eb4b2dc43d5b08f90460bb243ee63c95b6028ed",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136502589,
+      "datetime": 1756043100
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:42:33.373156+00:00",
+    "cache_key": "news_db8a767f28d7ef2bcba0ca106450e733",
+    "count": 5
+  }
+}

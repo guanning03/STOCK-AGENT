@@ -1,0 +1,90 @@
+{
+  "items": [
+    {
+      "id": "95ad6322d697804e624a9cf413cc41695f20a49f7c08e1bc9e692697ce1587c4",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Gap Stock a Buy After Investment Firm Monte Financial Doubled Its Stake?",
+      "author": "Robert Izquierdo",
+      "published_utc": "2025-11-02T05:12:11Z",
+      "article_url": "https://www.fool.com/coverage/filings/2025/11/02/is-gap-stock-a-buy-after-investment-firm-monte-financial-doubled-its-stake/?source=iedfolrf0000001",
+      "tickers": [
+        "GAP",
+        "WFC",
+        "WFCpA",
+        "WFCpC",
+        "WFCpD",
+        "WFCpL",
+        "WFCpY",
+        "WFCpZ",
+        "HD",
+        "RTX"
+      ],
+      "image_url": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/1b7a77e5f37d030a943148cfdd5f087a3fe367b9-1200x800.png?w=1200&h=800",
+      "description": "Monte Financial Group increased its stake in Gap by acquiring 119,749 additional shares, bringing its total position to 238,643 shares valued at $5.1 million. Despite flat sales, Gap showed improved net income and expects modest sales growth in fiscal 2025.",
+      "keywords": [
+        "Gap",
+        "retail",
+        "stock investment",
+        "Monte Financial Group",
+        "earnings"
+      ],
+      "insights": [
+        {
+          "ticker": "GAP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Flat sales in Q2, but improved net income and reasonable stock valuation suggest potential for modest growth"
+        },
+        {
+          "ticker": "WFC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as top holding in Monte Financial Group's portfolio with no specific performance details"
+        },
+        {
+          "ticker": "WFCpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as top holding in Monte Financial Group's portfolio with no specific performance details"
+        },
+        {
+          "ticker": "WFCpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as top holding in Monte Financial Group's portfolio with no specific performance details"
+        },
+        {
+          "ticker": "WFCpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as top holding in Monte Financial Group's portfolio with no specific performance details"
+        },
+        {
+          "ticker": "WFCpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as top holding in Monte Financial Group's portfolio with no specific performance details"
+        },
+        {
+          "ticker": "WFCpY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as top holding in Monte Financial Group's portfolio with no specific performance details"
+        },
+        {
+          "ticker": "WFCpZ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as top holding in Monte Financial Group's portfolio with no specific performance details"
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed as a top holding with no specific performance commentary"
+        },
+        {
+          "ticker": "RTX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed as a top holding with no specific performance details"
+        }
+      ]
+    }
+  ]
+}

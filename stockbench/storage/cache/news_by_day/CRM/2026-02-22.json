@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip as fallout from Trump's tariff reversal unsettles market",
+      "description": "Wall Street has been buffeted by the winds of Trump's tariffs over the weekend. A SCOTUS ruling was quickly refuted by the president in a fast-developing situation.",
+      "published_utc": "2026-02-22T18:44:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=49a3997d06fc584727b2572a2420687076e8a35c024fdab509e168eb841de5ca",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139183036,
+      "datetime": 1771803893
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures slide amid Trump tariff fallout, with Iran-US talks on deck",
+      "description": "Wall Street has been buffeted by the winds of Trump's tariffs over the weekend. A SCOTUS ruling was quickly refuted by the president in a fast-developing situation.",
+      "published_utc": "2026-02-22T18:44:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0cefa8cfea114346193c9642f5353713e9669b00bab2e9d9f56f393acb5634c3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139182322,
+      "datetime": 1771803893
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip amid Trump tariff fallout, with Iran-US talks on deck",
+      "description": "Wall Street has been buffeted by the winds of Trump's tariffs over the weekend. A SCOTUS ruling was quickly refuted by the president in a fast-developing situation.",
+      "published_utc": "2026-02-22T18:44:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c33344c5acc79b7c8f8ce6828a6b00f6601577edff141b3e29fa21634f61e33d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139179304,
+      "datetime": 1771803893
+    },
+    {
+      "title": "U.S. launches Peace Corps-backed ‘Tech Corps’ to help export AI, counter China",
+      "description": "As part of efforts to spread its global AI footprint and counter China, Washington has announced a new \"tech corps.\"",
+      "published_utc": "2026-02-22T16:43:25",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=0c7fe8fbd8663ce857bbfbbab74f751e15403bfa10d6f03a7ace6cbbcc2e7916",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108268257-1771804894736-gettyimages-2149387005-earth-network03.jpeg?v=1771827373&w=1920&h=1080",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139185778,
+      "datetime": 1771796605
+    },
+    {
+      "title": "Nvidia, Warner Bros., Berkshire Hathaway, Home Depot, and More Stocks to Watch This Week",
+      "description": "FEATURE  The and indexes both snapped multi-week losing streaks last week, rising 1.5% and 1.1%, respectively. The big news was Friday’s Supreme Court ruling striking down some of President Donald Trump’s tariffs.",
+      "published_utc": "2026-02-22T14:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5cb18a134e9be0458a73114bfacb049e2ba3aa9b97815f1d53eb5f3924b5c51d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139178504,
+      "datetime": 1771786800
+    }
+  ]
+}

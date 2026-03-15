@@ -1,0 +1,106 @@
+{
+  "items": [
+    {
+      "title": "Assessing the Valuation of American Express (AXP) Following Recent Share Price Gains",
+      "description": "American Express (AXP) shares inched up recently, as investors continue to assess the company’s performance and market trends. The stock has posted steady gains, climbing 17% over the past month and 24% in the past 3 months. See our latest analysis for American Express. American Express's share price has seen a strong run lately, with momentum clearly building after recent gains. The stock boasts a 23.5% year-to-date return, and its 1-year total shareholder return stands at an impressive...",
+      "published_utc": "2025-11-09T13:09:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e024bc372942024dae0f346cb7b6bd61954c1c9f3b9c8d575261d76611633cdc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137392560,
+      "datetime": 1762711769
+    },
+    {
+      "title": "Executives are starting to talk about the shutdown more on earnings calls — and some are sounding more concerned",
+      "description": "Executives are starting to talk about the shutdown more on earnings calls — and some are sounding more concerned",
+      "published_utc": "2025-11-09T05:00:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=c4879fe126567202e9de84a5dbf22728ead04bf6812a117d6940d28ee0f460c0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137456410,
+      "datetime": 1762682400
+    },
+    {
+      "title": "Best cards for earning crypto: Earn Bitcoin, Ethereum or dozens of other cryptocurrencies with these cards",
+      "description": "These cards can help you earn Bitcoin, Ethereum or dozens of other cryptocurrencies through everyday spending.",
+      "published_utc": "2025-11-09T04:20:01",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=665d1749e0bb1819eeeca8da38074ad58fa080e74fc1f140a9ef458247d5a9cf",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108218930-1761766984754-gettyimages-1368105582-601a0846.jpeg?v=1761766991&w=1920&h=1080",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137387123,
+      "datetime": 1762680001
+    },
+    {
+      "id": "a104e00cbf398fb375437b6720cde4fbd73132ee8db77e783158eeb9464119ff",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Prediction: XRP (Ripple) Will Surge Past This Price by 2029",
+      "author": "Adam Levy",
+      "published_utc": "2025-11-09T13:05:00Z",
+      "article_url": "https://www.fool.com/investing/2025/11/09/prediction-xrp-ripple-will-surge-past-this-price/?source=iedfolrf0000001",
+      "tickers": [
+        "SAN",
+        "PNC",
+        "AXP",
+        "CME"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/841519/getty-growth-of-money-over-time.jpg",
+      "description": "The article predicts XRP could reach over $10 by 2029, driven by positive regulatory developments, resolution of SEC lawsuit, and growing institutional interest in blockchain technology for cross-border transactions.",
+      "keywords": [
+        "XRP",
+        "Ripple",
+        "cryptocurrency",
+        "blockchain",
+        "SEC",
+        "ETF",
+        "cross-border transactions"
+      ],
+      "insights": [
+        {
+          "ticker": "SAN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as testing RippleNet, indicating potential interest in blockchain technology"
+        },
+        {
+          "ticker": "PNC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as testing RippleNet, indicating potential interest in blockchain technology"
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as testing RippleNet, indicating potential interest in blockchain technology"
+        },
+        {
+          "ticker": "CME",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Launched XRP futures contracts with significant trading volume, suggesting growing market interest"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:43:38.854687+00:00",
+    "cache_key": "news_a31fc2eba3489a6df9189d141d4e77cb",
+    "count": 4
+  }
+}

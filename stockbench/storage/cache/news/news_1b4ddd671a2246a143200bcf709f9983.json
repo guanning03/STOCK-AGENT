@@ -1,0 +1,297 @@
+{
+  "items": [
+    {
+      "id": "600079f2095b579cd3e3b6bb52b064104f4d949580ac91c51964c3ca6021bef5",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "ACT-ion announces Anthony Thurston as Chief Operating Officer",
+      "author": "N/A",
+      "published_utc": "2025-02-19T13:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/19/3028692/0/en/ACT-ion-announces-Anthony-Thurston-as-Chief-Operating-Officer.html",
+      "tickers": [
+        "TSLA",
+        "BASFY",
+        "AAPL"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/51677503-56b3-4c62-ba36-6f66c43d7bb4",
+      "description": "ACTion Battery Technologies, Inc. (ACT-ion) has appointed Anthony Thurston as its new Chief Operating Officer. Thurston has extensive experience in leading cathode active materials (CAM) manufacturing operations at companies like Tesla, BASF, and Apple. The move comes as ACT-ion accelerates the commercialization of its innovative CAM production process.",
+      "keywords": [
+        "ACTion Battery Technologies",
+        "Anthony Thurston",
+        "cathode active materials",
+        "manufacturing",
+        "Tesla",
+        "BASF",
+        "Apple"
+      ],
+      "insights": [
+        {
+          "ticker": "TSLA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that the new COO, Anthony Thurston, previously held a leadership role in Tesla's Cathode Materials and Manufacturing operations, indicating his experience in the industry."
+        },
+        {
+          "ticker": "BASFY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "BASF Venture Capital is mentioned as a participant in ACT-ion's recent Pre-Series A funding round, suggesting the company's confidence in ACT-ion's technology and growth potential."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that the new COO, Anthony Thurston, held prominent R&D leadership roles at Apple, further highlighting his industry experience and expertise."
+        }
+      ]
+    },
+    {
+      "id": "5ab1ae247c693231f32e6112d455100258547db640a2b790f1515ac5f6025b24",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is XRP a Warren Buffett Coin?",
+      "author": "Alex Carchidi",
+      "published_utc": "2025-02-19T11:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/19/is-xrp-a-warren-buffett-coin/?source=iedfolrf0000001",
+      "tickers": [
+        "AXP",
+        "V",
+        "MA",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807618/investor-considers-papers-while-sitting-near-books.jpg",
+      "description": "The article discusses the potential for Warren Buffett to invest in the cryptocurrency XRP, which offers fast and inexpensive international money transfers. While Buffett is unlikely to consider XRP due to his distaste for cryptocurrencies, the article outlines how XRP's business model could align with Buffett's investment principles.",
+      "keywords": [
+        "Warren Buffett",
+        "XRP",
+        "cryptocurrency",
+        "international money transfers",
+        "financial technology"
+      ],
+      "insights": [
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Buffett has a substantial position in American Express, which is a financial technology company and payment processor, similar to the business model that the article suggests could be appealing to Buffett in the case of XRP."
+        },
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Buffett has a substantial position in Visa, which is a payment processing company that aligns with the type of financial technology companies that Buffett is interested in investing in."
+        },
+        {
+          "ticker": "MA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Buffett has a substantial position in Mastercard, which is another payment processing company that is similar to the type of financial technology companies that the article suggests could be appealing to Buffett in the case of XRP."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article briefly mentions that Buffett has invested in Apple, but this is not the main focus of the article, and the sentiment towards Apple is neutral."
+        }
+      ]
+    },
+    {
+      "id": "c391ac6f04ea90a43f44f9000ed101b31280d948f54444231453516d8d6b475a",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Worried That the S&P 500 Leans Too Much on Big Tech? This ETF Is a Better Buy.",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-19T10:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/19/worried-that-the-sp-500-leans-too-much-on-big-tech/?source=iedfolrf0000001",
+      "tickers": [
+        "RSP",
+        "AAPL",
+        "NVDA",
+        "MSFT",
+        "AMZN",
+        "PLTR",
+        "TPR",
+        "CEG",
+        "UBER"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807736/investor-smiling-computer-1.jpg",
+      "description": "The article discusses the Invesco S&P 500 Equal Weight ETF (RSP) as an alternative to the standard S&P 500 index, which has become heavily skewed towards the tech sector. The equal-weight ETF provides more diversification across sectors and may offer better long-term returns than the market-cap weighted S&P 500.",
+      "keywords": [
+        "S&P 500",
+        "Invesco S&P 500 Equal Weight ETF",
+        "tech sector",
+        "diversification",
+        "long-term returns"
+      ],
+      "insights": [
+        {
+          "ticker": "RSP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article presents the Invesco S&P 500 Equal Weight ETF as a more diversified alternative to the standard S&P 500, with the potential to outperform the market-cap weighted index in the long run."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Apple as one of the four companies that make up a significant portion of the S&P 500, highlighting the index's concentration in a few mega-cap tech stocks."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Nvidia as one of the four companies that make up a significant portion of the S&P 500, highlighting the index's concentration in a few mega-cap tech stocks."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Microsoft as one of the four companies that make up a significant portion of the S&P 500, highlighting the index's concentration in a few mega-cap tech stocks."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Amazon as one of the four companies that make up a significant portion of the S&P 500, highlighting the index's concentration in a few mega-cap tech stocks."
+        },
+        {
+          "ticker": "PLTR",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Palantir Technologies as one of the top four holdings in the Invesco S&P 500 Equal Weight ETF, indicating its relatively small position in the fund compared to the S&P 500."
+        },
+        {
+          "ticker": "TPR",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Tapestry as one of the top four holdings in the Invesco S&P 500 Equal Weight ETF, indicating its relatively small position in the fund compared to the S&P 500."
+        },
+        {
+          "ticker": "CEG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Constellation Energy as one of the top four holdings in the Invesco S&P 500 Equal Weight ETF, indicating its relatively small position in the fund compared to the S&P 500."
+        },
+        {
+          "ticker": "UBER",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Uber as one of the top four holdings in the Invesco S&P 500 Equal Weight ETF, indicating its relatively small position in the fund compared to the S&P 500."
+        }
+      ]
+    },
+    {
+      "id": "4f7a4f8d08d45ad87878bf91779221778c93225403f645d24443bd4efffe7f9f",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Prediction: 1 AI Stock Will Be Worth More Than Apple Stock by Year-End in 2026",
+      "author": "Trevor Jennewine",
+      "published_utc": "2025-02-19T09:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/19/1-ai-stock-worth-more-than-apple-stock-by-2026/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808031/growth-7.jpg",
+      "description": "The article predicts that Amazon could surpass Apple as the world's most valuable company by 2026, driven by the company's use of artificial intelligence to improve its retail business and cloud computing offerings. The author believes Amazon's earnings growth will exceed Wall Street's expectations, leading to a significant increase in its stock price.",
+      "keywords": [
+        "Amazon",
+        "Apple",
+        "artificial intelligence",
+        "cloud computing",
+        "earnings growth"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article predicts that Amazon's stock price could increase by 54% by 2026, making it the world's most valuable company, surpassing Apple. This is based on the company's use of artificial intelligence to improve its retail business and cloud computing offerings, which is expected to drive faster earnings growth than Wall Street's current estimates."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares Amazon's potential to surpass Apple as the world's most valuable company, but does not make any negative statements about Apple itself. The focus is on Amazon's growth potential rather than a direct assessment of Apple's prospects."
+        }
+      ]
+    },
+    {
+      "id": "1fc7fa3be5ec271fbf8e76d7d18b5034f3d6147eaca2e46f2ee25076aa753439",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Meet the Cheapest Stock in the \"Magnificent Seven\" Right Now. Is it a Buy?",
+      "author": "Adria Cimino",
+      "published_utc": "2025-02-19T09:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/19/meet-the-cheapest-stock-in-the-magnificent-seven/?source=iedfolrf0000001",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "AAPL",
+        "META",
+        "MSFT",
+        "NVDA",
+        "TSLA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807995/older-woman-laptop.jpg",
+      "description": "Alphabet, the owner of Google and Google Cloud, is the cheapest stock in the 'Magnificent Seven' group of tech companies. Despite facing some antitrust challenges, Alphabet's leadership in its markets, strong earnings track record, and strategic investments in AI make it a positive long-term investment.",
+      "keywords": [
+        "Alphabet",
+        "Google",
+        "Google Cloud",
+        "Magnificent Seven",
+        "Artificial Intelligence"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet's leadership in its markets, strong earnings track record, and strategic investments in AI make it a positive long-term investment, despite facing some antitrust challenges."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet's leadership in its markets, strong earnings track record, and strategic investments in AI make it a positive long-term investment, despite facing some antitrust challenges."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon, the world's top cloud services provider, is part of the 'Magnificent Seven' group of tech companies that have seen their shares climb along with revenue."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple is part of the 'Magnificent Seven' group of tech companies that have seen their shares climb along with revenue."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Meta Platforms is part of the 'Magnificent Seven' group of tech companies that have seen their shares climb along with revenue."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is part of the 'Magnificent Seven' group of tech companies that have seen their shares climb along with revenue."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia, the top maker of AI chips, has seen revenue climb in the double or triple digits quarter after quarter, making it part of the 'Magnificent Seven' group of tech companies."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Tesla is part of the 'Magnificent Seven' group of tech companies that have seen their shares climb along with revenue."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T22:19:10.749148+00:00",
+    "cache_key": "news_1b4ddd671a2246a143200bcf709f9983",
+    "count": 5
+  }
+}

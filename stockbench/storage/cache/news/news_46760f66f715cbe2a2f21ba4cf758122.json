@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Evercore ISI Group Maintains Outperform on Travelers Companies, Raises Price Target to $317",
+      "description": "Evercore ISI Group  analyst David Motemaden   maintains Travelers Companies (NYSE:TRV) with a Outperform and raises the price target from $309 to $317.",
+      "published_utc": "2026-01-07T08:56:15",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=5fa0c84cd8c1a132ec244ff1002380c79098f6a4141a428f58835d4aeafea5f4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138570418,
+      "datetime": 1767794175
+    },
+    {
+      "title": "JP Morgan Maintains Underweight on Travelers Companies, Raises Price Target to $305",
+      "description": "JP Morgan  analyst Jimmy Bhullar   maintains Travelers Companies (NYSE:TRV) with a Underweight and raises the price target from $302 to $305.",
+      "published_utc": "2026-01-07T07:02:22",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=5c3dcbf2c36a5780901eec4bd2c7e1bfd78bb7466501f68209394fb42c11b51b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138570419,
+      "datetime": 1767787342
+    },
+    {
+      "title": "U.S. P&C 2026 Outlook: Competition Revs Up, Pricing Slows On Road Ahead",
+      "description": "A softening pricing environment and increased competition in the personal auto space are among the issues facing US property and casualty insurers in 2026. Read more here.",
+      "published_utc": "2026-01-06T22:56:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=56f16e174052ee913b3126e006e13faff21e98b850ca6f8bc8f1faa1ceaa6562",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1398261668/image_1398261668.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138024343,
+      "datetime": 1767758160
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:10:07.413619+00:00",
+    "cache_key": "news_46760f66f715cbe2a2f21ba4cf758122",
+    "count": 3
+  }
+}

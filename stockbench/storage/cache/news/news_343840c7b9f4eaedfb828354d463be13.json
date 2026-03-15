@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Boeing and Lockheed's Space Joint Venture Is Falling Apart -- and Northrop Grumman Is the Reason",
+      "description": "With a SpaceX IPO on the horizon, do you really want to own shares of ULA owners Boeing and Lockheed?",
+      "published_utc": "2026-02-21T07:27:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4f11d3be2e23a334b4878b1212099b16dfc7fc90c2d8c8dca3c5c6f2a6b7c42f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139169384,
+      "datetime": 1771676820
+    },
+    {
+      "title": "Airlines waive change fees ahead of another monster winter storm",
+      "description": "American, Delta, JetBlue, United and others waived change and cancellation fees ahead of another massive winter storm.",
+      "published_utc": "2026-02-21T07:25:47",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=cc5a6eb4cbcb3a3cf4efe1fdfe5c05e74317e08929f066505a8d39098af96102",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108257162-1769453152885-gettyimages-2257805196-AFP_943E4QK.jpeg?v=1769453176&w=1920&h=1080",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139171289,
+      "datetime": 1771676747
+    },
+    {
+      "title": "Vast Takes a Giant Leap Towards Building a Private Space Station",
+      "description": "Dark horse space station company Vast gallops past its rivals with a big astronaut announcement.",
+      "published_utc": "2026-02-21T06:26:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=47a24b17ae3387a9fc3541047f1b617a59ec83994746c6d2f0569c9766056e08",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139168606,
+      "datetime": 1771673160
+    },
+    {
+      "title": "Trump To Remove Vietnam From Restricted US Tech List, Hanoi Says",
+      "description": "President Donald Trump told Vietnam&#39;s Communist Party chief To Lam that he will remove the country from a list restricted from accessing advanced U.S. technologies, the Asian nation&#39;s government announced on Saturday.",
+      "published_utc": "2026-02-20T22:04:57",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=db720b47c2435d588e868fa00e1fe2be48f4100283ab62703802bcde5b3b898f",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/02/21/Business--Banking-And-Currency-Exchange-.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139169881,
+      "datetime": 1771643097
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:24:13.511050+00:00",
+    "cache_key": "news_343840c7b9f4eaedfb828354d463be13",
+    "count": 4
+  }
+}

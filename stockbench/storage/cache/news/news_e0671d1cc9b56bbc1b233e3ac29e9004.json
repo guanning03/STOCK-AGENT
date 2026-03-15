@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "NVIDIA Corp., Amazon.com Inc. share losses lead Dow's 118-point fall",
+      "description": "NVIDIA Corp., Amazon.com Inc. share losses lead Dow's 118-point fall",
+      "published_utc": "2025-09-23T09:36:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=9a9883f24638ebfdaa0f8766ff68aa28db5736f6071a0631fa9089795bdee503",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136867314,
+      "datetime": 1758634560
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T04:19:13.037310+00:00",
+    "cache_key": "news_e0671d1cc9b56bbc1b233e3ac29e9004",
+    "count": 1
+  }
+}

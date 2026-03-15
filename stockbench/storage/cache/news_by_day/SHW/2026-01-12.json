@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "2 Safe-and-Steady Stocks with Promising Prospects and 1 We Ignore",
+      "description": "Low-volatility stocks may offer stability, but that often comes at the cost of slower growth and the upside potential of more dynamic companies.",
+      "published_utc": "2026-01-12T23:34:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8362ac52166930c2286791885b8a081b5f45ce22f1e762bcc0fade28c54889d4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138084611,
+      "datetime": 1768278852
+    },
+    {
+      "title": "UBS Maintains Buy on Sherwin-Williams, Lowers Price Target to $415",
+      "description": "UBS  analyst Joshua Spector   maintains Sherwin-Williams (NYSE:SHW) with a Buy and lowers the price target from $422 to $415.",
+      "published_utc": "2026-01-12T12:49:14",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=c62ec68b6272c90e926d2c1fb5e899d7dec4e192da9b648f8646460d8d77c848",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138872160,
+      "datetime": 1768240154
+    },
+    {
+      "title": "Sherwin-Williams Co. stock outperforms competitors on strong trading day",
+      "description": "Sherwin-Williams Co. stock outperforms competitors on strong trading day",
+      "published_utc": "2026-01-12T11:40:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=bda2f767a4ae34684bb3303cc08cb818ddfe5759f71a41c3eea505874fb80d3e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138129174,
+      "datetime": 1768236000
+    }
+  ]
+}

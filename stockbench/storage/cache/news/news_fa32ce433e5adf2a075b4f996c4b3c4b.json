@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Dow Jones Futures Rise; Will AI Rebound Or Drag Down Market? Tesla, Eli Lilly In Buy Areas",
+      "description": "Dow Jones Futures Rise; Will AI Rebound Or Drag Down Market? Tesla, Eli Lilly In Buy Areas",
+      "published_utc": "2025-12-14T18:08:51",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=bc19ef19d75ccfcfb3f2a9c1b5f2b83102059bb397917a7504212f388d94b514",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137857838,
+      "datetime": 1765753731
+    },
+    {
+      "title": "3 Finance Stocks to Buy on Rising 10-Year Treasury Rates",
+      "description": "Rising 10-year Treasury rates are creating new opportunities in financial stocks. See why JPMorgan, Morgan Stanley, and Prudential could outperform in 2026",
+      "published_utc": "2025-12-14T08:49:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8ab249e79e488c9e83f0d4fd6ab49fb7f6d8dd1c6b72f625f2edf42fa6224f49",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137792081,
+      "datetime": 1765720140
+    },
+    {
+      "title": "Why I Added GPIQ: Income, Stability, Quality - And Outperformance",
+      "description": "Goldman Sachs Nasdaq-100 Premium Income ETF stands out for its stability, tax benefits, and growth. Read why I recently added GPIQ to my income portfolio here.",
+      "published_utc": "2025-12-14T02:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=25859b768fdb7e9211f37f78d74181c68229586caf54174085310bd7b2e7168d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2201143780/image_2201143780.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137782769,
+      "datetime": 1765696500
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:34:27.883802+00:00",
+    "cache_key": "news_fa32ce433e5adf2a075b4f996c4b3c4b",
+    "count": 3
+  }
+}

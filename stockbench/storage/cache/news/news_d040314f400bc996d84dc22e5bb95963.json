@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "id": "5f8fd9e7fe56a4cb54cf6bca1f54c99ca984b4a0f84176f2366cabe3f603a473",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Warren Buffett Dividend Growth Stocks That Just Hit All-Time Highs but Could Have More Room to Run in 2025",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-25T23:05:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/25/buy-warren-buffett-dividend-growth-stock-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "AXP"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804652/gettyimages-1320658293-1200x798-36b7a2e.jpg",
+      "description": "Three Warren Buffett-owned dividend growth stocks - American Express, Visa, and Mastercard - have recently hit all-time highs, but the article suggests they could have more room to run in 2025 and beyond due to their strong business models and reasonable valuations.",
+      "keywords": [
+        "Warren Buffett",
+        "dividend growth stocks",
+        "American Express",
+        "Visa",
+        "Mastercard"
+      ],
+      "insights": [
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights American Express's strong performance in 2024, making it Berkshire Hathaway's second-largest public equity holding. It notes that American Express's closed-loop payment network model, which allows it to benefit from interest income on outstanding card balances, could continue to drive growth."
+        },
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Visa is the author's top pick among the three payment processors, citing its strong business model and the potential benefits it could see from sustained economic growth and lower regulations."
+        },
+        {
+          "ticker": "MA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Mastercard, along with Visa and American Express, could have more room to run in 2025 and beyond due to their elite business models and reasonable valuations."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:14:11.045559+00:00",
+    "cache_key": "news_d040314f400bc996d84dc22e5bb95963",
+    "count": 1
+  }
+}

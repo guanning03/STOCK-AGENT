@@ -1,0 +1,87 @@
+{
+  "items": [
+    {
+      "id": "930123be20c559c56cfedded1ae77cf563b5c9ff02e8e5059b2e0eb21eb76502",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "AI Agents Are Coming in 2025. Here's My Top Stock Pick To Capitalize on the Next Wave of AI Investing.",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-19T13:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/19/ai-agents-are-coming-heres-my-top-stock-pick-to/?source=iedfolrf0000001",
+      "tickers": [
+        "CRM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803233/ai-robot-touching-a-data-screen.jpg",
+      "description": "Generative AI is entering a new phase called Agentic AI, which will allow companies to automate more tasks. Salesforce is a leader in this area and the author believes it will be a key beneficiary, making it a top AI investing pick.",
+      "keywords": [
+        "AI",
+        "Agentic AI",
+        "Salesforce",
+        "CRM"
+      ],
+      "insights": [
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Salesforce as a leader in Agentic AI, which is expected to drive further revenue growth and margin expansion for the company. The author is optimistic about Salesforce's prospects in this new phase of AI implementation."
+        }
+      ]
+    },
+    {
+      "id": "3b17f861fef522f159732b04612a4bfd04aa4ffe99477cd4b68111e5fccca3ad",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Millionaire-Maker Artificial Intelligence (AI) Stocks",
+      "author": "Geoffrey Seiler",
+      "published_utc": "2025-01-19T11:20:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/19/millionaire-maker-artificial-intelligence-ai-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "GOOG",
+        "GOOGL",
+        "CRM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804133/gettyimages-1287582736.jpg",
+      "description": "The article discusses three stocks - Nvidia, Alphabet, and Salesforce - that could potentially turn a $10,000 investment into $1 million over the long term due to their strong positioning in the growing artificial intelligence (AI) market.",
+      "keywords": [
+        "Nvidia",
+        "Alphabet",
+        "Salesforce",
+        "AI",
+        "Artificial Intelligence",
+        "Cloud Computing",
+        "Agentic AI"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia is well-positioned to benefit from the growing demand for AI infrastructure, as its GPUs have become the backbone of AI data center infrastructure. The company's dominant market share and continued growth in AI-related spending make it a long-term winner."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet is expected to be an AI winner in several areas, including cloud computing, AI search, and multimodal AI. The company's custom AI chips and growing cloud computing segment provide opportunities for growth and profitability."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet is expected to be an AI winner in several areas, including cloud computing, AI search, and multimodal AI. The company's custom AI chips and growing cloud computing segment provide opportunities for growth and profitability."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce is looking to be at the forefront of agentic AI with its new Agentforce solution, which allows for autonomous task completion with little human supervision. The company's large customer base and the growth potential of Agentforce make it an attractive investment."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Lightning Network powers 5,000 Bitcoin payments in 8 Hours at Las Vegas Event",
+      "description": "One of the longest running criticisms of Bitcoin is that it cannot function as everyday money. The network’s proof of work design is energy intensive, transactions can take minutes to confirm, and throughput is limited compared to traditional payment rails like Visa or Mastercard. On ...",
+      "published_utc": "2026-02-24T17:23:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=25d9336eb99b535b2b3689bf696ed70985cbb1a0bbff352b9eae5eb5e8318593",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139202380,
+      "datetime": 1771971780
+    },
+    {
+      "title": "Stripe May Be Looking to Buy PayPal. What It Means for the Stock.",
+      "description": "Analysts agree an outright sale is unlikely, but they are split on whether the payments company is stagnating or undervalued.",
+      "published_utc": "2026-02-24T16:35:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=20cd9d7453dee6e8d495f6cbdf5ec4f3b99007a5b5ed9916f95d130d795a0ef7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139202381,
+      "datetime": 1771968900
+    },
+    {
+      "title": "AI-linked fears roil some corners of Wall Street after years of hype and gains",
+      "description": "Stocks surged to records in large part because of hope — and hype — about artificial intelligence.",
+      "published_utc": "2026-02-24T15:52:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e1a8387b782a9184e01097b160960643fc05575c1f0013a78964d2693a8bf0a0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139202382,
+      "datetime": 1771966357
+    },
+    {
+      "title": "Fidelity National Q4 Earnings Miss Estimates on Increasing Expenses",
+      "description": "FIS posts Q4 EPS miss as rising costs weigh, but revenues top estimates and 2026 outlook signals strong growth ahead.",
+      "published_utc": "2026-02-24T13:49:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9eeafe4ea932226c340f46d862918f05fde19e06aa57bcecc08054290856d9b0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139201560,
+      "datetime": 1771958940
+    },
+    {
+      "title": "Register now: Applications open for the World's Top Fintech Companies 2026",
+      "description": "CNBC and Statista chart the top fintech players from around the world, ranging from startups to Big Tech names.",
+      "published_utc": "2026-02-24T13:08:25",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=b23eee141dfaf4f9a198805d6a183291c733ef55e1cb94e4c33567fb519f97b4",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108264308-1770808330529-gettyimages-1328699091-single_mom_0119.jpeg?v=1770808359&w=1920&h=1080",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139212529,
+      "datetime": 1771956505
+    }
+  ]
+}

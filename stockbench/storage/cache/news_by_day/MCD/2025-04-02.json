@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "S&P 500: Indicators Signal Rising Recession Risk",
+      "description": "",
+      "published_utc": "2025-04-02T14:27:43",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e970bdfd691f131449d53973b50a7b9072b40209fe4b05d71bf3f4262ad62396",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133683617,
+      "datetime": 1743618463
+    },
+    {
+      "title": "Hooters’ Bankruptcy Is the Latest Sign of Trouble for Restaurants",
+      "description": "Hooters’ Bankruptcy Is the Latest Sign of Trouble for Restaurants",
+      "published_utc": "2025-04-02T09:41:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=c98311d77f6456f5d49768197d3f4ee7516127081b757a64f67c97b4af744571",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134147377,
+      "datetime": 1743601260
+    },
+    {
       "title": "Hooters’ Bankruptcy Is the Latest Sign of Trouble for Restaurants",
       "description": "Hooters’ Bankruptcy Is the Latest Sign of Trouble for Restaurants",
       "published_utc": "2025-04-02T01:32:00",

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Dow Falls From Record Level as Powell Dampens December Rate Cut Bets",
+      "description": "The Dow Jones Industrial Average fell from Tuesday's record high level after Federal Reserve Jerome",
+      "published_utc": "2025-10-29T17:16:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=775c80c02568706d1e51e2ae251e3aa023e480b80af26401dfab884e32cd10f5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137263519,
+      "datetime": 1761772615
+    },
+    {
+      "title": "Stock Market Today: Dow Ends Lower As Traders Slash Rate-Cut Bets; Nvidia Holds To $5 Trillion Mark",
+      "description": "The Dow Jones Industrial Average finished in the red in Wednesday's mixed close after Federal Reserve Chair Jerome Powell said there's no certainty of another 2025 cut in interest rates.  Nvidia, however, held to higher ground in the stock market today, locking its place as Wall Street's first company to close with a $5 trillion valuation.  The chip designer's shares rose ahead of earnings reports from three fellow Magnificent Seven companies.",
+      "published_utc": "2025-10-29T16:47:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8f2c090030f93c75f523ffa04c92b46cb891b89f6dcd434be8c0d23e1251e733",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137263673,
+      "datetime": 1761770832
+    },
+    {
+      "title": "Earnings live: Meta stock tumbles, Microsoft slides, and Alphabet rises as Big Tech earnings pour in",
+      "description": "Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.",
+      "published_utc": "2025-10-29T16:33:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a6b99eab8c4bfbcc28d5c35fcb118cc4b150fec31774a293f0ebfc0da211e1d3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137260210,
+      "datetime": 1761770036
+    },
+    {
+      "title": "Boeing pushes 777X jet deliveries to 2027 amid certification delays",
+      "description": "Boeing reported mixed third-quarter results on Wednesday, as higher aircraft deliveries and a growing backlog of orders were offset by continued certification delays for its 777X jets.  CEO Kelly Ortberg said the first delivery of Boeing's next generation of long-haul, wide-body jets is now expected in 2027 instead of 2026, resulting in a $4.9 billion charge in the quarter through September.  Ortberg said Boeing was making progress on stabilizing its production.",
+      "published_utc": "2025-10-29T15:18:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=74eccc35928c06910de5f5def58c5b3e2e738fa260cbaacfb2ea9af4a855c2bc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137260345,
+      "datetime": 1761765502
+    },
+    {
+      "title": "Stock Market Today: Dow Falls As Powell Says December Cut Not Certain; Nvidia Higher (Live Coverage)",
+      "description": "The Dow Jones Industrial Average and other stock indexes turned lower Wednesday afternoon as Federal Reserve Chair Jerome Powell cast doubt on whether policymakers are locked in for another rate cut this year after November's reduction.  Stocks were higher after the Fed cut its key rate by 25 basis points but drifted downward during Powell's afternoon press conference.  The Dow fell 0.4% after briefly touching the 48,000 level for the first time.",
+      "published_utc": "2025-10-29T15:15:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=27df8182897a5a6b3442dd93bb249233b67beaabd1a64f730a2461f353163910",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137260206,
+      "datetime": 1761765356
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Sector Update: Financial Stocks Decline Late Afternoon",
+      "description": "Financial stocks fell in late Tuesday afternoon trading with the NYSE Financial Index dropping 0.4%",
+      "published_utc": "2025-10-28T15:56:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=494557838ab909f1f93fd5770b752368f55552213a78acb18346d6bf17448be0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137243522,
+      "datetime": 1761681367
+    },
+    {
+      "title": "Mark Hanson, Black Buffalo Co-Founder and President, honored by Goldman Sachs as one of the Most Exceptional Entrepreneurs at the 2025 Builders and Innovators Summit",
+      "description": "Goldman Sachs (NYSE: GS) has recognized Mark Hanson, Co-Founder and President of Black Buffalo Inc., as one of the Most Exceptional Entrepreneurs of 2025 at its Builders and Innovators Summit in Healdsburg, California.",
+      "published_utc": "2025-10-28T14:22:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2033e78537dc0431b1bc67f8aa527197f027ca803c87c6d9d6837f7cc5fa8c05",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137243523,
+      "datetime": 1761675720
+    },
+    {
+      "title": "Wall Street Says the Yen's Comeback Could Be Just Beginning",
+      "description": "Goldman Sachs sees a slow but powerful turn ahead for Japan's currency as ultra-easy policy fades",
+      "published_utc": "2025-10-28T12:50:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9854915b16d3cd93f19707500df6a572a26015eda1b31ee45c30ddce366bb4c2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137243524,
+      "datetime": 1761670236
+    },
+    {
+      "title": "10 Financials Stocks With Whale Alerts In Today's Session",
+      "description": "",
+      "published_utc": "2025-10-28T09:35:22",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=d575420b7bcd646ddb94edeb9db18e5dcb4b047c4615b3f2217e109ed6fe11bb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138458666,
+      "datetime": 1761658522
+    },
+    {
+      "title": "Goldman Sachs in talks with Kuwait Investment Authority for $10bn – report",
+      "description": "The mandate is aimed at strengthening Goldman Sachs’ private markets strategy in the Middle East.",
+      "published_utc": "2025-10-28T09:34:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b001e82cd00ece71817361a3b1549e11335546dc6d5c84fafa302150bcc9042f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137237848,
+      "datetime": 1761658496
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:05:14.374700+00:00",
+    "cache_key": "news_94e1a9530cf886ef11adbf060474c3b7",
+    "count": 5
+  }
+}

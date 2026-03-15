@@ -1,0 +1,97 @@
+{
+  "items": [
+    {
+      "id": "9dd7224023c304a4b7b0607651e8c760fa1360c7597e6365702f23c956d51c1a",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Stocks Edge Down Ahead Of Key Inflation Reports, Crude Hits 5-Month High, Bitcoin Sinks: What's Driving Markets Monday?",
+      "author": "Piero Cingari",
+      "published_utc": "2025-01-13T19:22:33Z",
+      "article_url": "https://www.benzinga.com/economics/macro-economic-events/25/01/42958107/stocks-edge-down-ahead-of-key-inflation-reports-crude-hits-5-month-high-bitcoin-s",
+      "tickers": [
+        "BKR",
+        "COIN",
+        "CVS",
+        "HUM",
+        "MPC",
+        "MSTR",
+        "MRNA",
+        "NVDA",
+        "VLO",
+        "UNH",
+        "EIX"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/13/Wall-Street_0.jpeg?width=1200&height=800&fit=crop",
+      "description": "Stocks edged down as traders remained cautious ahead of key inflation reports and the start of bank earnings season. Bitcoin dropped 3% to a two-month low, while oil prices surged and Treasury yields climbed.",
+      "keywords": [
+        "stocks",
+        "inflation",
+        "earnings",
+        "Bitcoin",
+        "oil",
+        "Treasury yields"
+      ],
+      "insights": [
+        {
+          "ticker": "BKR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company's stock rallied 3.9% as energy stocks outperformed."
+        },
+        {
+          "ticker": "COIN",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The crypto stock dropped nearly 4% as Bitcoin prices declined."
+        },
+        {
+          "ticker": "CVS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The health insurance company's stock jumped 6.9% on a government proposal to increase payments for Medicare Advantage plans."
+        },
+        {
+          "ticker": "HUM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The health insurance company's stock rose 7.8% on the same government proposal."
+        },
+        {
+          "ticker": "MPC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company's stock gained 3.5% as energy stocks rallied."
+        },
+        {
+          "ticker": "MSTR",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The crypto-linked stock slid more than 3% as Bitcoin prices declined."
+        },
+        {
+          "ticker": "MRNA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The company's stock plummeted 20% after projecting lower-than-expected 2025 revenue and announcing cost-cutting measures."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The AI chipmaker's stock dropped 2.7% as it urged the Biden administration to oppose regulations on AI technology."
+        },
+        {
+          "ticker": "VLO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company's stock gained 5% as energy stocks rallied."
+        },
+        {
+          "ticker": "UNH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The health insurance company's stock rose 4.8% on the same government proposal that lifted other players in the sector."
+        },
+        {
+          "ticker": "EIX",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The company's stock fell 12% as authorities investigated whether its equipment played a role in sparking a fire."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "items": [
+    {
+      "id": "ff09a0f42d1ca0e3f1f392ca3ec4185afcdad26d9aa2869c5733a7a897a130c8",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Down 12.3% at One Point in a Single Trading Session, Is Amgen Stock Still a Buy?",
+      "author": "Alex Carchidi",
+      "published_utc": "2024-11-30T11:20:00Z",
+      "article_url": "https://www.fool.com/investing/2024/11/30/down-123-at-one-point-in-a-single-trading-session/?source=iedfolrf0000001",
+      "tickers": [
+        "AMGN",
+        "LLY",
+        "NVO"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799310/concerned-investor-with-two-people-in-background.jpg",
+      "description": "Amgen's weight loss drug candidate MariTide faces competition from Eli Lilly's Zepbound and Novo Nordisk's Wegovy. While MariTide has a convenience advantage with monthly dosing, its efficacy and tolerability are not significantly better than the incumbents. Amgen's stock is still worth buying on the dip as MariTide could potentially fill a niche for more tolerable and convenient weight loss solutions.",
+      "keywords": [
+        "Amgen",
+        "Eli Lilly",
+        "Novo Nordisk",
+        "weight loss drugs",
+        "MariTide",
+        "Zepbound",
+        "Wegovy"
+      ],
+      "insights": [
+        {
+          "ticker": "AMGN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Amgen's weight loss drug candidate MariTide has some advantages in convenience but is not significantly more effective or tolerable than the competition. However, the article suggests Amgen's stock is still worth buying on the dip as MariTide could potentially fill a niche for more tolerable and convenient weight loss solutions."
+        },
+        {
+          "ticker": "LLY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Eli Lilly's weight loss drug Zepbound is one of the reigning champions in the market, and the article suggests that the market's reaction to Amgen's news may have been an assumption that one company's stumble is another's gain, implying a positive sentiment towards Eli Lilly."
+        },
+        {
+          "ticker": "NVO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Novo Nordisk's weight loss drug Wegovy is also one of the reigning champions in the market, and the article suggests that the market's reaction to Amgen's news may have been an assumption that one company's stumble is another's gain, implying a positive sentiment towards Novo Nordisk."
+        }
+      ]
+    }
+  ]
+}

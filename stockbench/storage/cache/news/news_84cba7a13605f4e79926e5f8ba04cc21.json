@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Credit Card And BNPL Lenders Paint A Brighter-Than-Expected Picture Of The Economy",
+      "description": "Major credit card issuers report stable credit health despite economic challenges.",
+      "published_utc": "2025-11-26T18:44:01",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4620754d84e3848abd60bf20ce4005b491efff40a03c6b02dc7d5c4c1f1de052",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1346366800/image_1346366800.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137617284,
+      "datetime": 1764200641
+    },
+    {
+      "title": "Anthony Scaramucci Cheers JPMorgan's New Bitcoin-Linked Offering, Says Market Is Missing  Scale Of The 'Huge' Milestone",
+      "description": "Anthony Scaramucci, the founder of SkyBridge Capital, highlighted on Wednesday the significance of JPMorgan Chase &amp; Co.&#39;s (NYSE:JPM) move to offer a Bitcoin",
+      "published_utc": "2025-11-26T18:42:12",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=2f7940ca418991ca8080e02453939d32eb7b9cea1f3ac0c4ada389e61e2261d5",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/26/Scaramucci-Preaches-Autodidactic-Reading.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138471123,
+      "datetime": 1764200532
+    },
+    {
+      "title": "CNBC Daily Open: An early Thanksgiving celebration in U.S. markets",
+      "description": "Thanksgiving in the U.S. takes place on Thursday stateside, but the feasting might have begun a day early for investors.",
+      "published_utc": "2025-11-26T15:00:46",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=3876d15bea1ca1834a395ca4bf97ce225ae5140bbcded37edcd1aa0807f23805",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108232568-17641742322025-11-26t161905z_99420568_rc2e4iavtng1_rtrmadp_0_usa-stocks.jpeg?v=1764174389&w=1920&h=1080",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137622117,
+      "datetime": 1764187246
+    },
+    {
+      "title": "JPMorgan reveals new Bitcoin target amid market pullback",
+      "description": "Bitcoin (BTC) could climb to $240,000 over the long term, according to a recent JPMorgan note assessing the asset’s evolving market structure. The projection followed a weak stretch for the broader crypto market, with BTC falling from its early October peak of $126,000 to around $82,000 in ...",
+      "published_utc": "2025-11-26T13:25:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cc888df892c839360389ade9a257d90034941c37ee65aca2a355750db857f3c4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137614454,
+      "datetime": 1764181535
+    },
+    {
+      "title": "Wall Street Sees 8,200 on the Table: JPMorgan Says the AI Rally Isn't Over Yet",
+      "description": "Top strategists say the S&P 500 could surge another 20% by end-2026--if AI momentum and earnings keep delivering.",
+      "published_utc": "2025-11-26T12:53:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=84407e92d3701ad91974fefccb68e814623f60951d7e9f1ea386980691902e7e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137614455,
+      "datetime": 1764179628
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:39:28.986379+00:00",
+    "cache_key": "news_84cba7a13605f4e79926e5f8ba04cc21",
+    "count": 5
+  }
+}

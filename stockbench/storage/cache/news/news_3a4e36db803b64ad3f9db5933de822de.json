@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stocks Purr, Tariffs Roar",
+      "description": "Stocks crept higher today. Three straight intraday rebounds nearly erased Fridayâs 2% S&P spanking",
+      "published_utc": "2025-04-02T18:50:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d2a0ace316d0c74bd648dfcc3f3f6f2af4ef009d291fc5e6fab4e900d6388aec",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2200759945/image_2200759945.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133693639,
+      "datetime": 1743634200
+    },
+    {
+      "title": "42-Year-Old With $250K And A 'Failed Marriage, 3 Kids' Faces A Full Life Restart – 'How Would You Divide It Up?' Reddit Explodes With Advice",
+      "description": "Life has a way of throwing curveballs, such as divorce, career changes, and financial setbacks, and sometimes, it feels like you&#39;re back at square one.",
+      "published_utc": "2025-04-02T18:00:30",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=67d95517959b6e3a773c6c456c9efa921992af44e82aff66094771e1c0f93238",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/04/02/Social-Media-App-Photo-Illustrations--Bu.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138481199,
+      "datetime": 1743631230
+    },
+    {
+      "title": "'Liberation Day' Tariffs: Potential Impact On The Dow Jones, S&P 500",
+      "description": "",
+      "published_utc": "2025-04-02T15:55:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4394f8cf3b137db2edeadf9d11aab44e2e09bd6068ed78aaf862a67c4c908672",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133689197,
+      "datetime": 1743623700
+    },
+    {
+      "title": "S&P 500: Indicators Signal Rising Recession Risk",
+      "description": "",
+      "published_utc": "2025-04-02T14:27:43",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e970bdfd691f131449d53973b50a7b9072b40209fe4b05d71bf3f4262ad62396",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133683617,
+      "datetime": 1743618463
+    },
+    {
+      "title": "Trump's Liberation Day: What's Working In A Tariff Tantrum?",
+      "description": "Explore strong-performing sectors like oil & gas, waste management, and REITs while avoiding tariff-sensitive stocks. Click for my exclusive tariff picks.",
+      "published_utc": "2025-04-02T14:24:18",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2992c7dc9f4c1337c62424ecfa5903b4f792900ad894f40386c8a2c6f0e5d924",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/108355967/image_108355967.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133683672,
+      "datetime": 1743618258
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T23:08:04.758791+00:00",
+    "cache_key": "news_3a4e36db803b64ad3f9db5933de822de",
+    "count": 5
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "items": [
+    {
+      "id": "b4dfa985a35ad9fca6319210ca0d30e968b3b7ced3860e7c7f1e842f89a73127",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Here's Something You Might Have Missed About Boeing's Big Q4 Loss",
+      "author": "Rich Smith",
+      "published_utc": "2025-02-10T12:07:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/10/heres-something-you-might-have-missed-about-boeing/?source=iedfolrf0000001",
+      "tickers": [
+        "BA",
+        "BApA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806854/boeing-737.jpg",
+      "description": "Boeing reported disappointing Q4 earnings, with losses more than three times the amount Wall Street had forecast. While the company's commercial business is showing signs of improvement, its defense and space programs continue to face challenges, leading to significant charges and concerns about future cash flow.",
+      "keywords": [
+        "Boeing",
+        "earnings",
+        "commercial aviation",
+        "defense",
+        "space"
+      ],
+      "insights": [
+        {
+          "ticker": "BA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Boeing reported significant losses in Q4 and for the full year 2024, driven by issues in its commercial and defense/space businesses. The company's defense and space programs, in particular, have faced challenges leading to charges that will impact future cash flow."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Boeing reported significant losses in Q4 and for the full year 2024, driven by issues in its commercial and defense/space businesses. The company's defense and space programs, in particular, have faced challenges leading to charges that will impact future cash flow."
+        }
+      ]
+    },
+    {
+      "id": "0c41bf16d640bf2adb03f63ff010f63d77551c3fc992da32488788ff5c25ab2d",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "Risks Too High? Here's How Investors Avoided a 30%+ Wipeout on These Big Cap Names",
+      "author": "Investing.Com",
+      "published_utc": "2025-02-10T10:08:00Z",
+      "article_url": "https://www.investing.com/analysis/risks-too-high-heres-how-investors-avoided-a-30-wipeout-on-these-big-cap-names-200657151",
+      "tickers": [
+        "AMD",
+        "BA",
+        "BApA",
+        "FIVE",
+        "NVDA"
+      ],
+      "amp_url": "https://m.investing.com/analysis/risks-too-high-heres-how-investors-avoided-a-30-wipeout-on-these-big-cap-names-200657151?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "The article discusses how investors using InvestingPro's Fair Value tool were able to avoid significant losses on several overvalued stocks, including AMD, Boeing, and others.",
+      "keywords": [
+        "AMD",
+        "Boeing",
+        "Five Below",
+        "Nvidia",
+        "Elf"
+      ],
+      "insights": [
+        {
+          "ticker": "AMD",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article states that AMD's stock became overvalued according to the Fair Value tool, and the stock subsequently lost 36.81% over the next 13 months as it faced mounting competition and disappointing earnings."
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The Fair Value tool flagged a 32.17% downside for Boeing's stock, and the stock went on to shed nearly 31% in 14 months as the company grappled with persistent financial struggles and quality control issues."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The Fair Value tool flagged a 32.17% downside for Boeing's stock, and the stock went on to shed nearly 31% in 14 months as the company grappled with persistent financial struggles and quality control issues."
+        },
+        {
+          "ticker": "FIVE",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that Five Below was another stock that InvestingPro's Fair Value tool identified as overvalued, helping investors avoid a significant loss."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Nvidia is mentioned as a competitor to AMD in the data center business, but no specific sentiment is provided for the company."
+        }
+      ]
+    }
+  ]
+}

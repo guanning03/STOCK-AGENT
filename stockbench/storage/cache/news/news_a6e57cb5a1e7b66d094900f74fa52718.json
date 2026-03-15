@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Salesforce.com (CRM) Suffers a Larger Drop Than the General Market: Key Insights",
+      "description": "Salesforce.com (CRM) concluded the recent trading session at $254.44, signifying a -2.64% move from its prior day's close.",
+      "published_utc": "2025-11-04T17:45:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4e2844cd4c0d9bf9332368387b9c6f2439fa8d26d243041f35fee5262b8b861d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137351149,
+      "datetime": 1762296303
+    },
+    {
+      "title": "Shares of software stocks are trading lower amid broader tech weakness as investors assess recent earnings, Palantir weakness and AI momentum.",
+      "description": "",
+      "published_utc": "2025-11-04T11:13:10",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=1f47674ed84b6866fdac7e67e6a95bc716ab887fb57eac1633d45c5966999519",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138417633,
+      "datetime": 1762272790
+    },
+    {
+      "title": "Former Cisco Systems COO Maria Martinez Joins Alkira's Advisory Board",
+      "description": "Alkira®, the leader in Network Infrastructure as a Service (NIaaS), today announced the appointment of Maria N. Martinez to its advisory board.",
+      "published_utc": "2025-11-04T09:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=33fd3d340cbbe7caa5631515ada138491420b0909c09ca15cf050f515baac6b4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137311872,
+      "datetime": 1762264800
+    },
+    {
+      "title": "Introducing Express: The Conversational Data Engineering Platform to Simplify the Creation of Complex Data Workflows for AI Applications",
+      "description": "AI-powered conversational platform eliminates coding barriers, making enterprise data engineering accessible to everyone, from developers to business usersSAN MATEO, Calif., Nov. 04, 2025 (GLOBE NEWSWIRE) -- Nexla, the leading integration platform for AI applications, today announced the launch of Express, a conversational data engineering platform that makes it simple for anyone to work with data. Express addresses the critical bottleneck in AI adoption: the complex, time-consuming process of p",
+      "published_utc": "2025-11-04T09:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0c543b50ecef1ce63ea3894b715dfa36fe41600e8d90d0947254fb020195a7de",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137311925,
+      "datetime": 1762264800
+    },
+    {
+      "title": "AI-washing and the massive layoffs hitting the economy",
+      "description": "Amazon, Target and UPS are laying off thousands of employees, but the reasons behind the cuts go a lot deeper than AI.",
+      "published_utc": "2025-11-04T03:16:02",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=043207b38152e2919f50b5447bcb2f8205498b5eb056c61b61dbecb14f3b33a2",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108220830-1762204848405-White_collar_lay_offs_thumbnail_F.jpg?v=1762205052&w=1920&h=1080",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137334639,
+      "datetime": 1762244162
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:30:32.998254+00:00",
+    "cache_key": "news_a6e57cb5a1e7b66d094900f74fa52718",
+    "count": 5
+  }
+}

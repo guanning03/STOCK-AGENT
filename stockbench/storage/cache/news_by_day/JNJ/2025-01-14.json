@@ -1,0 +1,118 @@
+{
+  "items": [
+    {
+      "id": "d9dc7df39dc7196d4bc2a689f732aa5695ef6f3ad2e8c8fbb4e3c05aa5cb0767",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Evolving Landscape of Cardiology Segment: Key Market Insights of Latest Published Rare Cardiovascular Diseases Report — Giant-Cell Arteritis, Pulmonary Arterial Hypertension, and Restrictive Cardiomyopathy | DelveInsight",
+      "author": "Delveinsight",
+      "published_utc": "2025-01-14T18:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/14/3009572/0/en/Evolving-Landscape-of-Cardiology-Segment-Key-Market-Insights-of-Latest-Published-Rare-Cardiovascular-Diseases-Report-Giant-Cell-Arteritis-Pulmonary-Arterial-Hypertension-and-Restri.html",
+      "tickers": [
+        "ABBV",
+        "NVS",
+        "KNSA",
+        "JNJ",
+        "MRK",
+        "UTHR",
+        "LQDA",
+        "TENX",
+        "THC",
+        "GOSS",
+        "AVTE",
+        "INSM",
+        "CPIX",
+        "AZN"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/dbcddd65-71dd-4559-8875-ae89ac4f96db",
+      "description": "The article discusses the evolving landscape of rare cardiovascular diseases, including Giant-Cell Arteritis, Pulmonary Arterial Hypertension, and Restrictive Cardiomyopathy. It highlights the challenges in diagnosis and treatment, as well as the growing market size and pipeline of new therapies for these conditions.",
+      "keywords": [
+        "rare cardiovascular diseases",
+        "Giant-Cell Arteritis",
+        "Pulmonary Arterial Hypertension",
+        "Restrictive Cardiomyopathy"
+      ],
+      "insights": [
+        {
+          "ticker": "ABBV",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions AbbVie's RINVOQ (upadacitinib) as a pipeline therapy for Giant-Cell Arteritis, indicating the company's involvement in developing treatments for this rare condition."
+        },
+        {
+          "ticker": "NVS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Novartis Pharmaceuticals' COSENTYX (secukinumab) as a pipeline therapy for Giant-Cell Arteritis, highlighting the company's efforts in addressing this rare disease."
+        },
+        {
+          "ticker": "KNSA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Mavrilimumab, a pipeline therapy for Giant-Cell Arteritis, being developed by CSL/Kiniksa Pharmaceuticals, indicating their involvement in the rare disease market."
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions TREMFYA (guselkumab), a pipeline therapy for Giant-Cell Arteritis, being developed by Johnson & Johnson and MorphoSys AG, showcasing their collaboration in this rare disease space."
+        },
+        {
+          "ticker": "MRK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Merck's involvement in the development of Sotatercept (MK-7962) and MK-5475, pipeline therapies for Pulmonary Arterial Hypertension, indicating the company's interest in this rare disease market."
+        },
+        {
+          "ticker": "UTHR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions United Therapeutics' Ralinepag as a pipeline therapy for Pulmonary Arterial Hypertension, highlighting the company's focus on developing treatments for this rare condition."
+        },
+        {
+          "ticker": "LQDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Liquidia Technologies' YUTREPIA (inhaled treprostinil) and L606 (liposomal treprostinil) as pipeline therapies for Pulmonary Arterial Hypertension, indicating the company's involvement in this rare disease market."
+        },
+        {
+          "ticker": "TENX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Tenax Therapeutics' Imatinib (TNX-201) as a pipeline therapy for Pulmonary Arterial Hypertension, showcasing the company's efforts in addressing this rare disease."
+        },
+        {
+          "ticker": "THC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Tenax Therapeutics' Imatinib (TNX-201) as a pipeline therapy for Pulmonary Arterial Hypertension, showcasing the company's efforts in addressing this rare disease."
+        },
+        {
+          "ticker": "GOSS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Gossamer Bio's Seralutinib (GB002) as a pipeline therapy for Pulmonary Arterial Hypertension, indicating the company's focus on developing treatments for this rare condition."
+        },
+        {
+          "ticker": "AVTE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Aerovate Therapeutics' AV-101 (dry powder inhaled imatinib) as a pipeline therapy for Pulmonary Arterial Hypertension, highlighting the company's involvement in developing treatments for this rare condition."
+        },
+        {
+          "ticker": "INSM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Insmed's Treprostinil Palmitil (TPIP) (INS1009) as a pipeline therapy for Pulmonary Arterial Hypertension, indicating the company's focus on this rare disease market."
+        },
+        {
+          "ticker": "NVS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Novartis' LTP001 as a pipeline therapy for Pulmonary Arterial Hypertension, showcasing the company's involvement in developing treatments for this rare condition."
+        },
+        {
+          "ticker": "CPIX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Cumberland Pharmaceuticals' VASCULAN (ifetroban) as a pipeline therapy for Pulmonary Arterial Hypertension, highlighting the company's efforts in addressing this rare disease."
+        },
+        {
+          "ticker": "AZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions AstraZeneca's LYNPARZA (olaparib) as a pipeline therapy for Pulmonary Arterial Hypertension, highlighting the company's involvement in this rare disease market."
+        }
+      ]
+    }
+  ]
+}

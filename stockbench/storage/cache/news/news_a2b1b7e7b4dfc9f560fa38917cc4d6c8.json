@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Dow on Pace to Clear 48,000 Closing Milestone",
+      "description": "The Dow is surging through the 48,000 threshold.  The blue-chip index was up 344 points, or 0.7%, on Wednesday.  It continued to beat the S&P 500 and Nasdaq Composite this week; the S&P was down 0.1%, while the Nasdaq was down 0.6%.",
+      "published_utc": "2025-11-12T11:21:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=68db3adb6b8c48ebf1a680c16cafce7c437cf2a20ddc0513fb0598d3906a9f04",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137460153,
+      "datetime": 1762964506
+    },
+    {
+      "title": "What Are Wall Street Analysts' Target Price for Travelers Companies Stock?",
+      "description": "Are Wall Street analysts bullish or bearish on Travelers Companies stock?",
+      "published_utc": "2025-11-12T09:23:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8590da0c241929daf6d0ede0961c59fd09266b1f51d803e48ea3a67f29061417",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137467221,
+      "datetime": 1762957397
+    },
+    {
+      "title": "AIZ Stock Near 52-Week High: A Signal for Investors to Hold Tight?",
+      "description": "Assurant rides on growth in capital-light businesses, Connected Living, and Global Housing, supported by solid cash flow and strategic capital deployment.",
+      "published_utc": "2025-11-12T07:07:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=85f5da745c8e1cee76da01f82f309a5df59020c71695261710c82ddbbaa1226f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137455206,
+      "datetime": 1762949220
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:57:50.078507+00:00",
+    "cache_key": "news_a2b1b7e7b4dfc9f560fa38917cc4d6c8",
+    "count": 3
+  }
+}

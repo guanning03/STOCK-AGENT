@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Nvidia Earnings Send Stocks Higher",
+      "description": "Exchange traded funds tracking the tech sector and the S&P 500 and select tech stocks were rising in after-hours trading after Nvidia's earnings. The Invesco QQQ fund was up 1%, while the SPDR S&P 500 ETF was up 0.",
+      "published_utc": "2025-11-19T16:58:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ffec26528dd7e4655a7a633e8cb57706a38eb5dfbe15c09aec4b53d385eabeda",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137553761,
+      "datetime": 1763589537
+    },
+    {
+      "title": "When Will The Stock Market Bubble Burst?",
+      "description": "According to todayâs conventional wisdom, the bubble will only burst when the Federal Reserve starts to tighten monetary policy.",
+      "published_utc": "2025-11-19T13:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6b7956bb141b5fc717f2d0482e0840fd95153bb8adf2cdc5ebd94ce3516a3886",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/487259374/image_487259374.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137550421,
+      "datetime": 1763577300
+    },
+    {
+      "title": "Rates Spark: Blinkers On Into Payrolls",
+      "description": "We head into the (delayed) September payrolls report on Thursday with the market in a very tolerant mood for a weak number.",
+      "published_utc": "2025-11-19T13:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ad1912f840718a81d438707e2feaff04d3304fbfba057d64dfe43155088a7c74",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2180730748/image_2180730748.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137550332,
+      "datetime": 1763575500
+    },
+    {
+      "title": "Major indexes are higher after hours after NVIDIA reported better-than-expected Q3 results and issued strong Q4 guidance.",
+      "description": "",
+      "published_utc": "2025-11-19T12:29:26",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=a7b225eed0348d35566c7e6cc151362d7d6f0035ddd19d05d86cac05ab627ef2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139005214,
+      "datetime": 1763573366
+    },
+    {
+      "title": "Tapbit Marks 4th Anniversary with Continued Focus on Innovation and User Trust",
+      "description": "Denver, Colorado, USA, November 19th, 2025, Chainwire",
+      "published_utc": "2025-11-19T11:51:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e3f76065898bc35d9816c34a64f00662918d43cf94a2ee9ebcba339ce4217bee",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137549147,
+      "datetime": 1763571078
+    }
+  ]
+}

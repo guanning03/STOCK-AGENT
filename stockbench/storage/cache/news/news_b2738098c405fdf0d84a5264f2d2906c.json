@@ -1,0 +1,42 @@
+{
+  "items": [
+    {
+      "id": "4f30a5f1258a85e749557c2dda9ea035f438e0dcdd2a20732815ab6d9fe8f6c8",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Stocks That Could Skyrocket Before the End of 2024",
+      "author": "Jennifer Saibil",
+      "published_utc": "2024-12-04T13:03:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/04/3-stocks-that-could-skyrocket-before-end-of-2024/?source=iedfolrf0000001",
+      "tickers": [
+        "HD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799699/two-people-with-a-housekey.jpg",
+      "description": "The article discusses three stocks - Home Depot, Opendoor Technologies, and Wayfair - that could benefit from a potential Federal Reserve interest rate cut in December. It analyzes the potential impact on the housing market and the companies' performance.",
+      "keywords": [
+        "Home Depot",
+        "Opendoor Technologies",
+        "Wayfair",
+        "Federal Reserve",
+        "interest rates",
+        "housing market"
+      ],
+      "insights": [
+        {
+          "ticker": "HD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that if interest rates continue to go down, Home Depot stock should rise, and the company will be in an excellent position to keep going in 2025. It has taken actions to improve its operations and is poised for a strong rebound when market conditions improve."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T18:51:06.746815+00:00",
+    "cache_key": "news_b2738098c405fdf0d84a5264f2d2906c",
+    "count": 1
+  }
+}

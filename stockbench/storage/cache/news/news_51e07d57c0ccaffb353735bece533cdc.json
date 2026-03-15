@@ -1,0 +1,264 @@
+{
+  "items": [
+    {
+      "id": "4c7fb9d57bdf83449be682d765e51f8ec583e00c899a6c41a70acb0efcd1c998",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Spectacular Growth Stock That Could Join Nvidia, Tesla, Apple, and Others in the $1 Trillion Club",
+      "author": "Parkev Tatevosian, Cfa",
+      "published_utc": "2024-12-24T13:45:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/24/1-spectacular-growth-stock-that-could-join-nvidia/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "TSLA",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802014/bearded-person-at-desk-by-computer-taking-notes.jpg",
+      "description": "This article discusses a growth stock that is expected to experience a surge in revenue, profit, and cash flow in the upcoming years, potentially joining the ranks of companies like Nvidia, Tesla, and Apple in the $1 trillion club.",
+      "keywords": [
+        "growth stock",
+        "trillion dollar club",
+        "revenue",
+        "profit",
+        "cash flow"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia is mentioned as one of the companies that the growth stock could potentially join in the $1 trillion club, suggesting a positive outlook for the company."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Tesla is mentioned as one of the companies that the growth stock could potentially join in the $1 trillion club, suggesting a positive outlook for the company."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple is mentioned as one of the companies that the growth stock could potentially join in the $1 trillion club, suggesting a positive outlook for the company."
+        }
+      ]
+    },
+    {
+      "id": "cadfeb9bb32175a7d3d0e26d18d3cfad9302f3ae5b51f8a81f286b173af513bf",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Smartest Artificial Intelligence (AI) ETF to Buy With $500 Right Now",
+      "author": "Johnny Rice",
+      "published_utc": "2024-12-24T11:30:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/24/the-smartest-artificial-intelligence-ai-etf-to-buy/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "META",
+        "AAPL",
+        "IGM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801461/ai-impact-on-investment-economy-etfs-2024.jpg",
+      "description": "The article discusses the potential of artificial intelligence (AI) to transform the global economy, with estimates of AI affecting up to 60% of jobs in industrialized nations and adding $4.4 trillion annually. It recommends investing in an ETF, specifically the iShares Expanded Tech Sector ETF, as a way to gain exposure to the AI revolution.",
+      "keywords": [
+        "artificial intelligence",
+        "ETFs",
+        "investing",
+        "technology"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article does not mention Nvidia specifically, but it discusses the potential of AI to transform the global economy, which could benefit companies like Nvidia that are at the forefront of AI technology."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Meta Platforms as one of the top holdings of the iShares Expanded Tech Sector ETF, and it praises the company's AI efforts, stating that its 'long commitment to AI research will lead to products that will greatly enhance, if not outright transform, its business.'"
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not mention Apple specifically, but it discusses the potential of AI to transform the global economy, which could benefit companies like Apple that are investing in AI technology."
+        },
+        {
+          "ticker": "IGM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article recommends the iShares Expanded Tech Sector ETF as a way to gain exposure to the AI revolution, stating that it is 'the best option' and where the author would invest $500."
+        }
+      ]
+    },
+    {
+      "id": "0bda55568359570f47c6452a50fbcb8d149e28cf9787d33be7152aac909aa2ad",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Unstoppable Vanguard ETF to Buy Hand Over Fist Right Now",
+      "author": "George Budwell",
+      "published_utc": "2024-12-24T11:15:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/24/1-unstoppable-vanguard-etf-to-buy-hand-over-fist-r/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "NVDA",
+        "MSFT",
+        "AVGO",
+        "CRM",
+        "VGT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801973/getty-etf-invest.jpg",
+      "description": "The Vanguard Information Technology Index Fund provides broad exposure to technology companies, including leaders in AI development and deployment. The fund has delivered strong returns, outperforming the S&P 500, and offers a cost-effective way for investors to participate in the AI-driven transformation of the global economy.",
+      "keywords": [
+        "Vanguard Information Technology Index Fund",
+        "AI",
+        "technology",
+        "investment"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple is a top holding in the Vanguard Information Technology Index Fund, representing 16.2% of the portfolio. As a technology leader, Apple is at the forefront of AI development and deployment, which aligns with the fund's focus on capturing the growth potential of AI-driven companies."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia is another top holding in the fund, accounting for 15.4% of the portfolio. Nvidia is a dominant player in AI computing infrastructure, making it a key beneficiary of the AI revolution."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft, which holds a 13% stake in the fund, is also a leader in AI integration across its cloud services and software suite, further strengthening the fund's exposure to the AI value chain."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Broadcom, a semiconductor industry leader, is included in the fund's top holdings, providing additional exposure to the technology sector and its AI-related developments."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce, a prominent enterprise software company, is also represented in the fund, reflecting its role in AI-driven innovation within the technology industry."
+        },
+        {
+          "ticker": "VGT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Vanguard Information Technology Index Fund is the focus of the article, which highlights its strong performance, cost-effectiveness, and ability to provide investors with broad exposure to the AI-driven transformation of the global economy."
+        }
+      ]
+    },
+    {
+      "id": "15f907251e9027246f3563f8ec91d2f43a01a6e98e07acdffb713030d4bff1c0",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is SoundHound AI a Millionaire-Maker Stock?",
+      "author": "Will Ebiefung",
+      "published_utc": "2024-12-24T11:15:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/24/is-soundhound-ai-a-millionaire-maker-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "SOUN",
+        "SOUNW",
+        "MSFT",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801869/gettyimages-1345658982.jpg",
+      "description": "SoundHound AI, a financial services company, has seen its stock price soar this year, with a $10,000 investment at the start of 2024 now worth $97,300. However, the article cautions that the company's high valuation and relentless cash burn may make it a risky investment, despite its potential in the generative AI market.",
+      "keywords": [
+        "SoundHound AI",
+        "AI",
+        "voice recognition",
+        "ChatGPT",
+        "Microsoft",
+        "Apple",
+        "Siri"
+      ],
+      "insights": [
+        {
+          "ticker": "SOUN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a balanced view on SoundHound AI, highlighting both the company's potential in the generative AI market and the challenges it faces, such as high valuation, cash burn, and competition from larger players like Microsoft."
+        },
+        {
+          "ticker": "SOUNW",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a balanced view on SoundHound AI, highlighting both the company's potential in the generative AI market and the challenges it faces, such as high valuation, cash burn, and competition from larger players like Microsoft."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that Microsoft, with its partial ownership of OpenAI and integration of its existing voice recognition technology, could pose a significant threat to SoundHound AI's competitive position."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Apple's Siri as an example of existing voice recognition technology, but does not provide any specific commentary on Apple's potential impact on SoundHound AI."
+        }
+      ]
+    },
+    {
+      "id": "a74b08688b8e01e73890263f6331bcd71bbc4e0ad64abb8cc5f319fc16eadc4f",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "If You Only Invest In an S&P 500 Index Fund, You're Missing Out on This Unparalleled Semiconductor Stock",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-24T01:45:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/23/if-you-only-invest-in-an-sp-500-index-fund-youre-m/?source=iedfolrf0000001",
+      "tickers": [
+        "ASML",
+        "NVDA",
+        "AAPL",
+        "META"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801672/getty-images-silicon-wafers-and-microcircuits-with-automation-system-control-application-semiconductor.jpeg",
+      "description": "The article discusses how investors who only invest in an S&P 500 index fund may be missing out on the opportunity to invest in ASML, a Dutch semiconductor company that is essential to the future of artificial intelligence. The article highlights ASML's strong long-term growth potential and competitive position in the semiconductor industry.",
+      "keywords": [
+        "S&P 500 index fund",
+        "ASML",
+        "semiconductor",
+        "artificial intelligence"
+      ],
+      "insights": [
+        {
+          "ticker": "ASML",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights ASML's strong competitive position, essential role in the advancement of AI, and its potential for long-term growth, making it a compelling investment opportunity for investors."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Nvidia as one of the biggest winners in the AI sector, which has contributed significantly to the S&P 500's returns in recent years."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article also mentions Apple as one of the largest contributors to the S&P 500's returns, indicating its strong performance in the AI and technology sectors."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article includes Meta Platforms (formerly Facebook) as another AI-focused company that has been a major contributor to the S&P 500's returns."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:55:28.926838+00:00",
+    "cache_key": "news_51e07d57c0ccaffb353735bece533cdc",
+    "count": 5
+  }
+}

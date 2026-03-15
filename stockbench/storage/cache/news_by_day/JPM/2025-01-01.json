@@ -31,6 +31,92 @@
       "datetime": 1735730407
     },
     {
+      "id": "8de53eafea2fd590149d8f21c502fa195689cb0d743bd05a853648a5b704008a",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Global Trade Finance Market Set to Surpass Valuation of US$ 21,181.13 Billion By 2033 | Astute Analytica",
+      "author": "Astute Analytica",
+      "published_utc": "2025-01-01T08:30:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/01/3003238/0/en/Global-Trade-Finance-Market-Set-to-Surpass-Valuation-of-US-21-181-13-Billion-By-2033-Astute-Analytica.html",
+      "tickers": [
+        "HSBC",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "BCS"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/a77988df-ad1a-4619-9a4e-367c858dc70e",
+      "description": "The global trade finance market is projected to reach a valuation of US$ 21,181.13 billion by 2033, growing at a CAGR of 7.83% during the forecast period. The market is driven by innovations in digital tools, sustainability-linked instruments, and the rise of new providers, but faces challenges from regulatory fragmentation and geopolitical disruptions.",
+      "keywords": [
+        "trade finance",
+        "global trade",
+        "digital transformation",
+        "sustainability",
+        "regulatory framework"
+      ],
+      "insights": [
+        {
+          "ticker": "HSBC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "HSBC is a dominant player in the trade finance market, particularly in the Asia-Pacific region, leveraging its global network, real-time trade platforms, and integration of foreign exchange services to provide value to exporters and importers."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan is recognized for its sophisticated digital solutions, including blockchain pilots and AI-based document verification, which have helped to streamline trade finance processes and ensure compliance."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan is recognized for its sophisticated digital solutions, including blockchain pilots and AI-based document verification, which have helped to streamline trade finance processes and ensure compliance."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan is recognized for its sophisticated digital solutions, including blockchain pilots and AI-based document verification, which have helped to streamline trade finance processes and ensure compliance."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan is recognized for its sophisticated digital solutions, including blockchain pilots and AI-based document verification, which have helped to streamline trade finance processes and ensure compliance."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan is recognized for its sophisticated digital solutions, including blockchain pilots and AI-based document verification, which have helped to streamline trade finance processes and ensure compliance."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan is recognized for its sophisticated digital solutions, including blockchain pilots and AI-based document verification, which have helped to streamline trade finance processes and ensure compliance."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan is recognized for its sophisticated digital solutions, including blockchain pilots and AI-based document verification, which have helped to streamline trade finance processes and ensure compliance."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan is recognized for its sophisticated digital solutions, including blockchain pilots and AI-based document verification, which have helped to streamline trade finance processes and ensure compliance."
+        },
+        {
+          "ticker": "BCS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Barclays has capitalized on strong partnerships with FinTech firms in the trade finance market, focusing on supply chain finance programs that cater to Europe's industrial base, demonstrating its adaptability and innovation in the market."
+        }
+      ]
+    },
+    {
       "title": "JPMorgan Chase (NYSE:JPM) Is Due To Pay A Dividend Of $1.25",
       "description": "The board of JPMorgan Chase & Co. ( NYSE:JPM ) has announced that it will pay a dividend on the 31st of January, with...",
       "published_utc": "2025-01-01T02:13:01",

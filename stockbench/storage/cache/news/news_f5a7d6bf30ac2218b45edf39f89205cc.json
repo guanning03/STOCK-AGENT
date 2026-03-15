@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "ADP National Employment Report: 42K Private Jobs Added In October",
+      "description": "The ADP report revealed a gain of 42,000 private nonfarm jobs in October, up from the 29,000 loss in September.",
+      "published_utc": "2025-11-05T13:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3b5b3f2d909190cddedde3fa089eb9fc084c4e2e323855fb051125415eb1d3f1",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2111325448/image_2111325448.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137340091,
+      "datetime": 1762368300
+    },
+    {
+      "title": "U.S. Dollar Jumps: Fed Rate Cut Bets Fall & Strong U.S. Data",
+      "description": "The US Dollar (DXY) has pushed beyond the 100.00 psychological level today as markets still price in a more hawkish policy from the Federal...",
+      "published_utc": "2025-11-05T11:56:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7c80624104652579e2a393513942054ed13231e306b020fc3a726df0bd0079a9",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2208328562/image_2208328562.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137339514,
+      "datetime": 1762361760
+    },
+    {
+      "title": "Private-Sector Job Growth Lumbers Along After Getting Hammered By The 2024 Benchmark Adjustments In Sep & Aug",
+      "description": "According to payroll processing firm ADP, the private sector created 42,000 jobs in October, after two months of declines.But the two prior months, so...",
+      "published_utc": "2025-11-05T11:50:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8343f07cdc5fae1c2bbd315d3f7db647f513d43cf822909c08d273228b377eac",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/137044062/image_137044062.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137339517,
+      "datetime": 1762361400
+    },
+    {
+      "title": "The Real Unemployment Rate Is Obscured And Worsening",
+      "description": "The U.S. labor market is weaker than headline unemployment data suggests, with rising involuntary part-time work masking underlying instability. Read the full analysis here.",
+      "published_utc": "2025-11-05T11:42:35",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cfd256dd660907436f9851f4d2476271a51d4a8a3a9bf54cfdd90e1838ca0a1e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1349130044/image_1349130044.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137339456,
+      "datetime": 1762360955
+    },
+    {
+      "title": "JP Morgan's Dimon Says Bank Invested $2 Billion In Detroit Over The Last Decade; Says Bank's Investments In Detroit Helped Reduce Unemployment, Bring Growth; Says Argentina Can Receive $100B In Foreign Investment If President Milei Is Able To Continue Reforms",
+      "description": "- Reuters Interview",
+      "published_utc": "2025-11-05T11:37:18",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=8098e4069891e9dacef487668bcab364a37158e0d2ffeaef61771c340b316471",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138427189,
+      "datetime": 1762360638
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:37:05.506438+00:00",
+    "cache_key": "news_f5a7d6bf30ac2218b45edf39f89205cc",
+    "count": 5
+  }
+}

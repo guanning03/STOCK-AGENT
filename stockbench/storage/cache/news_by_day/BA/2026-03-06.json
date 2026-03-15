@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Iran says it struck UAE air base shortly after Iranian president's vow not to hit neighbors",
+      "description": "The U.S. says it has hit more than 3,000 Iranian targets in the first week of the war, as Iran's president vows to halt attacks on neighbors.",
+      "published_utc": "2026-03-06T21:42:05",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=2b46e3fdfb9d345ce2512248ef12a7abcd3ef0dbaa8e95c40f7b8ba20567de77",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108275105-1772869090048-gettyimages-2264625668-AFP_A2BH8NV.jpeg?v=1772869104&w=1920&h=1080",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139335056,
+      "datetime": 1772851325
+    }
+  ]
+}

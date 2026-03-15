@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "id": "cb53e08814d422fc3374e1c6d366d2d9b282f6c07ec822d80ff47060eb9f15c0",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Top Tech Stocks to Buy Right Now",
+      "author": "Anders Bylund",
+      "published_utc": "2024-12-14T13:41:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/14/3-top-tech-stocks-to-buy-right-now/?source=iedfolrf0000001",
+      "tickers": [
+        "AMD",
+        "IBM",
+        "OLED"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800716/squinting-at-smartphone-over-glasses.jpg",
+      "description": "The article recommends three tech stocks to consider as investors rebalance their portfolios for 2025: AMD, IBM, and Universal Display. AMD is seen as a solid AI hardware investment, IBM's AI services are expected to see soaring demand, and Universal Display's OLED technology is finding more real-world use cases.",
+      "keywords": [
+        "AMD",
+        "IBM",
+        "Universal Display",
+        "AI",
+        "OLED"
+      ],
+      "insights": [
+        {
+          "ticker": "AMD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights AMD's strong position in the AI hardware market, with growing demand for its Instinct AI chips and a promising roadmap for future generations. The stock is seen as an affordable alternative to Nvidia in the AI hardware space."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that IBM's long-term bet on AI is starting to pay off, and the company's enterprise-class AI services are expected to see soaring demand in the coming years. Despite its recent price gains, the stock is still seen as attractively valued compared to peers."
+        },
+        {
+          "ticker": "OLED",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the growing adoption of OLED technology in various applications, from foldable phones to high-end TVs and luxury car dashboards. Universal Display, which collects royalties and sells OLED materials, is seen as a compelling growth story with a reasonable valuation."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:22:22.832900+00:00",
+    "cache_key": "news_601306e628b77c238d9db05f455e5d6b",
+    "count": 1
+  }
+}

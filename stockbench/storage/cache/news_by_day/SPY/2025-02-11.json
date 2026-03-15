@@ -1,0 +1,42 @@
+{
+  "items": [
+    {
+      "id": "28d02f32258c023bef439389a5fd4d6a842960f2163f928714f1db4145ad7f6b",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Warren Buffett Indicator Tops 205% Amid Skyrocketing S&P 500 Valuations As Billionaire Who Predicted Dot-Com Crash 25 Years Ago Warns Of Brewing Trouble",
+      "author": "Rishabh Mishra",
+      "published_utc": "2025-02-11T13:28:07Z",
+      "article_url": "https://www.benzinga.com/25/02/43622036/warren-buffett-indicator-tops-205-amid-skyrocketing-sp-500-valuations-as-this-billionaire-dot-com-crash-predictor",
+      "tickers": [
+        "QQQ",
+        "SPY"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/02/11/nyse-shutter.jpeg?width=1200&height=800&fit=crop",
+      "description": "The Warren Buffett Indicator has surged to 205%, indicating high market valuations. Veteran investor Howard Marks, who predicted the dot-com crash, is warning of cautionary signs in the market, including high S&P 500 valuations and reliance on a few stocks.",
+      "keywords": [
+        "Warren Buffett Indicator",
+        "S&P 500",
+        "Howard Marks",
+        "Dot-com crash",
+        "Market valuations"
+      ],
+      "insights": [
+        {
+          "ticker": "QQQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions the Invesco QQQ Trust ETF, which tracks the Nasdaq 100 index, but does not provide a clear sentiment or outlook for the ETF."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article highlights the high valuation of the S&P 500, with the forward price-to-earnings ratio over 22, which is a concerning sign for the SPDR S&P 500 ETF that tracks the index."
+        }
+      ]
+    }
+  ]
+}

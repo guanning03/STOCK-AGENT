@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "id": "c2a9f9d1483b69817efa7cc93166707eedd94b5fcc44a987b6b83a74bf23c772",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Amazon Poised to Beat the Market in 2025?",
+      "author": "Keithen Drury",
+      "published_utc": "2025-01-06T12:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/06/is-amazon-poised-to-beat-the-market-in-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "META"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801517/group-looking-at-a-chart-going-up.jpg",
+      "description": "The article discusses Amazon's performance in 2024 and its prospects for 2025. It highlights Amazon's strong growth in advertising and cloud computing services, which have boosted the company's revenue and profits. The article suggests that while Amazon's stock price may be expensive, the company's growth potential makes it a good investment for the long term.",
+      "keywords": [
+        "Amazon",
+        "Advertising",
+        "AWS",
+        "Valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Amazon's strong performance in 2024, with its stock price rising nearly 50%. It also notes the company's growth in advertising and cloud computing services, which have boosted its revenue and profits. While the article acknowledges that Amazon's stock price may be expensive, it suggests that the company's growth potential makes it a good investment for the long term."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Alphabet (Google's parent company) as an example of a company that generates high operating margins from its advertising business, which is similar to Amazon's advertising segment. However, the article does not provide any specific commentary or analysis on Alphabet."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Alphabet (Google's parent company) as an example of a company that generates high operating margins from its advertising business, which is similar to Amazon's advertising segment. However, the article does not provide any specific commentary or analysis on Alphabet."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Meta Platforms (Facebook's parent company) as an example of a company that generates high operating margins from its advertising business, which is similar to Amazon's advertising segment. However, the article does not provide any specific commentary or analysis on Meta Platforms."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:21:02.245893+00:00",
+    "cache_key": "news_5329204907ef580894d54360f1c1373f",
+    "count": 1
+  }
+}

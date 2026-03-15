@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": "20d13ff909226bcb1676a46211a01fbccf21e6993b6327120c20c2cfc772cdb3",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Fabulous Dividend Stocks to Buy in February",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-09T19:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/09/3-fabulous-dividend-stocks-to-buy-in-february/?source=iedfolrf0000001",
+      "tickers": [
+        "ABBV",
+        "AMGN",
+        "GILD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806744/happy-stock-investor-holding-smartphone.jpg",
+      "description": "Three Motley Fool contributors recommend AbbVie, Amgen, and Gilead Sciences as fabulous dividend stocks to buy in February. AbbVie has a strong pipeline and growth drivers, Amgen's prospects remain robust despite a recent setback, and Gilead offers a high dividend yield and stability.",
+      "keywords": [
+        "dividend stocks",
+        "AbbVie",
+        "Amgen",
+        "Gilead Sciences"
+      ],
+      "insights": [
+        {
+          "ticker": "ABBV",
+          "sentiment": "positive",
+          "sentiment_reasoning": "AbbVie has a strong pipeline, growth drivers, and a high dividend yield, making it a favorable pick for income investors."
+        },
+        {
+          "ticker": "AMGN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Despite a recent setback, Amgen's prospects remain robust, with a deep pipeline, several growth drivers, and a high dividend yield."
+        },
+        {
+          "ticker": "GILD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Gilead offers a high dividend yield, a stable business, and strong free cash flow, making it an attractive option for income investors."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:50:55.922948+00:00",
+    "cache_key": "news_2a03b7afc70efd4f21f022a8fb5c4f9c",
+    "count": 1
+  }
+}

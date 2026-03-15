@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Wall Street sinks as Trump threatens 8 European countries with tariffs over Greenland",
+      "description": "Stocks slumped on Wall Street Tuesday after President Donald Trump threatened to hit eight European countries with new tariffs as tensions escalate over his attempts to assert American control over Greenland.  Technology stocks were the heaviest weights on the market.  Nvidia, one of the most valuable companies in the world, plunged 4.4%.",
+      "published_utc": "2026-01-19T23:22:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b3de13ff6604f57275be3ca79cb0cb1904c1001ca92a976354cfdbc9b73349ed",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138190351,
+      "datetime": 1768882960
+    },
+    {
+      "title": "Caterpillar vs. Volvo: Which Heavy Equipment Stock is the Better Buy?",
+      "description": "CAT and VLVLY face slowing demand and tariff pressures, but both are investing in technology and capacity to position for long-term infrastructure growth.",
+      "published_utc": "2026-01-19T12:49:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=80dd1cde90d3dc7a273a9ab4166ab2d40571f6b7634c22dcf6bdc9b3da0252a8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138180287,
+      "datetime": 1768844940
+    }
+  ]
+}

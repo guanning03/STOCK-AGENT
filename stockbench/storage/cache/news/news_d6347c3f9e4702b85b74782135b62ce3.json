@@ -1,0 +1,109 @@
+{
+  "items": [
+    {
+      "id": "44956ec72c6ed2087b4c58b26abf9e6f917ec07e9902ca1488fb5b7eb66a970f",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "If You'd Invested $1,000 in Microsoft Stock 11 Years Ago, Here's How Much You'd Have Today",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-16T15:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/16/if-youd-invested-1000-in-microsoft-stock-11-years/?source=iedfolrf0000001",
+      "tickers": [
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807447/msft.jpg",
+      "description": "Microsoft's stock has seen significant growth since Satya Nadella became CEO in 2014, with a $1,000 investment growing to over $13,500 including dividends. Nadella's focus on cloud computing and reducing emphasis on Windows has revived the company's fortunes.",
+      "keywords": [
+        "Microsoft",
+        "stock investment",
+        "Satya Nadella",
+        "cloud computing"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the significant growth in Microsoft's stock price since Satya Nadella became CEO, with a $1,000 investment growing to over $13,500 including dividends. This indicates the company's strong performance and the positive impact of Nadella's leadership."
+        }
+      ]
+    },
+    {
+      "id": "a2448750bbbb2c1376d92546c5dd112690a91f29e4146fb314839cc3677be078",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Reasons to Buy Toast Stock Like There's No Tomorrow",
+      "author": "Jennifer Saibil",
+      "published_utc": "2025-02-16T12:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/16/3-reasons-to-buy-toast-like-theres-no-tomorrow/?source=iedfolrf0000001",
+      "tickers": [
+        "TOST",
+        "AAPL",
+        "AMZN",
+        "NVDA",
+        "MSFT",
+        "SQ",
+        "XYZ"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806011/people-ordering-in-a-restaurant-using-toast-pos.jpg",
+      "description": "Toast, a cloud-based AI company serving the restaurant industry, is seeing strong growth and profitability. With a large market opportunity, international expansion, and new product offerings, Toast stock is a compelling buy despite its recent stock gains.",
+      "keywords": [
+        "Toast",
+        "restaurant industry",
+        "cloud-based",
+        "AI",
+        "growth",
+        "profitability"
+      ],
+      "insights": [
+        {
+          "ticker": "TOST",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Toast's strong growth, profitability, and large market opportunity, making it a compelling investment."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Apple is mentioned as one of the largest components of the S&P 500, but the article does not provide any specific insights about the company."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Amazon is mentioned as one of the largest components of the S&P 500, but the article does not provide any specific insights about the company."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article notes that Nvidia is slated to release earnings, which could affect the market, but does not provide any further analysis."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article notes that Microsoft is slated to release earnings, which could affect the market, but does not provide any further analysis."
+        },
+        {
+          "ticker": "SQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Block's Square seller's business is mentioned as a competitor to Toast, but the article does not provide any specific insights about the company."
+        },
+        {
+          "ticker": "XYZ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Block's Square seller's business is mentioned as a competitor to Toast, but the article does not provide any specific insights about the company."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T22:07:34.831265+00:00",
+    "cache_key": "news_d6347c3f9e4702b85b74782135b62ce3",
+    "count": 2
+  }
+}

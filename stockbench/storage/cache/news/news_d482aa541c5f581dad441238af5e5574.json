@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Zacks Industry Outlook Highlights Travelers, Allstate, Cincinnati Financial, CNA Financial and Axis Capital",
+      "description": "Travelers, Allstate, Cincinnati Financial, CNA Financial and Axis Capital stand out as Zacks sees strong growth ahead for the P&C insurance industry.",
+      "published_utc": "2025-10-27T05:43:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=de6deb960b8d13d7202a24ced4a90aa89a97b4a02e359c77399f5c7f4691208e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137228954,
+      "datetime": 1761558180
+    },
+    {
+      "title": "Chamath Palihapitiya Warns Of 'Massive Value Destruction' For Insurers In Autonomous Era — Only 'Rich Enthusiasts' Will Continue To Drive",
+      "description": "Billionaire investor Chamath Palihapitiya is predicting a significant shift in the auto insurance industry, driven by the growing penetration of Alphabet Inc.&#39;s (NASDAQ: GOOG) Waymo and Tesla Inc.&#39;s (NASDAQ: TSLA) Cybercab in the U.S. domestic mobility market.",
+      "published_utc": "2025-10-27T01:26:13",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=204f2462f287311f2b167e4eed56e392ad67b879a20659d1cc1bcdd34d6f2939",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/10/27/Elon-Musk--Ceo-Of-Tesla--In-A-Formal-Sui.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138494009,
+      "datetime": 1761542773
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:02:50.716739+00:00",
+    "cache_key": "news_d482aa541c5f581dad441238af5e5574",
+    "count": 2
+  }
+}

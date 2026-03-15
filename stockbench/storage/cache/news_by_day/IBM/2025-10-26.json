@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Billionaire Marc Andreessen Says AI Will Be So Powerful 'Everything That Costs $100 Will Sell For A Penny' In A Hyper-Deflation Era",
+      "description": "A surge in AI-driven productivity could trigger hyper-deflation, making items once priced at $100 drop to a penny, billionaire investor Marc Andreessen said recently. The Andreessen Horowitz co-founder described a future in which \"the price of ...",
+      "published_utc": "2025-10-26T15:31:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=86e62dfba087fddd81680c306dd30e0ecbc04cf713f815a0f1b71e2ba3afa83a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137215708,
+      "datetime": 1761507075
+    },
+    {
+      "title": "Ice Cold, Zen-Like Investing With Alex King",
+      "description": "Alex King from Cestrian Capital Research and Growth Investor Pro on staying calm in volatile and confusing markets.",
+      "published_utc": "2025-10-26T12:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3293e62a556e5e7bb1eadd2a2c94117612d10b664db12dd1d5eafd79d0c96515",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1251542693/image_1251542693.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137213349,
+      "datetime": 1761494400
+    },
+    {
+      "title": "Consumer Tech News (Oct 20-Oct 24): Elon Musk Warns Against NASA-DOT Move, Apple Faces Antitrust Heat And More",
+      "description": "Elon Musk criticizes plan to fold NASA into Department of Transportation, claims it threatens agency&#39;s independence and US space leadership.",
+      "published_utc": "2025-10-26T06:01:26",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=e518238940bb641222a5232a429e56bc96166fab31d6908d5488ab65c1a0fb65",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/10/26/Big-Tech-Stocks-Mirror-Dotcom-Bubble--Sa.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138434285,
+      "datetime": 1761472886
+    }
+  ]
+}

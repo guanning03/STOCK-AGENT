@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "id": "128c6b2be03fcab6b572463350832ab4ed6f47aab5667e6ff8e955644a1eb993",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Partner Relationship Management Market to Witness 13.90% CAGR by 2031 | SkyQuest Technology",
+      "author": "Globe Newswire",
+      "published_utc": "2024-12-02T13:30:00Z",
+      "article_url": "https://www.benzinga.com/pressreleases/24/12/g42265101/partner-relationship-management-market-to-witness-13-90-cagr-by-2031-skyquest-technology",
+      "tickers": [
+        "ORCL",
+        "CRM"
+      ],
+      "image_url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "description": "The global partner relationship management market is expected to grow at a CAGR of 13.90% from 2024 to 2031, reaching a value of USD 3.32 Billion. The market is driven by the increasing necessity of partner networks collaboration and collaboration across channels.",
+      "keywords": [
+        "partner relationship management",
+        "PRM",
+        "channel partners",
+        "distributors",
+        "suppliers",
+        "partner collaboration",
+        "communication",
+        "engagement",
+        "performance"
+      ],
+      "insights": [
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Oracle Corporation is a key player contributing to the growth of the partner relationship management market in North America, indicating a positive outlook for the company."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Salesforce.com, Inc. is a key player contributing to the growth of the partner relationship management market in North America, indicating a positive outlook for the company."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T18:46:06.955941+00:00",
+    "cache_key": "news_a635a99ab8ebe2710b534c3899d340b2",
+    "count": 1
+  }
+}

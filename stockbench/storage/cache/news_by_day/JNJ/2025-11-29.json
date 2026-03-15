@@ -1,0 +1,78 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer Says He is “Particularly Fond” of Johnson & Johnson",
+      "description": "Johnson & Johnson (NYSE:JNJ) is one of the stocks Jim Cramer discussed, along with the need for diversification. Cramer highlighted that he is fond of the stock, as he said: “You could own JNJ and Merck with their incredible franchises. You know what? I’m actually particularly fond of JNJ right now. They’re spinning off their […]",
+      "published_utc": "2025-11-29T13:28:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8aca7c403dc2315c2bfbaaaa7407657776dbbf849c8ad70c7aeff8f55ac1276e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137649854,
+      "datetime": 1764440938
+    },
+    {
+      "id": "33d0a07637dc766171f17b943cb62e387a31dc15383681e1ca9fc23c28e0136b",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Intuitive Surgical's Dominance Safe? 10 Years of Healthcare Upside",
+      "author": "Prosper Junior Bakiny",
+      "published_utc": "2025-11-29T10:17:00Z",
+      "article_url": "https://www.fool.com/investing/2025/11/29/is-intuitive-surgicals-dominance-safe-10-years-of/?source=iedfolrf0000001",
+      "tickers": [
+        "ISRG",
+        "MDT",
+        "JNJ"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843808%2Fphysicians-in-an-operating-room.jpg&w=1200&op=resize",
+      "description": "Intuitive Surgical, a leader in robotic-assisted surgery, faces increasing competition from Medtronic and Johnson & Johnson but is expected to maintain market leadership due to its established technology, large installed base, and growing healthcare market opportunities.",
+      "keywords": [
+        "robotic surgery",
+        "healthcare",
+        "medical technology",
+        "market competition",
+        "aging population"
+      ],
+      "insights": [
+        {
+          "ticker": "ISRG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Despite emerging competition, the company has a strong first-mover advantage, extensive installed base, recurring revenue model, and is well-positioned to benefit from aging population and increasing healthcare needs"
+        },
+        {
+          "ticker": "MDT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Developing competing robotic surgery system (Hugo) but seen as a potential market challenger rather than an immediate threat"
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Developing Ottava robotic surgery system currently in clinical trials, representing potential future competition"
+        }
+      ]
+    },
+    {
+      "title": "Best Dividend Aristocrats For December 2025",
+      "description": "The ProShares S&P 500 Dividend Aristocrats ETF (NOBL) has underperformed the SPDR S&P 500 ETF (SPY) year-to-date, but November shows a reversal.",
+      "published_utc": "2025-11-29T03:02:04",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f9d8eba394946c6c89d2213b0aa1b8b6f97400c0b00dde97a6f4d363f7bab735",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2175618058/image_2175618058.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137636101,
+      "datetime": 1764403324
+    }
+  ]
+}

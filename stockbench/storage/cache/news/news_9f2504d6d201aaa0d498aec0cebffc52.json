@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "'Sell The Dollar': Think Price, Not Flows",
+      "description": "My simplistic input on the topic is that people need to stop thinking about 'global rebalancing' in terms of flows; price changes can do the job. Read more here.",
+      "published_utc": "2026-01-26T17:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ab53effe4c6b8c8673eacb06cc4df952d22a8e2991a348b14f280fbf380ab4a6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2180251986/image_2180251986.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138266386,
+      "datetime": 1769466900
+    },
+    {
+      "title": "Why Investors Are Turning to Autocallable ETFs for Higher Income",
+      "description": "We discuss how autocallable ETFs work and how they should be used.",
+      "published_utc": "2026-01-26T16:38:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9ea072010407ef485de49847e1b3fc9354469175cbc0cbbca1dbf6ae612d7bf9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138265599,
+      "datetime": 1769463480
+    },
+    {
+      "title": "President Trump On Truth Social Says South Korea's Legislature Is Not Living Up To Its Deal With United States; I Am Hereby Increasing South Korean Tariffs On Autos, Lumber, Pharma, And All Other Reciprocal Tariffs, From 15% To 25%",
+      "description": "https://truthsocial.com/@realDonaldTrump/posts/115963633972056786",
+      "published_utc": "2026-01-26T13:00:45",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=7ff692e36d5a4568eb0080429b425e2ecb684c5fef4cb8950795db0e9147773c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138459887,
+      "datetime": 1769450445
+    },
+    {
+      "title": "Gold Exceeds $5,100 Per Ounce: Not A Good Sign",
+      "description": "Gold above $5,000 signals geopolitical and monetary stress while stocks hit highs. Click here to read my full analysis.",
+      "published_utc": "2026-01-26T13:00:43",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=46bd1ee3ac973dab37490737fa8b7a31fc9d388c53bcaba5e6689bd8e848f32f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2205585261/image_2205585261.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138265251,
+      "datetime": 1769450443
+    },
+    {
+      "title": "Did The Market Bottom Or Just Bounce?",
+      "description": "if last week turns out to be just a bounce followed by a break of last Tuesdayâs low, thereâs reason to believe a bigger correction is underway. Read more here...",
+      "published_utc": "2026-01-26T11:50:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a24349fa26b487dc5cb527a338fbb753b92244221d9ed7619bc7efa4d012b9f8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2250899628/image_2250899628.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138264887,
+      "datetime": 1769446200
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:07:23.788321+00:00",
+    "cache_key": "news_9f2504d6d201aaa0d498aec0cebffc52",
+    "count": 5
+  }
+}

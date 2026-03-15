@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": "a49eac4a2da99bbb4564fd6aaee4ac6bc28542791468aa9d9b4774b4d9d83693",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Home Depot Stock: Bull vs. Bear",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-15T09:39:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/15/home-depot-stock-bull-vs-bear/?source=iedfolrf0000001",
+      "tickers": [
+        "HD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800863/gettyimages-1890897776.jpg",
+      "description": "The article discusses the investment outlook for Home Depot stock, with two Motley Fool contributors offering differing perspectives. One contributor sees potential upside from a normalization of interest rates and the housing market, while the other believes the stock's valuation already reflects a housing market recovery.",
+      "keywords": [
+        "Home Depot",
+        "housing market",
+        "interest rates"
+      ],
+      "insights": [
+        {
+          "ticker": "HD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a mixed outlook on Home Depot stock, with one contributor seeing potential upside from a housing market recovery, while the other believes the stock's valuation already reflects this potential. The overall sentiment is neutral, as the article does not provide a clear recommendation on whether to buy, sell, or hold the stock."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:24:34.091861+00:00",
+    "cache_key": "news_aad7485355c189bd63ad1b4c632b0185",
+    "count": 1
+  }
+}

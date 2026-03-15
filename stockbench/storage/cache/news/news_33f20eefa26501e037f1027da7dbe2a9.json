@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today, Feb. 23: Nvidia Earnings Loom as Tariff Concerns Drive Dow 800 Points Lower",
+      "description": "AI jitters, tariff shock, and looming Nvidia results have investors fleeing growth for perceived safety, today, Feb. 23, 2026.",
+      "published_utc": "2026-02-23T17:31:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ba8070610858ab3a8f211085a882dbfd79b64fee552fb6198f8fbcb9f815e6eb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139188619,
+      "datetime": 1771885915
+    },
+    {
+      "title": "Viral Research Post On AI Risks Spooks Investors. DoorDash, American Express Among Stocks Taking A Hit.",
+      "description": "DoorDash stock slid after viral post described the food-delivery company as a \"poster child\" for risks from AI.",
+      "published_utc": "2026-02-23T16:53:28",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bdfcdf4decc3d6c6818a8da921d26b3646855e8fdf55496e4c87840b6b368e01",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139188713,
+      "datetime": 1771883608
+    },
+    {
+      "title": "Stock Market Today: Dow Sinks As EU Makes Trump Tariff Move; IBM Dives On This AI Threat (Live Coverage)",
+      "description": "Indexes, including the Dow Jones industrials, dived on the stock market today. The EU made a Trump tariff move. Novo stock slid but gold plays shined.",
+      "published_utc": "2026-02-23T16:40:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fdff028869a90d369bc2d2253cda299441168e9e4785514fdb8c84362ae753c7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139188119,
+      "datetime": 1771882815
+    },
+    {
+      "title": "American Express Hits Dow Jones On AI Doomsday 'Work Of Fiction'",
+      "description": "American Express dragged the Dow Jones Industrial Average lower on Monday afternoon as investors responded to a bleak 2027 AI-driven recession scenario published by Citrini Research, a firm that offers thematic and global macro trading ideas.  The firm says it's bullish on AI's potential and wonders about the economic implications if the impact is so far-reaching that it turns out to be bearish.  American Express, Capital One Financial, Blackstone Financial and KKR were among companies in Citrini's fictional write-up that were among Monday's biggest S&P 500 laggards.",
+      "published_utc": "2026-02-23T16:19:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ad65a785661a72936c80c01932e15892b7f19992d4244f7b304cbcf717ecae78",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139188025,
+      "datetime": 1771881597
+    },
+    {
+      "title": "Dow Jones Falls As Fictional AI White-Collar Wipeout Tale Strikes A Nerve",
+      "description": "Dow Jones Falls As Fictional AI White-Collar Wipeout Tale Strikes A Nerve",
+      "published_utc": "2026-02-23T16:12:09",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=a704b37eff75b7b4db356ea4621958f76bdc76eae684a5f609bb27da868fcbc1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139213775,
+      "datetime": 1771881129
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:31:52.084053+00:00",
+    "cache_key": "news_33f20eefa26501e037f1027da7dbe2a9",
+    "count": 5
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "From AI To Emerging Markets: How 6 Pros Would Allocate $10K In Today's Market",
+      "description": "",
+      "published_utc": "2025-08-03T10:01:34",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f5832dac1251a6081666b5da9af0698566ca807e16110539979dea411fc1dfcc",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/08/03/Business-Man-Trader-Broker-Analyst-Inves.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138446207,
+      "datetime": 1754229694
+    },
+    {
+      "title": "Why Drug Prices for Some Big Medicines Will Remain High for a Longer Time",
+      "description": "Little-known provisions in the Big Beautiful Bill lobbied by industry will cost Medicare billions in missed savings.",
+      "published_utc": "2025-08-03T10:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=df78ec9188ca4da804ec1313c3d94767caaabe52f9a2476c20ff44da47da015c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136192173,
+      "datetime": 1754229600
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:34:28.688856+00:00",
+    "cache_key": "news_b6dc8dd3171ff8df204318a6ea2de0f3",
+    "count": 2
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "id": "bcf965dd8e8f13745e6d522301d464168a2518f70be6a00035acad5d1cd95ffb",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Better Enterprise Software Stock: ServiceNow vs. Salesforce",
+      "author": "Anders Bylund",
+      "published_utc": "2024-12-07T12:07:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/07/better-software-stock-servicenow-vs-salesforce/?source=iedfolrf0000001",
+      "tickers": [
+        "CRM",
+        "NOW"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799945/ai-robots-typing-on-laptops-at-conference-room-table.png",
+      "description": "Salesforce and ServiceNow are both leveraging AI to drive growth, but Salesforce's stock is more attractively priced compared to ServiceNow's lofty valuation. Salesforce's AI-powered offerings like Agentforce show promise, and the company's scale and affordable stock price make it the better buy.",
+      "keywords": [
+        "Salesforce",
+        "ServiceNow",
+        "AI",
+        "enterprise software",
+        "stock valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce is leveraging AI to drive growth, with offerings like Agentforce, and its stock is more affordable compared to ServiceNow, making it the better buy."
+        },
+        {
+          "ticker": "NOW",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "ServiceNow is also tapping into the AI opportunity, but its stock is trading at much loftier valuation ratios, which may not be justified by its growth potential."
+        }
+      ]
+    },
+    {
+      "id": "2f3821c5a1336ceeeca69d21b6c9eb3984eaa4fa3a17a2d009d9e4f3998a59ed",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Up Approximately 8,000% the Past 20 Years, This Stock Just Shot Higher on Increased Guidance. Can the Momentum Continue?",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-07T10:52:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/07/up-approximately-8000-the-past-20-years-this-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "CRM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799920/gettyimages-1503223319.jpg",
+      "description": "Salesforce, the leading software-as-a-service company, has seen its stock price rise over 8,000% in the past 20 years. The company's recent strong earnings report and increased revenue guidance have led to a surge in the stock price, but the question remains whether this momentum can continue.",
+      "keywords": [
+        "Salesforce",
+        "SaaS",
+        "AI",
+        "Agentforce",
+        "revenue growth"
+      ],
+      "insights": [
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Salesforce's strong financial performance, with revenue growth and increased guidance, as well as the potential for its new Agentforce platform to drive future growth. The article suggests that Salesforce is a solid investment option at current levels."
+        }
+      ]
+    }
+  ]
+}

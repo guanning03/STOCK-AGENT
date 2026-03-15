@@ -1,0 +1,78 @@
+{
+  "items": [
+    {
+      "id": "fe53ce1854151e2e86aa313fc5543ae8a9b3a2608d18f6c48312bd3b42979dfd",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Dozers Market to reach $22.3 Bn by 2032, Says Global Market Insights Inc.",
+      "author": "Global Market Insights Inc.",
+      "published_utc": "2025-01-28T08:30:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/28/3016107/0/en/Dozers-Market-to-reach-22-3-Bn-by-2032-Says-Global-Market-Insights-Inc.html",
+      "tickers": [
+        "CAT",
+        "DE",
+        "DOOSF",
+        "HTHIY",
+        "KMTUY",
+        "VLVLY",
+        "ZLIOY",
+        "CNH"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/6a29379b-a16f-4ee6-9798-26bdadb816f3",
+      "description": "The dozers market is predicted to reach USD 22.3 billion by 2032, driven by the surge in infrastructure development and urbanization. The rising demand for essential minerals and metals is also boosting mining activities, contributing to the growing adoption of high-capacity and specialized dozers.",
+      "keywords": [
+        "dozers",
+        "construction",
+        "mining",
+        "infrastructure",
+        "urbanization"
+      ],
+      "insights": [
+        {
+          "ticker": "CAT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists Caterpillar as a major player in the dozers market, but does not provide any additional details about the company's position or performance."
+        },
+        {
+          "ticker": "DE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Deere & Company is listed as a major player in the dozers market, but the article does not provide any further information about the company's performance or prospects in this industry."
+        },
+        {
+          "ticker": "DOOSF",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Doosan is mentioned as a major dozers market participant, but the article does not offer any additional details about the company's position or outlook in this market."
+        },
+        {
+          "ticker": "HTHIY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists Hitachi as a major player in the dozers market, but does not provide any specific information about the company's performance or role in this industry."
+        },
+        {
+          "ticker": "KMTUY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Komatsu is mentioned as a major dozers market participant, but the article does not offer any insights into the company's position or outlook in this market."
+        },
+        {
+          "ticker": "VLVLY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists Volvo as a major player in the dozers market, but does not provide any specific information about the company's performance or role in this industry."
+        },
+        {
+          "ticker": "ZLIOY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Zoomlion is mentioned as a major dozers market participant, but the article does not offer any insights into the company's position or outlook in this market."
+        },
+        {
+          "ticker": "CNH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "CNH Industrial is mentioned as a major dozers market participant, but the article does not offer any insights into the company's specific role or outlook in this market."
+        }
+      ]
+    }
+  ]
+}

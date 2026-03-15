@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "id": "2cf9bfa2362d472ffa2316118cd2bbf0650ebf7b27ca1d1b4fd72531e6bf9bb3",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Should You Buy the 3 Highest-Paying Dividend Stocks in the Dow Jones?",
+      "author": "Anders Bylund",
+      "published_utc": "2024-12-07T15:39:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/07/should-you-buy-3-highest-dow-dividend-yields/?source=iedfolrf0000001",
+      "tickers": [
+        "VZ",
+        "CVX",
+        "AMGN",
+        "DIA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800011/dollar-bills-and-coins-on-a-calendar.jpg",
+      "description": "The article discusses the changing composition of the Dow Jones Industrial Average, with a focus on the 'Dogs of the Dow' strategy. It analyzes the performance and prospects of three Dow stocks - Verizon, Chevron, and Amgen - and suggests that the Dow's shift away from high-dividend stocks may make the 'Dogs' strategy less effective.",
+      "keywords": [
+        "Dow Jones Industrial Average",
+        "Dogs of the Dow",
+        "Verizon",
+        "Chevron",
+        "Amgen",
+        "dividend stocks"
+      ],
+      "insights": [
+        {
+          "ticker": "VZ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article suggests that Verizon is a mature telecom company that offers steady dividends but lacks investor-friendly price growth prospects. It is seen as an alternative to savings accounts or CDs for income-seeking investors, but not as a stock with market-beating returns."
+        },
+        {
+          "ticker": "CVX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Similar to Verizon, the article portrays Chevron as a company focused on generous dividend payouts rather than strong stock price performance. It is described as a stock to consider only for investors primarily seeking dividend income."
+        },
+        {
+          "ticker": "AMGN",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article expresses concerns about Amgen's haphazard data reporting and the volatility of the healthcare sector, suggesting that most investors would be better off avoiding the stock despite its low price."
+        },
+        {
+          "ticker": "DIA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that the Dow Jones Industrial Average is moving away from generous dividend payers, which could make the 'Dogs of the Dow' strategy less effective."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T18:58:27.401568+00:00",
+    "cache_key": "news_b871fde07fca5b5bf185acc8da8777a0",
+    "count": 1
+  }
+}

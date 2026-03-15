@@ -1,0 +1,161 @@
+{
+  "items": [
+    {
+      "id": "06b7f3d3139f8839862191f76a3d74f27368c718b5731f425fad7ba066e0bcf6",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Geomarketing Market to Reach USD 116.96 Billion by 2032, Driven by Location Data and Emerging Technologies | Research by SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-02-11T15:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/11/3024311/0/en/Geomarketing-Market-to-Reach-USD-116-96-Billion-by-2032-Driven-by-Location-Data-and-Emerging-Technologies-Research-by-SNS-Insider.html",
+      "tickers": [
+        "IBM",
+        "MSFT",
+        "CSCO",
+        "ORCL",
+        "ADBE",
+        "CRM"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The geomarketing market is rapidly expanding, driven by the increasing use of location-specific data and emerging technologies like AI and machine learning. This is enabling more personalized marketing strategies, particularly in industries like retail, real estate, and tourism.",
+      "keywords": [
+        "geomarketing",
+        "location data",
+        "AI",
+        "machine learning",
+        "personalized marketing"
+      ],
+      "insights": [
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IBM is mentioned as a key player in the geomarketing market, with its incorporation of AI into cloud applications and consumer research initiatives, which are expected to contribute to the growth of location-based marketing."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is also highlighted as a major player in the geomarketing market, with its Azure Maps and Power BI offerings, which are expected to drive the growth of location-based services and analytics."
+        },
+        {
+          "ticker": "CSCO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Cisco is mentioned as a key player in the geomarketing market, with its Cisco Meraki and Cisco Digital Network Architecture solutions, which are expected to contribute to the development of location-based marketing strategies."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Oracle is highlighted as a major player in the geomarketing market, with its incorporation of AI into its cloud applications, which is expected to enhance location-based marketing capabilities."
+        },
+        {
+          "ticker": "ADBE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Adobe is mentioned as a key player in the geomarketing market, with its Adobe Analytics and Adobe Experience Cloud offerings, which are expected to contribute to the development of location-based marketing strategies."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce is highlighted as a major player in the geomarketing market, with its Salesforce Marketing Cloud and Salesforce Maps solutions, which are expected to drive the growth of location-based marketing."
+        }
+      ]
+    },
+    {
+      "id": "87ae092ce5ca387cc4eec74cdef903be7b5bf04b9573c237db00f6a70f23067d",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Cloud Applications Market to USD 2230.4 Billion by 2032, Owing to Increased Cloud Adoption and Digital Transformation | Research by SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-02-11T15:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/11/3024310/0/en/Cloud-Applications-Market-to-USD-2230-4-Billion-by-2032-Owing-to-Increased-Cloud-Adoption-and-Digital-Transformation-Research-by-SNS-Insider.html",
+      "tickers": [
+        "CRM",
+        "MSFT",
+        "ORCL",
+        "SAP",
+        "IBM",
+        "WDAY"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The cloud applications market is expected to grow rapidly, reaching $2.23 trillion by 2032, driven by the increasing adoption of cloud-based solutions and digital transformation initiatives across industries. Key factors fueling this growth include the need for remote collaboration tools, cloud-native applications, and multi-cloud environments.",
+      "keywords": [
+        "cloud applications",
+        "digital transformation",
+        "cloud adoption",
+        "remote collaboration",
+        "cloud-native applications",
+        "multi-cloud environments"
+      ],
+      "insights": [
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce is a leading provider of cloud-based CRM solutions, which are expected to see strong demand as businesses embrace digital transformation and cloud-based technologies."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft's cloud platform, Azure, is a major player in the cloud applications market, and the company's suite of cloud-based productivity and enterprise solutions are well-positioned to benefit from the industry's growth."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Oracle has been expanding its cloud-based enterprise offerings, which are expected to contribute to the growth of the cloud applications market."
+        },
+        {
+          "ticker": "SAP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "SAP is a leading provider of cloud-based enterprise resource planning (ERP) solutions, which are a key component of the cloud applications market."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IBM's cloud-based services and solutions are likely to benefit from the growth in the cloud applications market."
+        },
+        {
+          "ticker": "WDAY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Workday is a leading provider of cloud-based human capital management (HCM) and financial management solutions, which are expected to see strong demand as businesses adopt cloud-based applications."
+        }
+      ]
+    },
+    {
+      "id": "2ba2242583c421a87f4eea48c1d68c585ff956b0188b2b71169bd0af0d7ef171",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Gireesh Kambala Receives a 2025 Global Recognition Award for State and Federal Digital Innovation and Leadership",
+      "author": "Gireesh Kambala",
+      "published_utc": "2025-02-11T03:25:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/11/3023884/0/en/Gireesh-Kambala-Receives-a-2025-Global-Recognition-Award-for-State-and-Federal-Digital-Innovation-and-Leadership.html",
+      "tickers": [
+        "IBM"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/a575dbdf-e3ba-4f5b-b813-b3f465ecdcd1",
+      "description": "Gireesh Kambala, a technology leader, received a 2025 Global Recognition Award for enhancing federal digital infrastructure and talent development. His innovative solutions improved government efficiency by 35% and 85% of his mentees advanced to senior roles during his two-decade career.",
+      "keywords": [
+        "digital innovation",
+        "federal digital infrastructure",
+        "talent development",
+        "government efficiency",
+        "mentorship"
+      ],
+      "insights": [
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Kambala's leadership roles at IBM have driven measurable improvements by focusing on cultural integration and mentorship, with his team members consistently rating his leadership as exemplary."
+        }
+      ]
+    }
+  ]
+}

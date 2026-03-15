@@ -1,0 +1,72 @@
+{
+  "items": [
+    {
+      "id": "6c475677eb377b3bef193f7e1f33c9af7ca2f703349598260fc48f5373e79530",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "AeroDef Manufacturing 2025 Comes to Detroit With Expanded Focus on Defense Industry",
+      "author": "N/A",
+      "published_utc": "2024-12-16T16:53:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2024/12/16/2997717/0/en/AeroDef-Manufacturing-2025-Comes-to-Detroit-With-Expanded-Focus-on-Defense-Industry.html",
+      "tickers": [
+        "TXT",
+        "LMT",
+        "NOC",
+        "RTX",
+        "BA",
+        "BApA"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/a7b874bb-289f-4afe-b1ba-f0ec668c986d",
+      "description": "AeroDef Manufacturing 2025, a comprehensive event focused on advancing the aerospace and defense industries, will be held in Detroit from April 8-10, 2025. The event will feature advanced technology exhibits, thought leadership, and educational sessions from industry experts. It will be co-located with other major industry events, providing attendees with access to a wide range of innovations in manufacturing, mobility, and additive manufacturing.",
+      "keywords": [
+        "AeroDef Manufacturing",
+        "aerospace",
+        "defense",
+        "manufacturing",
+        "technology",
+        "innovation"
+      ],
+      "insights": [
+        {
+          "ticker": "TXT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Bell Textron, along with other leading companies, will provide direction to the event, indicating their involvement and support."
+        },
+        {
+          "ticker": "LMT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Lockheed Martin, along with other leading companies, will provide direction to the event, indicating their involvement and support."
+        },
+        {
+          "ticker": "NOC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Northrop Grumman, along with other leading companies, will provide direction to the event, indicating their involvement and support."
+        },
+        {
+          "ticker": "RTX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that RTX, along with other leading companies, will provide direction to the event, indicating their involvement and support."
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that The Boeing Co., along with other leading companies, will provide direction to the event, indicating their involvement and support."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that The Boeing Co., along with other leading companies, will provide direction to the event, indicating their involvement and support."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:32:02.134060+00:00",
+    "cache_key": "news_020d1a5c02ffdfd023b761124b12c474",
+    "count": 1
+  }
+}

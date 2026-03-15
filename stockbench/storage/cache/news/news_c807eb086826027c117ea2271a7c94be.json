@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar Stock Has Outperformed the S&P 500. Its Rally May Only Be Getting Started.",
+      "description": "Caterpillar Stock Has Outperformed the S&P 500. Its Rally May Only Be Getting Started.",
+      "published_utc": "2025-09-30T19:00:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=fbdf51166201c6d4404ce8cd560a35438e0365a0fc9a3860d4e612593f65423e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136996410,
+      "datetime": 1759273200
+    },
+    {
+      "title": "AI’s Winners Aren’t All in Tech. 22 Cheaper Stocks to Consider.",
+      "description": "Investors can benefit from artificial intelligence without taking the risk of buying the highflying technology names.",
+      "published_utc": "2025-09-30T14:49:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=22ff6d9fca2fe7fde477b58d992b09ca5dee5d5cf8d413a772d065d1ce024d6d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136943910,
+      "datetime": 1759258140
+    },
+    {
+      "title": "Global Mining Autonomous Surface Blast-hole Drills Development Research Report: Australia Leads in Deployment, with Anglo American As a Top User",
+      "description": "Autonomous blasthole drills offer growing opportunities in surface mining by boosting productivity, reducing accidents and costs, and extending machine life. Australia leads in deployment, with Anglo American as a top user. Epiroc and Caterpillar dominate the market, capturing 87% of tracked brands.Dublin, Sept. 30, 2025 (GLOBE NEWSWIRE) -- The \"Development of Autonomous Surface Blast-hole Drills in the Global Mining Sector, 2025\" report has been added to ResearchAndMarkets.com's offering. The r",
+      "published_utc": "2025-09-30T11:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c67b2a394406f517bd638d7c62f1887a5a82fa0a791b86551fd1d34206fc208d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136937663,
+      "datetime": 1759245300
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T04:39:17.322654+00:00",
+    "cache_key": "news_c807eb086826027c117ea2271a7c94be",
+    "count": 3
+  }
+}

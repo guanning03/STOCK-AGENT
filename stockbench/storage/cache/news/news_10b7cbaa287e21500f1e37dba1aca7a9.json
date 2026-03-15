@@ -1,0 +1,132 @@
+{
+  "items": [
+    {
+      "id": "54fab269c8e2c06cae2956dc2ccc55176612a6aaa873ed5c5ead4c9d25383e2b",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Stock Market Mistakes Investors Should Avoid in 2025",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-08T13:05:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/08/3-stock-market-mistakes-investors-avoid-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "MSFT",
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "TSLA",
+        "NVDA",
+        "META"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799988/gettyimages-1399376478-1200x793-9025b6f-2.jpg",
+      "description": "The article advises against making hasty investment decisions based on short-term market trends or political changes. It emphasizes the importance of maintaining a long-term investment strategy and avoiding the temptation to rotate in and out of sectors or companies that are temporarily underperforming.",
+      "keywords": [
+        "investment strategy",
+        "market cycles",
+        "short-term trends",
+        "long-term investing"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the combined market capitalization of Apple and other mega-cap growth stocks, which have seen a significant rally since 2022, indicating the potential for long-term growth."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the combined market capitalization of Microsoft and other mega-cap growth stocks, which have seen a significant rally since 2022, indicating the potential for long-term growth."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the combined market capitalization of Alphabet and other mega-cap growth stocks, which have seen a significant rally since 2022, indicating the potential for long-term growth."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the combined market capitalization of Alphabet and other mega-cap growth stocks, which have seen a significant rally since 2022, indicating the potential for long-term growth."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the combined market capitalization of Amazon and other mega-cap growth stocks, which have seen a significant rally since 2022, indicating the potential for long-term growth."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the combined market capitalization of Tesla and other mega-cap growth stocks, which have seen a significant rally since 2022, indicating the potential for long-term growth."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Nvidia as an example of a company that has successfully monetized AI and broken out to new highs, suggesting its potential for continued growth."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the combined market capitalization of Meta Platforms and other mega-cap growth stocks, which have seen a significant rally since 2022, indicating the potential for long-term growth."
+        }
+      ]
+    },
+    {
+      "id": "cb27a9ed944622d234b383197173faceb4df45e25d887ae982dafe46d0d30c7e",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Portfolio Moves Stock Market Investors Should Make Before the End of the Year",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-08T12:16:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/08/portfolio-moves-stock-market-investors-before-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "MSFT",
+        "NVDA",
+        "META",
+        "MGV"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799989/gettyimages-1480936860-1200x600-7cb9712.jpg",
+      "description": "The article discusses strategies for portfolio management, including maintaining an investment thesis, monitoring portfolio allocation, and setting savings goals. It highlights the importance of focusing on factors within your control, such as investing in quality companies and sticking with winning investments, to achieve long-term financial success.",
+      "keywords": [
+        "portfolio management",
+        "investment thesis",
+        "portfolio allocation",
+        "savings goals",
+        "long-term investing"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Microsoft as an industry-leading company with exposure to various end markets, a strong balance sheet, and multiple levers for growing earnings, making it a worthwhile long-term investment."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article uses Nvidia as an example of a stock that has significantly outperformed the market, demonstrating the importance of monitoring portfolio allocation and not selling winners just because they have appreciated in value."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Meta Platforms as another stock that has performed well, though its percentage of the portfolio has not changed as much as Nvidia's due to the outsized gains of Nvidia and the broader market."
+        },
+        {
+          "ticker": "MGV",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests the Vanguard Mega Cap Value ETF as a diversified option for investors looking to balance their portfolio's exposure to megacap, tech-focused growth companies."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:01:18.334430+00:00",
+    "cache_key": "news_10b7cbaa287e21500f1e37dba1aca7a9",
+    "count": 2
+  }
+}

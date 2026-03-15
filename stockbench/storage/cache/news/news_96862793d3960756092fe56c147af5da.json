@@ -1,0 +1,137 @@
+{
+  "items": [
+    {
+      "title": "The eVTOL Company No One Is Talking About (Hint: It's Not Joby Aviation or Archer)",
+      "description": "Wisk, backed by Boeing, is pursuing autonomous eVTOLs, posing a threat to Joby and Archer.",
+      "published_utc": "2026-01-31T12:34:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a483e166a52daa25791b65f8cdd974abb0b8cedd8246b5e78120500d966b23b6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138316674,
+      "datetime": 1769880840
+    },
+    {
+      "title": "The $1.2 Trillion Aerospace And Defense Supercycle",
+      "description": "",
+      "published_utc": "2026-01-31T02:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fb35eb8ad887987526181ae705f8c5c95f31e68aa480cfe0cdb4d69ee9240cb9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138314665,
+      "datetime": 1769844600
+    },
+    {
+      "title": "Boeing Order Surge And Spirit Deal Tested By Production Risks",
+      "description": "Boeing (NYSE:BA) reported a surge in commercial airplane orders and deliveries, including large commitments from Air India and Ethiopian Airlines. The company completed its acquisition of Spirit AeroSystems, bringing a key fuselage and components supplier fully in house. Management highlighted a record backlog and plans for production ramp up, while acknowledging ongoing production challenges and regulatory scrutiny. Boeing sits at the center of global commercial aviation, with its jets...",
+      "published_utc": "2026-01-30T19:19:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2e6bd7c9a2e89ac8bd11ed19528ae97bad9dc63dfba87baee594f8dec874b365",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138312134,
+      "datetime": 1769818783
+    },
+    {
+      "id": "a798b7b5a11ab67e765f5952f8b402f6c003ceb11f826aa9a076a78ae020d455",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "This Stock Faces Big Risks, but Also Big Potential Upside",
+      "author": "Lee Samaha",
+      "published_utc": "2026-01-31T06:05:00Z",
+      "article_url": "https://www.fool.com/investing/2026/01/31/this-stock-faces-big-risks-but-also-big-potential/?source=iedfolrf0000001",
+      "tickers": [
+        "JOBY",
+        "JOBY.WS",
+        "ACHR",
+        "ACHR.WS",
+        "BA",
+        "BApA",
+        "DAL",
+        "UBER",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F849982%2Fjoby-aviation.jpg&w=1200&op=resize",
+      "description": "Joby Aviation leads the eVTOL certification race with strong partnerships from Delta, Uber, and Toyota, but faces significant risks including high cash burn requiring future dilution, FAA certification uncertainty, and long-term competition from Boeing's autonomous Wisk. The vertically integrated business model offers substantial upside potential but requires substantial capital investment before generating revenue.",
+      "keywords": [
+        "eVTOL",
+        "electric aviation",
+        "air taxi",
+        "FAA certification",
+        "vertically integrated",
+        "cash burn",
+        "autonomous aircraft",
+        "first-mover advantage"
+      ],
+      "insights": [
+        {
+          "ticker": "JOBY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Company is leading in eVTOL certification with strong partnerships and first-mover advantage, but faces substantial risks including high cash burn ($646M in 2026), likely shareholder dilution from equity raises, FAA certification uncertainty, and long-term competitive threat from autonomous alternatives."
+        },
+        {
+          "ticker": "JOBY.WS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Company is leading in eVTOL certification with strong partnerships and first-mover advantage, but faces substantial risks including high cash burn ($646M in 2026), likely shareholder dilution from equity raises, FAA certification uncertainty, and long-term competitive threat from autonomous alternatives."
+        },
+        {
+          "ticker": "ACHR",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Positioned as a lower-risk OEM alternative to Joby by leveraging established partners like Stellantis and Honeywell, but lacks the first-mover advantage and vertically integrated revenue model that could provide higher upside potential."
+        },
+        {
+          "ticker": "ACHR.WS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Positioned as a lower-risk OEM alternative to Joby by leveraging established partners like Stellantis and Honeywell, but lacks the first-mover advantage and vertically integrated revenue model that could provide higher upside potential."
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Its Wisk subsidiary poses a long-term competitive threat to Joby through autonomous eVTOL development that could undercut pricing and potentially disrupt Joby's business model, though regulatory and technical challenges remain significant."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Its Wisk subsidiary poses a long-term competitive threat to Joby through autonomous eVTOL development that could undercut pricing and potentially disrupt Joby's business model, though regulatory and technical challenges remain significant."
+        },
+        {
+          "ticker": "DAL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strategic partnership with Joby to use air taxis for airport transportation provides early revenue opportunity and validates the eVTOL business model."
+        },
+        {
+          "ticker": "UBER",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Partnership with Joby to integrate air taxi services into Uber's app provides distribution channel and revenue opportunity for Joby's services."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Collaboration with Joby on potential autonomous eVTOL development positions Nvidia to benefit from future autonomous aviation technology deployment."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:20:02.963965+00:00",
+    "cache_key": "news_96862793d3960756092fe56c147af5da",
+    "count": 4
+  }
+}

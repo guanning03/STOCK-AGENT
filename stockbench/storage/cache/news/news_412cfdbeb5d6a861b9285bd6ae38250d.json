@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Prediction: Taiwan Semiconductor Manufacturing Stock Is the Safest AI Chip Bet",
+      "description": "TSMC has become the undisputed foundry leader.  Taiwan Semiconductor Manufacturing (NYSE: TSM) may not design artificial intelligence (AI) chips, but it's a company that every AI chipmaker relies on.  The AI giants rely on TSMC to manufacture their number-crunching chip designs.",
+      "published_utc": "2025-07-13T12:47:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b8724e9fdbb6de29501212fcc95310ff370ef1df514213047c5a8a866343552c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135912778,
+      "datetime": 1752425220
+    },
+    {
+      "title": "Wall Street Brunch: Big Banks Kick Off Earnings Season",
+      "description": "Big banks and Netflix to report as Q2 reporting heats up. June CPI seen rising. Amazon sees biggest Prime Day",
+      "published_utc": "2025-07-13T10:17:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=920cfdc6d3c6b80b6b77e7571e96f37b0e278d8548e2bde6ef86c2f8f388ce2f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1126636461/image_1126636461.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135912468,
+      "datetime": 1752416220
+    },
+    {
+      "title": "Consumer Tech News (July 7–July 11): Nvidia Hits $4 Trillion, Japan Tariffs Rattle Markets, Hopes Rise For Trump–Xi Summit",
+      "description": "Wall Street watched history unfold as Nvidia became the first company to hit a $4 trillion market cap.",
+      "published_utc": "2025-07-13T08:15:46",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=5fa2f29c7c6f5ccd622ec60f1b16839fd28c01ba8f1dd96fac97a1a35f53f6fb",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/07/13/Taipei--Taiwan--July-25--2022-The-Office.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138693146,
+      "datetime": 1752408946
+    },
+    {
+      "title": "Why You Shouldn’t Buy an iPhone Right Now",
+      "description": "A new iPhone 16? Not now. If you can hold off for a couple more months, better trade-in deals and price drops await.",
+      "published_utc": "2025-07-13T05:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c8c8dd85fe98cb538a4fb3b46d373d7fa4c9500f6a31dce181ff7ed457f47fa7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135908230,
+      "datetime": 1752399000
+    },
+    {
+      "title": "Will a Leadership Change Be Enough to Turn Apple Around?",
+      "description": "COO Jeff Williams is retiring, and will be replaced by a 30-year Apple employee and top executive.  Apple's growth has stalled in recent years and it will be up to the new COO to make some progress.  Longtime Chief Operating Officer Jeff Williams is retiring and will be replaced by Sabih Khan, the company's senior vice president of operations.",
+      "published_utc": "2025-07-13T04:35:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=371544169f0cfbf50170f8dbd6af2ef7850fd957452137d88a6d3edeafb8e522",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135908231,
+      "datetime": 1752395700
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:02:26.241713+00:00",
+    "cache_key": "news_412cfdbeb5d6a861b9285bd6ae38250d",
+    "count": 5
+  }
+}

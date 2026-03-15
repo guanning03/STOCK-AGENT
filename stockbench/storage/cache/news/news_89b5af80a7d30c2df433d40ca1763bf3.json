@@ -1,0 +1,93 @@
+{
+  "items": [
+    {
+      "id": "d427ded4c948a0c1affc9d6342e3d1a06d777dc54813a6fe9bc8a25a2b805db2",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "2 No-Brainer Quantum Computing Stocks to Buy Right Now",
+      "author": "Anders Bylund",
+      "published_utc": "2025-01-12T13:21:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/12/2-no-brainer-quantum-computing-stocks-to-buy-now/?source=iedfolrf0000001",
+      "tickers": [
+        "IONQ",
+        "IONQ.WS",
+        "QBTS",
+        "QBTS.WS",
+        "RGTI",
+        "RGTIW",
+        "QUBT",
+        "IBM",
+        "GOOG",
+        "GOOGL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803648/tablet-thinking-office.jpg",
+      "description": "Quantum computing stocks have skyrocketed, but the industry's financial results are meek. The article suggests that technology giants like IBM and Alphabet are better positioned to benefit from the quantum computing opportunity in the long run.",
+      "keywords": [
+        "quantum computing",
+        "technology stocks",
+        "investment strategy"
+      ],
+      "insights": [
+        {
+          "ticker": "IONQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article notes that IonQ's stock has more than doubled in three months, but the company is still struggling with meek financial results and high research costs."
+        },
+        {
+          "ticker": "IONQ.WS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article notes that IonQ's stock has more than doubled in three months, but the company is still struggling with meek financial results and high research costs."
+        },
+        {
+          "ticker": "QBTS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that D-Wave Quantum's stock has soared 553% in three months, but the company's financial performance is also weak."
+        },
+        {
+          "ticker": "QBTS.WS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that D-Wave Quantum's stock has soared 553% in three months, but the company's financial performance is also weak."
+        },
+        {
+          "ticker": "RGTI",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article states that Rigetti Computing's stock has surged more than 1,100%, but the company's financial results are poor, and it may not survive in the long run."
+        },
+        {
+          "ticker": "RGTIW",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article states that Rigetti Computing's stock has surged more than 1,100%, but the company's financial results are poor, and it may not survive in the long run."
+        },
+        {
+          "ticker": "QUBT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article notes that Quantum Computing's stock has also soared more than 1,100%, but the company's financial performance is weak, and it may not be a viable long-term investment."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that IBM, as a technology veteran, is better positioned to benefit from the quantum computing opportunity in the long run due to its stable business operations and extensive patent portfolio."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Alphabet's (Google's parent company) leading role in the quantum computing industry, with its breakthrough Willow chip, and suggests that the company is well-positioned to capitalize on the quantum computing opportunity."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Alphabet's (Google's parent company) leading role in the quantum computing industry, with its breakthrough Willow chip, and suggests that the company is well-positioned to capitalize on the quantum computing opportunity."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:38:31.648822+00:00",
+    "cache_key": "news_89b5af80a7d30c2df433d40ca1763bf3",
+    "count": 1
+  }
+}

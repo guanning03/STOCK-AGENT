@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "id": "be01ea868e7b71d38913570ff9abae0f48eeecd26cdbed5a5a79358e125ac65f",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Billionaire Paul Tudor Jones' Fund Just Sold Boeing and Bought This Popular Cryptocurrency Instead",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-21T09:45:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/21/billionaire-paul-tudor-jones-fund-just-sold-boeing/?source=iedfolrf0000001",
+      "tickers": [
+        "BA",
+        "BApA",
+        "IBIT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801317/person-concerned-1.jpg",
+      "description": "Billionaire Paul Tudor Jones' fund, Tudor Investment Corp, sold its equity position in Boeing and increased its holding in the iShares Bitcoin Trust ETF, citing concerns about inflation and viewing Bitcoin as a hedge against it.",
+      "keywords": [
+        "Paul Tudor Jones",
+        "Tudor Investment Corp",
+        "Boeing",
+        "Bitcoin",
+        "iShares Bitcoin Trust ETF"
+      ],
+      "insights": [
+        {
+          "ticker": "BA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Tudor Investment Corp sold its equity position in Boeing and owns more put options than calls, indicating a bearish stance on the company due to ongoing issues with the 737 MAX jet, including production halts and financial losses."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Tudor Investment Corp sold its equity position in Boeing and owns more put options than calls, indicating a bearish stance on the company due to ongoing issues with the 737 MAX jet, including production halts and financial losses."
+        },
+        {
+          "ticker": "IBIT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Tudor Investment Corp increased its position in the iShares Bitcoin Trust ETF, indicating a positive sentiment towards this investment vehicle as a way to gain exposure to Bitcoin."
+        }
+      ]
+    }
+  ]
+}

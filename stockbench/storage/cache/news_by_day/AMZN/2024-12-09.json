@@ -1,0 +1,159 @@
+{
+  "items": [
+    {
+      "id": "70b495e614bbef9240d1b81930eacbccfd9884578673fe7e88552562ca6dc292",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Will Nvidia Outshine Apple in Cash Flow Generation by 2025?",
+      "author": "Jose Najarro",
+      "published_utc": "2024-12-09T15:19:27Z",
+      "article_url": "https://www.fool.com/investing/2024/12/09/will-nvidia-outshine-apple-in-cash-flow-by-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800390/nvidia-headquarters-outside-with-black-nvidia-sign-with-nvidia-logo.jpg",
+      "description": "The article discusses recent updates affecting Nvidia and other semiconductor artificial intelligence (AI) stocks. It also mentions Nvidia and Amazon as the newest Dow growth stocks that outperformed the S&P 500 in 2024, and questions which one is the best buy for 2025.",
+      "keywords": [
+        "Nvidia",
+        "Amazon",
+        "semiconductor",
+        "artificial intelligence",
+        "Dow",
+        "S&P 500"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Nvidia as one of the newest Dow growth stocks that outperformed the S&P 500 in 2024, suggesting a positive sentiment towards the company."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Amazon as one of the newest Dow growth stocks that outperformed the S&P 500 in 2024, suggesting a positive sentiment towards the company."
+        }
+      ]
+    },
+    {
+      "id": "73ccbe977064fa0e483927e80477a229d1286973b19603b25123e22d2a23bb8e",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Battery Tender Introduces Line of Chargers for Golf Carts",
+      "author": "Uproar Pr For Battery Tender",
+      "published_utc": "2024-12-09T14:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2024/12/09/2993784/0/en/Battery-Tender-Introduces-Line-of-Chargers-for-Golf-Carts.html",
+      "tickers": [
+        "AMZN",
+        "WMT",
+        "GWW"
+      ],
+      "image_url": "https://www.globenewswire.com/news-release/2024/12/09/2993784/0/en/Battery-Tender-Introduces-Line-of-Chargers-for-Golf-Carts.html",
+      "description": "Battery Tender, a leading brand in battery chargers, has launched two new golf cart chargers designed for quick recharging and long-lasting use. The chargers are compatible with various battery types and golf cart models, and are built to withstand the elements.",
+      "keywords": [
+        "golf cart",
+        "battery charger",
+        "battery maintenance",
+        "power management"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Amazon is mentioned as one of the retailers where the new Battery Tender chargers are available, but no additional information is provided about Amazon's role or performance."
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Walmart is also mentioned as a retailer selling the Battery Tender chargers, but no further details are given about Walmart's involvement."
+        },
+        {
+          "ticker": "GWW",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Grainger is listed as one of the retailers where the Battery Tender chargers can be purchased, but no other information is provided about the company."
+        }
+      ]
+    },
+    {
+      "id": "b914faa847df466dc90be058da2bd05cae89d6b36be3b55af7cd970ae0fd4b21",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "This Low-Cost Vanguard ETF Has Doubled Since the Start of 2023, but Will the Momentum Continue Into the New Year?",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-09T09:54:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/09/this-low-cost-vanguard-etf-has-doubled-since-the-s/?source=iedfolrf0000001",
+      "tickers": [
+        "MGK",
+        "NVDA",
+        "META",
+        "TSLA",
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799965/getty-determined-looking-ahead-future-plans-1201x803-37403b6.jpg",
+      "description": "The Vanguard Mega Cap Growth ETF (MGK) has more than doubled in value since the start of 2023, outperforming the S&P 500. However, the article cautions that the ETF's heavy concentration in megacap tech stocks could lead to steep sell-offs if these companies underperform.",
+      "keywords": [
+        "Vanguard Mega Cap Growth ETF",
+        "S&P 500",
+        "megacap tech stocks",
+        "growth investing"
+      ],
+      "insights": [
+        {
+          "ticker": "MGK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The ETF has more than doubled in value since the start of 2023, outperforming the broader market."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Nvidia is one of the megacap tech stocks that has more than doubled in value over the past two years."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Meta Platforms is one of the megacap tech stocks that has more than doubled in value over the past two years."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Tesla is one of the megacap tech stocks that has more than doubled in value over the past two years."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Amazon is one of the megacap tech stocks that has more than doubled in value over the past two years."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Alphabet could be a more value-oriented option compared to the heavily weighted megacap tech stocks in the Vanguard Mega Cap Growth ETF."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Alphabet could be a more value-oriented option compared to the heavily weighted megacap tech stocks in the Vanguard Mega Cap Growth ETF."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Microsoft could be a high-conviction megacap growth stock that deserves a premium valuation."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "SPY Is a Great Choice for Most, but I Like VOO ETF Better.",
+      "description": "Investing in the S&P 500 is banking on the growth of the U.S. economy over time.  The Vanguard S&P 500 ETF has an expense ratio that is three times lower than that of the SPDR S&P 500 ETF Trust.  When exchange-traded funds (ETFs) were created, it was a game-changer for investing because it allowed people to create diversified portfolios with one to a few investments.",
+      "published_utc": "2025-06-21T09:21:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a3e505556a5354e1523313bd689a3351b01382a2918b9eacd2e1f23f9d2f9faf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135456025,
+      "datetime": 1750512060
+    },
+    {
+      "title": "5 Stocks I'm Buying As The Economy Slumps Toward Stagflation",
+      "description": "",
+      "published_utc": "2025-06-21T04:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=36d5d6334d15a573431667c254fff0737be74d9d1547b8a5e4785b6fd081f32e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135454639,
+      "datetime": 1750493100
+    },
+    {
+      "title": "Weekly Indicators: Post-Tariff Trends Continue",
+      "description": "",
+      "published_utc": "2025-06-21T04:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8fe441b7b48b70ada3c6df1ff91239d7ac0c45c4341a9f857d5a0c278ab5437d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135454641,
+      "datetime": 1750492800
+    },
+    {
+      "title": "Trouble Ahead, Says The Fed",
+      "description": "",
+      "published_utc": "2025-06-20T23:25:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=69f79e41f328978fe9fd8691b2c8f9a991dbddc6ada60bcd7316e12dc92f460b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135451106,
+      "datetime": 1750476300
+    },
+    {
+      "title": "S&P 500 Snapshot: Index Down For Second Straight Week",
+      "description": "The S&P 500 posted its second straight weekly loss, finishing down 0.2% from the previous Friday.",
+      "published_utc": "2025-06-20T22:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3f67b873beaa776b02b15adabcbf08391afcacd2f5b6d10248e801ef2c71befa",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1457838120/image_1457838120.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135450358,
+      "datetime": 1750473900
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T00:35:37.177669+00:00",
+    "cache_key": "news_d358016bc841c0d141fefe1a8d2b05ca",
+    "count": 5
+  }
+}

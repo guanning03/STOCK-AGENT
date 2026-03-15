@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The 1-Minute Market Report, December 7, 2025",
+      "description": "Get the latest S&P 500 and market rotation insights, sector trends, and key investor strategies.",
+      "published_utc": "2025-12-06T12:57:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=31dde4768f946489c2305b19475b98e57b2e69c85b26d8688caf99be98afb143",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213764535/image_1213764535.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137720479,
+      "datetime": 1765043820
+    },
+    {
+      "title": "The One AI Chart That Completely Reshaped My Portfolio",
+      "description": "AI is transforming markets and reshaping the economy with significant implications for investments and portfolio strategies. Learn why this matters for investors.",
+      "published_utc": "2025-12-06T04:42:22",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a5e759e5b67be480646bee94ea659a7bcb5f693dd53e837fa00b8a7650c369de",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/640351101/image_640351101.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137718087,
+      "datetime": 1765014142
+    },
+    {
+      "title": "The Dividend Growth Trifecta: Hunting For Quality, Yield, And Growth",
+      "description": "Discover top portfolio picks prioritizing quality, yield, and growth amid high valuations. Click for undervalued income stocks that may be right for your portfolio.",
+      "published_utc": "2025-12-06T03:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=201dcd6022f05ebd2fecd374196f5aa64336b9392067672241978fb05595756a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1194751114/image_1194751114.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137717746,
+      "datetime": 1765008900
+    },
+    {
+      "title": "Weekly Indicators: Further Evidence Of Withholding Tax Slowdown",
+      "description": "Get timely market insights with weekly economic indicators. Click for trends in mortgage apps, labor market signals, and what they mean for your investments.",
+      "published_utc": "2025-12-06T03:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=414c2669dfa85bbf22a5ca841f381b8d5aa83cf7f9818f86a90cd9cefbc04ce7",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2213841589/image_2213841589.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137717716,
+      "datetime": 1765008000
+    },
+    {
+      "title": "The Biggest Market Surprise Of The 2020s Is Potentially Still Ahead",
+      "description": "AI-driven disruption is accelerating. Read more on the innovators and how the AI wave requires new portfolio strategies for investors.",
+      "published_utc": "2025-12-06T02:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9026df9d7bda65dbbee1196f2577eea07de89e1ebca199c55748754419b16239",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2208249059/image_2208249059.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137717658,
+      "datetime": 1765006200
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:08:43.320516+00:00",
+    "cache_key": "news_31feaf7da12fe6e90ac98e0a35b16bcf",
+    "count": 5
+  }
+}

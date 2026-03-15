@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "title": "Why is Visa Inc. (V) One of the Best Stocks to Buy in 2026 for Beginners?",
+      "description": "Visa Inc. (NYSE:V) is one of the best stocks to buy in 2026 for beginners. On January 13, Citi reaffirmed a Buy rating on Visa Inc. (NYSE:V) and set a price target of $450.00. The same day, Bank of America Securities reaffirmed a Buy rating on the stock and set a price target of $382. […]",
+      "published_utc": "2026-01-18T12:29:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b9f5902c43226d595fd3e77547e63db8d5c5567caa0b400d1693b73472a94c13",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138170769,
+      "datetime": 1768757386
+    },
+    {
+      "title": "Why US retailers want new swipe fee legislation",
+      "description": "US retail groups are urging lawmakers to reform credit card swipe fees, saying dominant networks limit merchant choice.",
+      "published_utc": "2026-01-18T00:07:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=63ecd1859b78c8e5f2de22d58c66e1b81f2d5244e38c653afb5e795c543df1e2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138166686,
+      "datetime": 1768712835
+    },
+    {
+      "id": "a68a0b9baa6c585cc05ca6496f8a910f82f2df4e4f15a4d5526a790155bb8b28",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Top Dividend Stock to Buy With Double-Digit Dividend Growth and an Aggressive Share Repurchase Program",
+      "author": "Stefon Walters",
+      "published_utc": "2026-01-18T19:15:00Z",
+      "article_url": "https://www.fool.com/investing/2026/01/18/1-top-dividend-stock-to-buy-with-double-digit-divi/?source=iedfolrf0000001",
+      "tickers": [
+        "AXP",
+        "V",
+        "MA"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F851090%2Fcouple-credit-card-online-shopping-happy-1.jpg&w=1200&op=resize",
+      "description": "American Express is highlighted as a top dividend stock with 17% year-over-year dividend growth and over $25 billion in share repurchases over five years. The company's premium business model, which includes high annual fees, transaction revenue, and interest income, positions it well for long-term growth. With 64% of new accounts from millennials and Gen-Z customers who have 25% more transactions, AMEX demonstrates strong future prospects while maintaining a sustainable dividend payout ratio of only 19% of EPS.",
+      "keywords": [
+        "dividend growth",
+        "share repurchases",
+        "premium credit card",
+        "business model",
+        "millennial customers",
+        "shareholder returns",
+        "financial sustainability"
+      ],
+      "insights": [
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "AMEX demonstrates strong shareholder-friendly policies with 17% annual dividend growth and aggressive $25B+ share repurchase program over five years. The company maintains a sustainable low payout ratio (19% of EPS), has a differentiated premium business model, and is successfully attracting younger demographics with higher transaction volumes, indicating solid long-term growth prospects."
+        },
+        {
+          "ticker": "V",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Visa is mentioned only as a competitive comparison point. The article notes that AMEX trails Visa in market position, but this is presented as a strategic choice rather than a weakness, with no specific performance data or sentiment expressed about Visa itself."
+        },
+        {
+          "ticker": "MA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mastercard is mentioned only as a competitive comparison point alongside Visa. No specific performance metrics or sentiment is expressed about the company in the article."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:36:04.864284+00:00",
+    "cache_key": "news_2c8acd92072b11a2b19cb9486ae5b6a2",
+    "count": 3
+  }
+}

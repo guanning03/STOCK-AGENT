@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Here Are My Top \"Magnificent Seven\" Stocks to Buy Now",
+      "description": "The \"Magnificent Seven\" stocks are still some of the best buys in the market.",
+      "published_utc": "2025-08-10T19:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=51989651a16e3f67eb65122be9adc9d51b2100a1044b8cc8704e5b3b797ee3c2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136292101,
+      "datetime": 1754868600
+    },
+    {
+      "title": "Exclusive-SK Hynix expects AI memory market to grow 30% a year to 2030",
+      "description": "SEOUL/SAN FRANCISCO (Reuters) -South Korea's SK Hynix forecasts that the market for a specialized form of memory chip designed for artificial intelligence will grow 30% a year until 2030, a senior executive said in an interview with Reuters.  The upbeat projection for global growth in high-bandwidth memory (HBM) for use in AI brushes off concern over rising price pressures in a sector that for decades has been treated like commodities such as oil or coal.  \"AI demand from the end user is pretty much, very firm and strong,\" said SK Hynix's Choi Joon-yong, the head of HBM business planning at SK Hynix.",
+      "published_utc": "2025-08-10T18:04:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=81f469f6eb89f422139fb14f6c2366d8d2558582b9b78e31ec1e0265094871a4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136292117,
+      "datetime": 1754863479
+    },
+    {
+      "title": "Trading Is Getting Too Risky, Invest Instead; Here Are My 4 Rules",
+      "description": "Current market exuberance and risky trading behavior remind me of the dot-com era. Check out four key rules to navigate volatile markets.",
+      "published_utc": "2025-08-10T17:52:57",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bf17fe3402652b2db7f382a6309459c2a7adcb1e82b82053bb642100dcf322b5",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1990350877/image_1990350877.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136290531,
+      "datetime": 1754862777
+    },
+    {
+      "title": "ROKU: Bears Were Right, But For The Wrong Reasons",
+      "description": "RGA Investment Advisors breaks down Rokuâs rebound and ad strategy pivot. See why theyâre bullish on platform growth and profitability; read the full report.",
+      "published_utc": "2025-08-10T17:20:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=780b16a72e9af467e38f1330617060108ad717d132de565adda40e705aa2f47b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2197158524/image_2197158524.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136290441,
+      "datetime": 1754860800
+    },
+    {
+      "title": "Jeff Bezos Once Said Great Leaders Need More Sleep, Not More Hours — Amazon Founder Then Explained His Point Using This Warren Buffett Rule",
+      "description": "Jeff Bezos, the Amazon.com, Inc. founder, once revealed that quality rest and fewer, smarter decisions—not hustle culture—are the keys to long-term leadership success. Bezos On Prioritizing Sleep And High-IQ Mornings In a 2018 interview with ...",
+      "published_utc": "2025-08-10T17:10:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6ade1a43e3f37fa3c56120368621c1b42346460abf2659448cbc5a2bd5dabedb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136292159,
+      "datetime": 1754860212
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:56:43.764625+00:00",
+    "cache_key": "news_40fd96c12376b7122d54b9a14048dff0",
+    "count": 5
+  }
+}

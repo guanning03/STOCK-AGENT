@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "id": "baa967cf26261d3a0c1deb8016806adf4aceedcd04a95351581d5dd33ef8ab9d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 No-Brainer Warren Buffett Stocks to Buy Right Now",
+      "author": "Leo Sun",
+      "published_utc": "2025-02-08T10:25:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/08/3-no-brainer-warren-buffett-stocks-to-buy-right-no/?source=iedfolrf0000001",
+      "tickers": [
+        "AXP",
+        "KO",
+        "KHC"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806487/buffett17-tmf.jpg",
+      "description": "The article discusses three stocks that Warren Buffett's Berkshire Hathaway has invested in - American Express, Coca-Cola, and Kraft Heinz. It highlights the growth potential and attractive valuations of these stocks, making them compelling buys for long-term investors.",
+      "keywords": [
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "American Express",
+        "Coca-Cola",
+        "Kraft Heinz"
+      ],
+      "insights": [
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights American Express's strong business model, growth potential, and reasonable valuation, making it a compelling investment option."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article praises Coca-Cola's diversified business model, steady growth, and attractive dividend, making it a stable investment choice in both bull and bear markets."
+        },
+        {
+          "ticker": "KHC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Kraft Heinz's turnaround efforts, low valuation, and high dividend yield, suggesting it could be a good investment opportunity as its core business stabilizes."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:46:07.280860+00:00",
+    "cache_key": "news_50979ba0ec457f5f8704792528587ca7",
+    "count": 1
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "items": [
+    {
+      "id": "2d1649c5abb9154d4efd5d2353436f45c824a7e82d4118094c57cb5e825b68fc",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Broadcom Shares Surge as It Adds More Custom AI Chip Customers. Can the Momentum in the Stock Continue?",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-17T14:15:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/17/broadcom-shares-surge-as-it-adds-more-custom-ai/?source=iedfolrf0000001",
+      "tickers": [
+        "AVGO",
+        "NVDA",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800942/gettyimages-1492319884.jpg",
+      "description": "Broadcom's shares surged after the company reported record revenue and said it was developing custom AI chips for major customers. The company's addressable market for these chips could reach $60-$90 billion by 2027, but there are some concerns about potential customer losses and the impact of TikTok's uncertain future.",
+      "keywords": [
+        "Broadcom",
+        "AI chips",
+        "custom chips",
+        "addressable market",
+        "customer losses",
+        "TikTok"
+      ],
+      "insights": [
+        {
+          "ticker": "AVGO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Broadcom reported record revenue and is seeing strong demand for its custom AI chips, with a potentially large addressable market in the coming years."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Broadcom's custom AI chips could be an alternative to Nvidia's GPUs, but Nvidia's products will likely still be used by some customers."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "There are concerns that Broadcom may lose some business from Apple as the iPhone maker develops its own AI chip."
+        }
+      ]
+    },
+    {
+      "id": "d2879cd31b06ec36a2f9cb656c8e859ac488c2d7304c4e7cfb358f53c3545635",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Nvidia, Meta Platforms, and Apple Could Help This Unstoppable ETF turn $500 Per Month Into $1 Million",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-17T09:52:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/17/nvidia-apple-help-etf-turn-500-per-month-1-million/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "META",
+        "AAPL",
+        "IGM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801049/a-sculpture-of-a-golden-bull-standing-on-a-laptop-computer.jpg",
+      "description": "The article discusses how the iShares Expanded Tech Sector ETF (IGM), which holds a diversified portfolio of top AI stocks like Nvidia, Meta Platforms, and Apple, could potentially turn $500 per month into $1 million over 30 years, despite the challenges of predicting long-term AI growth.",
+      "keywords": [
+        "AI",
+        "ETF",
+        "Nvidia",
+        "Meta Platforms",
+        "Apple"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia's graphics processors are the most advanced in the industry for developing AI, and its new Blackwell chips are expected to drive a significant performance boost and rapid sales growth."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Meta created the world's most popular open-source large language model (LLM), called Llama, which has been downloaded more than 600 million times and is being used to create AI features for Facebook and Instagram."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple has launched its Apple Intelligence software, which introduces several new AI features for owners of the latest iPhones, iPads, and Mac computers, and could become the largest AI access point for consumers in the world."
+        },
+        {
+          "ticker": "IGM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The ETF holds a diversified portfolio of top AI stocks, including Nvidia, Meta Platforms, and Apple, which could help it turn $500 per month into $1 million over 30 years, despite the challenges of predicting long-term AI growth."
+        }
+      ]
+    }
+  ]
+}

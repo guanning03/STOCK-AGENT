@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "S&P 500: The December Inflection (Technical Analysis)",
+      "description": "The S&P 500 stalled just below record highs last week, with higher timeframe analysis pointing to a bullish bias and a clear near-term inflection. Read more here.",
+      "published_utc": "2025-12-14T11:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0870ead2c5d4d39312c6e1117c65191d3d487743e8c10975a2a5afb00e84b8a4",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2234875955/image_2234875955.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137786982,
+      "datetime": 1765728000
+    },
+    {
+      "title": "EOD: Well-Positioned If The USA Outperforms The EU Going Forward",
+      "description": "Discover the Allspring Global Dividend Opportunity Fund's 9.02% yield, capital preservation, and solid valueâsee if EOD fits your investment strategy today!",
+      "published_utc": "2025-12-14T07:37:32",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b83e949d3e9464412dc3970b58e787ec6d41e1df0112b5488f5f9c6dc8e5ef63",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2227015600/image_2227015600.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137785086,
+      "datetime": 1765715852
+    },
+    {
+      "title": "S&P 500: Warning Shot Fired, As Bond Rates Finally Matter. This Could Get Ugly",
+      "description": "QQQ shows technical weakness as borrowing costs rise, signaling risks for stocks and tech firms.",
+      "published_utc": "2025-12-14T06:54:27",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=30c8b3091ace0909b47509d95aad7c7e113792b5d73ebf67edcee9fdcd07c69a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2021145941/image_2021145941.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137784554,
+      "datetime": 1765713267
+    },
+    {
+      "title": "Global X 2026 Outlook: This Side Of Paradise - The Next Chapter Of The Roaring 20s",
+      "description": "The U.S. economy has been a Juggernaut since 2022 - a year when the consensus forecast was recession, though we strayed from consensus late that year. Read more here.",
+      "published_utc": "2025-12-14T05:18:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=52b847514fac9ffaa84f6e70d0e5e884df0a3e65eba36ca9be65aaa9376bb77d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2228903031/image_2228903031.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137783929,
+      "datetime": 1765707480
+    },
+    {
+      "title": "The BOJ May Finally Trigger A Yen Carry Trade Unwind",
+      "description": "The Bank of Japan plans its first rate hike in 11 months, with yen weakness, USD strength, and forward rates hinting at potential appreciation. Learn more here.",
+      "published_utc": "2025-12-14T04:55:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e1dd58a568be3b644b881b197324d65c6293b1616516c9e5a4c41ab1af8759f6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2167995287/image_2167995287.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137783791,
+      "datetime": 1765706100
+    }
+  ]
+}

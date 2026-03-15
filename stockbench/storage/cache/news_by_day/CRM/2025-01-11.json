@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": "1b74e7e50e28e47b76962b2c36139c2066d00dc510cf575b7df29176b960e167",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Artificial Intelligence (AI) Stocks to Buy Hand Over Fist in January",
+      "author": "Keithen Drury",
+      "published_utc": "2025-01-11T12:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/11/3-artificial-intelligence-ai-stocks-to-buy-hand-ov/?source=iedfolrf0000001",
+      "tickers": [
+        "META",
+        "CRM",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802279/artificial-intelligence-ai-robot-big-data-bull-market-stock-chart-getty.jpg",
+      "description": "The article discusses three AI stocks that investors should consider for 2025: Meta Platforms, Salesforce, and Nvidia. These companies have significant resources to invest in AI innovation and are well-positioned to benefit from the continued growth of the AI market.",
+      "keywords": [
+        "AI",
+        "Meta Platforms",
+        "Salesforce",
+        "Nvidia",
+        "Generative AI",
+        "GPU"
+      ],
+      "insights": [
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Meta Platforms is competing in the generative AI model game with its open-source model, Llama, which gives it some key advantages like a broader user base and more data for training its AI model."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce is focusing on serving its existing client base with useful AI platforms, such as Agentforce, which can create AI agents to perform tasks like marketing and customer support, providing significant value to its users."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia plays a key role in AI model training with its powerful GPUs, and its next-generation Blackwell architecture is expected to provide a significant performance boost for AI models. Nvidia has been a top AI investment for a long time and is expected to continue this trend in 2025."
+        }
+      ]
+    }
+  ]
+}

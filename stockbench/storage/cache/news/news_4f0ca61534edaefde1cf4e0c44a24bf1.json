@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stock Of The Day In Bullish Chart Formation As Sector Cheers Powell's Views",
+      "description": "JPMorgan Chase is the IBD Stock of the Day as shares trade tightly while financials enjoy a new tailwind from Fed Chair Jerome Powell's dovish views.  New York-based JPMorgan is the nation's largest bank and a well-performing stock in its own right.  JPMorgan stock rose 1.6% Friday after Powell signaled that the Federal Reserve may resume rate cuts next month.",
+      "published_utc": "2025-08-25T14:04:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8cd7ad9494aca80c7d8663d625c4766fb119bbf702df3342595c3f6e2c24713d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136522368,
+      "datetime": 1756145042
+    },
+    {
+      "title": "Fed Turns Dovish, Signals Upcoming Rate Cut: What This Means for Banks",
+      "description": "Powell's dovish Jackson Hole remarks signal a likely rate cut, sparking a rally in bank stocks and hopes for stronger loan growth ahead.",
+      "published_utc": "2025-08-25T11:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=97e4e4ad0a218f2f01b12d9e3087e101b7d8e54a83273f0841bdff0c06611bdc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136522369,
+      "datetime": 1756134180
+    },
+    {
+      "title": "Powell Hints at Policy Shift: Time to Load Up on JPM Stock?",
+      "description": "Powell's signal of a September rate cut could trim JPMorgan's lending margins but also fuel stronger non-interest income growth. Is the stock a buy now?",
+      "published_utc": "2025-08-25T09:14:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=756650b130c6085d0e3705e4f00a5fcf218e4651c7863c6039c34f6dc0a049e2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136522370,
+      "datetime": 1756127640
+    },
+    {
+      "title": "Goldman exec named JPMorgan global investment banking chair",
+      "description": "M&A veteran Jerry Lee has joined JPMorgan from Goldman Sachs, where he spent nearly two decades.",
+      "published_utc": "2025-08-25T08:27:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ec9cbb8cfe1e09aeba6ea732a7eb4d7891d4db1dba93e3973401ac6f048c846b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136522371,
+      "datetime": 1756124873
+    },
+    {
+      "title": "JPMorgan Agrees to Pay $330M to Resolve 1MDB AML Allegations",
+      "description": "JPM is set to pay $330M to settle a Malaysian lawsuit over 1MDB-linked money laundering claims, without admitting liability.",
+      "published_utc": "2025-08-25T08:16:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b99cbd3c54d2c97606c9ce08e03b73e7a7e59b6bc34b6e42defb5ea844b02ab7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136507885,
+      "datetime": 1756124160
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:46:15.580824+00:00",
+    "cache_key": "news_4f0ca61534edaefde1cf4e0c44a24bf1",
+    "count": 5
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "items": [
+    {
+      "id": "6162cc8a3ba582b7efc111ca4de4ea31f2d9a19a8208096b41fba3dc80e4e4e7",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "34% of the S&P 500's Value Comes From Just 8 Stocks",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-29T12:15:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/29/34-of-the-sp-500-index-value-comes-from/?source=iedfolrf0000001",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "AAPL",
+        "META",
+        "MSFT",
+        "NVDA",
+        "TSLA",
+        "AVGO",
+        "RSP"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802196/people-computer-1.jpg",
+      "description": "The S&P 500 index has become highly concentrated, with just 8 stocks making up over 34% of its value. This raises concerns about the market's vulnerability to pullbacks in these 'Fateful Eight' stocks, which have outperformed the broader market. Investors may want to consider equal-weight funds to diversify their exposure.",
+      "keywords": [
+        "S&P 500",
+        "market concentration",
+        "Fateful Eight",
+        "equal-weight funds"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet is one of the 'Fateful Eight' stocks that have outperformed the broader market, suggesting it is a key driver of the S&P 500's recent gains."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet is one of the 'Fateful Eight' stocks that have outperformed the broader market, suggesting it is a key driver of the S&P 500's recent gains."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon is one of the 'Fateful Eight' stocks that have outperformed the broader market, suggesting it is a key driver of the S&P 500's recent gains."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple is one of the 'Fateful Eight' stocks that have outperformed the broader market, suggesting it is a key driver of the S&P 500's recent gains."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Meta Platforms is one of the 'Fateful Eight' stocks that have outperformed the broader market, suggesting it is a key driver of the S&P 500's recent gains."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Microsoft is one of the 'Fateful Eight' stocks, but it did not outperform the broader market in 2024, suggesting it may not be as influential as the other 'Fateful Eight' stocks."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia is one of the 'Fateful Eight' stocks that have outperformed the broader market, suggesting it is a key driver of the S&P 500's recent gains."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Tesla is one of the 'Fateful Eight' stocks that have outperformed the broader market, suggesting it is a key driver of the S&P 500's recent gains."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Broadcom has recently surpassed a $1 trillion market cap, joining the 'Fateful Eight' stocks that have outperformed the broader market, suggesting it is a key driver of the S&P 500's recent gains."
+        },
+        {
+          "ticker": "RSP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that the Invesco S&P 500 Equal Weight ETF could be a good option for investors concerned about the concentration risks in the S&P 500, as it would be more resilient to a pullback in the 'Fateful Eight' stocks."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:09:26.235391+00:00",
+    "cache_key": "news_5f231ca6ef934140dc411afdb83562e2",
+    "count": 1
+  }
+}

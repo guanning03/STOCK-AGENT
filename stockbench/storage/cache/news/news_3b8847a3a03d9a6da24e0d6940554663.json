@@ -1,0 +1,104 @@
+{
+  "items": [
+    {
+      "id": "4389264795098a0c9e867ba864489696c01ede212fe732389fbc19f5374b8a0f",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Here's 1 Trillion-Dollar Artificial Intelligence (AI) Chip Stock to Buy Hand Over Fist While It's Still a Bargain",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-26T23:18:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/26/heres-1-trillion-dollar-artificial-intelligence-ai/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804713/gettyimages-1135140525-1.jpg",
+      "description": "Taiwan Semiconductor Manufacturing (TSMC) is a trillion-dollar chip stock that is still attractively priced, with strong growth prospects in the AI chip market.",
+      "keywords": [
+        "Taiwan Semiconductor Manufacturing",
+        "AI chips",
+        "growth stock"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Amazon, along with other hyperscalers, plans to spend billions on AI infrastructure, which will benefit TSMC's foundry operations."
+        }
+      ]
+    },
+    {
+      "id": "0071b538b888552812421f6197624eff97947fb1059284aa668fe0ab8f28ee4e",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Rivian Stock a Buy Now?",
+      "author": "Courtney Carlsen",
+      "published_utc": "2025-01-26T23:14:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/26/is-rivian-stock-a-buy-now/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804840/rivn-r2-concept.jpg",
+      "description": "Rivian, an electric vehicle maker, faced production challenges in 2024 due to component shortages, resulting in a $4 billion operating loss. However, the company expects to post a positive gross profit in Q4 2024 and is expanding its vehicle lineup and production capacity with the help of a $6.6 billion loan from the U.S. Department of Energy.",
+      "keywords": [
+        "Rivian",
+        "electric vehicles",
+        "production challenges",
+        "gross profit",
+        "vehicle lineup",
+        "production capacity",
+        "U.S. Department of Energy"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon has partnered with Rivian to bring 100,000 electric delivery vehicles on the road by 2030, which suggests a positive sentiment towards the company's sustainability efforts."
+        }
+      ]
+    },
+    {
+      "id": "265b237506cc1598cafbcea264f5114040b0704bf62eadc784931dbd9a9a83e8",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "2 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade",
+      "author": "Adria Cimino",
+      "published_utc": "2025-01-26T23:10:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/26/2-artificial-intelligence-stocks-you-can-buy-and-h/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805145/ai-artificial-intelligence-robots-working-office.jpg",
+      "description": "The article discusses the long-term growth opportunity in the AI market, which is expected to reach over $1 trillion by the end of the decade. It highlights two companies, Meta Platforms and Amazon, that are well-positioned to benefit from this trend.",
+      "keywords": [
+        "Artificial Intelligence",
+        "AI",
+        "Meta Platforms",
+        "Amazon"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article discusses how Amazon is applying AI to improve efficiency and the user experience across its e-commerce business, as well as selling AI tools to customers through its Amazon Web Services (AWS) cloud computing unit. This suggests that Amazon is well-positioned to benefit from the growth in the AI market."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:20:32.066142+00:00",
+    "cache_key": "news_3b8847a3a03d9a6da24e0d6940554663",
+    "count": 3
+  }
+}

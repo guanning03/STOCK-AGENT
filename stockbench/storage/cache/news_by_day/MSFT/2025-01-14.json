@@ -1,0 +1,284 @@
+{
+  "items": [
+    {
+      "id": "0fafa55f6fda11b0e92b70659fdd62162af9669e48e34a2c8e93de6722d95f59",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Under-the-Radar Artificial Intelligence (AI) Stock That Cathie Wood Keeps Buying Hand Over Fist",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-14T15:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/14/1-under-the-radar-artificial-intelligence-ai-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "GTLB",
+        "AMZN",
+        "MSFT",
+        "ARKK",
+        "ARKW"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803750/gettyimages-1451456915-1.jpg",
+      "description": "Cathie Wood's Ark Invest has been frequently purchasing shares of GitLab, a software platform that integrates AI capabilities. The article suggests GitLab could be an interesting opportunity for investors due to its partnership with Amazon and focus on agentic AI, despite its recent underperformance.",
+      "keywords": [
+        "Cathie Wood",
+        "Ark Invest",
+        "GitLab",
+        "Artificial Intelligence",
+        "AI"
+      ],
+      "insights": [
+        {
+          "ticker": "GTLB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that GitLab could be an interesting opportunity for investors due to its partnership with Amazon and focus on agentic AI, despite its recent underperformance."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that GitLab is partnering with Amazon, which is seen as a positive for GitLab's potential growth."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares GitLab to Microsoft's GitHub, but does not make a strong positive or negative assessment of Microsoft."
+        },
+        {
+          "ticker": "ARKK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Cathie Wood's Ark Invest has been purchasing GitLab shares across two of its ETFs, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "ARKW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Cathie Wood's Ark Invest has been purchasing GitLab shares across two of its ETFs, indicating a positive sentiment towards the company."
+        }
+      ]
+    },
+    {
+      "id": "1f0ca9d4ed1cf1ef558f46521e5ea23ec0e09cec80bbfa9d593ad82379787290",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Nvidia and Other Tech Giants Respond to New AI Regulations",
+      "author": "Jose Najarro",
+      "published_utc": "2025-01-14T13:48:58Z",
+      "article_url": "https://www.fool.com/investing/2025/01/14/nvidia-and-other-tech-giants-respond-to-new-ai-reg/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "AMD",
+        "MSFT",
+        "ORCL",
+        "AVGO"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803884/nvidia-headquarters-outside-with-black-nvidia-sign-with-nvidia-logo.jpg",
+      "description": "The article discusses recent updates impacting the artificial intelligence (AI) market, with a focus on Nvidia's role in this space.",
+      "keywords": [
+        "Nvidia",
+        "AI",
+        "artificial intelligence",
+        "market updates"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article discusses Nvidia's position in the AI market, indicating that the company is a key player in this growing industry."
+        },
+        {
+          "ticker": "AMD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Advanced Micro Devices as one of the companies that the author has positions in, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Microsoft as one of the companies that the author has positions in, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Oracle as one of the companies that the author has positions in, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article recommends Broadcom, but does not provide any additional details about the company or the reasoning behind the recommendation."
+        }
+      ]
+    },
+    {
+      "id": "00855537f6821b10ba78d16758357d82fae34aa4ace92b44cd0c815d4d46f026",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Here's My Top AI ETF to Buy Right Now",
+      "author": "Matt Frankel",
+      "published_utc": "2025-01-14T11:33:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/14/heres-my-top-ai-etf-to-buy-right-now/?source=iedfolrf0000001",
+      "tickers": [
+        "QQQ",
+        "ARKQ",
+        "COST",
+        "AAPL",
+        "NVDA",
+        "MSFT",
+        "CRWD",
+        "TTD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803213/investor-2024.jpg",
+      "description": "The Invesco QQQ ETF provides exposure to large-cap AI stocks at a lower cost than many dedicated AI ETFs. While not a pure-play AI fund, it has significant AI exposure, with around 70% of its assets invested in AI-related companies. The ETF's low expense ratio and diverse portfolio make it a potentially attractive option for investors seeking AI exposure.",
+      "keywords": [
+        "AI",
+        "ETF",
+        "Invesco QQQ",
+        "Nasdaq-100",
+        "investment fees"
+      ],
+      "insights": [
+        {
+          "ticker": "QQQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the Invesco QQQ ETF as a potentially attractive option for investors seeking AI exposure, due to its significant AI exposure (around 70% of assets), low expense ratio, and diverse portfolio. The ETF is presented as a cost-effective way to gain exposure to the AI trend."
+        },
+        {
+          "ticker": "ARKQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions the Ark Autonomous Technology & Robotics ETF as another excellent AI ETF, but notes that it has a unique strategy and may be more suitable for risk-tolerant investors."
+        },
+        {
+          "ticker": "COST",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article notes that Costco is a Nasdaq-100 component that is not a direct AI play, highlighting that the Invesco QQQ ETF is not a pure-play AI fund."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Apple as one of the top 10 holdings of the Invesco QQQ ETF, indicating that the ETF provides exposure to major AI-focused tech companies."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Nvidia as one of the top 10 holdings of the Invesco QQQ ETF, indicating that the ETF provides exposure to major AI-focused tech companies."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Microsoft as one of the top 10 holdings of the Invesco QQQ ETF, indicating that the ETF provides exposure to major AI-focused tech companies."
+        },
+        {
+          "ticker": "CRWD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions CrowdStrike as an example of an AI stock that has significant growth potential and is held by the Invesco QQQ ETF."
+        },
+        {
+          "ticker": "TTD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions The Trade Desk as an example of an AI stock that has significant growth potential and is held by the Invesco QQQ ETF."
+        }
+      ]
+    },
+    {
+      "id": "aea7b8ea540e81245cc580ba10dd16daed238113c587d0c5c1cd759a39971015",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Could Microsoft CEO Satya Nadella's Recent Comments About AI Agents Mean Huge Trouble for These 2 Stocks?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-14T10:48:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/14/could-microsoft-ceo-satya-nadellas-recent-comments/?source=iedfolrf0000001",
+      "tickers": [
+        "MSFT",
+        "FVRR",
+        "UPWK"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803784/man-pointing-to-ai-on-display.jpg",
+      "description": "Microsoft CEO Satya Nadella believes AI agents will become as widely used as spreadsheets, which could disrupt the business models of freelance platforms Fiverr and Upwork. However, the companies are adapting to the AI threat, and the biggest opportunities may lie with Microsoft as the innovator behind AI agents.",
+      "keywords": [
+        "AI agents",
+        "Microsoft",
+        "Fiverr",
+        "Upwork"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that the biggest opportunities presented by AI agents may lie with Microsoft, the innovator behind the technology."
+        },
+        {
+          "ticker": "FVRR",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that the rise of AI agents could reduce the need for human freelancers, potentially disrupting Fiverr's business model."
+        },
+        {
+          "ticker": "UPWK",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Similar to Fiverr, the article suggests that the rise of AI agents could reduce the need for human freelancers, potentially disrupting Upwork's business model."
+        }
+      ]
+    },
+    {
+      "id": "d7ada996e10fda21ba250c4947e29378cca5c074a3a9103b9af98199bb87314e",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Prediction: This Will Be Wall Street's First $5 Trillion Company -- and It's Not Nvidia",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-14T09:51:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/14/prediction-wall-street-first-5-trillion-not-nvidia/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "NVDA",
+        "MSFT",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803684/nyse-floor-trader-invest-buy-sell-options-stock-exchange-getty.png",
+      "description": "The article suggests that Amazon, not Nvidia, is the most likely candidate to become the first $5 trillion company on Wall Street, due to its diverse revenue streams and growth potential in cloud services and advertising.",
+      "keywords": [
+        "Amazon",
+        "Nvidia",
+        "Microsoft",
+        "Apple",
+        "AI",
+        "cloud services",
+        "advertising"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Amazon has the clearest path to a $5 trillion market cap, driven by the growth of its cloud services (AWS) and advertising segments, which are less dependent on the AI bubble compared to Nvidia and Microsoft."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that Nvidia's chances of becoming the first $5 trillion company are likely to be thwarted by the historical pattern of new technologies and innovations going through an early stage bubble, which could negatively impact Nvidia's AI-driven growth."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article suggests that Microsoft's heavy investment in an AI-driven future could also be negatively impacted if the AI bubble bursts, making it unlikely for the company to be the first to reach a $5 trillion valuation."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article suggests that Apple's valuation is already trading at one of its priciest levels in a decade, leaving little room for it to reach a $5 trillion market cap."
+        }
+      ]
+    }
+  ]
+}

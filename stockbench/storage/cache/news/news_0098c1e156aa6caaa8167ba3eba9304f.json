@@ -1,0 +1,226 @@
+{
+  "items": [
+    {
+      "id": "a77e216356e710db9eafad64fb8790b7ff1a5f0ab15804f586a31a486513700d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "This Tech Giant Could Skyrocket on Its $100 Billion AI Bet in 2025",
+      "author": "Motley Fool",
+      "published_utc": "2025-02-12T23:50:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/12/this-tech-giant-could-skyrocket-on-100-billion-ai/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807164/analyst_working_on_a_laptop.jpg",
+      "description": "Amazon's AI strategy, including custom chip development and cutting-edge AI applications, has positively impacted its cloud computing, advertising, and e-commerce businesses. The company plans to invest $100 billion in AI initiatives in 2025, driving growth and profitability across its diversified business model.",
+      "keywords": [
+        "Amazon",
+        "AWS",
+        "AI",
+        "cloud computing",
+        "advertising",
+        "e-commerce"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Amazon's strong financial performance, driven by its AI strategy, which has positively affected its cloud computing, advertising, and e-commerce businesses. The company's plans to invest heavily in AI initiatives are expected to further drive growth and profitability."
+        }
+      ]
+    },
+    {
+      "id": "6c2841065ffa8c3f95c8c73df1e3e1726ed7949696ca455c0bf98ef42682e91d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why Hims & Hers Terrifies Big Pharma",
+      "author": "Travis Hoium",
+      "published_utc": "2025-02-12T16:51:13Z",
+      "article_url": "https://www.fool.com/investing/2025/02/12/hims-hers-terrifies-big-pharma/?source=iedfolrf0000001",
+      "tickers": [
+        "HIMS",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807393/prescription-pills-spilling-stethescope.jpg",
+      "description": "Hims & Hers launched a Super Bowl ad this week, facing backlash from pharmaceutical companies and pharmacists. However, the author sees this as a sign of the company's disruptive potential.",
+      "keywords": [
+        "Hims & Hers",
+        "Super Bowl ad",
+        "pharmaceutical companies",
+        "pharmacists",
+        "disruptive potential"
+      ],
+      "insights": [
+        {
+          "ticker": "HIMS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that the backlash against Hims & Hers' Super Bowl ad is a sign of the company's disruptive potential, which is viewed positively."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that John Mackey, former CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors, but this information is not directly relevant to the main focus of the article."
+        }
+      ]
+    },
+    {
+      "id": "4ab738da3e3cef5cb998decc7a0b6e90fa359569f7c65ea57559314242445a40",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Evergreen Retail Stocks to Buy Like There's No Tomorrow",
+      "author": "Leo Sun",
+      "published_utc": "2025-02-12T14:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/12/3-evergreen-retail-stocks-to-buy-like-theres-no-to/?source=iedfolrf0000001",
+      "tickers": [
+        "WMT",
+        "AMZN",
+        "COST"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807058/two-people-shopping-in-a-supermarket.jpg",
+      "description": "The article discusses three 'evergreen' retail stocks that have weathered industry challenges and are worth buying for the long term: Walmart, Amazon, and Costco Wholesale. These companies have demonstrated resilience, diversification, and forward-thinking strategies that support their higher valuations.",
+      "keywords": [
+        "retail",
+        "evergreen stocks",
+        "Walmart",
+        "Amazon",
+        "Costco Wholesale"
+      ],
+      "insights": [
+        {
+          "ticker": "WMT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Walmart has adapted to e-commerce and technological shifts, renovating stores, building customer relationships, and expanding its digital platforms. It has maintained steady revenue growth and is expected to continue growing in the future."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon has become the world's top e-commerce company and has diversified into cloud infrastructure, digital streaming, and hardware devices. Its higher-margin cloud business subsidizes the expansion of its lower-margin retail operations, giving it a competitive advantage."
+        },
+        {
+          "ticker": "COST",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Costco has maintained a strong business model by locking in shoppers through its membership plans, subsidizing lower-margin products with higher-margin membership fees, and continuously expanding its store network and customer base."
+        }
+      ]
+    },
+    {
+      "id": "a6bdb027bdcd042e8f6d0174985f3a84adefd96347f13f2ea9557919a740c5b3",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Amazon Drops Massive News for Nvidia Stock Investors",
+      "author": "Jose Najarro",
+      "published_utc": "2025-02-12T13:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/12/amazon-drops-massive-news-for-nvidia-stock-investo/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807329/nvidia-headquarters-outside-with-black-nvidia-sign-with-nvidia-logo.jpg",
+      "description": "The article discusses Amazon and Nvidia, providing analysis and recommendations for these companies.",
+      "keywords": [
+        "Amazon",
+        "Nvidia",
+        "investing",
+        "stock analysis"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide a clear sentiment or recommendation for Amazon, only mentioning the company as an Amazon subsidiary."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Jose Najarro has positions in Nvidia, indicating a positive sentiment towards the company."
+        }
+      ]
+    },
+    {
+      "id": "5b5b256c1c4522988977a6eb9b03eea61fe36a5aab4830fb52ec0754bcfe08e5",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Did China's DeepSeek Just Crash and Burn President Trump's $500 Billion AI Stargate Project?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-12T11:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/12/did-chinas-deepseek-just-crash-and-burn-president/?source=iedfolrf0000001",
+      "tickers": [
+        "MSFT",
+        "META",
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "PLTR"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807069/gettyimages-1731443210-1.jpg",
+      "description": "The article discusses the potential impact of a Chinese AI startup, DeepSeek, on President Trump's $500 billion Stargate AI infrastructure project. It analyzes the spending plans of major tech companies like Microsoft, Meta, Alphabet, and Amazon, and concludes that DeepSeek is not derailing the Stargate project.",
+      "keywords": [
+        "AI",
+        "Stargate",
+        "DeepSeek",
+        "Microsoft",
+        "Meta",
+        "Alphabet",
+        "Amazon",
+        "Palantir"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is a big investor in OpenAI and has been integrating AI-powered services into its ecosystem, with plans to increase its capital expenditure on AI infrastructure to around $80 billion this year."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Meta has been doubling down on its AI vision, with its infrastructure spending rising by 40% in 2023 and plans to increase it further to $60-$65 billion in 2025."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet has been integrating AI services into its ecosystem and plans to increase its capital expenditure on AI infrastructure to around $75 billion in 2025, representing a 43% increase compared to 2024."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet has been integrating AI services into its ecosystem and plans to increase its capital expenditure on AI infrastructure to around $75 billion in 2025, representing a 43% increase compared to 2024."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon has been investing heavily in AI infrastructure, including its acquisition of Anthropic, and plans to spend around $105 billion on AI infrastructure this year, a 27% increase compared to 2024."
+        },
+        {
+          "ticker": "PLTR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Palantir CEO Alex Karp believes that the advancements from DeepSeek should inspire U.S. technology businesses to double down on their own AI developments and continue investing in innovation."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T22:06:16.120747+00:00",
+    "cache_key": "news_0098c1e156aa6caaa8167ba3eba9304f",
+    "count": 5
+  }
+}

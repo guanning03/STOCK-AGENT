@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "With 88% institutional ownership, The Travelers Companies, Inc. (NYSE:TRV) is a favorite amongst the big guns",
+      "description": "Key Insights Institutions' substantial holdings in Travelers Companies implies that they have significant influence...",
+      "published_utc": "2026-02-15T07:00:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a62fe7e6a19e72be0022216952dcda9ecd1544eed34c0fe419a6d7249981cc4c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139106457,
+      "datetime": 1771156833
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:04:47.909403+00:00",
+    "cache_key": "news_64ffb20d9b7d44482b0a07397cafa017",
+    "count": 1
+  }
+}

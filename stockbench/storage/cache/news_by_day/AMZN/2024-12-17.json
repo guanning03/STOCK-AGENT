@@ -1,0 +1,218 @@
+{
+  "items": [
+    {
+      "id": "d206ec53ff7ded98c11d86c49c48322e2c4914cf559639c3d3981fc9e7c1b27d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Should You Buy Amazon Stock Before 2025?",
+      "author": "N/A",
+      "published_utc": "2024-12-17T11:30:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/17/should-you-buy-amazon-stock-before-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801220/amazon-prime-van-on-street.png",
+      "description": "The Motley Fool is a financial services company founded in 1993, dedicated to providing investing solutions, personal finance education, and market analysis to millions of people worldwide.",
+      "keywords": [
+        "financial services",
+        "investing",
+        "personal finance",
+        "market analysis"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Motley Fool has positions in and recommends Amazon, indicating a positive sentiment towards the company."
+        }
+      ]
+    },
+    {
+      "id": "ee7022b3987df5c915e868f4aee05b950ddaa7d72388b6b515719a968971919b",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Top AI Stock for 2025",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-17T10:30:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/17/the-top-ai-stock-for-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "TSM",
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "INTC",
+        "AMD",
+        "NVDA",
+        "AVGO"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801172/ai-software.jpg",
+      "description": "The article discusses the growth of artificial intelligence and how Taiwan Semiconductor Manufacturing (TSM) is the clear leader in the chip industry, making it a top way to play AI in 2025.",
+      "keywords": [
+        "artificial intelligence",
+        "semiconductors",
+        "Taiwan Semiconductor Manufacturing"
+      ],
+      "insights": [
+        {
+          "ticker": "TSM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Taiwan Semiconductor Manufacturing as the clear leader in the chip industry, making it a top way to play the growth of artificial intelligence in 2025."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors, but does not provide any specific information about Alphabet's involvement in the AI industry."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Suzanne Frey, an executive at Alphabet, is a member of The Motley Fool's board of directors, but does not provide any specific information about Alphabet's involvement in the AI industry."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that John Mackey, former CEO of Whole Foods Market, an Amazon subsidiary, is a member of The Motley Fool's board of directors, but does not provide any specific information about Amazon's involvement in the AI industry."
+        },
+        {
+          "ticker": "INTC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that The Motley Fool recommends the following options: short February 2025 $27 calls on Intel, but does not provide any specific information about Intel's involvement in the AI industry."
+        },
+        {
+          "ticker": "AMD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that The Motley Fool has positions in Advanced Micro Devices, but does not provide any specific information about AMD's involvement in the AI industry."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that The Motley Fool has positions in Nvidia, but does not provide any specific information about Nvidia's involvement in the AI industry."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that The Motley Fool recommends Broadcom, but does not provide any specific information about Broadcom's involvement in the AI industry."
+        }
+      ]
+    },
+    {
+      "id": "759f50ea50719c5875d657e45eae3a57c4b62da0d297a2f8ff473c51e3e0cc00",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Amazon's Latest Move a Genius Tactic or a Huge Mistake?",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-17T10:11:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/17/is-amazons-latest-move-a-genius-tactic-or-a-huge-m/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "CVNA",
+        "KMX",
+        "UPST",
+        "PGY",
+        "PGYWW"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800918/person-getting-the-keys-to-a-new-car.jpg",
+      "description": "Amazon is piloting a new program called Amazon Autos, which allows customers to buy cars online and pick them up from local dealerships. This innovative approach aims to simplify the car-buying process and disrupt the traditional auto dealership model.",
+      "keywords": [
+        "Amazon",
+        "car buying",
+        "online shopping",
+        "auto industry",
+        "Hyundai"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon is launching a new program called Amazon Autos, which aims to disrupt the traditional car-buying experience by allowing customers to purchase cars online and pick them up from local dealerships. This innovative approach could potentially capture a significant share of the massive auto market."
+        },
+        {
+          "ticker": "CVNA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Carvana is mentioned as one of the companies already selling cars online, indicating that Amazon is entering a competitive market."
+        },
+        {
+          "ticker": "KMX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "CarMax is also mentioned as one of the companies already selling cars online, further highlighting the competitive landscape that Amazon is entering."
+        },
+        {
+          "ticker": "UPST",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Upstart Holdings is mentioned as a company that provides AI-based credit platforms, which could potentially be used by Amazon's auto finance partner, Hyundai Motor Finance."
+        },
+        {
+          "ticker": "PGY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Pagaya Technologies is also mentioned as a company that provides AI-based credit platforms, which could potentially be used by Amazon's auto finance partner, Hyundai Motor Finance."
+        },
+        {
+          "ticker": "PGYWW",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Pagaya Technologies is also mentioned as a company that provides AI-based credit platforms, which could potentially be used by Amazon's auto finance partner, Hyundai Motor Finance."
+        }
+      ]
+    },
+    {
+      "id": "c95272381e263737a6e87ebce42fb0f7d6f9948b2236f8380c91f4b0d04788c1",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Palantir Going to Plunge 50% (or More)? History Offers a Blunt Answer.",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-17T10:06:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/17/palantir-going-to-plunge-50-or-more-history-answer/?source=iedfolrf0000001",
+      "tickers": [
+        "PLTR",
+        "AMZN",
+        "CSCO",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801069/stock-chart-crash-invest-broker-tablet-crypto-plunge-bubble-getty.jpg",
+      "description": "The article discusses Palantir's unique AI-driven platforms and their potential for growth, but also cautions that the company's high valuation may be unsustainable, given the historical precedent of 'next-big-thing' technologies experiencing significant declines.",
+      "keywords": [
+        "Palantir",
+        "AI",
+        "valuation",
+        "next-big-thing"
+      ],
+      "insights": [
+        {
+          "ticker": "PLTR",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article acknowledges Palantir's strong performance and unique position in the AI market, but also raises concerns about its high valuation and the potential for a significant decline, based on historical precedents of 'next-big-thing' technologies."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article uses Amazon as an example of a market-leading business that experienced a significant decline during the dot-com bubble, suggesting that Palantir may face a similar fate."
+        },
+        {
+          "ticker": "CSCO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article uses Cisco Systems as another example of a market-leading business that experienced a significant decline during the dot-com bubble, drawing a parallel to Palantir's current high valuation."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Nvidia as a company that has recently had a high price-to-sales ratio, similar to Palantir, suggesting that this level of valuation may not be sustainable."
+        }
+      ]
+    }
+  ]
+}

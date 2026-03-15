@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "World Markets Watchlist: April 21, 2025",
+      "description": "",
+      "published_utc": "2025-04-21T15:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9d7a91d2f1215e5b4ad3d3ab8fc9704b3ffbd41ff2285c0a2deda3bea5c2933b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134027960,
+      "datetime": 1745264700
+    },
+    {
+      "title": "If Powell Won't Play Ball, Maybe Bessent Will",
+      "description": "",
+      "published_utc": "2025-04-21T13:06:22",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ca91fa8555205e865d36cae9de8055db5fb683ebb032c8a035e2c56bd9ec6a1a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134027065,
+      "datetime": 1745255182
+    },
+    {
+      "title": "Cashing Out Of America Is Hard On Everyone",
+      "description": "",
+      "published_utc": "2025-04-21T10:08:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f238a18a39a38ea17d41ac837fa2c0cd0988e08cb9fdabd97d64e378e38b0b74",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134025120,
+      "datetime": 1745244480
+    },
+    {
+      "title": "Wall Street Sinks, Dollar Slides As Trump Ramps Up Fed Attacks: What's Driving Markets Monday?",
+      "description": "Stocks in the U.S. were trading sharply lower by midday Monday, while gold and Bitcoin (CRYPTO: BTC) surged in tandem, as a renewed political storm surrounding Federal Reserve independence shook confidence in the U.S.",
+      "published_utc": "2025-04-21T08:47:40",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=385d6443cdd3c4bb29fc0852545e3ec68ddc51ce449a5860368e75abee641acc",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/04/21/Stock-Market-Problems-In-Usa--Statue-Of-.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138478330,
+      "datetime": 1745239660
+    },
+    {
+      "title": "U.S. Dollar Hits A 3-Year Low With Powell In Trump's Crosshairs",
+      "description": "",
+      "published_utc": "2025-04-21T08:15:05",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bcc9f0b830f4893a162f8985fb4a893c97da648c52f0249cf5ca4520c084cea3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134023983,
+      "datetime": 1745237705
+    }
+  ]
+}

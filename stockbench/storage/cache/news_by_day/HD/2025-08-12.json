@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Why Home Depot (HD) Outpaced the Stock Market Today",
+      "description": "Home Depot (HD) closed the most recent trading day at $396, moving +2.19% from the previous trading session.",
+      "published_utc": "2025-08-12T17:45:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9d74c7825da65e61513cdc0fbd4a1b6f04c57fe1d4a35c59c738fb1ce0487c33",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136328247,
+      "datetime": 1755035101
+    },
+    {
+      "title": "Home Depot (HD) Earnings Expected to Grow: Should You Buy?",
+      "description": "Home Depot (HD) possesses the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+      "published_utc": "2025-08-12T10:00:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3ebe627ac7b08e4df324b90631266ecc4795a7f2e7892bc8d0a909162cd25992",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136320517,
+      "datetime": 1755007202
+    },
+    {
+      "title": "Will Appliance & Building Material Sales Keep Lifting Home Depot's Q2?",
+      "description": "HD's Pro-driven appliance and building material sales are likely to aid steady Q2 results despite macro pressures.",
+      "published_utc": "2025-08-12T09:50:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=64497b53b0b8cc12448faf2f67ef3fd8b8302cc63d0bc26b8f9c92d3300e31a0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136320518,
+      "datetime": 1755006600
+    },
+    {
+      "title": "Shares of retail companies are trading higher amid overall market strength following softer-than-expected year-over-year CPI figures and in-line month-over-month figures. The sector may be seeing strength after President Trump extended the tariff truce deadline with China by 90 days.",
+      "description": "",
+      "published_utc": "2025-08-12T09:24:26",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=ec0cda6123f46cfdb9d9eb3cd2501cf71e126e6bb9a11a50ff0fa2f3006f47e4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138417436,
+      "datetime": 1755005066
+    },
+    {
+      "title": "Home Depot to close Missouri distribution center",
+      "description": "The retailer will stock inventory at other facilities following the Oct. 26 closure, which impacts 61 employees.",
+      "published_utc": "2025-08-12T05:56:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8607c40bb3d9f7b34969a8cc1b1f7f1c5ed506dea75d4dc94f8b81b791f124aa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136320519,
+      "datetime": 1754992560
+    }
+  ]
+}

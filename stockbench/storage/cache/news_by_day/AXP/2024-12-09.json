@@ -1,0 +1,90 @@
+{
+  "items": [
+    {
+      "id": "5853a3e2cdb9f1166ba5cbbc34589036f081ec29365f828592f37f2f2d45f3c6",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Warren Buffett Dividend Growth Stock to Buy Right Now",
+      "author": "George Budwell",
+      "published_utc": "2024-12-09T13:15:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/09/1-warren-buffett-dividend-growth-stock-to-buy-righ/?source=iedfolrf0000001",
+      "tickers": [
+        "AXP",
+        "BRK.A",
+        "BRK.B"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800352/gettyimages-1236903031.jpg",
+      "description": "American Express is Berkshire Hathaway's second-largest holding, making up 15.3% of its portfolio. The company has demonstrated strong performance, adaptability, and consistent shareholder returns, with a 62.7% surge in 2024. Despite the stock's recent gains, it still trades at a discount to the S&P 500, making it an attractive option for dividend growth investors.",
+      "keywords": [
+        "American Express",
+        "Berkshire Hathaway",
+        "dividend growth",
+        "financial services"
+      ],
+      "insights": [
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights American Express's strong performance, adaptability, and consistent shareholder returns, including a 62.7% surge in 2024 and a commitment to dividend growth. Despite the recent gains, the stock still trades at a discount to the S&P 500, making it an attractive option for dividend growth investors."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that American Express is Berkshire Hathaway's second-largest holding, making up 15.3% of its portfolio, indicating the investment firm's confidence in the company."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that American Express is Berkshire Hathaway's second-largest holding, making up 15.3% of its portfolio, indicating the investment firm's confidence in the company."
+        }
+      ]
+    },
+    {
+      "id": "1b52db66a285a869c6d563e681956d6856c8f66cf43c352d097d4ba53254ca86",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Top Fintech Stocks to Buy in December",
+      "author": "Chris Neiger",
+      "published_utc": "2024-12-09T11:21:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/09/3-top-fintech-stocks-to-buy-in-december/?source=iedfolrf0000001",
+      "tickers": [
+        "SOFI",
+        "AXP",
+        "PYPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800190/investor-trader-chart-graph-stock-point-growth-profit-loss-1200x800-5b2df79.jpg",
+      "description": "The article discusses three fintech stocks - SoFi Technologies, American Express, and PayPal - that have performed well despite the challenging market conditions. It highlights the growth and financial strength of these companies, making them attractive investment options.",
+      "keywords": [
+        "fintech",
+        "SoFi Technologies",
+        "American Express",
+        "PayPal"
+      ],
+      "insights": [
+        {
+          "ticker": "SOFI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights SoFi's growing customer base, increasing revenue and earnings, and its expansion in the fintech space, making it an attractive investment option for long-term investors."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that American Express is growing its customer base and revenue, and its stock is relatively cheap compared to the broader market, making it a compelling fintech play."
+        },
+        {
+          "ticker": "PYPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article emphasizes PayPal's large user base, strong financial position, and relatively cheap valuation, despite a temporary slowdown in revenue growth, making it an attractive investment option."
+        }
+      ]
+    }
+  ]
+}

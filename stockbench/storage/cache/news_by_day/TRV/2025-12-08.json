@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "1 Insurance Stock with Exciting Potential and 2 That Underwhelm",
+      "description": "Insurance providers use their expertise in risk assessment to help protect assets while offering consumers peace of mind through comprehensive coverage options. But worries about an economic slowdown and potential claims deterioration have kept sentiment in check, and over the past six months, the industry’s return was flat while the S&P 500 climbed by 14.3%.",
+      "published_utc": "2025-12-08T23:36:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b949e9cb51449c4ff3c53f9e17688329fe0b7593ce389841a99a47794bc0a0d8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137740395,
+      "datetime": 1765255012
+    },
+    {
+      "title": "Using Quantitative Signal Data For Portfolio Management",
+      "description": "One question weâve been asked many times is whether ValuEngine stock ratings can be used for portfolio management or merely for trading stocks.",
+      "published_utc": "2025-12-08T23:20:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0e9697e80a4d66d511283dcf20467a67b49ea7bcf5972e4e457e9cf8608de118",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2022152397/image_2022152397.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137738704,
+      "datetime": 1765254000
+    },
+    {
+      "title": "Leading Sureties Announce the Launch of SuretyBind",
+      "description": "Four industry-leading surety companies – Chubb, The Hartford, Liberty Mutual and Travelers – today announced the formation of SuretyBind, LLC, a technology company that will feature a shared digital infrastructure to advance the surety industry.",
+      "published_utc": "2025-12-08T14:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=41a2dafa5ddb44866d0266ed889662bde93d35ec032de646042624875dd46d5f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137737982,
+      "datetime": 1765220400
+    },
+    {
+      "title": "Are Investors Undervaluing Donegal Group (DGICA) Right Now?",
+      "description": "Here at Zacks, our focus is on the proven Zacks Rank system, which emphasizes earnings estimates and estimate revisions to find great stocks. Nevertheless, we are always paying attention to the latest value, growth, and momentum trends to underscore strong picks.",
+      "published_utc": "2025-12-08T09:40:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ff6a366864d093850dde1f20cebf51a54effc1edd6b162151da0952813d492c9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137732670,
+      "datetime": 1765204804
+    }
+  ]
+}

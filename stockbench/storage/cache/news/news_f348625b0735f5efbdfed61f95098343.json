@@ -1,0 +1,161 @@
+{
+  "items": [
+    {
+      "id": "56d641b04bdd7dbc7110477e3084c76d11fd4f2d56f99e5dc37cbe5858707965",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "2 High-Yield Dividend ETFs to Buy to Generate Passive Income",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-07T09:32:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/07/2-high-yield-dividend-etfs-to-buy-to-generate-pass/?source=iedfolrf0000001",
+      "tickers": [
+        "VYM",
+        "PFF",
+        "C",
+        "CpN",
+        "WFC",
+        "WFCpA",
+        "WFCpC",
+        "WFCpD",
+        "WFCpL",
+        "WFCpY",
+        "WFCpZ",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "AVGO",
+        "HD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799548/a-pad-with-passive-income-written-on-it.jpg",
+      "description": "The article discusses two dividend-focused ETFs - the Vanguard High Dividend Yield ETF (VYM) and the iShares Preferred and Income Securities ETF (PFF) - as options for generating passive income. The Vanguard ETF offers a steadily rising income stream, while the iShares ETF provides a higher-yielding, relatively fixed stream of passive income.",
+      "keywords": [
+        "ETFs",
+        "dividend investing",
+        "passive income",
+        "Vanguard",
+        "iShares"
+      ],
+      "insights": [
+        {
+          "ticker": "VYM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the Vanguard High Dividend Yield ETF as an excellent option for generating passive income, with a current yield of around 2.7% and a low expense ratio of 0.06%. It notes that the fund's portfolio includes high-quality dividend stocks with long streaks of growing their payouts, which bodes well for the fund's ability to provide investors with a rising income stream while also increasing the value of their investment."
+        },
+        {
+          "ticker": "PFF",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article also discusses the iShares Preferred and Income Securities ETF as an ideal investment for generating passive income, with a yield of around 6% and monthly distributions. The fund holds preferred stocks and hybrid securities, which provide a higher fixed payout than bonds but are less risky than common stocks. The article notes that the fund's price tends to be relatively stable, with changes in interest rates being the main factor impacting its price."
+        },
+        {
+          "ticker": "C",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Citigroup is mentioned as one of the leading financial institutions whose preferred stock is held by the iShares Preferred and Income Securities ETF, but the article does not provide any specific commentary or sentiment on the company itself."
+        },
+        {
+          "ticker": "CpN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Citigroup is mentioned as one of the leading financial institutions whose preferred stock is held by the iShares Preferred and Income Securities ETF, but the article does not provide any specific commentary or sentiment on the company itself."
+        },
+        {
+          "ticker": "WFC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Wells Fargo is also mentioned as one of the leading financial institutions whose preferred stock is held by the iShares Preferred and Income Securities ETF, but the article does not provide any specific commentary or sentiment on the company itself."
+        },
+        {
+          "ticker": "WFCpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Wells Fargo is also mentioned as one of the leading financial institutions whose preferred stock is held by the iShares Preferred and Income Securities ETF, but the article does not provide any specific commentary or sentiment on the company itself."
+        },
+        {
+          "ticker": "WFCpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Wells Fargo is also mentioned as one of the leading financial institutions whose preferred stock is held by the iShares Preferred and Income Securities ETF, but the article does not provide any specific commentary or sentiment on the company itself."
+        },
+        {
+          "ticker": "WFCpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Wells Fargo is also mentioned as one of the leading financial institutions whose preferred stock is held by the iShares Preferred and Income Securities ETF, but the article does not provide any specific commentary or sentiment on the company itself."
+        },
+        {
+          "ticker": "WFCpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Wells Fargo is also mentioned as one of the leading financial institutions whose preferred stock is held by the iShares Preferred and Income Securities ETF, but the article does not provide any specific commentary or sentiment on the company itself."
+        },
+        {
+          "ticker": "WFCpY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Wells Fargo is also mentioned as one of the leading financial institutions whose preferred stock is held by the iShares Preferred and Income Securities ETF, but the article does not provide any specific commentary or sentiment on the company itself."
+        },
+        {
+          "ticker": "WFCpZ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Wells Fargo is also mentioned as one of the leading financial institutions whose preferred stock is held by the iShares Preferred and Income Securities ETF, but the article does not provide any specific commentary or sentiment on the company itself."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is also mentioned as one of the leading financial institutions whose preferred stock is held by the iShares Preferred and Income Securities ETF, but the article does not provide any specific commentary or sentiment on the company itself."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is also mentioned as one of the leading financial institutions whose preferred stock is held by the iShares Preferred and Income Securities ETF, but the article does not provide any specific commentary or sentiment on the company itself."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is also mentioned as one of the leading financial institutions whose preferred stock is held by the iShares Preferred and Income Securities ETF, but the article does not provide any specific commentary or sentiment on the company itself."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is also mentioned as one of the leading financial institutions whose preferred stock is held by the iShares Preferred and Income Securities ETF, but the article does not provide any specific commentary or sentiment on the company itself."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is also mentioned as one of the leading financial institutions whose preferred stock is held by the iShares Preferred and Income Securities ETF, but the article does not provide any specific commentary or sentiment on the company itself."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is also mentioned as one of the leading financial institutions whose preferred stock is held by the iShares Preferred and Income Securities ETF, but the article does not provide any specific commentary or sentiment on the company itself."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is also mentioned as one of the leading financial institutions whose preferred stock is held by the iShares Preferred and Income Securities ETF, but the article does not provide any specific commentary or sentiment on the company itself."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is also mentioned as one of the leading financial institutions whose preferred stock is held by the iShares Preferred and Income Securities ETF, but the article does not provide any specific commentary or sentiment on the company itself."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Broadcom is mentioned as one of the holdings of the author, but the article does not provide any specific commentary or sentiment on the company itself."
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Home Depot is mentioned as one of the holdings of the author, but the article does not provide any specific commentary or sentiment on the company itself."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T18:59:06.737449+00:00",
+    "cache_key": "news_f348625b0735f5efbdfed61f95098343",
+    "count": 1
+  }
+}

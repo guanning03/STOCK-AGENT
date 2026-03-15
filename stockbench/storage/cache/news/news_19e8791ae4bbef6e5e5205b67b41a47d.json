@@ -1,0 +1,407 @@
+{
+  "items": [
+    {
+      "id": "5bef6d5e694947150cfbd1cba5f94f5bd47bdfcd24414469492974ca8206bd00",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "AI ETFs In Focus As Alibaba Challenges DeepSeek With New Model",
+      "author": "Chandrima Sanyal",
+      "published_utc": "2025-01-29T18:50:50Z",
+      "article_url": "https://www.benzinga.com/news/global/25/01/43315374/ai-etfs-in-focus-as-alibaba-challenges-deepseek-with-new-model",
+      "tickers": [
+        "AAPL",
+        "AIQ",
+        "AMZN",
+        "ARKQ",
+        "BABA",
+        "BIDU",
+        "GOOG",
+        "GOOGL",
+        "MSFT",
+        "NVDA",
+        "QQQ",
+        "TSLA"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/29/deepseek-ai7_0.png?width=1200&height=800&fit=crop",
+      "description": "The ongoing AI arms race, with disruptive developments from DeepSeek and Alibaba's new Qwen 2.5-Max model, has thrust AI-focused ETFs into the spotlight. This escalating competition opens opportunities for investors to capitalize on the AI trend.",
+      "keywords": [
+        "AI",
+        "ETFs",
+        "Alibaba",
+        "DeepSeek"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Apple is mentioned as one of the holdings of the Invesco QQQ Trust ETF, which provides exposure to major tech companies involved in AI advancements."
+        },
+        {
+          "ticker": "AIQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights this ETF as providing broad exposure to top AI companies, including semiconductor firms and software developers, making it a potential investment opportunity in the AI space."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Amazon is mentioned as one of the holdings of the Invesco QQQ Trust ETF, which provides exposure to major tech companies involved in AI advancements."
+        },
+        {
+          "ticker": "ARKQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights this ETF, managed by Cathie Wood's ARK Invest, as targeting companies playing in AI-driven automation and robotics, making it a relevant investment option in the AI space."
+        },
+        {
+          "ticker": "BABA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article focuses on Alibaba's launch of its Qwen 2.5-Max AI model, which is seen as a competitive response to DeepSeek's advancements, indicating Alibaba's strong presence in the AI race."
+        },
+        {
+          "ticker": "BIDU",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Baidu is mentioned as one of the Chinese AI players racing to upgrade their AI offerings, but the article does not provide a specific sentiment towards the company."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alphabet is mentioned as one of the holdings of the Global X Artificial Intelligence & Technology ETF, indicating its involvement in AI advancements, but the article does not provide a specific sentiment towards the company."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alphabet is mentioned as one of the holdings of the Global X Artificial Intelligence & Technology ETF, indicating its involvement in AI advancements, but the article does not provide a specific sentiment towards the company."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Microsoft is mentioned as one of the holdings of the Global X Artificial Intelligence & Technology ETF, indicating its involvement in AI advancements, but the article does not provide a specific sentiment towards the company."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "NVIDIA is mentioned as one of the holdings of the Global X Artificial Intelligence & Technology ETF, indicating its involvement in AI advancements, but the article does not provide a specific sentiment towards the company."
+        },
+        {
+          "ticker": "QQQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article highlights this ETF as providing exposure to major tech companies involved in AI advancements, but does not provide a specific sentiment towards the ETF."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Tesla is mentioned as one of the holdings of the ARK Autonomous Technology & Robotics ETF, indicating its involvement in AI-driven automation and robotics, but the article does not provide a specific sentiment towards the company."
+        }
+      ]
+    },
+    {
+      "id": "d3aad7df76f4dde93b689e89c7d554eb9e2a82c6014892621bd62bf7c61faf61",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why AST SpaceMobile Stock Crashed 9% on Wednesday",
+      "author": "Rich Smith",
+      "published_utc": "2025-01-29T15:44:11Z",
+      "article_url": "https://www.fool.com/investing/2025/01/29/why-ast-spacemobile-stock-crashed-9-on-wednesday/?source=iedfolrf0000001",
+      "tickers": [
+        "ASTS",
+        "GSAT",
+        "TMUS",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805709/three-glowing-satellites-beaming-down-transmissions-to-earth.jpg",
+      "description": "AST SpaceMobile and Globalstar stocks fell sharply after news that Apple is partnering with SpaceX and T-Mobile to expand Starlink satellite internet service, which could compete with the companies' direct-to-cell satellite communication offerings.",
+      "keywords": [
+        "AST SpaceMobile",
+        "Globalstar",
+        "SpaceX",
+        "Starlink",
+        "satellite communications"
+      ],
+      "insights": [
+        {
+          "ticker": "ASTS",
+          "sentiment": "negative",
+          "sentiment_reasoning": "AST SpaceMobile's stock fell as its direct-to-cell satellite service faces competition from the more advanced Starlink service, which has already launched beta service."
+        },
+        {
+          "ticker": "GSAT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Globalstar's stock also fell sharply, as its partnership with Apple for emergency satellite texting may be impacted by Apple's potential switch to Starlink."
+        },
+        {
+          "ticker": "TMUS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "T-Mobile is partnering with SpaceX to expand Starlink satellite internet service, which could benefit the company's customers."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Apple is working with both SpaceX and Globalstar to provide satellite-based services, but may be shifting its focus to the more advanced Starlink network."
+        }
+      ]
+    },
+    {
+      "id": "79a24a9aaa6938e8acf559712407068b3eaa47726eb942e8ad64c03366615474",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Despite Catapulting to an All-Time High, Netflix Just Missed a Golden Opportunity",
+      "author": "Sean Williams",
+      "published_utc": "2025-01-29T10:06:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/29/all-time-high-netflix-just-miss-golden-opportunity/?source=iedfolrf0000001",
+      "tickers": [
+        "NFLX",
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "AAPL",
+        "META",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805305/person-streaming-show-series-tablet-netflix-subscription-getty.jpg",
+      "description": "Netflix's strong performance in Q4 2024, driven by subscriber growth, original content, and pricing power, has propelled the stock to new highs. However, the company's board missed an opportunity to announce a stock split, which could have further boosted investor interest.",
+      "keywords": [
+        "Netflix",
+        "streaming",
+        "stock split",
+        "subscriber growth",
+        "original content",
+        "pricing power"
+      ],
+      "insights": [
+        {
+          "ticker": "NFLX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Netflix's strong performance in Q4 2024, with impressive subscriber growth, successful original content, and pricing power, which have driven the stock to new highs. The article suggests that a stock split could have further boosted investor interest in the company."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alphabet is mentioned as having a member on The Motley Fool's board of directors, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alphabet is mentioned as having a member on The Motley Fool's board of directors, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Amazon is mentioned as the parent company of Whole Foods Market, which has a member on The Motley Fool's board of directors, but the article does not provide any specific information about Amazon's performance or outlook."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Apple is mentioned as one of the FAANG stocks, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Meta Platforms (formerly Facebook) is mentioned as having a member on The Motley Fool's board of directors, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as an advertising partner of Motley Fool Money, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as an advertising partner of Motley Fool Money, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as an advertising partner of Motley Fool Money, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as an advertising partner of Motley Fool Money, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as an advertising partner of Motley Fool Money, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as an advertising partner of Motley Fool Money, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as an advertising partner of Motley Fool Money, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as an advertising partner of Motley Fool Money, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as an advertising partner of Motley Fool Money, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as an advertising partner of Motley Fool Money, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as an advertising partner of Motley Fool Money, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as an advertising partner of Motley Fool Money, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as an advertising partner of Motley Fool Money, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as an advertising partner of Motley Fool Money, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as an advertising partner of Motley Fool Money, but the article does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Bank of America is mentioned as an advertising partner of Motley Fool Money, but the article does not provide any specific information about the company's performance or outlook."
+        }
+      ]
+    },
+    {
+      "id": "86c353292a36b1e371842a29ef9b71e24c8466f7c49b3cfb1606489f0024b65b",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Apple's $725 Billion Investment Is Fueling Its Growth -- and It Has Nothing to Do With Artificial Intelligence (AI)",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-29T09:51:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/29/apple-725-billion-investment-fueling-growth-not-ai/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "BRK.A",
+        "BRK.B"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805344/aapl-iphone-xr.png",
+      "description": "Apple's $725 billion stock buyback program has been a major driver of its growth, despite stagnant physical product sales and a high valuation. The company's focus on subscription services and AI-powered features like Apple Intelligence have also contributed to its success.",
+      "keywords": [
+        "Apple",
+        "stock buybacks",
+        "subscription services",
+        "artificial intelligence"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple's $725 billion stock buyback program has significantly boosted its earnings per share, and the company's focus on subscription services and AI-powered features have contributed to its growth. However, the article also notes concerns about stagnant physical product sales and a high valuation."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that billionaire Warren Buffett has sold 67% of Berkshire Hathaway's stake in Apple, suggesting a negative sentiment towards Apple's current valuation and growth prospects."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that billionaire Warren Buffett has sold 67% of Berkshire Hathaway's stake in Apple, suggesting a negative sentiment towards Apple's current valuation and growth prospects."
+        }
+      ]
+    },
+    {
+      "id": "641ecf9530d09aee023fe554414e9e582bd48d5e9b474838fd42e38c9c63f771",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "This Powerhouse Growth ETF Could Help You Turn $200 per Month Into $1.3 Million While Barely Lifting a Finger",
+      "author": "Katie Brockman",
+      "published_utc": "2025-01-29T09:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/29/powerhouse-growth-etf-turn-200-into-1-million/?source=iedfolrf0000001",
+      "tickers": [
+        "SCHG",
+        "NVDA",
+        "AAPL",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805332/two-people-sitting-at-a-table-counting-moneyjpg.jpg",
+      "description": "The article discusses the Schwab U.S. Large-Cap Growth ETF (SCHG) as a potential investment option that could help turn $200 per month into $1.3 million over time. The ETF focuses on large-cap growth stocks, with Nvidia, Apple, and Microsoft as its top holdings.",
+      "keywords": [
+        "ETF",
+        "growth investing",
+        "long-term wealth",
+        "Schwab U.S. Large-Cap Growth ETF"
+      ],
+      "insights": [
+        {
+          "ticker": "SCHG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the ETF's potential to generate substantial long-term wealth, with an average annual return of 16.60% since its launch in 2009. It suggests that consistently investing $200 per month in this ETF could lead to over $1.3 million in savings over 30 years, making it a compelling investment option."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia is mentioned as one of the top three holdings of the Schwab U.S. Large-Cap Growth ETF, indicating its importance in the fund's composition and potential to contribute to the ETF's performance."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple is also listed as one of the top three holdings of the Schwab U.S. Large-Cap Growth ETF, suggesting its significance in the fund's portfolio and its potential to drive the ETF's growth."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is the third-largest holding in the Schwab U.S. Large-Cap Growth ETF, further highlighting the fund's exposure to large-cap growth stocks that are expected to contribute to its overall performance."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:34:31.429062+00:00",
+    "cache_key": "news_19e8791ae4bbef6e5e5205b67b41a47d",
+    "count": 5
+  }
+}

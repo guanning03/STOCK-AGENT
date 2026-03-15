@@ -1,0 +1,166 @@
+{
+  "items": [
+    {
+      "id": "40bc372c2eb4272c616b43d9d585569f8f9056fa22cbfddfcda9be8868caa7f6",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why Boeing Stock Is Soaring Today",
+      "author": "Johnny Rice",
+      "published_utc": "2025-01-28T19:26:49Z",
+      "article_url": "https://www.fool.com/investing/2025/01/28/why-boeing-stock-is-soaring-today/?source=iedfolrf0000001",
+      "tickers": [
+        "BA",
+        "BApA",
+        "RTX"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805571/boeing-stock-price-rise-2024-financial-report.jpg",
+      "description": "Boeing reported a $11.8 billion loss in 2024, including a $5.4 billion loss from its defense segment. However, the stock gained 4.1% as the company is ramping up production more smoothly than expected, with plans to increase 737 jet deliveries.",
+      "keywords": [
+        "Boeing",
+        "earnings",
+        "production",
+        "737 jets"
+      ],
+      "insights": [
+        {
+          "ticker": "BA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Despite the large loss, the stock gained as the company is increasing production and expects to exceed regulatory caps, indicating a better-than-expected near-term outlook."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Despite the large loss, the stock gained as the company is increasing production and expects to exceed regulatory caps, indicating a better-than-expected near-term outlook."
+        },
+        {
+          "ticker": "RTX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Raytheon Technologies, a competitor of Boeing, reported $7.7 billion in net income for the year, providing a contrast to Boeing's performance."
+        }
+      ]
+    },
+    {
+      "id": "24565dfb327882c4b743352f1df494a388b3924650557ca6f652af0a2ca37d9c",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "Boeing Earnings: With Most Bad News Priced In, Better Guidance May Spark Breakout",
+      "author": "Ali Merchant",
+      "published_utc": "2025-01-28T08:33:00Z",
+      "article_url": "https://www.investing.com/analysis/boeing-earnings-with-most-bad-news-priced-in-better-guidance-may-spark-breakout-200656688",
+      "tickers": [
+        "BA",
+        "BApA"
+      ],
+      "amp_url": "https://m.investing.com/analysis/boeing-earnings-with-most-bad-news-priced-in-better-guidance-may-spark-breakout-200656688?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "Boeing's Q4 2024 earnings report is expected to show significant challenges, with a projected loss of $5.46 per share. However, the company's fundamental strengths remain intact, and if it provides better guidance, it could spark a breakout in the stock price.",
+      "keywords": [
+        "Boeing",
+        "earnings",
+        "guidance",
+        "breakout"
+      ],
+      "insights": [
+        {
+          "ticker": "BA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article suggests that while Boeing is facing significant challenges, its fundamental strengths remain intact, and better guidance could lead to a breakout in the stock price."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article suggests that while Boeing is facing significant challenges, its fundamental strengths remain intact, and better guidance could lead to a breakout in the stock price."
+        }
+      ]
+    },
+    {
+      "id": "98253b490f8bca13a8694d134f5419bd398b7c5f5fe8930d903d7359b83cea76",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Military Drone Market Projected to Hit USD 56.69 Billion by 2033 | Straits Research",
+      "author": "N/A",
+      "published_utc": "2025-01-28T01:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/28/3016044/0/en/Military-Drone-Market-Projected-to-Hit-USD-56-69-Billion-by-2033-Straits-Research.html",
+      "tickers": [
+        "NOC",
+        "RTX",
+        "AVAV",
+        "BA",
+        "BApA",
+        "ESLT",
+        "LMT",
+        "BAESY",
+        "TXT"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/0772b43c-9649-415d-a2b8-bd58fd4badd8",
+      "description": "The global military drone market is expected to grow from $24.25 billion in 2025 to $56.69 billion by 2033, driven by increased defense spending and integration of emerging technologies like AI and 5G. North America, led by the U.S., dominates the market.",
+      "keywords": [
+        "military drones",
+        "unmanned aerial vehicles",
+        "defense spending",
+        "emerging technologies",
+        "artificial intelligence",
+        "5G"
+      ],
+      "insights": [
+        {
+          "ticker": "NOC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Northrop Grumman is mentioned as one of the industry giants in the U.S. military drone market, indicating its strong presence and potential to benefit from the market growth."
+        },
+        {
+          "ticker": "RTX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Raytheon Technologies is a major player in the military drone market, and its inclusion suggests it is well-positioned to capitalize on the market's expansion."
+        },
+        {
+          "ticker": "AVAV",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "AeroVironment is listed as one of the competitive players in the military drone market, but no further details are provided about its market position or outlook."
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Boeing is mentioned as a competitive player in the military drone market, but without any additional information about its specific role or performance, the sentiment is neutral."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Boeing is mentioned as a competitive player in the military drone market, but without any additional information about its specific role or performance, the sentiment is neutral."
+        },
+        {
+          "ticker": "ESLT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Elbit Systems is listed as one of the competitive players in the military drone market, but no further details are provided about its market position or outlook."
+        },
+        {
+          "ticker": "LMT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Lockheed Martin is mentioned as a competitive player in the military drone market, but without any additional context about its specific role or performance, the sentiment is neutral."
+        },
+        {
+          "ticker": "BAESY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "BAE Systems is mentioned as a competitive player in the military drone market, but without any additional information about its specific role or performance, the sentiment is neutral."
+        },
+        {
+          "ticker": "TXT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Textron Systems is mentioned as a competitive player in the military drone market, but without any additional context about its specific role or performance, the sentiment is neutral."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Podcast: Federal Reserve Holds the Line on Rates",
+      "description": "Fed Chair Jerome Powell signals reluctance about a rate cut at the central bank’s next meeting in September. Plus: Hershey trimmed its annual outlook to reflect higher projected tariff expenses. SoFi Technologies plans a public offering of $1.",
+      "published_utc": "2025-07-30T17:45:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0499650ad3f3e0b954c20d8f51ac96065472013567cadcea1b95cd340f071d2a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136148822,
+      "datetime": 1753911902
+    },
+    {
+      "title": "Stocks to Watch Recap: Freeport-McMoran, Hershey, Palo Alto, Starbucks",
+      "description": "↘️ Freeport-McMoran (FCX): Shares in the mining company, a large producer of copper, slid 9.5% Wednesday after the Trump administration outlined new tariffs related to the industrial metal. ↗️ Hershey (HSY): The chocolate maker trimmed its annual outlook to reflect higher projected tariff expenses.",
+      "published_utc": "2025-07-30T16:57:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=298a03258525af8837d38899c24b9c0c4ddc58846c34972b7a2f71eb4db3ccc2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136148703,
+      "datetime": 1753909061
+    },
+    {
+      "title": "Stock Market Today: Dow Drops After Fed Powell Comments; Meta, Microsoft Soar On Earnings (Live Coverage)",
+      "description": "The Dow Jones index was flat after the Fed interest rate decision. Nvidia stock rallied on a price-target hike.",
+      "published_utc": "2025-07-30T16:31:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6c2faeb8a2c743fd049cbfe45246618161dead37dcdf44058d60b5e15dc61126",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136148824,
+      "datetime": 1753907472
+    },
+    {
+      "title": "Sector Update: Financial Stocks Retreat Late Afternoon",
+      "description": "Financial stocks were weaker late Wednesday afternoon, with the NYSE Financial Index shedding 0.8% a",
+      "published_utc": "2025-07-30T15:55:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d21b165dcd59ac686d2060b7b91aeee23e0d3803e2436b40476667338e09e991",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136148802,
+      "datetime": 1753905347
+    },
+    {
+      "title": "How To Retire In 2025 On Dividends",
+      "description": "Ready to retire? Read more on how those preparing for retirement can develop a portfolio of dividend stocks.",
+      "published_utc": "2025-07-30T15:43:53",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=675fb94138efd8a127b6bb3c96d67b8d348920408a8ae12b348fea541e1ced30",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2187824383/image_2187824383.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136146668,
+      "datetime": 1753904633
+    }
+  ]
+}

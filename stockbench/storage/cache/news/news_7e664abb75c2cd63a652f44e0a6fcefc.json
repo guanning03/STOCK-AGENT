@@ -1,0 +1,113 @@
+{
+  "items": [
+    {
+      "title": "Is Affirm Stock the Next Fintech Growth Story?",
+      "description": "This fintech growth stock is slowly gaining traction.",
+      "published_utc": "2025-09-02T16:53:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a591c9d417158732fb84865ef9db8eb5c0439c199b2b38e33f68834bf6fdc6d1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136612761,
+      "datetime": 1756846423
+    },
+    {
+      "title": "Hyperliquid Smashes Revenue Record with $106M in August, Dominates 70% of DeFi Perps Market",
+      "description": "Hyperliquid shattered revenue records in August with $106 million earned from perpetual futures trading, marking a 23% increase from July’s $86.6 million as the decentralized exchange captured 70% market share among DeFi perpetuals platforms. The milestone came alongside $383 billion in monthly trading volume and an annualized revenue reaching $1.25 ...",
+      "published_utc": "2025-09-02T07:39:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2f8626ea291dd057c642ed8a36b67b31b3ae1339e2b98338d2b65a8d3cd2ddd0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136604050,
+      "datetime": 1756813146
+    },
+    {
+      "title": "Visa ramps new fraud prevention program",
+      "description": "The card giant has merged its fraud prevention and dispute management programs, forcing merchants and their bank card processors to take more responsibility for thwarting misconduct.",
+      "published_utc": "2025-09-02T07:39:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3ff513252f8d6e8d2a64ad934d9254a22a209ef07a13c5b37f4edce0eff4c9e1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136612870,
+      "datetime": 1756813140
+    },
+    {
+      "title": "Visa Partners with Ample Earth to Power Sustainable Spending",
+      "description": "Visa, the global leader in digital payments has partnered with Ample Earth, a UK-based Climate Fintech to incorporate sustainability data into the payment ecosystem.",
+      "published_utc": "2025-09-02T04:28:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5b0957c5cd7b938ac6622a92ec6f6fdd19c799f04057ccc2162f894949270627",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136604051,
+      "datetime": 1756801680
+    },
+    {
+      "id": "98353d79e344aee4b817987f894e68ab1d6a33b38b26d6ad8f8451acb24335e3",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Reasons XRP Enthusiasts Should Still Be Cautious",
+      "author": "Emma Newberry",
+      "published_utc": "2025-09-02T10:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/09/02/reasons-xrp-enthusiasts-should-still-be-cautious/?source=iedfolrf0000001",
+      "tickers": [
+        "PYPL",
+        "V",
+        "MA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/829556/gettyimages-1532106083.jpg",
+      "description": "XRP, a cryptocurrency by Ripple Labs, aims to revolutionize international money transfers. Despite gaining 420% in the last year and predictions of further growth, the cryptocurrency faces challenges including high market capitalization and competition from established financial networks.",
+      "keywords": [
+        "cryptocurrency",
+        "XRP",
+        "blockchain",
+        "cross-border payments",
+        "Ripple Labs"
+      ],
+      "insights": [
+        {
+          "ticker": "PYPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Developing blockchain and crypto capabilities, showing proactive approach to emerging financial technologies"
+        },
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Announced new tokenized asset platform, indicating strategic interest in blockchain technologies"
+        },
+        {
+          "ticker": "MA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Developing crypto credit cards and blockchain infrastructure"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:07:13.164835+00:00",
+    "cache_key": "news_7e664abb75c2cd63a652f44e0a6fcefc",
+    "count": 5
+  }
+}

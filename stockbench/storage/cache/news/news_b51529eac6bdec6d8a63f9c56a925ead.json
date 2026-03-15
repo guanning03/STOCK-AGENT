@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Top Stock Reports for Apple, Walmart & JPMorgan",
+      "description": "Apple, Walmart and JPMorgan lead today's Zacks research, highlighting services growth, omnichannel strength and banking momentum amid risks.",
+      "published_utc": "2026-01-20T16:32:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a061ba320793ea898a7637501343c4c673503a893868b480e727d6e1b0371108",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138190923,
+      "datetime": 1768944720
+    },
+    {
+      "title": "PPLT Delivers Bigger Gains Than AAAU but Swings More Widely",
+      "description": "Expense differences and metal exposure set these two ETFs apart, shaping their appeal for investors with distinct risk preferences.",
+      "published_utc": "2026-01-20T15:16:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=caf8152c6ce7eb5e9119928fdf61d1a073e073afffbe851dacf51ed96622a667",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138190358,
+      "datetime": 1768940187
+    },
+    {
+      "title": "Goldman Sachs Raising Price Targets 10%+ on Tech and Financial Blue Chip Giants",
+      "description": "Goldman Sachs has raised price targets on these three blue-chip giants, including a top-performing Magnificent 7 stock.",
+      "published_utc": "2026-01-20T14:19:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ab3bffc3d05409268a62e10f58726478f6ca9e49ae00f3aef045d6f5774552bb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138190256,
+      "datetime": 1768936747
+    },
+    {
+      "title": "Goldman Sachs Group (NYSE:GS) Will Pay A Larger Dividend Than Last Year At $4.50",
+      "description": "The Goldman Sachs Group, Inc.'s ( NYSE:GS ) dividend will be increasing from last year's payment of the same period to...",
+      "published_utc": "2026-01-20T14:02:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=db8e67214354687b2e96a7ee4168728a4382b09355b5f0fc065153cfceee647d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138189496,
+      "datetime": 1768935774
+    },
+    {
+      "title": "Goldman Sachs Expands Qatar Partnership With Potential $25 Billion Commitment",
+      "description": "Qatar Investment Authority plans to invest across Goldman Sachs' private market strategies as the bank deepens its Doha presence.",
+      "published_utc": "2026-01-20T13:19:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d9d15e5be4540205a8a49c87872dbd2fa9725cb99ab5a3d17a487ebe87420c69",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138189497,
+      "datetime": 1768933164
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:44:35.487753+00:00",
+    "cache_key": "news_b51529eac6bdec6d8a63f9c56a925ead",
+    "count": 5
+  }
+}

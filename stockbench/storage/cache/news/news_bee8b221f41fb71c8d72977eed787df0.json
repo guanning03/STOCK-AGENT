@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "id": "4205a24e46c73ba3b87436b3483360965c18963c3b4c1126fa40d7c49a474140",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Got $5,000? These 3 Growth Stocks Are Trading Near Their 52-Week Lows.",
+      "author": "David Jagielski",
+      "published_utc": "2025-01-14T12:25:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/14/got-5000-these-3-growth-stocks-are-trading-near-th/?source=iedfolrf0000001",
+      "tickers": [
+        "AMD",
+        "AMGN",
+        "PLD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803652/a-person-looking-at-a-chart-on-their-laptop.jpg",
+      "description": "The article discusses three undervalued growth stocks that could be good long-term investments: Advanced Micro Devices (AMD), Amgen (AMGN), and Prologis (PLD). It highlights the growth potential and attractive valuations of these companies.",
+      "keywords": [
+        "growth stocks",
+        "undervalued stocks",
+        "AMD",
+        "Amgen",
+        "Prologis"
+      ],
+      "insights": [
+        {
+          "ticker": "AMD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights AMD's growth opportunities in the AI market, with its Instinct MI325X chip having the potential to boost the company's sales and profits. The stock is trading near its 52-week low, making it an attractive entry point for long-term investors."
+        },
+        {
+          "ticker": "AMGN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article discusses Amgen's promising weight loss drug MariTide, which could be a game-changer for the company and the anti-obesity drug market. The article believes investors are overreacting to recent trial data and that Amgen is attractively valued at just 13 times its estimated future profits."
+        },
+        {
+          "ticker": "PLD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Prologis' strong position in the logistics real estate market, with a diverse customer base and potential for growth as e-commerce demand continues to rise. The REIT is trading near its 52-week low, making it an underrated growth stock to buy and hold."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:46:50.329381+00:00",
+    "cache_key": "news_bee8b221f41fb71c8d72977eed787df0",
+    "count": 1
+  }
+}

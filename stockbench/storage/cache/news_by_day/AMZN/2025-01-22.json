@@ -1,0 +1,333 @@
+{
+  "items": [
+    {
+      "id": "9d3976d293c5017b226594aa15a4c6ee9d74b25ab82c945d87f028b0766e6528",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Microsoft Invests In Carbon Credits To Restore Amazon Rainforest, Faces Challenges From Data Center Growth, Trump's Fossil Fuel Focus",
+      "author": "Anusuya Lahiri",
+      "published_utc": "2025-01-22T17:46:43Z",
+      "article_url": "https://www.benzinga.com/government/regulations/25/01/43137590/microsoft-invests-in-carbon-credits-to-restore-amazon-rainforest-faces-challenges-from-dat",
+      "tickers": [
+        "MSFT",
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/22/Microsoft-Corporation.jpeg?width=1200&height=800&fit=crop",
+      "description": "Microsoft has invested $200 million to buy 3.5 million carbon credits to restore the Amazon and Atlantic forests in Brazil. However, the company's carbon footprint has increased by 40% since 2020 due to the growth of its data centers, putting pressure on its emissions promises. The Trump administration's focus on fossil fuels has also posed challenges for Microsoft and other tech giants in their sustainability efforts.",
+      "keywords": [
+        "Microsoft",
+        "carbon credits",
+        "Amazon rainforest",
+        "data centers",
+        "emissions",
+        "climate change",
+        "fossil fuels"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "mixed",
+          "sentiment_reasoning": "Microsoft has taken a positive step by investing in carbon credits to restore the Amazon and Atlantic forests, but its growing data center energy consumption has led to a significant increase in its carbon footprint, which is a concern."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Alphabet's Google as one of the Big Tech companies facing challenges in controlling their data center energy consumption and emissions."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Alphabet's Google as one of the Big Tech companies facing challenges in controlling their data center energy consumption and emissions."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article discusses the energy challenges faced by Amazon's data centers, similar to other Big Tech companies."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Bank of America has invested $205 million in a carbon capture project, which is a positive step towards addressing climate change."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Bank of America has invested $205 million in a carbon capture project, which is a positive step towards addressing climate change."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Bank of America has invested $205 million in a carbon capture project, which is a positive step towards addressing climate change."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Bank of America has invested $205 million in a carbon capture project, which is a positive step towards addressing climate change."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Bank of America has invested $205 million in a carbon capture project, which is a positive step towards addressing climate change."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Bank of America has invested $205 million in a carbon capture project, which is a positive step towards addressing climate change."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Bank of America has invested $205 million in a carbon capture project, which is a positive step towards addressing climate change."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Bank of America has invested $205 million in a carbon capture project, which is a positive step towards addressing climate change."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Bank of America has invested $205 million in a carbon capture project, which is a positive step towards addressing climate change."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Bank of America has invested $205 million in a carbon capture project, which is a positive step towards addressing climate change."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Bank of America has invested $205 million in a carbon capture project, which is a positive step towards addressing climate change."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Bank of America has invested $205 million in a carbon capture project, which is a positive step towards addressing climate change."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Bank of America has invested $205 million in a carbon capture project, which is a positive step towards addressing climate change."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Bank of America has invested $205 million in a carbon capture project, which is a positive step towards addressing climate change."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Bank of America has invested $205 million in a carbon capture project, which is a positive step towards addressing climate change."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Bank of America has invested $205 million in a carbon capture project, which is a positive step towards addressing climate change."
+        }
+      ]
+    },
+    {
+      "id": "627f5d7c55726f71929f7a9f1e91be16af5c653a37a91671629ec17f3129d2d0",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Should Investors Buy Amazon Stock Before Jan. 31?",
+      "author": "N/A",
+      "published_utc": "2025-01-22T16:31:40Z",
+      "article_url": "https://www.fool.com/investing/2025/01/22/should-investors-buy-amazon-stock-before-jan-31/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804762/stock-market-info-smartphone-pointing.jpg",
+      "description": "The Motley Fool is a financial services company founded in 1993, dedicated to providing investing solutions, personal finance education, and market analysis to millions of people worldwide.",
+      "keywords": [
+        "financial services",
+        "investing",
+        "personal finance",
+        "market analysis"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Motley Fool has positions in and recommends Amazon, indicating a positive sentiment towards the company."
+        }
+      ]
+    },
+    {
+      "id": "8c79154d18fd87963dd4a6492694e8157b741efc3f5610fda461042142cf6ebe",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "I Want to Make My First Stock Market Investment. How Do I Find a Stock to Buy?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-22T16:23:28Z",
+      "article_url": "https://www.fool.com/investing/2025/01/22/i-want-to-make-my-first-stock-market-investment/?source=iedfolrf0000001",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "COST",
+        "DPZ",
+        "NFLX"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804757/new-york-stock-exchange-building.jpg",
+      "description": "The article discusses how billionaire investor Bill Ackman has invested 47% of his hedge fund's $12.8 billion portfolio in just 3 stocks. It also provides information about The Motley Fool's services and offerings.",
+      "keywords": [
+        "investing",
+        "portfolio",
+        "hedge fund",
+        "Motley Fool"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Motley Fool has a position in Alphabet, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Motley Fool has a position in Alphabet, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Motley Fool has a position in Amazon, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "COST",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Motley Fool has a position in Costco Wholesale, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "DPZ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Motley Fool has a position in Domino's Pizza, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "NFLX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Motley Fool has a position in Netflix, indicating a positive sentiment towards the company."
+        }
+      ]
+    },
+    {
+      "id": "c36f813bb7e4ce4b59e652855b5a6495eb195641556d67eba2e607ea49ae9ef4",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Could Buying Costco Wholesale Stock Today Set You Up for Life?",
+      "author": "Anders Bylund",
+      "published_utc": "2025-01-22T13:51:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/22/could-costco-stock-set-you-up-for-life/?source=iedfolrf0000001",
+      "tickers": [
+        "COST",
+        "WMT",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804641/shoppers-in-a-grocery-store.jpg",
+      "description": "Costco Wholesale is a well-run company with high returns on assets and equity, but its stock may not be the best investment choice right now due to its lofty valuation. The article suggests that building a diversified portfolio with index funds can provide sustainable long-term returns.",
+      "keywords": [
+        "Costco Wholesale",
+        "investing",
+        "portfolio diversification",
+        "index funds"
+      ],
+      "insights": [
+        {
+          "ticker": "COST",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Costco is a great company with strong financials, but its stock is currently trading at a premium valuation, which may not make it the best investment choice at the moment. The article suggests that investors should consider other options, such as index funds, for building a sustainable long-term portfolio."
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article compares Costco's stock performance to Walmart's, noting that Costco has outperformed Walmart in recent years, suggesting that Walmart may be a more affordable option for investors."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article also compares Costco's stock performance to Amazon's, noting that Costco has outperformed Amazon in recent years, suggesting that both companies may be attractive investment options."
+        }
+      ]
+    },
+    {
+      "id": "66a4eb2ad277254d50b3396c563d32106bb0116accf43e1c7a5ab92b7b0bf5fa",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "Best Buy Dividend Is a Bargain With Double-Digit Upside",
+      "author": "Marketbeat.Com",
+      "published_utc": "2025-01-22T13:08:00Z",
+      "article_url": "https://www.investing.com/analysis/best-buy-dividend-is-a-bargain-with-doubledigit-upside-200656510",
+      "tickers": [
+        "BBY",
+        "AMZN",
+        "WMT"
+      ],
+      "amp_url": "https://m.investing.com/analysis/best-buy-dividend-is-a-bargain-with-doubledigit-upside-200656510?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "Best Buy stock is trading at a discount compared to its 52-week high, offering a high dividend yield and potential for double-digit upside based on improving fundamentals and institutional buying.",
+      "keywords": [
+        "Best Buy",
+        "dividend",
+        "upside",
+        "retail sector",
+        "technology sector",
+        "artificial intelligence"
+      ],
+      "insights": [
+        {
+          "ticker": "BBY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights that Best Buy stock is trading at a discount, has a high dividend yield, and has improving fundamentals and institutional buying, suggesting it has significant upside potential."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Amazon's try-before-you-buy model, which has been discontinued, as a potential advantage for Best Buy."
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article notes that while Walmart offers more diversification, Best Buy provides the unique opportunity for customers to test items before buying them."
+        }
+      ]
+    }
+  ]
+}

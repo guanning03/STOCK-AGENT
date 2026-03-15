@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Apple Hits $4T: Is the Tech Giant Still a Buy After Slowing Growth?",
+      "description": "Apple nears $4T market cap, but faces slowing growth as Nvidia tops $4.6T. Analysts remain bullish despite iPhone reliance and revenue headwinds.",
+      "published_utc": "2025-11-16T18:14:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=31ec776c4f60020c3769acb72d2b13d25a68f99a95f6174adbbcb5e18a7990f2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137501880,
+      "datetime": 1763334848
+    },
+    {
+      "title": "Tracking Christopher Davis' Davis Selected Advisers 13F Portfolio - Q3 2025 Update",
+      "description": "Discover Davis Selected Advisers' Q3 2025 portfolio changes, top holdings, and new investments.",
+      "published_utc": "2025-11-16T14:07:31",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5d8b729e5066cb4ce86da42b1cde61e9a0d92026319fd4fcd9dccea2b74dfa1b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1200139358/image_1200139358.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137499813,
+      "datetime": 1763320051
+    },
+    {
+      "title": "Consumer Tech News (Nov 10-14): China Lifts Rare Earth Export Ban to U.S., Microsoft and Google Invest Billions in AI Data Centers & More",
+      "description": "China ends year-long gallium, germanium, and antimony export ban to the U.S., following the high-profile Trump-Xi meeting and trade negotiations. Microsoft invests $10B in AI data centers in Portugal and Atlanta; Alphabet allocates $6.4B for German infrastructure expansion.",
+      "published_utc": "2025-11-16T11:57:09",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=a8c26cbb2b4d683f847826b5faeaeb9d77996572ff6a6e4886318a3022c5439a",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/16/U-S---China-settle-rare-earths.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138451982,
+      "datetime": 1763312229
+    },
+    {
+      "title": "Prediction: This Will Be Wall Street's Next Trillion-Dollar Stock",
+      "description": "Drugs for weight loss and diabetes are taking Eli Lilly to new heights.",
+      "published_utc": "2025-11-16T11:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=827e2ccf96452c67e133ea43b8caeb54a32763895b6f9dd5dd7dff956976e272",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137501887,
+      "datetime": 1763310780
+    },
+    {
+      "title": "3 Supercharged Growth Stocks That Billionaires Are Buying",
+      "description": "It may be a good strategy to follow the lead of billionaire investors in stock investing.",
+      "published_utc": "2025-11-16T10:40:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a380e1d6f29b49514161346be16f32ee674b9ec251ea7bbca4409bb264ab3c24",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137501908,
+      "datetime": 1763307600
+    }
+  ]
+}

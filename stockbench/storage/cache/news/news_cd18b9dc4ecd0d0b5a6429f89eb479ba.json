@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Goldman, T. Rowe Launch First Co-Branded Portfolio for Wealthy Clients",
+      "description": "GS and TROW launch first co-branded model portfolios via GeoWealth, targeting mass-affluent and HNW clients.",
+      "published_utc": "2025-12-16T12:22:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fa41f457a53d44459b5abaa9d0fdd130c4ed94ea1b73cbf5beb155f70ff1f747",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137806215,
+      "datetime": 1765905720
+    },
+    {
+      "title": "Santa Rally Looms: These 5 Stocks Often Deliver Gifts To Investors",
+      "description": "The Santa Claus rally has a long track record. See how often the S&amp;P 500 rises late in December — and which stocks have led the move.",
+      "published_utc": "2025-12-16T10:29:47",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=bc66586158bc4c7c4c97eba88f3e08e327b4971d4db1d646e876b4811b9479ea",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/12/16/Representative-Image-of-a-stock-market-r.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138582955,
+      "datetime": 1765898987
+    },
+    {
+      "title": "CNBC Halftime Report Final Trades: Goldman Sachs Group, Capital One Financial, Monster Beverage",
+      "description": "",
+      "published_utc": "2025-12-16T09:01:39",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=3ed74652ed1236b8045e1df844ee051d46ef76ab8c3b4b0fd4cc8a543a7256e4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138571499,
+      "datetime": 1765893699
+    },
+    {
+      "title": "Final Trades: Goldman Sachs, Capital One and Monster Beverage",
+      "description": "The Investment Committee’s best bets for this market — don’t miss these moves.",
+      "published_utc": "2025-12-16T08:56:11",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=6bc3f2b72122aba36b57891326e0abec2869223f4fe10e7a97dded49d614c802",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108242536-17659100951765910093-43017080117-1080pnbcnews.jpg?v=1765910094&w=1920&h=1080",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137812333,
+      "datetime": 1765893371
+    },
+    {
+      "title": "10 Financials Stocks With Whale Alerts In Today's Session",
+      "description": "",
+      "published_utc": "2025-12-16T08:35:20",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=bf1805bba622572052150cd5ac40c6c91ab0376c0447418dba40eb884ce28f19",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_3.jpg?width=2048&height=1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138435843,
+      "datetime": 1765892120
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:41:00.084932+00:00",
+    "cache_key": "news_cd18b9dc4ecd0d0b5a6429f89eb479ba",
+    "count": 5
+  }
+}

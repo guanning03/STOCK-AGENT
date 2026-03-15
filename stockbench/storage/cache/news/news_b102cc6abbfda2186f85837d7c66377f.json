@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "2 Healthcare Stocks to Buy in a Bear Market",
+      "description": "They can help you weather the storm.",
+      "published_utc": "2026-01-03T09:35:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0c9128925bbb723119e3f3dc5d323cd254ab3bfc7e65b0589995579c80ec32e2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137985786,
+      "datetime": 1767450900
+    },
+    {
+      "title": "Dividend Growers: 3 Stocks That Could Be Worth $1 Million in 36 Years.",
+      "description": "These dividends should continue growing.",
+      "published_utc": "2026-01-03T05:50:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ddf7b1b5feab0947069cda402ff25abc855d4ccfe852fca7965e4f8b6ba9108f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137985787,
+      "datetime": 1767437400
+    },
+    {
+      "title": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% (January 2026)",
+      "description": "Discover 5 discounted large-cap dividend growth stocks (4.3% yield) plus two higher-yield lists up to 8%. Click for the picks!",
+      "published_utc": "2026-01-03T03:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=02536c3f4302ee7821819540ff92f231361cb3103c3759bb95af786875f7389f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1249993252/image_1249993252.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137972707,
+      "datetime": 1767427200
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T00:53:46.668736+00:00",
+    "cache_key": "news_b102cc6abbfda2186f85837d7c66377f",
+    "count": 3
+  }
+}

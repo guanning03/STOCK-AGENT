@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The Big 4 Recession Indicators",
+      "description": "Nonfarm employment is currently 0.00% off its all-time high (data through April 2025)",
+      "published_utc": "2025-05-19T19:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=42041b78b009345ebc0c809c9db9762d53f3af6a3021a303c255286364b5762b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2173931369/image_2173931369.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134604544,
+      "datetime": 1747695900
+    },
+    {
+      "title": "Tracking David Tepper's Appaloosa Management Portfolio - Q1 2025 Update",
+      "description": "Appaloosaâs Q1 2025 portfolio value surged to $8.38B, with 39 holdings. Check out the major new bets and significant stake increases here.",
+      "published_utc": "2025-05-19T18:54:42",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=571b5fd48a654bb868cb2b6d859320d89d5a354aa0d0e9a754415714558138ad",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134604514,
+      "datetime": 1747695282
+    },
+    {
+      "title": "Import Tariff Economic Headwinds",
+      "description": "",
+      "published_utc": "2025-05-19T16:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=958a311b195e2f58b984df50c945f7a26b1803a647364b52d77066b899b04d52",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134604036,
+      "datetime": 1747687500
+    },
+    {
+      "title": "RE/MAX Reports April Home Sales Grew 11.3% Over March But Were 1.4% Lower YoY",
+      "description": "April Home Sales and Inventory Up Over March TotalsDENVER, May 19, 2025 /PRNewswire/ -- April home sales grew 11.3% over March but were 1.4% lower year over year. The month-over-month home sales growth continued a",
+      "published_utc": "2025-05-19T12:15:12",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=9b11ccce04bc1c88fdfbf9734ecfaa718918db1288d7e5b8eed8fad1b3470187",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138932723,
+      "datetime": 1747671312
+    },
+    {
+      "title": "After Relief Rally, 3rd Strike Or Out? - Weekly Blog # 889",
+      "description": "The move by Moodyâs is the third downgrade or strike. The next critical question is the nature and length of the expected decline. Click to read.",
+      "published_utc": "2025-05-19T11:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=095e9ef7c94813c378efb223baa5fa896cbff519bdb4aef0a7d5c55964c45269",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1363842522/image_1363842522.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134601555,
+      "datetime": 1747669200
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T23:55:35.443170+00:00",
+    "cache_key": "news_84cf13a6364f713d019e873730345712",
+    "count": 5
+  }
+}

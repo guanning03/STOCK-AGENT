@@ -1,0 +1,126 @@
+{
+  "items": [
+    {
+      "id": "acd3185be2a4fd5c95ae6fa86b5c243647bc8ace3946eecdc927893b9e3f3388",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Advanced Drug Delivery Market to Grow 10.2% Annually Through 2030",
+      "author": "Bcc Research",
+      "published_utc": "2026-02-25T17:54:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2026/02/25/3244882/0/en/Advanced-Drug-Delivery-Market-to-Grow-10-2-Annually-Through-2030.html",
+      "tickers": [
+        "GILD",
+        "ABBV",
+        "AMGN",
+        "JNJ",
+        "PFE",
+        "NVS",
+        "BMY",
+        "CELGr"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d0c282b6-d496-45a8-a941-33fa5c3e824c",
+      "description": "The global Advanced Drug Delivery Systems market is projected to grow from $299.6 billion in 2025 to $487.4 billion by 2030 at a CAGR of 10.2%. Growth is driven by increasing chronic disease prevalence, nanotechnology advances, and R&D investments. Oncology leads adoption, with North America dominating market share while Asia-Pacific shows the fastest growth. Key innovations include strategic partnerships in antibody-drug conjugates and AI-powered drug development optimization.",
+      "keywords": [
+        "Advanced Drug Delivery Systems",
+        "Nanotechnology",
+        "Oncology",
+        "Antibody-Drug Conjugates",
+        "Asia-Pacific",
+        "Chronic Diseases",
+        "Personalized Medicine",
+        "Drug Delivery Innovation"
+      ],
+      "insights": [
+        {
+          "ticker": "GILD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Signed a $210 million strategic development and funding agreement for Trodelvy clinical studies in NSCLC treatment, demonstrating significant R&D investment and confidence in pipeline expansion."
+        },
+        {
+          "ticker": "ABBV",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Acquired ImmunoGen to strengthen oncology portfolio with ADC technology and formed strategic alliance with Xilio Therapeutics for next-generation immunotherapies, showing aggressive market positioning."
+        },
+        {
+          "ticker": "AMGN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed as a market leader but no specific innovations or developments mentioned in the article."
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed as a market leader but no specific innovations or developments mentioned in the article."
+        },
+        {
+          "ticker": "PFE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed as a market leader but no specific innovations or developments mentioned in the article."
+        },
+        {
+          "ticker": "NVS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed as a market leader but no specific innovations or developments mentioned in the article."
+        },
+        {
+          "ticker": "BMY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed as a market leader but no specific innovations or developments mentioned in the article."
+        },
+        {
+          "ticker": "CELGr",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed as a market leader but no specific innovations or developments mentioned in the article."
+        }
+      ]
+    },
+    {
+      "title": "Is Amgen Stock Outperforming the Dow?",
+      "description": "Although Amgen has outpaced the Dow over the past year, analysts remain cautiously optimistic about the stock’s prospects.",
+      "published_utc": "2026-02-25T07:52:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b240ce9dff5ccec884c97f1d05558a56a8fcdad40ff1167a56f0d0769776bd8e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139215542,
+      "datetime": 1772023934
+    },
+    {
+      "title": "Oruka Therapeutics: A Potential Future Psoriasis Play",
+      "description": "",
+      "published_utc": "2026-02-25T05:03:10",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=20fd663d56461d661f04230d74318f359bae608478fd3016a1ee3b0648a05e09",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139209740,
+      "datetime": 1772013790
+    },
+    {
+      "title": "These 4 charts show the scale of Novo Nordisk's woes",
+      "description": "Despite being first to launch a GLP-1 drug for weight loss, Novo's market share has eroded, and the company now only captures about 40% of the market.",
+      "published_utc": "2026-02-25T00:32:42",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=16985f75739012f9804d2c8eecc059bddaf431662a1b6197fe1e120314a3474f",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108245068-1766477256303-gettyimages-2228673815-raa-novonord250809_npj4Z.jpeg?v=1768247892&w=1920&h=1080",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139212445,
+      "datetime": 1771997562
+    }
+  ]
+}

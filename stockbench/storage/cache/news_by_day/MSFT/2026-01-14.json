@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Here's Why Microsoft (MSFT) Fell More Than Broader Market",
+      "description": "In the latest trading session, Microsoft (MSFT) closed at $459.53, marking a -2.37% move from the previous day.",
+      "published_utc": "2026-01-14T17:45:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b3c0e408046d4408776572e3d85cf1ddb29852a48105ea43a0ab9f51e655035a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138116661,
+      "datetime": 1768430704
+    },
+    {
+      "title": "Stock Market Today, Jan. 14: Nvidia Leads Tech Losses as Investors Cool on AI",
+      "description": "Tech and bank stocks weighed on markets as a risk-off sentiment took hold today, Jan. 14, 2026.",
+      "published_utc": "2026-01-14T17:31:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=51bcf6bdba9bc0b0ad17220eeffb03da8d2b0c136488ff612235de63ade7c5b8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138116081,
+      "datetime": 1768429871
+    },
+    {
+      "title": "Tech Spending Is Still Strong. There’s 1 Big Winner and Plenty of Losers.",
+      "description": "This year’s growth in IT spending could reach its fastest pace since the pandemic. Why Microsoft is the big winner.",
+      "published_utc": "2026-01-14T17:24:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0bc540cfc4c0ec6b042c603280257ed55cc52f3f05d95c4517ce6302bce5e519",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138116092,
+      "datetime": 1768429440
+    },
+    {
+      "title": "Heard on the Street Recap: AI Selloff Resumes",
+      "description": "Major U.S. stock indexes fell on Wednesday, with the tech-heavy Nasdaq composite dropping 1% for the first time in a month.  The AI chip leader now has to satisfy certain \"security requirements\" to send its H200 chips to China, per new rules from the Trump administration.  Nvidia's shares fell 1.4%.",
+      "published_utc": "2026-01-14T16:53:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a0c3d3b71ae10b482d2dc24ac5319eb6bd272c5eb72e60ae9786263cbabbde8c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138116087,
+      "datetime": 1768427615
+    },
+    {
+      "title": "Nasdaq Logs Worst Day in 4 Weeks as Big Tech, Major Banks Slide",
+      "description": "US equity benchmarks fell Wednesday, with the Nasdaq Composite posting its biggest one-day drop in f",
+      "published_utc": "2026-01-14T16:51:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a91e736812e0b382c7b05472f1391bc74bae473f6406a62a3271cebb8518ce94",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138115416,
+      "datetime": 1768427519
+    }
+  ]
+}

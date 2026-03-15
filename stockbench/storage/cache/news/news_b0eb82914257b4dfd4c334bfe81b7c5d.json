@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Lowe's makes major change to how you interact with its stores",
+      "description": "Have you noticed there are fewer staff at some of the large home retail chains? If you haven’t, you, like many, must be shopping there less often. The truth is, the past year was a challenging one for the majority of home-improvement retailers, due to weak consumer demand caused by price ...",
+      "published_utc": "2026-02-07T12:47:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ccfcc7091da64faf8160ee2ce513f1ac6581d97af832f332b1540bdfb54b7cc3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138386586,
+      "datetime": 1770486420
+    },
+    {
+      "title": "What Catalysts Could Shift The Home Depot (HD) Story After Mixed Analyst Reviews",
+      "description": "Home Depot’s fair value estimate has barely moved, with the analyst shifting from about US$394.12 to about US$394.09 per share, while the discount rate and long term revenue growth assumptions are also only slightly adjusted. This tiny reset reflects a more mixed research backdrop, where some firms are trimming targets on softer Q3 results and guidance, and others are still leaning into the longer term story around pro and wholesale growth. As you read on, keep an eye out for how these small...",
+      "published_utc": "2026-02-06T23:19:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=addc811856b6f3b109bb8af684e942afa7deb77c0671d273f439e572ab242801",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138382718,
+      "datetime": 1770437951
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:40:09.194799+00:00",
+    "cache_key": "news_b0eb82914257b4dfd4c334bfe81b7c5d",
+    "count": 2
+  }
+}

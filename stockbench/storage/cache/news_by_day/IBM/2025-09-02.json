@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "New Mexico to invest $315 million in quantum computing drive",
+      "description": "SAN FRANCISCO (Reuters) -New Mexico, site of the world's first atomic bomb tests, on Tuesday plans to invest $315 million in a bid to become a leader in another potentially era-defining technology: quantum computing.  Quantum computing, which leverages the behavior of matter and energy at the atomic and sub-atomic scale, holds the promise of solving in minutes some problems that would take conventional computers thousands of years.  New Mexico will invest $315 million in private companies, fabrication facilities and other infrastructure such as a quantum network to connect labs and businesses.",
+      "published_utc": "2025-09-02T12:40:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a49183c4068df000dc38849f4067e4356dabd822da180d9e44d7821a55b5ce0d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136613026,
+      "datetime": 1756831215
+    },
+    {
+      "title": "D-Wave Pushes Quantum-AI Frontier but Faces Pressure From IBM, Google",
+      "description": "D-Wave debuts a PyTorch-integrated Quantum AI toolkit, but IBM and Google's hardware breakthroughs keep the pressure on.",
+      "published_utc": "2025-09-02T12:17:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=97f97cafaefb0d63422756315b437f6ce2d663166924c911f2221aede47fbbaa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136613027,
+      "datetime": 1756829820
+    },
+    {
+      "title": "Desilo to Launch \"HARVEST™,\" Encrypted Data Collaboration Platform for Healthcare, in December",
+      "description": "Desilo Inc., a privacy-technology startup specializing in cryptographic data collaboration, announced plans to launch its new healthcare platform, HARVEST™, this December. The platform is designed to allow medical institutions and pharmaceutical companies to collaborate on research without exposing sensitive patient data.",
+      "published_utc": "2025-09-02T10:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cc4c0fe569ecd62f3e7c8c6549b975a3e1c6b9c6518c7ebc2540ec68b65840fa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136613028,
+      "datetime": 1756821600
+    },
+    {
+      "title": "Phasecraft secures $34m in Series B",
+      "description": "The new funding will enable the expansion of research and development initiatives and the creation of practical solutions.",
+      "published_utc": "2025-09-02T08:15:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4f3ef0c882cb155923ccd22bf4b8b53e6eaae714a9b761d84c4ae96f94b3cfd0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136604161,
+      "datetime": 1756815341
+    },
+    {
+      "title": "Big Tech’s Market Dominance Stirs Debate on Concentration Risks",
+      "description": "The debate is becoming more urgent as Nividia, Microsoft, Apple Inc., Alphabet Inc., Amazon.com Inc. and Meta Platforms Inc. account for more than 30% of the benchmark index, more than three times their weighting from a decade ago.  For Scott Chronert, Citi Research’s managing director, the concentration is a badge of honor, well-deserved for a group that continues to deliver unparalleled growth in sales and earnings.",
+      "published_utc": "2025-09-02T07:22:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=33c3c720b25abf19f20211a23611c852cc6a56439308b14523dc0b3b3d7aa344",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136603891,
+      "datetime": 1756812168
+    }
+  ]
+}

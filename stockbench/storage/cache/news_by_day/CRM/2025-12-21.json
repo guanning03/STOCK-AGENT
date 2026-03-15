@@ -1,0 +1,56 @@
+{
+  "items": [
+    {
+      "id": "e6ce94cdfa15418ce8309da58b1398f76c54b5b7a1feff7f87d3997b412bc4c6",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Revenue Operations Market Set to Hit USD 21.70 Billion by 2032, Driven by AI-Driven Analytics and Data-Centric Revenue Management | Report by SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-12-21T14:30:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/12/21/3208905/0/en/Revenue-Operations-Market-Set-to-Hit-USD-21-70-Billion-by-2032-Driven-by-AI-Driven-Analytics-and-Data-Centric-Revenue-Management-Report-by-SNS-Insider.html",
+      "tickers": [
+        "CRM",
+        "HUBS",
+        "ORCL",
+        "MSFT"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The global revenue operations market is projected to grow from USD 6.16 billion in 2025 to USD 21.70 billion by 2032, with a CAGR of 17.16%. Growth is driven by adoption of cloud-based and AI-powered solutions for aligning sales, marketing, and customer success operations. The U.S. market alone is expected to expand from USD 1.70 billion to USD 5.88 billion. Software dominates with 69% market share, while cloud deployment accounts for 71%. North America leads with 39% market share, while Asia Pacific is expected to grow fastest at 19.10% CAGR.",
+      "keywords": [
+        "revenue operations",
+        "AI-driven analytics",
+        "cloud-based solutions",
+        "sales operations",
+        "market growth",
+        "digital transformation",
+        "data-driven decision-making"
+      ],
+      "insights": [
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce launched Revenue Cloud in 2025, a modular RevOps platform with AI-powered Agentforce, positioning it as a key player in the rapidly growing revenue operations market."
+        },
+        {
+          "ticker": "HUBS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Listed as a key player in the revenue operations market, which is experiencing strong growth driven by AI and cloud adoption trends that align with HubSpot's core offerings."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Identified as a key player in the expanding revenue operations market, benefiting from growing demand for cloud-based and AI-driven solutions."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Listed among key players in the revenue operations market, positioned to benefit from the 17.16% CAGR growth driven by cloud and AI adoption."
+        }
+      ]
+    }
+  ]
+}

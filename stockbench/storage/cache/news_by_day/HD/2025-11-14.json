@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Review & Preview: Trading Blind",
+      "description": "A volatile week ends with a big rebound for the Nasdaq. Plus, U.S. economic data releases are set to resume.",
+      "published_utc": "2025-11-14T19:55:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=49663efe520e60a331548177a33ad4bab1d00484d223f554738d1919ef78fd63",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137486365,
+      "datetime": 1763168100
+    },
+    {
+      "title": "Nvidia earnings, FOMC minutes, Sept. jobs report: What to Watch",
+      "description": "Market Domination Overtime host Myles Udland previews several of the biggest stories to come throughout next week, including quarterly earnings results from major companies like Nvidia (NVDA), Home Depot (HD), Target (TGT), and Walmart (WMT); the latest round of commentary from top Federal Reserve officials alongside the minutes from the central bank's October FOMC meeting; and the release of the long-awaited September jobs report scheduled for Thursday, November 20. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.",
+      "published_utc": "2025-11-14T19:00:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=871705a8cfd40d70cd95eaff7f163826e8f38d215c6e6579d3779a2c81ed02de",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137486369,
+      "datetime": 1763164849
+    }
+  ]
+}

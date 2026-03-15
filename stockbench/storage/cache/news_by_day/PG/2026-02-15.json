@@ -1,0 +1,98 @@
+{
+  "items": [
+    {
+      "id": "f896aa7835652d6861fe35212b3e0bff79105825032dd1c3c81d5f60d9c057d4",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "XLP vs. FTXG: The Clash of Consumer Staple ETFs",
+      "author": "Adé Hennis",
+      "published_utc": "2026-02-15T21:25:51Z",
+      "article_url": "https://www.fool.com/coverage/etfs/2026/02/15/xlp-vs-ftxg-the-clash-of-consumer-staple-etfs/?source=iedfolrf0000001",
+      "tickers": [
+        "XLP",
+        "FTXG",
+        "WMT",
+        "COST",
+        "PG",
+        "PEP"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Ff2894ef3e59a57033e3d12497757ed4ec0c197b2-1401x1251.png%3Frect%3D76%2C0%2C1251%2C1251%26w%3D384%26h%3D384%26q%3D75%26fit%3Dcrop%26auto%3Dformat&w=1200&op=resize",
+      "description": "XLP (State Street Consumer Staples Select Sector SPDR ETF) significantly outperforms FTXG (First Trust Nasdaq Food & Beverage ETF) with lower fees (0.08% vs 0.60%), higher 1-year returns (11.12% vs 6.87%), and stronger 5-year growth ($1,332 vs $925 on $1,000 invested). While FTXG focuses on food and beverage companies, XLP offers broader consumer staples exposure with larger assets under management and a longer track record since 1998.",
+      "keywords": [
+        "consumer staples ETF",
+        "XLP",
+        "FTXG",
+        "expense ratio",
+        "ETF comparison",
+        "dividend yield",
+        "defensive investing"
+      ],
+      "insights": [
+        {
+          "ticker": "XLP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "XLP demonstrates superior performance with lower expense ratio (0.08%), higher 1-year returns (11.12%), stronger 5-year growth, larger AUM ($17.24B), and longer established track record since 1998. Outperforms competitor significantly across multiple metrics."
+        },
+        {
+          "ticker": "FTXG",
+          "sentiment": "negative",
+          "sentiment_reasoning": "FTXG underperforms XLP with higher expense ratio (0.60%), lower 1-year returns (6.87%), weaker 5-year growth, and significantly smaller AUM ($20.1M). Despite being a younger fund with potential for growth, current performance lags considerably behind established competitors."
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a top holding in XLP portfolio. No specific sentiment expressed; included as part of the fund's composition."
+        },
+        {
+          "ticker": "COST",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a top holding in XLP portfolio. No specific sentiment expressed; included as part of the fund's composition."
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a top holding in XLP portfolio. No specific sentiment expressed; included as part of the fund's composition."
+        },
+        {
+          "ticker": "PEP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a top holding in FTXG portfolio. No specific sentiment expressed; included as part of the fund's composition."
+        }
+      ]
+    },
+    {
+      "title": "Companies Are Replacing CEOs in Record Numbers—and They’re Getting Younger",
+      "description": "There hasn’t been such a big crop of new leaders running Corporate America in at least 16 years, and they have their hands full.",
+      "published_utc": "2026-02-15T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9e1401137b0f8799eaca5a78bfccb11a7854d631886af790fbc935854bd319c8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139110111,
+      "datetime": 1771207200
+    },
+    {
+      "title": "How Blockbuster Films and Bingeworthy Streaming Hits Slipped Into Our Showers",
+      "description": "The streaming giant’s top show is “Bridgerton”—a steamy bodice-ripper that follows the romantic escapades of striking debutantes and their ravishing suitors through Regency London.  Dove has done collaborations before, but “they matter even more today,” said  Marcela Melero,  Dove’s chief growth officer.  Hoping to be part of an unmissable moment in culture, Dove for the first time promised to co-brand its jewel-toned bottles of body wash and tubs of scrubs with the “Bridgerton” name, too.",
+      "published_utc": "2026-02-15T12:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=38332266b6aed8422264877b0981fe636c3cba8d1c317c430970940a8b3954eb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139107876,
+      "datetime": 1771174800
+    }
+  ]
+}

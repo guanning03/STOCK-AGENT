@@ -1,0 +1,141 @@
+{
+  "items": [
+    {
+      "id": "4bbfdb2726d8b2052a34ea31c5b9d199ce1e9b51b358c6e035834a0f4b47ff23",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "There's a way to predict the S&P 500 with an 85% correlation!",
+      "author": "Gav Blaxberg",
+      "published_utc": "2025-02-19T20:01:20Z",
+      "article_url": "https://www.benzinga.com/markets/equities/25/02/43827755/theres-a-way-to-predict-the-s-p-500-with-an-85-correlation",
+      "tickers": [
+        "IVV",
+        "SPY",
+        "VOO"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/02/19/Gav-Blaxberg.jpeg?width=1200&height=800&fit=crop",
+      "description": "The article discusses a way to predict the S&P 500 with an 85% correlation, highlighting that tracking the decisions of global central banks is more important than just focusing on the Federal Reserve's policies.",
+      "keywords": [
+        "S&P 500",
+        "prediction",
+        "central banks",
+        "Federal Reserve"
+      ],
+      "insights": [
+        {
+          "ticker": "IVV",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide a direct sentiment for this ETF, but rather discusses a method to predict the S&P 500 index, of which this ETF tracks."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide a direct sentiment for this ETF, but rather discusses a method to predict the S&P 500 index, of which this ETF tracks."
+        },
+        {
+          "ticker": "VOO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide a direct sentiment for this ETF, but rather discusses a method to predict the S&P 500 index, of which this ETF tracks."
+        }
+      ]
+    },
+    {
+      "id": "285161b64c2fbd701182aae2bb70ba4fe6674759f406d3d7618b6a0e0f161ece",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Trump Calls For More Tariffs, Federal Reserve Minutes On Deck: What's Driving Markets Wednesday?",
+      "author": "Erica Kollmann",
+      "published_utc": "2025-02-19T18:25:20Z",
+      "article_url": "https://www.benzinga.com/general/market-summary/25/02/43821214/trump-calls-for-more-tariffs-federal-reserve-minutes-on-deck-whats-driving-markets-wednesd",
+      "tickers": [
+        "SPY",
+        "QQQ",
+        "NKLA",
+        "MULN",
+        "TLT"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/02/19/New-York---May-22-New-York-Stock-Exchang.jpeg?width=1200&height=800&fit=crop",
+      "description": "U.S. indices are down as investors weigh President Trump's proposed tariffs on auto imports, pharmaceuticals, and semiconductors. Markets are anticipating the release of the latest FOMC minutes, which could provide insight into the Federal Reserve's policy outlook.",
+      "keywords": [
+        "tariffs",
+        "Federal Reserve",
+        "FOMC minutes",
+        "markets",
+        "U.S. indices"
+      ],
+      "insights": [
+        {
+          "ticker": "SPY",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The SPDR S&P 500 ETF is down, reflecting the overall decline in U.S. indices due to concerns over the proposed tariffs."
+        },
+        {
+          "ticker": "QQQ",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The Invesco QQQ Trust, which tracks the Nasdaq-100 index, is also down, indicating the broader market decline."
+        },
+        {
+          "ticker": "NKLA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Shares of the EV truck maker Nikola Corp. plummeted after the company filed for Chapter 11 bankruptcy."
+        },
+        {
+          "ticker": "MULN",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Shares of another small EV company, Mullen Automotive, are down after the company reported significant losses in its fourth-quarter earnings."
+        },
+        {
+          "ticker": "TLT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The iShares 20+ Year Treasury Bond ETF rose slightly, reflecting the yield on the 10-year US Treasury note holding above 4.5% due to inflation concerns."
+        }
+      ]
+    },
+    {
+      "id": "e06bb21d352faefb79407cb6591cbf1d5394e9ba1db86393150b23dc6dda2b08",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Warren Buffett Just Sold 2 of Berkshire's Most Surefire Investments -- the Time to Be Fearful When Others Are Greedy Has Arrived",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-19T09:51:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/19/warren-buffett-sold-2-most-surefire-investments/?source=iedfolrf0000001",
+      "tickers": [
+        "VOO",
+        "SPY"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807907/buffett6-tmf.jpg",
+      "description": "Warren Buffett has been a net seller of stocks for nine consecutive quarters, indicating that the stock market is historically pricey and value is becoming difficult to find. He has completely exited two S&P 500 index funds, which have historically been surefire investments for long-term investors.",
+      "keywords": [
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "S&P 500",
+        "stock market valuation",
+        "investment strategy"
+      ],
+      "insights": [
+        {
+          "ticker": "VOO",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Warren Buffett has completely exited this historically surefire investment, indicating that the stock market is overvalued and he is being 'fearful when others are greedy'."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Warren Buffett has completely exited this historically surefire investment, indicating that the stock market is overvalued and he is being 'fearful when others are greedy'."
+        }
+      ]
+    }
+  ]
+}

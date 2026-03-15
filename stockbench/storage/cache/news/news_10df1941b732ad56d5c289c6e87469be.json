@@ -1,0 +1,101 @@
+{
+  "items": [
+    {
+      "id": "e4ec43bfa0ba1795aa229dd91d24dfbec2041c9524b2a9014c08b19294408c14",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Lotion in Motion: Trends Driving the $190+ Billion Body Lotions Industry Forward, 2025-2030",
+      "author": "Globe Newswire",
+      "published_utc": "2025-02-12T13:01:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/12/3025013/28124/en/Lotion-in-Motion-Trends-Driving-the-190-Billion-Body-Lotions-Industry-Forward-2025-2030.html",
+      "tickers": [
+        "BDRFY",
+        "EL",
+        "JNJ",
+        "LRLCY",
+        "SSDOY",
+        "UL"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The global body lotions market is expected to grow from $107.5 billion in 2024 to $190.9 billion by 2030, driven by increasing consumer awareness of skincare health, the rising prevalence of dry skin conditions, and the growing demand for multifunctional skincare products.",
+      "keywords": [
+        "body lotions",
+        "skincare",
+        "market growth",
+        "consumer trends"
+      ],
+      "insights": [
+        {
+          "ticker": "BDRFY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Beiersdorf AG is mentioned as one of the major players in the body lotions market, but no specific information is provided about the company's performance or outlook."
+        },
+        {
+          "ticker": "EL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Estee Lauder Companies, Inc. is mentioned as one of the major players in the body lotions market, but no specific information is provided about the company's performance or outlook."
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Johnson & Johnson is mentioned as one of the major players in the body lotions market, but no specific information is provided about the company's performance or outlook."
+        },
+        {
+          "ticker": "LRLCY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "L'Oreal is mentioned as one of the major players in the body lotions market, but no specific information is provided about the company's performance or outlook."
+        },
+        {
+          "ticker": "SSDOY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Shiseido Company is mentioned as one of the major players in the body lotions market, but no specific information is provided about the company's performance or outlook."
+        },
+        {
+          "ticker": "UL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Unilever PLC is mentioned as one of the major players in the body lotions market, but no specific information is provided about the company's performance or outlook."
+        }
+      ]
+    },
+    {
+      "id": "39c4e1d1242d17f0764adcee5abdf03f240af016fb6cf78b0734f2354a3d3016",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Johnson & Johnson Explores Sale of Stroke Device Maker Cerenovus As MedTech Overhaul Accelerates",
+      "author": "Vandana Singh",
+      "published_utc": "2025-02-12T12:11:57Z",
+      "article_url": "https://www.benzinga.com/general/biotech/25/02/43653157/johnson-johnson-explores-sale-of-stroke-device-maker-cerenovus-as-medtech-overhaul-accelerates",
+      "tickers": [
+        "JNJ"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/02/12/Santa-Clara--Ca--Usa---Apr-29--2022-John.jpeg?width=1200&height=800&fit=crop",
+      "description": "Johnson & Johnson is considering selling its stroke care unit Cerenovus, which could fetch over $1 billion, as part of its efforts to streamline its medical technology division following a series of acquisitions.",
+      "keywords": [
+        "Johnson & Johnson",
+        "Cerenovus",
+        "medtech",
+        "acquisitions"
+      ],
+      "insights": [
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Johnson & Johnson is exploring the sale of Cerenovus, its stroke care business, which could potentially be valued at $1 billion to $1.5 billion. This indicates that the company is actively managing its portfolio and streamlining its medical technology division, which is seen as a positive move."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T22:06:55.451649+00:00",
+    "cache_key": "news_10df1941b732ad56d5c289c6e87469be",
+    "count": 2
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Berkshire Hathaway’s Mystery Stock Could Be Revealed Thursday. Filings Offer Clues.",
+      "description": "Berkshire Hathaway’s  latest mystery-stock investment could be revealed on Thursday.  There is a good chance it is an industrial company.  Berkshire also could disclose that it made further sales of  Bank of America  stock in the second quarter.",
+      "published_utc": "2025-08-11T17:18:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1124ee36cf1105aeee243c52ccebcef51fa5ebd6adec7d3300639383330b8b73",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136316067,
+      "datetime": 1754947080
+    },
+    {
+      "title": "Blue Owl Capital's Q2 Earnings Beat on Strong Investment Results",
+      "description": "OBDC's Q2 results benefit on higher investment income and improved adjusted net increase in net assets, despite rising expenses.",
+      "published_utc": "2025-08-11T14:12:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eab29f37a3883beb0fac56586e147ba1daa6a64471a829623b5de0f212f97455",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136310631,
+      "datetime": 1754935920
+    },
+    {
+      "title": "Toast (TOST) Partners With American Express To Enhance Dining Experiences",
+      "description": "Toast (TOST) announced its Q2 2025 earnings with notable growth in revenue and net income and unveiled a partnership with American Express to enhance dining experiences. Despite these positive developments, Toast's stock price remained flat over the last month, reflecting broader market trends, where major indexes like the Nasdaq Composite and S&P 500 experienced slight increases. The introduction of the Toast Go® 3 device and integration with Adentro for data-driven marketing decisions were...",
+      "published_utc": "2025-08-11T13:11:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e61e2291b65d043155095928973f423030dd1ea5593f78913671792cdc7dd3d8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136310632,
+      "datetime": 1754932290
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:59:33.898729+00:00",
+    "cache_key": "news_f94c88ee5d62700fa66b79d37678bf9e",
+    "count": 3
+  }
+}

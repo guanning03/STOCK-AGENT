@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "I'd buy PG on its pullback here, says Jim Cramer",
+      "description": "'Mad Money' host Jim Cramer talks the divide between tech users and tech builders in the market.",
+      "published_utc": "2025-12-15T14:16:25",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=a223f93d47ed2ea1d4a8b94486e9d8f945784ccb28c4afd9c5528c59f0fa79c4",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108242176-DOTCOM-MM-A-121525.jpg?v=1765843048&w=1920&h=1080",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137803055,
+      "datetime": 1765826185
+    },
+    {
+      "title": "The 5 stocks dragging down the Dow in 2025",
+      "description": "UnitedHealth Group (UNH), Salesforce (CRM), Procter & Gamble (PG), Nike (NKE), and Honeywell (HON) are the worst performers of the Dow Jones Industrial Average (^DJI) in 2025. Yahoo Finance Markets and Data Editor Jared Blikre examines the index's 2025 losers. Check out Yahoo Finance's examination of the Dow Jones Industrial Average's best performers of 2025. To watch more expert insights and analysis on the latest market action, check out more Market Catalysts.",
+      "published_utc": "2025-12-15T14:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=56ce52a3d6a131351fbc809270e885ec17c42bd897b4fd30e10b291d32d20350",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137795450,
+      "datetime": 1765825200
+    },
+    {
+      "title": "Jim Cramer makes the case for buying Procter & Gamble stock",
+      "description": "CNBC's Jim Cramer reviewed recent market action and made the case for Procter & Gamble.",
+      "published_utc": "2025-12-15T13:55:37",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=1355eea077a6e9258e7a3a214ce020fd450329f3f8350a4119d2e78562622207",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/105670426-1547566811335cramer.jpg?v=1697496519&w=1920&h=1080",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137803004,
+      "datetime": 1765824937
+    },
+    {
+      "title": "Stock Market Today: Dow Dips As Trump Eyes This Fed Pick; Defense Stock Tests Entry (Live Coverage)",
+      "description": "Stock Market Today: The Dow Jones index rose Monday. Tesla neared a buy point while President Trump edged closer to a Fed chair pick.",
+      "published_utc": "2025-12-15T13:41:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=327de47e8f6440da94ed9b1453777fbadb7b7c23005c5f4eb6b6b6a50ec3014e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137795183,
+      "datetime": 1765824104
+    },
+    {
+      "title": "Procter & Gamble Co. stock outperforms competitors on strong trading day",
+      "description": "Procter & Gamble Co. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-12-15T11:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=1f7b01837c130da81bf07a23ca1c76d29e879671b26054a98311cd8f7f19291b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137858444,
+      "datetime": 1765816260
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:40:20.936819+00:00",
+    "cache_key": "news_db1867fa27f2e761ab82293046b38857",
+    "count": 5
+  }
+}

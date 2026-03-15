@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Kroger CEO flags alarming shift in how customers shop",
+      "description": "People need to eat, but what they eat depends a lot on their budget. Executives from lower-priced chains, including McDonald's and Dollar General, have commented on how they are seeing sales growth with higher-income customers. \"We're pleased to see growth once again in our total customer count, ...",
+      "published_utc": "2025-12-14T12:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=229f8293892f64d24c361c5fc714721b8a502ca49bc089e884ec7e7a1c667596",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137792379,
+      "datetime": 1765731780
+    },
+    {
+      "title": "McDonald's Insiders Sold US$12m Of Shares Suggesting Hesitancy",
+      "description": "Many McDonald's Corporation ( NYSE:MCD ) insiders ditched their stock over the past year, which may be of interest to...",
+      "published_utc": "2025-12-14T06:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e2d5ce0e9249726274bd1b9eff7d3d0e997933d52ae528f19cf4073125ae9183",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137792380,
+      "datetime": 1765710060
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:33:09.131177+00:00",
+    "cache_key": "news_d4c6230545af894bd6bc30036897c402",
+    "count": 2
+  }
+}

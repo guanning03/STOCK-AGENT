@@ -1,0 +1,428 @@
+{
+  "items": [
+    {
+      "id": "595bb992ff5ac0814e5c501a0a90f764c4b3c2ed24ebdca07ace2185ac8c0d6e",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "DeepSeek Sparks AI Carnage As Magnificent Seven, Broadcom Lose Nearly $900 Billion In Value: Why This Expert Is Still 'Bullish' On US Tech",
+      "author": "Piero Cingari",
+      "published_utc": "2025-01-27T16:07:49Z",
+      "article_url": "https://www.benzinga.com/analyst-ratings/analyst-color/25/01/43239042/magnificent-seven-broadcom-lose-nearly-900-billion-in-value-as-deepseek-sparks-ai-c",
+      "tickers": [
+        "AAPL",
+        "AMZN",
+        "AVGO"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/27/deepseek-ai4.png?width=1200&height=800&fit=crop",
+      "description": "China's DeepSeek R1 AI model triggers a massive selloff in U.S. tech stocks, with the Magnificent Seven and Broadcom losing nearly $900 billion in market value. However, an analyst argues that DeepSeek's emergence is actually bullish for the AI industry, as it signals progress towards artificial general intelligence.",
+      "keywords": [
+        "AI",
+        "China",
+        "DeepSeek",
+        "Magnificent Seven",
+        "Broadcom",
+        "Nvidia",
+        "Microsoft",
+        "Earnings"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple's market cap increased by $53.86 billion, indicating a positive sentiment."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Amazon's market cap decreased by $74.63 billion, indicating a negative sentiment."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Broadcom's market cap decreased by $116.75 billion, indicating a negative sentiment."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Alphabet's market cap decreased by $49.71 billion, indicating a negative sentiment."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Alphabet's market cap decreased by $49.71 billion, indicating a negative sentiment."
+        },
+        {
+          "ticker": "MAGS",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The Roundhill Magnificent Seven ETF dropped 3.9%, reflecting deep losses across the AI-driven mega-cap space."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Meta Platforms' market cap decreased by $4.99 billion, indicating a negative sentiment."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Microsoft's market cap decreased by $130.28 billion, indicating a negative sentiment."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Nvidia's market cap decreased by $475.44 billion, indicating a negative sentiment."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Tesla's market cap decreased by $30.92 billion, indicating a negative sentiment."
+        }
+      ]
+    },
+    {
+      "id": "b3389d58bd453e47da89aa722467d07de28d217794ed47979cf5c4b4e023d022",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Growth Trends and Developments in the Artificial Intelligence (AI) Industry, 2025-2033 - Featuring Microsoft, IBM, Amazon, Baidu, Nvidia, Oracle, HPE, Intel, Salesforce, and Alphabet",
+      "author": "Researchandmarkets.Com",
+      "published_utc": "2025-01-27T15:54:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/27/3015780/28124/en/Growth-Trends-and-Developments-in-the-Artificial-Intelligence-AI-Industry-2025-2033-Featuring-Microsoft-IBM-Amazon-Baidu-Nvidia-Oracle-HPE-Intel-Salesforce-and-Alphabet.html",
+      "tickers": [
+        "MSFT",
+        "IBM",
+        "AMZN",
+        "BIDU",
+        "NVDA",
+        "ORCL",
+        "HPE",
+        "HPEpC",
+        "INTC",
+        "CRM",
+        "GOOG",
+        "GOOGL"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The global AI market is expected to grow significantly, reaching $2.53 trillion by 2033, driven by advancements in machine learning, increasing demand for automation, and growing adoption across industries. However, data privacy and lack of skilled workforce remain challenges.",
+      "keywords": [
+        "artificial intelligence",
+        "machine learning",
+        "automation",
+        "data analytics",
+        "healthcare",
+        "finance",
+        "manufacturing",
+        "Canada",
+        "France",
+        "China",
+        "Saudi Arabia"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is a leading player in the AI industry, and its solutions are expected to contribute to the market growth."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IBM is a major provider of AI services and solutions, which are in high demand as businesses seek to leverage AI for efficiency and decision-making."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon's AI capabilities, including its cloud services and machine learning offerings, are likely to drive growth in the AI market."
+        },
+        {
+          "ticker": "BIDU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Baidu, as a leading Chinese tech company, is expected to contribute to the rapid growth of the AI market in China."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia's expertise in hardware and software for AI, including its GPU technology, positions it well to benefit from the AI market expansion."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Oracle's AI-powered solutions and services are likely to see increased demand as the AI market grows."
+        },
+        {
+          "ticker": "HPE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "HPE's AI-enabled infrastructure and services are expected to contribute to the growth of the AI market."
+        },
+        {
+          "ticker": "HPEpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "HPE's AI-enabled infrastructure and services are expected to contribute to the growth of the AI market."
+        },
+        {
+          "ticker": "INTC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Intel's AI-focused hardware and software offerings are likely to benefit from the expansion of the AI market."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce's AI-powered customer relationship management solutions are expected to see increased adoption as the AI market grows."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet's (Google) AI capabilities, including its machine learning and natural language processing technologies, are likely to contribute to the AI market's growth."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet's (Google) AI capabilities, including its machine learning and natural language processing technologies, are likely to contribute to the AI market's growth."
+        }
+      ]
+    },
+    {
+      "id": "91feb48139321a1a8733e40e71768691db8c2f7a4ccc8294159f99632269d0ea",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is NuScale Power Stock a Buy Now?",
+      "author": "Motley Fool",
+      "published_utc": "2025-01-27T13:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/27/is-nuscale-power-stock-a-buy-now/?source=iedfolrf0000001",
+      "tickers": [
+        "SMR",
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805043/digital-atom-image-getty.jpg",
+      "description": "Nuclear power is gaining favor as a clean, reliable energy source to help companies meet carbon reduction goals. Small modular reactors (SMRs) from NuScale Power represent a groundbreaking advancement in the nuclear energy sector, offering a modular and scalable solution. However, NuScale faces challenges with cost overruns and regulatory approvals before its technology can be operational.",
+      "keywords": [
+        "nuclear power",
+        "small modular reactors",
+        "NuScale Power",
+        "data centers",
+        "clean energy"
+      ],
+      "insights": [
+        {
+          "ticker": "SMR",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "NuScale Power is developing promising small modular reactor technology, but it faces significant challenges with cost overruns and regulatory approvals before its technology can be operational. The article presents a balanced view, highlighting both the potential of NuScale's technology and the risks and uncertainties it faces."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Alphabet has announced investments in start-ups developing small modular reactors, indicating the company's interest in and support for this clean energy technology."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Alphabet has announced investments in start-ups developing small modular reactors, indicating the company's interest in and support for this clean energy technology."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Amazon has also announced investments in start-ups developing small modular reactors, suggesting the company's commitment to exploring clean energy solutions for its data centers."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that major financial institutions like Bank of America are backing the movement towards nuclear energy, indicating their belief in the potential of this clean energy source."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that major financial institutions like Bank of America are backing the movement towards nuclear energy, indicating their belief in the potential of this clean energy source."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that major financial institutions like Bank of America are backing the movement towards nuclear energy, indicating their belief in the potential of this clean energy source."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that major financial institutions like Bank of America are backing the movement towards nuclear energy, indicating their belief in the potential of this clean energy source."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that major financial institutions like Bank of America are backing the movement towards nuclear energy, indicating their belief in the potential of this clean energy source."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that major financial institutions like Bank of America are backing the movement towards nuclear energy, indicating their belief in the potential of this clean energy source."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that major financial institutions like Bank of America are backing the movement towards nuclear energy, indicating their belief in the potential of this clean energy source."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that major financial institutions like Bank of America are backing the movement towards nuclear energy, indicating their belief in the potential of this clean energy source."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that major financial institutions like Bank of America are backing the movement towards nuclear energy, indicating their belief in the potential of this clean energy source."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that major financial institutions like Bank of America are backing the movement towards nuclear energy, indicating their belief in the potential of this clean energy source."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that major financial institutions like Bank of America are backing the movement towards nuclear energy, indicating their belief in the potential of this clean energy source."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that major financial institutions like Bank of America are backing the movement towards nuclear energy, indicating their belief in the potential of this clean energy source."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that major financial institutions like Bank of America are backing the movement towards nuclear energy, indicating their belief in the potential of this clean energy source."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that major financial institutions like Bank of America are backing the movement towards nuclear energy, indicating their belief in the potential of this clean energy source."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that major financial institutions like Bank of America are backing the movement towards nuclear energy, indicating their belief in the potential of this clean energy source."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that major financial institutions like Bank of America are backing the movement towards nuclear energy, indicating their belief in the potential of this clean energy source."
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Goldman Sachs is also showing robust support for nuclear energy's potential to generate clean, reliable, and sustainable power, further reinforcing the positive sentiment towards this industry."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Goldman Sachs is also showing robust support for nuclear energy's potential to generate clean, reliable, and sustainable power, further reinforcing the positive sentiment towards this industry."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Goldman Sachs is also showing robust support for nuclear energy's potential to generate clean, reliable, and sustainable power, further reinforcing the positive sentiment towards this industry."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Goldman Sachs is also showing robust support for nuclear energy's potential to generate clean, reliable, and sustainable power, further reinforcing the positive sentiment towards this industry."
+        }
+      ]
+    },
+    {
+      "id": "24d2baec427744759090ba50524853d5381833f18946410576d5b96549061755",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Oklo Stock: Buy, Sell, or Hold?",
+      "author": "Leo Sun",
+      "published_utc": "2025-01-27T10:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/27/oklo-stock-buy-sell-or-hold/?source=iedfolrf0000001",
+      "tickers": [
+        "OKLO",
+        "SMR",
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "LTBR"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805183/digital-charts.jpg",
+      "description": "Oklo, a nuclear power startup backed by OpenAI CEO Sam Altman, went public in 2024 and saw its stock price plunge initially before soaring to over $42 per share. The company develops microreactors with lower carbon emissions and costs compared to traditional nuclear reactors, but its long-term revenue and profitability remain uncertain.",
+      "keywords": [
+        "Oklo",
+        "nuclear power",
+        "microreactors",
+        "Sam Altman",
+        "NuScale Power",
+        "small modular reactor"
+      ],
+      "insights": [
+        {
+          "ticker": "OKLO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Oklo's technology sounds promising, but its long-term financial performance is still uncertain, and the article suggests waiting for more progress before considering the stock as an investment."
+        },
+        {
+          "ticker": "SMR",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares Oklo to NuScale Power, another small modular reactor company, and suggests that both are still highly speculative investments."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Alphabet's Google is ramping up investments in small modular reactors, which could benefit companies like Oklo."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Alphabet's Google is ramping up investments in small modular reactors, which could benefit companies like Oklo."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Amazon is also investing in small modular reactors, which could benefit companies like Oklo."
+        },
+        {
+          "ticker": "LTBR",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Oklo is reportedly exploring a potential partnership with Lightbridge, but no further details are provided."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:25:07.566091+00:00",
+    "cache_key": "news_3bcea4112d6102c61df17054ade1ff21",
+    "count": 4
+  }
+}

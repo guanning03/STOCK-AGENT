@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Why Coupang Stock Skyrocketed in September",
+      "description": "It might just shake up the online retail space in this country.",
+      "published_utc": "2025-10-08T17:51:45",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e76e51bf56b37b99cb2ef60a1bc118760fd8ad37dc6b3ede22ceacbdf023365b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137028168,
+      "datetime": 1759960305
+    },
+    {
+      "title": "Amazon (AMZN) Laps the Stock Market: Here's Why",
+      "description": "Amazon (AMZN) closed at $225.22 in the latest trading session, marking a +1.55% move from the prior day.",
+      "published_utc": "2025-10-08T17:45:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fcbce8d91313e926ac433c0fd53a9fb9daa2cad6939f626e39c046dc5df7a375",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137028169,
+      "datetime": 1759959906
+    },
+    {
+      "title": "MrBeast Went From Hiring Comedians And Laptop Salesmen From Best Buy To Building A 400-Person YouTube Empire: 'I Wish I Had A Mentor'",
+      "description": "MrBeast revealed that his $2.6 billion YouTube empire began with chaotic early days, when he hired comedians and Best Buy employees as his first team before growing into a 400-person global operation.",
+      "published_utc": "2025-10-08T17:12:50",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=03d42162660629762bca4a2077c336e3cabdf52c79ceffe8203738a91f066ef2",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/10/08/Los-Angeles--Ca---Mar-4--2023-Mrbeast--J.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138742351,
+      "datetime": 1759957970
+    },
+    {
+      "title": "As Jeff Bezos Warns of an ‘AI Bubble,’ This Could Be the Safest Magnificent 7 AI Stock to Buy Now",
+      "description": "Nvidia is an AI stock that continues to trade at a reasonable multiple in 2025, despite generating outsized returns over the last five years.",
+      "published_utc": "2025-10-08T15:51:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a5e86dbc1c110969e29dc373effa23bb34d2197f4226d44c38d75e65bd279e2c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137028170,
+      "datetime": 1759953063
+    },
+    {
+      "title": "Sector Update: Tech Stocks Gain Late Afternoon",
+      "description": "Tech stocks rose late Wednesday afternoon with the Technology Select Sector SPDR Fund (XLK) adding 1",
+      "published_utc": "2025-10-08T15:44:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e435ed57c990580c53d183d3730bce3b02da0b5004444bfcaa21ae8ec4a73088",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137013828,
+      "datetime": 1759952640
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:09:09.740532+00:00",
+    "cache_key": "news_f78b58237fc49cd16b9908dfe1593dc1",
+    "count": 5
+  }
+}

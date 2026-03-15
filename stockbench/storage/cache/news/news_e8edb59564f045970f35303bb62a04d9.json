@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "FDA Grants Breakthrough Status To Johnson & Johnson's Cancer Drug For Advanced Head and Neck Cancer",
+      "description": "The U.S. Food and Drug Administration (FDA) granted Breakthrough Therapy Designation for subcutaneous Rybrevant Faspro (amivantamab and hyaluronidase-lpuj) as a monotherapy for adults with advanced head and neck squamous cell carcinoma. FDA Designation The designation covers patients with cancer that is recurrent or metastatic and human papillomavirus (HPV)-unrelated after disease progression on or after platinum-based chemotherapy and a PD-1 or PD-L1 inhibitor. Johnson & Johnson’s (NYSE:JNJ) an",
+      "published_utc": "2026-02-21T11:31:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f5bbcc550f2289a4ec02280c9bc166293a0cb42e509b2fc6136a8093556fc40a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139171438,
+      "datetime": 1771691468
+    },
+    {
+      "title": "TREMFYA® (guselkumab) long-term data show sustained clinical and endoscopic remission in ulcerative colitis through 3 years",
+      "description": "Johnson & Johnson (NYSE: JNJ) today announced new long-term data from the QUASAR long-term extension (LTE) study showing that TREMFYA® (guselkumab) sustained clinical, endoscopic, and histologic outcomes through Week 140 in adults with moderately to severely active ulcerative colitis (UC). These data are among the 30 company-sponsored abstracts being presented at the European Crohn's and Colitis Organisation (ECCO) 2026 conference.",
+      "published_utc": "2026-02-21T08:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=01eacfd3902c61a48081d2ee1337f658ed2bc936138c2796b269e699452f9420",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139169402,
+      "datetime": 1771678800
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:25:05.897153+00:00",
+    "cache_key": "news_e8edb59564f045970f35303bb62a04d9",
+    "count": 2
+  }
+}

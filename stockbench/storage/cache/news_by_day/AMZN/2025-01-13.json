@@ -1,0 +1,277 @@
+{
+  "items": [
+    {
+      "id": "d224cef382fe22caa1dc5c823df516e21cc3325f43f928586b75fc07f72a1587",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "Can US Export Restrictions Lead to the End of the AI Boom?",
+      "author": "The Tokenist",
+      "published_utc": "2025-01-13T20:36:00Z",
+      "article_url": "https://www.investing.com/analysis/can-us-export-restrictions-lead-to-the-end-of-the-ai-boom-200656171",
+      "tickers": [
+        "META",
+        "NVDA",
+        "MSFT",
+        "AMZN",
+        "ORCL"
+      ],
+      "amp_url": "https://m.investing.com/analysis/can-us-export-restrictions-lead-to-the-end-of-the-ai-boom-200656171?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "The US government has expanded export controls on advanced AI chips, aiming to limit China's access to this technology. This move has faced backlash from the tech industry, which warns of unintended consequences and disruptions to global supply chains and AI infrastructure rollout plans.",
+      "keywords": [
+        "AI",
+        "export controls",
+        "semiconductor industry",
+        "US-China tech competition"
+      ],
+      "insights": [
+        {
+          "ticker": "META",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The new regulations will limit Meta's ability to expand its data centers and AI compute capacity outside the US and a few trusted nations."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The disruption to global supply chains and AI infrastructure rollout plans is likely to negatively impact Nvidia, a major supplier of AI chips."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Microsoft's Azure cloud expansion outside the US and trusted nations will be curtailed due to the new restrictions on AI compute capacity."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Amazon's AWS rollout plans will be affected by the limits on AI compute capacity in non-trusted countries."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The new framework is described as one of the most destructive to hit the US tech industry, which includes Oracle."
+        }
+      ]
+    },
+    {
+      "id": "a828b090cf82222d510fea4294188d113be40bf4472164eb1f936eef03c67182",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "Despite Choppy Start to 2025, Bulls Could Reclaim Record Highs by Spring",
+      "author": "Ed Yardeni",
+      "published_utc": "2025-01-13T13:20:00Z",
+      "article_url": "https://www.investing.com/analysis/despite-choppy-start-to-2025-bulls-could-reclaim-record-highs-by-spring-200656121",
+      "tickers": [
+        "NVDA",
+        "MSFT",
+        "DELL",
+        "AMZN",
+        "GOOG",
+        "GOOGL"
+      ],
+      "amp_url": "https://m.investing.com/analysis/despite-choppy-start-to-2025-bulls-could-reclaim-record-highs-by-spring-200656121?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "The article discusses the outlook for the stock market in early 2025, noting that despite a choppy start, the S&P 500 and Nasdaq could resume climbing to new record highs during the spring. It outlines potential positive and negative factors that could impact the market.",
+      "keywords": [
+        "stock market",
+        "economy",
+        "earnings",
+        "valuation",
+        "interest rates",
+        "inflation"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Nvidia's stock price has risen on expectations that the company's CEO will deliver a bullish keynote at CES 2025, highlighting the importance of Nvidia's GPU chips for AI."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Microsoft announced plans to significantly increase its spending on data centers, underscoring the growing demand for AI-related infrastructure."
+        },
+        {
+          "ticker": "DELL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Dell, as an infrastructure provider, is likely to benefit from the increased spending on data centers and AI-related technology."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Amazon, along with Google, has signed nuclear power agreements to power their AI-enabled server farms, indicating their commitment to supporting the growth of AI."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Google, like Amazon, has signed nuclear power agreements to support the growth of its AI infrastructure."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Google, like Amazon, has signed nuclear power agreements to support the growth of its AI infrastructure."
+        }
+      ]
+    },
+    {
+      "id": "4b6a4b97c52648aed89e17da612d4acf4c54ee12078af2c321aa312419466998",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "This Artificial Intelligence (AI) Stock Has Surged 733% Over the Past 21 Months -- Is a Split on the Horizon?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-13T11:05:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/13/this-artificial-intelligence-ai-stock-has-surged-x/?source=iedfolrf0000001",
+      "tickers": [
+        "PLTR",
+        "TSLA",
+        "NVDA",
+        "AAPL",
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "AVGO"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803634/gettyimages-470929267-2.jpg",
+      "description": "Palantir's stock has surged 733% since the launch of its Artificial Intelligence Platform in April 2023, leading to speculation about a potential stock split to make shares more accessible to smaller investors.",
+      "keywords": [
+        "Palantir",
+        "Artificial Intelligence",
+        "Stock Split"
+      ],
+      "insights": [
+        {
+          "ticker": "PLTR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Palantir's impressive stock performance, driven by the launch of its Artificial Intelligence Platform, and suggests the company may consider a stock split to make its shares more accessible to smaller investors."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Tesla, along with other megacap technology stocks, have completed stock splits in recent years, which is seen as a positive indicator for Palantir's potential split."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article includes Nvidia as one of the megacap technology stocks that have completed stock splits, suggesting a similar move could benefit Palantir."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Apple as another megacap technology stock that has completed a stock split, indicating this as a potential path for Palantir."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article includes Amazon as one of the megacap technology stocks that have completed stock splits, which could serve as a model for Palantir."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Alphabet (Google) as a megacap technology stock that has completed a stock split, suggesting this as a potential strategy for Palantir."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Alphabet (Google) as a megacap technology stock that has completed a stock split, suggesting this as a potential strategy for Palantir."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Broadcom as another megacap technology stock that has completed a stock split, indicating this as a potential move for Palantir."
+        }
+      ]
+    },
+    {
+      "id": "c5c4305bdd56ca1d3fdc1ae00d37ef5a6a626623eeb44d183f4af0b3d53624bf",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Best Stocks to Buy: Amazon Stock vs. Alibaba Stock",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-13T10:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/13/best-stocks-to-buy-amazon-stock-vs-alibaba-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "BABA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803718/investing-screen-analysis-investor-growth-stocks.jpg",
+      "description": "The article compares the businesses of Amazon and Alibaba, two e-commerce giants operating in different parts of the world. It highlights their similar business models and the fact that John Mackey, former CEO of Whole Foods Market (an Amazon subsidiary), is a member of The Motley Fool's board of directors.",
+      "keywords": [
+        "Amazon",
+        "Alibaba",
+        "e-commerce",
+        "Whole Foods Market"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide a clear sentiment towards Amazon, as it simply compares its business to that of Alibaba without making any explicit judgments."
+        },
+        {
+          "ticker": "BABA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide a clear sentiment towards Alibaba, as it simply compares its business to that of Amazon without making any explicit judgments."
+        }
+      ]
+    },
+    {
+      "id": "8e5ce282f0fcc3b8dbedc21a85409bae112f7d706d3892a20945006ea2e6ebb8",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "My 3 Highest-Conviction Growth Stocks to Buy in 2025",
+      "author": "Keith Speights",
+      "published_utc": "2025-01-13T09:48:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/13/my-3-highest-conviction-growth-stocks-to-buy-in-20/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "NVDA",
+        "VRTX"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803446/data-center-with-2-people.jpg",
+      "description": "The article discusses the author's top three highest-conviction growth stocks for 2025: Amazon, Nvidia, and Vertex Pharmaceuticals. The author is positive on all three companies, citing their strong competitive advantages, innovative capabilities, and growth potential.",
+      "keywords": [
+        "investing",
+        "growth stocks",
+        "Amazon",
+        "Nvidia",
+        "Vertex Pharmaceuticals"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The author is quite confident that Amazon will be a winner over the long run, citing the company's multiple strong competitive moats, its culture of innovation, and its growth opportunities in areas like cloud computing, e-commerce, and new business ventures."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The author is very optimistic about Nvidia's future, particularly its new Blackwell GPU platform, which the CEO believes could become the most successful product in the company's history. The author also highlights Nvidia's rapid pace of innovation as a key driver of the author's high conviction in the stock."
+        },
+        {
+          "ticker": "VRTX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The author has liked Vertex Pharmaceuticals for years and believes the company is on the cusp of delivering tremendous gains. The author cites Vertex's success in cystic fibrosis treatments, its expanding pipeline of promising therapies, and the potential for the company to grow much larger over the next decade."
+        }
+      ]
+    }
+  ]
+}

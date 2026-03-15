@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "NMIH Stock Near 52-Week High, Trades at a Discount: Time to Hold?",
+      "description": "NMI Holdings is well-positioned for growth, with higher new insurance written volume, a comprehensive reinsurance program and prudent capital deployment.",
+      "published_utc": "2025-11-17T09:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5fbdc72033644e18aa9757f1ad557be27ccd40406d555de9a70aa667c3d0d772",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137506588,
+      "datetime": 1763388180
+    },
+    {
+      "title": "Morgan Stanley Maintains Equal-Weight on Travelers Companies, Raises Price Target to $295",
+      "description": "Morgan Stanley  analyst Bob Huang   maintains Travelers Companies (NYSE:TRV) with a Equal-Weight and raises the price target from $285 to $295.",
+      "published_utc": "2025-11-17T07:27:37",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=d87c49bf4215358b9b66ec8863618a00dfe4056b47078df226965cd984425242",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138570425,
+      "datetime": 1763382457
+    },
+    {
+      "title": "Q3 Earnings Roundup: Travelers (NYSE:TRV) And The Rest Of The Property & Casualty Insurance Segment",
+      "description": "As the craze of earnings season draws to a close, here’s a look back at some of the most exciting (and some less so) results from Q3. Today, we are looking at property & casualty insurance stocks, starting with Travelers (NYSE:TRV).",
+      "published_utc": "2025-11-16T22:35:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aafe957628056d4fd141e3962e5e660a8abca6681fdfab7a11b131304092c47e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137504287,
+      "datetime": 1763350548
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:11:34.813994+00:00",
+    "cache_key": "news_34a5075d257e22ac8c4ebb277c45b418",
+    "count": 3
+  }
+}

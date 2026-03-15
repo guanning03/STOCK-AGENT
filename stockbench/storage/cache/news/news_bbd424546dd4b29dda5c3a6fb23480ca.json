@@ -1,0 +1,201 @@
+{
+  "items": [
+    {
+      "title": "3 No-Brainer Warren Buffett Stocks to Buy Right Now",
+      "description": "Moody's, American Express, and Chubb are all \"Oracle of Omaha\" approved financial plays.",
+      "published_utc": "2025-08-23T12:14:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dfbc6b84f340b4a24c810ed9b079c0aede3838dac9d1cb1823a5d574b8ceaaf0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136496175,
+      "datetime": 1755965640
+    },
+    {
+      "id": "3a9ef4be58dbb4c388cda8f6d642478c33a77bc2d722764acea3eb86a86a535e",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "If I Could Only Buy 1 S&P 500 Stock From Each Sector for the Rest of 2025, I'd Go With These 11 Dividend Stocks",
+      "author": "Daniel Foelber",
+      "published_utc": "2025-08-23T22:05:00Z",
+      "article_url": "https://www.fool.com/investing/2025/08/23/buy-dividend-stock-each-market-sector-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "TXN",
+        "AXP",
+        "SBUX",
+        "GOOG",
+        "GOOGL",
+        "LLY",
+        "HON",
+        "PG",
+        "XOM",
+        "SO",
+        "SOJC",
+        "SOJD",
+        "SOJE",
+        "SOJF",
+        "MAA",
+        "MAApI",
+        "SHW"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/830587/a-golden-stock-market-bull-standing-on-top-of-a-sheet-of-us-100-bills.jpg",
+      "description": "An analysis of top dividend stocks across 11 different S&P 500 sectors, highlighting one recommended stock per sector based on dividend performance, growth potential, and market positioning.",
+      "keywords": [
+        "dividend stocks",
+        "S&P 500",
+        "sector investing",
+        "portfolio diversification"
+      ],
+      "insights": [
+        {
+          "ticker": "TXN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Highly diversified business, benefits from edge AI, 21 consecutive years of dividend raises, 2.7% yield"
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong payment processing business, excellent risk management, low net write-off rate"
+        },
+        {
+          "ticker": "SBUX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Successful leadership turnaround, focus on international growth, 14 consecutive years of dividend increases"
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Diverse business model, growing Google Search, accelerating AI chatbot adoption"
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Diverse business model, growing Google Search, accelerating AI chatbot adoption"
+        },
+        {
+          "ticker": "LLY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong existing drug portfolio in weight loss and diabetes, promising drug pipeline"
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Business restructuring to unlock shareholder value, attractive valuation, 2.1% dividend yield"
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "69 consecutive years of dividend increases, strong pricing power, diverse product lineup"
+        },
+        {
+          "ticker": "XOM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Low production costs, diversified portfolio, mitigates energy sector risks"
+        },
+        {
+          "ticker": "SO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Near all-time high, steady demand, AI-related tailwinds, 3.1% yield"
+        },
+        {
+          "ticker": "SOJC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Near all-time high, steady demand, AI-related tailwinds, 3.1% yield"
+        },
+        {
+          "ticker": "SOJD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Near all-time high, steady demand, AI-related tailwinds, 3.1% yield"
+        },
+        {
+          "ticker": "SOJE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Near all-time high, steady demand, AI-related tailwinds, 3.1% yield"
+        },
+        {
+          "ticker": "SOJF",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Near all-time high, steady demand, AI-related tailwinds, 3.1% yield"
+        },
+        {
+          "ticker": "MAA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "30-year dividend history, increasing dividend, 4.3% yield, specializes in Sun Belt multifamily properties"
+        },
+        {
+          "ticker": "MAApI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "30-year dividend history, increasing dividend, 4.3% yield, specializes in Sun Belt multifamily properties"
+        },
+        {
+          "ticker": "SHW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "46 consecutive dividend increases, diverse business beyond residential paint, strong long-term stock performance"
+        }
+      ]
+    },
+    {
+      "id": "c100d57ce932a2ba79d5a992ecb46fbccad3009624de031e18260d3bead4e83d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Warren Buffett Is Selling Apple Stock Again. Should You Follow His Lead?",
+      "author": "Keithen Drury",
+      "published_utc": "2025-08-23T09:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/08/23/warren-buffett-is-selling-apple-stock-again-should/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "BRK.A",
+        "BRK.B",
+        "AXP"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/829911/warren-buffett-3-tmf-may-2014.jpg",
+      "description": "Warren Buffett is steadily selling Apple stock due to its high valuation and slow growth, potentially preparing Berkshire Hathaway's investment portfolio for his successor Greg Abel.",
+      "keywords": [
+        "Warren Buffett",
+        "Apple",
+        "Berkshire Hathaway",
+        "stock selling",
+        "investment strategy"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Stock is trading at a premium without corresponding growth, high price-to-earnings ratio, and Buffett is systematically reducing his position"
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Preparing for leadership transition with substantial cash reserves and strategic portfolio rebalancing"
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Preparing for leadership transition with substantial cash reserves and strategic portfolio rebalancing"
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Emerging as potentially Berkshire's largest holding, but no specific positive or negative indicators mentioned"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:36:13.507032+00:00",
+    "cache_key": "news_bbd424546dd4b29dda5c3a6fb23480ca",
+    "count": 3
+  }
+}

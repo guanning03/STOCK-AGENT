@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Heard on the Street Recap: Central Bank Shot",
+      "description": "What Happened in Markets Today Stocks shrug off latest Powell threat. Major U.S. stock indexes posted some mild gains Monday despite earlier pressure following news that the Trump administration has launched a criminal investigation into Federal Reserve Chairman Jerome Powell.",
+      "published_utc": "2026-01-12T18:30:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c930f6dc5c702d5af8d1704466f4ae2e67fd4e2986fb174c65817ea4980e0d46",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138083005,
+      "datetime": 1768260602
+    },
+    {
+      "title": "US Equity Indexes Rise, Gold Hits New Record, Dollar Slips After Justice Department Unveils Fed Probe",
+      "description": "US equity indexes rose on Monday, while precious metals hit new peaks, and the dollar weakened, afte",
+      "published_utc": "2026-01-12T17:20:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=30dcd0ecf144a0f17e0e5c446a3c7d3a7789896ddc71fc4c823e19054fcd99ae",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138083164,
+      "datetime": 1768256402
+    },
+    {
+      "title": "US Equity Markets Up Amid Rise in Precious Metals",
+      "description": "Major US equity indexes closed higher Monday, with the S&P 500 hitting a new all-time high, while pr",
+      "published_utc": "2026-01-12T16:18:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0fb87fe693fbabcfb195b330fbcabca59a0fd425f57031581334abe9231825a4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138083165,
+      "datetime": 1768252687
+    },
+    {
+      "title": "Sector Update: Financial Stocks Fall Late Afternoon",
+      "description": "Financial stocks were lower in late Monday trading, with the NYSE Financial Index shedding 0.5% and",
+      "published_utc": "2026-01-12T15:58:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7771a039b89512d0623694f980584c573b7a52106b452463bef29f5afab934ed",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138083166,
+      "datetime": 1768251488
+    },
+    {
+      "title": "With AI-Driven Shopping a 'Major 2026 Theme,' Experts Like This Pair of Stocks",
+      "description": "Artificial intelligence stands to transform online shopping as consumers know it, presenting revenue upside for fintech companies.",
+      "published_utc": "2026-01-12T15:46:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3eb189a0d1e00ff7a9026ebcf1c1b978c75beb772efeb0e191c539590199ef04",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138083167,
+      "datetime": 1768250770
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:22:20.457215+00:00",
+    "cache_key": "news_7282b75f84759edd6179f8c45368e42f",
+    "count": 5
+  }
+}

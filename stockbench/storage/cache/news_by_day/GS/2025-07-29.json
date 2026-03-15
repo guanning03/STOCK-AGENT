@@ -1,6 +1,81 @@
 {
   "items": [
     {
+      "title": "Sector Update: Financial Stocks Lower Late Afternoon",
+      "description": "Financial stocks were lower in late Tuesday afternoon trading, with the NYSE Financial Index 0.1% lo",
+      "published_utc": "2025-07-29T15:56:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f9fb2e302722da70d9ddd86160c166a780dbc1a1dbddcd9d6f84daf394b7df57",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136129632,
+      "datetime": 1753819016
+    },
+    {
+      "title": "Sector Update: Financial Stocks Mixed in Afternoon Trading",
+      "description": "Financial stocks were mixed in Tuesday afternoon trading, with the NYSE Financial Index adding 0.3%",
+      "published_utc": "2025-07-29T14:01:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=337a6c937be84160bd11c52ecccdcd4cfad1a6b0614cbfb8a6dd62075bf90971",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136129633,
+      "datetime": 1753812084
+    },
+    {
+      "title": "JPMorgan Chase Close to Deal Taking Over Apple Card Program, Reports Say",
+      "description": "Apple and JPMorgan Chase are close to a deal for the banking giant to take over as the backer of Apple's credit card program, according to a Wall Street Journal report on Tuesday.",
+      "published_utc": "2025-07-29T13:57:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a7f516a492ab5d7d155db8fbd110eb5a07e246dae54c8f325f9e9cbbcc60c407",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136129634,
+      "datetime": 1753811825
+    },
+    {
+      "title": "Top Blackstone Real Estate Executive Among Those Killed in Manhattan Shooting",
+      "description": "A gunman opened fire in a busy New York office building on Monday, killing three people before turning the gun on himself.",
+      "published_utc": "2025-07-29T12:56:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=40935d5857ae46cd981448cce7e006146da5d05fb58d323be061918733743797",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136129835,
+      "datetime": 1753808160
+    },
+    {
+      "title": "JPMorgan Chase in Talks to Take Over Apple’s Credit Card Program, Report Says",
+      "description": "JPMorgan Chase and Apple have been negotiating since last year, according to The Wall Street Journal.",
+      "published_utc": "2025-07-29T12:38:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3d011116de6fc82dc6cf2c9ec28cdd805b2841f2b4cde55a36ffc600c2723f56",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136129636,
+      "datetime": 1753807080
+    },
+    {
       "title": "Singapore Set to Hold Policy as Economy Shows Tariff Resilience",
       "description": "(Bloomberg) -- Singapore’s central bank will likely leave its monetary policy unchanged for the first time this year, adopting a wait-and-see approach as policymakers gauge looming US tariffs that risk weighing on growth. Most Read from BloombergBudapest’s Most Historic Site Gets a Controversial RebuildSan Francisco in Talks With Vanderbilt for Downtown CampusCan This Bridge Ease the Troubled US-Canadian Relationship?Trump Administration Sues NYC Over Sanctuary City PolicyFourteen of 19 economis",
       "published_utc": "2025-07-29T07:00:00",

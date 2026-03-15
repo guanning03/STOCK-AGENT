@@ -1,0 +1,73 @@
+{
+  "items": [
+    {
+      "id": "0cbf680a15622a4b73c67c810e79cafc3dc1d2e730cc16137319ce0608932174",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Wound Closure Devices Market Insights, Competitive Landscape and Market Forecast to 2030",
+      "author": "Globe Newswire",
+      "published_utc": "2024-12-09T14:45:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2024/12/09/2993851/28124/en/Wound-Closure-Devices-Market-Insights-Competitive-Landscape-and-Market-Forecast-to-2030.html",
+      "tickers": [
+        "MDT",
+        "MMM",
+        "JNJ",
+        "BAX",
+        "SNN",
+        "SYK",
+        "CAH"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The global wound closure devices market is expected to grow at a CAGR of 7.4% from 2024 to 2030, driven by the rising incidence of chronic and acute wounds, increasing surgical procedures, and new product launches. North America is expected to dominate the market during the forecast period.",
+      "keywords": [
+        "wound closure devices",
+        "chronic wounds",
+        "acute wounds",
+        "surgical procedures",
+        "product launches",
+        "North America"
+      ],
+      "insights": [
+        {
+          "ticker": "MDT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Medtronic is one of the key players in the wound closure devices market, indicating its strong presence and potential to contribute to the market growth."
+        },
+        {
+          "ticker": "MMM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "3M is one of the key players in the wound closure devices market, indicating its strong presence and potential to contribute to the market growth."
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Johnson & Johnson is one of the key players in the wound closure devices market, indicating its strong presence and potential to contribute to the market growth."
+        },
+        {
+          "ticker": "BAX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Baxter is one of the key players in the wound closure devices market, indicating its strong presence and potential to contribute to the market growth."
+        },
+        {
+          "ticker": "SNN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Smith & Nephew is one of the key players in the wound closure devices market, indicating its strong presence and potential to contribute to the market growth."
+        },
+        {
+          "ticker": "SYK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Stryker is one of the key players in the wound closure devices market, indicating its strong presence and potential to contribute to the market growth."
+        },
+        {
+          "ticker": "CAH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Cardinal Health is one of the key players in the wound closure devices market, indicating its strong presence and potential to contribute to the market growth."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "items": [
+    {
+      "id": "5a6e4e9ecba7bd1448a13a940a32bf55c6d97a141b95b302653a809b24ebf323",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Last Time Taiwan Semiconductor Did This, the Stock Doubed in a Year",
+      "author": "Keithen Drury",
+      "published_utc": "2024-12-28T12:15:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/28/the-last-time-taiwan-semiconductor-did-this-the/?source=iedfolrf0000001",
+      "tickers": [
+        "TSM",
+        "NVDA",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801512/person-in-a-mask-looking-at-a-semiconductor-microchip-for-artificial-intelligence-ai.jpg",
+      "description": "The article discusses the potential for Taiwan Semiconductor Manufacturing (TSMC) to repeat its 2020 performance, where its stock nearly doubled. The author believes TSMC's current setup, with the upcoming launch of 2nm chips and strong demand for AI chips, is similar to the conditions that led to its success in 2020.",
+      "keywords": [
+        "Taiwan Semiconductor Manufacturing",
+        "TSMC",
+        "Nvidia",
+        "Apple",
+        "AI chips"
+      ],
+      "insights": [
+        {
+          "ticker": "TSM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that TSMC's current setup, with the upcoming launch of 2nm chips and strong demand for AI chips, is similar to the conditions that led to its stock nearly doubling in 2020. The author believes TSMC is a great investment and will likely beat the market in 2025."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Nvidia is mentioned as one of TSMC's clients, but the article does not provide any specific sentiment or analysis for Nvidia."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Apple is mentioned as one of TSMC's clients, but the article does not provide any specific sentiment or analysis for Apple."
+        }
+      ]
+    },
+    {
+      "id": "6c003dd16f1ab6f2d48ce2aa515f665a039e40844c9433702c47e685571b00cc",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Warren Buffett Sells Apple Stock and Buys a Restaurant Stock Up 3,100% Since Its IPO",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-28T08:30:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/28/warren-buffett-sell-apple-stock-buy-stock-up-3100/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "DPZ"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802206/investor-16.jpg",
+      "description": "Warren Buffett's Berkshire Hathaway continued to sell Apple stock in the third quarter, while starting a small position in Domino's Pizza. Apple's stock looks overvalued, while Domino's reputation for good value has led to consistent same-store sales growth, but the stock looks pricey at its current valuation.",
+      "keywords": [
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "Apple",
+        "Domino's Pizza"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that Apple's stock looks overvalued based on the likely trajectory of its future earnings, and that Warren Buffett made the right call in selling shares."
+        },
+        {
+          "ticker": "DPZ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article states that Domino's reputation for good value has led to consistent same-store sales growth, but the stock looks pricey at its current valuation."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:04:50.453413+00:00",
+    "cache_key": "news_4a958e619183da997ac42e451111f5e6",
+    "count": 2
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "items": [
+    {
+      "id": "81e1ccd9b6423dd98a7c24645547fbbad07353eb2f5de0f04a6663c6beee24d9",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Retail Sales Climb: A Look at Some Potential Stock Winners and Losers",
+      "author": "Geoffrey Seiler",
+      "published_utc": "2026-01-18T07:15:00Z",
+      "article_url": "https://www.fool.com/investing/2026/01/18/retail-sales-climb-a-look-at-some-potential-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "NKE",
+        "DKS",
+        "ELF",
+        "TOST",
+        "RH",
+        "HD",
+        "LOW"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F851542%2Fgettyimages-1440144771.jpg&w=1200&op=resize",
+      "description": "November retail sales grew 0.6% month-over-month and 3.1% year-over-year, with strong performance in e-commerce, sporting goods, and clothing. The article identifies potential winners including Amazon, Nike, Dick's Sporting Goods, e.l.f. Beauty, and Toast, while furniture and home improvement categories remain weak, pressuring companies like RH, Home Depot, and Lowe's.",
+      "keywords": [
+        "retail sales",
+        "e-commerce",
+        "consumer spending",
+        "sporting goods",
+        "home furnishings",
+        "stock winners",
+        "stock losers"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nonstore retailers (e-commerce) saw 7.2% sales growth in November. Amazon benefits from strong sales momentum, growth in sponsored ads, operating leverage from AI/robots, and accelerating AWS growth."
+        },
+        {
+          "ticker": "NKE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Sporting goods stores saw 7.8% sales increase in November. Nike's turnaround is gaining traction with strong insider buying (CEO and Tim Cook purchased significant shares), and sales are improving in North America and Europe."
+        },
+        {
+          "ticker": "DKS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Sporting goods category performed well with 7.8% growth. Dick's has solid core business with experiential focus and is integrating Foot Locker acquisition with low guidance expectations, creating upside potential."
+        },
+        {
+          "ticker": "ELF",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Health and personal care stores saw 6.7% year-over-year sales growth. e.l.f.'s namesake brand is gaining market share, and recent Rhode acquisition is performing well at Sephora with strong growth runway."
+        },
+        {
+          "ticker": "TOST",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Food services and drinking places saw 4.9% year-over-year sales growth. Toast benefits as a restaurant SaaS provider through payment processing solutions and customer location expansion."
+        },
+        {
+          "ticker": "RH",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Furniture stores saw -1.4% sales decline in November. RH faces headwinds from difficult home furnishings market and expensive European expansion, despite recent tariff delay relief."
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Building material and garden supply dealers saw -2.8% sales decline. Home Depot has struggled with same-store sales growth for years despite strong 2026 start."
+        },
+        {
+          "ticker": "LOW",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Building material and garden supply dealers saw -2.8% sales decline. Lowe's faces ongoing industry pressures and same-store sales challenges despite recent stock performance."
+        }
+      ]
+    }
+  ]
+}

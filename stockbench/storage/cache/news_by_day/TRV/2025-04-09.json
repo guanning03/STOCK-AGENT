@@ -44,6 +44,21 @@
       "api_source": "finnhub_company",
       "id": 133826516,
       "datetime": 1744178100
+    },
+    {
+      "title": "Shares of insurance companies are trading higher following President Trump's decision to implement a 90-day pause on reciprocal tariffs for all countries except China.",
+      "description": "",
+      "published_utc": "2025-04-09T11:54:36",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=a01abfbab6bc802ad2136e37410ed7f3cbaf404edf37d22d0e7adff7d02fbee5",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138404820,
+      "datetime": 1744214076
     }
   ]
 }

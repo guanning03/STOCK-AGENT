@@ -1,0 +1,110 @@
+{
+  "items": [
+    {
+      "title": "Where Honeywell Intl Stands With Analysts",
+      "description": "",
+      "published_utc": "2026-03-04T10:01:18",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=21e31361d7e15d2a5a3c27ef260edcf4f70585bb5143d57916ad4752be2b6109",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/06/analyst_ratings_6.jpg?width=2048&height=1536",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139307721,
+      "datetime": 1772636478
+    },
+    {
+      "id": "d5ad957c762997c0c74fe80cd83b02823376ef71bf6db25111bbe9157ce4f057",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Process Automation & Instrumentation Strategic Industry Report 2026-2030: Focus on Oil & Gas, Food & Beverages, Pharmaceuticals, Chemicals, Pulp & Paper, Water & Wastewater Treatment",
+      "author": "Researchandmarkets.Com",
+      "published_utc": "2026-03-04T09:56:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2026/03/04/3249120/28124/en/Process-Automation-Instrumentation-Strategic-Industry-Report-2026-2030-Focus-on-Oil-Gas-Food-Beverages-Pharmaceuticals-Chemicals-Pulp-Paper-Water-Wastewater-Treatment.html",
+      "tickers": [
+        "EMR",
+        "HON",
+        "ROK",
+        "SBGSY",
+        "ABBNY"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The global Process Automation & Instrumentation market is projected to grow from $78 billion in 2024 to $113.1 billion by 2030 at a 6.4% CAGR. Growth is driven by digital transformation, IIoT adoption, regulatory compliance demands, and the need for operational efficiency across oil & gas, pharmaceuticals, chemicals, and other industries. Advanced technologies like digital twins, AI, and wireless instrumentation are reshaping the sector.",
+      "keywords": [
+        "process automation",
+        "instrumentation",
+        "IIoT",
+        "digital transformation",
+        "field instruments",
+        "predictive maintenance",
+        "regulatory compliance",
+        "operational efficiency",
+        "smart devices",
+        "industrial automation"
+      ],
+      "insights": [
+        {
+          "ticker": "EMR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Listed among major competitors in expanding market; well-positioned to capitalize on rising demand for smart instrumentation, IIoT solutions, and predictive maintenance technologies."
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Featured as major competitor; well-positioned to benefit from growing demand for automation solutions, regulatory compliance monitoring, and smart instrumentation technologies."
+        },
+        {
+          "ticker": "ROK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Listed among key players in expanding market; positioned to benefit from increased adoption of process automation and digital transformation across manufacturing and industrial sectors."
+        },
+        {
+          "ticker": "SBGSY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Key competitor in the market; positioned to benefit from growing demand for energy-efficient automation solutions and industrial IoT implementations."
+        },
+        {
+          "ticker": "ABBNY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Featured as a key player in the growing process automation market with strong market presence; positioned to benefit from 6.4% CAGR growth and increasing adoption of automation solutions across industries."
+        }
+      ]
+    },
+    {
+      "title": "Is 3M Stock Underperforming the S&P 500?",
+      "description": "While 3M has underperformed the SPX over the past year, Wall Street analysts maintain a moderately optimistic outlook on the stock’s prospects.",
+      "published_utc": "2026-03-04T05:55:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bd83a729a046b8a9cf6e026d4b230f96b70f7b9409889291617c849e79b3369b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139295926,
+      "datetime": 1772621713
+    },
+    {
+      "title": "Barclays Maintains Overweight on Honeywell Intl, Raises Price Target to $275",
+      "description": "Barclays  analyst Julian Mitchell   maintains Honeywell Intl (NASDAQ:HON) with a Overweight and raises the price target from $259 to $275.",
+      "published_utc": "2026-03-04T05:45:59",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=e30ba4dd8d3830939809a97e22902ed462bcc331571afc9fd288ffe8c85aa70d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139297515,
+      "datetime": 1772621159
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Sector Update: Financial Stocks Advance Late Afternoon",
+      "description": "Financial stocks rose in late Wednesday afternoon trading, with the NYSE Financial Index increasing",
+      "published_utc": "2026-02-18T15:57:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b29104452b0147e95ca076ffe2ce896d7480163f2ca25a17a0d8178757176a1f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139139292,
+      "datetime": 1771448230
+    },
+    {
+      "title": "CNBC Daily Open: Traders are betting for a rate cut — but a hike could be on the table",
+      "description": "Traders think there's a roughly 50% of the Fed cutting rates in June, according to the CME FedWatch tool. Perhaps they should start considering the possibility of higher interest rates, too.",
+      "published_utc": "2026-02-18T15:20:41",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=ca5bfadda911ba3a6c44edccbe203c3ef3006058239f7676ace48c3d98638931",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108251186-17682313092026-01-12t151706z_1625018145_rc2qzia00gff_rtrmadp_0_usa-fed-powell.jpeg?v=1768231331&w=1920&h=1080",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139149673,
+      "datetime": 1771446041
+    },
+    {
+      "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
+      "description": "The major averages managed to post gains on Wednesday as tech shares rose. It was the third straight positive day for the S&P 500.",
+      "published_utc": "2026-02-18T14:15:50",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=f8f8bd6f6c3498f1514e4bc64d6f4c29c06ca214e9f3e94b88dbecfe0cee2412",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229584-1763680292359-gettyimages-2247092895-WALMART_EARNS.jpeg?v=1771458778&w=1920&h=1080",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139149814,
+      "datetime": 1771442150
+    },
+    {
+      "title": "Sector Update: Financial Stocks Rise in Afternoon Trading",
+      "description": "Financial stocks were advancing in Wednesday afternoon trading, with the NYSE Financial Index rising",
+      "published_utc": "2026-02-18T13:56:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cbccc8de422556967014250f939fcb4946f86619e479eb17356a569a9eecbefa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139138617,
+      "datetime": 1771440972
+    },
+    {
+      "title": "Huge AI Jobs Disruption Is Coming. What It Means For The S&P 500 And You.",
+      "description": "Many companies are already freezing or cutting staff on the expectation of huge AI-fueled productivity gains.",
+      "published_utc": "2026-02-18T13:31:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=66ce1a5b288cbf2d57104bdef2b89be8403170ed350284f2a32e64ec062961c4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139138616,
+      "datetime": 1771439461
+    }
+  ]
+}

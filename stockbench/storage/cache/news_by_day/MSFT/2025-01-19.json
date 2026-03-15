@@ -1,0 +1,185 @@
+{
+  "items": [
+    {
+      "id": "a30d2f40dc155d7f2c0eb2d5266e3edfedd80ef5aba01243643b49f7b89406ee",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Microsoft Is Making Office Users Pay for AI. It Could Backfire.",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-19T13:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/19/microsoft-is-making-office-users-pay-for-ai-it-cou/?source=iedfolrf0000001",
+      "tickers": [
+        "MSFT",
+        "GOOG",
+        "GOOGL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804413/gettyimages-1597729432.jpg",
+      "description": "Microsoft has increased the prices of its Microsoft 365 consumer plans by $3 per month and $30 per year, citing the company's massive investment in artificial intelligence (AI) as the primary driver behind the price hike. The move aims to recoup the costs of running AI models in the cloud, but it could lead to some customers dropping the subscription if they don't want or need the AI features.",
+      "keywords": [
+        "Microsoft 365",
+        "AI",
+        "price increase",
+        "subscription"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article portrays Microsoft's decision to raise prices on Microsoft 365 as a customer-unfriendly move aimed at recouping AI investments, which could drive customers to alternatives in the long run."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alphabet's Google Docs is mentioned as a competitor to Microsoft 365, but the article does not provide a clear sentiment towards the company."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alphabet's Google Docs is mentioned as a competitor to Microsoft 365, but the article does not provide a clear sentiment towards the company."
+        }
+      ]
+    },
+    {
+      "id": "36dbd65e579c6c9fe9aae5db351c4c92e0f702af4e49cdc20f862dbf01f35533",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Want $1 Million in Retirement? Invest $200,000 in These 3 Stocks and Wait a Decade",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-19T13:05:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/19/want-1-million-in-retirement-invest-200000-in-thes/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "MSFT",
+        "GOOG",
+        "GOOGL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804259/gettyimages-1483780995.jpg",
+      "description": "The article discusses three companies - Nvidia, Microsoft, and Alphabet - that have strong market leadership, innovative capabilities, and wide moats, making them well-positioned for long-term growth and wealth creation over a 10-year period.",
+      "keywords": [
+        "investing",
+        "stocks",
+        "wealth creation",
+        "Nvidia",
+        "Microsoft",
+        "Alphabet"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia is the leader in the AI hardware space, with a nearly 90% market share in GPUs. The company has built a wide moat through its CUDA software platform and is well-positioned to maintain its leadership in the AI chip technology."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft has dominant positions in worker productivity tools and personal computer operating systems. It has been adaptable in shifting its business model and is now a leader in cloud computing and AI, with opportunities in AI Copilots to improve worker efficiency."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet's Google search engine and YouTube video service have made it the largest digital advertising platform in the world. It also has a strong cloud computing business and is at the forefront of emerging technologies like autonomous driving and quantum computing, which could drive future growth."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet's Google search engine and YouTube video service have made it the largest digital advertising platform in the world. It also has a strong cloud computing business and is at the forefront of emerging technologies like autonomous driving and quantum computing, which could drive future growth."
+        }
+      ]
+    },
+    {
+      "id": "311165880d3b9ec8591ede0e8e60616da2f611b280af3c27f9c6e703f6c1ec83",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Nvidia a Millionaire-Maker Stock?",
+      "author": "Johnny Rice",
+      "published_utc": "2025-01-19T12:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/19/is-nvidia-a-millionaire-maker-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803087/nvidia-ai-stock-rise-2025-foxconn-microsoft.jpg",
+      "description": "Foxconn, a partner of Nvidia, reported record Q4 revenue, indicating strong demand for Nvidia's chips. Microsoft also announced plans to spend $80 billion on AI data center infrastructure, which is expected to benefit Nvidia. Nvidia's CEO Jensen Huang gave a keynote speech at CES 2025, highlighting the company's new products and the impact of Agentic AI.",
+      "keywords": [
+        "Nvidia",
+        "Foxconn",
+        "Microsoft",
+        "AI",
+        "data center infrastructure"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights strong demand for Nvidia's chips, as evidenced by Foxconn's record Q4 revenue and Microsoft's plans to invest heavily in AI data center infrastructure, which is expected to benefit Nvidia. The article also mentions Nvidia's CEO's keynote speech at CES 2025, showcasing the company's new products and the potential impact of Agentic AI, suggesting a positive outlook for the company."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft announced plans to spend $80 billion on AI data center infrastructure, which is expected to benefit Nvidia, as the company is likely to receive a significant portion of these funds, suggesting a positive outlook for Nvidia."
+        }
+      ]
+    },
+    {
+      "id": "9e4c36fddb41dc10a2b82d06fe8ffa49fb6d3cb33faa98d70c16765cd2ec0acd",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Prediction: This Top Artificial Intelligence (AI) Stock Will Join the $3 Trillion Club in 2026",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-19T11:11:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/19/prediction-this-top-artificial-intelligence-ai-sto/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "AAPL",
+        "NVDA",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804359/amazon-locker.jpg",
+      "description": "The article predicts that Amazon (AMZN) could reach a $3 trillion market cap by 2026, driven by its strong position in e-commerce and cloud computing, as well as its growing AI capabilities.",
+      "keywords": [
+        "Amazon",
+        "AI",
+        "e-commerce",
+        "cloud computing"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Amazon is well-positioned to continue its growth in e-commerce and cloud computing, and its investments in AI could further boost its market cap to reach $3 trillion by 2026."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Apple is one of the three $3 trillion companies, indicating its strong performance in the AI and technology sector."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article also lists Nvidia as one of the $3 trillion companies, highlighting its success in the AI and technology industry."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is mentioned as the third $3 trillion company, demonstrating its dominance in the technology and AI space."
+        }
+      ]
+    }
+  ]
+}

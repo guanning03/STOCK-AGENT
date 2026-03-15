@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+      "description": "The S&P 500 on Tuesday closed down for a fourth straight day, its longest losing streak since August, as investors fret about tech stock valuations.",
+      "published_utc": "2025-11-18T14:30:42",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=656fba299ba2b943a5d06d27e6091c6fba5116e7921cc948e8c6c44f2be72641",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108226833-1763392836651-gettyimages-2247138021-mms24410_7zxlkorw.jpeg?v=1763505937&w=1920&h=1080",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137547987,
+      "datetime": 1763494242
+    },
+    {
+      "title": "McKinsey's $5.2 Trillion AI Warning Collides With JPMorgan's Bubble Fears",
+      "description": "A rare double signal: McKinsey sees a massive infrastructure bill ahead, while JPMorgan hints AI valuations may be running too hot.",
+      "published_utc": "2025-11-18T13:31:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=955697f3ed6cfb02a32f3585aad7c2a55592c0981ee2fdcc9758381853a032cd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137543169,
+      "datetime": 1763490673
+    },
+    {
+      "title": "Celanese Corporation to Participate in Fireside Chat with J.P. Morgan",
+      "description": "DALLAS, November 18, 2025--Celanese Corporation to Participate in Fireside Chat with J.P. Morgan",
+      "published_utc": "2025-11-18T12:08:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=02335105afee98b2fb4931262b305f0acca17f36dd139027dba8892030eb641b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137543170,
+      "datetime": 1763485680
+    },
+    {
+      "title": "The More They Drop, The More I Load Up",
+      "description": "3 dividend stocks with attractive dividend yields, high-quality business models and management teams. Learn more about BX, BAM & OWL stock here.",
+      "published_utc": "2025-11-18T11:45:27",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=318025d7fce5a3c1ce92375cf78d2eb05e306538a913c910b7680fc99c741f33",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2209596910/image_2209596910.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137540950,
+      "datetime": 1763484327
+    },
+    {
+      "title": "3 Smart Defensive Stocks for an Uneasy Market",
+      "description": "Recession risks persist despite record market highs. Here are three defensive stocks—including PG, JNJ, and the DIA ETF—that can help protect your portfolio",
+      "published_utc": "2025-11-18T10:07:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=492800796b85fcd150b1db47bef4fce161269b674278d873482d0bacac1ee72e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137546842,
+      "datetime": 1763478420
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:16:35.495932+00:00",
+    "cache_key": "news_af72c303c546d617bf5f039288287868",
+    "count": 5
+  }
+}

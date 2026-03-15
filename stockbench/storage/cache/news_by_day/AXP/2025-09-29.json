@@ -1,0 +1,329 @@
+{
+  "items": [
+    {
+      "title": "Morgan Stanley Maintains American Express (AXP) Equal-Weight Recommendation",
+      "description": "",
+      "published_utc": "2025-09-29T17:24:20",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=4ad926995f0ad048c83958eaa93dfadee045bb8172c8f634f92053d06a08cebb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136918707,
+      "datetime": 1759181060
+    },
+    {
+      "title": "Stock Market Today: Stocks mixed as Trump meets with lawmakers in last ditch to avert government shutdown",
+      "description": "A deal is not expected to be made, potentially jeopardizing the release of new economic data to start the fourth quarter.",
+      "published_utc": "2025-09-29T10:38:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cc32bbfb890279e6739f20b48f60001c44aaa6ef4e4e1f27997ff19257c7dcef",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136916457,
+      "datetime": 1759156710
+    },
+    {
+      "id": "0098a5bdea69fcec9f6971356d50f3807b80a99c2a4ec62ab7a05a6fb56d9f12",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Reason Young Investors Should Pay Attention to This Leading Financial Stock",
+      "author": "Leo Sun",
+      "published_utc": "2025-09-29T09:23:00Z",
+      "article_url": "https://www.fool.com/investing/2025/09/29/1-reason-young-investors-should-pay-attention-to-t/?source=iedfolrf0000001",
+      "tickers": [
+        "BRK.A",
+        "BRK.B",
+        "AAPL",
+        "AXP",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/835012/investing-decisions-buy-sell-hold-chart-screen-graph-loss-growth.jpg",
+      "description": "As younger investors chase riskier investments, Berkshire Hathaway offers a stable, long-term investment option with a proven track record of market-beating returns, even as Warren Buffett prepares to retire.",
+      "keywords": [
+        "investing",
+        "long-term strategy",
+        "blue chip stocks",
+        "Warren Buffett",
+        "retirement"
+      ],
+      "insights": [
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Demonstrated consistent market-beating performance, strong diversification, massive cash reserves, and potential for continued growth under new leadership"
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Demonstrated consistent market-beating performance, strong diversification, massive cash reserves, and potential for continued growth under new leadership"
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's investment portfolio without specific performance commentary"
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's investment portfolio without specific performance commentary"
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's investment portfolio without specific performance commentary"
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's investment portfolio without specific performance commentary"
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's investment portfolio without specific performance commentary"
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's investment portfolio without specific performance commentary"
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's investment portfolio without specific performance commentary"
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's investment portfolio without specific performance commentary"
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's investment portfolio without specific performance commentary"
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's investment portfolio without specific performance commentary"
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's investment portfolio without specific performance commentary"
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's investment portfolio without specific performance commentary"
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's investment portfolio without specific performance commentary"
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's investment portfolio without specific performance commentary"
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's investment portfolio without specific performance commentary"
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's investment portfolio without specific performance commentary"
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's investment portfolio without specific performance commentary"
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of Berkshire's investment portfolio without specific performance commentary"
+        }
+      ]
+    },
+    {
+      "id": "38e584eb296203c39f90ee9da85675cc08f30f4148ebceb7156f8c2bc7c5bf80",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Warren Buffett Is Leaving Successor Greg Abel With a Highly Concentrated Portfolio That Has More Than 50% of Berkshire's $307 Billion Invested in 3 Stocks",
+      "author": "Sean Williams",
+      "published_utc": "2025-09-29T07:06:00Z",
+      "article_url": "https://www.fool.com/investing/2025/09/29/warren-buffett-leave-greg-abel-over-50-in-3-stocks/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "AXP",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/835210/buffett6-tmf.jpg",
+      "description": "Warren Buffett is stepping down as Berkshire Hathaway CEO after 60 years, handing over a $307 billion portfolio with over 50% invested in three stocks: Apple, American Express, and Bank of America. Successor Greg Abel will inherit a concentrated investment strategy focused on high-quality, long-term holdings.",
+      "keywords": [
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "investment strategy",
+        "succession",
+        "portfolio concentration"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett appreciates Apple's loyal customer base and strong management, but recent share reduction and lack of device growth suggest potential uncertainty"
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Long-term holding with strong business model, high-earning customer base, and attractive dividend yield"
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Historically strong performer, but recent interest rate changes and stock price premium suggest potential challenges"
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Historically strong performer, but recent interest rate changes and stock price premium suggest potential challenges"
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Historically strong performer, but recent interest rate changes and stock price premium suggest potential challenges"
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Historically strong performer, but recent interest rate changes and stock price premium suggest potential challenges"
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Historically strong performer, but recent interest rate changes and stock price premium suggest potential challenges"
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Historically strong performer, but recent interest rate changes and stock price premium suggest potential challenges"
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Historically strong performer, but recent interest rate changes and stock price premium suggest potential challenges"
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Historically strong performer, but recent interest rate changes and stock price premium suggest potential challenges"
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Historically strong performer, but recent interest rate changes and stock price premium suggest potential challenges"
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Historically strong performer, but recent interest rate changes and stock price premium suggest potential challenges"
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Historically strong performer, but recent interest rate changes and stock price premium suggest potential challenges"
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Historically strong performer, but recent interest rate changes and stock price premium suggest potential challenges"
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Historically strong performer, but recent interest rate changes and stock price premium suggest potential challenges"
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Historically strong performer, but recent interest rate changes and stock price premium suggest potential challenges"
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Historically strong performer, but recent interest rate changes and stock price premium suggest potential challenges"
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Historically strong performer, but recent interest rate changes and stock price premium suggest potential challenges"
+        }
+      ]
+    },
+    {
+      "title": "Here's What to Expect From American Express' Next Earnings Report",
+      "description": "American Express is expected to release its fiscal third-quarter earnings next month, and analysts project a double-digit profit growth.",
+      "published_utc": "2025-09-29T06:21:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=772370409be298d08424d11a5fb5de09177cd00dd014f46e7859211b52d6ecde",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136915795,
+      "datetime": 1759141274
+    }
+  ]
+}

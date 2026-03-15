@@ -1,0 +1,248 @@
+{
+  "items": [
+    {
+      "id": "45a125e9f0c0f35efa1f129b2db5ce9321eceb036b4a00460d33f87120ea44bd",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Microsoft, Amazon Web Services Could Face Cloud Services Investigation From UK Regulators",
+      "author": "Adam Eckert",
+      "published_utc": "2025-01-28T19:20:12Z",
+      "article_url": "https://www.benzinga.com/news/global/25/01/43284108/microsoft-amazon-web-services-could-face-cloud-services-investigation-from-uk-regulators",
+      "tickers": [
+        "MSFT",
+        "AMZN"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/28/Microsoft-Corporation_1.jpeg?width=1200&height=800&fit=crop",
+      "description": "UK regulators are considering investigating Microsoft and Amazon Web Services due to concerns about lack of competition in the cloud services market, which could lead to higher prices and less innovation.",
+      "keywords": [
+        "cloud services",
+        "competition",
+        "UK regulators",
+        "Microsoft",
+        "Amazon Web Services"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Microsoft could face investigation by UK regulators, but does not indicate whether the outcome would be positive or negative for the company."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Similar to Microsoft, the article states that Amazon Web Services could be investigated by UK regulators, but does not provide a clear indication of whether the outcome would be positive or negative for the company."
+        }
+      ]
+    },
+    {
+      "id": "d96282361bd4398c6c963dceb8e8fc7ad9187e36df4d2b6ce64f54688b1b9b12",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "New Poetry Book Features Verses Connected to Iconic Images for An Emotion-Driven Read",
+      "author": "Jeffrey Pipes Guice",
+      "published_utc": "2025-01-28T16:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/28/3016592/0/en/New-Poetry-Book-Features-Verses-Connected-to-Iconic-Images-for-An-Emotion-Driven-Read.html",
+      "tickers": [
+        "AMZN"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/12450d15-05c8-4a8b-a37a-6d6f6d29c9e8",
+      "description": "Poet Jeffrey Pipes Guice has released his sixth book of poetry, 'Here I Sit,' which explores the relationship between iconic images and the emotions they evoke. The collection aims to challenge and engage readers with its unique blend of thought-provoking and whimsical themes.",
+      "keywords": [
+        "poetry",
+        "book release",
+        "iconic images",
+        "emotions",
+        "thought-provoking"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The book is available for purchase on Amazon.com, suggesting the author has a distribution agreement with the e-commerce giant."
+        }
+      ]
+    },
+    {
+      "id": "b634790ef01d5ed3740a4e293389a6e1b0bab95ea439aee174dddd572cbcdd14",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Cathie Wood Goes Bargain Hunting: 3 Stocks She Just Bought",
+      "author": "Rick Munarriz",
+      "published_utc": "2025-01-28T15:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/28/cathie-wood-goes-bargain-hunting-3-stocks-she-just/?source=iedfolrf0000001",
+      "tickers": [
+        "AMD",
+        "AMZN",
+        "PSTG"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805496/gettyimages-1194430802-1200x675-128554e.jpg",
+      "description": "Cathie Wood's Ark Invest added to positions in AMD, Amazon, and Pure Storage amid the AI-driven tech selloff on Monday. AMD shares fell sharply, but Wood sees a buying opportunity as the company's data center business continues to grow. Amazon and Pure Storage also reported in the article.",
+      "keywords": [
+        "Cathie Wood",
+        "Ark Invest",
+        "AMD",
+        "Amazon",
+        "Pure Storage",
+        "AI",
+        "tech selloff"
+      ],
+      "insights": [
+        {
+          "ticker": "AMD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "AMD shares fell during the AI selloff, but the company's data center business is growing strongly, which could make the current dip a buying opportunity."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon stock has been performing well, with shares up 48% over the past year, and its Amazon Web Services cloud business is seeing accelerating growth."
+        },
+        {
+          "ticker": "PSTG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Pure Storage's stock fell nearly 10% on Monday, but it has a longer winning streak and Cathie Wood sees a buying opportunity despite recent financial performance not being as strong."
+        }
+      ]
+    },
+    {
+      "id": "253f3bd57215409efe64bb2f66a8f47adbf19a9c6143a9104bba0f4aa996a09a",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Plug Power Stock a Buy Now?",
+      "author": "Courtney Carlsen",
+      "published_utc": "2025-01-28T10:23:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/28/is-plug-power-stock-a-buy-now/?source=iedfolrf0000001",
+      "tickers": [
+        "PLUG",
+        "AMZN",
+        "WMT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805294/hydrogen-energy-storage-gas-tank-in-meadow-environment-getty.jpg",
+      "description": "Plug Power, a hydrogen fuel cell company, aims to establish itself as a key player in the green hydrogen market, which is projected to reach $1.4 trillion by 2050. The company has faced challenges in operating efficiently and generating positive cash flow, but a recent $1.66 billion loan from the U.S. Department of Energy and a deal with Allied Green Ammonia are positive developments.",
+      "keywords": [
+        "Plug Power",
+        "green hydrogen",
+        "hydrogen fuel cell",
+        "Department of Energy",
+        "Allied Green Ammonia"
+      ],
+      "insights": [
+        {
+          "ticker": "PLUG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a balanced view of Plug Power, highlighting both the company's ambitious goals in the green hydrogen market and its financial challenges. While the recent loan and deal are positive developments, the author remains hesitant about holding the stock due to the company's lack of profitability and ongoing shareholder dilution."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon is mentioned as one of Plug Power's clients, which suggests the company's products and services are being used by a major e-commerce player."
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Walmart is also mentioned as one of Plug Power's clients, indicating the company's products and services are being used by another large e-commerce company."
+        }
+      ]
+    },
+    {
+      "id": "9465df91a1650502b2ed05be68fe107a67f7ad914838b078fa22f72d4920873e",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Ultimate Energy Stock to Buy With $200 Right Now",
+      "author": "Matt Dilallo",
+      "published_utc": "2025-01-28T10:16:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/28/the-ultimate-energy-stock-to-buy-with-200-right-no/?source=iedfolrf0000001",
+      "tickers": [
+        "BEPC",
+        "BN",
+        "BNH",
+        "BNJ",
+        "MSFT",
+        "META",
+        "GOOG",
+        "GOOGL",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805378/a-person-installing-a-solar-panel-near-a-wind-farm.jpg",
+      "description": "Brookfield Renewable is a leading global renewable energy producer well-positioned to capitalize on the growing demand for clean energy. With a diversified portfolio, strong financial backing, and a massive pipeline of development projects, the company is poised for significant growth and offers an attractive dividend yield.",
+      "keywords": [
+        "renewable energy",
+        "Brookfield Renewable",
+        "clean energy",
+        "energy stock"
+      ],
+      "insights": [
+        {
+          "ticker": "BEPC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Brookfield Renewable's strong position in the renewable energy market, its diversified portfolio, access to capital, and significant growth potential. The company is described as the 'ultimate energy stock to buy right now' due to its ability to capitalize on the increasing demand for clean energy."
+        },
+        {
+          "ticker": "BN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Brookfield Renewable's relationship with Brookfield Corporation, a leading investment manager, is seen as a positive, as it provides the company with unparalleled access to capital and investment opportunities."
+        },
+        {
+          "ticker": "BNH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Brookfield Renewable's relationship with Brookfield Corporation, a leading investment manager, is seen as a positive, as it provides the company with unparalleled access to capital and investment opportunities."
+        },
+        {
+          "ticker": "BNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Brookfield Renewable's relationship with Brookfield Corporation, a leading investment manager, is seen as a positive, as it provides the company with unparalleled access to capital and investment opportunities."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Brookfield Renewable's large-scale corporate power deal with Microsoft, which is seen as a testament to the company's scale and expertise in developing the power capacity that large technology companies will need in the future."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Meta Platforms (Facebook) is mentioned as one of Brookfield Renewable's customers, but the article does not provide any specific details or commentary about the company."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alphabet's Google is mentioned as one of Brookfield Renewable's customers, but the article does not provide any specific details or commentary about the company."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alphabet's Google is mentioned as one of Brookfield Renewable's customers, but the article does not provide any specific details or commentary about the company."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Amazon is mentioned as one of Brookfield Renewable's customers, but the article does not provide any specific details or commentary about the company."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:29:42.937638+00:00",
+    "cache_key": "news_91fcbd989a3766a0318d9ef714ce27d2",
+    "count": 5
+  }
+}

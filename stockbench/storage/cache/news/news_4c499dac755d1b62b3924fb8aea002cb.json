@@ -1,0 +1,120 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer Says Goldman Sachs (GS) Is One Of His Biggest Positions",
+      "description": "We recently published 11 Stocks on Jim Cramer’s Radar. The Goldman Sachs Group, Inc. (NYSE:GS) is one of the stocks Jim Cramer recently discussed. Cramer has frequently discussed investment bank The Goldman Sachs Group, Inc. (NYSE:GS) over the past couple of months. Most of his comments have focused on the bank’s valuation, with the CNBC […]",
+      "published_utc": "2025-11-15T13:04:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d3c931986bc0ec43751fb7a41820317158d128255fefe8260549a062256bbf55",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137494672,
+      "datetime": 1763229852
+    },
+    {
+      "title": "How Investors Are Reacting To Goldman Sachs Group (GS) Q3 Earnings Surge and AI-Driven Expansion",
+      "description": "Goldman Sachs reported robust third-quarter earnings in November 2025, with strong revenue growth across Banking & Markets and Asset & Wealth Management, and continued expansion in fixed income offerings and proprietary investments. The company’s ongoing integration of AI-driven automation and technology initiatives, combined with its recent acquisition activities, signals a broader shift toward more efficient, diversified, and resilient sources of income. We’ll examine how Goldman Sachs’...",
+      "published_utc": "2025-11-15T11:09:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5bf9fddeba059cc8a12a7f3d9de94594d45025ab99c7626191f2ecffb9f7555d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137494673,
+      "datetime": 1763222965
+    },
+    {
+      "title": "The Goldman Sachs Group, Inc. (GS) Opens Talk with Kuwait Wealth Fund over $10B Funding",
+      "description": "The Goldman Sachs Group, Inc. (NYSE:GS) is one of the best blue-chip stocks to buy now. On October 27, reports emerged indicating that The Goldman Sachs Group Inc. (NYSE:GS) is in discussions with the Kuwait Investment Authority (KIA). The investment bank is looking to secure a $10 billion mandate as it seeks to strengthen its […]",
+      "published_utc": "2025-11-14T23:50:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=33189645b796dc14e95ee82c802ae906b10aae6265b198f43389d0b53474edde",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137486623,
+      "datetime": 1763182250
+    },
+    {
+      "title": "Goldman Sachs Is Getting A Bit Pricey (Rating Downgrade)",
+      "description": "Goldman Sachs posts strong earnings and rebounding investment banking, but high valuation prompts a downgrade. See here for more on GS stock.",
+      "published_utc": "2025-11-14T22:53:58",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=eff084218c062cfe404eae8d948935ff3486b3b1f55cd87ef46d469e880317ec",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2197695821/image_2197695821.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137487142,
+      "datetime": 1763178838
+    },
+    {
+      "id": "a00cbd0b9d17f5e94461158fc0d83e73183819d8560d66fc782288ec5d336051",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Stock Market May Do Something Last Seen During the Great Recession. A Sharp Decline Could Follow.",
+      "author": "Trevor Jennewine",
+      "published_utc": "2025-11-15T09:02:00Z",
+      "article_url": "https://www.fool.com/investing/2025/11/15/stock-market-last-seen-in-great-recession-decline/?source=iedfolrf0000001",
+      "tickers": [
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/836621/market-red-4.jpg",
+      "description": "The S&P 500 is on pace for its worst November since 2008, with concerns about economic weakness, high inflation, and expensive market valuations potentially signaling a potential bear market.",
+      "keywords": [
+        "stock market",
+        "recession",
+        "tariffs",
+        "inflation",
+        "consumer sentiment",
+        "bear market"
+      ],
+      "insights": [
+        {
+          "ticker": "GS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned in the context of tariff impact analysis, estimating 77% of tariffs will be paid by U.S. companies and consumers"
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned in the context of tariff impact analysis, estimating 77% of tariffs will be paid by U.S. companies and consumers"
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned in the context of tariff impact analysis, estimating 77% of tariffs will be paid by U.S. companies and consumers"
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned in the context of tariff impact analysis, estimating 77% of tariffs will be paid by U.S. companies and consumers"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:00:13.987864+00:00",
+    "cache_key": "news_4c499dac755d1b62b3924fb8aea002cb",
+    "count": 5
+  }
+}

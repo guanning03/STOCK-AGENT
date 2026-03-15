@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Oracle Misses in Q3, Gains +22% - Plus Jobs Revisions & More",
+      "description": "While Oracle missed on Q3 revenues it grew +55% in Cloud Infrastructure year over year.",
+      "published_utc": "2025-09-09T19:11:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7b6a7f00feea0d71784b6b90444f394d189d27ce7deb41d881c7a4de97347ceb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136688786,
+      "datetime": 1757459460
+    },
+    {
+      "title": "S&P 500 Gains and Losses Today: UnitedHealth Stock Soars; Fox Corp. Falters as Murdochs Reach Agreement",
+      "description": "The S&P 500 added 0.3% on Tuesday, Sept. 9, 2025, as a sharp downward revision to jobs numbers raised economic concerns but boosted rate-cut expectations.",
+      "published_utc": "2025-09-09T18:25:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dd781a2a4027d076eae5e0f50fb78f2935b33f6f64fa410114ad7ec74ccac4ab",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136688787,
+      "datetime": 1757456720
+    },
+    {
+      "title": "Equities Notch New Peaks as Jobs Data Revision Reinforces Calls for Fed Rate Cuts",
+      "description": "Wall Street's main equity indexes reached fresh all-time highs on Tuesday as a downward revision to",
+      "published_utc": "2025-09-09T18:13:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f6d3386805b8482bb349d8f5dd5ffb203479f09cc6e852d1f3e8d0c20ed825bb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136688557,
+      "datetime": 1757455994
+    },
+    {
+      "title": "Centene: Enrollment Down, Costs Up, The Storm Is Just Beginning",
+      "description": "Centene faces falling Medicaid enrollment, rising costs, and profit cuts, signaling more downside ahead. Read here for more on CNC stock.",
+      "published_utc": "2025-09-09T18:09:26",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a6a546333e5ddcfa10770b7830cd0d5ed1e6eaccddfc536439bbb11ce67b8c68",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1490413693/image_1490413693.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136681333,
+      "datetime": 1757455766
+    },
+    {
+      "title": "Oracle, GameStop, QMMM Holdings, UnitedHealth And Apple: Why These 5 Stocks Are On Investors' Radars Today",
+      "description": "U.S. markets finished higher, with the Dow Jones Industrial Average up 0.4% at 45,711.34, the S&amp;P 500 rising 0.3% to 6,512.61, and the Nasdaq closing nearly 0.4% higher at 21,879.49.\n\n\n\nThese are the top stocks that gained the attention of retail traders and investors through the day:",
+      "published_utc": "2025-09-09T18:06:03",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=209aff485723f9098979eda9bba5517ead17e1e0dd7315b6b2f708f728896602",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/09/09/Stock-Market-Graph-On-Screen--Ticker-On-.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138993985,
+      "datetime": 1757455563
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:31:00.617716+00:00",
+    "cache_key": "news_91b20a668c3d68fea32c27d64a946ac2",
+    "count": 5
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "3 tools used by technical analysts that can give stock pickers a second opinion",
+      "description": "Here are some basic technical metrics that every investor should be aware of. They can be used as a check on our fundamental analysis.",
+      "published_utc": "2026-02-16T07:16:52",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=2a406a6d55044f3ea2cd066686c5b7df4ec9180fb71f73792f92611c8d762439",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108262719-1770403913046-108262719-1770403735063-gettyimages-2259635850-FARM_IPO.jpg?v=1770913967&w=1920&h=1080",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139115325,
+      "datetime": 1771244212
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "items": [
+    {
+      "id": "95ea3290616c5b08a2dc397ebb58b7a411627adb10392e2dad8e5453b3062400",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Better Consumer Staples ETF: State Street's XLP vs. Fidelity's FSTA",
+      "author": "Robert Izquierdo",
+      "published_utc": "2025-12-27T22:16:01Z",
+      "article_url": "https://www.fool.com/coverage/etfs/2025/12/27/better-consumer-staples-etf-state-street-s-xlp-vs-fidelity-s-fsta/?source=iedfolrf0000001",
+      "tickers": [
+        "XLP",
+        "FSTA",
+        "WMT",
+        "COST",
+        "PG"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F68e88b35844c8ea3f09f6b0350420ee30bed3518-1401x1251.png%3Fw%3D1401%26h%3D1251&w=1200&op=resize",
+      "description": "Fidelity's FSTA and State Street's XLP are both defensive consumer staples ETFs with identical 0.08% expense ratios. XLP offers higher dividend yield (2.7% vs 2.3%), greater liquidity, and concentrated exposure to 36 large-cap companies, while FSTA provides broader diversification with 104 holdings. The choice depends on whether investors prioritize income and liquidity (XLP) or diversification (FSTA).",
+      "keywords": [
+        "consumer staples ETF",
+        "XLP",
+        "FSTA",
+        "dividend yield",
+        "expense ratio",
+        "liquidity",
+        "portfolio concentration",
+        "defensive sector"
+      ],
+      "insights": [
+        {
+          "ticker": "XLP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "XLP is highlighted for superior liquidity ($14.9B AUM), higher dividend yield (2.7%), 27-year track record, and focused exposure to large-cap consumer staples leaders like Walmart and Costco, making it attractive for income-focused investors."
+        },
+        {
+          "ticker": "FSTA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "FSTA is presented as a solid alternative offering broader diversification with 104 holdings versus XLP's 36, providing exposure to a wider range of consumer staples companies while maintaining the same low 0.08% expense ratio."
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Walmart is mentioned as a top holding in both ETFs, representing a key large-cap consumer staples company, but no specific performance or outlook commentary is provided."
+        },
+        {
+          "ticker": "COST",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Costco is identified as a major top holding in both ETFs, but serves only as a reference point for portfolio composition without additional sentiment indicators."
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Procter & Gamble is listed as a top holding in both ETFs but is mentioned only for portfolio composition purposes without performance or outlook commentary."
+        }
+      ]
+    }
+  ]
+}

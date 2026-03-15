@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar Stock: Is CAT Outperforming the Industrial Sector?",
+      "description": "Caterpillar has been outperforming the industrial sector over the past year, and analysts remain moderately bullish on the stock’s prospects.",
+      "published_utc": "2025-09-01T12:14:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1127323be7f716d981f69b4bcfbbf0e9420abb463ab844accf96fa523b7ad691",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136604190,
+      "datetime": 1756743272
+    },
+    {
+      "title": "Caterpillar raises its 2025 tariff hit estimate to as much as $1.8 billion",
+      "description": "Sweeping tariffs enacted by the Trump administration have raised costs across Caterpillar's supply chain.",
+      "published_utc": "2025-09-01T05:03:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=18093be36ba2f37da967eb6f4900471d9cf507d02fa17087f1fc180098b25c9b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136596222,
+      "datetime": 1756717432
+    },
+    {
+      "title": "Dividend Income: Lanny's June 2025 Summary",
+      "description": "In June, we (my wife and I) received a dividend income total of $5,403.93. We had a booming 4 dividend increases this month",
+      "published_utc": "2025-09-01T01:16:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1c046a7258d786c22490242969b058f09f7c9de604f2e29101add172cb380fa5",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1310163825/image_1310163825.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136594963,
+      "datetime": 1756703760
+    }
+  ]
+}

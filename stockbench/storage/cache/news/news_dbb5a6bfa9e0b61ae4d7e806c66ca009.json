@@ -1,0 +1,107 @@
+{
+  "items": [
+    {
+      "title": "Salesforce (CRM) Declares US$0.42 Per Share Quarterly Dividend",
+      "description": "Salesforce (CRM) recently reaffirmed its commitment to shareholder value with a quarterly dividend and continued to build investor confidence through robust Q2 earnings results, showing impressive revenue and net income growth. The dividend announcement, coupled with a $20 billion increase in buyback authorization, reflects the company's strategic focus on rewarding shareholders. Despite these positive moves, Salesforce's stock remained largely flat over the past month, in line with broader...",
+      "published_utc": "2025-09-06T14:11:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=edce47245f0621de7d5e29c8ba17c5183e40b992ae2c1aa9b1e86024ed6b045c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136669208,
+      "datetime": 1757182302
+    },
+    {
+      "title": "Reddit, Inc. (RDDT)’s CEO Is “So Good,” Says Jim Cramer",
+      "description": "We recently published 12 Stocks Jim Cramer Discussed As Part Of His Big Tech Deep Dive. Reddit, Inc. (NYSE:RDDT) is one of the stocks Jim Cramer recently discussed. Reddit, Inc. (NYSE:RDDT) is one of Cramer’s favorite stocks. He believes that the firm’s treasure trove of user data places it in a great position to benefit […]",
+      "published_utc": "2025-09-06T12:57:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9bd72040d65a610b16d6fa8c9bd1e327c73b9e64cfa5927c4d591a55838bc448",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136669209,
+      "datetime": 1757177878
+    },
+    {
+      "title": "Salesforce, Inc. (CRM) Is Getting Killed By AI, Says JIm Cramer",
+      "description": "We recently published 12 Stocks Jim Cramer Discussed As Part Of His Big Tech Deep Dive. Salesforce, Inc. (NYSE:CRM) is one of the stocks Jim Cramer recently discussed. Salesforce, Inc. (NYSE:CRM)’s shares dipped by 4.9% after the firm’s midpoint third-quarter revenue guidance of $10.265 billion missed analyst estimates of $10.29. Growth is the holy grail […]",
+      "published_utc": "2025-09-06T12:56:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=41d0d99168f87afbb4c71a4a21250d9551fb321da412eda046c8631be0ee5b85",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136669210,
+      "datetime": 1757177815
+    },
+    {
+      "title": "September Dogs Of The Dow Unleash One Ideal 'Safer' DiviDog",
+      "description": "Discover why Verizon is the standout Dow Dog for dividends and potential 19%+ returns.",
+      "published_utc": "2025-09-05T22:07:39",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1411b8fdf9d950ed4a557a748e1abc18582b4a5d86b95304b40b97619dfc20dc",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1920872358/image_1920872358.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136654562,
+      "datetime": 1757124459
+    },
+    {
+      "id": "8e260cc65e824c32f1f654f9bafb3dd6b90e2a5892c346e87f93f902e3e711e7",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why C3.ai Plunged in August",
+      "author": "Billy Duberstein",
+      "published_utc": "2025-09-06T17:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/09/06/why-c3ai-plunged-in-august/?source=iedfolrf0000001",
+      "tickers": [
+        "AI",
+        "CRM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/832272/gettyimages-1804788188.jpg",
+      "description": "C3.ai experienced a challenging quarter with a 28.2% stock decline in August, missing revenue guidance by 30%. The company appointed a new CEO, Stephen Ehikian, after former CEO Thomas Siebel stepped down, and revamped its sales organization.",
+      "keywords": [
+        "AI",
+        "software",
+        "earnings",
+        "leadership change",
+        "revenue miss"
+      ],
+      "insights": [
+        {
+          "ticker": "AI",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Missed quarterly revenue guidance by 30%, significant stock price decline, leadership transition, and continued operating losses despite strong cash position"
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned in context of new CEO's background, no direct performance discussion"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:18:08.129609+00:00",
+    "cache_key": "news_dbb5a6bfa9e0b61ae4d7e806c66ca009",
+    "count": 5
+  }
+}

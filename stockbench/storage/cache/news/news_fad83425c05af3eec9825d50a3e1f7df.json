@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Dow rallies 400 points, continuing comeback from Iran war lows, as oil prices retreat: Live updates",
+      "description": "Stocks reversed course from their lows Monday and closed higher across the board after Trump gave signs that an end may be in sight for the U.S.-Iran war.",
+      "published_utc": "2026-03-09T14:06:18",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=34af33c664a0027f20cccbb58a76a7c60d8fd68af2aaf4e78b10c55d90187ec0",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108275488-17730695892026-03-09t151654z_784213601_rc201kagcngb_rtrmadp_0_usa-stocks.jpeg?v=1773069717&w=1920&h=1080",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139365420,
+      "datetime": 1773079578
+    },
+    {
+      "title": "Home Depot Sees Higher Big Ticket Sales: Is Pro Demand Driving Growth?",
+      "description": "HD reports rising purchases of above $1,000 in Q4, as Pro customers drive stronger big-ticket demand, lifting average ticket, even as overall transactions fall.",
+      "published_utc": "2026-03-09T12:32:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5612dacc3d1b812d35d33acb8ffc519a7a4609943c9a6eea21d79308cb537677",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139355163,
+      "datetime": 1773073920
+    },
+    {
+      "title": "Home Depot Slides 8% in a Month: A Buy Opportunity or Warning Sign?",
+      "description": "HD faces pressure from weak housing turnover and cautious consumers, but investments in Pro customers and the SRS business aim to drive long-term growth.",
+      "published_utc": "2026-03-09T12:31:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=32d4effbdd23caa8b10ad61cd836bcfaf11de5d98ab11eba0f76fb60a7696af9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139355164,
+      "datetime": 1773073860
+    },
+    {
+      "title": "Shares of homebuilders and housing-related stocks are trading lower as Treasury yields climb, driven by rising oil prices amid the ongoing Middle East conflict. The increase in energy prices is fueling inflation concerns, which could lead to higher borrowing costs and weigh on housing affordability and demand.",
+      "description": "",
+      "published_utc": "2026-03-09T07:19:45",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=117b1ca45716205e778215f19eff31493d73a0f72f0faa1efb649f874bf46eb4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139361886,
+      "datetime": 1773055185
+    },
+    {
+      "title": "Recent Filing Shows That Sen. Sheldon Whitehouse Sold Over $5K Worth of Home Depot Stock",
+      "description": "",
+      "published_utc": "2026-03-09T07:00:30",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=fc9a04315a7e6ef1759f976b54c6e75e6f3173caf6eb661341ce7a309179227e",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/06/insider_trade_2.jpg?width=2048&height=1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139352263,
+      "datetime": 1773054030
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T04:16:25.645581+00:00",
+    "cache_key": "news_fad83425c05af3eec9825d50a3e1f7df",
+    "count": 5
+  }
+}

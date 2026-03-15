@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Is the AI stock bubble about to explode?",
+      "description": "Stop with the AI bubble talk, please!",
+      "published_utc": "2025-10-12T08:30:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d749f907df37e6506cc64dc7bb79436204177444a1f2b879d7054dafb0f2a90f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137063307,
+      "datetime": 1760272214
+    },
+    {
+      "title": "Zeta Global: I Missed It Once, Not Missing It Again",
+      "description": "Discover why Zeta could surge 58% with strong revenue growth, AI-driven platform, and ambitious targets.",
+      "published_utc": "2025-10-12T07:47:04",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cdf0105b119fd5b35d58f17e01458cb3ba8502c65af707c7b630323bfe4e17d0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/177865834/image_177865834.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137058553,
+      "datetime": 1760269624
+    },
+    {
+      "title": "What to Expect in Markets This Week: Big Bank Earnings, Fed Speakers, Shutdown Data Delays",
+      "description": "Coming up: reports from JPMorgan and other big banks, a bond market holiday, shutdown-related data delays, and remarks from top Fed and government officials.",
+      "published_utc": "2025-10-12T06:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=90c67e1ae1d4207e24588a03741c7c2208e5478dc664985e3a4f39b13d551e78",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137058812,
+      "datetime": 1760263200
+    }
+  ]
+}

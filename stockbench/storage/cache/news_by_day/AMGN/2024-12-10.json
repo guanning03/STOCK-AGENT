@@ -1,0 +1,33 @@
+{
+  "items": [
+    {
+      "id": "fa18c372e78c06faafeadedc20d25c7c1acbc9a00c5cedac2b381ee1d2a1c309",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "AMGEN ANNOUNCES 2025 FIRST QUARTER DIVIDEND",
+      "author": "Prnewswire",
+      "published_utc": "2024-12-10T21:30:00Z",
+      "article_url": "https://www.benzinga.com/pressreleases/24/12/n42424961/amgen-announces-2025-first-quarter-dividend",
+      "tickers": [
+        "AMGN"
+      ],
+      "image_url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "description": "Amgen announced a $2.38 per share dividend for the first quarter of 2025, to be paid on March 7, 2025 to stockholders of record as of February 14, 2025.",
+      "keywords": [
+        "Amgen",
+        "dividend"
+      ],
+      "insights": [
+        {
+          "ticker": "AMGN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article announces a dividend payment by Amgen, which is generally seen as a positive sign for the company's financial health and shareholder returns."
+        }
+      ]
+    }
+  ]
+}

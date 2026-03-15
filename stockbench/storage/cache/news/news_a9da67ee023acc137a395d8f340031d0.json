@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Amazon to announce largest layoffs in company history, source says",
+      "description": "The layoffs will amount to the largest cuts to Amazon's corporate workforce in the company's history, according to a person familiar with the matter.",
+      "published_utc": "2025-10-27T12:03:43",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=00518c6a8890a9d83dc08e3ab1365f160b3e84597648e28362992f87533126a2",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108129263-1744217063868-gettyimages-1233010055-ryder-getty-6.jpeg?v=1761597100&w=1920&h=1080",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137334749,
+      "datetime": 1761581023
+    },
+    {
+      "title": "Salesforce (CRM) and OpenAI Expand Partnership with New Integrations",
+      "description": "Salesforce, Inc. (NYSE:CRM) is one of the 10 Best Dow Stocks to Buy According to Wall Street Analysts. On October 14, Salesforce, Inc. (NYSE:CRM) announced an expanded partnership with OpenAI to create new and improved experiences for employees and consumers. These new experiences will utilize Salesforce, Inc.’s (NYSE:CRM) Agentforce 360 platform and OpenAI frontier models […]",
+      "published_utc": "2025-10-27T11:54:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4bf08c3ec75aba3a3f5a132dc3a7fae23a17bb5f50e0492436fe313dc81f4a46",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137231005,
+      "datetime": 1761580446
+    },
+    {
+      "title": "Israeli intelligence vets raise $20M to track developer buying signals",
+      "description": "Onfire, a vertical AI platform for IT revenue teams, is coming out of stealth with $20 million in funding, including a $14 million Series A co-led by Grove Ventures and TLV Partners.",
+      "published_utc": "2025-10-27T09:13:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=768900e51ad1ee2ef57ab5e40aa882b19812d2040cdcce8e73bd4e9c822670f5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137228647,
+      "datetime": 1761570826
+    },
+    {
+      "title": "Former Salesforce President Alexandre Dayon Joins Dataiku’s Board of Directors",
+      "description": "Dayon brings decades of experience scaling global software platforms to guide Dataiku’s next stage of growth and enterprise AI innovationNEW YORK, NY, Oct. 27, 2025 (GLOBE NEWSWIRE) -- Dataiku, The Universal AI Platform™, today announced the appointment of Alexandre Dayon, former President at Salesforce, to its Board of Directors, where he will serve as Chair of the Compensation Committee. A recognized leader in growing global software businesses, Dayon joins Dataiku at a pivotal moment, as the",
+      "published_utc": "2025-10-27T09:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fdea80c4772b8a612443d16741fb312b512e335c48195ad80aab3dbe74e9bb89",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137228648,
+      "datetime": 1761570000
+    },
+    {
+      "title": "Can Salesforce's Data Cloud Business Offset Slowing Growth Trends?",
+      "description": "CRM's booming Data Cloud business unit is likely to have reignited the company's slowing revenue growth trend.",
+      "published_utc": "2025-10-27T08:50:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e25d6a7c4a5dc03b354f7cb397c699a3d0b201d613f979dd71ee28748d4f2514",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137228649,
+      "datetime": 1761569400
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:03:03.808158+00:00",
+    "cache_key": "news_a9da67ee023acc137a395d8f340031d0",
+    "count": 5
+  }
+}

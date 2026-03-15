@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Trump Serves a McDonald’s Happy Meal",
+      "description": "Trump Serves a McDonald’s Happy Meal",
+      "published_utc": "2025-11-18T12:52:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=59405f71b11bbfd4baade30535a6bc9ae8039d65d27c7b54c504067ed01ce030",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137558354,
+      "datetime": 1763488320
+    },
+    {
+      "title": "EU Targets Amazon and Microsoft in Explosive Cloud Crackdown",
+      "description": "Brussels launches sweeping probe into AWS and Azure after back-to-back outages rattle confidence in Big Tech's cloud dominance.",
+      "published_utc": "2025-11-18T12:34:34",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=41efbf9ed7a5dc7961065f04f1918d853bd34d14f374e03247f646aa16238be1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137543033,
+      "datetime": 1763487274
+    },
+    {
+      "title": "Trump touts steps to make life more affordable, but many struggle to afford fast food",
+      "description": "There is a bifurcation in the American economy between higher- and lower-income consumers. The latter are being left behind.",
+      "published_utc": "2025-11-18T10:37:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1aadd87f86f2155bf12d116a2fb5576dc80bc6c6e1b8ab90826eae8e848b0be2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137543341,
+      "datetime": 1763480251
+    },
+    {
+      "title": "Berkshire Hathaway: Buffett Sticks To His Guns, Dismiss His Warning At Your Own Peril",
+      "description": "Discover key insights from Buffett's Q3 13F report, focusing on his strategic stock sales and cautionary moves.",
+      "published_utc": "2025-11-18T07:32:52",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b8f96b98ff05e64b608dfa413be2ef74ff8d69819a7262e0624d9a2bb33b870c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/451880974/image_451880974.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137539669,
+      "datetime": 1763469172
+    },
+    {
+      "title": "Trump ramps up affordability push, telling fretful Americans that inflation is ‘almost at the sweet spot’",
+      "description": "President Trump is stepping up his effort to try to counteract the unease Americans feel with rising prices and his own handling of the issue.",
+      "published_utc": "2025-11-18T07:00:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=07c58e21c2e4a802f3f45bd32a4a858c6e9c32b168d8a1dd97d2e9906e2fbb09",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137538241,
+      "datetime": 1763467230
+    }
+  ]
+}

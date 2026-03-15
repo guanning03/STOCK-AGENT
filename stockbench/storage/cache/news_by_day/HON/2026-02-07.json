@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Should We Be Delighted With Honeywell International Inc.'s (NASDAQ:HON) ROE Of 32%?",
+      "description": "Many investors are still learning about the various metrics that can be useful when analysing a stock. This article is...",
+      "published_utc": "2026-02-07T06:00:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=32bf3059319fdb98f891f733994d139334a0ae4933432a51168a82dc1d50aa2c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138384325,
+      "datetime": 1770462043
+    },
+    {
+      "title": "Jim Cramer Says Stocks Like Dover Are “Catching Up With the Rest of the Market”",
+      "description": "Dover Corporation (NYSE:DOV) is one of the stocks Jim Cramer commented on. Cramer mentioned the company during the episode and said: The industrials, the old-fashioned non-data center industrials, are looking like huge winners from AI, even if we don’t know yet whether they deserve it. These stocks are doing so well. Honeywell, Dover, Emerson, wowza, […]",
+      "published_utc": "2026-02-07T00:56:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=06ec0f267431098f351b095797dc23119a1bafcdd04bcf4b8e9004e7093f6a32",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138382797,
+      "datetime": 1770443803
+    }
+  ]
+}

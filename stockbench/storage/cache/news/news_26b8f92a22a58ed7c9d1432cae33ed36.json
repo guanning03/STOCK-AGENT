@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures trade flat after Wall Street's record-breaking rally fizzles out",
+      "description": "US stock futures held steady as uncertainty around Federal Reserve policy rattled investors even as the tech industry continued to make big moves on AI.",
+      "published_utc": "2025-09-24T19:47:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=19317f170bb10e31a457662a2f61d7ecfdf0af571481044e72afc1af059c0254",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136879375,
+      "datetime": 1758757657
+    },
+    {
+      "title": "Could Intel's Next Big Investment Come From Apple?",
+      "description": "Intel is seeking an investment from Apple, Bloomberg reported Wednesday. after recently securing a $5 billion commitment from Nvidia.",
+      "published_utc": "2025-09-24T18:51:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1041a1b77c097eef7745bc9edeea7a3ecab28c6d03ab886298a95a48404f0813",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136865841,
+      "datetime": 1758754276
+    },
+    {
+      "title": "Sapia.ai Appoints Kim Macdonald as Head of Growth",
+      "description": "SYDNEY, September 24, 2025--Sapia.ai appoints Kim Macdonald as Head of Growth to drive enterprise expansion.",
+      "published_utc": "2025-09-24T17:29:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c3aaf42c2e38155cce357b00a911ede61416a0ccf140ccb1cbd444551875ef3f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136865859,
+      "datetime": 1758749340
+    },
+    {
+      "title": "Employees expect CFPB to terminate all enforcement actions",
+      "description": "The embattled regulator has dropped more than half its Biden-era docket, including cases against Apple and U.S. Bank. But insiders at the bureau say that's just the beginning.",
+      "published_utc": "2025-09-24T17:23:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d8c82b9f130f80ba84cb722fbc2c7bf7534c3f22cdc9b796bb303fd59d3cc618",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136865878,
+      "datetime": 1758749034
+    },
+    {
+      "title": "Intel Is Seeking an Investment From Apple as Part of Its Comeback Bid",
+      "description": "Apple and Intel also have discussed how to work more closely together, said the people, who asked not to be identified because the deliberations are private.  Shares of Intel rose 6.4% to $31.22 on Wednesday in New York after Bloomberg News reported on the discussions.  Apple closed down less than 1% at $252.31.",
+      "published_utc": "2025-09-24T17:16:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c95e167b4d0addc995fcac8b8eb9343cd2a40b4423d76b90c3f8d20be1739da7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136865842,
+      "datetime": 1758748585
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T04:23:34.627452+00:00",
+    "cache_key": "news_26b8f92a22a58ed7c9d1432cae33ed36",
+    "count": 5
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "id": "1f674190368e1ae768501d92d55b63a93a3b7481ff52c7ac5f0e50fea240de75",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Dow Jones Stocks Billionaires Were Piling Into This Year",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-10T09:40:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/10/3-dow-jones-stocks-billionaires-piling-this-year/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "SHW",
+        "NKE"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800200/analyst-stocks.jpg",
+      "description": "Billionaire investors are buying stocks in Amazon, Sherwin-Williams, and Nike, betting on their long-term growth potential. Amazon's cloud business and e-commerce dominance, Sherwin-Williams' competitive advantages, and Nike's turnaround plans are attracting these savvy investors.",
+      "keywords": [
+        "Amazon",
+        "Sherwin-Williams",
+        "Nike",
+        "Billionaire investors",
+        "Stock picks"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon's industry-leading cloud services business and e-commerce dominance are driving strong financial results, making it an attractive long-term investment for billionaire investors like Chase Coleman."
+        },
+        {
+          "ticker": "SHW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Sherwin-Williams has an excellent track record of delivering returns to shareholders and is well-positioned to benefit from a rebound in home remodeling and lower interest rates, attracting investments from billionaire managers like Ole Andreas Halvorsen and Chase Coleman."
+        },
+        {
+          "ticker": "NKE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Despite a challenging year, Nike's plans to refocus on sports and the hiring of a new CEO with fresh ideas are seen as positive catalysts for the company's turnaround, making it an attractive investment for billionaire investor Bill Ackman."
+        }
+      ]
+    }
+  ]
+}

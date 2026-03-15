@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stocks making the biggest moves after hours: AMD, Super Micro, Live Nation, Axon Enterprise and more",
+      "description": "These are the stocks posting the largest moves in extended trading.",
+      "published_utc": "2025-11-04T12:12:13",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=a0516d49d3ce39adf6ed3058e2c76b245991b76f4e324f222e05e3460fbca9ae",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108211784-17604498902025-10-14t121921z_1221478754_rc2lega250jk_rtrmadp_0_amd-oracle-ai.jpeg?v=1760449905&w=1920&h=1080",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137334054,
+      "datetime": 1762276333
+    },
+    {
+      "title": "AMD reports better-than-expected results but margin guidance only meets estimates",
+      "description": "The chipmaker is working on a major deal with OpenAI",
+      "published_utc": "2025-11-04T11:41:24",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=ef5f21dc808555201c5beacd7833db34d7d8ec5e0215de0d1841c0370af73c07",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108221304-1762281616912-gettyimages-2213400275-SENATE_AI.jpeg?v=1762282011&w=1920&h=1080",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137334044,
+      "datetime": 1762274484
+    },
+    {
+      "title": "AI Stocks Wipe Out Over $500B As Palantir Reminds Traders The Party Can't Last Forever",
+      "description": "A sharp tech selloff wiped out over $500B as Palantir, Nvidia, and others tumbled. Valuation concerns grow with CAPE ratio nearing dot-com bubble highs.",
+      "published_utc": "2025-11-04T11:40:28",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=b183b5d7807c64729641e701907a033b0e2d25ba833b412aeeb3be3c26876c16",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/04/Market--Down--Creative-Crash-Recession-C.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138743157,
+      "datetime": 1762274428
+    },
+    {
+      "title": "Pinterest shares plummet 20% on earnings miss, weak forecast",
+      "description": "Pinterest shares tanked on Tuesday after the company reported third-quarter financial results that missed on earnings per share and provided weak guidance.",
+      "published_utc": "2025-11-04T11:07:45",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=52a900d2d6ed606fa7ea97b33fae561a4ba98fe064c33b6e8b4d08b9ebdd02e8",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108218684-1761753493833-gettyimages-2242863595-kokovlis-notitle251025_np1Gn.jpeg?v=1761753534&w=1920&h=1080",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137334056,
+      "datetime": 1762272465
+    },
+    {
+      "title": "Perplexity Says Amazon Is 'Bullying' After Legal Threat Over AI Shoppers",
+      "description": "Perplexity Says Amazon Is 'Bullying' After Legal Threat Over AI Shoppers",
+      "published_utc": "2025-11-04T10:37:35",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=2d225e0237fb6f5c479235394cba337ee6ea9a277adeb69d1d4422514f4bd96f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137456029,
+      "datetime": 1762270655
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:31:38.389129+00:00",
+    "cache_key": "news_6e1f52db98b008446f6a321eafc2f22e",
+    "count": 5
+  }
+}

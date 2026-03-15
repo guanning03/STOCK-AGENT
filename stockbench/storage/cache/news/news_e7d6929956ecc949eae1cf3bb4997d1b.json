@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "White House Explores Rules That Would Upend Shareholder Voting",
+      "description": "White House Explores Rules That Would Upend Shareholder Voting",
+      "published_utc": "2025-11-11T15:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=2981e25bc6c094d2b4b574953b69a450beb0c11b4b53d77e3ea63aef0fba54cf",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137456147,
+      "datetime": 1762891200
+    },
+    {
+      "title": "PNC Financial's Branch Expansion Push: A Smart Growth Move?",
+      "description": "PNC's $2B plan to open 300 branches by 2030 aims to boost growth, deepen customer ties, and expand its U.S. footprint.",
+      "published_utc": "2025-11-11T13:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b51c58a7898f550f172e1c9b634e81ae1f1986550851d9a6ef3de83c6907bee0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137449879,
+      "datetime": 1762885200
+    },
+    {
+      "title": "Dow rallies 300 points to new record with shutdown set to end Wednesday: Live updates",
+      "description": "Tuesday saw a tale of two markets emerge — the 30-stock Dow rallied more than 550 points to close at a record high, while the Nasdaq Composite slipped.",
+      "published_utc": "2025-11-11T13:02:31",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=57f37977ae01e1ff16012941b1216d76f5a33692ee85a7dbd95ac41ebbb99d31",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108223050-1762951213250-108223050-1762529069072-gettyimages-2245509844-anotherday142727029_rlpy8e5r.jpg?v=1762951220&w=1920&h=1080",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137460456,
+      "datetime": 1762884151
+    },
+    {
+      "title": "'That World Has Changed': Alex Gorsky on Shift to Regionalization",
+      "description": "Alex Gorsky, board director for Apple, IBM, and JPMorgan Chase, discusses the end of the 30-year globalization era as businesses begin to take a more regionalized approach.",
+      "published_utc": "2025-11-11T11:59:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f8c9d46b0f8c239ef275a7e7abcdca0711854f11002128303dcbdbfe5af9e449",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137448492,
+      "datetime": 1762880340
+    },
+    {
+      "title": "Morgan Stanley joins rivals in rolling out private company research, memo shows",
+      "description": "(Reuters) -Morgan Stanley launched a dedicated private company research page on Tuesday, according to an internal memo seen by Reuters,​ as investors' interest in high-growth startups rises.  Wall Street heavyweights have increasingly ‌ventured into research coverage on privately held companies this year as some of the world's most valuable startups, ‌including ChatGPT-parent OpenAI and Elon Musk's SpaceX, have stayed away from going public for longer than similar companies in the past.  In July, JPMorgan Chase, the largest U.S. bank by assets, began publishing research notes on prominent private companies shaping industries, and ⁠rival Citigroup followed days later with ‌a focus on rapidly growing tech firms.",
+      "published_utc": "2025-11-11T10:55:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3b8398777f9d20a7c826b8ce790141c9b077641d1b2f7022091fa97099b9cd7c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137448665,
+      "datetime": 1762876532
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:53:41.741939+00:00",
+    "cache_key": "news_e7d6929956ecc949eae1cf3bb4997d1b",
+    "count": 5
+  }
+}

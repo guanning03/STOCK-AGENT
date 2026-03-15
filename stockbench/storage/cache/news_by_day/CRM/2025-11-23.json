@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Tracking Bridgewater Associates 13F Portfolio - Q3 2025 Update",
+      "description": "Get a 2025 update on Bridgewater Associatesâ $25.53B portfolio, top stock moves, and diversification strategies.",
+      "published_utc": "2025-11-23T15:54:32",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=61d8296e69b080fa1b002c2b3fd9c2349cb2b455745d094b9d4ee71ffbc1a8f7",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1333504671/image_1333504671.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137585679,
+      "datetime": 1763931272
+    },
+    {
+      "title": "Consumer Tech News (Nov 17-21): U.S. Jobs Surge in September, Trump Considers Delaying Semiconductor Tariffs & More",
+      "description": "U.S. labor market rebounds in September, boosting growth optimism and raising questions over a potential Federal Reserve rate cut in December. Trump administration considers delaying semiconductor tariffs, signaling a major policy shift for U.S. tech imports and global supply chains.",
+      "published_utc": "2025-11-23T05:01:23",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=921784da4c0ff0c2e1e2508f77f44b80b0400f8563394f23d0fee7e6bd06b7b3",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/23/Chips--semiconductor-shutterstock-219855.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138403767,
+      "datetime": 1763892083
+    },
+    {
+      "title": "Microsoft faces uphill climb to turn enterprise dominance into widespread AI chatbot adoption",
+      "description": "At Microsoft's annual Ignite conference this week, IT buyers explained why Microsoft isn't seeing runaway success with its Copilot AI assistant.",
+      "published_utc": "2025-11-23T03:00:01",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=d99dbc82bc4daed852a714b4b61acecc138c7fd7c33c5ce287e3aed2b80a9619",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108166076-1751325646064-gettyimages-2150286124-AFP_34QG9T9.jpeg?v=1763774719&w=1920&h=1080",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137584083,
+      "datetime": 1763884801
+    }
+  ]
+}

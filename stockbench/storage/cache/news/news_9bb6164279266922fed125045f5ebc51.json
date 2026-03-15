@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "id": "d3ae39efb7df929ea8443d117d48ec414bbabf766522af4c39f9b5ba248bf832",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Cold Milling Machine Market is Projected to Reach US$ 3,259.7 Million, Growing at a CAGR of 4.6% by 2034 | Fact.MR Report",
+      "author": "Fact.Mr",
+      "published_utc": "2024-12-16T11:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2024/12/16/2997317/0/en/Cold-Milling-Machine-Market-is-Projected-to-Reach-US-3-259-7-Million-Growing-at-a-CAGR-of-4-6-by-2034-Fact-MR-Report.html",
+      "tickers": [
+        "ASTE",
+        "CAT"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/f482b854-04d1-4f4e-9237-f7c7c6823e10",
+      "description": "The global cold milling machine market is expected to grow at a CAGR of 4.6% from 2024 to 2034, driven by infrastructure development and technological advancements. Medium-sized machines are preferred due to their versatility, and the market is dominated by asphalt road applications.",
+      "keywords": [
+        "cold milling machine",
+        "infrastructure development",
+        "technological advancements",
+        "asphalt road"
+      ],
+      "insights": [
+        {
+          "ticker": "ASTE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Astec Industries as one of the leading players driving innovation in the cold milling machines market, indicating a positive outlook for the company."
+        },
+        {
+          "ticker": "CAT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Caterpillar's introduction of VisionLink Productivity for its cold planers, which offers advanced features to improve productivity and reduce operating costs, indicating a positive outlook for the company."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:29:49.726100+00:00",
+    "cache_key": "news_9bb6164279266922fed125045f5ebc51",
+    "count": 1
+  }
+}

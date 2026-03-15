@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "title": "Amgen (NASDAQ:AMGN) jumps 4.2% this week, though earnings growth is still tracking behind three-year shareholder returns",
+      "description": "Investors can buy low cost index fund if they want to receive the average market return. But if you invest in...",
+      "published_utc": "2025-09-23T07:00:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b0eb9a585913736214406bba7ae15bcecd37368d8c2c0d7c0635e2383ba10ec5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136850873,
+      "datetime": 1758625226
+    },
+    {
+      "id": "fcf1a2960ddc18daca057f6ae6406b366efe4951503868837815fea7afdcdfb6",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Fc and Glycoengineered Antibodies Market Report 2025: Antibody Therapeutics Surge with 550+ Clinical Pipeline Molecules - Fc Innovations Leading the Charge",
+      "author": "Researchandmarkets.Com",
+      "published_utc": "2025-09-23T14:59:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/09/23/3154927/28124/en/Fc-and-Glycoengineered-Antibodies-Market-Report-2025-Antibody-Therapeutics-Surge-with-550-Clinical-Pipeline-Molecules-Fc-Innovations-Leading-the-Charge.html",
+      "tickers": [
+        "ABBV",
+        "AMGN",
+        "AZN"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The global Fc and glycoengineered antibodies market is valued at $38.8 billion in 2025, with over 550 clinical pipeline molecules and significant growth potential, particularly in oncological applications.",
+      "keywords": [
+        "antibody therapeutics",
+        "Fc engineering",
+        "glycoengineered antibodies",
+        "oncology",
+        "biopharmaceuticals"
+      ],
+      "insights": [
+        {
+          "ticker": "ABBV",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Highlighted as a key player in the Fc and glycoengineered antibodies market with promising development pipeline"
+        },
+        {
+          "ticker": "AMGN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Listed among key market players with potential for growth in antibody therapeutics"
+        },
+        {
+          "ticker": "AZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Recognized as a significant contributor in the Fc engineered antibodies market"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T04:17:15.371389+00:00",
+    "cache_key": "news_37f448a63ad2a836089730bdd85c91cb",
+    "count": 2
+  }
+}

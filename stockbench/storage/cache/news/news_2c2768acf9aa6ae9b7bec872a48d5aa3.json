@@ -1,0 +1,183 @@
+{
+  "items": [
+    {
+      "title": "Billionaire Chase Coleman Has Formed His Own \"Magnificent Seven\" and It's Even Better Than the Original",
+      "description": "The new \"Magnificent Seven\" is better suited for today's current market.",
+      "published_utc": "2025-12-27T12:57:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5e22b47c4a2d6b682ef4dec1e23d880449654dcaeace30d0d98cb71001259290",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137930670,
+      "datetime": 1766858220
+    },
+    {
+      "title": "AI Bubble Risk In Our Cautious 2026 S&P 500 Outlook",
+      "description": "",
+      "published_utc": "2025-12-27T07:17:21",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=093f0804c1fd6f270c65691c8d6272abdcf4583678fe079c3686fd2f22413466",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137916094,
+      "datetime": 1766837841
+    },
+    {
+      "title": "One year on from the UK's grand AI plan: Has its infrastructure buildout been a success?",
+      "description": "Hefty financial commitments from tech giants are positive signals, but big challenges remain for the U.K. to fulfil its ambitions.",
+      "published_utc": "2025-12-26T21:09:12",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=779bc61f617155dfe82edea3d0f8fe4aee8cffa7c0640dbaa122a4cc1c68022a",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108245182-1766501556102-GBR1-LC1_EU_AE_01_1.jpg?v=1766501657&w=1920&h=1080",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137916101,
+      "datetime": 1766801352
+    },
+    {
+      "id": "af50d6ccac3bbde8693a7c120b3c2387a445d39d6bfd0ff1054f6c64b82ccb8a",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "VONG vs. MGK: Is Diversified Growth or Mega-Cap Concentration Better for Investors?",
+      "author": "Katie Brockman",
+      "published_utc": "2025-12-27T23:25:18Z",
+      "article_url": "https://www.fool.com/coverage/etfs/2025/12/27/vong-vs-mgk-is-diversified-growth-or-mega-cap-concentration-better-for-investors/?source=iedfolrf0000001",
+      "tickers": [
+        "MGK",
+        "VONG",
+        "AAPL",
+        "MSFT",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F93b56fbcd074a01f33741ab9a66bb5b3e30875ca-1401x1251.png%3Fw%3D1401%26h%3D1251&w=1200&op=resize",
+      "description": "Vanguard's VONG and MGK are both low-cost growth ETFs with identical 0.07% expense ratios, but differ significantly in diversification. MGK holds 66 mega-cap stocks with 58% tech exposure and outperformed VONG by 2.13% over the past year, while VONG holds 391 stocks with 55% tech exposure and lower volatility. VONG's broader diversification offers lower risk, while MGK's concentration provides higher potential returns but with greater downside risk.",
+      "keywords": [
+        "ETF comparison",
+        "growth stocks",
+        "diversification vs concentration",
+        "mega-cap stocks",
+        "technology sector",
+        "risk management",
+        "Vanguard funds"
+      ],
+      "insights": [
+        {
+          "ticker": "MGK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "MGK shows stronger recent performance (17.59% 1-year return) and higher concentration in mega-cap tech stocks, but carries higher volatility (1.24 beta) and maximum drawdown (-36.02%). The article presents it as a higher-risk, higher-reward option without clear endorsement."
+        },
+        {
+          "ticker": "VONG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "VONG is presented favorably for its broader diversification (391 holdings), lower risk metrics (1.17 beta, -32.72% max drawdown), higher dividend yield (0.45%), and stability. The article suggests it may be the better choice for risk-conscious investors despite slightly lower returns."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Apple is mentioned only as a top holding in both ETFs without specific commentary on the company itself."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Microsoft is mentioned only as a top holding in both ETFs without specific commentary on the company itself."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Nvidia is mentioned only as a top holding in both ETFs without specific commentary on the company itself."
+        }
+      ]
+    },
+    {
+      "id": "ef3d56e5a99ead9bd29eb90a8dfdcc3fe1cbe024d2946d476891d922dd340c51",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Better High-Return ETF: SOXL vs. SPXL",
+      "author": "Robert Izquierdo",
+      "published_utc": "2025-12-27T20:05:01Z",
+      "article_url": "https://www.fool.com/coverage/etfs/2025/12/27/better-high-return-etf-soxl-vs-spxl/?source=iedfolrf0000001",
+      "tickers": [
+        "SOXL",
+        "SPXL",
+        "AMD",
+        "AVGO",
+        "NVDA",
+        "AAPL",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F93b56fbcd074a01f33741ab9a66bb5b3e30875ca-1401x1251.png%3Fw%3D1401%26h%3D1251&w=1200&op=resize",
+      "description": "SOXL and SPXL are both 3x leveraged ETFs designed for short-term trading. SOXL focuses exclusively on semiconductors with higher volatility and 1-year returns of 38.6%, while SPXL tracks the broader S&P 500 with more diversification and 27.2% 1-year returns. SOXL experienced a steeper 5-year drawdown of 90.51% versus SPXL's 63.84%, making SPXL relatively safer but with a slightly higher expense ratio.",
+      "keywords": [
+        "leveraged ETFs",
+        "semiconductor sector",
+        "S&P 500",
+        "artificial intelligence",
+        "short-term trading",
+        "volatility",
+        "daily leverage reset",
+        "sector concentration"
+      ],
+      "insights": [
+        {
+          "ticker": "SOXL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "SOXL delivered strong 1-year returns of 38.6% and benefits from the hot AI/semiconductor sector. However, the positive sentiment is tempered by its extreme volatility and 90.51% max drawdown, making it suitable only for risk-tolerant traders."
+        },
+        {
+          "ticker": "SPXL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "SPXL offers more balanced risk-adjusted returns with 27.2% 1-year performance and significantly lower max drawdown of 63.84%. Its broader S&P 500 diversification provides better downside protection, making it the relatively safer leveraged option."
+        },
+        {
+          "ticker": "AMD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "AMD is mentioned as a top holding in SOXL, benefiting from semiconductor sector strength, but no specific company analysis is provided in the article."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Broadcom is listed as a major SOXL holding in the semiconductor sector, but receives no specific commentary beyond its portfolio inclusion."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia is highlighted as a top holding in both SOXL and SPXL, positioned to benefit from the AI boom mentioned as a key driver of semiconductor sector strength."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Apple is mentioned as a top SPXL holding but receives no specific analysis or commentary in the article."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Microsoft is listed as a top SPXL holding but is not specifically analyzed or discussed in the article."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T09:09:03.271511+00:00",
+    "cache_key": "news_2c2768acf9aa6ae9b7bec872a48d5aa3",
+    "count": 5
+  }
+}

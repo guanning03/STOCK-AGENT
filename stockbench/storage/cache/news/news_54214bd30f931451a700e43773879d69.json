@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Podcast: Trump Sends More Tariff Letters; Nasdaq Climbs to Record",
+      "description": "Elsewhere in financial markets, drugmaker Merck strikes a roughly $10 billion deal to buy Verona Pharma. The Justice Department’s criminal healthcare-fraud unit investigates UnitedHealth’s Medicare billing practices.",
+      "published_utc": "2025-07-09T18:35:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=59080d3b5bdf05c7e628331374714a573a806354444b10e5666e8c67e45edb70",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135855386,
+      "datetime": 1752100513
+    },
+    {
+      "title": "Nasdaq Rises to Record as Traders Parse Fed Minutes",
+      "description": "The Nasdaq Composite hit a fresh record high on Wednesday, fueled by a tech rally, as traders digest",
+      "published_utc": "2025-07-09T17:04:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=66c914f30f844661a92b2a4a29179d33e98ee123a797b260f28ee5a48f9cf2b2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135839013,
+      "datetime": 1752095089
+    },
+    {
+      "title": "Sector Update: Health Care Stocks Softer Wednesday Afternoon",
+      "description": "Health care stocks were edging lower Wednesday afternoon, with the NYSE Health Care Index and the He",
+      "published_utc": "2025-07-09T14:01:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8e826d2ff10d79664071a6d71678cda1e830b4741b9215c43a1dc84b8b8221c9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135837174,
+      "datetime": 1752084087
+    },
+    {
+      "title": "Equities Rise Ahead of FOMC Minutes; Nvidia Briefly Hits $4 Trillion Market Cap",
+      "description": "US benchmark equity indexes were higher intraday as markets awaited minutes of the Federal Reserve's",
+      "published_utc": "2025-07-09T13:58:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4543f4fdbc263d3aa14110cc2ea33b382fa6482ec54f7fc5c72f5d8af866938f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135839322,
+      "datetime": 1752083920
+    },
+    {
+      "title": "Stock Market Today: Dow Rises, Nasdaq At Record High As Nvidia Hits $4 Trillion Mark",
+      "description": "Stock Market Today: Dow Rises, Nasdaq At Record High As Nvidia Hits $4 Trillion Mark",
+      "published_utc": "2025-07-09T12:38:36",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=5c54b3b1f892e46880352bf9998bf64dee63f85771e764706e7298d36a60a7cb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135854769,
+      "datetime": 1752079116
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T00:55:53.586109+00:00",
+    "cache_key": "news_54214bd30f931451a700e43773879d69",
+    "count": 5
+  }
+}

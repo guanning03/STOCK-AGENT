@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Tech CEOs boast and bicker about AI at Davos",
+      "description": "There were times at this week’s meeting of the World Economic Forum when Davos seemed transformed into a high-powered tech conference.",
+      "published_utc": "2026-01-24T15:00:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=778f03aec09172e9066d25a70ba02fc8e46e3a127695316ba18d1dca9b8db9a2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138248523,
+      "datetime": 1769284846
+    },
+    {
+      "title": "Better Agentic AI Stock: SoundHound AI vs. Salesforce",
+      "description": "SoundHound and Salesforce are betting big on agentic AI.",
+      "published_utc": "2026-01-24T11:57:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dbbd2d9c4f8b8b21d67bd7e577a2d90f7f2f7807c87ab1242ba3ddeb22275a21",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138246834,
+      "datetime": 1769273820
+    },
+    {
+      "title": "Apple, Microsoft, Meta To Report Results; Fed's Interest Rate Decision In Focus",
+      "description": "Wall Street Week Ahead: key earnings (AAPL, MSFT, META, TSLA), Fed rate decision, IPOs, dividends and volatility picks. Read more details here.",
+      "published_utc": "2026-01-24T06:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=74334fe78feae1e66ef0e5cd6f369b1ea035b40b2e233f4d21f65953514a6897",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138245964,
+      "datetime": 1769252400
+    },
+    {
+      "title": "Therapists say they see more workers anxious about AI: It's 'a fear of becoming obsolete'",
+      "description": "More workers are talking about their anxiety around artificial intelligence in therapy, therapists say.",
+      "published_utc": "2026-01-24T04:35:02",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=008fe20637f2177ecc141785c98a0dd6a7444d8b87d5e084f64fd6f6a3cbb38e",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108244680-1766412199045-gettyimages-1301280991-dsc02294.jpeg?v=1766412227&w=1920&h=1080",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138246543,
+      "datetime": 1769247302
+    },
+    {
+      "title": "How The New Price Target Is Reshaping The Salesforce (CRM) Story And Fair Value View",
+      "description": "Why the Salesforce Price Target Just Changed Salesforce just saw its price target updated, and that shift reflects a fresh read on the company’s position in the current market and how analysts are interpreting its latest moves and outlook commentary. With expectations being reset, the focus is now on what assumptions have changed around its growth profile, competitive footing, and execution risks. Stay tuned to see how you can keep on top of these evolving views and track future updates to...",
+      "published_utc": "2026-01-24T02:08:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=278549f5b1ffb6238e92b02ce84c8c0f0815e7011a8cf47a4eede391e55a6b50",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138235911,
+      "datetime": 1769238501
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:56:08.862128+00:00",
+    "cache_key": "news_be213ba2b6ae85d07efc8e3cd906be08",
+    "count": 5
+  }
+}

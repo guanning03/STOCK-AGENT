@@ -1,0 +1,114 @@
+{
+  "items": [
+    {
+      "id": "2c0e47bfcd06b99b73f3f982901b6510bb38b31d4cadd74bd9fe3328f4377838",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "CD40 Targeting Therapy Clinical Trials Anti CD40 Antibody Therapy Market Opportunity Assessment Insight",
+      "author": "Not Specified",
+      "published_utc": "2025-10-14T17:52:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/10/14/3166572/0/en/CD40-Targeting-Therapy-Clinical-Trials-Anti-CD40-Antibody-Therapy-Market-Opportunity-Assessment-Insight.html",
+      "tickers": [
+        "AMGN",
+        "SNY",
+        "BIIB",
+        "GMAB"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/4b0593d4-0134-4313-866b-b56a11c71af7",
+      "description": "CD40-targeting therapies are emerging as a groundbreaking approach in treating autoimmune diseases, cancer, and infectious diseases by modulating immune responses more precisely and efficiently.",
+      "keywords": [
+        "immunotherapy",
+        "CD40",
+        "autoimmune disease",
+        "cancer treatment",
+        "clinical trials"
+      ],
+      "insights": [
+        {
+          "ticker": "AMGN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a leader in CD40-targeted therapy development in the US"
+        },
+        {
+          "ticker": "SNY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a leader in CD40-targeted therapy development in the US"
+        },
+        {
+          "ticker": "BIIB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a leader in CD40-targeted therapy development in the US"
+        },
+        {
+          "ticker": "GMAB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Developing innovative DuoBody technology for bispecific antibodies to enhance immune stimulation"
+        }
+      ]
+    },
+    {
+      "title": "I-Mab Biopharma Stock: Caution Warranted After Huge Surge",
+      "description": "I-Mab Biopharma surged on promising givastomig results in gastric cancer. Click for my updated look at IMAB stock and why I am remaining neutral.",
+      "published_utc": "2025-10-14T14:15:52",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b80c05aac930259c2b7cffa31faa8a5ffd8940a4dfeb13891be07fce641a90a0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1295160689/image_1295160689.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137089117,
+      "datetime": 1760465752
+    },
+    {
+      "title": "Amgen (AMGN) Announces Launch of AmgenNow",
+      "description": "Amgen Inc. (NASDAQ:AMGN) is one of the Best Wide Moat Stocks to Buy Right Now. The company possesses a wide economic moat, which is backed by its intellectual property and brand reputation. On October 6, the company announced the launch of AmgenNow, which is a new direct-to-patient program starting with Repatha® (evolocumab). This comes after the […]",
+      "published_utc": "2025-10-14T13:06:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac7a082fa0697159109906ea7f8b119169e675a3c7d3a9e294d03864c768b79d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137085915,
+      "datetime": 1760461575
+    },
+    {
+      "title": "Johnson & Johnson Q3 Earnings Surprise, Icotrokinra Shines Again",
+      "description": "Johnson & Johnson's Q3 2025 earnings beat forecasts, with strong oncology sales and raised guidance. Click for my updated look at JNJ stock prospects.",
+      "published_utc": "2025-10-14T04:58:15",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2d338e41d2ed5636b2c4f31ccf41db9670c3f47ddb04a5f8f264d19468c2cead",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2212125573/image_2212125573.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137076426,
+      "datetime": 1760432295
+    },
+    {
+      "title": "SCHD: The Best Time In Years To Buy This Dividend Powerhouse",
+      "description": "Discover why SCHD's recent underperformance could signal opportunity. Learn why now may be the best time to invest in SCHD.",
+      "published_utc": "2025-10-14T04:00:24",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d87cd0e3b05f44c68962de7185c5a3ebeb759ee76eb9d23f41c8b88286222a71",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1480116578/image_1480116578.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137076239,
+      "datetime": 1760428824
+    }
+  ]
+}

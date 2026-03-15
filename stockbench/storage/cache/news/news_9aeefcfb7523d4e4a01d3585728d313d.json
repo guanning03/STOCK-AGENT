@@ -1,0 +1,42 @@
+{
+  "items": [
+    {
+      "id": "f58b827fd69cc4e451e6b0dcb3c29b1d83b308b8cdee15086e7c1f0ab6f18d82",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Les schémas thérapeutiques à base de DARZALEX® (daratumumab) par voie SC améliorent les résultats en matière de MRM négative et de survie sans progression dans le myélome multiple nouvellement diagnostiqué, et en matière de survie globale dans l’amylose AL",
+      "author": "N/A",
+      "published_utc": "2024-12-11T18:25:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2024/12/11/2995685/0/fr/Les-sch%C3%A9mas-th%C3%A9rapeutiques-%C3%A0-base-de-DARZALEX-daratumumab-par-voie-SC-am%C3%A9liorent-les-r%C3%A9sultats-en-mati%C3%A8re-de-MRM-n%C3%A9gative-et-de-survie-sans-progression-dans-le-my%C3%A9lome-multiple-nou.html",
+      "tickers": [
+        "JNJ"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/85723da3-163a-4a4d-bb36-0e46ec3998e6",
+      "description": "Daratumumab SC regimens demonstrate improved outcomes in newly diagnosed multiple myeloma and AL amyloidosis, including higher rates of minimal residual disease negativity and improved progression-free and overall survival.",
+      "keywords": [
+        "multiple myeloma",
+        "AL amyloidosis",
+        "daratumumab",
+        "minimal residual disease",
+        "progression-free survival",
+        "overall survival"
+      ],
+      "insights": [
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Janssen-Cilag International NV is a Johnson & Johnson company, and the positive results from the daratumumab SC studies reflect well on Johnson & Johnson's innovative medicine efforts."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:19:05.344637+00:00",
+    "cache_key": "news_9aeefcfb7523d4e4a01d3585728d313d",
+    "count": 1
+  }
+}

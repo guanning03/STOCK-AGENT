@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Salesforce.com (CRM) Stock Declines While Market Improves: Some Information for Investors",
+      "description": "Salesforce.com (CRM) closed the most recent trading day at $287.63, moving -1.21% from the previous trading session.",
+      "published_utc": "2025-05-19T17:45:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=63613516166f49852b28865c510e680cab4493aecdc8e475988bb77982352c47",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134609072,
+      "datetime": 1747691113
+    },
+    {
+      "title": "Salesforce Inc. stock underperforms Monday when compared to competitors",
+      "description": "Salesforce Inc. stock underperforms Monday when compared to competitors",
+      "published_utc": "2025-05-19T12:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=6635fe3c9946bd50dd4607fcddd56d8699a1c1f05be93e438a16ddc5b30385cf",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134612713,
+      "datetime": 1747672260
+    },
+    {
+      "title": "US GSA Says Salesforce To Offer Slack Enterprise Grid At Reduced Price To Federal Agencies",
+      "description": "US GSA: * US GSA: SALESFORCE TO OFFER SLACK ENTERPRISE GRID ATTEMPORARYPRICE REDUCTION OF 90% TO EVERY FEDERAL AGENCY - WEBSITE * US GSA: SALESFORCE TO OFFER ALMOST 70%...",
+      "published_utc": "2025-05-19T08:55:07",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=4bf563c637fac395ebf4186117c343b2e69ccb4cfa31585ffd9aa887a4af1714",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134590235,
+      "datetime": 1747659307
+    },
+    {
+      "title": "Salesforce Engages with Takeda to Bring Cutting-Edge AI-Powered Customer Experience Platform to Life Sciences Industry",
+      "description": "SAN FRANCISCO, May 19, 2025--Salesforce (NYSE:CRM), the #1 AI CRM, today announced that Takeda has selected Salesforce Life Sciences Cloud for Customer Engagement to strengthen its involvement with healthcare professionals seamlessly. The company will leverage Salesforce’s deeply unified platform, including Agentforce and Data Cloud, to deploy personalized AI agents, supporting operations from medical to commercial and patient support functions.",
+      "published_utc": "2025-05-19T08:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9edc24df904878465d31e58a547274a9dd1caa9ad42fd2cd81d07f4e9e7eda7b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134577228,
+      "datetime": 1747656000
+    },
+    {
+      "title": "Has Salesforce, Inc.'s (NYSE:CRM) Impressive Stock Performance Got Anything to Do With Its Fundamentals?",
+      "description": "Most readers would already be aware that Salesforce's (NYSE:CRM) stock increased significantly by 18% over the past...",
+      "published_utc": "2025-05-19T07:00:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=950ce540623980829c5f7c752455d307e75c77f802fbba5fc7e989ba0d9f5b03",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134577229,
+      "datetime": 1747652420
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T23:55:22.387840+00:00",
+    "cache_key": "news_52d6db8c829e6ac84113dfada2c85813",
+    "count": 5
+  }
+}

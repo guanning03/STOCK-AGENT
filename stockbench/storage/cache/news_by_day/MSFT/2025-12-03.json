@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Software startup deploys Singapore’s first quantum computer for commercial use",
+      "description": "Singapore-based software firm Horizon Quantum Computing has become the first private firm to deploy a quantum computer for commercial use in the city-state.",
+      "published_utc": "2025-12-03T18:39:02",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=525fafebdc09e12a0e894104e9cc5d6451916d2016c79acdc6eae0ff5eea63e6",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108236416-1764822837230-Screenshot_2025-12-04_123338.png?v=1764823524&w=1920&h=1080",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137683866,
+      "datetime": 1764805142
+    },
+    {
+      "title": "Anthropic CEO: Some AI companies ‘YOLOing,’ pulling the ‘risk dial too far’",
+      "description": "Anthropic CEO Dario Amodei warns that some competitors are taking overspending risks too far.",
+      "published_utc": "2025-12-03T17:37:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c8a62d37f489b45b918c2d29cb2142a2670c223289556ff8c927a56ee44f2531",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137677585,
+      "datetime": 1764801458
+    },
+    {
+      "title": "Apple, Nvidia, Verizon, IBM, & more: 2025's stock pick standouts",
+      "description": "Apple (AAPL), Nvidia (NVDA), Amazon (AMZN), and Microsoft (MSFT) are just some of the stocks in focus as Yahoo Finance Data and Markets Editor Jared Blikre and Trader Talk host Kenny Polcari take a closer look at the standout names of 2025. Watch the video above to hear more top stock picks and key investment themes. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.",
+      "published_utc": "2025-12-03T17:35:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4dc88741c2fc1376a423f05f3faa818196bf9f54ad485dbcda6fd4bf6a6e7e3a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137677593,
+      "datetime": 1764801351
+    },
+    {
+      "title": "Walmart Stock Rallies, Pushing Market Cap Above $900 Billion",
+      "description": "Walmart's market value closed above a $900 billion for the first time on Wednesday. The retailer’s stock rose 1.8%, making it the 12th U.S. company to surpass the milestone, according to Dow Jones Market Data.",
+      "published_utc": "2025-12-03T16:58:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eb40673094d3dd4562cdfe52f4f41a2bc39b34be91f39af1fa416f82d4ac32d0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137677594,
+      "datetime": 1764799124
+    },
+    {
+      "title": "Dow Hits 3-Week High as Fresh Data Reinforce Fed Rate Cut Bets",
+      "description": "US equity benchmarks rose on Wednesday, with the Dow Jones Industrial Average notching its highest c",
+      "published_utc": "2025-12-03T16:55:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4f0867d2f5d3db099aa9e32c9cef27abdf28cc5a5cef329f1cc93395bbb2fb72",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137677618,
+      "datetime": 1764798904
+    }
+  ]
+}

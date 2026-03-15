@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "id": "cf5e79c98ce060ae7b1209edab3ebe79227b7337b563300a3161c461a214907f",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Billionaires Couldn't Get Enough of This ETF in 2024. Is It Right for You in 2025?",
+      "author": "Jeremy Bowman",
+      "published_utc": "2025-01-01T11:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/01/billionaires-couldnt-get-enough-of-this-etf-in/?source=iedfolrf0000001",
+      "tickers": [
+        "VOO",
+        "BRK.A",
+        "BRK.B",
+        "SPY",
+        "IVV"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802289/bull-market-rising-stock-charts-financial-newspaper-quotes-invest-getty.jpg",
+      "description": "The article discusses the Vanguard S&P 500 ETF (VOO) and its popularity among billionaire investors, including Warren Buffett. It highlights the ETF's low cost, diversification, and strong historical performance as reasons for its appeal.",
+      "keywords": [
+        "S&P 500",
+        "ETF",
+        "Vanguard",
+        "Billionaire investors",
+        "Warren Buffett"
+      ],
+      "insights": [
+        {
+          "ticker": "VOO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the Vanguard S&P 500 ETF's low cost, diversification, and strong historical performance as reasons for its appeal among billionaire investors and the general public."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Warren Buffett's Berkshire Hathaway owns shares of the Vanguard S&P 500 ETF, indicating a positive sentiment towards the investment."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Warren Buffett's Berkshire Hathaway owns shares of the Vanguard S&P 500 ETF, indicating a positive sentiment towards the investment."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that some billionaire investors own shares of other S&P 500 ETFs, such as the SPDR S&P 500 ETF, suggesting a positive sentiment towards S&P 500 index funds in general."
+        },
+        {
+          "ticker": "IVV",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that some billionaire investors own shares of the iShares Core S&P 500 ETF, indicating a positive sentiment towards S&P 500 index funds."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:14:53.814751+00:00",
+    "cache_key": "news_5a398ff63870277bda4f944b27dae42b",
+    "count": 1
+  }
+}

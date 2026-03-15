@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Mar-A-Largo Accord Will Create An Asset Bubble",
+      "description": "Discover how global markets react to U.S. trade tariffs and explore historical parallels offering insights into the impact of current trade policies. Click for more.",
+      "published_utc": "2025-05-07T12:51:51",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=01a58c687d47cb1c7519ef0652aee240860d745c9f8aea5b3c7eda2189daf5a3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1398473151/image_1398473151.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134308348,
+      "datetime": 1746636711
+    },
+    {
+      "title": "Fed's Wait And See Stance Could Persist Through To September",
+      "description": "Another hold from the Federal Reserve with an acknowledgement that uncertainty has increased with more upside risk for both inflation and unemployment. Click to read.",
+      "published_utc": "2025-05-07T11:53:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2e32827329f73ffb8dd6e0e7544ebe49d079592411a0864df329ed37cd509a60",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1490939019/image_1490939019.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134304126,
+      "datetime": 1746633180
+    },
+    {
+      "title": "'Trump To Rescind Global Chip Curbs Amid AI Restrictions Debate' - Bloomberg News",
+      "description": "https://www.bloomberg.com/news/articles/2025-05-07/trump-to-rescind-global-chip-curbs-amid-ai-restrictions-debate",
+      "published_utc": "2025-05-07T11:48:14",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=25fb55c81a833d731ef7e455efd5636ae8c5325e69ed9df9f4fa2e094852c2f9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138677055,
+      "datetime": 1746632894
+    },
+    {
+      "title": "Fed Watch: Still Waiting",
+      "description": "The Fed held rates steady at 4.25%â4.50% at the May FOMC meeting, reinforcing a cautious, data-dependent stance amid ongoing tariff-related economic uncertainty. Click to read.",
+      "published_utc": "2025-05-07T11:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=248363736fcbd250ae4c15675a0ebf77ef514986291d15f72145e40d80d0adb1",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2163652419/image_2163652419.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134304217,
+      "datetime": 1746632700
+    },
+    {
+      "title": "Tariff Tension: Will The Damage To Supply Chains Mean Empty Shelves And The Start Of An Economic Contraction?",
+      "description": "Signs of economic strain are beginning to surface across US supply chains, inventories, and consumer sentiment. Click to read.",
+      "published_utc": "2025-05-07T11:25:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=299554584531e34223defe98975cfb9a345fd8ea7f027cac5fe42ddc3beb1ab2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1444526032/image_1444526032.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134302194,
+      "datetime": 1746631500
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T23:43:35.879616+00:00",
+    "cache_key": "news_b66fcdc407ed1ffcc9b2d32f47181fb8",
+    "count": 5
+  }
+}

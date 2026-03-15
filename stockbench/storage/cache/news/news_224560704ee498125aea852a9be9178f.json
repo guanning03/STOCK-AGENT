@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Boeing workers who build fighter jets plan to go on strike",
+      "description": "Boeing workers who build fighter jets plan to go on strike",
+      "published_utc": "2025-08-03T15:48:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=671d646fd14dd7e16353ab904d3e70b97ffb74de7df70c4df0998b9bc2b47240",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136210059,
+      "datetime": 1754250480
+    },
+    {
+      "title": "Boeing Defense Workers Set to Strike Monday",
+      "description": "The union representing about 3,200 St. Louis-area workers has rejected the company’s latest contract offer.",
+      "published_utc": "2025-08-03T15:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=14adab64e347a964b98379223a71055b88cbd293985186193d7ca7d4aa627a2f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136195527,
+      "datetime": 1754248800
+    },
+    {
+      "title": "Boeing St. Louis defense workers set to strike from Monday after rejecting latest offer",
+      "description": "\"IAM District 837 members ... deserve a contract that reflects their skill, dedication, and the critical role they play in our nation's defense,\" the union's Business Representative Tom Boelling said.  Boeing said it was ready for the action.  \"We are prepared for a strike and have fully implemented our contingency plan,\" Boeing Air Dominance vice president and general manager Dan Gillian said in an emailed statement to Reuters.",
+      "published_utc": "2025-08-03T13:50:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9a658dbb0084f826f942b5b13e44b00e40e470420d1a26ca5d8d54eb24e12120",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136195528,
+      "datetime": 1754243451
+    },
+    {
+      "title": "Boeing Defense Unit Workers Set to Strike Monday: WSJ",
+      "description": "Boeing Defense Unit Workers Set to Strike Monday: WSJ",
+      "published_utc": "2025-08-03T11:37:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=73c8ca298043fbe03e2e700ba309873ff15c790051f4551c5ce2432aa6b82fcc",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136210060,
+      "datetime": 1754235420
+    },
+    {
+      "title": "Consumer Tech News (July 28–August 1): Earnings From Apple, Microsoft, and Amazon Offset by Fed Jitters, Tariff Woes",
+      "description": "Big Tech&#39;s strong earnings clashed with economic headwinds, inflation fears, and tariff shocks, leaving markets on edge despite blockbuster results.",
+      "published_utc": "2025-08-03T04:00:30",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=39655605b87808b33d523471bb1c3dcfa0e9602a4a4351a4f43be87806cbbd09",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/08/03/Tech-stock-skyrockets.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138849035,
+      "datetime": 1754208030
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:33:36.235025+00:00",
+    "cache_key": "news_224560704ee498125aea852a9be9178f",
+    "count": 5
+  }
+}

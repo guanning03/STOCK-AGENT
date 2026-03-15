@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Top Stock Reports for Visa, Chevron & Toyota Motor",
+      "description": "Visa beats fiscal Q1 estimates as revenue jumps 15% and cross-border volumes rise 12%, but higher client incentives, expenses and regulatory risks cloud margins.",
+      "published_utc": "2026-03-09T17:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b63b1ed22b365aadc7c582aa05808ba3c031bcf36b87c279b789f5bf6319bc47",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139357260,
+      "datetime": 1773090300
+    },
+    {
+      "title": "Robinhood Platinum Card launches with $3,000+ in value. How does it compare to the Amex Platinum?",
+      "description": "The Robinhood Platinum's $695 annual fee and numerous statement credits might not fit every wallet.",
+      "published_utc": "2026-03-09T13:06:54",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=85cf584b950f2ca781d93cddd1217382ac42fdcf9746834f0f69b2c62401ff33",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108275625-1773082177036-Take_Flight_PR_Blog_Platinum_Card.jpg?v=1773082310&w=1920&h=1080",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139365273,
+      "datetime": 1773076014
+    },
+    {
+      "title": "Here's How Much You Would Have Made Owning Visa Stock In The Last 15 Years",
+      "description": "",
+      "published_utc": "2026-03-09T12:45:25",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=7adf8cb0ff6ad9d8f8f08ee76c8bfeb248044d4dce094367f4bb8096bab4dfa6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139364187,
+      "datetime": 1773074725
+    },
+    {
+      "title": "IXG: The Next Upswing May Take Time",
+      "description": "IXG ETF rated Hold as risk/reward balances amid macro uncertainty.",
+      "published_utc": "2026-03-09T12:42:45",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4b2dd9fc6acf17f56fec1e0afdd12f18f603e8a6fade52ac2e4f7923641d1ff2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1158571591/image_1158571591.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139355775,
+      "datetime": 1773074565
+    },
+    {
+      "title": "Visa, GFA Aim to Help Circular Designers Scale",
+      "description": "Emerging European fashion brands will compete for funding and mentorship as circular business models search for commercial traction.",
+      "published_utc": "2026-03-09T12:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f4bb1a79a90c871fbcb27b5805de9231b9bddd8550548ad6777dc92daa80c7d2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139353914,
+      "datetime": 1773072000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T04:16:38.760638+00:00",
+    "cache_key": "news_13a4f49f12c0d95022f312eb2912b119",
+    "count": 5
+  }
+}

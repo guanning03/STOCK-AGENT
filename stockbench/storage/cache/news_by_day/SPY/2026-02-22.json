@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Goodbye Old Tariffs, Hello New Tariffs",
+      "description": "",
+      "published_utc": "2026-02-22T18:16:30",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a7290f5811a76cde2c79940a5fa5002c6f60097e1542daae45babe3996dae0eb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139180732,
+      "datetime": 1771802190
+    },
+    {
+      "title": "Best Dividend Kings: February 2026",
+      "description": "",
+      "published_utc": "2026-02-22T17:08:10",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=334027e9e07012cc7b092e6cde30eb4bc4f675cba1aa4adab08022a834941dec",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139180357,
+      "datetime": 1771798090
+    },
+    {
+      "title": "S&P 500: Best Case Scenario? Another Failed Rally (Technical Analysis)",
+      "description": "The S&P 500 faces mixed technical signals. Click here to read more about the pros and cons.",
+      "published_utc": "2026-02-22T11:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=817e50cdf036e81972e2a79f6d58826610d49a9b3410465187000cee2822148a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2254337493/image_2254337493.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139178752,
+      "datetime": 1771776000
+    },
+    {
+      "title": "My 4 Favorite 2-ETF Pairs For The Rest Of 2026",
+      "description": "",
+      "published_utc": "2026-02-22T06:10:59",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2e9a4d7396ae15c7c4ff4a1eefd8cce134b659d498675e442ab2cf5c1a06e080",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139177676,
+      "datetime": 1771758659
+    },
+    {
+      "title": "JGRO: Promising Start And Unconvincing Follow-On",
+      "description": "",
+      "published_utc": "2026-02-22T05:57:54",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=94095d23ff1b10de3e89fc969cb7e7258abc62987c4c58f1198e0351032670d3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139177635,
+      "datetime": 1771757874
+    }
+  ]
+}

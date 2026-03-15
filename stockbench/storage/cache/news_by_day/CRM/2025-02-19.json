@@ -1,6 +1,161 @@
 {
   "items": [
     {
+      "id": "378dbbd2aa9e6070aa76be010317d50dddebec8f8bd1ede8141e7586d1baf160",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Business Intelligence Market to Reach USD 68.72 Billion by 2032 | SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-02-19T15:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/19/3028896/0/en/Business-Intelligence-Market-to-Reach-USD-68-72-Billion-by-2032-SNS-Insider.html",
+      "tickers": [
+        "MSFT",
+        "CRM",
+        "IBM",
+        "SAP",
+        "ORCL",
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "MSTR",
+        "STRK",
+        "TDC",
+        "DOMO",
+        "HTHIY"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The Business Intelligence market is projected to grow at a CAGR of 10.09% from 2024 to 2032, driven by the adoption of AI, analytics, and cloud solutions, as well as rising demand for security, real-time insights, and automation.",
+      "keywords": [
+        "Business Intelligence",
+        "AI",
+        "Analytics",
+        "Cloud",
+        "Security",
+        "Real-time insights",
+        "Automation"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is a major player in the Business Intelligence market, offering solutions like Power BI and Azure Synapse Analytics, which are contributing to the market's growth."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Tableau Software, a Salesforce company, is a leading provider of Business Intelligence solutions like Tableau Desktop and Tableau Server, which are driving the market's expansion."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IBM offers Cognos Analytics and Watson Studio, which are key Business Intelligence products contributing to the market's growth."
+        },
+        {
+          "ticker": "SAP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "SAP's BusinessObjects and Analytics Cloud offerings are driving the Business Intelligence market's expansion."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Oracle's Analytics Cloud and OBIEE solutions are contributing to the growth of the Business Intelligence market."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Google's Looker and BigQuery BI Engine are part of the Business Intelligence market's growth."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Google's Looker and BigQuery BI Engine are part of the Business Intelligence market's growth."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon Web Services' QuickSight and Glue offerings are contributing to the Business Intelligence market's expansion."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce's Tableau and Einstein Analytics are key players in the Business Intelligence market."
+        },
+        {
+          "ticker": "MSTR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "MicroStrategy's ONE and HyperIntelligence solutions are part of the Business Intelligence market's growth."
+        },
+        {
+          "ticker": "STRK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "MicroStrategy's ONE and HyperIntelligence solutions are part of the Business Intelligence market's growth."
+        },
+        {
+          "ticker": "TDC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Teradata's Vantage and Data Lab offerings are contributing to the Business Intelligence market's expansion."
+        },
+        {
+          "ticker": "DOMO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "DOMO's BI and Data Science solutions are driving the growth of the Business Intelligence market."
+        },
+        {
+          "ticker": "HTHIY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Hitachi Vantara's Pentaho and Lumada solutions are part of the Business Intelligence market's expansion."
+        }
+      ]
+    },
+    {
+      "id": "9645afd2449b4aae0b3e7901b751410106bea1c76e7edf0c45ef64a8fc111393",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "A New Artificial Intelligence (AI) Revolution Is Coming. 3 Stocks to Buy Before It Changes the Entire Economy",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-19T11:10:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/19/a-new-artificial-intelligence-ai-revolution-is-com/?source=iedfolrf0000001",
+      "tickers": [
+        "CRM",
+        "MSFT",
+        "META"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807841/gettyimages-ai-graphic-overview-man-laptop.jpg",
+      "description": "The article discusses the upcoming AI revolution, focusing on agentic AI, and highlights three companies - Salesforce, Microsoft, and Meta - that are at the forefront of this technology, which could significantly impact their businesses and investors.",
+      "keywords": [
+        "Artificial Intelligence",
+        "Agentic AI",
+        "Salesforce",
+        "Microsoft",
+        "Meta"
+      ],
+      "insights": [
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce is well-positioned to benefit from the AI revolution, with its Agentforce solution that can help businesses automate more tasks. The company's access to enterprise data gives it an advantage in developing accurate AI models."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft has been a major beneficiary of the AI boom, with its Azure cloud platform and Copilot AI tools. The company's growing adoption of custom AI agents by businesses suggests significant growth potential in its enterprise software segment."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Meta has been incorporating generative AI into its marketing tools, and its CEO sees the potential for AI agents to replace a lot of the work involved in creating and targeting ad campaigns. This could lead to higher ad prices and revenue growth for the company."
+        }
+      ]
+    },
+    {
       "title": "Harding Loevner Global Developed Markets Equity Q4 2024 Report",
       "description": "The Harding Loevner Global Developed Markets Equity composite fell 1.0% (gross) in Q4 2024, while the MSCI World Index was about flat. Click here to read more.",
       "published_utc": "2025-02-19T05:40:00",

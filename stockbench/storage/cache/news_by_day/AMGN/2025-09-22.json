@@ -1,0 +1,87 @@
+{
+  "items": [
+    {
+      "id": "1b6c44a8a4f4fe0499f3c168c864e4f8e02daa4420c9d5c9bcb0fee4b05792eb",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "European Advisory Panel Recommends Two AstraZeneca Drugs For Approval",
+      "author": "Vandana Singh",
+      "published_utc": "2025-09-22T18:20:56Z",
+      "article_url": "https://www.benzinga.com/markets/large-cap/25/09/47801834/european-advisory-panel-recommends-two-astrazeneca-drugs-for-approval",
+      "tickers": [
+        "AZN",
+        "AMGN"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/09/22/Konskie--Poland---January-03--2024-Astra.jpeg?width=1200&height=800&fit=crop",
+      "description": "European Medicines Agency's Committee recommended approval for two AstraZeneca drugs: Tezspire for chronic rhinosinusitis with nasal polyps and Koselugo for symptomatic, inoperable plexiform neurofibromas in NF1 patients.",
+      "keywords": [
+        "drug approval",
+        "European Medicines Agency",
+        "clinical trials",
+        "neurofibromatosis",
+        "rhinosinusitis"
+      ],
+      "insights": [
+        {
+          "ticker": "AZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Received positive recommendations for two drugs from European regulatory panel, demonstrating successful clinical trial results and potential market expansion"
+        },
+        {
+          "ticker": "AMGN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a collaborative partner for Tezspire drug, with no significant positive or negative developments in the article"
+        }
+      ]
+    },
+    {
+      "title": "Amgen (AMGN) Moves 3.5% Higher: Will This Strength Last?",
+      "description": "Amgen (AMGN) witnessed a jump in share price last session on above-average trading volume. The latest trend in earnings estimate revisions for the stock doesn't suggest further strength down the road.",
+      "published_utc": "2025-09-22T10:22:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d9d91e21c7f9a3261ef6dd2e313015208eb54a57bdad460fbdf3219dc8031c25",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136850875,
+      "datetime": 1758550920
+    },
+    {
+      "title": "Cellares Appoints Former Kite Global Ops Leader, Christopher McDonald, to Board of Advisors",
+      "description": "SOUTH SAN FRANCISCO, Calif., September 22, 2025--Cellares, the world’s first Integrated Development and Manufacturing Organization (IDMO), today announced the appointment of Chris McDonald to its Advisory Board. McDonald most recently served as Senior Vice President and Global Head of Technical Operations (Tech Ops) at Kite, a Gilead Company, where he oversaw Global Manufacturing, Global Quality, Process Development, and Global Supply Chain across six worldwide sites and more than 3,000 employee",
+      "published_utc": "2025-09-22T09:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f01ef91a602faee25b69fa5b86e26762cfaa56ccbd0e0fe444607415f281ac16",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136843828,
+      "datetime": 1758546000
+    },
+    {
+      "title": "Pfizer Buys Obesity Drug Developer Metsera: Buy Today And Benefit From CVRs",
+      "description": "Pfizer Inc. acquires Metsera, Inc. to re-enter the obesity drug market. Click for my look at PFZ and MTSR stock and where I see value in the weight loss sector.",
+      "published_utc": "2025-09-22T06:20:08",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5bfff513063fe49ab6c7824a71faf28231baceff3d5fefb0fa928a0b51860a29",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1299632091/image_1299632091.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136842565,
+      "datetime": 1758536408
+    }
+  ]
+}

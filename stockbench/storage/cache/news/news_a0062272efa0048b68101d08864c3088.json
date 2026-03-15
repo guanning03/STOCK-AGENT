@@ -1,9 +1,24 @@
 {
   "items": [
     {
+      "title": "Trump Tariff Talks Progressing Well, Says EU Trade Commissioner — S&P 500, Nasdaq Futures Rise After Memorial Day",
+      "description": "U.S. stock futures climbed on Monday night following President Donald Trump&#39;s decision to postpone the planned 50% tariff on the European Union until July 9.",
+      "published_utc": "2025-05-26T18:22:28",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=9d0a132321ef34f443e529cc9b87c861ac019eae0a2ba9c944d8a0e114ad01e1",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/05/26/Binary-Options-Chart.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138485849,
+      "datetime": 1748298148
+    },
+    {
       "title": "Bert's April 2025 Dividend Income Summary",
       "description": "",
-      "published_utc": "2025-05-26T16:22:00",
+      "published_utc": "2025-05-26T04:22:00",
       "source": "SeekingAlpha",
       "url": "https://finnhub.io/api/news?id=f5280549d19f303c881f8a3605ad35891c32640d04bbd86a10e4bc88f042308d",
       "category": "company",
@@ -88,8 +103,8 @@
     }
   ],
   "metadata": {
-    "cached_at": "2025-09-25T07:48:18.598648+00:00",
+    "cached_at": "2026-03-14T00:03:14.952086+00:00",
     "cache_key": "news_a0062272efa0048b68101d08864c3088",
-    "count": 2
+    "count": 3
   }
 }

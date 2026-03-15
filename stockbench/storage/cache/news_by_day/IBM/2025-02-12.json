@@ -1,0 +1,118 @@
+{
+  "items": [
+    {
+      "id": "6dafd174c5fbc91f393b8d0a2bf8ecf5e4f4ced021d52d59a8e03c2e08b36a43",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "2 Top Quantum Computing Stocks to Buy in 2025",
+      "author": "Anders Bylund",
+      "published_utc": "2025-02-12T13:27:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/12/2-top-quantum-computing-stocks-to-buy-in-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "IBM",
+        "GOOG",
+        "GOOGL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807189/sharing-secrets-in-the-city.jpg",
+      "description": "The article discusses IBM and Alphabet as better investment options in the quantum computing space compared to smaller, riskier players. It highlights the companies' established leadership, robust business models, and affordable stock valuations as key advantages.",
+      "keywords": [
+        "quantum computing",
+        "IBM",
+        "Alphabet",
+        "investment",
+        "technology"
+      ],
+      "insights": [
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article praises IBM's strong position in quantum computing research, its focus on bringing useful quantum computing to the market, and its affordable stock valuation, making it a compelling long-term investment option."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Alphabet's leading role in quantum computing research, its deep pockets and ability to invest heavily in the technology, and its undervalued stock, making it an attractive investment choice alongside IBM."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Alphabet's leading role in quantum computing research, its deep pockets and ability to invest heavily in the technology, and its undervalued stock, making it an attractive investment choice alongside IBM."
+        }
+      ]
+    },
+    {
+      "id": "3d0b4d6d90bf184543446fd034d4bbd1a91a9b753ec20a4f075e5cb8194175a6",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Connected Rail Market to Reach $162.8 Billion, Globally, by 2033 at 5.7% CAGR: Allied Market Research",
+      "author": "Allied Market Research",
+      "published_utc": "2025-02-12T08:52:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/12/3024769/0/en/Connected-Rail-Market-to-Reach-162-8-Billion-Globally-by-2033-at-5-7-CAGR-Allied-Market-Research.html",
+      "tickers": [
+        "ALSMY",
+        "HTHIY",
+        "CSCO",
+        "WAB",
+        "NOK",
+        "IBM",
+        "TRMB"
+      ],
+      "image_url": "https://www.globenewswire.com/news-release/2025/02/12/3024769/0/en/Connected-Rail-Market-to-Reach-162-8-Billion-Globally-by-2033-at-5-7-CAGR-Allied-Market-Research.html",
+      "description": "The connected rail market is expected to grow to $162.8 billion by 2033, driven by advancements in IoT, AI, and 5G, as well as rising demand for efficient and sustainable transportation solutions. Key factors include government investments in smart infrastructure and the push for reduced carbon emissions.",
+      "keywords": [
+        "connected rail",
+        "transportation",
+        "IoT",
+        "AI",
+        "5G",
+        "smart infrastructure",
+        "sustainability"
+      ],
+      "insights": [
+        {
+          "ticker": "ALSMY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions ALSTOM as one of the leading market players in the connected rail industry, indicating its strong position and potential for growth."
+        },
+        {
+          "ticker": "HTHIY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Hitachi, Ltd. is mentioned as a key player in the connected rail market, implying its participation and potential to capitalize on the market's expansion."
+        },
+        {
+          "ticker": "CSCO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Cisco Systems Inc. as one of the leading market players, indicating its participation and potential to benefit from the growth of the connected rail industry."
+        },
+        {
+          "ticker": "WAB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Wabtec Corporation is identified as a key player in the connected rail market, implying its strong position and ability to capitalize on the market's expansion."
+        },
+        {
+          "ticker": "NOK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nokia is listed as one of the leading companies in the connected rail market, suggesting its involvement and potential to contribute to the market's growth."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions IBM Corporation as a prominent player in the connected rail market, indicating its participation and potential to benefit from the market's expansion."
+        },
+        {
+          "ticker": "TRMB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Trimble Inc. is identified as one of the leading market players, implying its strong position and ability to capitalize on the growth of the connected rail industry."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "5 Dow Jones Stocks Fell Over 10% in 2025. Here's Why They Are All Contrarian Buys for 2026.",
+      "description": "Buying high-quality companies when they are out of favor can pay off in the long run.",
+      "published_utc": "2025-12-31T12:55:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=38ea0342f30936811f08b060cb7d7e16ead4d62605b4744bcfe87d2af061bb88",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137975978,
+      "datetime": 1767203700
+    },
+    {
+      "title": "New Year’s Day 2026: What’s open & what’s closed?",
+      "description": "Millions of Americans will be celebrating New Year’s Day, a major U.S. holiday, marking the start of 2026, which falls on Thursday, January 1. Here’s what’s open and closed on New Year’s Day 2026. New Year’s Day is a national holiday, but some businesses will remain open. Companies that sell ...",
+      "published_utc": "2025-12-31T10:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=925fc2b47f1757414fa2da8b5534a974fdf8f466cc3321f5a794b9cb9c99b87c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137950180,
+      "datetime": 1767195180
+    },
+    {
+      "title": "Dogs of the Dow Had a Strong Year. Here Are the 10 Stocks for 2026.",
+      "description": "Dogs of the Dow Had a Strong Year. Here Are the 10 Stocks for 2026.",
+      "published_utc": "2025-12-31T09:41:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=3da4b70988d32383b385a2ae12f2b1969787157eaae0c1f7d619f4d2960384d0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138003135,
+      "datetime": 1767192060
+    },
+    {
+      "title": "Teresa Wynn Roseborough Implements A Sell Strategy: Offloads $1.00M In Home Depot Stock",
+      "description": "",
+      "published_utc": "2025-12-31T06:01:09",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=5bd0005d51899adcb33176703e24fa5ac025eba21ad5daf249d4be5f3d014ba6",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/06/insider_trade_1.jpg?width=2048&height=1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138948672,
+      "datetime": 1767178869
+    },
+    {
+      "title": "Here's How Much You Would Have Made Owning Home Depot Stock In The Last 20 Years",
+      "description": "",
+      "published_utc": "2025-12-31T05:45:56",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=9206af795128c08afd88d7feb4ee90d8a28a1efff8728413618c5bc607ed40d6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138948673,
+      "datetime": 1767177956
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T00:45:29.230979+00:00",
+    "cache_key": "news_b966f99a4c4b6049a00ada96f4cc57ad",
+    "count": 5
+  }
+}

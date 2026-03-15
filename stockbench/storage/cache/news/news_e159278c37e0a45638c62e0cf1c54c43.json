@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "VYM: Why Vanguard's Popular $67B High Dividend Yield ETF Stands Out",
+      "description": "Compare top dividend ETFs like VYM, DGRO, and VIG with detailed analysis on yield, growth, and diversification.",
+      "published_utc": "2025-11-16T17:59:21",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b8a3f327a945ce3ec3b21bde894c21de390efffad7d82cdab7d48fa9bfb36589",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2179978486/image_2179978486.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137501362,
+      "datetime": 1763333961
+    },
+    {
+      "title": "The Market Looks Strong, But It's Much Weaker Than You Think",
+      "description": "Wall Street faces uncertainty post-shutdown, lacking key economic data. Learn more about the market here and what long-term and flexible investors should do.",
+      "published_utc": "2025-11-16T16:14:37",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=aa521ea0b9671a6c151c3d991500149d3af36f460eb7843757af5a4fbe6ad171",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1374647177/image_1374647177.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137500740,
+      "datetime": 1763327677
+    },
+    {
+      "title": "US Treasury Secretary Bessent, On Fox News Earlier Sunday, Said He Is Confident China Will Honor Rare Earth Agreements; Hopes U.S.-China Deal Finalized By Thanksgiving",
+      "description": "https://www.foxnews.com/video/6385173197112",
+      "published_utc": "2025-11-16T09:07:18",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=ba21d61d9a6daafd3b81450de8b4457cb7f4c99ea0de88e92f5cedde13434d32",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138815551,
+      "datetime": 1763302038
+    },
+    {
+      "title": "The Bubble In Covered Call ETFs That Nobody Is Talking About",
+      "description": "Covered call ETFs surge with AI-heavy indices, stretched valuations, correction risks, and rising economic pressure on KLAR and AFRM. Read more here.",
+      "published_utc": "2025-11-16T04:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3ded646e3e3bf797944b48bb59fa87eca8c9e3a0873203498dead6f1067968fd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1270437880/image_1270437880.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137496094,
+      "datetime": 1763284500
+    },
+    {
+      "title": "Hawks In The House",
+      "description": "Hawkish Fed signals and rate uncertainty shook U.S. markets this week.",
+      "published_utc": "2025-11-16T04:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bc14d7056961eee4c4c07244ef431fd9e54e08b0a8ed5f4129e40cd7c69d3401",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2196779245/image_2196779245.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137496065,
+      "datetime": 1763283600
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:09:10.933550+00:00",
+    "cache_key": "news_e159278c37e0a45638c62e0cf1c54c43",
+    "count": 5
+  }
+}

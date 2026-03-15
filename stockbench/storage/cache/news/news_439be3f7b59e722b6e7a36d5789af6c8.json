@@ -1,0 +1,92 @@
+{
+  "items": [
+    {
+      "title": "Margins Flat, Innovation High: Is PG Trading Growth for Stability?",
+      "description": "Procter & Gamble leans on major product upgrades and flat margins to balance stability with growth amid soft demand and uncertainty.",
+      "published_utc": "2025-11-26T11:09:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bdceba15106d0260601b731e1d3a5d1f0cfce52e0d74916c2d0e2a90ab8ca074",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137614503,
+      "datetime": 1764173340
+    },
+    {
+      "title": "Procter & Gamble vs. Church & Dwight: Which Household Stock Outshines?",
+      "description": "PG and CHD battle for household dominance, with shifting demand, pricing power and strategy defining which name holds the edge.",
+      "published_utc": "2025-11-26T09:58:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=145fddf019abfd24e321ba57790fd8c98a7e4362428e9ae8f4057f4a94d138bc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137614504,
+      "datetime": 1764169080
+    },
+    {
+      "title": "Layoffs are piling up, raising worker anxiety. Here are some companies that have cut jobs recently",
+      "description": "It’s a tough time to be looking for a job.  Amid wider economic uncertainty, some analysts have said that businesses are at a “no-hire, no fire” standstill.  Others cite corporate restructuring more broadly — or are redirecting money to artificial intelligence.",
+      "published_utc": "2025-11-26T09:06:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b94b439f56a7a8fe0e872e5d4e9f6eeca41862bf7e75036da3c5575eb3453a2e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137612527,
+      "datetime": 1764165974
+    },
+    {
+      "id": "8b21a496bd4525e32ee19215cbc3f44134c9b3d19ad0fda588f5eaa953382168",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "United States Air Fresheners Market Report 2025: Consumer Trends & Forecasts to 2033",
+      "author": "Research And Markets",
+      "published_utc": "2025-11-26T09:54:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/11/26/3194918/28124/en/United-States-Air-Fresheners-Market-Report-2025-Consumer-Trends-Forecasts-to-2033.html",
+      "tickers": [
+        "PG",
+        "RBGLY"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The US air fresheners market is projected to grow from $2.71 billion in 2024 to $3.86 billion by 2033, driven by consumer preferences for home and car fragrances, with a 4.02% CAGR. Market growth is fueled by increasing demand for personalized, hygienic fragrance solutions across residential, automotive, and commercial sectors.",
+      "keywords": [
+        "air fresheners",
+        "market growth",
+        "fragrance",
+        "consumer trends",
+        "indoor air quality"
+      ],
+      "insights": [
+        {
+          "ticker": "PG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Introduced innovative Febreze Airia smart fragrance dispenser with patented SmartJet technology, demonstrating product innovation and market leadership"
+        },
+        {
+          "ticker": "RBGLY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a key market player without specific details about recent performance or innovations"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:40:47.568837+00:00",
+    "cache_key": "news_439be3f7b59e722b6e7a36d5789af6c8",
+    "count": 4
+  }
+}

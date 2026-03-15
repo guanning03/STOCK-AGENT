@@ -1,0 +1,42 @@
+{
+  "items": [
+    {
+      "id": "39b2681a342e51ce5ec3defcb2665d90d2872107fcbfc4af30eeabe08e4375da",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Boeing's Big News Is Bullish for the Stock in 2025",
+      "author": "Lee Samaha",
+      "published_utc": "2024-12-22T17:14:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/22/boeings-big-news-is-bullish-for-the-stock-in-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "BA",
+        "BApA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801634/boeing_737_max_7_plane_airplane_aviation_source_boeing.jpg",
+      "description": "Boeing received a significant order for 100 737 MAX airplanes from Pegasus Airlines, which is a vote of confidence in the airplane and Boeing's ability to deliver it. The order helps restore confidence in Boeing's ability to be competitive in developing the next generation of airplanes.",
+      "keywords": [
+        "Boeing",
+        "737 MAX",
+        "Pegasus Airlines",
+        "Airbus",
+        "A320neo"
+      ],
+      "insights": [
+        {
+          "ticker": "BA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the significance of the Pegasus Airlines order for 100 737 MAX airplanes, which is seen as a vote of confidence in Boeing's ability to deliver the aircraft and position itself to be competitive in developing the next generation of airplanes. The order helps restore confidence in the company."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the significance of the Pegasus Airlines order for 100 737 MAX airplanes, which is seen as a vote of confidence in Boeing's ability to deliver the aircraft and position itself to be competitive in developing the next generation of airplanes. The order helps restore confidence in the company."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "id": "03fbd92278e18c5073518d0e8f1eeaa7b475931e718440754fd2cabdedc9cb4b",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "North America Respiratory Protective Equipment Market Review 2018-2024 and Forecast 2025-2030 - Air Purifying Respirators (APRs) Led the Market with a Revenue Share of 66.7% in 2024",
+      "author": "Researchandmarkets.Com",
+      "published_utc": "2025-01-22T09:47:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/22/3013256/28124/en/North-America-Respiratory-Protective-Equipment-Market-Review-2018-2024-and-Forecast-2025-2030-Air-Purifying-Respirators-APRs-Led-the-Market-with-a-Revenue-Share-of-66-7-in-2024.html",
+      "tickers": [
+        "AFIIQ",
+        "MMM",
+        "APT",
+        "GNTX",
+        "HON"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The North America respiratory protective equipment (RPE) market is expected to reach USD 7.28 billion by 2030, growing at a CAGR of 8.1% from 2025 to 2030. The growth is driven by stringent regulations, increasing occupational illnesses, and technological advancements.",
+      "keywords": [
+        "respiratory protective equipment",
+        "North America",
+        "market forecast",
+        "air purifying respirators",
+        "occupational safety"
+      ],
+      "insights": [
+        {
+          "ticker": "AFIIQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Armstrong Flooring as one of the major players in the North America respiratory protective equipment market, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "MMM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "3M is listed as one of the major players in the North America respiratory protective equipment market, indicating its strong presence and potential to benefit from the market growth."
+        },
+        {
+          "ticker": "APT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Alpha Pro Tech as a major player in the market, but does not provide any additional information about the company's performance or outlook."
+        },
+        {
+          "ticker": "GNTX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article includes Gentex Corporation as one of the major players in the North America respiratory protective equipment market, but does not provide any additional details about the company."
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Honeywell International Inc. is mentioned as one of the major players in the North America respiratory protective equipment market, indicating its strong presence and potential to benefit from the market growth."
+        }
+      ]
+    }
+  ]
+}

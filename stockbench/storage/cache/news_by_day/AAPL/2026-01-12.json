@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Heard on the Street Recap: Central Bank Shot",
+      "description": "What Happened in Markets Today Stocks shrug off latest Powell threat. Major U.S. stock indexes posted some mild gains Monday despite earlier pressure following news that the Trump administration has launched a criminal investigation into Federal Reserve Chairman Jerome Powell.",
+      "published_utc": "2026-01-12T18:30:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c930f6dc5c702d5af8d1704466f4ae2e67fd4e2986fb174c65817ea4980e0d46",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138083005,
+      "datetime": 1768260602
+    },
+    {
+      "title": "Apple Investors Are Still Waiting for an AI Siri. A New Deal With Google Could Help It Deliver",
+      "description": "Apple plans to use Google's Gemini to power future Apple Intelligence features, including an AI-enhanced Siri coming later this year, the companies said Monday.",
+      "published_utc": "2026-01-12T17:52:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e7d973036d5d07d12328255e12d3127328b2a1179d9b154cee0b81e42b4a456d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138083006,
+      "datetime": 1768258352
+    },
+    {
+      "title": "Stock Market Today: Dow, S&P 500 Close At Highs; Alphabet Hits $4 Trillion Mark (Live Coverage)",
+      "description": "Nasdaq composite outperforms the Dow and the S&P 500. Alphabet crosses above $4 trillion market cap.",
+      "published_utc": "2026-01-12T17:15:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=866ea64d9dd0140eb46de9387b46fc7b9e9a1db878996952ca413fd389766df1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138082636,
+      "datetime": 1768256121
+    },
+    {
+      "title": "Jamf names David Helfer as Chief Revenue Officer",
+      "description": "MINNEAPOLIS, January 12, 2026--Jamf (NASDAQ: JAMF), the standard in managing and securing Apple at work, today announced the appointment of David Helfer as Chief Revenue Officer (CRO), effective immediately. Helfer brings deep global leadership experience across complex technology organizations, with a strong track record of scaling go-to-market teams and driving sustainable growth. He has extensive experience working with channel partners and will apply a tightly integrated, partner-centric app",
+      "published_utc": "2026-01-12T17:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=34ce85ff2e6b5df584fcf669f2f0a2a80c50ebf28fbf1ca778aaa85ef40eb6f5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138083008,
+      "datetime": 1768256100
+    },
+    {
+      "title": "Google's corporate parent joins $4 trillion club as investors continue to bet on AI breakthroughs",
+      "description": "Google parent Alphabet Inc. on Monday became the fourth Big Tech powerhouse to be valued at $4 trillion, a once seemingly unfathomable milestone that's become more like a rite of passage amid an artificial intelligence arms race.  Alphabet reached the threshold just four months after Google dodged the U.S. government's attempt to break up its internet empire following a ruling last year that branded its ubiquitous search engine an illegal monopoly.  In an effort to prevent further abuses, a federal judge overseeing the case ordered a shake-up that investors widely interpreted as a slap on the wrist, resulting in a 57% increase in Alphabet's stock price since then that has created an additional $1.4 trillion in shareholder wealth.",
+      "published_utc": "2026-01-12T16:46:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=02a3cf45acc76367f26a52e1212af0c77ed7a2d8154cc5be7375afe3ae7027bd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138083009,
+      "datetime": 1768254392
+    }
+  ]
+}

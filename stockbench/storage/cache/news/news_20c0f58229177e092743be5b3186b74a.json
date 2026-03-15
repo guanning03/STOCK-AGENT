@@ -1,0 +1,132 @@
+{
+  "items": [
+    {
+      "id": "ee78d4b0e165825a8eb174cdfb2aa9e9d2b49e0deeb0d6f7af9b4f8edadae223",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "S&P 500 Sell-Off: Why Warren Buffett Is Still Right About Index Investing, Even After Selling His",
+      "author": "Reuben Gregg Brewer",
+      "published_utc": "2025-03-17T12:12:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/17/sp-500-sell-off-why-warren-buffett-is-still-right/?source=iedfolrf0000001",
+      "tickers": [
+        "SPY",
+        "VOO",
+        "SCHD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/811261/22_01_26-a-person-looking-at-a-computer-screen-with-a-look-of-unpleasant-surprise-_gettyimages-1216968860.jpg",
+      "description": "Despite Warren Buffett's Berkshire Hathaway selling its S&P 500 index fund positions, the author argues that Buffett's advice to buy and hold an index fund is still valid. The article discusses the long-term performance of the S&P 500 index and how investors can fine-tune the strategy to fit their needs, such as by choosing a dividend-focused ETF.",
+      "keywords": [
+        "S&P 500",
+        "index investing",
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "ETFs"
+      ],
+      "insights": [
+        {
+          "ticker": "SPY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Berkshire Hathaway sold its position in the SPDR S&P 500 Trust ETF, but notes that this position was less than 0.01% of Berkshire's portfolio, so it was not a material investment decision."
+        },
+        {
+          "ticker": "VOO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Similar to the SPDR S&P 500 Trust ETF, the article mentions that Berkshire Hathaway sold its position in the Vanguard S&P 500 ETF, but this was also a small position that was not a significant part of Berkshire's investment strategy."
+        },
+        {
+          "ticker": "SCHD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that investors can fine-tune Buffett's index investing advice by choosing a dividend-focused ETF like the Schwab U.S. Dividend Equity ETF, which has a higher yield than the S&P 500 index and has also seen its share price rise over time."
+        }
+      ]
+    },
+    {
+      "id": "f374c4e54839c47b1611b657152e93e00918c43bf09f3298acf8cb3187c8b54c",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "US Stocks Likely To Open Lower As Futures Decline: 'Stay Calm And Stick With Your Long-Term Plan,' Says Expert Amid Correction Woes",
+      "author": "Rishabh Mishra",
+      "published_utc": "2025-03-17T09:47:25Z",
+      "article_url": "https://www.benzinga.com/25/03/44351741/us-stocks-likely-to-open-lower-as-futures-decline-stay-calm-and-stick-with-your-long-term-plan-says-expert-amid-c",
+      "tickers": [
+        "CTM",
+        "EBMT",
+        "GETY",
+        "GOGO",
+        "NVDA",
+        "QQQ",
+        "SAIC",
+        "SPY",
+        "TSLA"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/03/17/Closeup-Of-Wall-St--Street-Sign-And-Larg.jpeg?width=1200&height=800&fit=crop",
+      "description": "U.S. stock futures declined as benchmark indices hovered around the correction zone. Experts advised investors to stay calm and stick to their long-term plans, as market pullbacks are common and a complete recovery is inevitable over time.",
+      "keywords": [
+        "US stocks",
+        "market correction",
+        "long-term investment",
+        "expert advice"
+      ],
+      "insights": [
+        {
+          "ticker": "CTM",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The company announced the price of a proposed public offering of common stock and warrants, which led to a 20.64% drop in its stock price."
+        },
+        {
+          "ticker": "EBMT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The company disclosed a material weakness in its internal controls, which led to a 16.91% drop in its stock price."
+        },
+        {
+          "ticker": "GETY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is expected to report earnings after the closing bell, and its stock price increased by 2.45% in the premarket."
+        },
+        {
+          "ticker": "GOGO",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The company reported a fourth-quarter EPS loss that significantly missed expectations, leading to a 26.97% drop in its stock price."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company's stock rebounded strongly on Friday, contributing to the overall market rally."
+        },
+        {
+          "ticker": "QQQ",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The ETF, which tracks the Nasdaq 100 index, declined by 0.41% in the premarket."
+        },
+        {
+          "ticker": "SAIC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is expected to report earnings before the opening bell, and its stock price increased by 1.51% in the premarket."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The ETF, which tracks the S&P 500 index, declined by 0.39% in the premarket."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company's stock rebounded strongly on Friday, contributing to the overall market rally."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T22:47:47.127171+00:00",
+    "cache_key": "news_20c0f58229177e092743be5b3186b74a",
+    "count": 2
+  }
+}

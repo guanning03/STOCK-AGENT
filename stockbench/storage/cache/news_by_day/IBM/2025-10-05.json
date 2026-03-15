@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "id": "a9b41ef0888455b8f314eb39ff96636951508606fcbbe5ea5490891431be594d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Alphabet's Gemini Breakthrough Shows That AI Leaders Could Still Have Decades of Growth Ahead",
+      "author": "Robert Izquierdo",
+      "published_utc": "2025-10-05T21:22:00Z",
+      "article_url": "https://www.fool.com/investing/2025/10/05/alphabet-gemini-breakthrough/?source=iedfolrf0000001",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "NVDA",
+        "MSFT",
+        "IBM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/834045/artificial_intelligence_robot_looking_at_equations_gettyimages-966248982-1200x772-f9fd0c6.jpg",
+      "description": "Alphabet's AI model Gemini achieved a significant milestone by winning a gold medal in an international programming competition, demonstrating advanced reasoning capabilities and signaling potential long-term growth in the AI industry.",
+      "keywords": [
+        "AI",
+        "Gemini",
+        "artificial intelligence",
+        "machine learning",
+        "technology innovation"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Successfully developed Gemini AI, demonstrated advanced problem-solving capabilities, generated strong financial performance with 14% sales growth, and maintains a reasonable valuation compared to competitors"
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Successfully developed Gemini AI, demonstrated advanced problem-solving capabilities, generated strong financial performance with 14% sales growth, and maintains a reasonable valuation compared to competitors"
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Benefiting from increasing AI computing power demands, achieved 56% year-over-year sales growth, and providing critical chips for AI development"
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an AI player with a higher price-to-earnings ratio compared to Alphabet, but no specific achievements highlighted in the article"
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Briefly mentioned as a potential AI growth player with no specific details provided"
+        }
+      ]
+    }
+  ]
+}

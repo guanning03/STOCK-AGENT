@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The 3 Stocks That Crushed the S&P 500 in 2025",
+      "description": "SNDK, WDC, and MU dominated performance as shortages in NAND, HDD, and high-bandwidth memory collided with surging demand for AI infrastructure.",
+      "published_utc": "2025-12-31T18:29:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3ff691f72d97938cec3ac68394a8e172c18e7631fe80a8e75df2c7592d2d7af0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137963142,
+      "datetime": 1767223740
+    },
+    {
+      "title": "SPY vs. IWM: Is Large-Cap Stability or Small-Cap Growth the Better Choice for Investors Right Now?",
+      "description": "Key differences in cost, risk, and holdings shape how SPY and IWM fit into a diversified investment strategy.",
+      "published_utc": "2025-12-31T15:03:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=660a6059677899ba1e270317ab907efe301d20dad184aab9e0e391556dd16800",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137963143,
+      "datetime": 1767211390
+    },
+    {
+      "title": "Do You Hold The ETFs That Own 2025's Best Stocks?",
+      "description": "Missed your shot at owning the top-performing stocks of 2025? Perhaps you held ETFs that owned these winners.",
+      "published_utc": "2025-12-31T14:55:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2ca060c863bcf1eac1abd724ee0041e4adcf61ee6e93ab49946c8ccdea4ee0bc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137953548,
+      "datetime": 1767210901
+    },
+    {
+      "title": "A Calm Finish To A Wild Year: Markets End 2025 Without A Santa Rally",
+      "description": "2025 market recap: SPY +18%, gold soars, oil/Bitcoin/USD fall; record S&P 500 earnings.",
+      "published_utc": "2025-12-31T11:00:36",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9cfcbc42d2850845c5983f85662e052dbf91124be5db0d82977222bb63a44902",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/uploads/2025/12/31/36131525-17672086819765368.png?io=w640",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137952657,
+      "datetime": 1767196836
+    },
+    {
+      "title": "5 Lessons I Learned From 2025",
+      "description": "2025 market rebound shows why avoiding panic selling matters. Click for my look back at recent market events and show what we've learned.",
+      "published_utc": "2025-12-31T09:27:49",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d83e1e293ab84f39c10dd5ad62843ecd313b7be170cfd13c45c5f0723331fd40",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2243537791/image_2243537791.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137952155,
+      "datetime": 1767191269
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T00:49:24.588038+00:00",
+    "cache_key": "news_7a6811fdaae4981ada4bf1efd1c71329",
+    "count": 5
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "items": [
+    {
+      "id": "f7f345e565c3c2143162f7fa0bc4a108fa28252e17e82d9d68d995089742af14",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Will the Fed Cut Interest Rates Next Week? Here's What Wall Street Thinks.",
+      "author": "Anthony Di Pizio",
+      "published_utc": "2024-12-14T10:18:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/14/will-fed-cut-interest-rates-week-wall-street-think/?source=iedfolrf0000001",
+      "tickers": [
+        "CME",
+        "C",
+        "CpN",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD",
+        "WFC",
+        "WFCpA",
+        "WFCpC",
+        "WFCpD",
+        "WFCpL",
+        "WFCpY",
+        "WFCpZ"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800766/a-photo-of-a-podium-with-the-federal-reserve-emblem-on-the-front.jpg",
+      "description": "The Federal Reserve has already cut interest rates twice since September, following a steady drop in the rate of inflation. The Fed appears likely to cut rates again next week, but expectations for further cuts in 2025 have fallen dramatically. Lower interest rates can be great for the stock market, but investors should be on the lookout for some economic weakness on the horizon.",
+      "keywords": [
+        "Federal Reserve",
+        "interest rates",
+        "inflation",
+        "stock market"
+      ],
+      "insights": [
+        {
+          "ticker": "CME",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions the CME Group's FedWatch tool, which suggests a high probability of a rate cut by the Federal Reserve, indicating a positive outlook for the company."
+        },
+        {
+          "ticker": "C",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Citigroup as one of the banking giants forecasting a rate cut by the Federal Reserve, but does not provide any additional information about the company's outlook."
+        },
+        {
+          "ticker": "CpN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Citigroup as one of the banking giants forecasting a rate cut by the Federal Reserve, but does not provide any additional information about the company's outlook."
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Goldman Sachs as one of the banking giants forecasting a rate cut by the Federal Reserve, but does not provide any additional information about the company's outlook."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Goldman Sachs as one of the banking giants forecasting a rate cut by the Federal Reserve, but does not provide any additional information about the company's outlook."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Goldman Sachs as one of the banking giants forecasting a rate cut by the Federal Reserve, but does not provide any additional information about the company's outlook."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Goldman Sachs as one of the banking giants forecasting a rate cut by the Federal Reserve, but does not provide any additional information about the company's outlook."
+        },
+        {
+          "ticker": "WFC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Wells Fargo as one of the banking giants forecasting a rate cut by the Federal Reserve, but does not provide any additional information about the company's outlook."
+        },
+        {
+          "ticker": "WFCpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Wells Fargo as one of the banking giants forecasting a rate cut by the Federal Reserve, but does not provide any additional information about the company's outlook."
+        },
+        {
+          "ticker": "WFCpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Wells Fargo as one of the banking giants forecasting a rate cut by the Federal Reserve, but does not provide any additional information about the company's outlook."
+        },
+        {
+          "ticker": "WFCpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Wells Fargo as one of the banking giants forecasting a rate cut by the Federal Reserve, but does not provide any additional information about the company's outlook."
+        },
+        {
+          "ticker": "WFCpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Wells Fargo as one of the banking giants forecasting a rate cut by the Federal Reserve, but does not provide any additional information about the company's outlook."
+        },
+        {
+          "ticker": "WFCpY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Wells Fargo as one of the banking giants forecasting a rate cut by the Federal Reserve, but does not provide any additional information about the company's outlook."
+        },
+        {
+          "ticker": "WFCpZ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Wells Fargo as one of the banking giants forecasting a rate cut by the Federal Reserve, but does not provide any additional information about the company's outlook."
+        }
+      ]
+    }
+  ]
+}

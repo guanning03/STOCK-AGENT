@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "3 Profitable Stocks We’re Skeptical Of",
+      "description": "Even if a company is profitable, it doesn’t always mean it’s a great investment. Some struggle to maintain growth, face looming threats, or fail to reinvest wisely, limiting their future potential.",
+      "published_utc": "2026-02-23T23:41:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1733250f1c77563583c7cdc7a19875bb534c5e6ad730ff3e87853c45a305882f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139193346,
+      "datetime": 1771908113
+    },
+    {
+      "title": "Sherwin-Williams Co. stock outperforms competitors on strong trading day",
+      "description": "Sherwin-Williams Co. stock outperforms competitors on strong trading day",
+      "published_utc": "2026-02-23T11:42:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=afaf2dbfe713008c42b9b1a03a1f30faa8c05782ab9da45fa98b05fdfa5e3abd",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139217216,
+      "datetime": 1771864920
+    }
+  ]
+}

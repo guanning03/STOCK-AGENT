@@ -1,0 +1,80 @@
+{
+  "items": [
+    {
+      "title": "SCHD: Bears Are Theoretically Right, But Here Is Why I Am Buying Now",
+      "description": "Schwab U.S. Dividend Equity ETF stands out for its attractive 3.9% yield and strong dividend growth. Click here to read why SCHD ETF is a Buy.",
+      "published_utc": "2025-10-21T05:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b6b89ce743da13153274d8234a053fd41f645f0d8f1603ab9bf0fe152a7048ef",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1277179014/image_1277179014.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137177455,
+      "datetime": 1761038100
+    },
+    {
+      "id": "617b2efba7a7a40fdf495d1709023953e3b1a27e14d1926176f57574c4c7e0a3",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Small Cell Lung Cancer Market Research 2025-2035: Growth Driven by Advancements in Novel Therapies, Including Immunotherapies, Targeted Therapies, and Combination Treatments",
+      "author": "Researchandmarkets.Com",
+      "published_utc": "2025-10-21T08:41:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/10/21/3169983/28124/en/Small-Cell-Lung-Cancer-Market-Research-2025-2035-Growth-Driven-by-Advancements-in-Novel-Therapies-Including-Immunotherapies-Targeted-Therapies-and-Combination-Treatments.html",
+      "tickers": [
+        "AMGN",
+        "AZN",
+        "BMY",
+        "CELGr",
+        "MRK"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "Global small cell lung cancer market expected to grow significantly, driven by advancements in immunotherapies, targeted treatments, and improved diagnostic technologies, despite challenges like high treatment costs and drug resistance.",
+      "keywords": [
+        "small cell lung cancer",
+        "immunotherapy",
+        "targeted therapy",
+        "personalized medicine",
+        "lung cancer market"
+      ],
+      "insights": [
+        {
+          "ticker": "AMGN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mentioned as a key player in competitive landscape with potential for growth in innovative cancer treatments"
+        },
+        {
+          "ticker": "AZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Positioned as a leading pharmaceutical company in SCLC market with potential for novel therapies"
+        },
+        {
+          "ticker": "BMY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Highlighted as an active participant in developing advanced cancer treatments"
+        },
+        {
+          "ticker": "CELGr",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Highlighted as an active participant in developing advanced cancer treatments"
+        },
+        {
+          "ticker": "MRK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Recognized as a key player in oncology research and potential SCLC treatment development"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:44:16.840952+00:00",
+    "cache_key": "news_875a0b0df44314fe7cbbce3613ccab46",
+    "count": 2
+  }
+}

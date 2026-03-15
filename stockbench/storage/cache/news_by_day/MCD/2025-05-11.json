@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "McDonald's' (NYSE:MCD) Returns Have Hit A Wall",
+      "description": "What trends should we look for it we want to identify stocks that can multiply in value over the long term? One common...",
+      "published_utc": "2025-05-11T07:00:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c5bef6c1b46ed2a8b9c4286bdea1778cfd6178f1bc9cbf9c371252a3b8c69561",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134379333,
+      "datetime": 1746961217
+    },
+    {
       "title": "Billionaire Bill Gates Has A 'McGold Card' That Gives Him Free McDonald's Meals For Life, Anywhere In The World — But Says 'I Tend Not To Use It'",
       "description": "It must be one of the great ironies of wealth: the richer you are, the more free stuff you get. Celebrities get gifting suites. Athletes get free gear. And billionaires? Apparently, they get free Big Macs. That's right—Bill Gates, worth well over $100 billion, has a McDonald's \"gold card\" granting him free meals for life anywhere in the world. And while it may sound like a recent social media stunt, the story behind Gates' golden ticket actually stretches back almost two decades—and involves his",
       "published_utc": "2025-05-11T06:55:39",
@@ -14,6 +29,21 @@
       "api_source": "finnhub_company",
       "id": 134379334,
       "datetime": 1746917739
+    },
+    {
+      "title": "Invesco Rising Dividends Fund Q1 2025 Commentary",
+      "description": "The fund outperformed the Russell 1000 Index due to strong stock selection and active sector allocations.",
+      "published_utc": "2025-05-11T03:55:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bf955552c441d518d76e864185d0200258299f88dd804d57eba04e3a83d94f8c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2043764026/image_2043764026.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134370670,
+      "datetime": 1746950100
     },
     {
       "title": "'A Divided Economy': McDonald's CEO Says Rich Keep Dining Out But Average Income Consumers Feeling Economic 'Anxiety'",

@@ -1,0 +1,210 @@
+{
+  "items": [
+    {
+      "id": "1c08629a5e00e5adea470cc34868b05f2c9b981c579942c948f5868a89a76989",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Nvidia Stock Is Surging Today -- Is the AI Leader's Stock a Smart Buy for 2025?",
+      "author": "Keith Noonan",
+      "published_utc": "2025-01-06T18:01:08Z",
+      "article_url": "https://www.fool.com/investing/2025/01/06/nvidia-stock-is-surging-today-is-the-ai-leaders-st/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803012/gettyimages-1352607170.jpg",
+      "description": "Nvidia's stock is up 4.7% as of 12:30 p.m. ET, outperforming the broader market. The gains are driven by strong demand for AI hardware, as indicated by Foxconn's record revenue, and anticipation of Nvidia CEO's keynote at CES. Microsoft's increased AI infrastructure spending is also seen as a bullish indicator for Nvidia.",
+      "keywords": [
+        "Nvidia",
+        "Foxconn",
+        "Microsoft",
+        "AI",
+        "CES"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights strong demand for Nvidia's AI hardware, as evidenced by Foxconn's record revenue and Microsoft's increased AI infrastructure spending. The company's stock is also gaining ground due to anticipation of its CEO's keynote at CES, which is seen as a positive catalyst."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft's increased AI infrastructure spending, which is seen as a bullish indicator for Nvidia, is viewed as a positive development for the company."
+        }
+      ]
+    },
+    {
+      "id": "472d8048ae224858c27ad0f3c980220a107b43c25a40d012c1d80bc5e9c5a382",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why BlackBerry Stock Is Soaring Today",
+      "author": "Keith Noonan",
+      "published_utc": "2025-01-06T16:45:25Z",
+      "article_url": "https://www.fool.com/investing/2025/01/06/why-blackberry-stock-is-soaring-today/?source=iedfolrf0000001",
+      "tickers": [
+        "BB",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802992/gettyimages-1442334668.jpg",
+      "description": "BlackBerry's QNX division has launched a new software platform for vehicles, partnering with Vector, TTTech, and Microsoft to deliver software innovations. The company is also expanding its developer community and cloud-based offerings.",
+      "keywords": [
+        "BlackBerry",
+        "QNX",
+        "software platform",
+        "vehicles",
+        "partnerships"
+      ],
+      "insights": [
+        {
+          "ticker": "BB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article reports that BlackBerry's QNX division has launched a new software platform for vehicles and is expanding its partnerships and developer community, which is seen as positive news for the company."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article reports that BlackBerry's QNX division is partnering with Microsoft to deliver software innovations for vehicles, which is seen as a positive development for Microsoft."
+        }
+      ]
+    },
+    {
+      "id": "06413893ec841a854e2e0bcc552398f19de4a1bcb271774f3b2db5b9f2d923bb",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why Super Micro Computer Stock Is Soaring Today",
+      "author": "Keith Noonan",
+      "published_utc": "2025-01-06T16:31:40Z",
+      "article_url": "https://www.fool.com/investing/2025/01/06/why-super-micro-computer-stock-is-soaring-today/?source=iedfolrf0000001",
+      "tickers": [
+        "SMCI",
+        "NVDA",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802987/gettyimages-1482246510.jpg",
+      "description": "Supermicro stock is surging due to bullish coverage from Lynx Equity, which expects new hardware from Nvidia to boost the server specialist's performance. However, the company's delayed financial reporting remains a concern.",
+      "keywords": [
+        "Supermicro",
+        "Nvidia",
+        "AI",
+        "server",
+        "hardware"
+      ],
+      "insights": [
+        {
+          "ticker": "SMCI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article reports that Supermicro stock is surging due to bullish coverage from Lynx Equity, which expects new hardware from Nvidia to provide a positive catalyst for the company's performance. The article also notes that Supermicro's shares could be undervalued based on its recent growth trajectory, though the delayed financial reporting remains a concern."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Nvidia's new hardware, specifically its GB300 processors, could provide a lasting tailwind for Supermicro's AI server business, as Nvidia's GPUs are a key component in Supermicro's advanced servers."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Microsoft's anticipated $80 billion spending on AI infrastructure in 2025 bodes well for Supermicro, as it indicates strong demand in the AI hardware infrastructure space."
+        }
+      ]
+    },
+    {
+      "id": "9d0b1a2b13dbca84510827f93a72534c425ea8b2e66c30ea4f618db88218e182",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "This Industry-Leading Artificial Intelligence (AI) Stock -- Up 7,900% Since Its IPO -- Finds Itself at the Center of a $1 Trillion Opportunity",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-06T15:17:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/06/this-industry-leading-artificial-intelligence-ai-s/?source=iedfolrf0000001",
+      "tickers": [
+        "CRM",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802850/gettyimages-1432457969.jpg",
+      "description": "Salesforce is emerging as a leader in the artificial intelligence (AI) landscape, with its Agentforce product poised to capitalize on the growing agentic AI market, which could be worth $1 trillion. The company's diverse enterprise software platform and data-driven acquisitions have positioned it well to compete with Microsoft in this space.",
+      "keywords": [
+        "Salesforce",
+        "Artificial Intelligence",
+        "Agentic AI",
+        "Microsoft"
+      ],
+      "insights": [
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Salesforce's strong position in the agentic AI market, with its Agentforce product and diverse enterprise software platform. The company is seen as well-positioned to capture a significant portion of the $1 trillion agentic AI opportunity."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "While Microsoft has a first-mover advantage in agentic AI through its CoPilot platform, the article suggests that Salesforce's enterprise software ecosystem and cross-selling opportunities could give it a competitive edge over Microsoft in this market."
+        }
+      ]
+    },
+    {
+      "id": "d5d6fa29167f0ac87ff0099a03b1a11e3c7b74de69a77b7aeb7566652ed1d92e",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Nvidia and AMD Stock Investors Got Fantastic News From Microsoft",
+      "author": "Jose Najarro",
+      "published_utc": "2025-01-06T13:51:24Z",
+      "article_url": "https://www.fool.com/investing/2025/01/06/nvidia-and-amd-stock-investors-got-fantastic-news/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "AMD",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802966/nvidia-headquarters-outside-with-black-nvidia-sign-with-nvidia-logo.jpg",
+      "description": "The article discusses the performance of Nvidia, Advanced Micro Devices, and Microsoft, highlighting their growth and potential in the AI and technology sectors.",
+      "keywords": [
+        "Nvidia",
+        "Advanced Micro Devices",
+        "Microsoft",
+        "AI",
+        "technology"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Nvidia has experienced significant growth and is expected to continue performing well in the AI and technology sectors."
+        },
+        {
+          "ticker": "AMD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article indicates that Advanced Micro Devices is also performing well and is mentioned alongside Nvidia and Microsoft as a company with growth potential."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Microsoft as a company that is expected to benefit from the growth in the AI and technology sectors, suggesting a positive outlook for the company."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:20:22.851394+00:00",
+    "cache_key": "news_fbacc71721a8026e5762a45d76df61dd",
+    "count": 5
+  }
+}

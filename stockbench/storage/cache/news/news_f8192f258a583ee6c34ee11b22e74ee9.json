@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar (CAT) Suffers a Larger Drop Than the General Market: Key Insights",
+      "description": "Caterpillar (CAT) closed at $596.5 in the latest trading session, marking a -1.11% move from the prior day.",
+      "published_utc": "2025-12-08T17:45:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=61e00a60b2b216c7271db54f3f74e2a25d7241418893202e01a5c33ef6ae7683",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137737838,
+      "datetime": 1765233903
+    },
+    {
+      "title": "3 Stocks Most Likely to Split in 2026",
+      "description": "Stock splits are a signal that the company is strong, producing cash flow, and providing value to its investors that will continue to grow over time.",
+      "published_utc": "2025-12-08T17:43:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a61b0d7530cbebd021aa41e2f1b4e4d54520eacf1724504ab0ab5d480e5d36ab",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137750044,
+      "datetime": 1765233780
+    },
+    {
+      "title": "Caterpillar Inc. stock outperforms competitors despite losses on the day",
+      "description": "Caterpillar Inc. stock outperforms competitors despite losses on the day",
+      "published_utc": "2025-12-08T11:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=91e57bd805fb26689390fe7ebddf62423101745888e902fe83eebfe0bc993e31",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137761357,
+      "datetime": 1765211520
+    },
+    {
+      "title": "RSPA: Derivative Income ETF Outsourcing Options Trading",
+      "description": "Invesco S&P 500 Equal Weight Income Advantage ETF offers a 9% yield via an equal-weighted S&P 500 portfolio and equity-linked notes. Click to read more on RSPA.",
+      "published_utc": "2025-12-08T09:58:44",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=423f0e2a065465535b20391a08237def07d3a889d0b83c2523b66c7f154c9faa",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1363876172/image_1363876172.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137734457,
+      "datetime": 1765205924
+    },
+    {
+      "title": "These 3 Boring Stocks Are Delivering the Dow’s Biggest Wins in 2025",
+      "description": "As 2025 draws to a close, the Dow Jones Industrial Average (DJIA) is having a superb year, up nearly 13% year to date. While artificial intelligence (AI)-oriented stocks continue to dominate headlines, investors might be surprised to learn that the three stocks leading this venerable index are not pure AI plays. Because the index is ... These 3 Boring Stocks Are Delivering the Dow’s Biggest Wins in 2025",
+      "published_utc": "2025-12-08T08:37:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fe39d158613893be1967d22f3b1ed8e48b96c934e8cfa6fae7f688371077a7e4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137732329,
+      "datetime": 1765201073
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:14:36.765396+00:00",
+    "cache_key": "news_f8192f258a583ee6c34ee11b22e74ee9",
+    "count": 5
+  }
+}

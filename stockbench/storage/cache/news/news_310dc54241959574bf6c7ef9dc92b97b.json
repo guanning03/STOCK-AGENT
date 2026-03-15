@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Health Care Up as Traders Buy Into Beaten-Down Sector -- Health Care Roundup",
+      "description": "Health Care Up as Traders Buy Into Beaten-Down Sector -- Health Care Roundup",
+      "published_utc": "2025-10-20T12:58:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=73f0669ad76cbcd43bda2a97bd2de09eb4a2742fd52acec9132f4b04b1d7aa80",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137225676,
+      "datetime": 1760979480
+    },
+    {
+      "title": "Dow rallies 550 points on gains for shares of Salesforce, Apple",
+      "description": "Dow rallies 550 points on gains for shares of Salesforce, Apple",
+      "published_utc": "2025-10-20T10:04:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=91a312f31ebd1be67cda5de25f3781b36cdaafda4941d0b06208b3fb7769a909",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137225678,
+      "datetime": 1760969040
+    },
+    {
+      "title": "Salesforce, Apple share gains lead Dow's nearly 425-point jump",
+      "description": "Salesforce, Apple share gains lead Dow's nearly 425-point jump",
+      "published_utc": "2025-10-20T06:46:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=19520a4ededae27f7cb8db14766a24cb98829964b67a3ca16aa1a702f94eb031",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137225679,
+      "datetime": 1760957160
+    },
+    {
+      "title": "IXJ: Healthcare Sector Dashboard For October",
+      "description": "Healthcare providers and pharmaceuticals/biotechnology subsectors are undervalued versus 11-year averages, with pharma/biotech also showing strong quality metrics. Read the full analysis.",
+      "published_utc": "2025-10-20T06:19:27",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7e5e4d81e7f7bbf4ace2094dc8b479304205e7043756c5390b7cef95e12da826",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1409850701/image_1409850701.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137167977,
+      "datetime": 1760955567
+    },
+    {
+      "title": "Dow's 250-point rally led by gains in Apple, Salesforce shares",
+      "description": "Dow's 250-point rally led by gains in Apple, Salesforce shares",
+      "published_utc": "2025-10-20T05:45:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=993edd1ea0ed5db5d3a3296bbdfd2e9fd88d8237d41eb8ce66a45e2bc2ee7a60",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137225680,
+      "datetime": 1760953500
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:39:16.146804+00:00",
+    "cache_key": "news_310dc54241959574bf6c7ef9dc92b97b",
+    "count": 5
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "items": [
+    {
+      "title": "HONEYWELL TO RELEASE FIRST QUARTER FINANCIAL RESULTS AND HOLD ITS INVESTOR CONFERENCE CALL ON TUESDAY, APRIL 29",
+      "description": "Honeywell (NASDAQ: HON) will issue its first quarter financial results before the opening of the Nasdaq Stock Market on Tuesday, April 29. The company will also hold a conference call at 8:30 a.m. EDT.",
+      "published_utc": "2025-04-01T08:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d12c33b9121229b8d159145e58888e5a8b2ea6ef657b559be1488f2bf90ecc8c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133645430,
+      "datetime": 1743508800
+    },
+    {
+      "title": "HONEYWELL ANNUAL SHAREOWNERS MEETING SET FOR MAY 20, 2025",
+      "description": "Honeywell (NASDAQ: HON) announced today it will hold its 2025 Annual Shareowners Meeting at 10:30 a.m. EDT on May 20, 2025, in a virtual format at www.virtualshareholdermeeting.com/HON2025. Shareowners of record at the close of business on Tuesday, April 1, 2025 will be entitled to vote at the meeting.",
+      "published_utc": "2025-04-01T07:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=00407a3547e9c9ef7476dd6cbf5f69fafcd2d9c3360ddc0975dfa8902d4aa091",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133645434,
+      "datetime": 1743505200
+    },
+    {
+      "title": "HONEYWELL APPOINTS STEPHEN WILLIAMSON TO BOARD OF DIRECTORS",
+      "description": "Honeywell (NASDAQ: HON) announced today that its Board of Directors has elected Stephen Williamson, 58, current Senior Vice President and Chief Financial Officer of Thermo Fisher Scientific Inc., to its Board of Directors as an independent Director and Audit Committee member, effective April 1, 2025.",
+      "published_utc": "2025-04-01T07:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3c6dd625b29dde3d57eb8c867324798fa8bd6a922179f09b38d417056716f9da",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133645432,
+      "datetime": 1743505200
+    },
+    {
+      "id": "534901900a0890b58957bd346ea3436cdd68946f229e141e6daeff1348199d85",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Fall Protection Market is Forecasted to Reach US$ 4.6 Billion in 2031, Says Stratview Research",
+      "author": "N/A",
+      "published_utc": "2025-04-01T04:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/04/01/3052958/0/en/Fall-Protection-Market-is-Forecasted-to-Reach-US-4-6-Billion-in-2031-Says-Stratview-Research.html",
+      "tickers": [
+        "MMM",
+        "HON"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/0b13b3bb-ce12-4d7e-b698-1d1a9fe7f607",
+      "description": "The global fall protection market is projected to grow at 4.7% annually from 2025 to 2031, reaching a size of $4.6 billion. The construction industry is expected to remain the largest demand generator, driven by rising construction activities and emphasis on worker safety. Asia-Pacific is anticipated to hold the largest market share, supported by growth in construction and infrastructure development.",
+      "keywords": [
+        "fall protection",
+        "construction",
+        "Asia-Pacific",
+        "worker safety"
+      ],
+      "insights": [
+        {
+          "ticker": "MMM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "3M Company is identified as one of the top players in the fall protection market, indicating its strong position and potential to benefit from the market's growth."
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Honeywell International Inc. is also identified as one of the top players in the fall protection market, suggesting its strong presence and ability to capitalize on the market's expansion."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T23:04:09.473926+00:00",
+    "cache_key": "news_3a0a2459303d8db41dbaa37dc1a42e3e",
+    "count": 4
+  }
+}

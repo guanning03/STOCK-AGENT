@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Palantir Billionaire Peter Thiel Dumped Nvidia and Bought This Other Magnificent Stock Instead -- Even as Warren Buffett Was Selling It Before Retiring",
+      "description": "Peter Thiel's hedge fund recently exited his entire stake in Nvidia stock.",
+      "published_utc": "2026-01-10T11:50:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bb0eef586bcbd7a2b366094d566b1cf3298a801695bd1f6e0227b2535b21871b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138057721,
+      "datetime": 1768063800
+    },
+    {
+      "title": "How BlackRock, world's largest asset manager, is fine-tuning market portfolios for 2026",
+      "description": "Investing giant BlackRock expects bull market in AI stocks to extend in 2026, but says investors should focus on targeted bets and turning cash into income.",
+      "published_utc": "2026-01-10T05:07:23",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=fe2ba629737aca48c1a32f7b613de22536cc3210acabb18bd73e29838903c599",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108236078-1764783843260-gettyimages-2249757163-mms20605_bt3ojunr.jpeg?v=1764783866&w=1920&h=1080",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138057096,
+      "datetime": 1768039643
+    },
+    {
+      "title": "GME, NVDA, MSTR And More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
+      "description": "Retail investors talked up five hot stocks this week (Jan. 2 to Jan. 9) on X and Reddit&#39;s r/WallStreetBets: GME, NVDA, MSTR, GOOG, TSLA.",
+      "published_utc": "2026-01-10T04:01:17",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=3cac9c6d29c1e9072a3d80f34a57d1a0174874cf4b5b6ec3755f843139f26c66",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/01/10/Wallstreetbets-Reddit-Community-Web-Page.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138514922,
+      "datetime": 1768035677
+    },
+    {
+      "title": "5 Things That Won't Happen In 2026 (The Alpha Of Inertia)",
+      "description": "This article lays out five slow-moving certainties for 2026 that investors can lean on. Click here to read more.",
+      "published_utc": "2026-01-10T03:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=dc02cc7e318de2d458d5b92b23ef870ba3ca8e58c355af40624245a0a5104aac",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2204917953/image_2204917953.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138055532,
+      "datetime": 1768033800
+    },
+    {
+      "title": "BofA Reiterates Buy on Apple (AAPL) With $325 Target",
+      "description": "Apple Inc. (NASDAQ:AAPL) is one of the AI Stocks Analysts Are Watching Closely. On January 6, BofA Securities analyst Wamsi Mohan reiterated a Buy rating on the stock with a $325.00 price target. Analysts are optimistic about the stock driven by steady App Store momentum, strong capital returns, and long-term AI leadership potential. The firm […]",
+      "published_utc": "2026-01-10T03:20:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ee8432463d8d480c30f2d27a16f00f2e9027f52148e1a9fea338f1670449ba32",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138055362,
+      "datetime": 1768033211
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:16:13.931193+00:00",
+    "cache_key": "news_ff6d530e15f5121b72d7502ecae726ec",
+    "count": 5
+  }
+}

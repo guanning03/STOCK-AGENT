@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "3 S&P 500 Stocks We Approach with Caution",
+      "description": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn’t mean every stock is worth owning. Some companies face significant challenges, whether it’s stagnating growth, heavy debt, or disruptive new competitors.",
+      "published_utc": "2025-12-23T23:35:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a70193e566aed81fdd655f2366bede4f4f37fba12315cb10d291dde1a76bab18",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137897334,
+      "datetime": 1766550925
+    }
+  ]
+}

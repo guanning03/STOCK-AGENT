@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "US Equities Fall in Muted Trading as Nvidia, Tesla Decline",
+      "description": "US equity benchmarks fell Monday in muted trading with most of the Magnificent Seven tech stocks und",
+      "published_utc": "2025-12-29T16:55:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8ac09a13b2289fb5a2a51b94d979c5fd38f7e95b71d879695dbf8b4ef5af7c7d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137940111,
+      "datetime": 1767045358
+    },
+    {
+      "title": "Stocks to Watch Monday Recap: Lululemon, Newmont, DigitalBridge",
+      "description": "? Lululemon (LULU): The sports-clothes maker's founder, Chip Wilson, is launching a proxy fight to remake the company’s board while Lululemon searches for a new CEO. Shares advanced 1.7%, bucking the downward trend in stocks.",
+      "published_utc": "2025-12-29T16:46:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=70553304626a63a79c7e579015613682da7f03b259b1d682a813ab7629f4e57f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137940154,
+      "datetime": 1767044804
+    },
+    {
+      "title": "Tracking The $13.74B Lone Pine Capital Portfolio - Q3 2025 Update",
+      "description": "",
+      "published_utc": "2025-12-29T16:26:17",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=07c6a6581054119b72e2feaab4363ba32aa6949f07ee27c1a4dfbcc7e3855fe3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137936206,
+      "datetime": 1767043577
+    },
+    {
+      "title": "Amazon to halt Italy drone delivery plans, Eightco stock pops",
+      "description": "Market Domination host Josh Lipton tracks several of the day's top trending stock tickers, including Lululemon (LULU) founder Chip Wilson reportedly launching a proxy battle as he plans to add three seats to the company's board. Amazon (AMZN) halting plans for drone deliveries in Italy, and Eightco (ORBS) shares surging on Monday on the company's $125 million share buyback program. To watch more expert insights and analysis on the latest market action, check out more Market Domination.",
+      "published_utc": "2025-12-29T16:01:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0eb737fcbcf4dfe0259d2670154c0ac6fdce46554014bdc2985cea121236aaef",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137935118,
+      "datetime": 1767042109
+    },
+    {
+      "title": "Alphabet Stock’s 2025 Rebound Has Wall Street Betting on More Gains",
+      "description": "Alphabet stock was the best performer in the Magnificent 7 in 2025, as investors grew more confident in its AI and search strategy.",
+      "published_utc": "2025-12-29T15:31:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=66cd7c710d8e667e0a84e047120cbe46bfbec4c70d6540ad1899b0eb35d953ad",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137940114,
+      "datetime": 1767040260
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T09:21:32.973640+00:00",
+    "cache_key": "news_428fdb19c579daa0af8d42b2ababfbee",
+    "count": 5
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "id": "dc03ca88cb2a4ae39a85a165402f67ee54a072b6737d307b1fff114232b86f4c",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Crucial Thing Investors Are Missing About Procter & Gamble's Sales",
+      "author": "Eric Volkman",
+      "published_utc": "2025-02-16T10:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/16/1-crucial-thing-investors-are-missing-about-procte/?source=iedfolrf0000001",
+      "tickers": [
+        "PG"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805672/person-shopping-in-a-grocery-store-aisle.jpg",
+      "description": "Procter & Gamble (PG) surprised on the upside in its second quarter of fiscal 2025, growing key fundamentals like net sales and core earnings without raising prices. This impressive feat showcases the company's ability to drive volume growth in its diverse product portfolio.",
+      "keywords": [
+        "Procter & Gamble",
+        "earnings",
+        "growth",
+        "pricing",
+        "volume"
+      ],
+      "insights": [
+        {
+          "ticker": "PG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Procter & Gamble's ability to grow its net sales and core earnings by 2% year-over-year without raising prices, which is an impressive feat for a large, established company. This demonstrates the company's operational efficiency and its success in driving volume growth across its diverse product categories."
+        }
+      ]
+    }
+  ]
+}

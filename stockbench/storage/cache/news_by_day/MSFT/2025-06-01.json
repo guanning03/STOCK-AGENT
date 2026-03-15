@@ -1,6 +1,81 @@
 {
   "items": [
     {
+      "title": "Madison Diversified Income Fund Q1 2025 Investment Strategy Letter",
+      "description": "Madison Diversified Income Fund was well positioned for the quarterâs market volatility via a relative underweight to stocks against its long-term 50% portfolio target.",
+      "published_utc": "2025-06-01T18:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5252f08a9224f0116f37e9823f42fbefe189c7642d622e6e433c49c9ae9f32f2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1360551449/image_1360551449.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134930488,
+      "datetime": 1748817600
+    },
+    {
+      "title": "Tracking Mario Gabelli's Gabelli Funds 13F Portfolio - Q1 2025 Update",
+      "description": "Discover Gabelli Funds' Q1 2025 portfolio updates: $13.12B value, top holdings, disciplined profit-taking, and a broad, risk-managed investment strategy.",
+      "published_utc": "2025-06-01T15:39:29",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2025f666130384a11306f56e9930a8a85f8b85329a8ff5218858d081f3d4ea58",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134929675,
+      "datetime": 1748806769
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang Just Delivered Incredible News for Amazon Investors",
+      "description": "Nvidia surpassed expectations for revenue and earnings in the 2026 fiscal first quarter.  CEO Jensen Huang sees a future where generative AI is embedded into all everyday applications.  Amazon is the largest global provider of cloud computing services and will benefit from developers bringing AI into their applications.",
+      "published_utc": "2025-06-01T11:41:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b1719fe442f5fe716eaf8580cdf6a8ccdcb72f358b8faf85cb2f8f275c5c5d5a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134930004,
+      "datetime": 1748792460
+    },
+    {
+      "title": "Big Tech Is Back in S&P 500 Driver’s Seat as Profit Engines Hum",
+      "description": "(Bloomberg) -- The same technology giants that helped drag the S&P 500 to the brink of a bear market in April are giving the recovery in US equities some legs.Most Read from BloombergBillionaire Steve Cohen Wants NY to Expand Taxpayer-Backed FerryWhere the Wild Children’s Museums AreNow With Colorful Blocks, Tirana’s Pyramid Represents a Changing AlbaniaThe Economic Benefits of Paying Workers to MoveNYC Congestion Toll Brings In $216 Million in First Four MonthsNvidia Corp. put a bow on a better",
+      "published_utc": "2025-06-01T11:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cf21208226102bc4d148436f243140ed71a72853537824f37e9c557040154686",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134927980,
+      "datetime": 1748790000
+    },
+    {
+      "title": "Billionaire David Tepper Bought More Shares of This Artificial Intelligence (AI) Stock That Could Join Apple, Microsoft, and Nvidia in the $3 Trillion Club by 2030",
+      "description": "Fund manager David Tepper increased his stake in Meta Platforms in the first quarter.  The company's AI-related work is already producing results, but the best is yet to come.  Meta Platforms could beat the market in the next five years, even as it faces some obstacles.",
+      "published_utc": "2025-06-01T09:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f8e4e37de2cdca44305758bc256f88e31ec04093a04c49b11be97913f7702cf6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134927683,
+      "datetime": 1748784600
+    },
+    {
       "title": "Move Over FAANG, Enter the TACO Trade: This Monster ETF Could Be Poised to Take Off",
       "description": "Wall Street is abuzz with the TACO trade right now.",
       "published_utc": "2025-06-01T06:20:00",

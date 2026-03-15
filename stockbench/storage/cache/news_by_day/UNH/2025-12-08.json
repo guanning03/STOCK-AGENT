@@ -1,0 +1,126 @@
+{
+  "items": [
+    {
+      "title": "UnitedHealth Group (UNH) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "description": "UnitedHealth Group (UNH) closed at $323.62 in the latest trading session, marking a -2.2% move from the prior day.",
+      "published_utc": "2025-12-08T17:45:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3604cfdc3d12e1ec79270549324fa7349b5c3b1d84987550809f2acc1c371d00",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137737815,
+      "datetime": 1765233905
+    },
+    {
+      "title": "WTV: Shareholder Yield ETF Outperforming Its Peers",
+      "description": "The WisdomTree U.S. Value Fund ETF excels with high yield, low fees, and top returns. Here's what investors need to know.",
+      "published_utc": "2025-12-08T13:45:56",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7584c324268517f728eb626ab75e9e8b637422f1dfd71e22b718a64b2750bfa0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1478479389/image_1478479389.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137735132,
+      "datetime": 1765219556
+    },
+    {
+      "title": "Can UNH's AI-Powered Virtual Assistance Enhance Member Experience?",
+      "description": "UnitedHealth's AI-powered virtual assistants aim to simplify claims, boost engagement and deliver faster, more intuitive healthcare support.",
+      "published_utc": "2025-12-08T11:31:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=63ab0ab5284028d4f523b87d52b6fb75bfb0c29e995ce4d4f049ca221d6e9eb5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137737816,
+      "datetime": 1765211460
+    },
+    {
+      "id": "4894e5540be9f9893696e189fd9903668b33d7bd6628e6c7fe6f48770624abbd",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "5 Unstoppable Stocks the Soon-to-Be-Retiring Warren Buffett Is Betting Big On for 2026",
+      "author": "Sean Williams",
+      "published_utc": "2025-12-08T08:06:00Z",
+      "article_url": "https://www.fool.com/investing/2025/12/08/5-stocks-warren-buffett-is-betting-big-on-for-2026/?source=iedfolrf0000001",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "SIRI",
+        "DPZ",
+        "UNH",
+        "POOL"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F845583%2Fbuffett11-tmf.jpg&w=1200&op=resize",
+      "description": "As Warren Buffett prepares to retire as CEO of Berkshire Hathaway, he continues to strategically invest in five key stocks with strong competitive advantages and robust capital-return programs, including technology, healthcare, and consumer service companies.",
+      "keywords": [
+        "Warren Buffett",
+        "retirement",
+        "investing",
+        "stocks",
+        "Berkshire Hathaway"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Dominant search engine market share, strong YouTube platform, growing cloud infrastructure services, and AI integration"
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Dominant search engine market share, strong YouTube platform, growing cloud infrastructure services, and AI integration"
+        },
+        {
+          "ticker": "SIRI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Legal satellite radio monopoly, stable subscription-based revenue model, attractive dividend yield"
+        },
+        {
+          "ticker": "DPZ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong brand rebuilding, consistent growth initiatives, AI technology integration, steady dividend increases"
+        },
+        {
+          "ticker": "UNH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Predictable health insurance operations, potential cost management challenges, diversified healthcare services"
+        },
+        {
+          "ticker": "POOL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong cyclical ties, recurring revenue from pool maintenance, robust capital-return program"
+        }
+      ]
+    },
+    {
+      "title": "Warren Buffett's 3 Best High-Yield Dividend Stocks for Income Investors to Buy Now",
+      "description": "Income investors should like these three Buffett stocks, along with three other honorable mentions.",
+      "published_utc": "2025-12-08T05:04:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a9c32571646d933fdae81aad103c98048eaf5998e3b1e14c8e31f6e76e01d9a4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137732307,
+      "datetime": 1765188240
+    }
+  ]
+}

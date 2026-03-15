@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "id": "ee146333dec581c90da093f7762055a3f7518f6eb0392130c719f229c55ab1eb",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "History Suggests This Defense Stock Will Outperform the Defense Market",
+      "author": "Rich Smith",
+      "published_utc": "2024-12-08T12:07:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/08/history-suggests-this-defense-stock-to-outperform/?source=iedfolrf0000001",
+      "tickers": [
+        "LDOS",
+        "BA",
+        "BApA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799797/flaming-stock-arrow-made-of-fire-rises.jpg",
+      "description": "Leidos, through its Dynetics subsidiary, has won a $670 million contract from the U.S. Army to conduct research and development on hypersonic missiles. This contract comes after a strong quarter for Leidos, with the company reporting better-than-expected sales and earnings, an upwards revision to guidance, and a high book-to-bill ratio.",
+      "keywords": [
+        "Leidos",
+        "Dynetics",
+        "hypersonic missiles",
+        "defense contracts",
+        "valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "LDOS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Leidos has won a significant contract for hypersonic missile research, which comes on the heels of a strong financial performance in the previous quarter. The company's valuation also appears attractive compared to the broader defense industry."
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions a separate set of defense contracts awarded to Boeing, but the focus is on Leidos and its Dynetics subsidiary."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions a separate set of defense contracts awarded to Boeing, but the focus is on Leidos and its Dynetics subsidiary."
+        }
+      ]
+    }
+  ]
+}

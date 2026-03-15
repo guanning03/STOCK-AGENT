@@ -1,0 +1,96 @@
+{
+  "items": [
+    {
+      "id": "5c0213cb9f316496214407ee9153c2cd0d0c220c7a80d87e87ef4f42470a43f4",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Forever Portfolio: 3 Stocks to Buy in 2025 and Hold Forever",
+      "author": "Brett Schafer",
+      "published_utc": "2025-01-19T14:31:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/19/the-forever-portfolio-3-stocks-to-buy-in-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "AXP",
+        "LVMUY"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804437/meditate.jpg",
+      "description": "The article recommends three stocks for a long-term portfolio: Alphabet, American Express, and LVMH. It highlights the companies' diversification, innovation, and ability to withstand market changes as reasons for their potential to perform well over the long haul.",
+      "keywords": [
+        "Alphabet",
+        "American Express",
+        "LVMH",
+        "long-term investing",
+        "portfolio recommendations"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Alphabet's diversification, innovation, and dominant market position in search, which make it a strong long-term investment."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Alphabet's diversification, innovation, and dominant market position in search, which make it a strong long-term investment."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes American Express's long history, scale, and ability to attract a wealthier clientele, making it a durable long-term investment."
+        },
+        {
+          "ticker": "LVMUY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that LVMH's luxury brands will continue to benefit from growing global wealth, making it a good long-term investment."
+        }
+      ]
+    },
+    {
+      "id": "d22d2db7ea3d3ae83fd11a1470aeede5378d3cfe146238a7102a7e279c7abd0f",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Smartest Fintech Stocks to Buy With $500 Right Now",
+      "author": "Chris Neiger",
+      "published_utc": "2025-01-19T09:50:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/19/the-smartest-fintech-stocks-to-buy-with-500-right/?source=iedfolrf0000001",
+      "tickers": [
+        "AXP",
+        "SOFI"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804252/business-woman-working-laptop-focus-1200x800-5b2df79.jpg",
+      "description": "The article discusses two fintech stocks, American Express and SoFi Technologies, as potential investment options for investors with $500 to invest. It highlights the growth and innovation in the fintech industry and the key features of each company.",
+      "keywords": [
+        "fintech",
+        "American Express",
+        "SoFi Technologies",
+        "investing"
+      ],
+      "insights": [
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights American Express's increasing focus on tech-driven products, its strong financial performance, and its ability to attract younger customers. It also notes that the stock is a significant holding in Warren Buffett's Berkshire Hathaway portfolio, which is seen as a positive indicator."
+        },
+        {
+          "ticker": "SOFI",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article praises SoFi's innovative fintech offerings and rapid growth in its customer base. However, it also notes that the stock is currently trading at a high valuation, which may be a concern for some investors. The article suggests starting with a small position and adding to it over time."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:55:48.057658+00:00",
+    "cache_key": "news_a1789764506f28f6c67880ff8d91e9a6",
+    "count": 2
+  }
+}

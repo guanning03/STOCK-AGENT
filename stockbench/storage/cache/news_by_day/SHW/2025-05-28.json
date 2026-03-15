@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Dow falls nearly 250 points on losses in Merck, Nike shares",
+      "description": "Dow falls nearly 250 points on losses in Merck, Nike shares",
+      "published_utc": "2025-05-28T11:50:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=0e33b018e1d2fa8fd6437b1b95863915779c03437279ff09a553ad2b4033843c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134815337,
+      "datetime": 1748447400
+    },
+    {
+      "title": "Nike, Travelers share losses lead Dow's 118-point fall",
+      "description": "Nike, Travelers share losses lead Dow's 118-point fall",
+      "published_utc": "2025-05-28T07:09:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=46b9d9b879b4efac94ba8679fd1d9946e21235be210cf43cd5d783eb52466777",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134745154,
+      "datetime": 1748430540
+    },
+    {
       "title": "Best Dividend Aristocrats For June 2025",
       "description": "Investors should focus on Aristocrats with strong dividend growth, undervaluation, and high expected returns, but conduct their own due diligence. See more here.",
       "published_utc": "2025-05-28T06:15:08",

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today: Dow Slips Back Below 49K; Trump Takes On Defense Firms (Live Coverage)",
+      "description": "The Dow Jones index dipped in mixed trade Wednesday after surprise jobs data. Bitcoin stock Strategy jumped.",
+      "published_utc": "2026-01-07T17:12:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=00d24019bb03f34368b23194b5fc40d1aebfe34ff3a9cb9bd6853ed1cbffe1fa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138032848,
+      "datetime": 1767823943
+    },
+    {
+      "title": "Why Salesforce Rose 16% in December",
+      "description": "The cloud stock gained after a better-than-expected earnings report.",
+      "published_utc": "2026-01-07T17:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=571311417e86d315ba2cd4e3a4c31a67bbca81cd5c8c850950428dbfd412bade",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138033225,
+      "datetime": 1767823500
+    },
+    {
+      "title": "Signal Says Target This Struggling Dow Stock Right Now",
+      "description": "Salesforce is one of the best stocks to own in January, historically",
+      "published_utc": "2026-01-07T15:47:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1af9a1c20556852f3dd73eb0bb1fcc5b8e14650bdfe4fb1e115f836f3437b709",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138033226,
+      "datetime": 1767818851
+    },
+    {
+      "title": "Did Salesforce’s (CRM) Small AI Revenue Base and Higher API Costs Just Recast Its Margin Story?",
+      "description": "In early January 2026, Salesforce’s latest updates on its AI products, particularly Agentforce and Data 360, highlighted strong interest but underscored that these offerings still contribute less than 3.5% of total revenue, leaving questions about their current financial weight. The company’s push to raise API and integration costs while acquiring AI marketing firm Qualified has sharpened the debate over whether Salesforce’s AI ambitions can enhance margins without alienating customers or...",
+      "published_utc": "2026-01-07T14:11:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=93fb9107197dbb2984af5699de3037d079c19c1bf6324a99c53c567413da15ae",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138033227,
+      "datetime": 1767813118
+    },
+    {
+      "title": "Generative Artificial Intelligence (AI) in Chatbots Global Market Analysis Report 2025 Featuring Major Players - Amazon, Google, Microsoft, Meta, IBM, Salesforce - Long-term Forecast to 2029 and 2034",
+      "description": "The generative AI in chatbots market is poised for rapid growth, driven by rising demand for personalized interactions, cloud integration, and automation in customer service. Key opportunities lie in expanding multilingual capabilities, healthcare and banking adoption, and increasing enterprise digital transformation. Generative Artificial Intelligence (AI) in Chatbots Market Generative Artificial Intelligence (AI) in Chatbots Market Dublin, Jan. 07, 2026 (GLOBE NEWSWIRE) -- The \"Generative Arti",
+      "published_utc": "2026-01-07T11:24:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0bf463c0658256fafd0ecae0ea0770aea460fe228a6d01c6fc23379e7a900c5b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138032898,
+      "datetime": 1767803040
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:10:20.478140+00:00",
+    "cache_key": "news_7ad982b8e4b5e2538e509934552288ff",
+    "count": 5
+  }
+}

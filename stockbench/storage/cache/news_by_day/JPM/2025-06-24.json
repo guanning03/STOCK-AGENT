@@ -1,6 +1,81 @@
 {
   "items": [
     {
+      "title": "Tracking Ole Andreas Halvorsen's Viking Global Portfolio - Q1 2025 Update",
+      "description": "",
+      "published_utc": "2025-06-24T18:20:55",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9a9da7f7e18d228967693726dc1eba196ff21c1e363c445b788802879b730ad8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135513611,
+      "datetime": 1750803655
+    },
+    {
+      "title": "Top Analyst Reports for JPMorgan, Novartis & AT&T",
+      "description": "JPM's strong NII outlook, NVS's blockbuster pipeline, and T's wireless momentum anchor today's top analyst picks.",
+      "published_utc": "2025-06-24T16:53:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=136f42b6f1d173fa380f4bd387ad73cbfaf1217c0ea842226d4b2701e179e5a9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135511572,
+      "datetime": 1750798380
+    },
+    {
+      "title": "Sector Update: Financial Stocks Rise Late Afternoon",
+      "description": "Financial stocks advanced in late Tuesday afternoon trading, with the NYSE Financial Index rising 1.",
+      "published_utc": "2025-06-24T15:45:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1473fc98d24b58ac0177805b3e7eff7a5880a7c8b5c65136415647af295fb764",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135513194,
+      "datetime": 1750794304
+    },
+    {
+      "title": "Update: Market Chatter: Senator Warren Criticizes Regulators' Potential Leverage Rule Changes for Banks",
+      "description": "(Updates with responses from a Federal Reserve spokesperson in the fourth paragraph and the Office o",
+      "published_utc": "2025-06-24T13:09:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ec25527f06b206eb92021bae97914833ac4b51ffae1a8f5b4bc3de902b86f085",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135509255,
+      "datetime": 1750784995
+    },
+    {
+      "title": "US Plan to Ease Capital Rule, Boost Treasury Market Liquidity Stands to Benefit Big Bank Shareholders, Morningstar Analyst Says",
+      "description": "US regulators are looking to bolster big banks' roles as Treasury market intermediaries by reducing",
+      "published_utc": "2025-06-24T12:43:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bef55d1c3d6074e0d5b884e7a4771feb31e26d2342b4765ecc95be58495dbd7d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135509256,
+      "datetime": 1750783433
+    },
+    {
       "title": "JPMorgan Chase & Co. (JPM) Laps the Stock Market: Here's Why",
       "description": "JPMorgan Chase & Co. (JPM) reached $278.27 at the closing of the latest trading day, reflecting a +1.19% change compared to its last close.",
       "published_utc": "2025-06-24T05:45:04",

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "FTAI Aviation Earnings Due With New AI Stock Eyeing Buy Point",
+      "description": "FTAI Aviation earnings loom with strong growth expected for the jet engine repair shop. But FTAI stock has surged in 2026 on a new AI shift.",
+      "published_utc": "2026-02-25T14:26:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8d6f85c78fd0e5df8053ad56b4217cf61ddf1a6d317b7f5f1ff3045b277f1a2f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139224009,
+      "datetime": 1772047619
+    },
+    {
+      "title": "'Pentagon Takes First Step Toward Blacklisting Anthropic; Pentagon Reached Out To Boeing And Lockheed Martin On Wednesday To Ask About Their Exposure To Anthropic'- Axios",
+      "description": "https://www.axios.com/2026/02/25/anthropic-pentagon-blacklist-claude",
+      "published_utc": "2026-02-25T13:42:09",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=c83451731ab0839d0cbaabe9dd0f830c22c549620c337219ce0b9a2fb8ee9a80",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139231605,
+      "datetime": 1772044929
+    },
+    {
+      "title": "Revisiting 3 Stock Picks: S&P Global, Boeing, and MSG Sports. Where They Stand Now.",
+      "description": "Revisiting former stock picks isn’t just about tallying past performance—old calls can reveal fresh investing opportunities.  This week I revisit S&P Global, a financial data play possibly on the rebound;  Boeing’s  tactical pullback; and entertainment play MSG Sports.  Last month, Barron’s Todd Chanko said to buy S&P Global, the ratings and financial data giant, when it was trading around $528.",
+      "published_utc": "2026-02-25T13:38:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5526bdb0af5df480d5851ce39ab742367afbc38e3409de7a41ab9c1396b95a44",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139225166,
+      "datetime": 1772044680
+    },
+    {
+      "title": "China Plans Up to 120 Airbus Aircraft Order, Merz Says",
+      "description": "German Chancellor Friedrich Merz says Chinese leadership intends to order as many as 120 additional Airbus commercial jets.",
+      "published_utc": "2026-02-25T13:06:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5a55cecd41e4c7edbb3fcafc65fd66cbb94b1412843618c741ae80c308bebf4d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139224010,
+      "datetime": 1772042809
+    },
+    {
+      "title": "Federal Aviation Administration Issues Directive To Help Pilots Address Reports Of Boeing 737 In-Flight Events Involving Excessive Temperatures",
+      "description": "- Reuters",
+      "published_utc": "2026-02-25T12:11:05",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=57a595c967efe46cca65c1d1160a649747c0bd1c63455d68fd3cc9cbc929862c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139231898,
+      "datetime": 1772039465
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:42:32.723473+00:00",
+    "cache_key": "news_8ed2c60f28a57d4727453c2c2597e1c4",
+    "count": 5
+  }
+}

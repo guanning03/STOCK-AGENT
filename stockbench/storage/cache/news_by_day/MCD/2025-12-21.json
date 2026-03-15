@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "This Dividend King Just Raised Its Payout for the 50th Time",
+      "description": "Pentair is the latest stock to reach this elite status.",
+      "published_utc": "2025-12-21T23:06:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=48c99c47c3989f461073e3b162d52b2b6e1052117aa17bf85c0d1f454e98768c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137856770,
+      "datetime": 1766376360
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "items": [
+    {
+      "id": "a1d6c5a6f62845eae6cb58ac6de1b79eee9d1e752a95cf5e82f3d408c9ff7f8a",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Reason I'm Never Selling Nvidia Stock",
+      "author": "Rich Smith",
+      "published_utc": "2025-12-14T14:09:00Z",
+      "article_url": "https://www.fool.com/investing/2025/12/14/1-reason-im-never-selling-nvidia-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "AMD",
+        "MRVL",
+        "QCOM",
+        "AMZN",
+        "GOOG",
+        "GOOGL"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F845705%2F3d-rendering-of-a-charging-bull-atop-a-semiconductor-chip.jpg&w=1200&op=resize",
+      "description": "Despite concerns about potential competition and margin compression, Nvidia remains a strong investment with robust AI chip demand, projected 44% annual earnings growth, and a fair valuation of 45 times trailing earnings.",
+      "keywords": [
+        "Nvidia",
+        "AI",
+        "semiconductors",
+        "technology stocks",
+        "earnings growth"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong market position in AI chips, projected 44% annual earnings growth, dominant market share, and attractive valuation metrics"
+        },
+        {
+          "ticker": "AMD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Potential competitor to Nvidia, mentioned as a rival considering entry into AI chip market"
+        },
+        {
+          "ticker": "MRVL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Potential competitor to Nvidia, mentioned as a possible entrant in AI chip market"
+        },
+        {
+          "ticker": "QCOM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Potential competitor to Nvidia, mentioned as a possible entrant in AI chip market"
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a potential AI chip market entrant, but also noted as a significant Nvidia GPU customer"
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Potential competitor developing AI chips, but simultaneously investing $20 billion annually in Nvidia GPUs"
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Potential competitor developing AI chips, but simultaneously investing $20 billion annually in Nvidia GPUs"
+        }
+      ]
+    },
+    {
+      "title": "EOD: Well-Positioned If The USA Outperforms The EU Going Forward",
+      "description": "Discover the Allspring Global Dividend Opportunity Fund's 9.02% yield, capital preservation, and solid valueâsee if EOD fits your investment strategy today!",
+      "published_utc": "2025-12-14T07:37:32",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b83e949d3e9464412dc3970b58e787ec6d41e1df0112b5488f5f9c6dc8e5ef63",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2227015600/image_2227015600.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137785086,
+      "datetime": 1765715852
+    },
+    {
+      "title": "Here's Why 20 States Are Taking Donald Trump To Court Over A Little-Noticed H-1B Visa Fee Change",
+      "description": "",
+      "published_utc": "2025-12-14T06:15:31",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=6681bd5dd10d9bf96064a04e0286114b6f1cdfd908715aa6a7d251659ae97a52",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/12/14/H-1b-Visa-Application-Concept-Smartphone.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138972396,
+      "datetime": 1765710931
+    },
+    {
+      "title": "The Bubble Everyone Sees - And The One I'm Preparing For",
+      "description": "Are we in a market bubble? Read why investors should recognize risks and consider diversification.",
+      "published_utc": "2025-12-14T02:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b45bbf46769c2c8f44a6dc34504a55da1c55fa0f7f29916a727a8cb8e1606d46",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2240043453/image_2240043453.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137782899,
+      "datetime": 1765697400
+    },
+    {
+      "title": "Why I Added GPIQ: Income, Stability, Quality - And Outperformance",
+      "description": "Goldman Sachs Nasdaq-100 Premium Income ETF stands out for its stability, tax benefits, and growth. Read why I recently added GPIQ to my income portfolio here.",
+      "published_utc": "2025-12-14T02:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=25859b768fdb7e9211f37f78d74181c68229586caf54174085310bd7b2e7168d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2201143780/image_2201143780.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137782769,
+      "datetime": 1765696500
+    }
+  ]
+}

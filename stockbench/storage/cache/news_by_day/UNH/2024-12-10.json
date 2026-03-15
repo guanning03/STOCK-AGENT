@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "id": "349a55ae5f260312059e36cf47374480fe75fe0ccb23c6a2ebc5558186a6d095",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Myriad Genetics Provides Update on Discussions with UnitedHealthcare regarding Medical Policy for Pharmacogenetic Testing",
+      "author": "N/A",
+      "published_utc": "2024-12-10T23:26:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2024/12/10/2995012/15459/en/Myriad-Genetics-Provides-Update-on-Discussions-with-UnitedHealthcare-regarding-Medical-Policy-for-Pharmacogenetic-Testing.html",
+      "tickers": [
+        "MYGN",
+        "UNH"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/5cb679cf-5a10-4b95-8cf7-fd1d0b56721a",
+      "description": "Myriad Genetics is in discussions with UnitedHealthcare regarding its updated medical policy that restricts access to Myriad's GeneSight test. Myriad is presenting additional clinical data to UnitedHealthcare for further review and consideration.",
+      "keywords": [
+        "Myriad Genetics",
+        "UnitedHealthcare",
+        "GeneSight",
+        "pharmacogenetic testing"
+      ],
+      "insights": [
+        {
+          "ticker": "MYGN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Myriad Genetics is actively engaging with UnitedHealthcare to present additional clinical data supporting the clinical validity and utility of its GeneSight test, indicating confidence in its product."
+        },
+        {
+          "ticker": "UNH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "UnitedHealthcare has updated its medical policy to restrict access to Myriad's GeneSight test, but Myriad is in discussions with the company to potentially resolve the issue."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Wall Street Advances as Apple Hits Record High; Earnings Calendar in Focus",
+      "description": "US equity markets rose Monday, driven by Apple's (AAPL) shares surging to a record high, as Wall Str",
+      "published_utc": "2025-10-20T17:01:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f7cce7a1228eaa50f078998b00f6a8da6fec1958ddb020600086f268b9082e5d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137173912,
+      "datetime": 1760994096
+    },
+    {
+      "title": "Earnings live: Cleveland-Cliffs stock soars, Zions Bancorp rises with results from GM, Netflix on deck",
+      "description": "Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.",
+      "published_utc": "2025-10-20T16:30:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac96b40bd9d99e48e5e16566f5f77559c972d4bc1bce097e2a8382c1198d3397",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137170740,
+      "datetime": 1760992250
+    },
+    {
+      "title": "IBM Valuation in Focus as Quantum Advantage Race Heats Up in 2025",
+      "description": "Wondering what to make of International Business Machines right now? You are not alone. Whether you already hold some shares or are just circling the IBM story, the stock’s recent run is enough to catch anyone’s attention. So far this year, IBM is up an impressive 27.9%, with the past month alone delivering a 5.6% gain. Stretch that out to three and five years and we are looking at a staggering 138.0% and 225.6% return, respectively. Clearly, something has been working in Big Blue's...",
+      "published_utc": "2025-10-20T16:07:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=93add8e284d740fa1029613985ba922cbcd95b92b8cb95b28ac2eda2e0db41b6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137173862,
+      "datetime": 1760990857
+    },
+    {
+      "title": "IBM Q3 Preview: Cash Flow and AI Set the Bar High",
+      "description": "Investors will watch whether software strength and AI bookings can translate into real revenue growth and margin gains.",
+      "published_utc": "2025-10-20T15:44:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bf34a5e9fb71067436ce725305de4289326d816d21eb8fc23dffa0cccc62bd64",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137174184,
+      "datetime": 1760989484
+    },
+    {
+      "title": "Apple Helps Lift Equities Intraday as Markets Await This Week's Corporate Earnings",
+      "description": "US benchmark equity indexes were higher after midday Monday, aided by a rise in Apple (AAPL) shares",
+      "published_utc": "2025-10-20T14:11:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=633ae8fe9b9efed7118e23a425987cf7c150cd50f0a3dc51132a805054a5eb53",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137174044,
+      "datetime": 1760983884
+    }
+  ]
+}

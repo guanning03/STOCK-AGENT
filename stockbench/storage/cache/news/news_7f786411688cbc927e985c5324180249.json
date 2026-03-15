@@ -1,0 +1,201 @@
+{
+  "items": [
+    {
+      "id": "8e1b69559dad57c8bbbaa746c8d6e817f0215ae362f240761d35ce7f9bb258fb",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Elon Musk Just Said Tesla Has a $10 Trillion Opportunity, and It Has Nothing to Do With the Car Business",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-08T21:05:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/08/elon-musk-just-said-tesla-has-a-10-trillion-opport/?source=iedfolrf0000001",
+      "tickers": [
+        "TSLA",
+        "AAPL",
+        "NVDA",
+        "MSFT",
+        "AMZN",
+        "GOOG",
+        "GOOGL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806313/gettyimages-1472958180.jpg",
+      "description": "Elon Musk claims Tesla's humanoid robot Optimus has the potential to be a $10 trillion business, separate from its electric vehicle operations. While the exact revenue potential is uncertain, Optimus could complement Tesla's labor force and unlock significant value in the long run.",
+      "keywords": [
+        "Tesla",
+        "Optimus",
+        "Humanoid robots",
+        "Artificial intelligence"
+      ],
+      "insights": [
+        {
+          "ticker": "TSLA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Tesla's diversification efforts beyond electric vehicles, with the Optimus humanoid robot project presenting a potential $10 trillion opportunity. While the exact revenue potential is uncertain, the article suggests Optimus could complement Tesla's labor force and unlock significant value in the long run."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Apple, but mentions that Elon Musk predicts Tesla will be bigger than Apple, Nvidia, Microsoft, Amazon, and Alphabet combined, suggesting Apple is part of the broader tech landscape that Tesla aims to surpass."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Nvidia, but mentions that Elon Musk predicts Tesla will be bigger than Apple, Nvidia, Microsoft, Amazon, and Alphabet combined, suggesting Nvidia is part of the broader tech landscape that Tesla aims to surpass."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Microsoft, but mentions that Elon Musk predicts Tesla will be bigger than Apple, Nvidia, Microsoft, Amazon, and Alphabet combined, suggesting Microsoft is part of the broader tech landscape that Tesla aims to surpass."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Amazon, but mentions that Elon Musk predicts Tesla will be bigger than Apple, Nvidia, Microsoft, Amazon, and Alphabet combined, suggesting Amazon is part of the broader tech landscape that Tesla aims to surpass."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Alphabet, but mentions that Elon Musk predicts Tesla will be bigger than Apple, Nvidia, Microsoft, Amazon, and Alphabet combined, suggesting Alphabet is part of the broader tech landscape that Tesla aims to surpass."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Alphabet, but mentions that Elon Musk predicts Tesla will be bigger than Apple, Nvidia, Microsoft, Amazon, and Alphabet combined, suggesting Alphabet is part of the broader tech landscape that Tesla aims to surpass."
+        }
+      ]
+    },
+    {
+      "id": "319db90034e2f2f5fc3c9000a3be4c787397952d99200195706e65819e8d1e06",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Best Stock to Buy Right Now: SiriusXM vs. Apple",
+      "author": "Chris Neiger",
+      "published_utc": "2025-02-08T13:10:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/08/best-stock-to-buy-right-now-sirius-xm-vs-apple/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "SIRI"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806403/gettyimages-1141254399-1200x800-5b2df79.jpg",
+      "description": "The article compares Apple and SiriusXM, noting that while SiriusXM dominates satellite radio, its subscriber growth has stagnated, and it faces intense competition in the music subscription space. In contrast, Apple has a more diversified business and continues to introduce new products and services, making it a more attractive investment option.",
+      "keywords": [
+        "Apple",
+        "SiriusXM",
+        "music subscription",
+        "satellite radio",
+        "diversified business"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Apple's diversified business, its efforts to further diversify its sales, and its consistent growth, making it a more attractive investment option compared to SiriusXM."
+        },
+        {
+          "ticker": "SIRI",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article notes that SiriusXM's subscriber growth has stagnated, its subscriber numbers are retreating, and it faces intense competition in the music subscription space, which is troubling for potential investors."
+        }
+      ]
+    },
+    {
+      "id": "92300da0a6a3a51a5cf791fc9db4b967574634d0952c1402e54872220222f0e5",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why Trying to Copy Warren Buffett's Latest Moves May Not Be a Great Strategy for Investors",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-08T10:49:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/08/why-trying-to-copy-warren-buffetts-latest-moves-ma/?source=iedfolrf0000001",
+      "tickers": [
+        "BRK.A",
+        "BRK.B",
+        "KO",
+        "KHC",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806076/warren-buffett-in-a-group-of-people.jpg",
+      "description": "Investors should not blindly copy Warren Buffett's stock picks, as his investment strategy and goals may not align with their own. Buffett's portfolio has underperformed the broader market in recent years, and his aversion to riskier tech stocks may cause investors to miss out on growth opportunities.",
+      "keywords": [
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "investing strategy",
+        "stock picks",
+        "tech stocks"
+      ],
+      "insights": [
+        {
+          "ticker": "BRK.A",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire Hathaway's portfolio has underperformed the broader market in recent years, suggesting that blindly copying Buffett's stock picks may not be the best strategy for all investors."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire Hathaway's portfolio has underperformed the broader market in recent years, suggesting that blindly copying Buffett's stock picks may not be the best strategy for all investors."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Coca-Cola, a long-time Berkshire Hathaway holding, has generated less than 30% in total returns over the past five years, underperforming the S&P 500's over 100% returns during the same period."
+        },
+        {
+          "ticker": "KHC",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Kraft Heinz, another long-time Berkshire Hathaway holding, has also underperformed the broader market, generating less than 30% in total returns over the past five years."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple is the exception in Berkshire Hathaway's portfolio, as it is a large tech stock that has performed well and aligns more with a steadily growing consumer business than a rapidly innovating tech company."
+        }
+      ]
+    },
+    {
+      "id": "cdb924af96676c5453aff00950b205771cf984e96e05f9df64fab536237da687",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "If You Bought 1 Share of Apple at Its IPO, Here's How Many Shares You Would Own Now",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-08T10:08:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/08/if-you-bought-1-share-of-apple-at-its-ipo-heres-ho/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806147/gettyimages-2155315261-1200x675-128554e.jpg",
+      "description": "If you had bought 1 share of Apple at its IPO, you would now own 224 shares due to multiple stock splits. Apple's stock price has seen tremendous appreciation, trading at $236 as of January 31st. However, the company's valuation indicates the market expects fast growth, and investors will likely want to see better than the 4% revenue growth posted in its fiscal 2025 first quarter.",
+      "keywords": [
+        "Apple",
+        "stock splits",
+        "stock price appreciation",
+        "valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple's stock has seen tremendous price appreciation over the years, with the company's shares trading at $236 as of January 31st. The article highlights the significant increase in the number of shares owned due to multiple stock splits, indicating the company's success and growth."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:48:05.304067+00:00",
+    "cache_key": "news_7f786411688cbc927e985c5324180249",
+    "count": 4
+  }
+}

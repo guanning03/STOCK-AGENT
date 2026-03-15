@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "S&P 500 Snapshot: Inches Off Record High",
+      "description": "The S&P 500 bounced back with a weekly gain of 2.4% and is now just inches off a new record high",
+      "published_utc": "2025-08-11T16:25:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=484b6b1017a395d7792d7d6c60ae10925d4f3598f5cffde20a7749c0b13450d9",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1733693398/image_1733693398.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136313142,
+      "datetime": 1754943900
+    },
+    {
+      "title": "BAGEL: Trump's 15% Bite Of Nvidia And AMD",
+      "description": "Nvidia and AMD can sell AI chips to China againâbut President Trump now takes a 15% cut off the top. Click here for more information on Market Outlook.",
+      "published_utc": "2025-08-11T15:20:42",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5879c713668cb4056dce86b5eae6a0e99686e574bb80e01a508a6ea2d1a6426d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1416843878/image_1416843878.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136312864,
+      "datetime": 1754940042
+    },
+    {
+      "title": "I Said Highs, We Got Highs; Next Up, A Likely Breakout After A US-China Deal",
+      "description": "Markets near all-time highs with potential US-China trade deal as catalyst. Discover key insights on trade impacts and stock opportunities.",
+      "published_utc": "2025-08-11T14:30:36",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=87e9b18dbead5c4bf679c579d9b07451891a298b6b4f5580d6cd1b4e398dc96b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1275414961/image_1275414961.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136312587,
+      "datetime": 1754937036
+    },
+    {
+      "title": "The Cavalry Isn't Coming",
+      "description": "Discover how a potential 100bps Fed rate cut could impact markets and the U.S. economy. Click for my updated look at current trends in the market.",
+      "published_utc": "2025-08-11T12:29:28",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=edef9334bf231c94f8b162858ed6db87771060764eb7da0e11e45ac7b7344266",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/458674995/image_458674995.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136311727,
+      "datetime": 1754929768
+    },
+    {
+      "title": "This Market Signal Has Not Occurred Since 2006",
+      "description": "US stocks soar on strong fundamentals as Nasdaq hits record highs.",
+      "published_utc": "2025-08-11T12:25:02",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3cd5327113400bac185fc233407f537ecb4161e6771e3761431bf31f443d1e7e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/175399977/image_175399977.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136311597,
+      "datetime": 1754929502
+    }
+  ]
+}

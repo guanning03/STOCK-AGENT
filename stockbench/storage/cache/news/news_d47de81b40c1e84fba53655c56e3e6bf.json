@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "PayPal Is The Most Hated Stock We Track Today",
+      "description": "Shares of PayPal (NASDAQ:PYPL) slipped 1.0% on January 9th to close at $57.66, coinciding with extreme negative sentiment on Reddit that has persisted for weeks. The company’s sentiment score hit 12 on a 100-point scale, categorized as “very bearish,” driven by a viral post from a retail trader down $20,000 on the stock who described ... PayPal Is The Most Hated Stock We Track Today",
+      "published_utc": "2026-01-10T11:12:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4c56008bc953ad5cc42817cde7d24cff25d7ecb65c40260a204903dc38efdd34",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138069351,
+      "datetime": 1768061571
+    },
+    {
+      "title": "AI Reset Is Complete; Tech's Next Leg Starts Here",
+      "description": "Tech (XLK) shows resilient momentum as AI buildout accelerates. Insider buying and attractive valuations (incl.",
+      "published_utc": "2026-01-10T06:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=69dbf643c5d285bee62ee97e260eb40c9ca1270d97a88cda3351ce94c9c5e9b8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2216425295/image_2216425295.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138056783,
+      "datetime": 1768044600
+    },
+    {
+      "title": "Countdown To March: Jobs Report Locks In Rate Cut",
+      "description": "The December jobs report shows a weak labor market, slow growth, wage gains above inflation, and a K-shaped expansion. Learn why a Fed rate cut may come in March.",
+      "published_utc": "2026-01-10T04:39:22",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f8bf5a11b7435d8f36b811d28babaac8d776a70696ce8bd2cd9498d847d4e770",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/910266102/image_910266102.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138055909,
+      "datetime": 1768037962
+    },
+    {
+      "title": "David Sykes On What Matters For Investors In 2026",
+      "description": "The new year is off to a fast and complex start, with dramatic geopolitical headlines, record markets, and rapid AI adoption. TD Asset Management's David Syke discusses the investment impact",
+      "published_utc": "2026-01-10T04:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3711ac0d02ff8c8397bd01287f9327b98608f6cf5cfad514c8a9ddbf8aa8b261",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2205848068/image_2205848068.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138055720,
+      "datetime": 1768036500
+    },
+    {
+      "title": "The Jobs Report Rules Out A Rate Cut In January",
+      "description": "December 2025 jobs report shows a softer labor market but keeps Fed rate cuts off the table.",
+      "published_utc": "2026-01-10T04:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=54fc4f28f9aa7f9da70905ae8a4d9be972292e36d10015bad2c185e402f5f34f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1355843209/image_1355843209.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138055679,
+      "datetime": 1768035600
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:16:53.216783+00:00",
+    "cache_key": "news_d47de81b40c1e84fba53655c56e3e6bf",
+    "count": 5
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "items": [
+    {
+      "id": "7c31b680500994277c698ea77364aa074e2c2524a5998bb29b025c7a671c0c16",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Warren Buffett Really Fleeing Stocks? These 18 Words From the Billionaire Offer a Strikingly Clear Answer.",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-23T23:10:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/23/is-warren-buffett-really-fleeing-stocks-these-18-w/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK",
+        "SPY",
+        "VOO"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808671/warren-buffett-4-tmf-may-2014.jpg",
+      "description": "Warren Buffett has been a net seller of stocks, but his recent comments suggest he is not fleeing the stock market. Instead, he may be cautious about high valuations and selectively buying quality stocks at reasonable prices.",
+      "keywords": [
+        "Warren Buffett",
+        "stocks",
+        "investing",
+        "market valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett reduced his position in Apple, but the company remains Berkshire Hathaway's biggest holding."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett also reduced his position in Bank of America, but the company remains a significant investment for Berkshire Hathaway."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett also reduced his position in Bank of America, but the company remains a significant investment for Berkshire Hathaway."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett also reduced his position in Bank of America, but the company remains a significant investment for Berkshire Hathaway."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett also reduced his position in Bank of America, but the company remains a significant investment for Berkshire Hathaway."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett also reduced his position in Bank of America, but the company remains a significant investment for Berkshire Hathaway."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett also reduced his position in Bank of America, but the company remains a significant investment for Berkshire Hathaway."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett also reduced his position in Bank of America, but the company remains a significant investment for Berkshire Hathaway."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett also reduced his position in Bank of America, but the company remains a significant investment for Berkshire Hathaway."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett also reduced his position in Bank of America, but the company remains a significant investment for Berkshire Hathaway."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett also reduced his position in Bank of America, but the company remains a significant investment for Berkshire Hathaway."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett also reduced his position in Bank of America, but the company remains a significant investment for Berkshire Hathaway."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett also reduced his position in Bank of America, but the company remains a significant investment for Berkshire Hathaway."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett also reduced his position in Bank of America, but the company remains a significant investment for Berkshire Hathaway."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett also reduced his position in Bank of America, but the company remains a significant investment for Berkshire Hathaway."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett also reduced his position in Bank of America, but the company remains a significant investment for Berkshire Hathaway."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett also reduced his position in Bank of America, but the company remains a significant investment for Berkshire Hathaway."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett closed positions in two S&P 500 ETFs, which could be seen as a bet against the market, but his comments suggest he remains committed to investing in good American companies."
+        },
+        {
+          "ticker": "VOO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett closed positions in two S&P 500 ETFs, which could be seen as a bet against the market, but his comments suggest he remains committed to investing in good American companies."
+        }
+      ]
+    }
+  ]
+}

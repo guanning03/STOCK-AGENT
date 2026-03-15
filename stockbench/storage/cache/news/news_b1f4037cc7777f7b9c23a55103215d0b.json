@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "American Express (AXP) Declines More Than Market: Some Information for Investors",
+      "description": "The latest trading day saw American Express (AXP) settling at $360.31, representing a -1.36% change from its previous close.",
+      "published_utc": "2025-12-01T17:45:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6d9f47d822f8989bfa4dde2df1d891dc2823720601f7b0a342fa39d6599418c9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137659129,
+      "datetime": 1764629102
+    },
+    {
+      "title": "Buffett Vs. S&P 500: Will Oracle Of Omaha's Last Year As Berkshire CEO Go Down As Underperformance?",
+      "description": "Warren Buffett and Berkshire Hathaway have beaten the S&amp;P 500 in three of the last four years. In Buffett&#39;s last year as CEO, the conglomerate trails the market index.",
+      "published_utc": "2025-12-01T12:15:01",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=0b04bceb41e905974b7303d9acc97c3cba0877eb65f362c9b28a4cd2d168b74d",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/12/01/Warren-Buffett-ai5.png?width=2048&height=1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138694109,
+      "datetime": 1764609301
+    },
+    {
+      "title": "American Express Co. stock underperforms Monday when compared to competitors",
+      "description": "American Express Co. stock underperforms Monday when compared to competitors",
+      "published_utc": "2025-12-01T11:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=5d4e285c2332a62ab4db6d125a185b3d0f4002483f88ce3a00c4413169929cc8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137682721,
+      "datetime": 1764606720
+    },
+    {
+      "title": "Tap, Travel, Transact: Is Visa Quietly Crafting the Perfect Growth Mix?",
+      "description": "V's tap-to-pay surge, cross-border rebound and AI-driven fraud tools are powering a potent growth mix for FY26.",
+      "published_utc": "2025-12-01T11:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9ef2803937be21dcdc03801963e7ca8a4fbbaf2ddd53e007f0545bb5a3175856",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137658920,
+      "datetime": 1764604800
+    },
+    {
+      "title": "Here Are Billionaire Warren Buffett's 5 Biggest Stock Holdings",
+      "description": "Just a handful of companies make up the bulk of Berkshire Hathaway's equity holdings.",
+      "published_utc": "2025-12-01T09:23:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3edcf7625736894a46edada1baa2e825cd630f13ffe83ab1031b7bc9b04790ba",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137659030,
+      "datetime": 1764598980
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:52:22.349878+00:00",
+    "cache_key": "news_b1f4037cc7777f7b9c23a55103215d0b",
+    "count": 5
+  }
+}

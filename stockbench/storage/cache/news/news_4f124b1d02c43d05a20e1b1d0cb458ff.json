@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today, Feb. 2: Apple Stock Jumps After Record Q1 Revenue Boosts Investor Confidence",
+      "description": "On Feb. 2, 2026, record holiday iPhone sales, surging services, and fresh AI moves put Apple's growth story under the microscope.",
+      "published_utc": "2026-02-02T17:50:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=94aea6cfd999bc8cfe28c7082a1ad5aedaf21e0b75cbb038f97de1b8f564f84f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138337196,
+      "datetime": 1770072655
+    },
+    {
+      "title": "Stocks Rise While Commodity Markets Face Fresh Volatility",
+      "description": "The Dow industrials gained 1.1%, boosted by a strong U.S. manufacturing report. Gold ended 1.9% lower, while silver is down 33% over the past two sessions.",
+      "published_utc": "2026-02-02T17:04:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c800d0fe08fa3049dd62a3b8a92bc26658113feed9199fee23bc0dd480e9efe6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138337197,
+      "datetime": 1770069840
+    },
+    {
+      "title": "U.S. Manufacturing Is in Retreat and Trump’s Tariffs Aren’t Helping",
+      "description": "U.S. Manufacturing Is in Retreat and Trump’s Tariffs Aren’t Helping",
+      "published_utc": "2026-02-02T16:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=0eaafba76ae540b5a4884a28ec08c5834f1947d49f6a6871e3d1d1ff6bcfa0fd",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139083293,
+      "datetime": 1770066000
+    },
+    {
+      "title": "These Industrials Lead Dow Jones Stocks Through January; Apple, Microsoft Lag",
+      "description": "Honeywell led the Dow industrials with a 16.6% gain in January, its best month since October 2022. Apple. and Microsoft lagged.",
+      "published_utc": "2026-02-02T15:43:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=366500612f39b16431d45124694180a4a6475a22a03560da8e3162d1ca05e580",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138336177,
+      "datetime": 1770065006
+    },
+    {
+      "title": "Jim Cramer Says He “Underestimated” Apple’s iPhone 17 Sales",
+      "description": "Apple Inc. (NASDAQ:AAPL) is one of the stocks Jim Cramer shared his thoughts on. Cramer highlighted the company’s “magnificent quarter,” as he said: After the close, Apple reported a magnificent quarter, just tonight. A robust top and bottom line beat driven by staggering levels of demand for the iPhone 17 that nobody was looking for. […]",
+      "published_utc": "2026-02-02T15:18:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=46cc0c113eaa85fbefca806486fb5f56b2f8795d6f114957545dd1c88245f9b6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138336178,
+      "datetime": 1770063505
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:29:42.164540+00:00",
+    "cache_key": "news_4f124b1d02c43d05a20e1b1d0cb458ff",
+    "count": 5
+  }
+}

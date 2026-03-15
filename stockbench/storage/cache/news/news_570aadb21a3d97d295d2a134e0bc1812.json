@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Shares of consumer finance companies are trading higher following President Trump's decision to implement a 90-day pause on reciprocal tariffs for all countries except China.",
+      "description": "",
+      "published_utc": "2025-04-09T11:57:07",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=055167bcd95adae796d36e8c20c2eee01d2c426953e99d6d8fe170a941f2f5cb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138446137,
+      "datetime": 1744214227
+    },
+    {
+      "title": "Dow's 2125-point surge highlighted by gains for NVIDIA Corp., Boeing shares",
+      "description": "Dow's 2125-point surge highlighted by gains for NVIDIA Corp., Boeing shares",
+      "published_utc": "2025-04-09T11:00:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=172fe8639d681474d9bd919466e4a4b63700536fdd811a7ffffb3668b87b9395",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133843989,
+      "datetime": 1744210800
+    },
+    {
+      "title": "NVIDIA Corp., Boeing share gains lead Dow's nearly 2450-point surge",
+      "description": "NVIDIA Corp., Boeing share gains lead Dow's nearly 2450-point surge",
+      "published_utc": "2025-04-09T09:59:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e58b84b1aa7d6aa73706ec4ef3469b56d3a8a2ca08ebb2c939e31e238bf45545",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133843772,
+      "datetime": 1744207140
+    },
+    {
+      "title": "American Express price target lowered to $275 from $355 at Monness Crespi",
+      "description": "Monness Crespi lowered the firm’s price target on American Express (AXP) to $275 from $355 and keeps a Buy rating on the shares. While the potential for continued multiple contraction, the stock’s valuation is “now near median,” the analyst tells investors in a research note. The firm believes use of the credit card combined with a “much better balance sheet funding mix-wise” provide comfort in continuing to recommend the shares. Published first on TheFly – the ultimate source for real-time, mar",
+      "published_utc": "2025-04-09T09:50:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=484f58323a018b576967b5dd831595a5264dcb8b1100b9aadf3725f5c3ccd5a0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133828474,
+      "datetime": 1744206649
+    },
+    {
+      "title": "Best credit card deals of the week, 9 April",
+      "description": "Discover the best credit cards to save money, earn rewards and travel smarter.",
+      "published_utc": "2025-04-09T06:14:28",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=47eef590a7aac4af1e258989addda712f68fc2f3118fb8e063260b5569083105",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133826666,
+      "datetime": 1744193668
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T23:14:24.211658+00:00",
+    "cache_key": "news_570aadb21a3d97d295d2a134e0bc1812",
+    "count": 5
+  }
+}

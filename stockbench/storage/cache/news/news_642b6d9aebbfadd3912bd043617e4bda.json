@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The Resilience Of Consumer Spending In The U.S.",
+      "description": "The Federal Reserve Bank of Boston had an interesting piece last month about the resilience of consumer spending which is ~70% of GDP in the US",
+      "published_utc": "2025-09-22T16:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c7047cbfbf70743edab53159a908fe234c5079d57106fe2ed14e7895e71f61ae",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2212178489/image_2212178489.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136845576,
+      "datetime": 1758571500
+    },
+    {
+      "title": "Chicago Fed National Activity Index: Economic Growth Increased In August",
+      "description": "The Chicago Fed's National Activity Index is a monthly indicator designed to gauge overall economic activity and related inflationary pressure.",
+      "published_utc": "2025-09-22T15:50:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2b2ffbc0aa7a0a1f2f33a71bb6e04963953458481784b174f147b4a290dc22b0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1427537698/image_1427537698.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136845535,
+      "datetime": 1758570600
+    },
+    {
+      "title": "3 Economic Issues Investors Should Be Discussing More",
+      "description": "The Federal Reserve's recent rate cut helped push major indexes to record highs but failed to boost the housing sector. Click here for more on U.S. Economy.",
+      "published_utc": "2025-09-22T14:53:57",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f23275a2f8b1cc64f6dc75d7385b558f411463d50c647ac984f386f40059094b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2160984573/image_2160984573.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136845258,
+      "datetime": 1758567237
+    },
+    {
+      "title": "FDA Chief Says Leucovorin Will Be Made Available To Children With Autism",
+      "description": "https://www.youtube.com/watch?v=esKFMCb_hYUhttps://www.youtube.com/watch?v=esKFMCb_hYU",
+      "published_utc": "2025-09-22T13:20:40",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=d135c0c35ada464f4b32554fb42f4c76aa43ae0283c638b50d4e38d94d6ff2bb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139001905,
+      "datetime": 1758561640
+    },
+    {
+      "title": "President Trump Says FDA Will Notify Physicians That Use Of Acetaminophen Or Tylenol During Pregnancy Can Be Associated With Increase Risk Of Autism; Taking Tylenol Is Not Good",
+      "description": "https://www.youtube.com/watch?v=esKFMCb_hYU",
+      "published_utc": "2025-09-22T12:53:57",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=b1f90abd5b6fb9a429a71e815334dd7b12ba1468fe60a7a5e3a6b79f40e42c76",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138925787,
+      "datetime": 1758560037
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T04:15:04.597175+00:00",
+    "cache_key": "news_642b6d9aebbfadd3912bd043617e4bda",
+    "count": 5
+  }
+}

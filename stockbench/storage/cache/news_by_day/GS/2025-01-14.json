@@ -1,0 +1,185 @@
+{
+  "items": [
+    {
+      "id": "602c540e64262bfed049e1f8b2627d0c367a16c20198101cce175b9070998cb7",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Banks Kick Off Earnings Season On Wednesday: Retail Traders Bet Big On Financials Ahead Of Regulatory Tailwinds",
+      "author": "Piero Cingari",
+      "published_utc": "2025-01-14T18:01:24Z",
+      "article_url": "https://www.benzinga.com/analyst-ratings/analyst-color/25/01/42984073/banks-kick-off-earnings-season-on-wednesday-retail-traders-bet-big-on-financials-ah",
+      "tickers": [
+        "BK",
+        "BLK",
+        "DIVB",
+        "C",
+        "CpN",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "WFC",
+        "WFCpA",
+        "WFCpC",
+        "WFCpD",
+        "WFCpL",
+        "WFCpY",
+        "WFCpZ",
+        "XLF",
+        "SPY"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/14/banks-shutter.jpeg?width=1200&height=800&fit=crop",
+      "description": "Banks are expected to report strong Q4 earnings, with Goldman Sachs, JPMorgan Chase, and Citigroup projected to post double-digit EPS growth. Retail investors have been bullish on financial stocks ahead of earnings, anticipating positive regulatory changes under the new administration.",
+      "keywords": [
+        "banks",
+        "earnings",
+        "financials",
+        "regulation"
+      ],
+      "insights": [
+        {
+          "ticker": "BK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is projected to deliver a substantial improvement in EPS compared to the previous year, with revenue also expected to increase."
+        },
+        {
+          "ticker": "BLK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is expected to report a 16% increase in EPS and a 19% growth in revenue compared to the previous year."
+        },
+        {
+          "ticker": "DIVB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is expected to report a 16% increase in EPS and a 19% growth in revenue compared to the previous year."
+        },
+        {
+          "ticker": "C",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is anticipated to show a sharp turnaround, with an expected EPS of $1.22 compared to a loss in the previous year, and a 12% increase in revenue."
+        },
+        {
+          "ticker": "CpN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is anticipated to show a sharp turnaround, with an expected EPS of $1.22 compared to a loss in the previous year, and a 12% increase in revenue."
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is projected to report a significant 49% increase in EPS and an 8% gain in revenue compared to the previous year."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is projected to report a significant 49% increase in EPS and an 8% gain in revenue compared to the previous year."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is projected to report a significant 49% increase in EPS and an 8% gain in revenue compared to the previous year."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is projected to report a significant 49% increase in EPS and an 8% gain in revenue compared to the previous year."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is forecast to post a 35% increase in EPS and an 8% growth in revenue compared to the previous year."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is forecast to post a 35% increase in EPS and an 8% growth in revenue compared to the previous year."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is forecast to post a 35% increase in EPS and an 8% growth in revenue compared to the previous year."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is forecast to post a 35% increase in EPS and an 8% growth in revenue compared to the previous year."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is forecast to post a 35% increase in EPS and an 8% growth in revenue compared to the previous year."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is forecast to post a 35% increase in EPS and an 8% growth in revenue compared to the previous year."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is forecast to post a 35% increase in EPS and an 8% growth in revenue compared to the previous year."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is forecast to post a 35% increase in EPS and an 8% growth in revenue compared to the previous year."
+        },
+        {
+          "ticker": "WFC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is likely to report a 57% increase in EPS, with revenue expected to remain largely flat."
+        },
+        {
+          "ticker": "WFCpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is likely to report a 57% increase in EPS, with revenue expected to remain largely flat."
+        },
+        {
+          "ticker": "WFCpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is likely to report a 57% increase in EPS, with revenue expected to remain largely flat."
+        },
+        {
+          "ticker": "WFCpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is likely to report a 57% increase in EPS, with revenue expected to remain largely flat."
+        },
+        {
+          "ticker": "WFCpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is likely to report a 57% increase in EPS, with revenue expected to remain largely flat."
+        },
+        {
+          "ticker": "WFCpY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is likely to report a 57% increase in EPS, with revenue expected to remain largely flat."
+        },
+        {
+          "ticker": "WFCpZ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company is likely to report a 57% increase in EPS, with revenue expected to remain largely flat."
+        },
+        {
+          "ticker": "XLF",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The ETF closed the previous year with gains of 28%, outperforming the broader S&P 500 by 5 percentage points."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The ETF is mentioned as a benchmark for the broader market performance."
+        }
+      ]
+    }
+  ]
+}

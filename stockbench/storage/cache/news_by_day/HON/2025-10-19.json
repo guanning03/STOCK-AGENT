@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Boeing Cargo Plane Veers Off Runway At Hong Kong Airport, Claims Two Lives",
+      "description": "On Sunday, a cargo plane from Boeing Co. (NYSE: BA) operated by Emirates veered off the runway at Hong Kong International Airport, resulting in two fatalities.",
+      "published_utc": "2025-10-19T17:34:41",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=e89d002cfcb7e62ba73fc80b2517e8d8048dbad6da9d359dee49a7e01cb728e9",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/10/19/Irving--Texas--Usa---March-20--2022-Clos.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138998553,
+      "datetime": 1760909681
+    },
+    {
+      "title": "Tesla, Netflix set to report earnings as US-China trade fight turns 'unsustainable': What to watch this week",
+      "description": "As investors enters shutdown week three, a US-China trade war, credit gesticulation, and an incoming oil glut are weighing on the market.",
+      "published_utc": "2025-10-19T07:33:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b44421dfff1786c693227b1b7322ed3ecb88da5777ecfed8c7cecf8f1aa6b4b7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137162173,
+      "datetime": 1760873638
+    },
+    {
+      "title": "Wall Street Breakfast:",
+      "description": "Get the latest stock market updates, Q3 earnings highlights, and expert investment strategies amid economic uncertainty.",
+      "published_utc": "2025-10-19T03:46:08",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d84366b9f3720ad02a45b4241f9aef816f146b0259e871e6589640fbcfc11a9b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1220627489/image_1220627489.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137157831,
+      "datetime": 1760859968
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Hard for Eli Lilly to move significantly higher from here in the short-term: Kessef Capital's Yaffee",
+      "description": "Len Yaffee, Kessef Capital, join 'Fast Money' to talk Amgen's obesity drug, Eli Lilly's current stock action, and much more.",
+      "published_utc": "2025-11-26T13:03:21",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=303b5ffda98d091833cda4518ed68b709c9b7ee68ad5481c0cbe374568362820",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108232828-17641974871764197483-42711632075-1080pnbcnews.jpg?v=1764197486&w=1920&h=1080",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137622183,
+      "datetime": 1764180201
+    },
+    {
+      "title": "CMS Slashes Prices Of 15 Major Drugs - Here's Why Pharma Valuations Won't Suffer",
+      "description": "Discover how new U.S. Medicare drug price cuts impact major pharma stocks like Novo Nordisk and why sector resilience supports a strong outlook. Click for more.",
+      "published_utc": "2025-11-26T11:58:56",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1f6a4babd9bee8ff46ea9bfd57aa2d2c9e4fb232cd4ea10363ae33b37483d4b4",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1407294139/image_1407294139.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137615519,
+      "datetime": 1764176336
+    },
+    {
+      "title": "Centers for Medicare & Medicaid Services Unveils $12 Billion Net Savings From Reduction in Drug Prices",
+      "description": "The Centers for Medicare & Medicaid Services said Tuesday it expects to achieve net savings of 44%,",
+      "published_utc": "2025-11-26T05:00:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ed453e3d99118aaec5caa763ba61f4f17ea380d03972a2844140b4163ff336ee",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137611270,
+      "datetime": 1764151222
+    },
+    {
+      "title": "The Zacks Analyst Blog NVIDIA, AT&T and Amgen",
+      "description": "NVIDIA, AT&T, and Amgen outperform peers as AI growth, 5G expansion, and strong drug sales drive investor optimism.",
+      "published_utc": "2025-11-26T02:02:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e17a2211e8cde6bc579e110f2ef8a56763d96409d9c868ac10e97044983e0fb9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137611389,
+      "datetime": 1764140520
+    },
+    {
+      "title": "IMDELLTRA's FDA Approval and Guideline Upgrade Could Be a Game Changer for Amgen (AMGN)",
+      "description": "Amgen recently announced that the FDA granted full approval to IMDELLTRA (tarlatamab-dlle) for adults with extensive stage small cell lung cancer (ES-SCLC) who have progressed after platinum-based chemotherapy, and the National Comprehensive Cancer Network updated its guidelines to list Tarlatamab as the only Category 1 preferred treatment option for this patient group. This development follows robust results from a global Phase 3 trial indicating IMDELLTRA extended median overall survival...",
+      "published_utc": "2025-11-25T19:23:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fa4439dd020ebbdea06a4e2cdd65fabfda6b08fae2ea8548c5b6a88a885de0a6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137611397,
+      "datetime": 1764116581
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:38:49.767153+00:00",
+    "cache_key": "news_0d0764adba80d0e4d9caa84b7fd19d01",
+    "count": 5
+  }
+}

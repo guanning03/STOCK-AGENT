@@ -1,0 +1,300 @@
+{
+  "items": [
+    {
+      "id": "3aa40fc137d6f32cc6369671f21dba18305de7a25749d7f257f435ce51df6eaf",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Nvidia Is Jumping Today -- Is the Stock a Buy Right Now?",
+      "author": "Keith Noonan",
+      "published_utc": "2025-02-26T17:04:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/26/nvidia-is-jumping-today-is-the-stock-a-buy-right-n/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/809096/gettyimages-1550670587.jpg",
+      "description": "Nvidia stock is gaining ground ahead of its Q4 earnings report, driven by increased Chinese orders for its H20 AI chips and anticipation of the company's results. Nvidia's outlook for Q1 will be a key focus for investors, as the company navigates recent disruptions in the AI market.",
+      "keywords": [
+        "Nvidia",
+        "AI",
+        "earnings report",
+        "Chinese orders",
+        "Q1 outlook"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights positive factors for Nvidia, including increased Chinese orders for its H20 AI chips and the anticipation of its Q4 earnings report. The author also believes Nvidia is a good long-term investment due to the promising demand outlook for its high-performance processors and the company's opportunities in processing services, software, and robotics."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that recent reports suggest Microsoft may be taking a more measured approach to expanding its data center footprint, which could impact Nvidia's outlook for Q1."
+        }
+      ]
+    },
+    {
+      "id": "7c6162ed2816d531ce6fef17593af9cf63ca2d64dda941601ff7334abae8cfb9",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Web Performance Market Size to Surpass USD 12.70 Billion by 2032 | SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-02-26T15:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/26/3033054/0/en/Web-Performance-Market-Size-to-Surpass-USD-12-70-Billion-by-2032-SNS-Insider.html",
+      "tickers": [
+        "AKAM",
+        "NET",
+        "DT",
+        "IBM",
+        "RDWR",
+        "FSLY",
+        "SWI",
+        "MSFT"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The Web Performance Market is expected to grow from $5.86 billion in 2023 to $12.70 billion by 2032, driven by the increasing demand for fast and responsive websites, especially in the e-commerce and IT/telecom sectors. The market is dominated by cloud-based solutions and large enterprises, while SMEs are also witnessing rapid growth.",
+      "keywords": [
+        "web performance",
+        "e-commerce",
+        "IT/telecom",
+        "cloud",
+        "enterprise size"
+      ],
+      "insights": [
+        {
+          "ticker": "AKAM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Akamai is a leading provider of web performance solutions, and the article mentions its expansion of its micro-segmentation solution, indicating the company's continued innovation and growth in the market."
+        },
+        {
+          "ticker": "NET",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Cloudflare is listed as a major player in the web performance market, but the article does not provide any specific details about the company's performance or growth."
+        },
+        {
+          "ticker": "DT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Dynatrace is mentioned as a major player in the web performance market, but the article does not provide any additional information about the company's performance or offerings."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "IBM is listed as a major player in the web performance market, but the article does not provide any specific details about the company's performance or growth."
+        },
+        {
+          "ticker": "RDWR",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Radware Ltd. is mentioned as a major player in the web performance market, but the article does not provide any additional information about the company's performance or offerings."
+        },
+        {
+          "ticker": "FSLY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Fastly is listed as a major player in the web performance market, but the article does not provide any specific details about the company's performance or growth."
+        },
+        {
+          "ticker": "SWI",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "SolarWinds is mentioned as a major player in the web performance market, but the article does not provide any additional information about the company's performance or offerings."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft Azure is mentioned as a major player in the web performance market, indicating the company's web performance solutions are in demand."
+        }
+      ]
+    },
+    {
+      "id": "50b06054411b5448400d9b4bbe4284e89551a27b5f283b3b4bd0a1c4973fea2e",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "Nvidia Q4 Earnings Preview: A Make-or-Break Moment for the AI Trade?",
+      "author": "Jesse Cohen",
+      "published_utc": "2025-02-26T14:20:00Z",
+      "article_url": "https://www.investing.com/analysis/nvidia-q4-earnings-preview-a-makeorbreak-moment-for-the-ai-trade-200657750",
+      "tickers": [
+        "NVDA",
+        "AMZN",
+        "MSFT",
+        "GOOG",
+        "GOOGL",
+        "META",
+        "AMD",
+        "AVGO",
+        "PLTR",
+        "SMCI"
+      ],
+      "amp_url": "https://m.investing.com/analysis/nvidia-q4-earnings-preview-a-makeorbreak-moment-for-the-ai-trade-200657750?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "Nvidia's Q4 earnings report will be a crucial test for the tech sector and the broader market, as investors assess the sustainability of the AI boom. A strong performance could boost sentiment, while a disappointment could trigger a market correction.",
+      "keywords": [
+        "Nvidia",
+        "AI",
+        "tech sector",
+        "earnings report"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that a strong Q4 earnings report and guidance from Nvidia could reignite investor enthusiasm for AI-related investments and potentially reverse the recent pullback in growth stocks."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Nvidia's dominance in AI and GPUs is fueled by robust demand from major tech players like Amazon, which are collectively pouring over $200 billion into AI infrastructure in 2025."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Nvidia's dominance in AI and GPUs is fueled by robust demand from major tech players like Microsoft, which are collectively pouring over $200 billion into AI infrastructure in 2025."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Nvidia's dominance in AI and GPUs is fueled by robust demand from major tech players like Alphabet, which are collectively pouring over $200 billion into AI infrastructure in 2025."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Nvidia's dominance in AI and GPUs is fueled by robust demand from major tech players like Alphabet, which are collectively pouring over $200 billion into AI infrastructure in 2025."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Nvidia's dominance in AI and GPUs is fueled by robust demand from major tech players like Meta, which are collectively pouring over $200 billion into AI infrastructure in 2025."
+        },
+        {
+          "ticker": "AMD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that if Nvidia beats expectations and raises guidance, it could boost sentiment across the tech sector, including semiconductor peers like AMD."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that if Nvidia beats expectations and raises guidance, it could boost sentiment across the tech sector, including semiconductor peers like Broadcom."
+        },
+        {
+          "ticker": "PLTR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that if Nvidia beats expectations and raises guidance, it could boost sentiment across the tech sector, including AI software stocks like Palantir."
+        },
+        {
+          "ticker": "SMCI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that if Nvidia beats expectations and raises guidance, it could boost sentiment across the tech sector, including AI software stocks like Super Micro Computer."
+        }
+      ]
+    },
+    {
+      "id": "0e5d0e5a75fbf85ee48ec0e5fd0efb9399cc3ec4100b1bd6d99d4ab8ea7d03e1",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Prediction: This Artificial Intelligence (AI) Company Will Split Its Stock in 2025",
+      "author": "Will Healy",
+      "published_utc": "2025-02-26T13:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/26/prediction-this-ai-company-split-stock-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "MSFT",
+        "NVDA",
+        "AVGO",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808448/stock-trader-analyzes-a-stock.jpg",
+      "description": "Microsoft is likely to split its stock this year due to pressure from its inclusion in the price-weighted Dow Jones Industrial Average. The company's high stock price compared to other Dow components may prompt a split, similar to Apple's move in 2020.",
+      "keywords": [
+        "Microsoft",
+        "stock split",
+        "Dow Jones Industrial Average",
+        "Apple"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Microsoft is likely to split its stock this year due to pressure from its inclusion in the price-weighted Dow Jones Industrial Average. The high stock price compared to other Dow components may prompt a split, which could benefit the company and its shareholders."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Nvidia as an example of a tech company that has executed a stock split, but does not provide any specific insights or sentiment about the company."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Broadcom as another tech company that has executed a stock split, but does not provide any specific insights or sentiment about the company."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Apple's stock split in 2020 may have been influenced by pressure from its inclusion in the Dow Jones Industrial Average, similar to the pressure Microsoft may be facing. This implies a positive sentiment towards Apple's decision to split its stock."
+        }
+      ]
+    },
+    {
+      "id": "399e8ee46992d64e72d95e1196810e86316c2ce285d6228f8a2f623aa05a62f0",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Want to Invest in Quantum Computing? 2 Stocks That Are Great Buys Right Now",
+      "author": "Leo Sun",
+      "published_utc": "2025-02-26T11:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/26/want-to-invest-in-quantum-computing-2-stocks-that/?source=iedfolrf0000001",
+      "tickers": [
+        "IONQ",
+        "IONQ.WS",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808664/an-illustration-of-a-semiconductor.jpg",
+      "description": "The article discusses the potential of quantum computing and highlights two stocks to consider: IonQ, a pure-play quantum computing company, and Microsoft, which is making progress in the field. IonQ is expected to see significant revenue growth, but is currently unprofitable and richly valued. Microsoft's Majorana 1 chip shows promise, and the company's integration of quantum computing into its cloud and AI services could be a game-changer.",
+      "keywords": [
+        "quantum computing",
+        "IonQ",
+        "Microsoft",
+        "cloud computing",
+        "AI"
+      ],
+      "insights": [
+        {
+          "ticker": "IONQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights IonQ's impressive growth trajectory, with revenue expected to reach $153.3 million by 2026. The company is also making progress in miniaturizing quantum processing units, which could lead to cheaper and more accurate quantum computers. However, the article notes that IonQ is currently unprofitable and its stock is richly valued, which could be a concern for some investors."
+        },
+        {
+          "ticker": "IONQ.WS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights IonQ's impressive growth trajectory, with revenue expected to reach $153.3 million by 2026. The company is also making progress in miniaturizing quantum processing units, which could lead to cheaper and more accurate quantum computers. However, the article notes that IonQ is currently unprofitable and its stock is richly valued, which could be a concern for some investors."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article portrays Microsoft as a balanced play on the growing cloud, AI, gaming, and enterprise software markets. The company's development of the Majorana 1 chip, which can fit eight topological qubits on a single circuit, is seen as a promising step towards the integration of quantum computing into Microsoft's cloud infrastructure and AI ecosystems. The article also notes that Microsoft's stock is reasonably valued, making it a less risky way to gain exposure to the quantum computing market."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T22:25:17.486662+00:00",
+    "cache_key": "news_3b3c58e5216d788124852dd09ccfeb99",
+    "count": 5
+  }
+}

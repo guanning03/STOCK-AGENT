@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Fed Stays Put, Stocks Step Up",
+      "description": "An unconcerned Federal Reserve prompted investors to set aside recent worries about upheaval and load up on cheap stocks.",
+      "published_utc": "2025-03-19T17:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=25f06b5ad417be7ff1b7b8bd8217c76f16d142d7269772c1f590b8ea42e92308",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1503371245/image_1503371245.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133263345,
+      "datetime": 1742418000
+    },
+    {
+      "title": "Fed's Interest Rate Decision: March 19, 2025",
+      "description": "The Federal Reserve concluded its second meeting of the year by keeping the federal funds rate (FFR) at 4.25-4.50%, as expected.",
+      "published_utc": "2025-03-19T16:50:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1d9e380fec192cdaa0ba9ebd8142fca92de38a3592b1fedfd7cea2e7fe195f10",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1503371245/image_1503371245.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133263282,
+      "datetime": 1742417400
+    },
+    {
+      "title": "Is Stagflation Lite On Tap?",
+      "description": "The Fed left interest rates unchanged today as widely anticipated, noting uncertainty around the economic outlook has increased.",
+      "published_utc": "2025-03-19T16:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e8c8a095f51c077bd2075ad7e47868601d5616f1faa56a11970eae6697f92abb",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1393144578/image_1393144578.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133263240,
+      "datetime": 1742416800
+    },
+    {
+      "title": "3 Things: How Not To Invest, The Big Risks Ahead And Earnings Mistakes",
+      "description": "We spend a lot of time in the investment world talking about all the optimal ways to invest. But investing is what we all call a loserâs game.",
+      "published_utc": "2025-03-19T16:10:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=665420280a1034caa7a3995743132f9b6c57a6af2799914e3f42c460053cca87",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1397937755/image_1397937755.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133263114,
+      "datetime": 1742415000
+    },
+    {
+      "title": "Market Update: Dow Jones, S&P 500 React To Fed Rate Decision",
+      "description": "The Federal Reserve kept interest rates steady, but hinted at possible rate cuts later in the year.",
+      "published_utc": "2025-03-19T15:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9649f3aaa568d60645bb48e6ae9525636fec9ac679041cfe495f248d47a8970c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1692418614/image_1692418614.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133262976,
+      "datetime": 1742412900
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T22:51:03.397463+00:00",
+    "cache_key": "news_e125619bb616a485694fb47dd31ff7ec",
+    "count": 5
+  }
+}

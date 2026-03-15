@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Home Depot Inc. stock underperforms Wednesday when compared to competitors",
+      "description": "Home Depot Inc. stock underperforms Wednesday when compared to competitors",
+      "published_utc": "2025-09-17T12:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=40481f2f145f7069e4b27019670a6864535932e7210f5b697309349c8910b39b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136803772,
+      "datetime": 1758126660
+    },
+    {
+      "title": "Is Builder Confidence Set to Rebound on Looming Fed Rate Cuts?",
+      "description": "Builder confidence stayed flat in September, but falling mortgage rates may spark a housing market rebound, with stocks like DHI, TOL, HD, LOW and MAS already gaining ground.",
+      "published_utc": "2025-09-17T11:31:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9de7bf99967103ab2b025ebc4ab57c08394209b224a0a3ddfd839c6484b4d589",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136789909,
+      "datetime": 1758123060
+    },
+    {
+      "title": "10 Consumer Discretionary Stocks Whale Activity In Today's Session",
+      "description": "",
+      "published_utc": "2025-09-17T09:35:23",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=ae7fe6336fd09cc788090355aa6a141500b7d561116f5dae6aeef18823c59914",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138594126,
+      "datetime": 1758116123
+    },
+    {
+      "title": "VCR: Consumer Discretionary Dashboard For September",
+      "description": "This monthly article series provides a top-down analysis of the consumer discretionary sector based on fundamental metrics. Read the latest analysis here.",
+      "published_utc": "2025-09-17T09:25:33",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=faa002ea3946a7fdf23169e91ed13aebded93a727ba005cb4ffa88a69ea43857",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1160062163/image_1160062163.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136790642,
+      "datetime": 1758115533
+    },
+    {
+      "title": "Analyst Says This is One of the Top Dividend Stocks to Buy for Interest Rate Cut Environment",
+      "description": "Kevin Simpson, Capital Wealth Planning founder and CIO, said in a recent program on CNBC that he’s buying Home Depot (NYSE:HD) amid expectations of a rate cut. The analyst sees a new cycle of home renovation coming in the US. “I think it’s just as pure as a lower rate environment because if you think […]",
+      "published_utc": "2025-09-17T09:09:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dd4455221d4425348ec2f09459363f4acdfdff1587f8252b6b9acd8625f20711",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136789028,
+      "datetime": 1758114560
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:57:24.037516+00:00",
+    "cache_key": "news_d45dcb258ec60bbb02ae6534ba04ea70",
+    "count": 5
+  }
+}

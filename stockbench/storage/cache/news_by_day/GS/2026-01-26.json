@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Asia markets seeing 'unbelievable' rush of capital, driving equity rallies and IPO frenzy",
+      "description": "Asian equity markets are commanding global investor attention on the back of an IPO surge and rising cross-border, said JPMorgan and Goldman Sachs.",
+      "published_utc": "2026-01-26T17:58:38",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=1e5a4ce2a98bf8319c853fde1506e1bfb1ed6622412b08587981b884f9161db2",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108174885-1753162365689-gettyimages-1856771227-8y3a1877.jpeg?v=1753175390&w=1920&h=1080",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138271987,
+      "datetime": 1769468318
+    },
+    {
+      "title": "Dividend Raises Are Spreading—These 3 Big Players Led the Move",
+      "description": "Goldman Sachs, BlackRock, and Fastenal are among the latest big name stocks to issue large dividend increases. See which one analysts are more bullish on.",
+      "published_utc": "2026-01-26T14:50:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6c6f4a44762d2532fddeb119c9e689971a19904459d1509cd01da93ce50ff10f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138274010,
+      "datetime": 1769457000
+    },
+    {
+      "title": "Gold & Silver ETFs: Comparing AAAU vs. SLVP",
+      "description": "These two precious metal ETFs delivered strong returns in 2025. But which one will shine the most in your portfolio?",
+      "published_utc": "2026-01-26T14:04:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=afd9ab8e135fdcd49afcd84c00920b1fb2507e3b34212ff704b9edad6f9e7045",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138264349,
+      "datetime": 1769454244
+    },
+    {
+      "title": "Goldman Sachs: Thank God The Apple Saga Is Over",
+      "description": "",
+      "published_utc": "2026-01-26T12:07:55",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b6ddfd5f96b1d960af2d1b2b2cac3def2670b02af043b67b74cec1707166bb23",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138265037,
+      "datetime": 1769447275
+    },
+    {
+      "title": "6 Money Mistakes That High Earners Make, According to Rachel Cruze",
+      "description": "In a YouTube video, money expert and author Rachel Cruze discussed six financial mistakes that high earners often make.",
+      "published_utc": "2026-01-26T09:00:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d78d4ec4593915a8f21fedc94701d0a57143a610664d2c0c3aeb27dce09d6ebc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138262096,
+      "datetime": 1769436043
+    }
+  ]
+}

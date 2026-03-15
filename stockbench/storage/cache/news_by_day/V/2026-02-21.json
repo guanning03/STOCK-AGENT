@@ -1,0 +1,75 @@
+{
+  "items": [
+    {
+      "title": "DOJ probes Netflix’s power over filmmakers in Warner deal review",
+      "description": "The department is seeking to determine whether the deal “may substantially lessen competition or tend to create a monopoly in violation of Section 7 of the Clayton Act or Section 2 of the Sherman Act\"",
+      "published_utc": "2026-02-21T18:31:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e3d20fe227a0829a30df6b45d35d633e0d8cbb5e17ebf86a1c43221b0a5110fa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139177050,
+      "datetime": 1771716692
+    },
+    {
+      "title": "The 1 Stock I'd Buy Before American Express Right Now",
+      "description": "American Express and Visa are excellent stocks to buy and hold, but Visa gets the edge.",
+      "published_utc": "2026-02-21T17:39:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4b6639a5bdd50f8e0c89ce1cd86e171881d7e54a8461623b32df87fec899b68c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139172594,
+      "datetime": 1771713540
+    },
+    {
+      "id": "4f8da91b6e19fc2c0965195c7c0b1f1d123fdb84e634f84b0adc2fedddcd9a93",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Forget AI Stocks: This Stablecoin Provider Is the Utility Stock of Digital Assets",
+      "author": "Emma Newberry",
+      "published_utc": "2026-02-21T15:21:00Z",
+      "article_url": "https://www.fool.com/investing/2026/02/21/forget-ai-stocks-this-stablecoin-provider-is-the-u/?source=iedfolrf0000001",
+      "tickers": [
+        "CRCL",
+        "V"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F852354%2Fgettyimages-2230354293.jpg&w=1200&op=resize",
+      "description": "Circle Internet Group, the world's second-largest stablecoin issuer, is positioned as a potential utility stock for digital assets despite being down 76% from its peak. With $73.6 billion in USDC circulation and verified reserves, Circle is building payment infrastructure for AI agents and blockchain transactions. The company generates significant revenue from reserve yields ($740M in Q3 2025) but faces risks from regulatory headwinds, cryptocurrency market volatility, and the need to diversify beyond reserve-based income.",
+      "keywords": [
+        "stablecoins",
+        "USDC",
+        "blockchain payments",
+        "AI agents",
+        "digital assets",
+        "cryptocurrency",
+        "regulatory compliance",
+        "reserve yields"
+      ],
+      "insights": [
+        {
+          "ticker": "CRCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Circle's strong competitive advantages including verified third-party audited reserves, 100+ partnerships with major players (Visa, Deutsche Börse), growing USDC circulation, and potential as infrastructure for AI agent payments. Despite current volatility, the company is positioned for long-term growth in the emerging stablecoin and blockchain payment ecosystem."
+        },
+        {
+          "ticker": "V",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a key partnership for Circle, indicating involvement in the emerging stablecoin infrastructure space, but no specific sentiment or performance analysis is provided in the article."
+        }
+      ]
+    }
+  ]
+}

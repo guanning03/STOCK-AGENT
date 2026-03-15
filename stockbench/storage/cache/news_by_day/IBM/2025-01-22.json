@@ -1,0 +1,157 @@
+{
+  "items": [
+    {
+      "id": "dbcec16f7eba7ea1d0ec1b754c12a2c998d7c5713b2e6a785577467a0b38a445",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Could Investing in Quantum Computing Make You a Millionaire? The Answer Might Surprise You.",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-22T12:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/22/could-investing-in-quantum-computing-make-you-a/?source=iedfolrf0000001",
+      "tickers": [
+        "QBTS",
+        "QBTS.WS",
+        "QUBT",
+        "IONQ",
+        "IONQ.WS",
+        "RGTI",
+        "RGTIW",
+        "IBM",
+        "MSFT",
+        "GOOG",
+        "GOOGL",
+        "NVDA",
+        "AMD",
+        "MU"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804471/gettyimages-1409727146.jpg",
+      "description": "The article discusses the potential of investing in quantum computing stocks, warning that the recent price surges and declines in this sector may be driven by speculative trading rather than fundamental progress. It suggests that investors may be better off focusing on diversified tech and chip stocks that are exploring quantum computing as one of many AI-driven opportunities.",
+      "keywords": [
+        "quantum computing",
+        "AI",
+        "investing",
+        "tech stocks",
+        "chip stocks"
+      ],
+      "insights": [
+        {
+          "ticker": "QBTS",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that the recent price surges and declines in quantum computing stocks like D-Wave may be driven by speculative trading rather than fundamental progress."
+        },
+        {
+          "ticker": "QBTS.WS",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that the recent price surges and declines in quantum computing stocks like D-Wave may be driven by speculative trading rather than fundamental progress."
+        },
+        {
+          "ticker": "QUBT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that the recent price surges and declines in quantum computing stocks like Quantum Computing may be driven by speculative trading rather than fundamental progress."
+        },
+        {
+          "ticker": "IONQ",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that the recent price surges and declines in quantum computing stocks like IonQ may be driven by speculative trading rather than fundamental progress."
+        },
+        {
+          "ticker": "IONQ.WS",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that the recent price surges and declines in quantum computing stocks like IonQ may be driven by speculative trading rather than fundamental progress."
+        },
+        {
+          "ticker": "RGTI",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that the recent price surges and declines in quantum computing stocks like Rigetti Computing may be driven by speculative trading rather than fundamental progress."
+        },
+        {
+          "ticker": "RGTIW",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that the recent price surges and declines in quantum computing stocks like Rigetti Computing may be driven by speculative trading rather than fundamental progress."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that investors may be better off focusing on diversified tech stocks like IBM that are exploring quantum computing as one of many AI-driven opportunities."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that investors may be better off focusing on diversified tech stocks like Microsoft that are exploring quantum computing as one of many AI-driven opportunities."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that investors may be better off focusing on diversified tech stocks like Alphabet that are exploring quantum computing as one of many AI-driven opportunities."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that investors may be better off focusing on diversified tech stocks like Alphabet that are exploring quantum computing as one of many AI-driven opportunities."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that investors may be better off focusing on diversified chip stocks like Nvidia that are exploring quantum computing as one of many AI-driven opportunities."
+        },
+        {
+          "ticker": "AMD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that investors may be better off focusing on diversified chip stocks like Advanced Micro Devices that are exploring quantum computing as one of many AI-driven opportunities."
+        },
+        {
+          "ticker": "MU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that investors may be better off focusing on diversified chip stocks like Micron Technology that are exploring quantum computing as one of many AI-driven opportunities."
+        }
+      ]
+    },
+    {
+      "id": "2f506d62ce6cb9025b13da7cb8aab8ba221543f2e4b20eddd23f481bd3c3310a",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "This AI Stock Is Also a Great Dividend Stock",
+      "author": "Timothy Green",
+      "published_utc": "2025-01-22T11:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/22/this-ai-stock-is-also-a-great-dividend-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "IBM",
+        "AMZN",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804716/gettyimages-1780035607.jpg",
+      "description": "IBM is taking a different approach to AI, focusing on helping clients rather than developing cutting-edge AI models. The company's in-house Granite AI models are small, cost-effective, and can be fine-tuned to outperform larger models in specific tasks. IBM's consulting arm is a key part of its AI strategy, with around 80% of its AI-related bookings being consulting signings.",
+      "keywords": [
+        "IBM",
+        "AI",
+        "consulting",
+        "dividend"
+      ],
+      "insights": [
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IBM is taking a unique approach to AI by focusing on helping clients rather than developing the most advanced AI models. The company's cost-effective Granite AI models and strong consulting services are driving demand and growth in its AI business. Additionally, IBM has a reliable and sustainable dividend, making it an attractive option for dividend investors."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Amazon is mentioned as the parent company of Whole Foods Market, where John Mackey, a member of The Motley Fool's board of directors, was the former CEO. This is a peripheral mention and does not directly impact IBM's AI strategy or performance."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Microsoft is mentioned as a provider of the Azure cloud platform, which is compatible with IBM's watsonx AI platform. This is a neutral mention, as it does not directly impact IBM's strategy or performance."
+        }
+      ]
+    }
+  ]
+}

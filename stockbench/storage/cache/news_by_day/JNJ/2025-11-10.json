@@ -1,0 +1,116 @@
+{
+  "items": [
+    {
+      "title": "Nasdaq falls as tech shares come under pressure again; S&P 500 is little changed: Live updates",
+      "description": "The S&P 500 fell on Tuesday, pressured by declines in tech, following strong gains in the previous session.",
+      "published_utc": "2025-11-10T13:02:18",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=105e1f6f3ae9fc78de90a9d7cbbc44263746600d6bc0b140d183f478831ca146",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108223813-1762802066685-gettyimages-2245530760-US_STOCKS.jpeg?v=1762802095&w=1920&h=1080",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137448182,
+      "datetime": 1762797738
+    },
+    {
+      "id": "d24cd44cb3c1495ea78fb32c0530af6ed5b353fe5e27b93f33e5aff14595c57d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Got $1,000? Here Are the Smartest Dividend Stocks to Start With.",
+      "author": "Matthew Benjamin",
+      "published_utc": "2025-11-10T09:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/11/10/got-1000-here-are-the-smartest-dividend-stocks-to/?source=iedfolrf0000001",
+      "tickers": [
+        "KO",
+        "PG",
+        "JNJ",
+        "AWR",
+        "NWN",
+        "GPC",
+        "BDX"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/837976/gettyimages-1167609765.jpg",
+      "description": "With market valuations high and potential corrections likely, the article recommends eight defensive dividend stocks across consumer staples, healthcare, and utility sectors that have consistently increased dividends for over 50 years.",
+      "keywords": [
+        "dividend stocks",
+        "market correction",
+        "defensive sectors",
+        "dividend kings"
+      ],
+      "insights": [
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Global beverage leader with 63-year dividend increase streak and 2.9% dividend yield"
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Consumer staples brand with essential products and 69-year dividend increase streak"
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Healthcare company with diverse product portfolio and 62-year dividend increase streak"
+        },
+        {
+          "ticker": "AWR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Utility company with 71-year dividend increase streak and essential water services"
+        },
+        {
+          "ticker": "NWN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Utility with highest dividend yield at 4.21% and 70-year dividend increase streak"
+        },
+        {
+          "ticker": "GPC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Consumer goods distributor with 69-year dividend increase streak"
+        },
+        {
+          "ticker": "BDX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Medical supplies company with 53-year dividend increase streak"
+        }
+      ]
+    },
+    {
+      "title": "Black Hair Accessories Brand Targets $50M Revenue By 2030 With New Products, Market Expansion",
+      "description": "President and CEO Joni Odum has driven plans to boost revenue at Firstline Brands to $50M within the next five years.",
+      "published_utc": "2025-11-10T07:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=220f61b8cbf438eb80d437839d481b619c85ffd88697941594b5b0dc36823085",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137394862,
+      "datetime": 1762776000
+    },
+    {
+      "title": "Johnson & Johnson: 2 Recent FDA Wins And Earnings Beat Warrant 'Buy' Rating",
+      "description": "Johnson & Johnson posts strong Q3 2025 with robust sales, new acquisitions, and FDA approvals expanding oncology and CNS markets. Learn why JNJ stock is a buy.",
+      "published_utc": "2025-11-10T01:26:53",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d615c650873ad1085006d4d02b5a10d9d72714d7cd21b29f37ffb880da4e34b6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2242604824/image_2242604824.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137393794,
+      "datetime": 1762756013
+    }
+  ]
+}

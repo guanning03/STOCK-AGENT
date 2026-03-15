@@ -1,0 +1,77 @@
+{
+  "items": [
+    {
+      "id": "ec0444030c28bcc78f8b27b60499d53bc0c03a5e658106ae434820c9931c3f15",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Could C3.ai Stock Help You Retire a Millionaire?",
+      "author": "Leo Sun",
+      "published_utc": "2024-12-15T09:46:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/15/could-c3ai-stock-help-you-retire-a-millionaire/?source=iedfolrf0000001",
+      "tickers": [
+        "AI",
+        "MSFT",
+        "GOOG",
+        "GOOGL",
+        "CRM",
+        "PATH",
+        "BKR"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800931/illustration-of-a-digital-brain.jpg",
+      "description": "C3.ai, an enterprise AI software provider, has struggled since its IPO, with its stock price dropping significantly. The article discusses the company's challenges, including customer concentration issues, competition from cloud platforms, and management changes. While the company expects revenue growth, it is expected to remain unprofitable, and the author believes it is not a good investment opportunity at this time.",
+      "keywords": [
+        "C3.ai",
+        "enterprise AI",
+        "revenue growth",
+        "profitability",
+        "competition"
+      ],
+      "insights": [
+        {
+          "ticker": "AI",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article highlights C3.ai's significant challenges, including customer concentration issues, competition from cloud platforms, management changes, and lack of profitability. The author believes the company is not a good investment opportunity at this time."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Microsoft's Azure cloud platform as a competitor to C3.ai, but does not provide a clear sentiment on the company."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Alphabet's Google Cloud as a competitor to C3.ai, but does not provide a clear sentiment on the company."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Alphabet's Google Cloud as a competitor to C3.ai, but does not provide a clear sentiment on the company."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Salesforce's diversified big data platforms as a competitor to C3.ai, but does not provide a clear sentiment on the company."
+        },
+        {
+          "ticker": "PATH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions UiPath's robotic process automation (RPA) services as a competitor to C3.ai, but does not provide a clear sentiment on the company."
+        },
+        {
+          "ticker": "BKR",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article highlights C3.ai's customer concentration issues, with Baker Hughes accounting for a significant portion of its revenue. The article also mentions that Baker Hughes has been negotiating lower minimum revenue commitments and reducing its equity stake in C3.ai, which is seen as a negative for the company."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:26:32.090583+00:00",
+    "cache_key": "news_d7f84c3f5b78d35c7786c757735d7edc",
+    "count": 1
+  }
+}

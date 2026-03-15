@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Tracking John Paulson's Paulson & Company Portfolio - Q2 2025 Update",
+      "description": "John Paulson's Paulson & Company 13F portfolio rose to ~$2.01B in Q2 2025. Check out the significant stake increases and new stakes in the portfolio.",
+      "published_utc": "2025-09-23T17:03:04",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ecb7703b60633f97c48bb557e6d9dff98e5680c8395fe5c43ae2d71bc7082789",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/518840746/image_518840746.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136857386,
+      "datetime": 1758661384
+    },
+    {
+      "title": "Honeywell's Industrial Automation Weakness Persists: What's the Road Ahead?",
+      "description": "HON faces pressure in Industrial Automation, but strength in Aerospace and Building Automation offers balance.",
+      "published_utc": "2025-09-23T11:16:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4143bab12f10f56e87b5e1dc50713cd59a14378c13bbaa5933fe042469a2290d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136850992,
+      "datetime": 1758640560
+    },
+    {
+      "title": "Quantum Computing Stocks: IonQ Claims Telecom Advance",
+      "description": "IonQ, the most acquisitive company among quantum computing stocks, on Tuesday announced an advance in long-distance communications networks.",
+      "published_utc": "2025-09-23T09:16:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9454972b0661af4c201eea881e3d14c4c2dca21cb8c77751a281addec1fe19e8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136850994,
+      "datetime": 1758633416
+    },
+    {
+      "title": "A Look At The Fair Value Of Honeywell International Inc. (NASDAQ:HON)",
+      "description": "Key Insights Using the 2 Stage Free Cash Flow to Equity, Honeywell International fair value estimate is US$202 With...",
+      "published_utc": "2025-09-23T07:00:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ee0e7681ff8567166b5b080cc6ce9319156a1a97d157aa78bd04700a45501013",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136850995,
+      "datetime": 1758625221
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T04:18:20.703603+00:00",
+    "cache_key": "news_fb2fa02cfae1f5e063d0f8ddf8dd41be",
+    "count": 4
+  }
+}

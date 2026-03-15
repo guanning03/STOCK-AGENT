@@ -1,0 +1,94 @@
+{
+  "items": [
+    {
+      "id": "a7e6244e7d7b02d7ac4bb5e2475ab39bcc9e1b848450f5cf8ebf0a9b578852b0",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Costco Stock Is Soaring, but Is It Getting Ahead of Itself?",
+      "author": "John Ballard",
+      "published_utc": "2026-02-22T22:15:00Z",
+      "article_url": "https://www.fool.com/investing/2026/02/22/costco-stock-soaring-but-is-it-getting-ahead-of/?source=iedfolrf0000001",
+      "tickers": [
+        "COST",
+        "KO",
+        "PG"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F857042%2Fcostco-warehouse.png&w=1200&op=resize",
+      "description": "Costco's stock has surged 15% year-to-date following strong January sales with 34% digital growth. However, the stock trades at a P/E multiple of 53, which appears expensive given the company's modest single-digit total sales growth (9% YoY) and earnings growth of only 9% annually. The valuation seems disconnected from fundamentals, with analysts suggesting investors should wait for a better entry point.",
+      "keywords": [
+        "valuation concerns",
+        "price-to-earnings multiple",
+        "digital sales growth",
+        "earnings growth",
+        "consumer spending",
+        "stock overvaluation"
+      ],
+      "insights": [
+        {
+          "ticker": "COST",
+          "sentiment": "negative",
+          "sentiment_reasoning": "While the company demonstrates strong operational execution with impressive 34% digital sales growth and consumer spending on high-margin items, the stock is trading at an unjustifiably high P/E multiple of 53 relative to its modest 9% earnings growth. The article argues the valuation is disconnected from fundamentals and recommends caution, suggesting investors wait for a lower entry point."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a consumer staples company trading at lower P/E multiples relative to earnings growth compared to Costco, offering better value. No specific analysis or recommendation provided."
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Referenced as a consumer staples company with more attractive valuation metrics compared to Costco. Used as a comparative example without specific sentiment or recommendation."
+        }
+      ]
+    },
+    {
+      "title": "Best Dividend Kings: February 2026",
+      "description": "",
+      "published_utc": "2026-02-22T17:08:10",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=334027e9e07012cc7b092e6cde30eb4bc4f675cba1aa4adab08022a834941dec",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139180357,
+      "datetime": 1771798090
+    },
+    {
+      "title": "Dow slides 800 points as sell-off ramps up following Trump's global tariff hike: Live updates",
+      "description": "Wall Street is coming off a volatile session on Friday after the Supreme Court struck down President Donald Trump’s tariffs.",
+      "published_utc": "2026-02-22T13:06:18",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=3b75b9c091756ed4e4919ad422fb0910adebde867d4edc7efb23dfa7ed79daa5",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108267883-1771600340652-gettyimages-2262113458-AFP_98CY9UB.jpeg?v=1771863059&w=1920&h=1080",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139185766,
+      "datetime": 1771783578
+    },
+    {
+      "title": "The Ultimate Dividend Growth Stock to Buy With $1,000 Right Now",
+      "description": "Procter & Gamble has raised dividends annually for nearly 70 years.",
+      "published_utc": "2026-02-22T03:35:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b113b969ae1bab5e8e71bd06b0377d243064daeae5c7cff89416e9dfbb5b6d06",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139175799,
+      "datetime": 1771749300
+    }
+  ]
+}

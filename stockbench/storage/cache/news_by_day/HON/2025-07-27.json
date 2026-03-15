@@ -1,6 +1,113 @@
 {
   "items": [
     {
+      "id": "a64fbc5aa1ef603dea8b70cebb76335a84d5b23849fe012fc86ae5a25afdc8ac",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Forget a Takeover From Autodesk, PTC Is a Great Stock to Buy Anyway. Here's Why.",
+      "author": "Lee Samaha",
+      "published_utc": "2025-07-27T22:32:00Z",
+      "article_url": "https://www.fool.com/investing/2025/07/27/forget-a-takeover-from-autodesk-ptc-is-a-great-sto/?source=iedfolrf0000001",
+      "tickers": [
+        "PTC",
+        "ADSK",
+        "SNPS",
+        "ROK",
+        "HON",
+        "EMR"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/826497/an-engineer-uses-computer-software-to-design-a-car-1200x675-128554e-1.jpg",
+      "description": "PTC remains an attractive stock amid potential acquisition speculation in the industrial software sector, with ongoing consolidation and digital technology transformation driving market interest.",
+      "keywords": [
+        "industrial software",
+        "digital transformation",
+        "product lifecycle management",
+        "mergers",
+        "acquisitions"
+      ],
+      "insights": [
+        {
+          "ticker": "PTC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Consistently generating double-digit growth in software subscriptions, expected to continue growing with increasing digital technology adoption"
+        },
+        {
+          "ticker": "ADSK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Backed off potential acquisition of PTC, focusing on organic investment and targeted acquisitions"
+        },
+        {
+          "ticker": "SNPS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Completed acquisition of Ansys, demonstrating strategic growth in industrial software"
+        },
+        {
+          "ticker": "ROK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a potential future acquirer of PTC"
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Potential future acquirer with plans to separate Honeywell Automation"
+        },
+        {
+          "ticker": "EMR",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Potential acquirer focusing on automation and industrial software"
+        }
+      ]
+    },
+    {
+      "title": "Honeywell International Inc. (HON): “I Think You Buy” It, Says Jim Cramer",
+      "description": "We recently published 14 Stocks Jim Cramer Discussed As He Went “All In” On Quantum Computing. Honeywell International Inc. (NASDAQ:HON) is one of the stocks Jim Cramer recently discussed. Honeywell International Inc. (NASDAQ:HON) is one of the biggest industrial conglomerates in America. Its shares are flat year-to-date after a major 6% dip in July after […]",
+      "published_utc": "2025-07-27T16:16:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ef65173bf89a6d7fb338202f8c1ce99bf158673e2a2dc5888752d5db093ccab9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136108341,
+      "datetime": 1753647369
+    },
+    {
+      "title": "Dover Corporation (DOV) Had An “Unbelievable” Quarter, Says Jim Cramer",
+      "description": "We recently published 14 Stocks Jim Cramer Discussed As He Went “All In” On Quantum Computing. Dover Corporation (NYSE:DOV) is one of the stocks Jim Cramer recently discussed. Dover Corporation (NYSE:DOV) is an industrial machinery company. Cramer’s comments about the firm came in the context of industrial stocks and Honeywell’s share price movement after its […]",
+      "published_utc": "2025-07-27T16:15:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a55465f3a33963bf07a56044568d98aedbb6f161bb68e75bdf870c7b48779d76",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136108342,
+      "datetime": 1753647322
+    },
+    {
+      "title": "MCN: The Yield Is Nice, But This Fund Is Hard To Recommend",
+      "description": "Discover insights on the XAI Madison Equity Premium Income Fund's 11.5% yield, NAV performance, and sustainability challenges.",
+      "published_utc": "2025-07-27T08:32:39",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0dbb01f4eaf241c537cc98865c4b175a6065ef2657c9955a19082dab421ea9c6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2153687482/image_2153687482.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136101075,
+      "datetime": 1753619559
+    },
+    {
       "title": "Honeywell International (HON) Declares US$1.13 Quarterly Dividend Payment",
       "description": "Honeywell International (HON) recently announced a quarterly dividend affirmation, maintaining investor confidence with a payment of $1.13 per share. Despite market conditions with a broader 1% climb last week and 17% over the last year, Honeywell's 13% price increase over the last quarter stands out. Notably, the company's strong Q2 earnings, raised sales forecast, and strategic alternatives for business restructuring likely strengthened its market position. Executives such as Jim Masso...",
       "published_utc": "2025-07-27T01:16:18",

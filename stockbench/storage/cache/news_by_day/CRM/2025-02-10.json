@@ -1,0 +1,158 @@
+{
+  "items": [
+    {
+      "id": "99b123b5fdfb4a383bb6ddf3dd1b2499ebf000c10ca6075e908d997b37d92356",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Enterprise Data Management Market to USD 247.0 Billion by 2032, owing to growing data complexities - Research by SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-02-10T15:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/10/3023552/0/en/Enterprise-Data-Management-Market-to-USD-247-0-Billion-by-2032-owing-to-growing-data-complexities-Research-by-SNS-Insider.html",
+      "tickers": [
+        "AMZN",
+        "AVGO",
+        "INFA",
+        "IBM",
+        "OTEX",
+        "ORCL",
+        "SAP",
+        "TDC",
+        "MSFT",
+        "GOOG",
+        "GOOGL",
+        "SNOW",
+        "DOMO",
+        "CRM"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The enterprise data management market is expected to grow from $95.3 billion in 2023 to $246.98 billion by 2032, driven by rising data complexity, the need for data-driven decision-making, and the adoption of cloud-based solutions.",
+      "keywords": [
+        "enterprise data management",
+        "data complexity",
+        "data analytics",
+        "cloud adoption"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Amazon Redshift and Amazon S3 as part of the major players in the enterprise data management market, indicating their strong presence and offerings in this space."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Broadcom's CA Database Management Solutions for DB2 and DX AIOps as part of the major players, suggesting their involvement in the enterprise data management market."
+        },
+        {
+          "ticker": "INFA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Informatica's PowerCenter and Intelligent Data Management Cloud as part of the major players, suggesting their strong presence in the enterprise data management market."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IBM's InfoSphere Information Server and Cloud Pak for Data are mentioned as major players in the enterprise data management market, indicating their involvement and offerings in this space."
+        },
+        {
+          "ticker": "OTEX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Open Text's Magellan and Analytics Suite are mentioned as major players in the enterprise data management market, indicating their presence and offerings in this space."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Oracle's Autonomous Database and Data Integration Platform as part of the major players, suggesting their strong involvement in the enterprise data management market."
+        },
+        {
+          "ticker": "SAP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "SAP's HANA and Data Intelligence are listed as major players in the enterprise data management market, indicating their participation and offerings in this space."
+        },
+        {
+          "ticker": "TDC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Teradata's Vantage and IntelliCloud are mentioned as part of the major players, suggesting their presence and involvement in the enterprise data management market."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Microsoft's Azure Synapse Analytics and Azure Data Factory as part of the major players, indicating their involvement and offerings in the enterprise data management market."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Google's BigQuery and Cloud Dataflow are listed as major players in the enterprise data management market, suggesting their participation and presence in this space."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Google's BigQuery and Cloud Dataflow are listed as major players in the enterprise data management market, suggesting their participation and presence in this space."
+        },
+        {
+          "ticker": "SNOW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Snowflake's Data Cloud and Data Marketplace as part of the major players, indicating their strong involvement in the enterprise data management market."
+        },
+        {
+          "ticker": "DOMO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Domo's BI Platform and Appstore are mentioned as major players in the enterprise data management market, suggesting their participation and offerings in this space."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Tableau's Desktop and Prep Builder as part of the major players, indicating their involvement and presence in the enterprise data management market."
+        }
+      ]
+    },
+    {
+      "id": "7be3b1b308446bce89c1b453d80f2637edf71b013d302ca5f1831116771239ce",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-10T11:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/10/3-top-artificial-intelligence-stocks-to-buy-right/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "CRM",
+        "APP"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806881/gettyimages-1492319884.jpg",
+      "description": "The article discusses the growing investment in AI infrastructure by major tech companies, with Nvidia and Salesforce being highlighted as leaders in the AI trend. AppLovin is also mentioned as a company with potential in the AI-powered adtech space.",
+      "keywords": [
+        "AI",
+        "Nvidia",
+        "Salesforce",
+        "AppLovin",
+        "data center",
+        "adtech"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia is described as the best way to play the AI infrastructure trend, with its GPUs being the main chips used for training large language models and running AI inference. The company has a dominant market share and a wide moat with its CUDA software platform."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce is making a push into the next phase of AI, agentic AI, with its new Agentforce solution that offers AI agents to handle various tasks. The solution has seen quick adoption, with the company forecasting 1 billion agents deployed by the end of fiscal 2026."
+        },
+        {
+          "ticker": "APP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "AppLovin operates an AI-powered adtech platform that has seen skyrocketing growth, with 39% overall revenue growth and 66% growth in its software platform segment. The company's expanding gross margins also indicate that its profits are growing quickly."
+        }
+      ]
+    }
+  ]
+}

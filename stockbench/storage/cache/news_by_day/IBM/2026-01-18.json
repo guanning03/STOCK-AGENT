@@ -1,0 +1,127 @@
+{
+  "items": [
+    {
+      "title": "BofA lifts IBM target, sees strong cash flow despite near-term margin pressure",
+      "description": "International Business Machines Corporation (NYSE:IBM) is one of the Trending AI Stocks on Wall Street. On January 13, BofA Securities analyst Wamsi Mohan raised the price target on the stock to $335.00 (from $315.00) while maintaining a Buy rating. Firm analysts see robust FCF outlook for IBM, along with higher-margin software mix; offsetting near-term headwinds. […]",
+      "published_utc": "2026-01-18T16:54:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ed14f05f4a2835dcbd8ea6f4d733d9a5fb17320b48204010d21f8066e58e2470",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138172498,
+      "datetime": 1768773255
+    },
+    {
+      "id": "ddfd3703c7adc0a565be81c0589d12684f008659949ecf90837478b90d53c401",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Biggest Risk to Your Stock Portfolio Is Not Buying AI -- It's Buying the Wrong Kind of AI",
+      "author": "Robert Izquierdo",
+      "published_utc": "2026-01-18T16:33:00Z",
+      "article_url": "https://www.fool.com/investing/2026/01/18/the-biggest-risk-to-your-stock-portfolio-is-not-bu/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "PLTR",
+        "BBAI",
+        "BBAI.WS",
+        "IBM",
+        "CRDO",
+        "ALAB",
+        "GRID"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F840327%2Fai-chip-glowing-with-bright-colors-on-circuit-board-gettyimages-1464561797-1200x675-c2b5ff2.png&w=1200&op=resize",
+      "description": "While the AI industry is projected to grow significantly from $255 billion in 2025 to $1.7 trillion by 2031, not all AI stocks will deliver exceptional returns. The article identifies tech infrastructure as a booming sector, while software companies must possess strong economic moats to succeed long-term. Key opportunities exist in AI-optimized data centers, semiconductor chips, and emerging quantum computing technology.",
+      "keywords": [
+        "artificial intelligence",
+        "AI stocks",
+        "tech infrastructure",
+        "data centers",
+        "semiconductors",
+        "quantum computing",
+        "economic moat",
+        "AGI",
+        "investment strategy"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong revenue growth (62% YoY to $57B), dominant position in GPU market for AI systems, and diversified involvement across multiple AI frontiers including quantum computing bridge technology (NVQLink)."
+        },
+        {
+          "ticker": "PLTR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Demonstrates superior competitive advantage through proprietary ontology technology, achieving 52% YoY government sales growth, illustrating successful long-term AI business model with strong economic moat."
+        },
+        {
+          "ticker": "BBAI",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Q3 revenue declined 20% to $33.1 million, largely due to government spending cuts, indicating vulnerability and lack of competitive differentiation compared to peers like Palantir."
+        },
+        {
+          "ticker": "BBAI.WS",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Q3 revenue declined 20% to $33.1 million, largely due to government spending cuts, indicating vulnerability and lack of competitive differentiation compared to peers like Palantir."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Leading quantum computing contender with 9% YoY sales growth, 30-year dividend increase streak, and credible roadmap to deliver fault-tolerant quantum computer by 2029."
+        },
+        {
+          "ticker": "CRDO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Benefits from AI data center buildout as supplier of high-speed, reliable components essential for AI-optimized infrastructure expansion."
+        },
+        {
+          "ticker": "ALAB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Positioned to benefit from rapid expansion of AI-optimized data centers requiring specialized high-speed, reliable components for massive computational infrastructure."
+        },
+        {
+          "ticker": "GRID",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Provides diversified exposure to energy infrastructure supporting massive AI data centers, addressing the critical power supply needs of AI expansion."
+        }
+      ]
+    },
+    {
+      "title": "Jim Cramer on International Business Machines: “It’s Inexpensive Relative to Its Growth Rate”",
+      "description": "International Business Machines Corporation (NYSE:IBM) is one of the stocks Jim Cramer shared his thoughts on. Cramer praised the company’s CEO, as he said: “Let’s take them one by one, starting with IBM, which has become an incredibly strong performer with a stock that’s nearly tripled since late 2022 when it broke free from its… […]",
+      "published_utc": "2026-01-18T12:48:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b303e4fd62f4deb12e62ce7e63a5c8a8112ae6dae727f8b17fd34943e3e2900f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138170795,
+      "datetime": 1768758519
+    },
+    {
+      "title": "Is quantum the next great tech revolution?",
+      "description": "Investing.com -- Quantum computing could achieve \"quantum advantage,” where quantum systems significantly outperform classical computers, around 2033, according to UBS Global Research in a recent note. However, the technology \"has consistently been ’5 years away’ for the last 20 years,\" the report cautions.",
+      "published_utc": "2026-01-18T03:30:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5189d40ac52ad679d85f6ed8c0b533c74260cdc3796fd7bf377b9d55d794099a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138167831,
+      "datetime": 1768725002
+    }
+  ]
+}

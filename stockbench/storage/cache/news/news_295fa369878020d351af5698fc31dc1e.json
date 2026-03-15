@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "id": "07efeaf616557abc0ca05f1ba8c9b884a166f04bea0c15e95e0e52f2090c8264",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Trump's Economic Plan 'Too Quick' And 'Too Painful:' Economist Warns Stocks Could Drop 30-50% After Monday's Mayhem",
+      "author": "Rishabh Mishra",
+      "published_utc": "2025-03-11T12:36:26Z",
+      "article_url": "https://www.benzinga.com/government/regulations/25/03/44244980/trumps-economic-plan-too-quick-and-too-painful-economist-warns-stocks-could-drop-30-50-aft",
+      "tickers": [
+        "QQQ",
+        "SPY"
+      ],
+      "image_url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "description": "Economist Craig Shapiro warns that President Trump's economic transition plan, which aims to reduce government spending and boost private sector growth, could trigger a 30-50% collapse in stocks and home prices, leading to severe economic turmoil in the short term.",
+      "keywords": [
+        "Trump",
+        "economic plan",
+        "stocks",
+        "home prices",
+        "economic turmoil"
+      ],
+      "insights": [
+        {
+          "ticker": "QQQ",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that the Nasdaq 100 index, which the QQQ ETF tracks, could see a significant decline of over 12% as a result of the economic transition plan."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article indicates that the S&P 500 index, which the SPY ETF tracks, could also experience a sharp decline of around 8.67% due to the potential market turmoil."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T22:40:21.794186+00:00",
+    "cache_key": "news_295fa369878020d351af5698fc31dc1e",
+    "count": 1
+  }
+}

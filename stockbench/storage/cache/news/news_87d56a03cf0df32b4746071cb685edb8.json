@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures steady as Home Depot leads out big retail earnings",
+      "description": "Wall Street braced for results from retail giants as rising concerns over inflation cloud the path to an interest rate cut.",
+      "published_utc": "2025-08-18T19:15:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=078b9232914bfa30c8e8943807284cdc47ec5f0a398ba04142c2c8a6d5648df9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136416869,
+      "datetime": 1755558904
+    },
+    {
+      "title": "Home Depot earnings, housing data, Fed remarks: What to Watch",
+      "description": "Market Domination Overtime host Josh Lipton takes a look at the top stories for investors to watch on Tuesday, Aug. 19. Home Depot (HD), Viking Holdings (VIK), and Toll Brothers (TOL) will report quarterly results. Home Depot will announce its second quarter results in the morning, with analysts anticipating a 2% rise in same-store sales. Data for July housing starts and building permits will be out in the morning, as economists forecast housing starts to decrease slightly and building permits to hold steady from the previous month. Federal Reserve Vice Chair for Supervision Michelle Bowman will deliver remarks. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.",
+      "published_utc": "2025-08-18T19:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1e0cf391e67fd5eefb4b8a87df821bc427a0223638e6ac54e9dd775462cde7ad",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136416909,
+      "datetime": 1755558000
+    },
+    {
+      "title": "Dow Jones Futures: Meta, Palantir Are Big Losers; Palo Alto Jumps On Earnings",
+      "description": "Dow Jones Futures: Meta, Palantir Are Big Losers; Palo Alto Jumps On Earnings",
+      "published_utc": "2025-08-18T18:22:16",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=e33890e1269aa3601fe9a5edb54497f336a96514a44c53a02346e6ae0ade0cf2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136418783,
+      "datetime": 1755555736
+    },
+    {
+      "title": "Home Depot & Lowe's Earnings: Turnaround Time?",
+      "description": "Both have operated in a challenging environment over recent years, with consumers pulling back on big-ticket items for home improvement following the low-interest-rate era of COVID. With both reaffirming guidance earlier in the year, can the tide finally be turning?",
+      "published_utc": "2025-08-18T17:26:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5050d1da66aa2e436627fa7981ae7a6e026fb01f7309bfa687fce78250f13f65",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136416910,
+      "datetime": 1755552360
+    },
+    {
+      "title": "Big Retail Earnings Charts: WMT, HD, TGT, LOW and EL.",
+      "description": "The consumer and tariffs are in the spotlight this week as big retail reports earnings.",
+      "published_utc": "2025-08-18T17:06:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7502f1d978aa2b1af88ef577409f9f6b5dec3ecc512d175bdef41438bfab64f3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136416870,
+      "datetime": 1755551160
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:21:11.146925+00:00",
+    "cache_key": "news_87d56a03cf0df32b4746071cb685edb8",
+    "count": 5
+  }
+}

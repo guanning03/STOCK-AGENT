@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today: Dow, Nasdaq Fall, Set Aside Trump-China Tariff Move; Tesla Clears Entry But This AI Stock Craters",
+      "description": "The Dow Jones index fell despite President Trump making a China tariff move. Tesla cleared an entry on the stock market today. AMC surged but an AI stock cratered.",
+      "published_utc": "2025-08-11T16:51:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0aaedbb5ef722c36dc755c5fc85c9921da17646c4c53da5a7b065b4fef843602",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136316081,
+      "datetime": 1754945504
+    },
+    {
+      "title": "Tracking Christopher Davis' Davis Selected Advisers 13F Portfolio - Q2 2025 Update",
+      "description": "",
+      "published_utc": "2025-08-11T16:17:55",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e9dde0be3e9c7edcc68fc9bce5951677a5ebb9247eb1fd21f8fade3db1768f8f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136313089,
+      "datetime": 1754943475
+    },
+    {
+      "title": "Health Care Up as Traders Return to Beaten-Down Stocks -- Health Care Roundup",
+      "description": "Health Care Up as Traders Return to Beaten-Down Stocks -- Health Care Roundup",
+      "published_utc": "2025-08-11T14:18:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=ca6017072c2872a5b52291cbb27daad12d539d57fea0ab1fc2a9eb271b529724",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136352886,
+      "datetime": 1754936280
+    },
+    {
+      "title": "When a Healthcare Giant Gets Sick: Elevance Health's 20% YTD Decline",
+      "description": "ELV's 20% YTD slump reflects shrinking memberships, rising costs and deepening analyst pessimism despite long-term growth levers.",
+      "published_utc": "2025-08-11T12:23:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7cea0761ffa04f05bf2bccd3da2068e9d390f13763ee0b0b57a2ac5a13b75c79",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136310569,
+      "datetime": 1754929380
+    },
+    {
+      "title": "Voya Balanced Large Cap Core-Value SMA (Merrill Lynch) Q2 2025 Commentary",
+      "description": "For the quarter ended June 30, 2025, the SMA underperformed the Index on a gross- and net-of-fees basis due to favorable stock selection. Read more here.",
+      "published_utc": "2025-08-11T10:26:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b89ca111d0a05fc3a6ca05a1d49f454c3a6c0627bb5eacbef1e9fd75239955d0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1126892571/image_1126892571.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136306049,
+      "datetime": 1754922360
+    }
+  ]
+}

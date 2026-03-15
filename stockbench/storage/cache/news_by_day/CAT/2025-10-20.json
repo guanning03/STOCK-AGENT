@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Industrials Post Positive Earnings. 3 Stocks Whose Charts Say ‘Buy.’",
+      "description": "An equipment manufacturer, an industrial machinery play, and a safety science company with constructive technical indicators.",
+      "published_utc": "2025-10-20T15:39:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5b30b1aa72dc02df9c10c942e0725d25e817831dc29209a84facca85f631e926",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137174194,
+      "datetime": 1760989140
+    },
+    {
+      "title": "Caterpillar Inc. stock outperforms competitors on strong trading day",
+      "description": "Caterpillar Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-10-20T12:33:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=bd16018f74e32b1f4a4d35c66ed740d26d9c0deecda6aa3ae2d2f44eb0e99c1a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137226066,
+      "datetime": 1760977980
+    },
+    {
+      "title": "Alphabet To Rally More Than 10%? Here Are 10 Top Analyst Forecasts For Monday",
+      "description": "",
+      "published_utc": "2025-10-20T05:34:44",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=dc8dfd2a7709a798460781eeb553cd5ef789adc410bef5b791716363e391f9bb",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/10/20/Stuttgart--Germany---July-20--2023-Googl.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138482637,
+      "datetime": 1760952884
+    }
+  ]
+}

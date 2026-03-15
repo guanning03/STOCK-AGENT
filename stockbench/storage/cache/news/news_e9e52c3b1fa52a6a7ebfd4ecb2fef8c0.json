@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "One Agriculture Equipment Giant Dominated Last Month Despite Sector Challenges",
+      "description": "The U.S. economy added just 50,000 jobs in December, marking the slowest labor market expansion in years and pushing unemployment to 4.4%. This cooling signals potential Federal Reserve flexibility on rates, creating a critical backdrop for capital-intensive industries like farm equipment. With mortgage rates hitting three-year lows following Trump’s $200 billion housing bond program and ... One Agriculture Equipment Giant Dominated Last Month Despite Sector Challenges",
+      "published_utc": "2026-01-10T09:12:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=af450229eb44b99b0710f47f100aa33e528f0906e7b91b45b12ed5e46034f246",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138058700,
+      "datetime": 1768054325
+    },
+    {
+      "title": "5 Things That Won't Happen In 2026 (The Alpha Of Inertia)",
+      "description": "This article lays out five slow-moving certainties for 2026 that investors can lean on. Click here to read more.",
+      "published_utc": "2026-01-10T03:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=dc02cc7e318de2d458d5b92b23ef870ba3ca8e58c355af40624245a0a5104aac",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2204917953/image_2204917953.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138055532,
+      "datetime": 1768033800
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:13:36.701062+00:00",
+    "cache_key": "news_e9e52c3b1fa52a6a7ebfd4ecb2fef8c0",
+    "count": 2
+  }
+}

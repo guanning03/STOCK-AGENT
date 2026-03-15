@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "id": "254218c492fd52ef0c16709a60a0bf20cab1880ba6a543da02966d54f9129557",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Down 23% With a 6.7% Yield, Is This High Dividend Stock Too Cheap to Ignore, and Worth Buying in December?",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-11T13:45:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/11/down-big-high-yield-buy-dividend-stock-december/?source=iedfolrf0000001",
+      "tickers": [
+        "DOW",
+        "SHW"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800262/gettyimages-1358625679-1200x675-128554e.jpg",
+      "description": "Dow, a commodity chemical giant, has seen its stock price drop 23% year-to-date, pushing its dividend yield up to 6.7%. The article discusses the factors driving the sell-off, including a global slowdown in the industry, and whether Dow is a high-yield dividend stock worth buying for patient investors.",
+      "keywords": [
+        "Dow",
+        "commodity chemicals",
+        "dividend stock",
+        "global slowdown"
+      ],
+      "insights": [
+        {
+          "ticker": "DOW",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a balanced view on Dow, acknowledging the challenges the company is facing due to the global slowdown in the industry, but also suggesting that it could be a good buying opportunity for patient investors who can handle the volatility."
+        },
+        {
+          "ticker": "SHW",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Dow was recently kicked out of the Dow Jones Industrial Average and replaced by Sherwin-Williams, but does not provide any further analysis or sentiment on Sherwin-Williams."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:15:48.368176+00:00",
+    "cache_key": "news_fbe0ccb590c3607f102072ff8524b258",
+    "count": 1
+  }
+}

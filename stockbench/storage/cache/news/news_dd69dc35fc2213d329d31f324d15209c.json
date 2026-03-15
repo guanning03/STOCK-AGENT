@@ -1,0 +1,92 @@
+{
+  "items": [
+    {
+      "id": "432184f94e5bc6063575eeb1653d693e48729e192f0411803e00d2dfffa4da8b",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Amazon vs Nvidia: Billionaires Are Buying One and Selling the Other",
+      "author": "Adria Cimino",
+      "published_utc": "2025-02-01T18:08:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/01/amazon-vs-nvidia-billionaires-are-buying-one-and-s/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806040/gettyimages-876388422.jpg",
+      "description": "Billionaires have been buying Amazon (AMZN) and selling Nvidia (NVDA) as they see Amazon benefiting more from the growth in agentic AI, a new wave of AI that can reason and apply solutions. Amazon's cloud unit AWS sells a wide range of AI products and services, which has boosted its revenue growth.",
+      "keywords": [
+        "artificial intelligence",
+        "AI",
+        "Amazon",
+        "Nvidia",
+        "cloud computing",
+        "agentic AI"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Billionaires have been buying Amazon's shares as they see the company benefiting from the growth in agentic AI, a new wave of AI that can reason and apply solutions. Amazon's cloud unit AWS sells a wide range of AI products and services, which has boosted its revenue growth."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Billionaires have been selling Nvidia's shares, with some investors locking in profits on the stock and looking for other players that may have a lot to gain in the next wave of AI growth. Nvidia is the leading designer of AI chips, but its growth may be slowing down."
+        }
+      ]
+    },
+    {
+      "id": "294aabb70fc62146da34ab8a60c3c00a028b80f7e05b7c9a99062a2599880fda",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Where Will Target Stock Be in 2 Years?",
+      "author": "Anders Bylund",
+      "published_utc": "2025-02-01T17:07:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/01/where-will-target-stock-be-in-2-years/?source=iedfolrf0000001",
+      "tickers": [
+        "TGT",
+        "WMT",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805944/shopper-is-shocked-at-grocery-receipt.jpg",
+      "description": "Target is struggling with stalled sales growth and declining cash flows, while competitors like Walmart and Amazon are thriving. The stock is trading at a bargain valuation, but the company faces significant challenges. The author believes the stock may be undervalued and could outperform the market in the next couple of years.",
+      "keywords": [
+        "Target",
+        "Walmart",
+        "Amazon",
+        "retail",
+        "stock analysis"
+      ],
+      "insights": [
+        {
+          "ticker": "TGT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Target is facing challenges with stalled sales growth and declining cash flows, but the author believes the stock may be undervalued and could outperform the market in the next couple of years."
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Walmart has seen double-digit sales growth and generous cash flows, outperforming Target."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon has seen double-digit sales growth and generous cash flows, outperforming Target."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:36:55.599601+00:00",
+    "cache_key": "news_dd69dc35fc2213d329d31f324d15209c",
+    "count": 2
+  }
+}

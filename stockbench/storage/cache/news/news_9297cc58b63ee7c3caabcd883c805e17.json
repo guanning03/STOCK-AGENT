@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Earnings live: Microsoft, Meta stocks surge; Robinhood beats; Ford warns on tariff exposure",
+      "description": "Second quarter earnings season is in full swing, and the results have been largely positive so far, with more positive surprises than negative ones.",
+      "published_utc": "2025-07-30T16:36:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=633b18478800424ca4c74c1f76483230f63e5013853d1a6722a4eb1a88470856",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136148679,
+      "datetime": 1753907773
+    },
+    {
+      "title": "Boeing’s Earnings Showed Progress. Wall Street Targets Are Highest Since 2023.",
+      "description": "Boeing’s  second-quarter earnings report wasn’t perfect, but it showed progress.  Wall Street had expected a loss of $1.40 on sales of $21.7 billion, according to Bloomberg.  Coming into earnings, Boeing stock was very strong, up 30% over the preceding three months.",
+      "published_utc": "2025-07-30T16:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=72bc4c7f4078c7b994d13aaf238482087945fe9920808a0954e25ad2ad398e9a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136148989,
+      "datetime": 1753906800
+    },
+    {
+      "title": "Franklin Income SMA Q2 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-07-30T15:25:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cd127ab80f6947e53cd3664f2e66e15d6308cbdee12850d401f92be9e4147f8d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136146605,
+      "datetime": 1753903500
+    },
+    {
+      "title": "Analysts Confident Boeing Is 'Gaining Altitude' Despite Q2 Loss",
+      "description": "Boeing Co.’s (NYSE:BA) second-quarter results on Tuesday revealed a wider-than-anticipated loss, despite strong revenue driven by a significant jump in commercial aircraft deliveries and an expanding order backlog. This mixed financial performance underscores the aerospace giant’s ongoing efforts to stabilize operations amid persistent industry challenges. Despite the quarterly earnings per share (EPS) miss, Wall Street analysts largely maintain a bullish outlook on Boeing. They cite solid deliv",
+      "published_utc": "2025-07-30T15:09:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=393a7f78ead8eed18d641ab1b72324662866150921f7d164917166afce8f0936",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136148990,
+      "datetime": 1753902598
+    },
+    {
+      "title": "The Boeing Company (BA): “Everything’s Going Boeing’s Way,” Says Jim Cramer",
+      "description": "We recently published 10 Stocks On Jim Cramer’s Mind As He Discussed A “Weird Number”. The Boeing Company (NYSE:BA) is one of the stocks Jim Cramer recently discussed. The Boeing Company (NYSE:BA) is a well-known firm that has managed to turn a leaf in 2025. The firm’s shares have gained 33.8% year-to-date as the firm […]",
+      "published_utc": "2025-07-30T15:01:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6814985b6c1233328758051692e3b62dd9022b85aa2cb7e08bdd369f98762366",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136148991,
+      "datetime": 1753902109
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:24:26.123123+00:00",
+    "cache_key": "news_9297cc58b63ee7c3caabcd883c805e17",
+    "count": 5
+  }
+}

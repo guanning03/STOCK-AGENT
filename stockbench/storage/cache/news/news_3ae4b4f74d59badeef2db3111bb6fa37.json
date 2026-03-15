@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "3 Warren Buffett Stocks to Buy Hand Over Fist in February",
+      "description": "Even the Oracle of Omaha's picks can go \"on sale\" every now and then.",
+      "published_utc": "2026-02-15T06:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=22b7200b7fed54417ceac5ef306855d359ba1cd445f3c19d81d9edaae4d7e3a3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139105954,
+      "datetime": 1771155900
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:04:21.664062+00:00",
+    "cache_key": "news_3ae4b4f74d59badeef2db3111bb6fa37",
+    "count": 1
+  }
+}

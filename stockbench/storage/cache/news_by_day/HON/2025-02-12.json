@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "id": "70be4bf92f45e975b9fdbe66be4bf523a95f87f76b8f43820cbef25a2cc6568c",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Looking for Dividend Stocks to Buy in February? Consider These 3 Dow Jones Components.",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-12T11:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/12/dividend-stocks-buy-february-dow-mmm-hon/?source=iedfolrf0000001",
+      "tickers": [
+        "MMM",
+        "HON",
+        "CSCO"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806993/gettyimages-1473864910-1201x829-4bcdac9-1.jpg",
+      "description": "The article recommends three Dow Jones stocks - 3M, Honeywell, and Cisco Systems - as potential dividend investments for February. It highlights the companies' dividend yields, turnaround prospects, and growth opportunities in areas like cloud computing and cybersecurity.",
+      "keywords": [
+        "dividend stocks",
+        "Dow Jones",
+        "3M",
+        "Honeywell",
+        "Cisco Systems"
+      ],
+      "insights": [
+        {
+          "ticker": "MMM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights 3M's ongoing restructuring initiatives, which are expected to improve profit margins and operational performance, making it a value stock and turnaround prospect for investors."
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article notes that Honeywell's stock price has been stagnant, and its growth guidance for 2025 is weak. However, the potential spin-off of its businesses could be a strategic decision that benefits the company in the long run, making it an intriguing value stock for dividend investors."
+        },
+        {
+          "ticker": "CSCO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Cisco's exposure to high-growth tech areas like cloud computing, AI, and cybersecurity, as well as its consistent dividend growth and secure payout ratio, making it an attractive dividend stock for investors."
+        }
+      ]
+    }
+  ]
+}

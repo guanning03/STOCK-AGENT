@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Trump and Dimon Are Talking Again After Yearslong Rift",
+      "description": "America’s most powerful banker and the president have met twice in the past two months to talk about the economy, interest rates and trade.",
+      "published_utc": "2025-07-30T19:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5e775088e8ebc3361cf7ab778000b61736214f06ae373f64fb67fec7f72738c4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136148801,
+      "datetime": 1753916400
+    },
+    {
+      "title": "Sector Update: Financial Stocks Retreat Late Afternoon",
+      "description": "Financial stocks were weaker late Wednesday afternoon, with the NYSE Financial Index shedding 0.8% a",
+      "published_utc": "2025-07-30T15:55:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d21b165dcd59ac686d2060b7b91aeee23e0d3803e2436b40476667338e09e991",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136148802,
+      "datetime": 1753905347
+    },
+    {
+      "title": "Franklin Income SMA Q2 2025 Commentary",
+      "description": "",
+      "published_utc": "2025-07-30T15:25:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cd127ab80f6947e53cd3664f2e66e15d6308cbdee12850d401f92be9e4147f8d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136146605,
+      "datetime": 1753903500
+    },
+    {
+      "title": "JPMorgan Chase (JPM) Partners With Coinbase To Integrate Banking And Crypto Services",
+      "description": "JPMorgan Chase (JPM) has recently announced a strategic partnership with Coinbase, signaling a move towards integrating traditional banking with the digital asset economy. These strategic maneuvers, along with the reported increase in customer choice through enhanced bank-to-wallet connections, may have contributed to the company's 21% price rise over the last quarter. During this period, JPMorgan also increased its dividend and expanded its share buyback program, aligning with broader market...",
+      "published_utc": "2025-07-30T13:50:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aca50ce878f100e58b4f17f66439a47cfdccb529a67c2c4e5540b3705ba72eba",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136148803,
+      "datetime": 1753897816
+    },
+    {
+      "title": "JPMorgan, Coinbase Agree to Link Bank, Crypto Accounts",
+      "description": "JPMorgan Chase and Coinbase Global signed an agreement to directly link customers' bank accounts to their cryptocurrency wallets. Paige Smith reports on \"Bloomberg Markets.\"",
+      "published_utc": "2025-07-30T13:35:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=96826ed7a308616db2032ae55e331385e76d16175d9712c924d22963312d00a4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136148804,
+      "datetime": 1753896922
+    }
+  ]
+}

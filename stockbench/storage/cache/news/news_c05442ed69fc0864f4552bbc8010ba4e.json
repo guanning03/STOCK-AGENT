@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Costco's menu adds an iconic treat that McDonald's used to offer",
+      "description": "When I’m shopping at Costco, I tend to want to get in and out of the store as quickly as possible. That’s because I have very little patience for large crowds, which Costco tends to attract. Thankfully, as an Executive member, I’m now able to enter the store an hour early on weekdays. And so far, ...",
+      "published_utc": "2025-10-25T00:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3877b6bb08e4f57b8c4653d7361a150b1776cc032d52e913532b95b63cf8a7db",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137216039,
+      "datetime": 1761366780
+    },
+    {
+      "title": "A Look at McDonald's (MCD) Valuation Following a 5% Dividend Increase",
+      "description": "McDonald's (MCD) just gave investors something to consider, announcing a 5% increase in its quarterly dividend. This move highlights management's steady confidence in the fast-food giant’s ability to deliver reliable profits. See our latest analysis for McDonald's. McDonald's share price showed steady momentum over the past year, with a 6.94% total shareholder return and resilient performance despite some volatility in the broader fast-food sector. The recent dividend hike comes after...",
+      "published_utc": "2025-10-24T22:09:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c3961079fbf88419044c8ac821dbf9ac3fb5f7033120fd26d7e2323dfb5c8a55",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137216273,
+      "datetime": 1761358181
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:52:47.078805+00:00",
+    "cache_key": "news_c05442ed69fc0864f4552bbc8010ba4e",
+    "count": 2
+  }
+}

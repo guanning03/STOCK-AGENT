@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Sam Altman says the AI talent war is a bet that a ‘medium-sized handful of people’ will make superintelligence breakthroughs",
+      "description": "\"I'm not I'm not totally sure what's gonna happen, but it is a crazy intense comp for a very small number of people right now.\"",
+      "published_utc": "2025-08-09T19:19:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8383b3eb69a70f5a0fa4d15253ebb01ec034998241e808ec47a114cc1a8a6a61",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136292131,
+      "datetime": 1754781596
+    },
+    {
+      "title": "Microsoft, Apple, Amazon, and Meta Just Gave Nvidia Investors Great News",
+      "description": "There's a lot of room for optimism as Nvidia is set to report earnings on Aug. 27.",
+      "published_utc": "2025-08-09T09:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7eefb066a430d5bfbfd1fb7d7109193ecec33eac4a8c9cb41be3352842db1b6f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136284323,
+      "datetime": 1754744700
+    },
+    {
+      "title": "Big Monthly Dividends From Big Tech: Forget JEPQ And Buy GPIQ Instead",
+      "description": "Compare GPIQ and JEPQ covered call ETFs for high yields and Nasdaq-100 tech exposure. Learn why GPIQ stands out despite capped upside and risks.",
+      "published_utc": "2025-08-09T04:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8e9300e59cbe353d1cf86db0e74c97f7233a33184dd956a948262ec2225ca4f5",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2216950560/image_2216950560.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136278621,
+      "datetime": 1754726700
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "items": [
+    {
+      "title": "Dow Jones Futures: Nvidia Is Next Big Market Test After Powell-Led Rally",
+      "description": "Dow Jones Futures: Nvidia Is Next Big Market Test After Powell-Led Rally",
+      "published_utc": "2025-08-24T19:22:24",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=c6c39bd9500c56e3e21d26f623c4ae3da579f532ccff5c984101ca43c90f7b31",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136509617,
+      "datetime": 1756077744
+    },
+    {
+      "id": "a4be735ba6f76cfba817d7516ba347bd34f69b5b90d81622a2366053b92811c6",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is SoFi Technologies Stock a Millionaire-Maker?",
+      "author": "Neil Patel",
+      "published_utc": "2025-08-24T11:17:00Z",
+      "article_url": "https://www.fool.com/investing/2025/08/24/is-sofi-technologies-stock-a-millionaire-maker/?source=iedfolrf0000001",
+      "tickers": [
+        "SOFI",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "VYLD",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK",
+        "WFC",
+        "WFCpA",
+        "WFCpC",
+        "WFCpD",
+        "WFCpL",
+        "WFCpY",
+        "WFCpZ",
+        "C",
+        "CpN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/830088/sofi-nasdaq-listing-image-of-day-that-sofi-was-listed.jpg",
+      "description": "SoFi Technologies is a digital bank experiencing significant growth, with a 225% stock increase in the past year. The company has 11.7 million members, is becoming profitable, and aims to become a top 10 financial institution through innovative digital banking services.",
+      "keywords": [
+        "fintech",
+        "digital banking",
+        "investment",
+        "technology",
+        "financial services"
+      ],
+      "insights": [
+        {
+          "ticker": "SOFI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong user growth (34% year-over-year), consistent profitability, expanding product offerings, revenue growth forecast of 24.6%, and ambitious expansion goals"
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an established banking institution against which SoFi is competing"
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an established banking institution against which SoFi is competing"
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an established banking institution against which SoFi is competing"
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an established banking institution against which SoFi is competing"
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an established banking institution against which SoFi is competing"
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an established banking institution against which SoFi is competing"
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an established banking institution against which SoFi is competing"
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an established banking institution against which SoFi is competing"
+        },
+        {
+          "ticker": "VYLD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an established banking institution against which SoFi is competing"
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an established banking institution against which SoFi is competing"
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an established banking institution against which SoFi is competing"
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an established banking institution against which SoFi is competing"
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an established banking institution against which SoFi is competing"
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an established banking institution against which SoFi is competing"
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an established banking institution against which SoFi is competing"
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an established banking institution against which SoFi is competing"
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an established banking institution against which SoFi is competing"
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an established banking institution against which SoFi is competing"
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an established banking institution against which SoFi is competing"
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an established banking institution against which SoFi is competing"
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an established banking institution against which SoFi is competing"
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an established banking institution against which SoFi is competing"
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an established banking institution against which SoFi is competing"
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an established banking institution against which SoFi is competing"
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an established banking institution against which SoFi is competing"
+        },
+        {
+          "ticker": "WFC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an established banking institution against which SoFi is competing"
+        },
+        {
+          "ticker": "WFCpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an established banking institution against which SoFi is competing"
+        },
+        {
+          "ticker": "WFCpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an established banking institution against which SoFi is competing"
+        },
+        {
+          "ticker": "WFCpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an established banking institution against which SoFi is competing"
+        },
+        {
+          "ticker": "WFCpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an established banking institution against which SoFi is competing"
+        },
+        {
+          "ticker": "WFCpY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an established banking institution against which SoFi is competing"
+        },
+        {
+          "ticker": "WFCpZ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an established banking institution against which SoFi is competing"
+        },
+        {
+          "ticker": "C",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an established banking institution against which SoFi is competing"
+        },
+        {
+          "ticker": "CpN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as an established banking institution against which SoFi is competing"
+        }
+      ]
+    }
+  ]
+}

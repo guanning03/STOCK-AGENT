@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Here's Why Salesforce.com (CRM) Fell More Than Broader Market",
+      "description": "Salesforce.com (CRM) concluded the recent trading session at $247.49, signifying a -1.91% move from its prior day's close.",
+      "published_utc": "2025-08-05T17:45:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e4010344975a7c55213775868794e83cf4efef9034a7f89d4eb604ba35f3e5f7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136232278,
+      "datetime": 1754430303
+    },
+    {
+      "title": "Salesforce Inc. stock underperforms Tuesday when compared to competitors",
+      "description": "Salesforce Inc. stock underperforms Tuesday when compared to competitors",
+      "published_utc": "2025-08-05T12:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=4a8927a0660409376907a07b8b456ccd39c2cfceeb5005ec36ea257b127c47fe",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136235119,
+      "datetime": 1754411520
+    },
+    {
+      "title": "Hacker used a voice phishing attack to steal Cisco customers’ personal information",
+      "description": "Cisco disclosed a data breach including customer names, organization names, addresses, email addresses, and phone numbers of Cisco.com users.",
+      "published_utc": "2025-08-05T11:03:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2868c7400aa26e385968188f62d9cf2289a4d568710ee21fd6de714268882725",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136214943,
+      "datetime": 1754406183
+    },
+    {
+      "title": "AI for Sales and Marketing Company Evaluation Report 2025 | Salesforce, Google, and Adobe Lead with Advanced Personalization, Predictive Analytics, and Marketing Automation",
+      "description": "The AI for Sales and Marketing Companies Quadrant delivers an in-depth analysis of the global AI market in sales and marketing, highlighting innovations and industry trends. The 360 Quadrants reviewed over 140 companies, naming the top 21 as leaders. AI's role in sales and marketing is expanding rapidly, with sectors like retail, e-commerce, and finance integrating AI-driven strategies such as predictive analytics, chatbots, and automation tools. The report emphasizes the importance of ethical A",
+      "published_utc": "2025-08-05T10:34:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=68448086ee14b032354917f527c16b32ab21cd0957d3ae79e42423a053e29dcb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136214815,
+      "datetime": 1754404440
+    },
+    {
+      "title": "I Was Wrong About Palantir: Upgrading To A Cautious Buy",
+      "description": "Palantir Technologies Inc.'s stellar quarter signals growth potential! Click for why PLTR is a cautious buy for investors, with strong earnings growth potential.",
+      "published_utc": "2025-08-05T08:26:37",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e1b8b6a4e8f6977e05453615eb7a0b2493afbdbf98a4809c80fda11d76edec49",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1313497440/image_1313497440.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136214332,
+      "datetime": 1754396797
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:41:53.428898+00:00",
+    "cache_key": "news_ab404576181725f55ce42a0e9b84ce73",
+    "count": 5
+  }
+}

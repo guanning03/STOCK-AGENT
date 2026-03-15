@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Bank of America resets AMD stock price target on deal with Meta",
+      "description": "Advanced Micro Devices (AMD) stock has lost about 18% in the past month, at the time of writing, Wednesday afternoon, Feb. 25, according to Yahoo Finance. Meanwhile, the SPDR S&P 500 index (SPY) is up about 0.4% in the same period. The stock crashed following its Q4 earnings report on February ...",
+      "published_utc": "2026-02-25T19:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=182de960c2209a86a568bc1badb9b8a93a1c7bcf1299e1e5a1ed66c0cbd0cd52",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139226381,
+      "datetime": 1772064000
+    },
+    {
+      "title": "Business Conditions Monthly December 2025",
+      "description": "",
+      "published_utc": "2026-02-25T18:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=eb80a31bfdc758fb864a779e5c8bbf91b1af392ff0133ca750a6a493ae96b092",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139228205,
+      "datetime": 1772063100
+    },
+    {
+      "title": "Dow Jones And U.S. Index Outlook: Nasdaq And Tech Lead A Market Rebound",
+      "description": "",
+      "published_utc": "2026-02-25T18:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f5e774f94ec08c488544f2d81e260f479452f30785340035548bffd93319a117",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139228019,
+      "datetime": 1772060400
+    },
+    {
+      "title": "An AI ETF Soared 28% And Left QQQ In The Dust",
+      "description": "Investors seeking dedicated AI exposure face a structural problem: the biggest AI beneficiaries aren’t always the household names dominating broad tech indexes. iShares Future AI & Tech ETF (NYSEARCA:ARTY) addresses this by constructing a portfolio around the full AI infrastructure stack, from memory chips to data platforms to power infrastructure, rather than simply reweighting toward ... An AI ETF Soared 28% And Left QQQ In The Dust",
+      "published_utc": "2026-02-25T16:22:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=41f0f790aed2b825ee23284beea935833973f6bcc876f4bf9980edd29be4e866",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139226126,
+      "datetime": 1772054526
+    },
+    {
+      "title": "Trump Calls Out Pelosi For Stock Trading, Ignores Republicans With Better Returns, Questionable Trades",
+      "description": "Donald Trump&#39;s State of the Union speech on Wednesday featured a call to ban congressional stock trading, including a negative call out to former Speaker of the Hous",
+      "published_utc": "2026-02-25T15:34:11",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=0607a5f4b0ce6c819d4cbff64c43be5194f98817773cdf2b9d601741f2d8ce27",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/02/25/Washington--February-22--2025-President-.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139231843,
+      "datetime": 1772051651
+    }
+  ]
+}

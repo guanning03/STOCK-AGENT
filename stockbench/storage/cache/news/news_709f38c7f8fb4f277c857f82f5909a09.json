@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "id": "13af2497141dfc6b801bb24d90a149ae77b46948cf8edf3b0586fd60eb580e1f",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is China Dragging Down This Dow Jones Dividend King Stock?",
+      "author": "Daniel Foelber",
+      "published_utc": "2025-01-26T09:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/26/china-dragging-down-dow-jones-dividend-king-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "PG"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805141/gettyimages-1435079623-1200x800-5b2df79-2.jpg",
+      "description": "Procter & Gamble (P&G) is a reliable dividend-paying company, but its performance in China has been a concern. While P&G's overall results have improved, the company is still facing challenges in China, particularly in its beauty business. P&G is taking steps to adapt its products and distribution strategies to address changing consumer preferences in the region.",
+      "keywords": [
+        "Procter & Gamble",
+        "China",
+        "dividend",
+        "beauty",
+        "product innovation"
+      ],
+      "insights": [
+        {
+          "ticker": "PG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "P&G is a reliable dividend-paying company with a strong brand portfolio and efficient supply chain. While it is facing challenges in China, the company is taking steps to adapt and improve its performance in the region."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:20:58.290778+00:00",
+    "cache_key": "news_709f38c7f8fb4f277c857f82f5909a09",
+    "count": 1
+  }
+}

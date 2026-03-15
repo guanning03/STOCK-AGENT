@@ -1,0 +1,110 @@
+{
+  "items": [
+    {
+      "title": "Google CEO Sundar Pichai Predicts AI Will Act For You — From Investments To Medical Advice — Calling The Coming Shift 'Really Interesting'",
+      "description": "A coming wave of artificial intelligence tools may soon make decisions on behalf of users, from guiding investment choices to reviewing medical treatments. That shift is advancing quickly enough that it could act as an agent for users within the next year, Google CEO Sundar Pichai recently told BBC. CEOs Debate How Far AI Will Go Pichai said AI is advancing fast, and may eventually perform duties now handled by corporate leaders. \"That's where it gets really interesting,\" he said, describing how",
+      "published_utc": "2025-12-07T14:31:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e7586cb8fc67c1e41c5b90eb7b7cf3bc360419bedc520d9b34ab007c263ef344",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137732363,
+      "datetime": 1765135874
+    },
+    {
+      "title": "Rubrik’s Massive Rebound: Why the Next Leg Higher Could Be Fast",
+      "description": "Rubrik is on track to rally higher and potentially reach new highs before 2025's end. Analysts and institutions are accumulating and driving the action.",
+      "published_utc": "2025-12-07T10:21:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=81ae9d4a20a35f3fc2184b59b85ec87f0d20452aa4891d124a13928e5d012b58",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137732364,
+      "datetime": 1765120860
+    },
+    {
+      "title": "Consumer Tech News (Dec 1-5): Trump Says He's Back in Elon Musk's Social Circle, U.S. Suspends China MSS Sanctions & More",
+      "description": "Trump claims he has restored ties with Elon Musk, signaling a thaw in their relationship after earlier conflicts, sparking attention in the tech and political world. Conservative advocacy groups, including Steve Bannon, urge Trump administration to stop Big Tech from using copyrighted content for AI training without permission.",
+      "published_utc": "2025-12-07T05:46:10",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=4dc6c3758df8c95ce3de958ed4da9cf88fb0e4cc2d9ca8c1f9a80e0c7dc65a8d",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/12/07/Donald-Trumps-Conversation-With-Elon-Mus.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138470819,
+      "datetime": 1765104370
+    },
+    {
+      "id": "da0969ecc0aa8e64c6f18669fe494b132fc22e7558a4d2dfc603bee6a8bfc1e9",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Decision Intelligence Market to Reach USD 74.23 Billion by 2033, Owing to Rising Adoption of AI-Enabled Data-Driven Decision-Making | SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-12-07T14:45:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/12/07/3201138/0/en/Decision-Intelligence-Market-to-Reach-USD-74-23-Billion-by-2033-Owing-to-Rising-Adoption-of-AI-Enabled-Data-Driven-Decision-Making-SNS-Insider.html",
+      "tickers": [
+        "IBM",
+        "GOOG",
+        "GOOGL",
+        "MSFT",
+        "CRM"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The decision intelligence market is projected to grow from $18.08 billion in 2025 to $74.23 billion by 2033, driven by increasing AI and machine learning adoption, cloud-based solutions, and demand for real-time strategic insights across industries.",
+      "keywords": [
+        "decision intelligence",
+        "AI",
+        "machine learning",
+        "cloud computing",
+        "data analytics"
+      ],
+      "insights": [
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Highlighted as a leading company investing in market-leading product offerings and driving innovation in decision intelligence technologies"
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mentioned as a key player raising investments in cloud and decision intelligence platforms"
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mentioned as a key player raising investments in cloud and decision intelligence platforms"
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Recognized as a prominent company contributing to market growth through cloud and AI technologies"
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed as a key player without specific growth or performance details"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:11:20.598129+00:00",
+    "cache_key": "news_6bd823418fe8d3a673d0d049eca501c8",
+    "count": 4
+  }
+}

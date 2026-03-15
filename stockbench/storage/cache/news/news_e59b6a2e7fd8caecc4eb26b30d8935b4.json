@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "id": "842d7eb6e9f5cb24b1c0e08b270a9f2a5311f4808378f42cf259d3920bc7c38f",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Delivery Drone Market to Register a CAGR of 40.3% from 2025 to 2034, to Reach USD 29,417.91 million by 2034 – Report by Polaris Market Research",
+      "author": "Polaris Market Research",
+      "published_utc": "2024-12-18T11:01:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2024/12/18/2998886/0/en/Delivery-Drone-Market-to-Register-a-CAGR-of-40-3-from-2025-to-2034-to-Reach-USD-29-417-91-million-by-2034-Report-by-Polaris-Market-Research.html",
+      "tickers": [
+        "EADSY",
+        "AMZN",
+        "BA",
+        "BApA"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/cf0a808d-3703-43f4-9b34-ec72345f8585",
+      "description": "The delivery drone market is expected to grow rapidly due to rising demand for fast and contactless delivery options, as well as increased investments in drone technology.",
+      "keywords": [
+        "delivery drones",
+        "unmanned aerial vehicles",
+        "e-commerce",
+        "healthcare",
+        "retail"
+      ],
+      "insights": [
+        {
+          "ticker": "EADSY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Airbus SAS as one of the top players in the delivery drone market, indicating their strong presence and potential for growth."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "As a leading e-commerce company, Amazon's involvement in the delivery drone market suggests its potential to benefit from the growing demand for fast and efficient delivery options."
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Boeing's inclusion as a top player in the delivery drone market indicates its expertise and capabilities in the aerospace industry, which can be leveraged for the growth of the delivery drone market."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Boeing's inclusion as a top player in the delivery drone market indicates its expertise and capabilities in the aerospace industry, which can be leveraged for the growth of the delivery drone market."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:41:14.030826+00:00",
+    "cache_key": "news_e59b6a2e7fd8caecc4eb26b30d8935b4",
+    "count": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Apple's Record-Breaking Q4, Tim Cook's Bold Prediction And More: This Week In Appleverse",
+      "description": "Apple breaks records in Q4 and ad revenue, Samsung teases iPhone users, and Jamie Dimon echoes Steve Jobs on office meetings.",
+      "published_utc": "2025-11-02T03:01:31",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=63f9bbb79d10fec9f7d3b334b2b1167e311cb2ae360f1c1bf9ca5b7ebb0edc77",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/02/Apple.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138674154,
+      "datetime": 1762070491
+    },
+    {
+      "title": "The 3 Things That Could Derail This Rally",
+      "description": "The market rallied in October, with NASDAQ up 4.7%, as AI-driven gains pushed equities to extreme valuations historically. Check out what could trigger a correction.",
+      "published_utc": "2025-11-02T02:00:16",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=64e41bd83d7e35fe25b197ac22e6d162c7ef5b82094617ec4d0c24e932ca4665",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1370327884/image_1370327884.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137292926,
+      "datetime": 1762066816
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:21:36.766241+00:00",
+    "cache_key": "news_fcfe7e8f766b950b559e0d9ea602dffc",
+    "count": 2
+  }
+}

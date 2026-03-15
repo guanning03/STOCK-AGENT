@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Can AI's Benefits Spread Beyond A Handful Of Tech Giants?",
+      "description": "",
+      "published_utc": "2026-02-04T18:25:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c8fe2042aab67a0232be4aaad25c2965f38e19a2e3ef606c1e5a156ec93d37d8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138360697,
+      "datetime": 1770247500
+    },
+    {
+      "title": "Dow Jones And U.S. Index Outlook: Rebalancing Continues As Tech Dives",
+      "description": "Stock benchmarks maintain strong divergence, with the Dow leading while Nasdaq falls.",
+      "published_utc": "2026-02-04T17:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c81a600ab69ead8a48c05135eabcbbf56c64b04d151aa0056ba547060428921f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1358927461/image_1358927461.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138360439,
+      "datetime": 1770244800
+    },
+    {
+      "title": "What Does The Bond Market Seem To Be Telling Us These Days",
+      "description": "Bond market signals point to higher U.S. rates, anchored inflation, and slower growth. Read more macro analysis here.",
+      "published_utc": "2026-02-04T15:00:22",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8507ceaaf51f1d0ffc4c90fc84943b35563d8475ff5b500ee51f32fb277f64e1",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/489123336/image_489123336.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138359747,
+      "datetime": 1770235222
+    },
+    {
+      "title": "ADP National Employment Report: 22K Private Jobs Added In January",
+      "description": "The ADP employment report revealed that 22,000 nonfarm private jobs were added in January, down from the 37,000 added in December.",
+      "published_utc": "2026-02-04T14:25:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=acc1cf42c53bd22b89330e31e0e7b20f34f6e551a0a534b15097d46170504723",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/174628030/image_174628030.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138359507,
+      "datetime": 1770233100
+    },
+    {
+      "title": "I'm Buying The Software Meltdown",
+      "description": "Software stocks have been sharply oversold on AI disruption fears, creating compelling value opportunities for patient investors. Click here to know more.",
+      "published_utc": "2026-02-04T13:30:36",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b68f2e192fd343a8d011bfd55597f5493e680f6a047df2303264df6f76f17c0e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/473502112/image_473502112.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138358805,
+      "datetime": 1770229836
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:39:29.919696+00:00",
+    "cache_key": "news_c410c2ff7640cefdc6a5c48900e8e8fe",
+    "count": 5
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Dow's nearly 725-point rally highlighted by gains in NVIDIA Corp., Amgen stocks",
+      "description": "Dow's nearly 725-point rally highlighted by gains in NVIDIA Corp., Amgen stocks",
+      "published_utc": "2026-01-21T09:51:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=fd8e110367ec8ba12c08fa010f3fb84d49d606971265e68fcb350f95cbdfdbdd",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138211805,
+      "datetime": 1769007060
+    },
+    {
+      "title": "NAIL: Favorable Macroeconomic Outlook For 2026-2027",
+      "description": "NAIL ETF surges in early 2026 on low valuations, megacap rotation, and cheaper borrowingâbut volatility risks persist. Read the full analysis here.",
+      "published_utc": "2026-01-21T02:42:40",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9e6551a03cf48fc763d3b2557d4f28e43edf0ba27750dfcd934484c0e32f40dc",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/484527136/image_484527136.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138194759,
+      "datetime": 1768981360
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:50:02.383307+00:00",
+    "cache_key": "news_defd673d0839bb0a4bbadfa154dad190",
+    "count": 2
+  }
+}

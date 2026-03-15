@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "An S&P Global International Insider Bought Up Stock",
+      "description": "An S&P Global International Insider Bought Up Stock",
+      "published_utc": "2026-02-15T09:19:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=acc93dfb4a2ddd2439bfa62139b0408f9ff06bbcb65ca1f19260ee44f7697190",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139199696,
+      "datetime": 1771165140
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:06:45.743368+00:00",
+    "cache_key": "news_562d924b06030f4ab6687c4dca818fd7",
+    "count": 1
+  }
+}

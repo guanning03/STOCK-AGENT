@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer Calls Goldman Sachs a “Favorite” of His",
+      "description": "The Goldman Sachs Group, Inc. (NYSE:GS) is one of the stocks Jim Cramer discussed along with macroeconomic conditions. Cramer noted the company is a “huge” position for the Charitable Trust, as he commented: “For the financials, I asked if there’d be a tangible benefit from the deregulation that we expected once the Trump administration took […]",
+      "published_utc": "2025-12-28T12:59:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=48084d8b14534cfc53ecf4e820baf73ebbed9c6f1120c6e4e54a3b5f532ca12b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137931050,
+      "datetime": 1766944789
+    },
+    {
+      "title": "EXCLUSIVE: Warren Buffett Is 'The Ultimate Investor' – Market Expert Jay Woods Says Berkshire CEO 'The Stuff Of Legends'",
+      "description": "Ahead of Warren Buffett&#39;s exit as Berkshire Hathaway CEO, market expert Jay Woods shares his memories of the legendary investor with Benzinga.",
+      "published_utc": "2025-12-28T05:31:11",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f6b6a1383fb10d473c0e5fc60fb72d1dd4db702ad21c2ceb224388575d2eba2f",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/12/28/Palihapitiya-praises-Buffett.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138601309,
+      "datetime": 1766917871
+    },
+    {
+      "title": "Dallas Is Booming—Except for Its Downtown",
+      "description": "Texas city’s central business district faces a crisis as companies look for snazzy suburban alternatives to aging office towers.",
+      "published_utc": "2025-12-28T05:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=04101f90284e23f78bc2e79256a2f58bfcbee51a880bcbf5270734a8d2dabf49",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137931051,
+      "datetime": 1766917800
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T09:13:28.499993+00:00",
+    "cache_key": "news_1002b315c01ea94cf9a942216b01013d",
+    "count": 3
+  }
+}

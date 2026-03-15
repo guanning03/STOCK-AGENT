@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "id": "7805c5a0779ca6f71b353e55c39fabb5847b9caa5e26ab2b9435055b32725e93",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Should You Buy Archer Aviation While It's Below $10?",
+      "author": "Justin Pope",
+      "published_utc": "2025-01-22T13:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/22/should-you-buy-archer-aviation-while-its-below-10/?source=iedfolrf0000001",
+      "tickers": [
+        "ACHR",
+        "ACHR.WS",
+        "STLA",
+        "JOBY",
+        "JOBY.WS",
+        "EADSY",
+        "BA",
+        "BApA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803385/evtol.jpg",
+      "description": "Archer Aviation, a company developing electric vertical take-off and landing (eVTOL) aircraft, has seen its stock soar nearly 200% since early October. While the company has made progress on key milestones, its current $3.8 billion market capitalization may not justify the investment risk, given the uncertainty around its future revenue and profitability.",
+      "keywords": [
+        "Archer Aviation",
+        "eVTOL",
+        "electric vertical take-off and landing",
+        "market potential",
+        "valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "ACHR",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a balanced view on Archer Aviation, acknowledging the company's progress but also highlighting the risks associated with investing in a pre-revenue company with an uncertain future. The author suggests that the current valuation may not justify the investment risk, and recommends revisiting the stock if it cools off from its recent run."
+        },
+        {
+          "ticker": "ACHR.WS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a balanced view on Archer Aviation, acknowledging the company's progress but also highlighting the risks associated with investing in a pre-revenue company with an uncertain future. The author suggests that the current valuation may not justify the investment risk, and recommends revisiting the stock if it cools off from its recent run."
+        },
+        {
+          "ticker": "STLA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Archer Aviation has secured a contract manufacturing partnership with Stellantis, which is seen as a positive development for the company."
+        },
+        {
+          "ticker": "JOBY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Joby Aviation as one of Archer Aviation's competitors in the eVTOL industry, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "JOBY.WS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Joby Aviation as one of Archer Aviation's competitors in the eVTOL industry, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "EADSY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Airbus as one of the competitors developing eVTOL aircraft, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article uses Boeing as a comparison for Archer Aviation's valuation, noting that Boeing's stock trades at a lower price-to-sales ratio, but does not provide any specific commentary on Boeing."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article uses Boeing as a comparison for Archer Aviation's valuation, noting that Boeing's stock trades at a lower price-to-sales ratio, but does not provide any specific commentary on Boeing."
+        }
+      ]
+    },
+    {
+      "id": "127c3abcf7cbcfd67c4e1268c35fa88b7edaded247ab63f365184fc8b2f5db4b",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "New Glenn's Launch Is an Even Bigger Deal for Amazon Than for Blue Origin Itself",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-22T12:07:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/22/blue-origin-new-glenn-is-a-big-deal-for-amazon/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "LMT",
+        "BA",
+        "BApA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804480/january-16-new-glenn-rocket-launch-is-blue-origin.jpg",
+      "description": "Blue Origin's new orbital-class rocket, New Glenn, has successfully reached orbit on its first attempt. The rocket can carry 45 tons of cargo to low Earth orbit, posing a serious challenge to SpaceX's Falcon 9 and other launch providers. This is significant as it will help Amazon meet its deadline to launch 1,600 Kuipersat internet satellites by 2026.",
+      "keywords": [
+        "Blue Origin",
+        "New Glenn",
+        "SpaceX",
+        "Falcon 9",
+        "Amazon",
+        "Kuipersat"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights how the successful launch of the New Glenn rocket will help Amazon meet its deadline to launch 1,600 Kuipersat internet satellites by 2026, which is seen as a positive development for the company."
+        },
+        {
+          "ticker": "LMT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that the New Glenn rocket poses a serious threat to Lockheed Martin and Boeing's United Launch Alliance joint venture, which charges higher prices for its Vulcan rocket launches."
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that the New Glenn rocket poses a serious threat to Lockheed Martin and Boeing's United Launch Alliance joint venture, which charges higher prices for its Vulcan rocket launches."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that the New Glenn rocket poses a serious threat to Lockheed Martin and Boeing's United Launch Alliance joint venture, which charges higher prices for its Vulcan rocket launches."
+        }
+      ]
+    }
+  ]
+}

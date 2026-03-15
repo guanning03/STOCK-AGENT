@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "2 Momentum  Stocks for Long-Term Investors and 1 We Brush Off",
+      "description": "The stocks in this article are all trading near their 52-week highs. This strength often reflects positive developments such as new product launches, favorable industry trends, or improved financial performance.",
+      "published_utc": "2025-12-07T23:38:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=964b94aa3cc2f19c462f825e507165726fe1d48a3367f4db9a8ee74646dbc854",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137732435,
+      "datetime": 1765168721
+    },
+    {
+      "title": "Amgen Inc.'s (NASDAQ:AMGN) Intrinsic Value Is Potentially 68% Above Its Share Price",
+      "description": "Key Insights Amgen's estimated fair value is US$554 based on 2 Stage Free Cash Flow to Equity Amgen's US$330 share...",
+      "published_utc": "2025-12-07T07:00:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e1f2f73b01f462aa511af7d2e029fa03f58d2852399a52ba5c7c36affa948a69",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137726469,
+      "datetime": 1765108809
+    },
+    {
+      "title": "The Generational Shift I See Now - And My 33 Stocks For What's Coming",
+      "description": "Some suggest quality stocks have underperformed AI-driven leaders. Read more on unnoticed selections for income-focused investors.",
+      "published_utc": "2025-12-07T02:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1ab2bd597ffbe6e14c7e2501a16ea225c6478f648297e19c3747082f54162d00",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2239256494/image_2239256494.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137723903,
+      "datetime": 1765092600
+    }
+  ]
+}

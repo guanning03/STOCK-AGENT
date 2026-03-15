@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Seoul-based Datumo raises $15.5M to take on Scale AI, backed by Salesforce",
+      "description": "Datumo began as an AI data labeling company and now wants to help businesses build safer AI with tools and data that enable testing, monitoring, and improving their models — without requiring technical expertise.",
+      "published_utc": "2025-08-11T19:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a448878e9e58fa9bbefd44261742b2dbafb7cabe476e3e4c40d6ec67149b906f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136316079,
+      "datetime": 1754953200
+    },
+    {
+      "title": "Salesforce.com (CRM) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "description": "In the closing of the recent trading day, Salesforce.com (CRM) stood at $232.68, denoting a -3.26% move from the preceding trading day.",
+      "published_utc": "2025-08-11T17:45:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fae62ce06666bd7fecb095457e4c2094e47fc03cdfd1caf08886764d0fcfabfe",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136316080,
+      "datetime": 1754948702
+    },
+    {
+      "title": "Stock Market Today: Dow, Nasdaq Fall, Set Aside Trump-China Tariff Move; Tesla Clears Entry But This AI Stock Craters",
+      "description": "The Dow Jones index fell despite President Trump making a China tariff move. Tesla cleared an entry on the stock market today. AMC surged but an AI stock cratered.",
+      "published_utc": "2025-08-11T16:51:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0aaedbb5ef722c36dc755c5fc85c9921da17646c4c53da5a7b065b4fef843602",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136316081,
+      "datetime": 1754945504
+    },
+    {
+      "title": "Adobe Stock Gets a Downgrade. ‘AI Is Eating Software,’ Analyst Says.",
+      "description": "Adobe  stock was downgraded by a Melius Research analyst, who is concerned about what artificial intelligence competition means for the creative software company.  Ben Reitzes downgraded shares of  Adobe  to Sell from Hold and cut his price target to $310 from $400 on Monday.",
+      "published_utc": "2025-08-11T12:42:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fd463f162f5bded6c6ad319b763e278a17afe97144c8dc10244154c8bdcecf3b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136310565,
+      "datetime": 1754930520
+    },
+    {
+      "title": "Salesforce, IBM share losses contribute to Dow's nearly 250-point drop",
+      "description": "Salesforce, IBM share losses contribute to Dow's nearly 250-point drop",
+      "published_utc": "2025-08-11T11:52:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f20bc52ad9d2867846ae9ecf9b494a0c135bab7081cfd24599d1c8682b0e1de8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136331678,
+      "datetime": 1754927520
+    }
+  ]
+}

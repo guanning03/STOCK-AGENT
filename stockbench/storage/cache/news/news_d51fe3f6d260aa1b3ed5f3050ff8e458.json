@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "And, The Stock Market May Continue To Rise",
+      "description": "Investor optimism is soaring amid strong U.S. economic growth. See here to know what a potential Fed leadership change could mean for stocks.",
+      "published_utc": "2025-12-09T18:00:02",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5f2a3febf16c973975fc6b86659af2fd1df0cd8c5b9ca6be151fb90879b4e27c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2128264506/image_2128264506.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137745012,
+      "datetime": 1765321202
+    },
+    {
+      "title": "Rates Spark: One More 25bp Cut, And Then We Wait",
+      "description": "",
+      "published_utc": "2025-12-09T14:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=161c2f74771e6e796eb67c29a4934c4fba44a7b5e2413e3a2d8a2074c3ea0e3c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137744254,
+      "datetime": 1765308900
+    },
+    {
+      "title": "'U.S. Trade Representative Jamieson Greer Believes Indonesia Is \"Backtracking\" On Several Commitments It Made; Indonesian Officials Have Told USTR That Jakarta Cannot Agree To Some Binding Commitments In The Deal' - Financial Times",
+      "description": "https://www.ft.com/content/4d407d2b-2f91-4858-b3b7-3167a7584da6",
+      "published_utc": "2025-12-09T13:59:21",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=9e9d688496799003ecd2947acc15cab156e219e9364c8df12f8f2ed9174dbfcf",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138663326,
+      "datetime": 1765306761
+    },
+    {
+      "title": "'US-Indonesia Trade Deal At Risk Of Collapse' - Financial Times",
+      "description": "https://www.ft.com/content/4d407d2b-2f91-4858-b3b7-3167a7584da6",
+      "published_utc": "2025-12-09T13:58:29",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=410fc8e53b3fc81ef982048a7af400c090f3944fca9ff3c5126f3f176c5ba237",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138663327,
+      "datetime": 1765306709
+    },
+    {
+      "title": "Memos From Howard Marks: Is It A Bubble?",
+      "description": "",
+      "published_utc": "2025-12-09T13:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a1950a9a530e88d49e7f36b420e19a600c8c5a646e26dea4e170d95e80f33545",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137743937,
+      "datetime": 1765305000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:22:27.513620+00:00",
+    "cache_key": "news_d51fe3f6d260aa1b3ed5f3050ff8e458",
+    "count": 5
+  }
+}

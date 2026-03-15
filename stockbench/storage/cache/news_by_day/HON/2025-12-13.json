@@ -1,0 +1,70 @@
+{
+  "items": [
+    {
+      "id": "587b576226fc1a1b613f46cd7fa00127910070859ff85a474d5bcdf568273ca8",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Warehouse Automation Market Size to Exceed $71.25 Billion by 2033, at 15.93% CAGR | Research by SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-12-13T14:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/12/13/3204980/0/en/Warehouse-Automation-Market-Size-to-Exceed-71-25-Billion-by-2033-at-15-93-CAGR-Research-by-SNS-Insider.html",
+      "tickers": [
+        "HON",
+        "DFKCY",
+        "AMZN",
+        "ABBNY"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The warehouse automation market is projected to grow from $21.84 billion in 2025 to $71.25 billion by 2033, driven by e-commerce expansion, rising labor costs, and technological advancements in robotics and AI.",
+      "keywords": [
+        "warehouse automation",
+        "e-commerce",
+        "robotics",
+        "AI",
+        "logistics",
+        "IoT"
+      ],
+      "insights": [
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Partnered with Hai Robotics to deliver advanced storage and retrieval systems, indicating strategic innovation and market growth"
+        },
+        {
+          "ticker": "DFKCY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a leading market player without specific performance details"
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Part of leading market players in warehouse automation, reflecting strong technological capabilities"
+        },
+        {
+          "ticker": "ABBNY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed among market players without specific performance indicators"
+        }
+      ]
+    },
+    {
+      "title": "Jim Cramer on Dow Inc.: “It Could Have Another Point or Two, But That’s All”",
+      "description": "Dow Inc. (NYSE:DOW) is one of the stocks Jim Cramer expressed thoughts on. A caller asked if the stock is a buy, sell, or hold. In response, Cramer said: “No, I’ll tell you why. It had a nice bounce off the cut. It could have another point or two, but that’s all. I don’t want […]",
+      "published_utc": "2025-12-13T11:52:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d2349a077dd362cf8ceef4ff89e661e46ddd6851079485ac05e387d1a892a3e9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137787818,
+      "datetime": 1765644744
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "items": [
+    {
+      "id": "b3389d58bd453e47da89aa722467d07de28d217794ed47979cf5c4b4e023d022",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Growth Trends and Developments in the Artificial Intelligence (AI) Industry, 2025-2033 - Featuring Microsoft, IBM, Amazon, Baidu, Nvidia, Oracle, HPE, Intel, Salesforce, and Alphabet",
+      "author": "Researchandmarkets.Com",
+      "published_utc": "2025-01-27T15:54:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/27/3015780/28124/en/Growth-Trends-and-Developments-in-the-Artificial-Intelligence-AI-Industry-2025-2033-Featuring-Microsoft-IBM-Amazon-Baidu-Nvidia-Oracle-HPE-Intel-Salesforce-and-Alphabet.html",
+      "tickers": [
+        "MSFT",
+        "IBM",
+        "AMZN",
+        "BIDU",
+        "NVDA",
+        "ORCL",
+        "HPE",
+        "HPEpC",
+        "INTC",
+        "CRM",
+        "GOOG",
+        "GOOGL"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The global AI market is expected to grow significantly, reaching $2.53 trillion by 2033, driven by advancements in machine learning, increasing demand for automation, and growing adoption across industries. However, data privacy and lack of skilled workforce remain challenges.",
+      "keywords": [
+        "artificial intelligence",
+        "machine learning",
+        "automation",
+        "data analytics",
+        "healthcare",
+        "finance",
+        "manufacturing",
+        "Canada",
+        "France",
+        "China",
+        "Saudi Arabia"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is a leading player in the AI industry, and its solutions are expected to contribute to the market growth."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IBM is a major provider of AI services and solutions, which are in high demand as businesses seek to leverage AI for efficiency and decision-making."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon's AI capabilities, including its cloud services and machine learning offerings, are likely to drive growth in the AI market."
+        },
+        {
+          "ticker": "BIDU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Baidu, as a leading Chinese tech company, is expected to contribute to the rapid growth of the AI market in China."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia's expertise in hardware and software for AI, including its GPU technology, positions it well to benefit from the AI market expansion."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Oracle's AI-powered solutions and services are likely to see increased demand as the AI market grows."
+        },
+        {
+          "ticker": "HPE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "HPE's AI-enabled infrastructure and services are expected to contribute to the growth of the AI market."
+        },
+        {
+          "ticker": "HPEpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "HPE's AI-enabled infrastructure and services are expected to contribute to the growth of the AI market."
+        },
+        {
+          "ticker": "INTC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Intel's AI-focused hardware and software offerings are likely to benefit from the expansion of the AI market."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce's AI-powered customer relationship management solutions are expected to see increased adoption as the AI market grows."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet's (Google) AI capabilities, including its machine learning and natural language processing technologies, are likely to contribute to the AI market's growth."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet's (Google) AI capabilities, including its machine learning and natural language processing technologies, are likely to contribute to the AI market's growth."
+        }
+      ]
+    },
+    {
+      "id": "2ddf55ba5e24c557a468743a284f69fe033d1c596fd2e7b8f150360a25b8f2b7",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Mega-Cap Artificial Intelligence (AI) Stocks Wall Street Thinks Will Soar the Most Over the Next 12 Months",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-27T09:47:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/27/3-mega-cap-artificial-intelligence-ai-stocks-wall/?source=iedfolrf0000001",
+      "tickers": [
+        "BABA",
+        "ASML",
+        "CRM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805146/ai-icons-hand.jpg",
+      "description": "Wall Street is bullish on three mega-cap AI stocks: Alibaba, ASML, and Salesforce. Alibaba is seen as undervalued, ASML benefits from strong demand for AI chips, and Salesforce's AI-powered Agentforce platform is driving optimism.",
+      "keywords": [
+        "Alibaba",
+        "ASML",
+        "Salesforce",
+        "Artificial Intelligence",
+        "Mega-cap stocks"
+      ],
+      "insights": [
+        {
+          "ticker": "BABA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Wall Street is more bullish on Alibaba than any other AI stock, with a 40% upside potential. The company's valuation and growth potential in e-commerce, cloud, and AI services are seen as attractive."
+        },
+        {
+          "ticker": "ASML",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Wall Street expects ASML's share price to rise 24% over the next 12 months, driven by the company's dominant position in semiconductor fabrication equipment and the surging demand for AI chips."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Analysts are bullish on Salesforce due to the potential of its AI-powered Agentforce platform, which is driving customer interest and could be a catalyst for the stock's rebound."
+        }
+      ]
+    }
+  ]
+}

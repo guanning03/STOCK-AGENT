@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer Says He “Should Have Been Recommending Regeneron”",
+      "description": "Regeneron Pharmaceuticals, Inc. (NASDAQ:REGN) is one of the stocks Jim Cramer answered questions about. Answering a caller’s query about the stock, Cramer stated: “I should have been recommending Regeneron. That Len Schleifer pulled the rabbit out of a hat. It’s coming right back right now. By the way, I’ll give you a twofer, so is […]",
+      "published_utc": "2025-11-23T14:51:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cd19777a08819977057cd7dccd1ed2969da051135e86a60695bbdde5d2b540aa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137586812,
+      "datetime": 1763927478
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:29:40.540449+00:00",
+    "cache_key": "news_d9c9a4e0602845537e3e307835ae49ed",
+    "count": 1
+  }
+}

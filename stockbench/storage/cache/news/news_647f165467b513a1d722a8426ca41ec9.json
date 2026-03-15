@@ -1,0 +1,118 @@
+{
+  "items": [
+    {
+      "id": "5bac27794edb657833a6ecc93783315627a71731ececc61413a0c2af199a8e26",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Wall Street Comes To Nvidia's Defense After Biggest Loss Ever, Many Momos Wiped Out",
+      "author": "The Arora Report",
+      "published_utc": "2025-01-28T15:17:16Z",
+      "article_url": "https://www.benzinga.com/markets/equities/25/01/43272853/wall-street-comes-to-nvidias-defense-after-biggest-loss-ever-many-momos-wiped-out",
+      "tickers": [
+        "NVDA",
+        "AAPL",
+        "AMD",
+        "CCJ",
+        "OKLO",
+        "NNE",
+        "SOFI",
+        "PLTR",
+        "RGTI",
+        "RGTIW",
+        "QUBT",
+        "WIMI",
+        "SPY",
+        "QQQ"
+      ],
+      "image_url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "description": "Wall Street is defending Nvidia after its biggest loss ever, as many momentum traders have seen their accounts wiped out. The article discusses the impact on AI stocks, the cost of the DeepSeek app, and the FOMC meeting.",
+      "keywords": [
+        "Nvidia",
+        "AI stocks",
+        "DeepSeek",
+        "FOMC"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Wall Street is coming to Nvidia's defense after its biggest loss ever."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that the DeepSeek app is the most popular in the Apple App Store, which is concerning."
+        },
+        {
+          "ticker": "AMD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The momentum crowd is aggressively buying AMD after the market decline."
+        },
+        {
+          "ticker": "CCJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The momentum crowd is aggressively buying CCJ after the market decline."
+        },
+        {
+          "ticker": "OKLO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The momentum crowd is aggressively buying OKLO after the market decline."
+        },
+        {
+          "ticker": "NNE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The momentum crowd is aggressively buying NNE after the market decline."
+        },
+        {
+          "ticker": "SOFI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The momentum crowd is aggressively buying SOFI after the market decline."
+        },
+        {
+          "ticker": "PLTR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The momentum crowd is aggressively buying PLTR after the market decline."
+        },
+        {
+          "ticker": "RGTI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The momentum crowd is aggressively buying RGTI after the market decline."
+        },
+        {
+          "ticker": "RGTIW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The momentum crowd is aggressively buying RGTI after the market decline."
+        },
+        {
+          "ticker": "QUBT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The momentum crowd is aggressively buying QUBT after the market decline."
+        },
+        {
+          "ticker": "WIMI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The momentum crowd is aggressively buying WIMI after the company announced it will use DeepSeek."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Money flows in SPY are neutral in early trade."
+        },
+        {
+          "ticker": "QQQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Money flows in QQQ are neutral in early trade."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:30:35.389622+00:00",
+    "cache_key": "news_647f165467b513a1d722a8426ca41ec9",
+    "count": 1
+  }
+}

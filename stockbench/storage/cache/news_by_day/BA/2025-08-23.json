@@ -1,0 +1,87 @@
+{
+  "items": [
+    {
+      "title": "The 1 Thing Investors in GE Aerospace and RTX Need to Know Before Buying Stock (And Why Airplanes Are Set to Look Dramatically Different in the Future)",
+      "description": "GE Aerospace's joint venture, CFM International, is developing a revolutionary new engine that could change the face of flight.",
+      "published_utc": "2025-08-23T16:23:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bfb483f0c77faf3d40c21980319eface5e953d6a7647c4704d80cd863f6d9c11",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136497666,
+      "datetime": 1755980580
+    },
+    {
+      "id": "e71e13870ce4a288a0b5d0ee2afe07fc2fdcea356a6ef09bbb8782646158a999",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Archer Aviation Stock a Buy Now?",
+      "author": "Steven Porrello",
+      "published_utc": "2025-08-23T10:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/08/23/is-archer-aviation-stock-a-buy-now/?source=iedfolrf0000001",
+      "tickers": [
+        "ACHR",
+        "ACHR.WS",
+        "JOBY",
+        "JOBY.WS",
+        "UAL",
+        "BA",
+        "BApA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/829824/etvol.png",
+      "description": "Archer Aviation is developing electric vertical take-off and landing (eVTOL) aircraft for urban transportation, with a strong cash position and potential military contract opportunities, despite not yet receiving FAA certification.",
+      "keywords": [
+        "eVTOL",
+        "air taxi",
+        "electric aircraft",
+        "urban transportation",
+        "aviation technology"
+      ],
+      "insights": [
+        {
+          "ticker": "ACHR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong cash reserves ($1.73B), strategic partnerships with United Airlines and Boeing, potential defense contracts, and promising technology for urban air mobility"
+        },
+        {
+          "ticker": "ACHR.WS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong cash reserves ($1.73B), strategic partnerships with United Airlines and Boeing, potential defense contracts, and promising technology for urban air mobility"
+        },
+        {
+          "ticker": "JOBY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Competing in the eVTOL market with higher cash burn rate and lower cash reserves compared to Archer Aviation"
+        },
+        {
+          "ticker": "JOBY.WS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Competing in the eVTOL market with higher cash burn rate and lower cash reserves compared to Archer Aviation"
+        },
+        {
+          "ticker": "UAL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a strategic partner for Archer Aviation, indicating potential interest in future air taxi technology"
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a strategic partner for Archer Aviation, showing interest in emerging aviation technologies"
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a strategic partner for Archer Aviation, showing interest in emerging aviation technologies"
+        }
+      ]
+    }
+  ]
+}

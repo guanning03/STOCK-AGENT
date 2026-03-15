@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today, March 10: Oil Prices Drop on G7 Talks",
+      "description": "On March 10, 2026, Oracle outperformed in after-hours trading and oil prices fell in a volatile, energy-driven session.",
+      "published_utc": "2026-03-10T19:01:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=78524fde6f1a2411397c886028b14754fc094d2fe349d2e80e3ff6f03b1c17bd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139368510,
+      "datetime": 1773183710
+    },
+    {
+      "title": "Final Trade: EWZ, VIX, IBIT, CRM",
+      "description": "The final trades of the day with CNBC's Melissa Lee and the 'Fast Money' traders.",
+      "published_utc": "2026-03-10T14:13:23",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=ecc44e89b4551565b3800dc79f227987eff36f01069582e4f61d70610d4cf136",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108276371-17731805331773180531-44487595702-1080pnbcnews.jpg?v=1773180532&w=1920&h=1080",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139380546,
+      "datetime": 1773166403
+    },
+    {
+      "title": "1 Number From Salesforce's Earnings That Changes the AI Narrative",
+      "description": "One number from Salesforce's earnings suggests that the company may be adapting to the AI shift faster than expected.",
+      "published_utc": "2026-03-10T12:25:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5be06abecf42758e35f2b95304d2ff4ccc2987c1e634e06c5cf4cab547fec942",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139366323,
+      "datetime": 1773159900
+    },
+    {
+      "title": "Pimly Product Intelligence Launch May Deepen Salesforce Platform Usage And Value",
+      "description": "Pimly has launched its Product Intelligence solution on Salesforce AgentExchange, built to run on Agentforce. The product turns traditional product information management into an AI ready intelligence layer inside Salesforce. The launch focuses on automating quoting, speeding product discovery, and improving self-service ordering for Salesforce customers. For investors watching Salesforce, NYSE:CRM, this move sits squarely in the front office part of the business, where sales, service, and...",
+      "published_utc": "2026-03-10T12:10:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=520f63ee4099290a502e8089b30e06bdbf92c511d4f22ab96bde115c8239a328",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139366332,
+      "datetime": 1773159032
+    },
+    {
+      "title": "Salesforce Plans to Raise Up to $25 Billion to Fund Buybacks",
+      "description": "Salesforce mandated JPMorgan Chase & Co., Bank of America Corp., Barclays Plc, Citigroup Inc. and Wells Fargo & Co. to arrange fixed-income investor calls for Tuesday.  The software firm — which has become a poster child for Wall Street anxieties about the impact of artificial intelligence on established vendors — on Feb. 26 announced a $50 billion stock buyback program and 5.8% dividend increase alongside a better-than-expected sales forecast.",
+      "published_utc": "2026-03-10T12:08:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7177e8a10771b00530bff10e290bcc570811fb559f1b6cd291177a6b1415a4d5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139366333,
+      "datetime": 1773158932
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T04:23:01.756838+00:00",
+    "cache_key": "news_088e9477180d780c2fa3b52e58f09886",
+    "count": 5
+  }
+}

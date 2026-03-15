@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "id": "8537ce87635ef4f14587d5cb1f668205f160cc9a979b0bb99dd7326aea80196f",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why Shares of American Express Are Falling Today",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-10T19:53:42Z",
+      "article_url": "https://www.fool.com/investing/2025/02/10/why-shares-of-american-express-are-falling-today/?source=iedfolrf0000001",
+      "tickers": [
+        "AXP"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807168/person-concerned-2.jpg",
+      "description": "American Express CFO Christophe Le Caillec told investors that expectations for revenue in the first quarter of 2025 are 'too high' due to one less day in the quarter and a stronger dollar. However, management is confident in the company's full-year guidance for 8-10% revenue growth and earnings per share of $15-$15.50 in 2025.",
+      "keywords": [
+        "American Express",
+        "revenue growth",
+        "earnings per share",
+        "financial services"
+      ],
+      "insights": [
+        {
+          "ticker": "AXP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a mixed outlook for American Express, with the company tempering near-term revenue growth expectations but maintaining confidence in its full-year guidance. This suggests a neutral sentiment, as the long-term prospects for the company remain positive, but there are some near-term headwinds."
+        }
+      ]
+    }
+  ]
+}

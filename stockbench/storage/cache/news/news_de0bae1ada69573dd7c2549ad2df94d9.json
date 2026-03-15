@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Nvidia accelerates AI roadmap: Rubin superchip in full production, 5x faster",
+      "description": "Investing.com -- NVIDIA Corporation (NASDAQ:NVDA) is accelerating its release cycle, announcing at the CES 2026 convention on Monday that its highly anticipated Rubin data center products are in full production and nearing release this year.",
+      "published_utc": "2026-01-05T18:46:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cb9666cf769e3d0b12a7a422949feee103afc656f129cae5ee5c4069116682ce",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137997506,
+      "datetime": 1767656806
+    },
+    {
+      "title": "Marvell Technology And Astera Labs: Quiet Winners From Surging Memory Prices",
+      "description": "Astera Labs and Marvell are poised to gain from surging memory prices via memory controllers. See more on ALAB and MRVL stock here.",
+      "published_utc": "2026-01-05T18:24:38",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=62a0644910ec4be8c4f01b39cda466708693b42920fa9615b70f4db2de429a65",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/989262462/image_989262462.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137996393,
+      "datetime": 1767655478
+    },
+    {
+      "title": "Microsoft’s Nadella wants us to stop thinking of AI as ‘slop’",
+      "description": "Nadella wants us to think of AI as a human helper instead of a slop-generating job killer. New data for 2026 indicates he could be right.",
+      "published_utc": "2026-01-05T18:09:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f319405cc7fa0f316dcd072d1c981f31cfcca7c0d317ba00e65d7650d2487754",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137997536,
+      "datetime": 1767654596
+    },
+    {
+      "title": "Cerence xUI, Leveraging NVIDIA AI Enterprise and Running on Microsoft Azure, Drives Strong Traction with Automakers",
+      "description": "SUMMARY AND KEY POINTS: Cerence xUI™ combines hybrid, agentic intelligence with production-ready NVIDIA software and services running on Microsoft Azure, helping OEMs meet rising demand for fast, natural, LLM-powered in-car experiences.Cerence AI and NVIDIA expanded their collaboration in January 2025, and now multiple global automakers will deploy Cerence xUI on NVIDIA AI Enterprise in production vehicles launching in 2026, bringing a new era of AI-powered, high-performance assistants and agent",
+      "published_utc": "2026-01-05T18:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3fc5c4d29976ee8c5da44bc48d80b3c081128b323f240665db384cb78b725acb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137997514,
+      "datetime": 1767654000
+    },
+    {
+      "title": "Nvidia launches Vera Rubin, its next major AI platform, at CES 2026",
+      "description": "Nvidia launched its latest Vera Rubin superchip at CES 2026 on Monday.",
+      "published_utc": "2026-01-05T17:57:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2ea820e60f16b2d051416fa582c3b9986bb0fe69eae4e3a19b830d23fdcfba2b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137997540,
+      "datetime": 1767653868
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T00:59:00.965434+00:00",
+    "cache_key": "news_de0bae1ada69573dd7c2549ad2df94d9",
+    "count": 5
+  }
+}

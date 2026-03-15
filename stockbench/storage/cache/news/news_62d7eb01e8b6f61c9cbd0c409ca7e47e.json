@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Congress contemplates its role on tariffs after Supreme Court decision",
+      "description": "Some congressional Republicans had already cooled to the president's trade policy before the Supreme Court decision on Friday.",
+      "published_utc": "2026-02-23T11:28:32",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=a51621cb4323eeab4fc21dec071eb54234015c908cb07711d8ce681822ebe9d2",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108048042-1729019798143-gettyimages-2170520527-776202608_gyi-0910-hill-gop-conference_KKN.jpeg?v=1771880799&w=1920&h=1080",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139198121,
+      "datetime": 1771864112
+    },
+    {
+      "title": "Zacks Market Edge Highlights: MasTec, Caterpillar, Walmart, Eli Lilly and Howmet Aerospace",
+      "description": "MasTec, Caterpillar, Walmart, Eli Lilly and Howmet Aerospace hit 5-year highs as double-digit 2026 earnings growth fuels a new \"Magnificent\" list.",
+      "published_utc": "2026-02-23T09:46:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=68a4fdafcdf082621b911980658ebe53089bab38e9302f5855d26bd6a395a315",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139186312,
+      "datetime": 1771857960
+    },
+    {
+      "title": "Caterpillar To Rally More Than 15%? Here Are 10 Top Analyst Forecasts For Monday",
+      "description": "",
+      "published_utc": "2026-02-23T09:37:25",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=68744c5ed8b506cfeba816695c3a3725b277b421a0279f946c9727d4f231dcf6",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/02/23/Mannheim--Germany---August-23--2017-Cate.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139194239,
+      "datetime": 1771857445
+    },
+    {
+      "title": "Analyst Expectations For Caterpillar's Future",
+      "description": "",
+      "published_utc": "2026-02-23T09:01:53",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=3007f930e86ccd3a39e409a53da47b2dec62a993c20e12cb11e7573e39fb4e4b",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/06/analyst_ratings_7.jpg?width=2048&height=1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139194739,
+      "datetime": 1771855313
+    },
+    {
+      "title": "Evercore ISI Group Maintains Outperform on Caterpillar, Raises Price Target to $878",
+      "description": "Evercore ISI Group  analyst David Raso   maintains Caterpillar (NYSE:CAT) with a Outperform and raises the price target from $630 to $878.",
+      "published_utc": "2026-02-23T05:26:33",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f1d0ce7ed86e9b1e976a6d24579a5e5f80c8f3bcc75b9f2e85fe68414c4ff606",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139184742,
+      "datetime": 1771842393
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:31:12.845354+00:00",
+    "cache_key": "news_62d7eb01e8b6f61c9cbd0c409ca7e47e",
+    "count": 5
+  }
+}

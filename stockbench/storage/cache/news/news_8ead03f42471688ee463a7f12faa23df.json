@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Microsoft earnings, Fed decision, Trump-Xi meeting: What to Watch",
+      "description": "Market Domination Overtime host Josh Lipton previews several of the biggest stories to come tomorrow, Wednesday, October 29, including the Federal Reserve's latest decision around interest rates; earnings from Magnificent Seven tech companies Alphabet (GOOG, GOOGL), Meta Platforms (META), and Microsoft (MSFT); and President Trump's meeting with his Chinese counterpart, President Xi Jinping, in South Korea. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.",
+      "published_utc": "2025-10-28T19:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ceb1db97c9f42dc7151bd06f373ea7099e6b01e1d22f4edc32c7b103100abcf7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137243138,
+      "datetime": 1761692400
+    },
+    {
+      "title": "New Record Closing Highs Ahead of Fed Cut, Mag 7 Earnings",
+      "description": "Companies reporting earnings Wednesday include Alphabet, Meta, Microsoft, Boeing, Chipotle and Starbucks.",
+      "published_utc": "2025-10-28T18:21:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c16640670783d47cebe5bf287eac7b809930cb30324f660ee14b6c2cf7b198a5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137243115,
+      "datetime": 1761690060
+    },
+    {
+      "title": "Earnings live: Wayfair stock soars following Q3 results, PayPal rises, Royal Caribbean slides",
+      "description": "Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.",
+      "published_utc": "2025-10-28T17:01:28",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6062b56a91ddcba739e6af9599195a7f9b6ed2e993c1d2aa553a62f1b23d2e9c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137243117,
+      "datetime": 1761685288
+    },
+    {
+      "title": "Boeing Earnings Due After Production Reprieve And Amid Union Strike",
+      "description": "Boeing reports earnings on Wednesday. The FAA recently lifted its monthly production cap. The Dow Jones manufacturer still faces a strike.",
+      "published_utc": "2025-10-28T16:40:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=50737d73737f0fee22d8f2f807cff89c9481cc8b0afaed4be76e9198ec036182",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137243640,
+      "datetime": 1761684043
+    },
+    {
+      "title": "Boeing Is Turning Things Around. Why Its Earnings Might Not Show That.",
+      "description": "For the third quarter, Wall Street is looking for a per-share loss of $5 from sales of $22.6 billion, according to FactSet.",
+      "published_utc": "2025-10-28T16:16:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=08e0ab99aadc3678e2ad23fee0157b83459036b9f5d495b4f8581329916e9430",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137243641,
+      "datetime": 1761682560
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:08:31.043277+00:00",
+    "cache_key": "news_8ead03f42471688ee463a7f12faa23df",
+    "count": 5
+  }
+}

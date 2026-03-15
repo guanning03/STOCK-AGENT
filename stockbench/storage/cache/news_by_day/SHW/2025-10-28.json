@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today: Dow Ends At Record High; Nvidia Surges As Microsoft Hits Rare Milestone (Live Coverage)",
+      "description": "The Dow and other major indexes closed at record highs on Tuesday. Microsoft joins an elite club of one.",
+      "published_utc": "2025-10-28T17:01:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=684e14bc12d7c0bf3325c53d4462d4ff81b3573126694d66957e80f14cc88c09",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137243116,
+      "datetime": 1761685291
+    },
+    {
+      "title": "Sherwin-Williams Q3 Earnings & Revenues Surpass Estimates",
+      "description": "SHW tops Q3 earnings and sales forecasts on stronger Paint Stores performance.",
+      "published_utc": "2025-10-28T13:57:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=783b29a337dac5eb41f5f1bac94026950d0614cd329b6c8e9475aa95a2cfa83f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137243904,
+      "datetime": 1761674220
+    },
+    {
+      "title": "Sherwin-Williams (SHW) Q3 2025 Earnings Transcript",
+      "description": "The Sherwin-Williams Company delivered solid third-quarter results as we continued to execute our strategy in a demand environment that remains softer for longer, as we have previously described.  Throughout the quarter, we continued to serve our customers, invest for success, control our costs, take advantage of a unique competitive environment, and execute on our enterprise priorities.  Paint Stores Group and Consumer Brands Group exceeded expectations, and Performance Coatings Group was in line.",
+      "published_utc": "2025-10-28T12:19:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7fcb3f87a01a57e55a33367fa60d637e3fd2bc3c96d319bd8fc164289e24c369",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137243905,
+      "datetime": 1761668388
+    },
+    {
+      "title": "Why Sherwin-Williams (SHW) Stock Is Trading Up Today",
+      "description": "Shares of paint and coating manufacturer Sherwin-Williams (NYSE:SHW) jumped 3.9% in the morning session after the company reported third-quarter financial results that exceeded Wall Street's expectations for both revenue and earnings. The paint and coatings maker announced that its revenue rose 3.2% year on year to $6.36 billion, surpassing forecasts of $6.2 billion. Adjusted earnings per share came in at $3.59, which was also ahead of the $3.44 analysts had estimated. Alongside the quarterly re",
+      "published_utc": "2025-10-28T12:11:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bd38b7868d17aab300a92eaf7ba9b0e8c0c417e0493aea45223ccf7bb48944c5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137243907,
+      "datetime": 1761667915
+    },
+    {
+      "title": "Top Stock Movers Now: PayPal, UPS, F5, and More",
+      "description": "Major U.S. equities indexes climbed to fresh highs Tuesday in the wake of strong corporate earnings and as the Federal Reserve's two-day meeting kicked off.",
+      "published_utc": "2025-10-28T11:49:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=95f33c909a16e12ca0e0c58bbd94b1fc2b4f900adaea9783651f9f831b6891e3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137243880,
+      "datetime": 1761666557
+    }
+  ]
+}

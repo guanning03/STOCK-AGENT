@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Drugmakers are pouring billions of dollars into new US manufacturing. It still won’t achieve all of Trump’s tariff goals",
+      "description": "Ever since President Donald Trump started promising to slap tariffs on pharmaceutical imports, drugmakers have unveiled a flurry of commitments to build or expand US manufacturing operations in the coming years.",
+      "published_utc": "2025-08-02T10:00:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9a9aeca45cce636d102319ab2f7a7af7c2054c73cbc322c97d559b6acc3a2d5b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136183146,
+      "datetime": 1754143241
+    },
+    {
+      "title": "The 3 Things That Matter for Johnson & Johnson Now",
+      "description": "Can the stock still deliver the same kinds of returns it has over the past few decades?",
+      "published_utc": "2025-08-02T04:09:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=80d8fa115f4988e1a9350fb93b8ce52c658b149794de771b24c2db737912440c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136183197,
+      "datetime": 1754122140
+    },
+    {
+      "title": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8.5% (August 2025)",
+      "description": "Our monthly article series highlights five large-cap, relatively safe, dividend-paying companies offering significant discounts to their historical norms. Read Aug. update here.",
+      "published_utc": "2025-08-02T04:01:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a5be17cf9288e2a487604b61911daf8272aceea14476e15bfbb34a3b14ddf901",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1249993252/image_1249993252.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136181438,
+      "datetime": 1754121660
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:29:53.504999+00:00",
+    "cache_key": "news_2e7a34715f4c990b70617ddd1eb48bfe",
+    "count": 3
+  }
+}

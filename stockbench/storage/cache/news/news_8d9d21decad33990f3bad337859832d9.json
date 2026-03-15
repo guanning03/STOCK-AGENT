@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "P&G Appoints Craig Arnold to Board of Directors",
+      "description": "CINCINNATI, June 09, 2025--The Procter & Gamble Company (NYSE:PG) today announced the appointment of Craig Arnold, former Chairman and Chief Executive Officer of Eaton Corporation, to its Board of Directors, effective June 9, 2025. Mr. Arnold brings significant experience as a successful chief executive of a global enterprise serving businesses and customers in more than 175 countries.",
+      "published_utc": "2025-06-09T16:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4838084d1f43e7d974b673a89204e1e4f22da170311bf0cac9bd75b229362d17",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135142670,
+      "datetime": 1749500100
+    },
+    {
+      "title": "Consumer Goods Giants Slim Down to Spur Growth",
+      "description": "Scale for scale's sake appears to have become passé, with conglomerates jockeying for market share with a more focused brand identity.",
+      "published_utc": "2025-06-09T06:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=15d8bb13648c8dcc1b73cdeba009c6d08bee257ec6eeb0bb1fc52079c98a8b09",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135123148,
+      "datetime": 1749465000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T00:22:30.947281+00:00",
+    "cache_key": "news_8d9d21decad33990f3bad337859832d9",
+    "count": 2
+  }
+}

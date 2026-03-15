@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Chubb's Dividend Hikes Backed by Earnings Power & Solid Cash Flow?",
+      "description": "Chubb plans a 5.2% dividend hike, extending its 33-year growth streak, backed by strong earnings, $13.9B cash flow and a conservative payout ratio.",
+      "published_utc": "2026-03-03T09:55:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1cb7a5ada156ff952c52daa51fdba7b28dcea840aa8d94e1a1388b94105bc1ec",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139289956,
+      "datetime": 1772549700
+    },
+    {
+      "title": "Planning a trip to Mexico? 5 top travel insurance policies to consider",
+      "description": "Getting travel insurance for your trip to Mexico can protect the money you've spent on your plans.",
+      "published_utc": "2026-03-03T07:05:48",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=100fd902281bc777350d10d94073bbf02c4c75e0979e570fdfc58a3597bbcd43",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108194679-1757050268727-gettyimages-922232572-_dsc0536-editar.jpeg?v=1772208226&w=1920&h=1080",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139289210,
+      "datetime": 1772539548
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:59:47.353417+00:00",
+    "cache_key": "news_43f2705e13e0d8aef26a35381cee4d4e",
+    "count": 2
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "id": "fb00057da8528ddcf9449ebe6575c5f4cb096250d351f48455b101ff4764b252",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Best Stock to Buy Right Now: Amazon vs. Home Depot",
+      "author": "Chris Neiger",
+      "published_utc": "2025-02-17T14:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/17/best-stock-to-buy-right-now-amazon-vs-home-depot/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "HD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807600/gettyimages-1366146199-1200x798-36b7a2e.jpg",
+      "description": "The article compares Amazon and Home Depot, two leading companies in their respective markets. It suggests that Amazon is the better buy right now due to its strong performance, growth potential in cloud computing and AI, and dominance in e-commerce, while Home Depot is facing challenges from the slow housing market.",
+      "keywords": [
+        "Amazon",
+        "Home Depot",
+        "cloud computing",
+        "AI",
+        "housing market"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon has strong performance, growth potential in cloud computing and AI, and dominance in e-commerce."
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Home Depot is facing challenges from the slow housing market, with pressure on larger remodeling projects and a decline in same-store sales."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T22:11:57.246115+00:00",
+    "cache_key": "news_400b6b2f4b996c48877c617b182660ea",
+    "count": 1
+  }
+}

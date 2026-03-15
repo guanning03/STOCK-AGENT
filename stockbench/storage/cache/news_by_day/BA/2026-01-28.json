@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Earnings live: IBM stock surges, Whirlpool slides; Meta, Microsoft, Tesla report beats across the board",
+      "description": "The fourth quarter earnings season kicks into high gear this week, with Big Tech results from Microsoft, Meta, Tesla, and Apple headlining the earnings calendar.",
+      "published_utc": "2026-01-28T16:39:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=101d3989b2adbcbaa12c0372880869b52269ededccf6700e8ebae8dae0e40914",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138288984,
+      "datetime": 1769636388
+    },
+    {
+      "title": "Trump’s Truth Social Brand Nabs Another ETF. It Has a Solid Record.",
+      "description": "The company that runs Truth Social ETFs is buying a conservative-leaning fund that doesn’t own Apple, Amazon or Meta.",
+      "published_utc": "2026-01-28T14:16:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dc65abb7b9127d84bbef2ce2732ca62833705e4f717ea2201cd76860863f4613",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138287384,
+      "datetime": 1769627760
+    },
+    {
+      "title": "How Expensive Is Tesla Stock?",
+      "description": "Tesla stock is pricey and volatile–two reasons traders and investors follow it so closely.  Currently, Tesla trades for about 200 times earnings expected over the coming 12 months.  Palantir is the second most expensive stock, trading at about 165 times forward earnings.",
+      "published_utc": "2026-01-28T12:45:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5b914b5fc9345a9adaa7dafd284a489ffd0a6a6231942a741d1b9821e958030f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138287495,
+      "datetime": 1769622342
+    },
+    {
+      "title": "Boeing Stock Falls Again. But There Is Cash Flow Potential.",
+      "description": "Boeing Stock Falls Again. But There Is Cash Flow Potential.",
+      "published_utc": "2026-01-28T12:11:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=0b6e2dd721b61b712be0346595c6882233725a7bfde9fb09e2d522b45c5fc2cd",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139213645,
+      "datetime": 1769620260
+    },
+    {
+      "title": "Strong Marine Systems Performance Drives GD's Q4 Earnings and Revenues",
+      "description": "General Dynamics beats Q4 earnings and revenue estimates, with Marine Systems and Combat Systems driving solid year-over-year growth.",
+      "published_utc": "2026-01-28T10:31:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4f28ddad1aa997b4c0d09237b872659c0f5143dcec618796c1be66ab2390e015",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138285106,
+      "datetime": 1769614260
+    }
+  ]
+}

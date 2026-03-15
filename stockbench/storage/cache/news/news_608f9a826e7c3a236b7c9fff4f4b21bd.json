@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Fed Rate Decision; UnitedHealth, Apple, Microsoft, Visa Earnings; and Many More Stocks to Watch This Week",
+      "description": "A quarter-point rate cut is all but certain at this week’s Federal Open Market Committee meeting. And we’ll see earnings reports from roughly 160 S&P 500 companies.",
+      "published_utc": "2025-10-26T14:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=47141a32a2820c0ed88eb2ada80153c406e7d69e90f97a1bfb552c1b0aa59fe3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137215727,
+      "datetime": 1761501600
+    },
+    {
+      "title": "Is UnitedHealth Still a Good Dividend Stock?",
+      "description": "The healthcare stock has plummeted this year, and its earnings have been coming under pressure amid rising costs.",
+      "published_utc": "2025-10-26T09:12:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=faf86628b81ce38dd1b170f8cb4379f3e7e41ca3a0d59455193c45c7eb63c55d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137216120,
+      "datetime": 1761484320
+    },
+    {
+      "title": "Big Tech earnings, a crucial Fed meeting, and a Trump-Xi sit-down: What to watch this week",
+      "description": "The market enters the fourth full week of the government shutdown with international trade and domestic rates in focus.",
+      "published_utc": "2025-10-26T07:43:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d53d413b03c1a0ac92ec641a985569447756ccce2cce57c1eaac143e2d2eba8d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137215648,
+      "datetime": 1761479034
+    },
+    {
+      "title": "Wall Street Week Ahead",
+      "description": "Get the latest stock market updates, Q3 earnings highlights, and expert gold investment insights.",
+      "published_utc": "2025-10-26T03:01:35",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c68aad4ae2924996a3a5d51f7fb2a98117fe57727304ada2cbac36ac95e0a414",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2156176139/image_2156176139.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137211528,
+      "datetime": 1761462095
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:57:35.557907+00:00",
+    "cache_key": "news_608f9a826e7c3a236b7c9fff4f4b21bd",
+    "count": 4
+  }
+}

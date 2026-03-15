@@ -1,0 +1,373 @@
+{
+  "items": [
+    {
+      "id": "e1389fe5df5bf107ca7285045fe6128921e11f03f2c0249705243d95981b96f3",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Tech Stocks Tumble On AI Nightmare, Nvidia Eyes Worst Day Since March 2020, Bitcoin Drops Below $100,000: What's Driving Markets Monday?",
+      "author": "Piero Cingari",
+      "published_utc": "2025-01-27T18:18:42Z",
+      "article_url": "https://www.benzinga.com/economics/macro-economic-events/25/01/43244872/tech-stocks-tumble-on-ai-nightmare-nvidia-eyes-worst-day-since-march-2020-bitcoin",
+      "tickers": [
+        "AAPL",
+        "AVGO",
+        "COIN",
+        "NVDA",
+        "MRVL",
+        "MU",
+        "MSTR",
+        "SOFI",
+        "SOXX",
+        "QQQ",
+        "SPY"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/27/Back-View-Of-Stressed-Young-Businessman-.jpeg?width=1200&height=800&fit=crop",
+      "description": "Tech stocks plummet as China's DeepSeek unveils an AI model outperforming ChatGPT, triggering fears of rising competition. Nvidia loses $450B, leading the Magnificent Seven's $600B market wipeout, marking its worst session since March 2020. Bitcoin drops below $99,000 as risk-off sentiment takes hold.",
+      "keywords": [
+        "tech stocks",
+        "AI",
+        "Nvidia",
+        "Bitcoin"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions a broad selloff in tech stocks, which would likely impact Apple as a major tech company."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article states that Broadcom crashed 17.5% due to the tech selloff."
+        },
+        {
+          "ticker": "COIN",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article notes that crypto-related stocks like Coinbase fell due to the risk-off sentiment, with Coinbase dropping 9.6%."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article highlights that Nvidia lost $450 billion, or 15% of its valuation, marking its worst single-day loss since March 2020."
+        },
+        {
+          "ticker": "MRVL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article states that Marvell Technology crashed 17.5% due to the tech selloff."
+        },
+        {
+          "ticker": "MU",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that Micron Technology sank 11% as part of the broader tech selloff."
+        },
+        {
+          "ticker": "MSTR",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article notes that crypto-related stocks like MicroStrategy fell due to the risk-off sentiment, with MicroStrategy dropping 7.8%."
+        },
+        {
+          "ticker": "SOFI",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article states that SoFi Technologies plummeted 12% due to a downbeat guidance, despite better-than-expected quarterly results."
+        },
+        {
+          "ticker": "SOXX",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article states that the iShares Semiconductor ETF plunged over 7%, eyeing its worst session since the pandemic-driven selloff of March 2020."
+        },
+        {
+          "ticker": "QQQ",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article notes that the Nasdaq 100, represented by the Invesco QQQ Trust, tumbled 3%, eyeing its steepest drop since December 2018."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that the S&P 500, represented by the SPDR S&P 500 ETF, fell 1.8% as part of the broader market selloff."
+        }
+      ]
+    },
+    {
+      "id": "595bb992ff5ac0814e5c501a0a90f764c4b3c2ed24ebdca07ace2185ac8c0d6e",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "DeepSeek Sparks AI Carnage As Magnificent Seven, Broadcom Lose Nearly $900 Billion In Value: Why This Expert Is Still 'Bullish' On US Tech",
+      "author": "Piero Cingari",
+      "published_utc": "2025-01-27T16:07:49Z",
+      "article_url": "https://www.benzinga.com/analyst-ratings/analyst-color/25/01/43239042/magnificent-seven-broadcom-lose-nearly-900-billion-in-value-as-deepseek-sparks-ai-c",
+      "tickers": [
+        "AAPL",
+        "AMZN",
+        "AVGO"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/27/deepseek-ai4.png?width=1200&height=800&fit=crop",
+      "description": "China's DeepSeek R1 AI model triggers a massive selloff in U.S. tech stocks, with the Magnificent Seven and Broadcom losing nearly $900 billion in market value. However, an analyst argues that DeepSeek's emergence is actually bullish for the AI industry, as it signals progress towards artificial general intelligence.",
+      "keywords": [
+        "AI",
+        "China",
+        "DeepSeek",
+        "Magnificent Seven",
+        "Broadcom",
+        "Nvidia",
+        "Microsoft",
+        "Earnings"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple's market cap increased by $53.86 billion, indicating a positive sentiment."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Amazon's market cap decreased by $74.63 billion, indicating a negative sentiment."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Broadcom's market cap decreased by $116.75 billion, indicating a negative sentiment."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Alphabet's market cap decreased by $49.71 billion, indicating a negative sentiment."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Alphabet's market cap decreased by $49.71 billion, indicating a negative sentiment."
+        },
+        {
+          "ticker": "MAGS",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The Roundhill Magnificent Seven ETF dropped 3.9%, reflecting deep losses across the AI-driven mega-cap space."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Meta Platforms' market cap decreased by $4.99 billion, indicating a negative sentiment."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Microsoft's market cap decreased by $130.28 billion, indicating a negative sentiment."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Nvidia's market cap decreased by $475.44 billion, indicating a negative sentiment."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Tesla's market cap decreased by $30.92 billion, indicating a negative sentiment."
+        }
+      ]
+    },
+    {
+      "id": "5741f0e003cb7296890009d37c05cc16cc7785f59d081a280ab5a6b44db00c6d",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Market Clubhouse Morning Memo - January 27th, 2025 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META and TSLA)",
+      "author": "Rips",
+      "published_utc": "2025-01-27T15:07:14Z",
+      "article_url": "https://www.benzinga.com/news/large-cap/25/01/43235605/market-clubhouse-morning-memo-january-27th-2025-trade-strategy-for-spy-qqq-aapl-msft-nvda-googl-me",
+      "tickers": [
+        "AAPL",
+        "GOOG",
+        "GOOGL",
+        "META",
+        "MSFT",
+        "NVDA",
+        "SPY",
+        "QQQ",
+        "TSLA"
+      ],
+      "image_url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "description": "The article discusses the current trading levels and strategies for SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, and TSLA. It provides key support and resistance levels, as well as potential price targets for bulls and bears.",
+      "keywords": [
+        "SPY",
+        "QQQ",
+        "AAPL",
+        "MSFT",
+        "NVDA",
+        "GOOGL",
+        "META",
+        "TSLA",
+        "trading strategy",
+        "technical analysis"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article provides both bullish and bearish price targets for Apple, indicating a neutral sentiment as the stock is expected to trade within a range."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article outlines potential support and resistance levels for Alphabet, suggesting a neutral sentiment as the stock is expected to trade within a range."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article outlines potential support and resistance levels for Alphabet, suggesting a neutral sentiment as the stock is expected to trade within a range."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents both bullish and bearish price targets for Meta, indicating a neutral sentiment as the stock is expected to trade within a range."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article provides key support and resistance levels for Microsoft, suggesting a neutral sentiment as the stock is expected to trade within a range."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article outlines potential price targets for both bullish and bearish scenarios for NVIDIA, indicating a neutral sentiment as the stock is expected to trade within a range."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents both bullish and bearish price targets for the SPY ETF, suggesting a neutral sentiment as the ETF is expected to trade within a range."
+        },
+        {
+          "ticker": "QQQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article outlines potential support and resistance levels for the QQQ ETF, indicating a neutral sentiment as the ETF is expected to trade within a range."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article provides both bullish and bearish price targets for Tesla, suggesting a neutral sentiment as the stock is expected to trade within a range."
+        }
+      ]
+    },
+    {
+      "id": "2452bd164b4af1ac5c4bfe6691159456d436210d669245258849f233fed5e0dc",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Preventive Healthcare Technologies and Services Market to Reach $773.1 Billion by 2034: A Future of Revolutionized Healthcare Solutions | Latest Report by TMR",
+      "author": "Transparency Market Research Inc.",
+      "published_utc": "2025-01-27T12:55:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/27/3015518/32656/en/Preventive-Healthcare-Technologies-and-Services-Market-to-Reach-773-1-Billion-by-2034-A-Future-of-Revolutionized-Healthcare-Solutions-Latest-Report-by-TMR.html",
+      "tickers": [
+        "MDT",
+        "GOOG",
+        "GOOGL",
+        "AAPL",
+        "TDOC"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/211137ea-4ab6-4ea6-8d46-f5eae42f8659",
+      "description": "The Preventive Healthcare Technologies and Services Market is expected to grow rapidly, reaching $773.1 billion by 2034, driven by advancements in AI, machine learning, and IoT. This growth is fueled by the increasing focus on preventive care, early disease detection, and the adoption of digital health solutions.",
+      "keywords": [
+        "Preventive Healthcare",
+        "Healthcare Technologies",
+        "AI",
+        "Machine Learning",
+        "IoT",
+        "Telemedicine",
+        "Wearable Devices"
+      ],
+      "insights": [
+        {
+          "ticker": "MDT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Medtronic is focused on innovative medical devices for chronic disease management and preventive care, which are important components of the preventive healthcare market."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Fitbit is known for its wearable health devices that help users monitor their fitness and health metrics, which are key technologies driving the growth of the preventive healthcare market."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Fitbit is known for its wearable health devices that help users monitor their fitness and health metrics, which are key technologies driving the growth of the preventive healthcare market."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple is innovating with its smartwatch that integrates health and wellness features, including heart rate monitoring, ECG, and blood oxygen levels, which are important for preventive healthcare."
+        },
+        {
+          "ticker": "TDOC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Teladoc Health is expanding access to telemedicine services, providing virtual consultations and preventive care, which are key components of the preventive healthcare market."
+        }
+      ]
+    },
+    {
+      "id": "0cc5a0ae5d2735d4a98dba2801690bbf048a178b543f0132e2d7dce74625e101",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Nvidia Stock Is Up Over 900% Since 2023. Here's Why It's Still a Screaming Buy.",
+      "author": "Keithen Drury",
+      "published_utc": "2025-01-27T12:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/27/nvidia-stock-is-up-over-800-since-2023/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "TSM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804788/nvidia-voyager-headquarters.jpg",
+      "description": "Nvidia's stock has gained 906% since the start of 2023, but the author argues it is not overvalued compared to its peers. The company's success is tied to the growth of artificial intelligence, and analysts expect its revenue to grow 52% by 2026, indicating there is still plenty of growth left in the business.",
+      "keywords": [
+        "Nvidia",
+        "artificial intelligence",
+        "stock valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article argues that Nvidia's stock is not overvalued despite its recent astronomical rise, and that the company's growth prospects, particularly in the artificial intelligence market, are still strong. Analysts expect Nvidia's revenue to grow 52% by 2026, indicating there is still plenty of growth left in the business."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares Nvidia's forward earnings multiple to that of Apple, noting that Apple trades at a lower multiple, but suggests that Nvidia's valuation is still reasonable given its expected growth."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares Nvidia's forward earnings multiple to that of Microsoft, noting that Microsoft trades at a lower multiple, but suggests that Nvidia's valuation is still reasonable given its expected growth."
+        },
+        {
+          "ticker": "TSM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article cites Taiwan Semiconductor Manufacturing, Nvidia's chip manufacturer, as forecasting that AI-related chips would double their revenue in 2025, which is seen as a clear indication that Nvidia's growth is far from over."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:25:20.683645+00:00",
+    "cache_key": "news_a838778bd83817c5bf17c3a2d56bcea2",
+    "count": 5
+  }
+}

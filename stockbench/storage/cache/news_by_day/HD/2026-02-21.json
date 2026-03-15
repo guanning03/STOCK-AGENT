@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Better Stock to Buy Right Now: Amazon vs. Home Depot",
+      "description": "The two stocks have underperformed the market recently, but one is investing heavily to regain ground.",
+      "published_utc": "2026-02-21T09:50:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3c2d88bba3be81724556daa91e0c3a06481d48f2a6bce051d52a0e430e4b56b4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139170690,
+      "datetime": 1771685400
+    },
+    {
+      "title": "Stock Market Week: Nvidia Earnings, Apple And Strategy Events",
+      "description": "The stock market will wrestle with the impact of Friday's SCOTUS tariffs ruling. Nvidia, Apple, Strategy and Iran will all be in focus.",
+      "published_utc": "2026-02-21T09:42:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fa2489677acf0602939bc18fc0586887f5964bce56283786aa5d5a770e3d5032",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139170691,
+      "datetime": 1771684922
+    },
+    {
+      "title": "Nvidia, Salesforce Earnings In Focus Next Week",
+      "description": "",
+      "published_utc": "2026-02-21T06:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7dcd0610ad2fc92f86ae4b87717a4086aff0dbd1c271413744aecce17387fd1c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139170774,
+      "datetime": 1771671600
+    },
+    {
+      "title": "Five key takeaways from the Supreme Court's landmark decision against Trump's tariffs",
+      "description": "What's far less certain is the longer-reaching impacts as the economy and markets again adjust to a changing landscape.",
+      "published_utc": "2026-02-21T04:44:42",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=39c24ea0d908a8b0520cc6f30c3bd30926f515d795f437b3ac3f17932c5d9561",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108268054-17716138962026-02-20t185318z_610472367_rc2tpja5lpb4_rtrmadp_0_usa-trump.jpeg?v=1771613921&w=1920&h=1080",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139171117,
+      "datetime": 1771667082
+    }
+  ]
+}

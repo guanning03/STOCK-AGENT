@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "title": "Architectural Coatings, Enamels, Primers, Stains, Solvents, and Lacquers Market Size, Share, Application Analysis, Growth Trends, Competitive Strategies and Forecasts, 2025 To 2033",
+      "description": "The architectural coatings, enamels, primers, stains, solvents, and lacquers market is set to grow at a 4.5% CAGR from 2025-2033. This expansion is fueled by construction growth, urbanization, and demand for aesthetic and protective surface coatings. Increasing emphasis on eco-friendly, low-VOC solutions and technological innovations also drive this market. Key regions, including Asia Pacific and North America, lead this growth, while companies like AkzoNobel and Sherwin-Williams focus on sustai",
+      "published_utc": "2025-08-06T05:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=144023e24faeb264a0a88de49198b2f8ab823432e08b3a67c65e9113a3e2a943",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136232449,
+      "datetime": 1754471400
+    },
+    {
+      "id": "6e940763c039dc6dbdd688590bbdbc1b616e7d5a5e2ec914a9e83ed93e69478f",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "U.S. Home Remodeling Market Trends and Forecast Report 2025-2034",
+      "author": "Researchandmarkets.Com",
+      "published_utc": "2025-08-06T16:59:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/08/06/3128553/28124/en/U-S-Home-Remodeling-Market-Trends-and-Forecast-Report-2025-2034.html",
+      "tickers": [
+        "BLDR",
+        "HD",
+        "SHW"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The U.S. home remodeling market is projected to grow from $498.3 billion in 2024 to $812.8 billion by 2034, driven by aging housing stock, remote work trends, and increasing preference for professional renovation services.",
+      "keywords": [
+        "home remodeling",
+        "renovation",
+        "DIFM",
+        "housing market",
+        "home improvement"
+      ],
+      "insights": [
+        {
+          "ticker": "BLDR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Highlighted as a notable company shaping the home remodeling landscape"
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Listed among established companies driving innovation in the home remodeling market"
+        },
+        {
+          "ticker": "SHW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Identified as a key company contributing to market evolution and innovation"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:44:56.682385+00:00",
+    "cache_key": "news_e690a7838388d0807f543141beb0abaf",
+    "count": 2
+  }
+}

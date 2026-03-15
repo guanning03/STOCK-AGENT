@@ -1,0 +1,135 @@
+{
+  "items": [
+    {
+      "id": "1db70b61c22afe15fd8d5c2c0caa02b733affb00d2863c3e00f7a238ef55c7ce",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Must-Know Facts About Lululemon Before You Buy the Stock",
+      "author": "Neil Patel",
+      "published_utc": "2025-12-21T17:32:00Z",
+      "article_url": "https://www.fool.com/investing/2025/12/21/3-must-know-facts-lululemon-before-you-buy-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "LULU",
+        "CMG",
+        "HD"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F847783%2Flululemon-logo.jpg&w=1200&op=resize",
+      "description": "Lululemon reported Q3 results beating Wall Street estimates with $2.6B revenue and $2.59 EPS. While the stock surged 22% in a month, the company faces significant headwinds: U.S. sales declined 3% amid weak consumer confidence, though China showed strong 46% growth. Despite a cheap forward P/E of 15.4, the company's growth outlook has slowed dramatically from 21.5% historical CAGR to projected 4.5% growth, and the CEO is stepping down.",
+      "keywords": [
+        "Lululemon",
+        "Q3 earnings",
+        "U.S. sales decline",
+        "China growth",
+        "consumer confidence",
+        "CEO transition",
+        "valuation",
+        "athleisure"
+      ],
+      "insights": [
+        {
+          "ticker": "LULU",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mixed signals: strong earnings beat and China expansion are positive, but U.S. sales decline (-3%), slowing growth projections (4.5% vs. historical 21.5%), CEO departure, and 59% decline from peak in Dec 2023 are concerning. Cheap valuation (P/E 15.4) offers some upside potential but reflects low market expectations."
+        },
+        {
+          "ticker": "CMG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a comparable company experiencing similar consumer pressure from inflationary headwinds and weak consumer confidence, but no specific financial data provided."
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a comparable company experiencing similar consumer pressure from inflationary headwinds and weak consumer confidence, but no specific financial data provided."
+        }
+      ]
+    },
+    {
+      "title": "Is Home Depot’s Creator Portal Strategy Reframing the Digital Growth Narrative for HD?",
+      "description": "Earlier in December 2025, Home Depot launched The Home Depot Creator portal, a centralized platform that connects digital home-improvement creators with the retailer and its suppliers, offering shoppable links, training, campaign opportunities and storefront tools to help monetize DIY, décor and project content. This move signals Home Depot’s push to turn social and creator-driven inspiration into a direct product discovery and sales engine across both DIY and professional customer...",
+      "published_utc": "2025-12-21T10:10:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2320e9de3c77a2ad062e838381cbfb7148683c9b79b423ebbed30c6d699735ee",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137856667,
+      "datetime": 1766329842
+    },
+    {
+      "id": "718c7b560f7ad87b21c39364a8e071e99164bff6ca77993750340a7d553d164e",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Should Retirees Pull Their Money Out of the Stock Market in 2026?",
+      "author": "David Jagielski, Cpa",
+      "published_utc": "2025-12-21T09:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/12/21/should-retirees-pull-their-money-out-of-the-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "COST",
+        "HD",
+        "SCHD",
+        "KO",
+        "CVX",
+        "BMY",
+        "CELGr"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F847165%2Fperson-holding-several-10-dollar-bills.jpg&w=1200&op=resize",
+      "description": "Rather than pulling money out of the stock market entirely due to concerns about a potential crash in 2026, retirees should consider reducing risk by shifting from expensive stocks to more modestly valued investments and dividend-paying stocks. The article recommends pivoting into blue-chip stocks and dividend ETFs as a safer approach than completely exiting the market.",
+      "keywords": [
+        "retirement investing",
+        "stock market risk",
+        "dividend stocks",
+        "portfolio rebalancing",
+        "market valuation",
+        "ETF investing"
+      ],
+      "insights": [
+        {
+          "ticker": "COST",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Used as an example of an expensive stock to avoid, trading at a P/E multiple of nearly 50, suggesting it may be overvalued and vulnerable to correction."
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Presented as a more attractively valued alternative to Costco, trading at a P/E of 24, recommended as a safer blue-chip investment option."
+        },
+        {
+          "ticker": "SCHD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Highlighted as an ideal investment for risk-conscious retirees, offering a 3.7% yield, low expense ratio of 0.06%, reasonable P/E ratio of 16, and diversified holdings across multiple sectors."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mentioned as a solid dividend stock within SCHD that provides safety, stability, and recurring dividend income for investors."
+        },
+        {
+          "ticker": "CVX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Cited as a quality dividend stock within SCHD offering good safety and stability for conservative investors."
+        },
+        {
+          "ticker": "BMY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Listed as a solid dividend stock within SCHD providing recurring income and stability for retirees."
+        },
+        {
+          "ticker": "CELGr",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Listed as a solid dividend stock within SCHD providing recurring income and stability for retirees."
+        }
+      ]
+    }
+  ]
+}

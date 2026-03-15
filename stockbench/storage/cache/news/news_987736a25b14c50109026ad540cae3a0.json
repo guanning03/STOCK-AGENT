@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Are Home Depot's Digital Platforms Emerging as Its Next Growth Engine?",
+      "description": "HD's digital push outpaces store growth, with faster fulfillment and AI tools driving customer gains and Pro engagement.",
+      "published_utc": "2026-01-19T11:19:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e4ae66c5b75b85e79ef7b3695b7fd016d1e1e7efa5aed3c7fdb6f6aff991fe60",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138179014,
+      "datetime": 1768839540
+    },
+    {
+      "title": "Jim Cramer Highlightes Lowe’s 52-Week High Despite the “God-Awful Environment”",
+      "description": "Lowe’s Companies, Inc. (NYSE:LOW) is one of the stocks Jim Cramer put under a microscope. Cramer highlighted the company reaching its 52-week high, as he remarked: “What else? Housing stocks are moving up not long ago after getting hit with mass downgrades. There’s a thaw going on as supply has arrived to quell demand. Home […]",
+      "published_utc": "2026-01-19T08:29:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=22a1f46dce938407083cbad82244fa40b06ae7dadaafbc6aa016b257b12f3672",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138177008,
+      "datetime": 1768829384
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:40:26.634240+00:00",
+    "cache_key": "news_987736a25b14c50109026ad540cae3a0",
+    "count": 2
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Whistling Past A Haunted Spreadsheet",
+      "description": "Stocks ended mostly higher today, though not in any inspiring fashion - more like the way a snake clears a hurdle.",
+      "published_utc": "2025-04-01T18:25:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d6d9c037397f196b47c4aeeb00db0191964cda00aa057499f859c022e25516fe",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/160616076/image_160616076.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133657366,
+      "datetime": 1743546300
+    },
+    {
+      "title": "My Top 10 High-Yield Dividend Stocks For April 2025",
+      "description": "Q1 2025 ended negatively for SPY and VYM, but my watchlist outperformed. Check out the April 2025 watchlist that includes ten stocks.",
+      "published_utc": "2025-04-01T16:38:17",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a517e4ac446b85ed379968044f1e0ce825fb4e860551b48c610fe559bf43c9a5",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2160355656/image_2160355656.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133656958,
+      "datetime": 1743539897
+    },
+    {
+      "title": "Will Tariffs Convince The Federal Reserve To Cut Interest Rates?",
+      "description": "Expectations are building for a Fed interest rate cut.",
+      "published_utc": "2025-04-01T15:55:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7280fc3c2166d9c3313f94f862c30d0903b3329d064b54c92138b3477e68543d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1692418614/image_1692418614.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133656811,
+      "datetime": 1743537300
+    },
+    {
+      "title": "EXCLUSIVE: March's 20 Most-Searched Tickers On Benzinga Pro — Where Do Tesla, Nvidia, Apple, Applovin Stock Rank?",
+      "description": "A look at the top 20 most-searched stocks on Benzinga Pro in March. While many had news in the month that could affect rankings, the trends could be a sign of what&#39;s to come.",
+      "published_utc": "2025-04-01T14:28:05",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=7b1c19a04795206c69589e638218db2585e86d9918bfafaccef39523295ccb43",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/04/01/People--computer--Two-Busy-Professional-_0.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138678578,
+      "datetime": 1743532085
+    },
+    {
+      "title": "Doing The Math On U.S. Policy Shifts",
+      "description": "",
+      "published_utc": "2025-04-01T13:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7ed5df3765bca71551adfe5e5df7ad2a514aa6b424da05572fbe4e91e320b6ad",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133656380,
+      "datetime": 1743529500
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+      "description": "The Dow closed at a record high on Tuesday, but the Nasdaq ended the lower as investors shifted away from technology stocks.",
+      "published_utc": "2025-11-11T14:41:12",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=d2a33f68e42c3672fc3c8cf61ae008e4056834c5175828064ac6443cc0bbd1bd",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108220650-1762187355170-Traders-Photo-20251102-KK-PRESS-006.jpg?v=1762187577&w=1920&h=1080",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137460453,
+      "datetime": 1762890072
+    },
+    {
+      "title": "Industrial Stocks Enjoyed Earnings Season. Which Ones to Buy.",
+      "description": "Industrial companies like Caterpillar and Rockwell Automation looked promising this earnings season.",
+      "published_utc": "2025-11-11T13:22:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1c7c45240e5fc65c6eda7eaeb015a1cdc9d870e5fc49c39009b442b4f53adfae",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137449136,
+      "datetime": 1762885320
+    },
+    {
+      "title": "HSBC Upgrades Caterpillar (CAT) to Buy, Lifts Price Target to $660 on Strong Power Demand",
+      "description": "Caterpillar Inc. (NYSE:CAT) is included among the 15 Best Dividend Growth Stocks to Buy Now. On November​ 6, HSBC upgraded i⁠t​s rating on Caterpillar Inc. (NYSE:CAT) to Buy f‍ro‍m Hold a​nd raise​d the price target to $​660‌ fr⁠om $405, according to a report by The Fly. The firm cited a strong third-quarter p‍erfo‌rmance driven⁠ by […]",
+      "published_utc": "2025-11-11T13:09:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=17035bfb3d44adb335db655d9c95357af7ce7492a95604404e67bd746d3d8b19",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137448803,
+      "datetime": 1762884544
+    },
+    {
+      "title": "Dow rallies 300 points to new record with shutdown set to end Wednesday: Live updates",
+      "description": "Tuesday saw a tale of two markets emerge — the 30-stock Dow rallied more than 550 points to close at a record high, while the Nasdaq Composite slipped.",
+      "published_utc": "2025-11-11T13:02:31",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=57f37977ae01e1ff16012941b1216d76f5a33692ee85a7dbd95ac41ebbb99d31",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108223050-1762951213250-108223050-1762529069072-gettyimages-2245509844-anotherday142727029_rlpy8e5r.jpg?v=1762951220&w=1920&h=1080",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137460456,
+      "datetime": 1762884151
+    },
+    {
+      "title": "These Dow Stocks Have Crushed the VOO and VTI in 2025—Here’s Where They’re Headed Next",
+      "description": "The Dow Jones Industrial Average offers too small a sample size for many to be an effective gauge of how well the stock market is doing on any given day. But, of course, we have the S&P 500 for that, which is more widely followed and invested in by investors. Still, having only 30 stocks ... These Dow Stocks Have Crushed the VOO and VTI in 2025—Here’s Where They’re Headed Next",
+      "published_utc": "2025-11-11T12:32:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4f6b7a60bd6e50e3f131f9ab465bc7b64690a0f4d8ed4ed4b2697ef44b8fff0d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137448804,
+      "datetime": 1762882379
+    }
+  ]
+}

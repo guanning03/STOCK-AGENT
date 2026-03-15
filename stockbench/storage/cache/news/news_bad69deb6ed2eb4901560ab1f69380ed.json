@@ -1,0 +1,66 @@
+{
+  "items": [
+    {
+      "id": "95b59fb3153acd1c6a53edea0938935b38d0f44976140248d6bfa21a98cf3b4b",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Hand Sanitizer Market is Poised to Reach Valuation of US$ 4.80 Billion By 2033 Says Astute Analytica | Consumer Habits and Major Brand Initiatives and Distribution Pathways Analysis",
+      "author": "Astute Analytica",
+      "published_utc": "2025-01-13T08:30:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/13/3008149/0/en/Hand-Sanitizer-Market-is-Poised-to-Reach-Valuation-of-US-4-80-Billion-By-2033-Says-Astute-Analytica-Consumer-Habits-and-Major-Brand-Initiatives-and-Distribution-Pathways-Analysis.html",
+      "tickers": [
+        "MMM",
+        "RBGLY",
+        "ECL",
+        "UL",
+        "PG"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/a77988df-ad1a-4619-9a4e-367c858dc70e",
+      "description": "The global hand sanitizer market is projected to reach a valuation of US$ 4.80 billion by 2033, driven by rising hygiene awareness, integration of advanced antimicrobial ingredients, and the proliferation of on-the-go dispenser technologies. Key trends include the launch of fragrance-free, sensitive-skin sanitizers and increased preference for eco-friendly packaging.",
+      "keywords": [
+        "hand sanitizer",
+        "hygiene",
+        "antimicrobial",
+        "dispensers",
+        "fragrance-free",
+        "eco-friendly"
+      ],
+      "insights": [
+        {
+          "ticker": "MMM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that 3M recorded shipments of 29 specialized liquid formulations to medical centers in Europe in 2024, indicating the company's involvement in the hand sanitizer market and its efforts to cater to the healthcare sector."
+        },
+        {
+          "ticker": "RBGLY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights that Reckitt Benckiser introduced 57 new commercial variants of gel-based hand sanitizers in 2024, demonstrating the company's innovation and commitment to the hand sanitizer market."
+        },
+        {
+          "ticker": "ECL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Ecolab launched 42 distinct foam-based hand sanitizer solutions targeting high-traffic environments, indicating the company's efforts to diversify its product offerings and cater to different market segments."
+        },
+        {
+          "ticker": "UL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights that Unilever received orders for 33 million units of portable hand sanitizer bottles from restaurants in North America, indicating strong commercial demand for the company's products."
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Procter & Gamble expanded its distribution agreements with 14 pharmacy chains across Asia, suggesting the company's efforts to increase the accessibility of its hand sanitizer products."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:44:12.558385+00:00",
+    "cache_key": "news_bad69deb6ed2eb4901560ab1f69380ed",
+    "count": 1
+  }
+}

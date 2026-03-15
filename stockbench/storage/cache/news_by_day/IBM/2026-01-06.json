@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "The Bull Case For International Business Machines (IBM) Could Change Following Jefferies’ AI-Focused Upgrade",
+      "description": "In recent days, Jefferies upgraded International Business Machines to Buy, highlighting its strengthening software business, recent and pending acquisitions such as HashiCorp and Confluent, and efforts to monetise generative AI through watsonx. At the same time, IBM’s push into quantum computing and AI, including its partnership to integrate Anthropic’s Claude model, is reshaping how investors view the company’s longer-term technology positioning. We'll now examine how Jefferies'...",
+      "published_utc": "2026-01-06T17:18:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=df7ed9bb2fe24d97b3d78af4c737cb15a9a62ac4926c6ee7d6713521c527e8b6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138022823,
+      "datetime": 1767737899
+    },
+    {
+      "title": "QBTS, RGTI Beat NVDA in 2025: Can Quantum Win Again in 2026?",
+      "description": "QBTS surged 211% in 2025, beating NVDA as quantum stocks rallied on real deployments. Will the momentum continue into 2026?",
+      "published_utc": "2026-01-06T15:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9ea643774650a0214580f3a3ad76154445edf747638e169ecafda3c12718f83e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138022824,
+      "datetime": 1767729600
+    },
+    {
+      "title": "Nvidia’s Rubin platform aims to cut AI training, inference costs",
+      "description": "The processor is expected to speed AI inference and use less AI training resources than its predecessor, Nvidia Blackwell.",
+      "published_utc": "2026-01-06T10:39:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7024ed0a3ea4b585ab554508cd2131188da0ea3c20bdf819f9ae5852c9fd3ca6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138022825,
+      "datetime": 1767713986
+    },
+    {
+      "title": "D-Wave Takes a Step Toward Large-Scale Commercial Quantum Computing",
+      "description": "D-Wave Takes a Step Toward Large-Scale Commercial Quantum Computing",
+      "published_utc": "2026-01-06T09:03:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=1d34db8055f3b5bb1005d8b8593fbd85b20208babc3e4d0d356efd7cae3e9ef9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138073758,
+      "datetime": 1767708180
+    },
+    {
+      "title": "Congressman Chases Dividend Stocks: The Four Dow Jones Components He Bought In December",
+      "description": "A Congressman recently bought shares of several Dow Jones Industrial Average stocks. Here&#39;s why he&#39;s buying the same stocks every year.",
+      "published_utc": "2026-01-06T08:29:10",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=a1c76a0067a3b587396fde25b56b0eb57a2f30da7e7318cd8c10559c228066c4",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/01/06/Washington--Dc--July-28--2022-Rep--Lloyd.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138563926,
+      "datetime": 1767706150
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Alphabet Inc. (GOOGL): “The Waymo Deal’s Good,’ Says Jim Cramer",
+      "description": "We recently published 10 Stocks Jim Cramer Mentioned As He Talked About “Love Lost” Between Microsoft & OpenAI. Alphabet Inc. (NASDAQ:GOOGL) is one of the stocks Jim Cramer recently discussed. Alphabet Inc. (NASDAQ:GOOGL)’s shares have gained 5.8% year-to-date on the back of several catalysts, such as the strong performance of its YouTube and cloud computing […]",
+      "published_utc": "2025-08-09T17:47:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a04a63c74080ebfe8aa59598d29b2f850b3a0bf0e1cdb5a78b0fdf5c0d0bb311",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136292263,
+      "datetime": 1754776078
+    },
+    {
+      "title": "Restaurant chains feel the pinch as US consumers tighten their belts",
+      "description": "US consumers are eating at home to save money as they worry about a slowing economy and stubbornly high prices, leading restaurant chains to...",
+      "published_utc": "2025-08-09T08:00:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e2fb4d7970fe19b40e26bd8ea1b98cbe7a7b59ee005cbcd3a7f3a7e6e0c40b5d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136292382,
+      "datetime": 1754740809
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:49:57.545811+00:00",
+    "cache_key": "news_dc17c6f84c585d67e176898c7006d47d",
+    "count": 2
+  }
+}

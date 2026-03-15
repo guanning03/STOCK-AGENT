@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Marvell’s Stock Soars On Data Center Forecast",
+      "description": "The chip maker said it’s seeing strong demand in its data center business. The company now expects revenue in the segment to grow 25% next year.",
+      "published_utc": "2025-12-02T17:48:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f0787566b79bfeda51a05435efe004803253b1d44978a9199ff64aa7fd2699f2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137667434,
+      "datetime": 1764715680
+    },
+    {
+      "title": "Here’s what’s worth streaming in December 2025 on Netflix, Hulu, HBO Max and more",
+      "description": "Here’s what’s worth streaming in December 2025 on Netflix, Hulu, HBO Max and more",
+      "published_utc": "2025-12-02T17:38:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=4c5f4f69ac49ca57af04ac30689ef742f49669e6ea7073504dfc4b80144f81de",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137681533,
+      "datetime": 1764715080
+    },
+    {
+      "title": "Amazon Web Services Has Strong Partnership With Anthropic, CEO Says",
+      "description": "AWS Chief Executive Officer Matt Garman said the company's relationship with Anthropic was \"incredibly strong.\" He said the startup has an enormous demand for computing power, leading Anthropic to use a variety of providers. Garman also talks about its newest artificial intelligence chip called Trainium3. He speaks with Bloomberg's Ed Ludlow at re:Invent, Amazon's annual user conference in Las Vegas.",
+      "published_utc": "2025-12-02T16:05:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1f90989a3b277dc433d12a5d69459e95fe3d250e5e734f55e4f0451658583e6c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137667457,
+      "datetime": 1764709549
+    },
+    {
+      "title": "Busy Holiday Shopping Season: 2 Companies Poised to Benefit",
+      "description": "The Black Friday and Cyber Monday shopping frenzy was yet again a hit, helping ease some fears surrounding a weak consumer.",
+      "published_utc": "2025-12-02T15:48:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5f25411f9d7fe65df930521f408ca9fcb4ce67150d0faabaef22710343c4f27b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137667458,
+      "datetime": 1764708480
+    },
+    {
+      "title": "New Relic Announces Integrations with AWS to Accelerate AI-Driven Business by Predicting, Preventing and Orchestrating Issues",
+      "description": "LAS VEGAS, December 02, 2025--AWS RE:INVENT—New Relic, the Intelligent Observability company, announced a suite of integrations with Amazon Web Services (AWS) that deliver New Relic’s AI capabilities and observability insights directly to AWS AI services. The integrations meet AWS developers, DevOps engineers, SREs and tier 1 and tier 2 incident responders where they work so businesses can securely accelerate AI and agentic workflows, optimize operations and reduce mean time to resolution (MTTR)",
+      "published_utc": "2025-12-02T15:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=df1e94c801a9739865de8ebf498fca7f4ca55c6a9c92af2a0d092e0c4fec676d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137667459,
+      "datetime": 1764707400
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:58:41.478026+00:00",
+    "cache_key": "news_4fef7ce62a68baad0cc3a16f0bb96225",
+    "count": 5
+  }
+}

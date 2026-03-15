@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Datavault AI Aims For $200 Million In 2026",
+      "description": "Bigger deals and global expansion give management fresh confidence",
+      "published_utc": "2025-11-18T12:07:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=46b7f5c39298673c8d1936750dfdb816ee12553d33cfd94df0230d20f63609ff",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137543306,
+      "datetime": 1763485622
+    },
+    {
+      "title": "Diginex Joins EVIDENT To Help Investors See Real Sustainability Facts Behind Digital Assets",
+      "description": "Diginex (DGNX) and EVIDENT Group form strategic partnership to improve access to verified sustainability data for tokenized assets.",
+      "published_utc": "2025-11-18T08:29:01",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=72298da3120d8ee4a0bce06c0e4494442c55d683a459519ccdec4481d9bbbdeb",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/18/Businessman-Showing-A-Smart-Contract-And.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138474180,
+      "datetime": 1763472541
+    },
+    {
+      "title": "Palo Alto Networks Announces New Prisma AIRS Integrations With Factory, Glean, IBM and ServiceNow to Secure the AI Agent Boom",
+      "description": "In today's enterprise, the adoption of AI agents is increasing dramatically, with production numbers projected to hit 1.3 billion by 2028. This rapid deployment introduces significant, yet often unseen, security risks. Today, Palo Alto Networks (NASDAQ: PANW), the global cybersecurity leader, announced the next wave of secure AI innovation, unveiling new native integrations of Prisma® AIRS™ with industry-leading AI agent platforms from Factory, Glean, IBM and ServiceNow, to provide real-time, in",
+      "published_utc": "2025-11-18T08:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=662430773838e35473c4d2e34311bec277079e465b6fd51ad3828aa7e0ca4a33",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137538291,
+      "datetime": 1763471700
+    },
+    {
+      "title": "Wall Street Lunch: Cloudflare Outage Takes X, ChatGPT, PayPal Offline In Global Outage",
+      "description": "A major outage at internet security company Cloudflare (NET) has disrupted major apps, including X, ChatGPT and others.",
+      "published_utc": "2025-11-18T06:50:56",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9ff0916948f0daf3b30fb09f5e4c6da514a7e4fe4799cbf61c7d93cc7a0537d5",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1186369127/image_1186369127.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137539266,
+      "datetime": 1763466656
+    },
+    {
+      "title": "Streaming Analytics Forecast Report 2025: A $7.75+ Billion Market by 2030, Driven by Expanding Statistical Computation, Rising IoT Data Flows, and Demand for Scalable Integrated Platforms",
+      "description": "The streaming analytics market is set to surge from USD 4.34 billion in 2025 to USD 7.78 billion by 2030, marking a CAGR of 12.4%. Driven by IoT expansion, edge computing processes vast data streams near the source, optimizing bandwidth and latency for critical applications like autonomous vehicles. AI/ML platforms lead growth, offering real-time insights across sectors such as retail and telecom. Cloud deployment dominates, offering scalability and cost efficiency. North America and Asia Pacifi",
+      "published_utc": "2025-11-18T06:41:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8bb287a235c86586c6c3a25bbc895777a26cae2412a7d3e80bde87150d378a57",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137538134,
+      "datetime": 1763466060
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:16:48.573122+00:00",
+    "cache_key": "news_27837b0bd3f3a3d5642ed27e610bab04",
+    "count": 5
+  }
+}

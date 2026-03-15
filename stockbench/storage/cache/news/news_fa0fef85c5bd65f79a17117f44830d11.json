@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Why Procter & Gamble Stock Hit a 2-Year Low on Tuesday",
+      "description": "Procter & Gamble shares hit their lowest point in two years Tuesday after the consumer goods giant's finance chief issued a warning about the health of the American economy.",
+      "published_utc": "2025-12-02T16:50:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0f5cb17420e8c6aa6200570add4720b395581779d75e2758cb346044a87b9fdf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137667695,
+      "datetime": 1764712201
+    },
+    {
+      "title": "Stocks Rebound, and Bitcoin Makes Full Recovery From Monday’s Selloff",
+      "description": "TODAY'S MARKETS Investors regained their appetite for some risk Tuesday, with stocks rebounding and bitcoin retracing its sharp Monday decline.  The major U.S. stock indexes have remained resilient despite nagging concerns over rich valuations and the path of interest rates.",
+      "published_utc": "2025-12-02T16:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=50fda9d8bf44d52a3dc74c728d17d8137806c16eabff688dd953078c67d30352",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137667696,
+      "datetime": 1764711900
+    },
+    {
+      "title": "How major US stock indexes fared Tuesday, 12/2/2025",
+      "description": "U.S. stocks bounced back as both bond yields and bitcoin stabilized. The S&P 500 rose 0.2% Tuesday, following its first loss in six days. The Dow Jones Industrial Average added 0.4%, and the Nasdaq composite climbed 0.6%.",
+      "published_utc": "2025-12-02T16:17:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dc7b13ae94ed3ed83cab137ef28e1a77578fa90b4d3f741ee649d2fb43a371ec",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137667698,
+      "datetime": 1764710242
+    },
+    {
+      "title": "Sector Update: Consumer Stocks Mixed Late Afternoon",
+      "description": "Consumer stocks were mixed late Tuesday afternoon with the Consumer Staples Select Sector SPDR Fund",
+      "published_utc": "2025-12-02T15:47:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6af0c1be276eb8d1e6af8c14a72fe9fb76cac8cdca4aac8e826e48d58301c683",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137667699,
+      "datetime": 1764708429
+    },
+    {
+      "title": "Sector Update: Consumer Stocks Fall in Afternoon Trading",
+      "description": "Consumer stocks dropped Tuesday afternoon with the Consumer Staples Select Sector SPDR Fund (XLP) fa",
+      "published_utc": "2025-12-02T13:52:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=96f5231f242ee2cdd340bb8a7388f7623e50a74e19194415ae7bd3d671d3923c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137667701,
+      "datetime": 1764701521
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:59:07.585319+00:00",
+    "cache_key": "news_fa0fef85c5bd65f79a17117f44830d11",
+    "count": 5
+  }
+}

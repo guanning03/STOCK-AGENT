@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Retail Stocks Usually Rise the Week After Black Friday. This BNPL Play Stands Out.",
+      "description": "Retail Stocks Usually Rise the Week After Black Friday. This BNPL Play Stands Out.",
+      "published_utc": "2025-11-29T08:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=3f0f17c8bee4551da9e07c1b7b490941da5e04488f936f7ad5f7c65ba47d088b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137684152,
+      "datetime": 1764423060
+    },
+    {
+      "title": "It All Could Come Down To Depreciation",
+      "description": "Discover key investment opportunities and hidden risks of the AI Revolution.",
+      "published_utc": "2025-11-29T03:42:34",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cc85681e09368b33d94570507fc8cc47016d15d7750a03373bf0dbe809592eed",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2206554650/image_2206554650.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137636409,
+      "datetime": 1764405754
+    },
+    {
+      "title": "Bernie Sanders Backs Amazon Strikes Worldwide, Highlights Billionaire Jeff Bezos' Wealth As Indian Workers Protest",
+      "description": "Sen. Bernie Sanders urged global solidarity with Amazon workers as &#34;Make Amazon Pay&#34; strikes spread across 38 countries on Black Friday.",
+      "published_utc": "2025-11-28T22:29:34",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=31398ba017552d04429cb34a40998cfd093216a6a72da32e0c7e913b0cde6dc9",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/29/Bergamo--Italy--5-March-2021-Group-Of-Am.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138603645,
+      "datetime": 1764386974
+    },
+    {
+      "title": "Alphabet Has Won",
+      "description": "Alphabet leads AI with control of infrastructure, devices, and TPU-driven scale that supports broad, lasting, strong advantage. Learn why GOOG stock is a buy.",
+      "published_utc": "2025-11-28T22:27:49",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d8a3525c0279dc37dcbe2fdcdec0bb8fa435a8fc3f426f527b9340301f95faea",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2196139559/image_2196139559.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137634666,
+      "datetime": 1764386869
+    },
+    {
+      "title": "AI is taking jobs — here’s Coursera CEO's No. 1 tip for grads to stay competitive",
+      "description": "\"They're [recruiters] going to be assessing your mindset and your traits as a human being more than your experience,\" Coursera's CEO told CNBC Make It.",
+      "published_utc": "2025-11-28T20:03:21",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=70aad91f8594c5d1c43d73fd2f91ae55816ea1eacc8da5f35e23304857b77b55",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108232286-1764147921811-Greg_Hart_-_1_Chief_Executive_Officer_Coursera.jpg?v=1764148024&w=1920&h=1080",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137637785,
+      "datetime": 1764378201
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:44:56.655138+00:00",
+    "cache_key": "news_d8fa2fb57964f04db6d86904a146ca16",
+    "count": 5
+  }
+}

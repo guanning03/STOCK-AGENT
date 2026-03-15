@@ -1,0 +1,126 @@
+{
+  "items": [
+    {
+      "title": "Gator Capital Management Q2 2025 Investor Letter",
+      "description": "",
+      "published_utc": "2025-08-16T22:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=70c9ae0f234254ece050bdd3f366b4c0cd167697555affa05a7ed8cb5c38c7d9",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136383863,
+      "datetime": 1755396900
+    },
+    {
+      "id": "ee2646f92f6e47de5f55fb6288be09888b8fa652a0aa09a780432cc4ff5e6e22",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Where Will XRP Be in 3 Years?",
+      "author": "Dominic Basulto",
+      "published_utc": "2025-08-16T08:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/08/16/where-will-xrp-be-in-3-years/?source=iedfolrf0000001",
+      "tickers": [
+        "CRCL",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "VYLD",
+        "COIN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/829074/t-shirt-investor-laptop.jpg",
+      "description": "XRP shows potential for growth, with predictions of reaching $10-$12.50 by 2028, but faces challenges from stablecoins and alternative blockchain networks that could limit its institutional adoption and value appreciation.",
+      "keywords": [
+        "XRP",
+        "cryptocurrency",
+        "blockchain",
+        "stablecoins",
+        "cross-border payments"
+      ],
+      "insights": [
+        {
+          "ticker": "CRCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Potential acquisition target for Ripple, indicating market value"
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Developing own digital currency, potentially competing with XRP's market positioning"
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Developing own digital currency, potentially competing with XRP's market positioning"
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Developing own digital currency, potentially competing with XRP's market positioning"
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Developing own digital currency, potentially competing with XRP's market positioning"
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Developing own digital currency, potentially competing with XRP's market positioning"
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Developing own digital currency, potentially competing with XRP's market positioning"
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Developing own digital currency, potentially competing with XRP's market positioning"
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Developing own digital currency, potentially competing with XRP's market positioning"
+        },
+        {
+          "ticker": "VYLD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Developing own digital currency, potentially competing with XRP's market positioning"
+        },
+        {
+          "ticker": "COIN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Offering alternative blockchain solutions for cross-border transactions"
+        }
+      ]
+    },
+    {
+      "title": "Navigating Thematic Investing With THRO",
+      "description": "Leveraging artificial intelligence, portfolio managers of iShares U.S. Thematic Rotation Active ETF seek to identify emerging themes and the companies that could be positioned to benefit.",
+      "published_utc": "2025-08-16T05:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b76ce255e01d4035bb566e2c11d595344568b683692355800ff3fdda60b1a6fa",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1482626439/image_1482626439.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136378302,
+      "datetime": 1755337500
+    }
+  ]
+}

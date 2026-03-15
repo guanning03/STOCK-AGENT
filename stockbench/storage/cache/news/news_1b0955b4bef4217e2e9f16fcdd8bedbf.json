@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Sam Altman says OpenAI’s revenue is ‘well more’ than reports of $13 billion a year and hints it could hit $100 billion by 2027",
+      "description": "\"I would love to tell them they could just short the stock, and I would love to see them get burned on that.\"",
+      "published_utc": "2025-11-01T17:33:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f31c1a2e73796df6b9f644e49388a7618f2c3a443b52992a33160101fefd7dda",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137294368,
+      "datetime": 1762032799
+    },
+    {
+      "title": "Why Companies Are No Longer Hanging On to Employees",
+      "description": "Why Companies Are No Longer Hanging On to Employees",
+      "published_utc": "2025-11-01T17:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=84ed114cf3389cd2a0c371ef8c6acf7a44d97523b9312e1aeb4ef83f4fada5a2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137316632,
+      "datetime": 1762030800
+    },
+    {
+      "title": "The Amazonification of Whole Foods Is Finally Here—Bring On the Doritos",
+      "description": "The Amazonification of Whole Foods Is Finally Here—Bring On the Doritos",
+      "published_utc": "2025-11-01T17:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=9a83ce9c9423f5a86d12a560c070a4f042ac36dc5cb0dbfa62165afde6aba9be",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137316631,
+      "datetime": 1762030800
+    },
+    {
+      "title": "What Investors Learned From Tech Earnings, in Charts",
+      "description": "What Investors Learned From Tech Earnings, in Charts",
+      "published_utc": "2025-11-01T16:30:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=c2d956a18733867aacd65856c46dad2d0619b7decaec30a0fe6bdd832300224f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137316533,
+      "datetime": 1762029000
+    },
+    {
+      "title": "'That's Going To Have An Effect On Performance,' Amazon Web Service Outage Has Experts Worried About AI-Reliant Future",
+      "description": "",
+      "published_utc": "2025-11-01T15:24:22",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=57b9ae9af65d9224fcfe862c1d5225a24975fdc158f6e7769c274379f9a5f908",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/01/Munich--Germany---22--January-2023-Amazo.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138805055,
+      "datetime": 1762025062
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:17:54.189273+00:00",
+    "cache_key": "news_1b0955b4bef4217e2e9f16fcdd8bedbf",
+    "count": 5
+  }
+}

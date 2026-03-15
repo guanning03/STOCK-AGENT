@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Aflac Q2 Earnings Beat Estimates on Solid Cancer Product Sales",
+      "description": "AFL's Q2 earnings benefit from robust Japan cancer insurance sales and strong persistency rates in the U.S. business, partly offset by rising costs.",
+      "published_utc": "2025-08-06T13:59:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9795d622453aea2de964b0f0ee0481fa14153cd25e0f02edaf09fbfb04242575",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136240936,
+      "datetime": 1754503140
+    },
+    {
+      "title": "Palomar Q2 Earnings, Revenues Top Estimates, Premiums Rise Y/Y",
+      "description": "PLMR beats Q2 estimates with strong premium growth, surging investment income and raised full-year earnings guidance.",
+      "published_utc": "2025-08-06T11:46:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=07dbc48c4ae73e91ba595d2fe88d09cc18a87678a10360fd5e46cda55fdb8a92",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136239147,
+      "datetime": 1754495160
+    }
+  ]
+}

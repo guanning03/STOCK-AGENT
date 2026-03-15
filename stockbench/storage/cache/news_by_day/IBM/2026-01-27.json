@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "UK rolls out free AI training, but will it save your job?",
+      "description": "Free artificial intelligence training is being made available to everyone in the UK as the government steps up efforts to prepare the workforce for rapid technological change.  From today, adults can access short, practical courses through the government's upgraded AI Skills Hub, designed to help people use AI tools in the workplace.  The training covers everyday tasks such as drafting text, creating content, and automating administrative work - with some courses taking less than 20 minutes to complete.",
+      "published_utc": "2026-01-27T18:02:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=71fdea2ca5773b860ec4785f1f0439d423c9a0df4a4fdd1d8ab9442f8f271abb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138278023,
+      "datetime": 1769554920
+    },
+    {
+      "title": "Trading Day: Extreme bifurcation",
+      "description": "ORLANDO, Florida, Jan 27 () - World stocks and the S&P 500 hit new highs on Tuesday, boosted by a flood of strong U. earnings reports, while anxiety over U.",
+      "published_utc": "2026-01-27T17:06:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=75467562cdaa5d3b5bf8bb1c09ed0e3f8e68458a5c04265c8eedad92c01189ed",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138276349,
+      "datetime": 1769551607
+    },
+    {
+      "title": "Earnings live: UnitedHealth stock falls 19%, American Airlines slides, Texas Instruments pops, Logitech edges higher",
+      "description": "The fourth quarter earnings season kicks into high gear this week, with Big Tech results from Microsoft, Meta, Tesla, and Apple headlining the earnings calendar.",
+      "published_utc": "2026-01-27T16:39:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=96299e8855b4628084e5315469274d410c381b787cf51b84eaea29ea9c786ef2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138275253,
+      "datetime": 1769549981
+    },
+    {
+      "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+      "description": "The S&P 500 jumped to a fresh all-time high and closed at a record on Tuesday.",
+      "published_utc": "2026-01-27T14:06:30",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=e67710dea29040327fc183827020acfff62d058c62dd1822fb91135a220d625d",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108157804-17496496732025-06-11t130016z_1483506810_rc2d0famdgwy_rtrmadp_0_france-tech.jpeg?v=1758209256&w=1920&h=1080",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138282512,
+      "datetime": 1769540790
+    },
+    {
+      "title": "S&P 500 touches 7,000 for first time then retreats as traders await Fed decision: Live updates",
+      "description": "The S&P 500 rose to a milestone level ahead of the Federal Reserve's interest rate decision and earnings reports from major tech companies.",
+      "published_utc": "2026-01-27T13:03:32",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=45308eb86f00b0ebf962d353c054bf7b786018c30d16a252ea5f007b227c0595",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108257698-1769534842387-Traders-Photo-20260127-KK-PRESS-014.jpg?v=1769535031&w=1920&h=1080",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138282427,
+      "datetime": 1769537012
+    }
+  ]
+}

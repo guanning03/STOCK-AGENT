@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Crash: The Best Dividend Stocks to Buy Right Now",
+      "description": "Dividend stocks generate passive income even when the market is falling.",
+      "published_utc": "2026-02-25T16:25:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=606c64f0f0f14db2f0bd5551244cf5bfb0b7f1dc3cf325950860616c6b27b3a7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139225021,
+      "datetime": 1772054700
+    },
+    {
+      "title": "Amazon Is Now the No. 1 Company in the World by Revenue. Does That Make AMZN Stock a Buy Here?",
+      "description": "Becoming the world’s top revenue generator strengthens Amazon’s story, yet heavy AI capex keeps valuation risks in focus.",
+      "published_utc": "2026-02-25T15:55:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f41c088a6ccb66fe1c9f81453b9928013de952a5703cec44c72aa5077e45415a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139226097,
+      "datetime": 1772052930
+    },
+    {
+      "title": "CNBC Daily Open: Nvidia’s earnings beat and other AI news give markets relief — for now",
+      "description": "The world's most valuable company reported better-than-expected fiscal fourth-quarter results after the bell Wednesday stateside.",
+      "published_utc": "2026-02-25T15:52:23",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=d0a755ffd5ae1a5522878f1b94e57f96606dd439624d8d33a80ab9199159f867",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108270205-1772064880371-gettyimages-2254355395-CES_2026.jpeg?v=1772064890&w=1920&h=1080",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139236100,
+      "datetime": 1772052743
+    },
+    {
+      "title": "Palantir Billionaire Peter Thiel Dumped Nvidia, Tesla, Microsoft, and Apple. What Stocks Does He Own for 2026?",
+      "description": "His latest SEC filing reveals that the venture capitalist's hedge fund sold its entire stock portfolio last quarter.",
+      "published_utc": "2026-02-25T15:46:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=51a0126bb04d1a2ab33af3413c8d473257748f80afe46f21b2c3d55317595bce",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139225030,
+      "datetime": 1772052360
+    },
+    {
+      "title": "Ken Griffin, Ray Dalio, and Warren Buffett All Sold More Apple Stock. Should You?",
+      "description": "Marquee names have trimmed their stakes in iPhone maker Apple.",
+      "published_utc": "2026-02-25T14:23:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=48b2f6bd24f72f4999ff25f9163a8f94ae797b5879ec796c906e68f147dd55ce",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139226098,
+      "datetime": 1772047395
+    }
+  ]
+}

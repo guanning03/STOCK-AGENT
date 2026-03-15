@@ -1,0 +1,77 @@
+{
+  "items": [
+    {
+      "id": "8c0d3acfa8bfeee1a2ec2949d9f46cad780408862bbab73963a6b85397b9df88",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "7 Dow Jones Dividend Stocks that Underperformed the S&P 500 This Year but Are Buys for 2025",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-24T14:53:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/24/7-dow-jones-dividend-stocks-buy-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "V",
+        "MSFT",
+        "PG",
+        "KO",
+        "MCD",
+        "CVX",
+        "NKE"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801884/gettyimages-1349931690-1200x800-5b2df79.jpg",
+      "description": "The article discusses 7 Dow Jones stocks that underperformed the S&P 500 in 2024 but are considered good buys for 2025. These stocks include Visa, Microsoft, Procter & Gamble, Coca-Cola, McDonald's, Chevron, and Nike.",
+      "keywords": [
+        "Dow Jones",
+        "S&P 500",
+        "dividend stocks",
+        "underperformance",
+        "2025 buys"
+      ],
+      "insights": [
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Visa's excellent business model, ultra-high operating margins, and long-term outperformance of the S&P 500, making it a reasonable value even at an all-time high."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes Microsoft's balanced approach, strong financials, and potential for accelerated growth in the new year, making it a well-worth-its-premium-valuation stock."
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article describes Procter & Gamble as a Dividend King that can perform well during economic downturns, making it an excellent buy for risk-averse investors."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Coca-Cola as a Dividend King that can perform well during economic downturns, making it an excellent buy for risk-averse investors."
+        },
+        {
+          "ticker": "MCD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that McDonald's is on track to become a Dividend King by 2026, and its franchise model helps reduce costs and volatility, making it a good long-term buy."
+        },
+        {
+          "ticker": "CVX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article describes Chevron as an integrated oil and gas major with an excellent balance sheet, low cost of production, and a growing low-carbon business, making it a reasonable buy."
+        },
+        {
+          "ticker": "NKE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article acknowledges that Nike is an underrated dividend stock, but its business is slowing down and it needs a turnaround, which could take time, so the stock is a specific case that may be a bargain at current levels."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:52:24.548202+00:00",
+    "cache_key": "news_68190280491f11d2bb6652378fd5d9b0",
+    "count": 1
+  }
+}

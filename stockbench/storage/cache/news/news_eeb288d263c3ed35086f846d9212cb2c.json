@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": "cdd6b9a1dc8b1d10d51c47a2a998a861bc79ef78233d80b85316849d448e9cd8",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Incredible Dividend Stocks to Buy in 2025",
+      "author": "Justin Pope",
+      "published_utc": "2025-01-11T08:38:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/11/3-incredible-dividend-stocks-to-buy-in-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "MDT",
+        "UNH",
+        "ABBV"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803184/healthcare-dividend-stocks.jpg",
+      "description": "The article highlights three healthcare companies - Medtronic, UnitedHealth Group, and AbbVie - that are poised to provide strong dividend growth and investment returns in the coming years. The companies are praised for their consistent dividend increases, diverse product portfolios, and promising growth prospects.",
+      "keywords": [
+        "healthcare",
+        "dividends",
+        "investing",
+        "Medtronic",
+        "UnitedHealth Group",
+        "AbbVie"
+      ],
+      "insights": [
+        {
+          "ticker": "MDT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Medtronic's consistent dividend growth, diverse product portfolio, and stable financial performance, making it a promising dividend stock for the long term."
+        },
+        {
+          "ticker": "UNH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article praises UnitedHealth Group's massive size, ability to offer more for less, and strong earnings growth, which have fueled its consistent dividend increases."
+        },
+        {
+          "ticker": "ABBV",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights AbbVie's ability to innovate and find new growth opportunities, as well as its high dividend yield and manageable payout ratio, making it an attractive dividend stock."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:32:37.528629+00:00",
+    "cache_key": "news_eeb288d263c3ed35086f846d9212cb2c",
+    "count": 1
+  }
+}

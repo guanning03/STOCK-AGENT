@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Dow Jones Futures Rise: Trump Calls Powell 'Loser'; Apple, Nvidia, Tesla Sell Off",
+      "description": "Dow Jones Futures Rise: Trump Calls Powell 'Loser'; Apple, Nvidia, Tesla Sell Off",
+      "published_utc": "2025-04-21T18:31:47",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=04033ee1558137add5c4ad01c16f452ff6a34bd14a89853222f9d854dee52c26",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134052229,
+      "datetime": 1745274707
+    },
+    {
+      "title": "Can President Trump Fire Fed Chair Jerome Powell?",
+      "description": "(Bloomberg) -- Never miss an episode. Follow The Big Take daily podcast today.Most Read from BloombergDOGE Visits National Gallery of Art to Discuss Museum’s Legal StatusTrump Gives New York ‘One Last Chance’ to End Congestion FeeTrump Administration Takes Over New York Penn Station RevampThe Racial Wealth Gap Is Not Just About MoneyNashville’s $3 Billion Transit Plan Brings a Call for Zoning ReformPresident Trump’s attacks on Federal Reserve Chair Jerome Powell just keep comingToday on the Big",
+      "published_utc": "2025-04-21T17:52:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2a17285f0e6db7b34cc42798c70bd7bceba1acc3c28a90033e7172b56902c538",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134031825,
+      "datetime": 1745272356
+    },
+    {
+      "title": "Apple (AAPL) Stock Moves -1.94%: What You Should Know",
+      "description": "In the most recent trading session, Apple (AAPL) closed at $193.16, indicating a -1.94% shift from the previous trading day.",
+      "published_utc": "2025-04-21T17:45:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=df440c5c1a395dc9d2c65e73f9aa1d0d314b83cff046eb8b1eab56060915e2a2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134031826,
+      "datetime": 1745271931
+    },
+    {
+      "title": "Apple's China Dependence Leaves It Exposed as Tariff Risks Rise",
+      "description": "Apple makes 90% of iPhones in China, keeping it exposed to U.S. tariffs.",
+      "published_utc": "2025-04-21T17:35:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b1e83f9db30445794fdc4d11791c3669a03782d0ba1a4aae5265c3a9f1856d1b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134031827,
+      "datetime": 1745271329
+    },
+    {
+      "title": "Apple's China Gamble at Risk as Global Tariff War Heats Up, Analyst Warns",
+      "description": "Apple could face sharp risks if U.S. allies join in raising tariffs on China, Kuo said.",
+      "published_utc": "2025-04-21T17:22:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5f295a6be4b797820fd9ea2bd98d6a03d726f9a07cde55c2f1fd0913e411ab20",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134031828,
+      "datetime": 1745270534
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T23:26:36.939724+00:00",
+    "cache_key": "news_4ed1f8fb74ac4373e63f3fcc0c9080ee",
+    "count": 5
+  }
+}

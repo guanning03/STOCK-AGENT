@@ -1,0 +1,137 @@
+{
+  "items": [
+    {
+      "title": "The Best Stocks to Invest $1,000 in This February",
+      "description": "These companies should benefit from a normalization of the healthcare market in 2026, making them cheap buys today.",
+      "published_utc": "2026-02-16T21:04:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=588f5a12e82b04c86346e7a303132e8eb91c98c3c89aa4c99de2d16a365bb61d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139119260,
+      "datetime": 1771293840
+    },
+    {
+      "title": "UnitedHealth Chief Made Private Side Bets on Healthcare Startups",
+      "description": "UnitedHealth Chief Made Private Side Bets on Healthcare Startups",
+      "published_utc": "2026-02-16T16:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=8725ed2c4931855a5196f17a7cd4cc7253128c6fe1afa3d8b056732ae9ff1c4a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139200441,
+      "datetime": 1771275600
+    },
+    {
+      "id": "cd4784da52c0dbf1342fe6bcac4cd4d8e2df7c8afaedc225f0bc27b1d950fdc5",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "$81.32 Bn Clinical Analytics Markets: Analysis by Offering, Source, Use Case, End User - Global Forecast to 2030: Rapid Digital Health Adoption and Real-Time Data Streams Accelerate Investments",
+      "author": "Researchandmarkets.Com",
+      "published_utc": "2026-02-16T15:53:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2026/02/16/3238794/28124/en/81-32-Bn-Clinical-Analytics-Markets-Analysis-by-Offering-Source-Use-Case-End-User-Global-Forecast-to-2030-Rapid-Digital-Health-Adoption-and-Real-Time-Data-Streams-Accelerate-Invest.html",
+      "tickers": [
+        "UNH",
+        "MDRX",
+        "GEHC",
+        "ORCL",
+        "ORCLpD",
+        "CVS",
+        "SMMNY"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The global clinical analytics market is experiencing rapid expansion driven by widespread EHR adoption, AI/ML advancements, and real-world evidence acceptance. The market is projected to grow at a 19.7% CAGR from $33.09 billion in 2025 to $81.32 billion by 2030, with Asia-Pacific leading regional growth. Key drivers include digital health adoption, value-based care transition, and precision medicine demand.",
+      "keywords": [
+        "clinical analytics",
+        "electronic health records (EHR)",
+        "artificial intelligence",
+        "machine learning",
+        "real-world evidence",
+        "precision medicine",
+        "healthcare digitization",
+        "predictive analytics",
+        "value-based care",
+        "Asia-Pacific growth"
+      ],
+      "insights": [
+        {
+          "ticker": "UNH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Identified as a key market player driving expansion through strategic alliances and innovation in the rapidly growing clinical analytics market."
+        },
+        {
+          "ticker": "MDRX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Featured as a key company in the clinical analytics market, positioned to benefit from growing demand for data-driven healthcare solutions."
+        },
+        {
+          "ticker": "GEHC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Listed among key market players in clinical analytics, well-positioned to capitalize on growing healthcare IT infrastructure investments."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Included among key companies in clinical analytics market, positioned to benefit from enterprise healthcare data management and analytics demand."
+        },
+        {
+          "ticker": "ORCLpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Included among key companies in clinical analytics market, positioned to benefit from enterprise healthcare data management and analytics demand."
+        },
+        {
+          "ticker": "CVS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Listed as a key player in clinical analytics; benefits from payer segment growth and value-based care transition."
+        },
+        {
+          "ticker": "SMMNY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Featured as a key player in the clinical analytics market with opportunities in the expanding healthcare digitization and AI-powered analytics space."
+        }
+      ]
+    },
+    {
+      "title": "Are UnitedHealth Group Incorporated's (NYSE:UNH) Fundamentals Good Enough to Warrant Buying Given The Stock's Recent Weakness?",
+      "description": "UnitedHealth Group (NYSE:UNH) has had a rough month with its share price down 11%. But if you pay close attention, you...",
+      "published_utc": "2026-02-16T06:00:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=57f94c3b04e8924acde946205ccebcee0f435ea5385acc2c79ae2f8e90509dac",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139113405,
+      "datetime": 1771239644
+    },
+    {
+      "title": "Is Wall Street Bullish or Bearish on UnitedHealth Stock?",
+      "description": "UnitedHealth has significantly lagged the broader market over the past year, though analysts remain cautiously optimistic about its longer-term outlook.",
+      "published_utc": "2026-02-16T05:08:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=efd928186ed54cce6431fd21bf940b901d14a4bd462c5579fd9de003443cdedb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139114168,
+      "datetime": 1771236520
+    }
+  ]
+}

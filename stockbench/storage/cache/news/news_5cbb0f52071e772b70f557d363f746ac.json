@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "id": "7acbde0ea6cbc3eae5e87fb614aff01741fb5d285ad7e7bc55541ed5ab618b0e",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Want a $1 Million Portfolio by Retirement? Here's How Much You Should Invest Every Month.",
+      "author": "David Jagielski",
+      "published_utc": "2025-01-04T13:58:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/04/want-a-1-million-portfolio-by-retirement-heres-how/?source=iedfolrf0000001",
+      "tickers": [
+        "SPY",
+        "VUG"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801767/seniors-giving-the-thumbs-up.jpg",
+      "description": "To reach a $1 million portfolio by retirement, the article suggests investing in an ETF that tracks the S&P 500 or a growth-focused ETF, and provides estimates on the monthly investment required based on different annual return assumptions.",
+      "keywords": [
+        "retirement planning",
+        "investment strategy",
+        "ETFs",
+        "S&P 500",
+        "growth stocks"
+      ],
+      "insights": [
+        {
+          "ticker": "SPY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article recommends the SPDR S&P 500 ETF Trust as a conventional option for risk-averse investors, as it tracks the S&P 500 index which has historically averaged a 10% annual return."
+        },
+        {
+          "ticker": "VUG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests the Vanguard Growth Index Fund ETF as a solid option for investors who want to focus more on growth stocks, which can have higher upside potential in the long run."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:18:10.565519+00:00",
+    "cache_key": "news_5cbb0f52071e772b70f557d363f746ac",
+    "count": 1
+  }
+}

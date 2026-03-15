@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Heard on the Street Recap: Meta Pivot",
+      "description": "Early Tuesday, Meta Platforms announced a deal valued at more than $100 billion to purchase artificial-intelligence chips from AMD, sending shares in the Nvidia rival over 8% higher.  Gold futures retreated as investors shifted back into equities.  Market attention is turning to President Trump’s State of the Union address Tuesday evening.",
+      "published_utc": "2026-02-24T18:00:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cbcdac2f9253aaecb8f21e854936240b1d61d85c0053d5b757603fdd3fca9bb4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139202325,
+      "datetime": 1771974009
+    },
+    {
+      "title": "Nasdaq Bounces Back After AMD-Meta Deal on AI Chips",
+      "description": "Improved consumer-confidence numbers and an announcement by Anthropic about tools that could potentially be used in combination with existing software—rather than as a replacement—also helped bolster market optimism, said  Shannon Saccocia,  chief investment officer of wealth at Neuberger Berman.  The Nasdaq composite advanced 1%, while the S&P 500 and Dow industrials were both up 0.8%.  With so much unknown about how AI will affect business, the first two months of 2026 have been a near daily fight between Wall Street’s bulls and bears, said  Jay Hatfield,  chief executive officer at Infrastructure Capital Advisors.",
+      "published_utc": "2026-02-24T17:31:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=899ff52b3ec0f0c7c84ead1bce1fb2328962aae0f3b486ade19b42167fc74c0f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139202328,
+      "datetime": 1771972260
+    },
+    {
+      "title": "Technology Helps Lift US Equity Indexes in Broad-Based Rally",
+      "description": "US equity indexes rose on Tuesday amid a broad-based rally led by consumer discretionary, industrial",
+      "published_utc": "2026-02-24T17:28:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e96aca3624fb19b2ebaba0c10df40404c93bc055bcd6e4bbc87e4a5bb00fa161",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139202342,
+      "datetime": 1771972109
+    },
+    {
+      "title": "Wall Street Marks Best Day in More Than 2 Weeks as Software Stocks Advance",
+      "description": "Major US equity benchmarks logged their biggest one-day gains in more than two weeks on Tuesday as s",
+      "published_utc": "2026-02-24T16:59:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=facd91110d4739102861df3e383db7356a5222316ffba4c2cc969beae45b511c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139201730,
+      "datetime": 1771970355
+    },
+    {
+      "title": "Is IBM stock in the dividend bargain bin?",
+      "description": "IBM just got hit with one of its worst single-day drops in years. Shares fell over 13.2% on Feb. 23, 2026, closing at $223.35. The culprit? Anthropicannounced its Claude Code tool could automate much of the tedious, expensive work involved in COBOL modernization — a key IBM (IBM) business. ...",
+      "published_utc": "2026-02-24T16:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d6fd48734f9f4526961e087066a1da83563411c44f8616e71cabdcfa762ad96e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139201619,
+      "datetime": 1771968780
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:37:31.929785+00:00",
+    "cache_key": "news_db36993d212dec520993f562a3785917",
+    "count": 5
+  }
+}

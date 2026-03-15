@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Caterpillar (CAT) Laps the Stock Market: Here's Why",
+      "description": "In the closing of the recent trading day, Caterpillar (CAT) stood at $629.77, denoting a +1.97% move from the preceding trading day.",
+      "published_utc": "2026-01-12T17:45:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=255e6b7915441447e2569de7b2054176fc05f7004d21b7318ce18168b3654dda",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138083287,
+      "datetime": 1768257906
+    },
+    {
+      "title": "This NVIDIA Partnership Shows How Big AI Can Really Get",
+      "description": "NVIDIA is well-positioned to dominate AI markets across industries and verticals for years to come; analysts point to a 40% upside.",
+      "published_utc": "2026-01-12T14:13:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=549407a5bfd36cd85087b4b2b587a296d0569768336054db690929434f997a7d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138091437,
+      "datetime": 1768245180
+    },
+    {
+      "title": "GE Vernova Gets a New Price Target. It’s the Highest on Wall Street.",
+      "description": "GE Vernova Gets a New Price Target. It’s the Highest on Wall Street.",
+      "published_utc": "2026-01-12T11:29:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=ddf88aae401c03f6b06524df6fbeab81da833b7e5b94d84b88f77433fed5ffe0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138125667,
+      "datetime": 1768235340
+    },
+    {
+      "title": "Zacks Industry Outlook Highlights Caterpillar, Terex and Astec Industries",
+      "description": "Caterpillar leads construction and mining equipment stocks to watch as infrastructure spending and energy transition demand offset manufacturing headwinds.",
+      "published_utc": "2026-01-12T10:11:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d8c16f4ff7da2c527bc69a8631b124b91bf9cbfdb051a46212263af7b953199e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138075520,
+      "datetime": 1768230660
+    },
+    {
+      "title": "From Storms To Servers: Why Generac Holdings' Moment May Be Here",
+      "description": "Generac Holdings Inc. benefits from AI data center power demand, with rising C&I sales and a doubled generator backlog. Click for this look at GNRC stock prospects.",
+      "published_utc": "2026-01-12T09:55:22",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0d40134f9ac207b9075abbbb31ef18e4140fafbd2b5bc23ddb845f4af5a88306",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1319279770/image_1319279770.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138077780,
+      "datetime": 1768229722
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:22:46.627420+00:00",
+    "cache_key": "news_99ad47080235bb9725c21f017294dc07",
+    "count": 5
+  }
+}

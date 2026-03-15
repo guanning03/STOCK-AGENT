@@ -1,0 +1,160 @@
+{
+  "items": [
+    {
+      "title": "5 Debt and Housing Metrics Investors Should Consider Before Buying S&P 500 Stocks at All-Time Highs",
+      "description": "Lower interest rates will help ease consumer pressures, but a recovery in the housing market could take time.",
+      "published_utc": "2025-10-05T18:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d15cf4b74957bcc7fc5a085319f9f252107d853f2341c9202635d1e62d7cc95a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136989274,
+      "datetime": 1759702800
+    },
+    {
+      "id": "58b1ed755bf1af5ec9c82664f8b9b9cbaf01d8d3ca011b317cfe74a4cff08017",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "2 High-Dividend Stocks That Are Still Dirt Cheap",
+      "author": "Matt Frankel",
+      "published_utc": "2025-10-05T12:33:00Z",
+      "article_url": "https://www.fool.com/investing/2025/10/05/2-high-dividend-stocks-that-are-still-dirt-cheap/?source=iedfolrf0000001",
+      "tickers": [
+        "EPR",
+        "EPRpC",
+        "EPRpE",
+        "EPRpG",
+        "PLD",
+        "AMZN",
+        "WMT",
+        "FDX",
+        "HD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/835700/waterpark-2022.jpg",
+      "description": "Despite challenging market conditions, two real estate investment trusts (REITs) offer promising long-term investment opportunities: EPR Properties and Prologis, which provide attractive dividends and potential growth in experiential and logistics real estate sectors.",
+      "keywords": [
+        "REITs",
+        "real estate",
+        "dividends",
+        "investing",
+        "e-commerce"
+      ],
+      "insights": [
+        {
+          "ticker": "EPR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong current property portfolio, attractive 6.1% monthly dividend, potential for expansion as interest rates fall, and a large $100 billion investable property universe"
+        },
+        {
+          "ticker": "EPRpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong current property portfolio, attractive 6.1% monthly dividend, potential for expansion as interest rates fall, and a large $100 billion investable property universe"
+        },
+        {
+          "ticker": "EPRpE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong current property portfolio, attractive 6.1% monthly dividend, potential for expansion as interest rates fall, and a large $100 billion investable property universe"
+        },
+        {
+          "ticker": "EPRpG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong current property portfolio, attractive 6.1% monthly dividend, potential for expansion as interest rates fall, and a large $100 billion investable property universe"
+        },
+        {
+          "ticker": "PLD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Large logistics real estate portfolio, strong e-commerce growth tailwinds, 35% rent increase on new leases, and significant embedded revenue growth potential"
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a tenant of Prologis, no direct investment analysis provided"
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a tenant of Prologis, no direct investment analysis provided"
+        },
+        {
+          "ticker": "FDX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a tenant of Prologis, no direct investment analysis provided"
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a tenant of Prologis, no direct investment analysis provided"
+        }
+      ]
+    },
+    {
+      "id": "bc735a109a9219e41883db9b5a63a36f84a9363a2985a77011d50be2d695eae3",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "6 Pros of BNPL and a Note of Caution",
+      "author": "Dana George",
+      "published_utc": "2025-10-05T08:07:00Z",
+      "article_url": "https://www.fool.com/retirement/2025/10/05/6-pros-of-bnpl-and-a-note-of-caution/?source=iedfolrf0000001",
+      "tickers": [
+        "AFRM",
+        "KLAR",
+        "TGT",
+        "WMT",
+        "HD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/835605/bnpl-1.jpg",
+      "description": "Buy Now, Pay Later (BNPL) is a payment method allowing consumers to split purchases into four interest-free installments, with major players like Affirm, Klarna, and Afterpay dominating the market. The industry is expected to reach $125 billion by 2027, offering flexible payment options without hard credit checks.",
+      "keywords": [
+        "BNPL",
+        "Buy Now Pay Later",
+        "installment payments",
+        "financial services",
+        "online shopping"
+      ],
+      "insights": [
+        {
+          "ticker": "AFRM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a major BNPL player without specific positive or negative context"
+        },
+        {
+          "ticker": "KLAR",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a major BNPL player without specific positive or negative context"
+        },
+        {
+          "ticker": "TGT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mentioned as accepting BNPL payments, indicating adaptability to modern payment methods"
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mentioned as accepting BNPL payments, indicating adaptability to modern payment methods"
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mentioned as accepting BNPL payments, indicating adaptability to modern payment methods"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T04:52:22.579362+00:00",
+    "cache_key": "news_b0733e8799f3101a9154bfb3441cfe79",
+    "count": 3
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "PayPal extends rally after report says Stripe eyes all or parts of company",
+      "description": "Investing.com -- PayPal (NASDAQ:PYPL) shares rose for a second straight session on Tuesday as takeover speculation continued to swirl around the payments processor - this time with a potential buyer being named. On Monday, PayPal shares jumped 5.8% after Bloomberg reported that the company had attracted takeover interest amid its multi-year stock slump, without identifying a suitor. On Tuesday, shares added another 6.7% after Bloomberg reported that payments company Stripe is interested in buyin",
+      "published_utc": "2026-02-24T17:09:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5d3f9d667b4d1deb10646e833f743fbeae4c5a61c87c45a7515806bc230e798b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139202377,
+      "datetime": 1771970993
+    },
+    {
+      "title": "Stripe May Be Looking to Buy PayPal. What It Means for the Stock.",
+      "description": "Analysts agree an outright sale is unlikely, but they are split on whether the payments company is stagnating or undervalued.",
+      "published_utc": "2026-02-24T16:35:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=20cd9d7453dee6e8d495f6cbdf5ec4f3b99007a5b5ed9916f95d130d795a0ef7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139202381,
+      "datetime": 1771968900
+    },
+    {
+      "title": "JPMorgan's Dimon Says U.S. Needs To Plan For AI Jobs Wipeout",
+      "description": "JPMorgan Chase CEO Jamie Dimon said on Monday evening that AI may wipe out jobs \"faster than we can adjust to\" and advised the government to begin working with business to devise policies that may be needed to address the fallout.  Dimon's comments on AI's job impact largely echoed those he made at the World Economic Forum in Davos, Switzerland, on Jan. 21, when he said it was important for public policymakers to \"have plans in place to make it work better if in fact it does something terrible.\"  As he did in Davos, Dimon envisioned the abrupt layoff of 2 million truck drivers replaced by autonomous trucks.",
+      "published_utc": "2026-02-24T16:04:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=96322132989ec1975c73b59e5fc71ba715174f70fb35486f49b885291b2f9448",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139201537,
+      "datetime": 1771967084
+    },
+    {
+      "title": "U.S. Needs To Plan For AI Jobs Wipeout: JPMorgan CEO Dimon",
+      "description": "U.S. Needs To Plan For AI Jobs Wipeout: JPMorgan CEO Dimon",
+      "published_utc": "2026-02-24T14:36:03",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=007b18be4e67ea526964bf35eabf51f4e50831dd4ffdbfaa6dcf5c8269a7897c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139211429,
+      "datetime": 1771961763
+    },
+    {
+      "title": "$1000 Invested In American Express 10 Years Ago Would Be Worth This Much Today",
+      "description": "",
+      "published_utc": "2026-02-24T13:45:21",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=bbcabf264909645e2c6dae93d4ff4d67531bb80c10ae8e5447aae18160dd426f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139208090,
+      "datetime": 1771958721
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:36:26.505941+00:00",
+    "cache_key": "news_6ee4a88731b78e0e3474433a8e406fd3",
+    "count": 5
+  }
+}

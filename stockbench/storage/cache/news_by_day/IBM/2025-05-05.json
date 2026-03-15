@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "IBM (IBM) Crossed Above the 50-Day Moving Average: What That Means for Investors",
+      "description": "Should investors be excited or worried when a stock crosses above the 50-Day simple moving average?",
+      "published_utc": "2025-05-05T09:30:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=02a311c0e8f2f3bc07bdaed6f1082b4602359b8e43325d88ab6c7c8c88a9770d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134266388,
+      "datetime": 1746451806
+    },
+    {
+      "title": "Dow's 100-point rally highlighted by gains in UnitedHealth, McDonald's stocks",
+      "description": "Dow's 100-point rally highlighted by gains in UnitedHealth, McDonald's stocks",
+      "published_utc": "2025-05-05T08:03:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=d2454692857ed12a2f43286076b646d13672034d2dcf9b27722bf6104fa2a8da",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134254151,
+      "datetime": 1746446580
+    },
+    {
       "title": "Cardinal Health, Northrop Grumman Among 7 Companies To Announce Dividend Increases In First Half Of May",
       "description": "Parker-Hannifin announced its latest payout boost. Check out companies that I expect will announce their annual dividend increases in the first half of May.",
       "published_utc": "2025-05-05T04:30:37",
@@ -14,6 +44,21 @@
       "api_source": "finnhub_company",
       "id": 134241643,
       "datetime": 1746390637
+    },
+    {
+      "title": "Here’s what I’ve learned after writing about Apple, Intel and Silicon Valley for over 30 years",
+      "description": "Here’s what I’ve learned after writing about Apple, Intel and Silicon Valley for over 30 years",
+      "published_utc": "2025-05-05T04:15:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=4856c89fa88b9324d17338f5a3dac9a2f3bed6e7ff7281257c02bb572e2264ec",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134253777,
+      "datetime": 1746432900
     }
   ]
 }

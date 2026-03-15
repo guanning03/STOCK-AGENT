@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "SpaceX Trounces Boeing and Lockheed as Space Force Hands Out $13 Billion in Launch Contracts",
+      "description": "There are a lot of space company winners in this new space launch contract, but only two losers: Boeing and Lockheed Martin.",
+      "published_utc": "2025-04-27T06:06:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=077c466f65bb435ba9d29a05b8731d50bfaf2e1a85b0d96495d09ea589a33164",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134115287,
+      "datetime": 1745748360
+    },
+    {
+      "title": "Woodward (WWD) To Report Earnings Tomorrow: Here Is What To Expect",
+      "description": "Aerospace and defense company Woodward (NASDAQ:WWD) will be reporting earnings tomorrow afternoon. Here’s what to expect.",
+      "published_utc": "2025-04-27T03:01:34",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4961c15bbbd501420e0c9d4b5cea637f73125ab711ee995960f89a2a949a57e0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134115289,
+      "datetime": 1745737294
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T23:32:29.628434+00:00",
+    "cache_key": "news_1ddecee899f71188f16c3d1c953315ae",
+    "count": 2
+  }
+}

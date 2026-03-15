@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "id": "c0960ee1e71231b5dcbe7bfef345dbc8629ddb092113e5a35c48ea4a7b5e2213",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Pharmacy Benefit Managers Played Key Role in Worsening Opioid Crisis, Drug Makers Paid Staggering Rebates To Middlemen: NYT",
+      "author": "Vandana Singh",
+      "published_utc": "2024-12-18T14:39:43Z",
+      "article_url": "https://www.benzinga.com/24/12/42554729/pharmacy-benefit-managers-played-key-role-in-worsening-opioid-crisis-drug-makers-paid-staggering-rebates-to-the-m",
+      "tickers": [
+        "CVS",
+        "CI",
+        "UNH"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2024/12/18/Healthcare--Opioid-Epidemic-And-Drug-Abu.jpeg?width=1200&height=800&fit=crop",
+      "description": "Pharmacy benefit managers (PBMs) have been accused of exacerbating the opioid crisis by prioritizing profits from rebates over patient safety. Internal documents reveal that PBMs negotiated deals with drugmakers that removed safeguards against opioid misuse, contributing to the worsening of the crisis.",
+      "keywords": [
+        "opioid crisis",
+        "pharmacy benefit managers",
+        "drug rebates",
+        "patient safety"
+      ],
+      "insights": [
+        {
+          "ticker": "CVS",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that CVS Health, through its CVS Caremark unit, was involved in negotiating deals with drugmakers that removed safeguards against opioid misuse, contributing to the worsening of the opioid crisis."
+        },
+        {
+          "ticker": "CI",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article indicates that Cigna, through its Express Scripts unit, was also involved in negotiating deals with drugmakers that removed safeguards against opioid misuse, contributing to the worsening of the opioid crisis."
+        },
+        {
+          "ticker": "UNH",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that UnitedHealth Group, through its Optum unit, was involved in negotiating deals with drugmakers that removed safeguards against opioid misuse, contributing to the worsening of the opioid crisis."
+        }
+      ]
+    }
+  ]
+}

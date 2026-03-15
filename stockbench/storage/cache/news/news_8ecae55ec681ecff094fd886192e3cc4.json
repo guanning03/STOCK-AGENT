@@ -1,0 +1,170 @@
+{
+  "items": [
+    {
+      "id": "90a6ca9d874e8de9ddfe00411ea032e3f589ee2f89ea32b6fe6b9889322de238",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "US Stocks Dip As Powell Stays Cautious, Intel Climbs, Tesla Sinks To 11-Week Low: What's Driving Markets Tuesday?",
+      "author": "Piero Cingari",
+      "published_utc": "2025-02-11T18:36:21Z",
+      "article_url": "https://www.benzinga.com/economics/macro-economic-events/25/02/43635364/us-stocks-dip-as-powell-stays-cautious-intel-climbs-tesla-sinks-to-11-week-low",
+      "tickers": [
+        "INTC",
+        "TSLA",
+        "AAPL",
+        "BABA",
+        "PSX"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/02/11/Wall-street-shutter3.jpeg?width=1200&height=800&fit=crop",
+      "description": "U.S. stocks edged lower as Fed Chair Powell signaled no rush to cut rates, keeping investors cautious ahead of the key inflation report. Intel jumped on AI chip optimism, while Tesla slid on weak China sales.",
+      "keywords": [
+        "Federal Reserve",
+        "inflation",
+        "Intel",
+        "Tesla",
+        "China"
+      ],
+      "insights": [
+        {
+          "ticker": "INTC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Intel surged 7% after the company indicated that artificial intelligence chips will be manufactured in the U.S."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Tesla fell over 4% to the lowest levels in eleven weeks, pressured by weak January auto sales in China."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple gained 2.8% amid speculation about a potential AI partnership for iPhone users in China."
+        },
+        {
+          "ticker": "BABA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alibaba climbed 2% amid speculation about a potential AI partnership for iPhone users in China."
+        },
+        {
+          "ticker": "PSX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Phillips 66 surged 5% after Elliott Investment Management urged the company to sell or spin off its midstream business."
+        }
+      ]
+    },
+    {
+      "id": "21a98e4f00ed3abd747535acdc1ef983c374448e0d24d227289d9e5a4c300c03",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Tesla Stock Is Having a Rough Start of the Year",
+      "author": "Neil Rozenbaum",
+      "published_utc": "2025-02-11T14:40:51Z",
+      "article_url": "https://www.fool.com/investing/2025/02/11/tesla-stock-is-having-a-rough-start-of-the-year/?source=iedfolrf0000001",
+      "tickers": [
+        "TSLA",
+        "AAPL",
+        "NVDA",
+        "MSFT",
+        "AMZN",
+        "GOOG",
+        "GOOGL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807109/tesla-sales-center-with-tesla-logo-on-building-for-tesla-sales.png",
+      "description": "Elon Musk predicts that Tesla will be bigger than Apple, Nvidia, Microsoft, Amazon, and Alphabet combined due to a $10 trillion opportunity unrelated to its car business.",
+      "keywords": [
+        "Tesla",
+        "Elon Musk",
+        "opportunity",
+        "car business"
+      ],
+      "insights": [
+        {
+          "ticker": "TSLA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Tesla has a $10 trillion opportunity that could make it bigger than the largest tech companies, indicating a very positive outlook for the company."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares Tesla's potential to be bigger than Apple, but does not provide any specific information about Apple's outlook."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares Tesla's potential to be bigger than Nvidia, but does not provide any specific information about Nvidia's outlook."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares Tesla's potential to be bigger than Microsoft, but does not provide any specific information about Microsoft's outlook."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares Tesla's potential to be bigger than Amazon, but does not provide any specific information about Amazon's outlook."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares Tesla's potential to be bigger than Alphabet, but does not provide any specific information about Alphabet's outlook."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares Tesla's potential to be bigger than Alphabet, but does not provide any specific information about Alphabet's outlook."
+        }
+      ]
+    },
+    {
+      "id": "d287b2bce28daab265292785b2c58a38ce513c6601e441e377c2ef7951d68402",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Best Stock to Buy Right Now: Nike vs. Apple",
+      "author": "Leo Sun",
+      "published_utc": "2025-02-11T09:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/11/best-stock-to-buy-right-now-nike-vs-apple/?source=iedfolrf0000001",
+      "tickers": [
+        "NKE",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806996/woman-uses-a-tablet.jpg",
+      "description": "Nike's revenue growth has stagnated due to weak digital sales and North American business, while Apple's services ecosystem and cash reserves have helped it weather market challenges. Apple's stock is the better buy despite its higher valuation.",
+      "keywords": [
+        "Nike",
+        "Apple",
+        "smartphone market",
+        "services ecosystem",
+        "cash reserves"
+      ],
+      "insights": [
+        {
+          "ticker": "NKE",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Nike's revenue growth has flatlined, with its direct-to-consumer business struggling and its North American business underperforming. The company faces headwinds from tariff wars and may not be able to meaningfully boost its profits in the near term."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple's diversified revenue streams, including its growing services ecosystem and substantial cash reserves, have helped it weather market challenges better than Nike. The company is expected to continue generating stronger growth than Nike in the coming quarters."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T22:01:53.779042+00:00",
+    "cache_key": "news_8ecae55ec681ecff094fd886192e3cc4",
+    "count": 3
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "id": "98d27b64cf8d61cd3f9a56d23aef8566eec2a214e19c89786a71a4d172c076c5",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "UnitedHealth Group Issued 2025 Guidance Ahead Of Now Stopped Investor Conference",
+      "author": "Vandana Singh",
+      "published_utc": "2024-12-04T15:10:43Z",
+      "article_url": "https://www.benzinga.com/general/health-care/24/12/42317793/unitedhealth-introduces-2025-guidance-ahead-of-now-stopped-investor-conference",
+      "tickers": [
+        "UNH"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2024/12/04/UnitedHealth-UNH.jpeg?width=1200&height=800&fit=crop",
+      "description": "UnitedHealth Group issued its 2025 guidance, expecting sales of $450-$455 billion and net earnings of $28.15-$28.65 per share. However, the company's investor conference had to be stopped abruptly after the CEO of its insurance division was fatally shot in a targeted attack.",
+      "keywords": [
+        "UnitedHealth Group",
+        "2025 guidance",
+        "investor conference",
+        "CEO shooting"
+      ],
+      "insights": [
+        {
+          "ticker": "UNH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article provides a neutral update on UnitedHealth Group's 2025 guidance, which includes positive financial projections, but also mentions the abrupt stoppage of the investor conference due to a tragic incident involving the CEO."
+        }
+      ]
+    }
+  ]
+}

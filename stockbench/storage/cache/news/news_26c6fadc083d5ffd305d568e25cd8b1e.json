@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "US Equities Fall in Muted Trading as Nvidia, Tesla Decline",
+      "description": "US equity benchmarks fell Monday in muted trading with most of the Magnificent Seven tech stocks und",
+      "published_utc": "2025-12-29T16:55:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8ac09a13b2289fb5a2a51b94d979c5fd38f7e95b71d879695dbf8b4ef5af7c7d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137940111,
+      "datetime": 1767045358
+    },
+    {
+      "title": "Tim Cook's Nike Buy, AI Smart Glasses, Court Victory And More: This Week In Appleverse",
+      "description": "As the weekend comes to a close, let’s take a look at some of the most intriguing stories that emerged in the tech and market world. Why Tim Cook’s Buy Is Drawing Market Parallels Tim Cook, the CEO of Apple Inc. (NASDAQ:AAPL), has recently purchased shares of Nike Inc. (NYSE:NKE). This move has drawn parallels with Tesla Inc.‘s (NASDAQ:TSLA) market behavior earlier this year. The purchase coincided with a moment when pessimism appeared fully priced in, signaling a potential market bottom. Read t",
+      "published_utc": "2025-12-29T16:31:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=804347149d51c321563989433f248356cb86b76117ef31bc8c44556d4f05c661",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137940112,
+      "datetime": 1767043884
+    },
+    {
+      "title": "Warren Buffett gifts us 5 secrets for investing success, as he hands off Berkshire’s reins this week",
+      "description": "Three paragraphs in a 1994 letter to Berkshire Hathaway shareholders reveal the top reason for Buffett’s phenomenal winning record.",
+      "published_utc": "2025-12-29T16:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9dec91440d1d3b0fc4450a33a6c116a40d114c83fdf12d05e366e7e7d855540e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137940113,
+      "datetime": 1767043800
+    },
+    {
+      "title": "Alphabet Stock’s 2025 Rebound Has Wall Street Betting on More Gains",
+      "description": "Alphabet stock was the best performer in the Magnificent 7 in 2025, as investors grew more confident in its AI and search strategy.",
+      "published_utc": "2025-12-29T15:31:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=66cd7c710d8e667e0a84e047120cbe46bfbec4c70d6540ad1899b0eb35d953ad",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137940114,
+      "datetime": 1767040260
+    },
+    {
+      "title": "Why One Fund Ditched Viper Energy in a $12 Million Exit Amid a 20% Stock Slide",
+      "description": "Shares of Viper Energy were on a tear through late last year, but the story has since soured for the stock.",
+      "published_utc": "2025-12-29T15:20:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac7309bf36ffbd9d32942bda1a2c290332ac8987e0f5c9914a68ad41e22f5459",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137935039,
+      "datetime": 1767039648
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T09:21:46.065527+00:00",
+    "cache_key": "news_26c6fadc083d5ffd305d568e25cd8b1e",
+    "count": 5
+  }
+}

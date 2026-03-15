@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer Says “I Am Not Going to Call Bottom in ServiceNow”",
+      "description": "ServiceNow, Inc. (NYSE:NOW) is one of the stocks Jim Cramer shared his thoughts on. Noting that the stock is at a one-year low, a caller asked if it is time to buy it, and Cramer replied: “Okay, so ServiceNow, wow. Is it at a one-year low? It is down a hundred bucks. Holy cow. Alright, […]",
+      "published_utc": "2026-01-18T12:48:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3e7c7f96c3da362fb088fed959dc3ff529cf3489e05fe311aca25fadb8812be0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138170808,
+      "datetime": 1768758524
+    },
+    {
+      "title": "'A broadening playbook': Wall Street sees stock market gains beyond tech",
+      "description": "Enthusiasm for artificial intelligence's prospects will continue to drive the market higher in 2026. The gains won't be limited to tech stocks, strategists say.",
+      "published_utc": "2026-01-18T11:05:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2e616c75999f7a8e7bc382595f1bb2b68e6998cf4ba51996cf6da7eff2c469fc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138169921,
+      "datetime": 1768752356
+    },
+    {
+      "title": "‘No reasons to own’: Software stocks sink on fear of new AI tool",
+      "description": "The release of a new artificial intelligence tool from startup Anthropic on Jan. 12 rekindled fears about disruption that weighed on software makers in 2025.  TurboTax owner Intuit Inc. tumbled 16% last week, its worst since 2022, while Adobe Inc. and Salesforce Inc., which makes customer relationship management software, both sank more than 11%.  All told, a group of software-as-a-service stocks tracked by Morgan Stanley is down 15% so far this year, following a drop of 11% in 2025.",
+      "published_utc": "2026-01-18T09:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0ef585122e3d8015aae8f75d43b7a15c6573e6e35d3b3a1af090fce8272f619d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138170810,
+      "datetime": 1768744800
+    },
+    {
+      "title": "Trump in Davos, Netflix and Intel results on deck as earnings season ramps up: What to watch this week",
+      "description": "A holiday-shortened trading week will bring investors the start of tech earnings and a key speech from President Trump in Davos.",
+      "published_utc": "2026-01-18T07:30:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ed434edb1c8f11ebd2d4295d87fd8322cc63d6788c3b4d11d34cc7e40e74fd9c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138177439,
+      "datetime": 1768739446
+    },
+    {
+      "title": "Trump in Davos, Netflix and Intel results on deck as earnings season ramps: What to watch this week",
+      "description": "A holiday-shortened trading week will bring investors the start of tech earnings and a key speech from President Trump in Davos.",
+      "published_utc": "2026-01-18T07:30:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4b5b09cc133a454c7059657148c077d6c88c36424a8cd2d5935f85da2b7d7e53",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138169748,
+      "datetime": 1768739446
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:37:49.722857+00:00",
+    "cache_key": "news_aa7ec637e3f8c10792c11080e4393a9a",
+    "count": 5
+  }
+}

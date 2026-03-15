@@ -1,0 +1,90 @@
+{
+  "items": [
+    {
+      "id": "8f904c614549aaa48a2d10ce2aacaa45a3513f3b24be061e58b146fe0333f4bc",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Amazon's Zoox Plans To Launch Robotaxi Service This Year",
+      "author": "Erica Kollmann",
+      "published_utc": "2025-01-19T17:30:16Z",
+      "article_url": "https://www.benzinga.com/general/travel/25/01/43076598/amazons-zoox-plans-to-launch-robotaxi-service-this-year",
+      "tickers": [
+        "AMZN"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/19/Robotaxi-in-Las-Vegas-on-public-roads.jpeg?width=1200&height=800&fit=crop",
+      "description": "Zoox, a robotaxi company owned by Amazon, plans to launch its autonomous vehicle ride-hailing service in Las Vegas this year, starting with an 'Early Rider Program' in the next few months and opening to the general public later in 2025.",
+      "keywords": [
+        "robotaxi",
+        "autonomous vehicle",
+        "ride-hailing service",
+        "Zoox",
+        "Amazon"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon acquired Zoox in 2020, indicating their interest and investment in the robotaxi technology and service."
+        }
+      ]
+    },
+    {
+      "id": "9e4c36fddb41dc10a2b82d06fe8ffa49fb6d3cb33faa98d70c16765cd2ec0acd",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Prediction: This Top Artificial Intelligence (AI) Stock Will Join the $3 Trillion Club in 2026",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-19T11:11:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/19/prediction-this-top-artificial-intelligence-ai-sto/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "AAPL",
+        "NVDA",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804359/amazon-locker.jpg",
+      "description": "The article predicts that Amazon (AMZN) could reach a $3 trillion market cap by 2026, driven by its strong position in e-commerce and cloud computing, as well as its growing AI capabilities.",
+      "keywords": [
+        "Amazon",
+        "AI",
+        "e-commerce",
+        "cloud computing"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Amazon is well-positioned to continue its growth in e-commerce and cloud computing, and its investments in AI could further boost its market cap to reach $3 trillion by 2026."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Apple is one of the three $3 trillion companies, indicating its strong performance in the AI and technology sector."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article also lists Nvidia as one of the $3 trillion companies, highlighting its success in the AI and technology industry."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is mentioned as the third $3 trillion company, demonstrating its dominance in the technology and AI space."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:57:32.937216+00:00",
+    "cache_key": "news_a1be9c7149dc9f9dc0ce31031e495edb",
+    "count": 2
+  }
+}

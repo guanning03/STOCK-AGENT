@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "id": "1fca54b2155f86da904cdbdc7ca8946cffd9c28835122b7d362e9466312b0e26",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "This Warren Buffett Favorite Was 1 of the Top 5 Buys of the Year. Here's How It Could Make You a Millionaire.",
+      "author": "Adria Cimino",
+      "published_utc": "2024-12-31T10:15:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/31/this-buffett-favorite-1-of-top-2024-buys/?source=iedfolrf0000001",
+      "tickers": [
+        "SPY"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802214/buffett11-tmf.jpg",
+      "description": "The article discusses the SPDR S&P 500 ETF Trust (SPY), a favorite investment of Warren Buffett and retail investors, and how it could potentially make an investor a millionaire through regular, long-term investment.",
+      "keywords": [
+        "Warren Buffett",
+        "SPDR S&P 500 ETF Trust",
+        "S&P 500",
+        "index fund",
+        "millionaire",
+        "investing"
+      ],
+      "insights": [
+        {
+          "ticker": "SPY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the SPDR S&P 500 ETF Trust as a favorite investment of Warren Buffett and retail investors, and explains how it could potentially make an investor a millionaire through regular, long-term investment in the fund."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": "76d49a80acc6333f9ec5e0dce64f6b129acf834f2bb750558881ef2bb57fabda",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Eli Lilly Just Got a Bundle of Good News: Time to Buy?",
+      "author": "Prosper Junior Bakiny",
+      "published_utc": "2024-12-04T12:10:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/04/eli-lilly-just-got-multiple-good-news-time-to-buy/?source=iedfolrf0000001",
+      "tickers": [
+        "LLY",
+        "AMGN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799379/physician-talking-to-patient.jpg",
+      "description": "Eli Lilly's weight loss drug Zepbound remains dominant in the market, with a potential competitor Amgen's MariTide failing to meet expectations in clinical trials. The article also discusses Eli Lilly's strong pipeline and the potential for Medicare and Medicaid coverage of weight loss drugs, which could further boost Eli Lilly's sales.",
+      "keywords": [
+        "Eli Lilly",
+        "Amgen",
+        "weight loss",
+        "Zepbound",
+        "MariTide",
+        "Medicare",
+        "Medicaid"
+      ],
+      "insights": [
+        {
+          "ticker": "LLY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Eli Lilly's dominance in the weight loss market with its drug Zepbound, its strong pipeline of drugs, and the potential for increased sales due to Medicare and Medicaid coverage of weight loss drugs."
+        },
+        {
+          "ticker": "AMGN",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article reports that Amgen's weight loss drug candidate MariTide did not meet expectations in clinical trials, suggesting it will have difficulty challenging Eli Lilly and Novo Nordisk in the weight loss market."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T18:53:51.184862+00:00",
+    "cache_key": "news_84235143372e58ee3db24fb227e11880",
+    "count": 1
+  }
+}

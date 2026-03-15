@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "How a European Quantum-Computing Start-Up Plans to Take on IBM and Google",
+      "description": "IQM raised more than $300 million in a recent funding round, bringing the total raised to $600 million.",
+      "published_utc": "2025-09-14T03:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=66cfc999d18be088ba8571f7bfc5af4bae9ff1982aca4e86b7c136ed124212fd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136741612,
+      "datetime": 1757833200
+    }
+  ]
+}

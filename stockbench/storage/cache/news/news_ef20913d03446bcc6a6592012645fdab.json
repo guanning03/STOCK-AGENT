@@ -1,0 +1,116 @@
+{
+  "items": [
+    {
+      "title": "Are private assets the answer to retirement savings shortfalls?",
+      "description": "More than 4 in 10 Gen Z, millennial, and Gen X workers say they’re living paycheck to paycheck and skimping on retirement savings, according to a new Goldman Sachs Asset Management report. It offers some solutions.",
+      "published_utc": "2025-10-04T10:45:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5bbd020011ec7b6dbdf3a6dde0618fbe2ac8649daddafc41fc092181bf0ecf63",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136973335,
+      "datetime": 1759589107
+    },
+    {
+      "title": "How the Narrative Around First Solar Is Evolving After Recent Analyst and Policy Shifts",
+      "description": "First Solar stock has recently seen its consensus analyst price target rise modestly, climbing from $220.16 to $224.13. This uptick comes as Wall Street sentiment shifts in response to new growth drivers and changing policy landscapes. Read on to discover what is fueling this narrative change and how you can stay informed as the story continues to unfold. What Wall Street Has Been Saying Recent analyst commentary on First Solar reflects a noticeable shift toward a more constructive long-term...",
+      "published_utc": "2025-10-04T10:19:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=88ce96c93d7106613b2e7ba6f2c43fa770c7392f43073153f55c0aeb34f7f2d5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136980748,
+      "datetime": 1759587558
+    },
+    {
+      "title": "How Investors Are Reacting To VNET Group (VNET) After Goldman Sachs' APAC Conviction List Upgrade",
+      "description": "Goldman Sachs recently added VNET Group to its APAC Conviction List, highlighting expectations for increased new order volumes that could bolster the company's capital expenditures and EBITDA outlook. The stock has also shown unusually active options trading with a surge in bullish call volume, reflecting strong investor optimism following the analyst upgrade announcement. We'll examine how being named to Goldman Sachs' APAC Conviction List may influence VNET's growth expectations and...",
+      "published_utc": "2025-10-04T09:58:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=236cf6a311955c544a215856c6a2334026e7decac06228b1812a8d35ee478811",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136980749,
+      "datetime": 1759586284
+    },
+    {
+      "id": "a720134f0d3510be744684febbab2eb129eb39984a6d2cbc2e8845bbb13872bb",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "ThinkCareBelieve: Week 37 America Isn’t Stopping",
+      "author": "Thinkcarebelieve",
+      "published_utc": "2025-10-04T21:10:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/10/04/3161304/0/en/ThinkCareBelieve-Week-37-America-Isn-t-Stopping.html",
+      "tickers": [
+        "PFE",
+        "NFLX",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/353cfcaf-e50d-4ea8-b709-7f9ab2de465f",
+      "description": "President Trump signed an Executive Order on AI for childhood cancer research, launched TrumpRx for prescription drug pricing, addressed military leadership, and made progress on Middle East peace negotiations while maintaining strong economic performance.",
+      "keywords": [
+        "Trump Administration",
+        "AI",
+        "Healthcare",
+        "Middle East Peace",
+        "Prescription Drugs"
+      ],
+      "insights": [
+        {
+          "ticker": "PFE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Potential for 50% drug price reductions and expanded Medicaid access through TrumpRx program"
+        },
+        {
+          "ticker": "NFLX",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Lost $25 billion in market value due to content controversies"
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "CEO David Solomon described economy as 'in pretty good shape' with expectations for 2026 acceleration"
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "CEO David Solomon described economy as 'in pretty good shape' with expectations for 2026 acceleration"
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "CEO David Solomon described economy as 'in pretty good shape' with expectations for 2026 acceleration"
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "CEO David Solomon described economy as 'in pretty good shape' with expectations for 2026 acceleration"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T04:47:21.077100+00:00",
+    "cache_key": "news_ef20913d03446bcc6a6592012645fdab",
+    "count": 4
+  }
+}

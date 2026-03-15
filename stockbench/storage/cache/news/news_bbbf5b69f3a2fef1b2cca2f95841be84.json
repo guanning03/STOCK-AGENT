@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "id": "2c79c8f24a6bf7ce78d40c9d6693cb7147a12a9b2c4aadf6992d4604323f5927",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Hydrodesulfurization Catalysts Market to Reach USD 4.20 Billion by 2032 with a CAGR of 4.20% | Report by SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-01-25T14:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/25/3015201/0/en/Hydrodesulfurization-Catalysts-Market-to-Reach-USD-4-20-Billion-by-2032-with-a-CAGR-of-4-20-Report-by-SNS-Insider.html",
+      "tickers": [
+        "ALB",
+        "ALBpA",
+        "HON"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The Hydrodesulfurization Catalysts market is expected to grow to $4.20 billion by 2032, driven by stringent environmental regulations and advancements in catalyst technology. Key players in the market include Albemarle, Axens, and Honeywell.",
+      "keywords": [
+        "Hydrodesulfurization Catalysts",
+        "Environmental Regulations",
+        "Catalyst Technology"
+      ],
+      "insights": [
+        {
+          "ticker": "ALB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Albemarle is mentioned as a key player in the Hydrodesulfurization Catalysts market, indicating its strong presence and technological capabilities in the industry."
+        },
+        {
+          "ticker": "ALBpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Albemarle is mentioned as a key player in the Hydrodesulfurization Catalysts market, indicating its strong presence and technological capabilities in the industry."
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Honeywell is mentioned as a key player in the Hydrodesulfurization Catalysts market, indicating its strong presence and technological capabilities in the industry."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:15:30.189623+00:00",
+    "cache_key": "news_bbbf5b69f3a2fef1b2cca2f95841be84",
+    "count": 1
+  }
+}

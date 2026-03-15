@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Travelers Cos. Inc. stock underperforms Monday when compared to competitors despite daily gains",
+      "description": "Travelers Cos. Inc. stock underperforms Monday when compared to competitors despite daily gains",
+      "published_utc": "2025-03-31T12:45:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=6737b9a60815ff887536d63eff102c353b0c76e4f5928a9f2e52b2a99b56cb76",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133642026,
+      "datetime": 1743439500
+    },
+    {
+      "title": "Travelers Announces 2025 Personal Insurance Agent of the Year Award Honorees",
+      "description": "HARTFORD, Conn., March 31, 2025--The Travelers Companies, Inc. (NYSE: TRV) today announced the 2025 Agent of the Year Award honorees, recognizing a select group of Personal Insurance independent agents for their outstanding customer service, dedication to their communities, long-term profitable growth and commitment to Travelers. Recipients were recently recognized at the Travelers annual leadership conference for top independent agents and brokers.",
+      "published_utc": "2025-03-31T09:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ece651931ca8016c14dc55191a55a0afc46aaf06361f53d6b2dc5200c6d25145",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133627976,
+      "datetime": 1743426000
+    },
+    {
       "title": "Procter & Gamble, Johnson & Johnson Among 10 Companies To Announce Dividend Increases In First Half Of April",
       "description": "Discover predictions for upcoming dividend increases from top companies with long-term growth. Learn which stocks to watch this April.",
       "published_utc": "2025-03-31T01:52:13",

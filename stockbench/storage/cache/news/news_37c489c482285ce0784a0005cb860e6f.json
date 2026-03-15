@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "More Great News for IBM Heading Into 2026. Is It a Buy Now?",
+      "description": "Long-term investors should focus on companies with robust financials and exposure to evolving technologies.",
+      "published_utc": "2025-11-01T10:53:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=53b6568ac410b1f9bc9d38d60c6e70d3fa91ec74e18c0105d52d28bb6bf224a9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137294596,
+      "datetime": 1762008780
+    },
+    {
+      "title": "Best Dividend Aristocrats For November 2025",
+      "description": "Discover why select S&P 500 Dividend Aristocrats may outperform in 2025. Explore top picks and growth insights.",
+      "published_utc": "2025-11-01T06:25:22",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=01a6605dd3fa2ffc13d7d145ac3b53189f3886bb1a8c3445329f48d86c0c75e8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2235939814/image_2235939814.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137286630,
+      "datetime": 1761992722
+    },
+    {
+      "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of November 2",
+      "description": "Get the latest weekly dividend summary for Dividend Champions, Contenders, and Challengers. See changes, upcoming ex-dividend and pay dates.",
+      "published_utc": "2025-10-31T21:21:19",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ec0d276a80e08ab952f7328fbf288cfd9113664130a413a009485abe884e7623",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1072593728/image_1072593728.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137284734,
+      "datetime": 1761960079
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:17:14.841593+00:00",
+    "cache_key": "news_37c489c482285ce0784a0005cb860e6f",
+    "count": 3
+  }
+}

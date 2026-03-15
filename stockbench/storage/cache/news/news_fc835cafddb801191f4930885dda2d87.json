@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Nestlé fired its scandal-clad CEO without a payout—a ‘really unusual’ move, corporate governance expert says",
+      "description": "High-profile executives usually get a “golden parachute,” even after serious misconduct violations.",
+      "published_utc": "2025-09-02T18:18:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=48d7d2d5cbc83b3d49d81d85b8593e3a8315ee59f39518edf3a796926e3215e5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136613029,
+      "datetime": 1756851526
+    },
+    {
+      "title": "McDonald's CEO warns of 'a two-tier economy' as lower-income consumers spend less",
+      "description": "McDonald’s is expanding its value meal menu.",
+      "published_utc": "2025-09-02T18:00:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cc3702ceda27b10484b817c6dedeec90827e80f02261773b3424d47e4968ad85",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136613030,
+      "datetime": 1756850440
+    },
+    {
+      "title": "McDonald's revives Extra Value Meals to woo budget-conscious diners",
+      "description": "McDonald's is expanding its value menu as low-income customers dial back their spending on fast food. Here's when the new prices kick in.",
+      "published_utc": "2025-09-02T16:04:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4e6735103e1fa289a84329434a851317544e4fcb6d400c675ff7f80c0865d11c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136613032,
+      "datetime": 1756843446
+    },
+    {
+      "title": "Down 65% in 2025, Should You Buy the Dip in Krispy Kreme Stock?",
+      "description": "Krispy Kreme caught a quick rush of meme stock fire, but the hype has already burned out.",
+      "published_utc": "2025-09-02T15:59:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ebd745d294afffd3fed2a93ce1e52eb522a78b51615a5b365eb25b55265d24cb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136610776,
+      "datetime": 1756843152
+    },
+    {
+      "title": "Walmart, McDonald’s Are New Goldman Picks. It’s a Bet on a Weak Economy.",
+      "description": "The investment bank also added Valero Energy and Cadence Design Systems to its list of favorite stocks.",
+      "published_utc": "2025-09-02T15:24:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=37403218961fc3bfa4894f059d5493067bd017801886d9dfe210259b8b6b96b7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136612904,
+      "datetime": 1756841040
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:07:52.478691+00:00",
+    "cache_key": "news_fc835cafddb801191f4930885dda2d87",
+    "count": 5
+  }
+}

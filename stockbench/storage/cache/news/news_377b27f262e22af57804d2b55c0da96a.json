@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Are Wall Street Analysts Predicting Caterpillar Stock Will Climb or Sink?",
+      "description": "Though Caterpillar has outperformed relative to the broader market over the past year, Wall Street analysts maintain a cautiously optimistic outlook on the stock’s prospects.",
+      "published_utc": "2026-02-10T13:28:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fb26ab93d3f421848ea58e1f20f61481792e472463963c83c0d8bb745a9d722b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139036313,
+      "datetime": 1770748082
+    },
+    {
+      "title": "Dow is little changed as investor enthusiasm for better-than-expected jobs data wanes: Live updates",
+      "description": "Traders reacted to the release of the delayed January jobs report, which showed a gain of 130,000 on the month.",
+      "published_utc": "2026-02-10T13:06:19",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=b69bb4de8e35fa00ac8f50fff6ad474df0bf1fbf594e15cd15f91e2ca7e0f232",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108263316-1770651373944-gettyimages-2260713972-anotherday180750644_b6sik0m0.jpeg?v=1770651987&w=1920&h=1080",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139045952,
+      "datetime": 1770746779
+    },
+    {
+      "title": "Sell The \"Dead Cat\" Bounce, The Bear Market Risks Are Rising",
+      "description": "Hedge funds ramp up short bets on tech as the AI bubble deflates and weak economic data threatens rotation trades. Click here to know more.",
+      "published_utc": "2026-02-10T12:40:29",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3f341d6b03cdf49091fdc899acf5b7a0e99e0a88075accd15d550f5d1de4ac3e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2209012385/image_2209012385.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139037027,
+      "datetime": 1770745229
+    },
+    {
+      "title": "Argentina Construction Equipment Market Research Report 2026-2031: Caterpillar, SANY, XCMG, John Deere, and Bobcat Lead, Komatsu, JCB, CNH, Hyundai, LOVOL and Volvo Challenge for Market Share",
+      "description": "The Argentina construction equipment market is set to grow from 9,240 units in 2025 to 12,141 units by 2031, at a CAGR of 4.66%. Material Handling equipment leads, especially Forklifts/Telescopic Handlers, due to increased import reliance. Earthmoving equipment demand, driven by real estate recovery and mining expansion, is significant, particularly for lithium and copper extraction. The road construction sector, boosted by the Federal Concession Network and National Road Network Plan, is expect",
+      "published_utc": "2026-02-10T06:51:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=45266f045521a0cfe245faa8f296e244481a4bac567cea3778cd049d29217945",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139028392,
+      "datetime": 1770724260
+    },
+    {
+      "title": "Spain Construction Equipment Industry Report 2025-2030 Featuring Prominent Vendors - Caterpillar, Komatsu, Volvo, Hitachi, Liebherr, SANY, XCMG, JCB, Kobelco, Zoomlion, Hyundai",
+      "description": "The Spain Construction Equipment Market is anticipated to grow from 26,800 units in 2024 to 34,966 units by 2030, with a CAGR of 4.53%. Tariffs on non-EU imports like machinery from China and Japan are raising equipment costs by 5-10%, boosting demand for local and refurbished options. Earthmoving equipment led the market in 2024, spurred by infrastructure investment. Port expansions and logistics developments drive material handling equipment demand. Investment in renewable energy projects is i",
+      "published_utc": "2026-02-10T05:41:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9cad03737a031c5beafb94388ccfdb41a8f1407c0a279a93473bad654d09003b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139028393,
+      "datetime": 1770720060
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:54:32.783930+00:00",
+    "cache_key": "news_377b27f262e22af57804d2b55c0da96a",
+    "count": 5
+  }
+}

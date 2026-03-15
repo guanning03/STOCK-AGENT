@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Dividend Growth Investing Is Breaking",
+      "description": "Dividend yields are rising, but the real danger is lurking beneath the surface. Read the full analysis here.",
+      "published_utc": "2026-01-06T02:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a307a4b8cea510f6bf09e0786a025d35bb762c55e31f19190383355033eaa060",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2166443569/image_2166443569.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137999186,
+      "datetime": 1767683100
+    },
+    {
+      "title": "P&G mum on possible return to Venezuela",
+      "description": "President Trump's talk of American companies in Venezuela comes after P&G and others pulled out",
+      "published_utc": "2026-01-06T00:30:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7357efeb6f84ceaf7071f7d4da034f377d0b39cdc8ed7d235bed5bbbf8abb9b6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137997742,
+      "datetime": 1767677436
+    }
+  ]
+}

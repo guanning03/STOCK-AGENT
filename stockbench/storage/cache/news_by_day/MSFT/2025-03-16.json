@@ -1,6 +1,344 @@
 {
   "items": [
     {
+      "id": "0c9d43bad1a9b97d9be295884ad764b01c159813069e0003dd6d9f8b0978cffb",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Can This Unstoppable Stock Join Apple, Microsoft, Nvidia, Amazon, Alphabet, and Meta Platforms in the $1 Trillion Club by 2035?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-16T22:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/16/unstoppable-stock-apple-nvidia-meta-trillion-2035/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "MSFT",
+        "NVDA",
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "META",
+        "NFLX"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/811090/right-hand-remote-pointed-at-tv.jpg",
+      "description": "The article discusses the potential for Netflix to join the elite group of trillion-dollar companies by 2035, given its impressive growth trajectory and market dominance in the streaming industry.",
+      "keywords": [
+        "Netflix",
+        "trillion-dollar companies",
+        "streaming industry",
+        "growth"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple is mentioned as one of the existing trillion-dollar companies, indicating its strong market position."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is mentioned as one of the existing trillion-dollar companies, indicating its strong market position."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia is mentioned as one of the existing trillion-dollar companies, indicating its strong market position."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon is mentioned as one of the existing trillion-dollar companies, indicating its strong market position."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet is mentioned as one of the existing trillion-dollar companies, indicating its strong market position."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet is mentioned as one of the existing trillion-dollar companies, indicating its strong market position."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Meta Platforms is mentioned as one of the existing trillion-dollar companies, indicating its strong market position."
+        },
+        {
+          "ticker": "NFLX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article discusses the potential for Netflix to join the trillion-dollar club, citing its impressive growth, market dominance, and profitability."
+        }
+      ]
+    },
+    {
+      "id": "c3130c5967e56b9521bb703fe5dbbbb966a7975d2e5eeb1d9df3ffa874e2fbd1",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Reasons This Beaten-Down \"Magnificent Seven\" Stock Is a Bargain Buy Right Now",
+      "author": "Stefon Walters",
+      "published_utc": "2025-03-16T22:26:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/16/3-reasons-this-beaten-down-magnificent-seven-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/811027/goog.jpg",
+      "description": "Alphabet, the parent company of Google, is a promising investment opportunity despite the recent market sell-off. The company has a strong portfolio of businesses, a fast-growing cloud computing segment, and an attractive valuation compared to its historical averages.",
+      "keywords": [
+        "Alphabet",
+        "Google",
+        "Cloud Computing",
+        "Valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet has a diverse portfolio of successful businesses, a rapidly growing cloud computing segment, and a favorable valuation compared to its historical averages, making it an attractive investment opportunity."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet has a diverse portfolio of successful businesses, a rapidly growing cloud computing segment, and a favorable valuation compared to its historical averages, making it an attractive investment opportunity."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Azure is the second-largest cloud computing platform, with a 21% market share, but Alphabet's Google Cloud is also growing and has room to capture more market share."
+        }
+      ]
+    },
+    {
+      "id": "1e79ff8650a1f51b1b22faaf285b31d08a343f5ac71e9c2b4b02ba410b864ed7",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Consumer Tech News (Mar 10-Mar 14): Manus AI Creating Hype, Tesla Eyes Affordable Version Model Y In China & More",
+      "author": "Lekha Gupta",
+      "published_utc": "2025-03-16T15:38:04Z",
+      "article_url": "https://www.benzinga.com/news/large-cap/25/03/44347886/consumer-tech-news-mar-10-mar-14-manus-ai-creating-hype-tesla-eyes-affordable-version-model-y-in-c",
+      "tickers": [
+        "AAPL",
+        "AMZN",
+        "BABA",
+        "BLNK",
+        "GOOG",
+        "GOOGL",
+        "META",
+        "MSFT",
+        "NTDOY",
+        "NVDA",
+        "RBRK",
+        "S",
+        "TSLA",
+        "PATH"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/03/16/Tesla-Opens-Hiring-In-India-In-Likely-Hi.jpeg?width=1200&height=800&fit=crop",
+      "description": "The article discusses various developments in the consumer tech industry, including concerns about the impact of tariffs on U.S. automakers, Tesla's plans for an affordable Model Y in China, and the hype surrounding the Manus AI platform.",
+      "keywords": [
+        "consumer tech",
+        "automotive industry",
+        "Tesla",
+        "Manus AI",
+        "tariffs"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Apple is preparing for a major software overhaul with iOS 19, which is expected to transform the iPhone's interface."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that the Federal Trade Commission requested a delay in its trial against Amazon, citing resource constraints due to recent cuts by the Department of Government Efficiency."
+        },
+        {
+          "ticker": "BABA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Manus AI has partnered with Alibaba's Qwen team to develop a localized version of the AI platform for Chinese users."
+        },
+        {
+          "ticker": "BLNK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article reports that Blink Charging's fourth-quarter revenue missed the analyst consensus estimate, while its losses per share beat the consensus."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Google is considering a $115 million acquisition of eye-tracking startup AdHawk Microsystems."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Google is considering a $115 million acquisition of eye-tracking startup AdHawk Microsystems."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that U.S. President Donald Trump has indicated that Meta Platforms could invest up to $60 billion in the United States by the end of the year."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article reports that NVIDIA has teamed up with Microsoft to introduce neural shading support in the Microsoft DirectX preview for April."
+        },
+        {
+          "ticker": "NTDOY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Nintendo went all out for MAR10 Day this year, unveiling a packed celebration with game discounts, travel sweepstakes, and more."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article reports that NVIDIA has teamed up with Microsoft to introduce neural shading support in the Microsoft DirectX preview for April."
+        },
+        {
+          "ticker": "RBRK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Rubrik reported fourth-quarter revenue that beat the analyst consensus estimate, and its losses per share also beat the consensus."
+        },
+        {
+          "ticker": "S",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article reports that SentinelOne reported fourth-quarter revenue and adjusted earnings that beat the analyst consensus estimates."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Tesla is eyeing the production of an affordable version of its popular Model Y in Shanghai, with plans to commercialize it in 2026."
+        },
+        {
+          "ticker": "PATH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article reports that UiPath's fourth-quarter revenue missed the analyst consensus estimate, while its earnings per share beat the consensus."
+        }
+      ]
+    },
+    {
+      "id": "58c14b8f3e5e9f5b0b3687607f7a7bdf2766d5e53a67c1613949a9f3603fba1a",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Here's How Nvidia's Incredible AI Success Could Lead to Its Undoing",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-16T14:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/16/heres-how-nvidias-incredible-ai-success-could-lead/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "META",
+        "MSFT",
+        "AMZN",
+        "GOOG",
+        "GOOGL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/811271/gettyimages-1486228398.jpg",
+      "description": "Nvidia's proprietary CUDA software platform has been a key driver of its AI accelerator dominance. However, as the market for AI chips explodes, large customers are now designing their own AI chips to break free from CUDA, posing a threat to Nvidia's market share and pricing power.",
+      "keywords": [
+        "Nvidia",
+        "CUDA",
+        "AI chips",
+        "custom AI chips",
+        "data center GPUs"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that Nvidia's dominance in the AI accelerator market is under threat as large customers, such as Meta, Microsoft, and OpenAI, are designing their own custom AI chips to reduce their dependence on Nvidia's pricey GPUs. This could lead to a decline in Nvidia's market share and pressure on its pricing and margins."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Meta (formerly Facebook) is reportedly testing a custom AI chip aimed at AI training workloads, which could help the company save billions by cutting out Nvidia and designing its own AI hardware and software stack."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Microsoft, along with other tech giants and AI companies, is spending billions or even tens of billions of dollars each year on Nvidia's GPUs as they race to meet the demand for AI computing capacity. This suggests that Microsoft is a major customer of Nvidia's AI accelerators."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Amazon has already created multiple generations of custom AI chips, indicating that the company is taking steps to reduce its reliance on Nvidia's AI accelerators."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Similar to Amazon, the article notes that Alphabet (Google's parent company) has also created multiple generations of custom AI chips, suggesting that the company is pursuing a similar strategy to reduce its dependence on Nvidia's AI hardware."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Similar to Amazon, the article notes that Alphabet (Google's parent company) has also created multiple generations of custom AI chips, suggesting that the company is pursuing a similar strategy to reduce its dependence on Nvidia's AI hardware."
+        }
+      ]
+    },
+    {
+      "id": "af25c851bb032752cf1514fc4681b35bf07185690999c6db33fd61cb107af50e",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "This Nvidia-Backed AI Start-Up Just Filed for an IPO. Should You Buy The Stock?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-16T14:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/16/nvidia-backed-ai-start-up-just-filed-for-an-ipo/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "MSFT",
+        "GOOG",
+        "GOOGL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/810691/ai.jpg",
+      "description": "CoreWeave, an AI cloud start-up, has filed for an IPO, marking the first generative AI stock to hit the public markets. The company has positioned itself as an AI-focused cloud hyperscaler, competing with tech giants like Amazon, Microsoft, and Google. However, the article cautions that CoreWeave's high debt, capital-intensive business model, and concentration on a single customer (Microsoft) pose significant risks for investors.",
+      "keywords": [
+        "IPO",
+        "AI",
+        "cloud computing",
+        "CoreWeave",
+        "Nvidia"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia is mentioned as a company that has invested $100 million in CoreWeave, indicating a positive sentiment towards the chipmaker's involvement in the AI cloud computing space."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Microsoft is mentioned as a major customer of CoreWeave, accounting for 62% of the company's revenue in 2024. However, the article also notes that Microsoft runs its own competing cloud computing business, which could potentially impact CoreWeave's revenue growth."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Google Cloud is mentioned as a competitor to CoreWeave in the AI cloud computing market, but no specific sentiment is expressed towards the company."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Google Cloud is mentioned as a competitor to CoreWeave in the AI cloud computing market, but no specific sentiment is expressed towards the company."
+        }
+      ]
+    },
+    {
       "title": "1 Super Stock That Could Join Nvidia, Apple, Microsoft, Alphabet, Amazon, and Meta in the $1 Trillion Club",
       "description": "The U.S. economy has produced the world's most valuable companies for more than a century.  United States Steel became the first $1 billion company in 1901, and 117 years later in 2018, Apple became the first enterprise to achieve a valuation of $1 trillion.  Apple remains the world's largest company with a market capitalization of $3.3 trillion.",
       "published_utc": "2025-03-16T06:28:00",

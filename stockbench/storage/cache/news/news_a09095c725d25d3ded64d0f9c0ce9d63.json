@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Heard on the Street Recap: Central Bank Shot",
+      "description": "What Happened in Markets Today Stocks shrug off latest Powell threat. Major U.S. stock indexes posted some mild gains Monday despite earlier pressure following news that the Trump administration has launched a criminal investigation into Federal Reserve Chairman Jerome Powell.",
+      "published_utc": "2026-01-12T18:30:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c930f6dc5c702d5af8d1704466f4ae2e67fd4e2986fb174c65817ea4980e0d46",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138083005,
+      "datetime": 1768260602
+    },
+    {
+      "title": "Stock Market Today, Jan. 12: Markets Dip on DOJ Powell Probe, Rebound With Alphabet",
+      "description": "On Jan. 12, 2026, Alphabet’s $4 trillion milestone helped the market recover from volatility surrounding the DOJ's investigation into Fed chair Powell, and a potential interest rate \"cap\" for credit cards.",
+      "published_utc": "2026-01-12T18:14:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6c5c1937c443633d31b5e69f806970ee13c3db7c4053d0ef2473992c84c215dd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138083302,
+      "datetime": 1768259695
+    },
+    {
+      "title": "American Express (AXP) Stock Drops Despite Market Gains: Important Facts to Note",
+      "description": "American Express (AXP) closed at $359.59 in the latest trading session, marking a -4.27% move from the prior day.",
+      "published_utc": "2026-01-12T17:50:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=45a683f784e6a593dc199f6e0077af6dc8c6b6657c11a2b7e12d0fa4c48b5a49",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138083366,
+      "datetime": 1768258205
+    },
+    {
+      "title": "US Equity Indexes Rise, Gold Hits New Record, Dollar Slips After Justice Department Unveils Fed Probe",
+      "description": "US equity indexes rose on Monday, while precious metals hit new peaks, and the dollar weakened, afte",
+      "published_utc": "2026-01-12T17:20:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=30dcd0ecf144a0f17e0e5c446a3c7d3a7789896ddc71fc4c823e19054fcd99ae",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138083164,
+      "datetime": 1768256402
+    },
+    {
+      "title": "S&P 500, Dow Clinch New Peaks as Traders Shrug Off Fed Independence Concerns",
+      "description": "The S&P 500 and the Dow Jones Industrial Average notched fresh highs on Monday as traders appeared t",
+      "published_utc": "2026-01-12T16:41:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6dfb99f1ee5e0661728a871eb187520b922556fb5c85f8ac14cba3eb4569badf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138083189,
+      "datetime": 1768254112
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:23:25.865971+00:00",
+    "cache_key": "news_a09095c725d25d3ded64d0f9c0ce9d63",
+    "count": 5
+  }
+}

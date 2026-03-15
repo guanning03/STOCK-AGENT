@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "US FTC finalizes consent order in Boeing acquisition of Spirit AeroSystems",
+      "description": "WASHINGTON, Feb ‌17 () - ‌The U. ​Federal Trade Commission ‌on ⁠Tuesday said ⁠it ​finalized ​a ​consent ‌order involving Boeing's acquisition ‌of ​Spirit ​AeroSystems.",
+      "published_utc": "2026-02-17T17:01:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a5bf6984cd68cdbd099c6050452c684a530745f32a2c660490a9f83bc1ba5c30",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139127345,
+      "datetime": 1771365714
+    },
+    {
+      "title": "FTC Finalizes Consent Order in Boeing, Spirit Acquisition",
+      "description": "https://www.ftc.gov/news-events/news/press-releases/2026/02/ftc-finalizes-consent-order-boeing-spirit-acquisition",
+      "published_utc": "2026-02-17T12:54:43",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=4057df81c1e5b72d47eff535cc447868e4c544bd65172f223107ac3d5b985c2b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139135436,
+      "datetime": 1771350883
+    },
+    {
+      "title": "Leidos Holdings Q4 Earnings Beat Estimates, Revenues Decline Y/Y",
+      "description": "LDOS tops Q4 earnings estimates as profits rise, but revenues slip amid a government shutdown and miss consensus forecasts.",
+      "published_utc": "2026-02-17T10:57:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dc1fc687b422c10a1206a18f587befd7690dff5e975d45c3cd6939e79da6b584",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139125100,
+      "datetime": 1771343820
+    },
+    {
+      "title": "How Jet Engines Are Powering Data Centers",
+      "description": "Companies are converting aircraft engines to land-based natural gas turbines for power generation in the AI boom.",
+      "published_utc": "2026-02-17T05:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0d5c7ad1b45cfb79ff457cb3fb342816ed28b94da2f57ce469efa4fcc1a02552",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139121277,
+      "datetime": 1771324200
+    },
+    {
+      "title": "United Airlines Picks GE Engines To Power New Boeing 787 Dreamliners",
+      "description": "United Airlines (NASDAQ: UAL) selects GE Aerospace (NYSE: GE) for 300 GEnx engines to power new Boeing 787 Dreamliners.",
+      "published_utc": "2026-02-17T00:34:59",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=77b98512e1e93624bddff99466faf691ad9559f7c42b11cafea4c0e9e6083d9e",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/02/17/Tail-Section-Of-United-Airlines-Boeing-C.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139121907,
+      "datetime": 1771306499
+    }
+  ]
+}

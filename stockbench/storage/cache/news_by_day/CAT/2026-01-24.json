@@ -1,0 +1,113 @@
+{
+  "items": [
+    {
+      "id": "022e317c0068ec3933aa3b5e889d0bd7978d3437f024b13a7017cf60c9888e4b",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "DIA vs. IWM: DIA Combines Higher Yield With Lower Cost, While IWM Offers Greater Diversification",
+      "author": "Jake Lerch",
+      "published_utc": "2026-01-24T22:28:02Z",
+      "article_url": "https://www.fool.com/coverage/etfs/2026/01/24/dia-vs-iwm-dia-combines-higher-yield-with-lower-cost-while-iwm-offers-greater-diversification/?source=iedfolrf0000001",
+      "tickers": [
+        "DIA",
+        "IWM",
+        "MSFT",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD",
+        "CAT"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Ff2894ef3e59a57033e3d12497757ed4ec0c197b2-1401x1251.png%3Fw%3D1401%26h%3D1251&w=1200&op=resize",
+      "description": "DIA tracks 30 blue-chip stocks with lower costs, higher dividend yield, and less volatility, while IWM provides broader diversification across 1,954 small-cap stocks. DIA showed stronger 5-year returns and risk-adjusted metrics, but IWM delivered higher 1-year returns. The choice depends on investor preference for stability versus diversification.",
+      "keywords": [
+        "ETF comparison",
+        "DIA",
+        "IWM",
+        "blue-chip stocks",
+        "small-cap stocks",
+        "dividend yield",
+        "expense ratio",
+        "volatility",
+        "diversification",
+        "index tracking"
+      ],
+      "insights": [
+        {
+          "ticker": "DIA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "DIA is presented favorably with lower expense ratio (0.16%), higher dividend yield (1.4%), lower volatility (beta 0.91), better 5-year returns ($1,749 vs $1,341), and smaller max drawdown (-20.76% vs -31.91%). The article suggests it appeals to investors seeking stability and established companies."
+        },
+        {
+          "ticker": "IWM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "IWM is presented as a viable alternative with strengths in diversification (1,954 holdings) and higher 1-year returns (20.0% vs 18.1%), but with higher volatility (beta 1.13) and larger drawdowns. It appeals to investors prioritizing broad small-cap exposure over stability."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a top holding in DIA (3.28% position). Neutral mention as it's simply identified as a major constituent without specific performance commentary."
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed as the largest position in DIA (3.75%). Neutral mention as it's identified as a major holding without specific performance evaluation."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed as the largest position in DIA (3.75%). Neutral mention as it's identified as a major holding without specific performance evaluation."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed as the largest position in DIA (3.75%). Neutral mention as it's identified as a major holding without specific performance evaluation."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed as the largest position in DIA (3.75%). Neutral mention as it's identified as a major holding without specific performance evaluation."
+        },
+        {
+          "ticker": "CAT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Identified as a top DIA holding (3.36%). Neutral mention as it's simply listed as a major constituent without commentary on its performance."
+        }
+      ]
+    },
+    {
+      "title": "Dow Jones Futures: Trump Threatens 100% Canada Tariff; Tesla, Microsoft, Meta, Apple Lead Earnings Wave",
+      "description": "President Donald Trump threatened a 100% tariff on Canada if it makes a trade deal with China, a week after endorsing the idea. Tesla, Microsoft, Meta and Apple lead an earnings wave.",
+      "published_utc": "2026-01-24T12:45:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3e31c8367ba9dd67aa223eab2eb3afb6b158b1204ff907ae2286467f39fcca37",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138246789,
+      "datetime": 1769276759
+    },
+    {
+      "title": "Apple, Microsoft, Meta To Report Results; Fed's Interest Rate Decision In Focus",
+      "description": "Wall Street Week Ahead: key earnings (AAPL, MSFT, META, TSLA), Fed rate decision, IPOs, dividends and volatility picks. Read more details here.",
+      "published_utc": "2026-01-24T06:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=74334fe78feae1e66ef0e5cd6f369b1ea035b40b2e233f4d21f65953514a6897",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138245964,
+      "datetime": 1769252400
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Tech Majors Help Lift Equity Markets Intraday Ahead of Fed Minutes",
+      "description": "US benchmark equity indexes were higher intraday amid gains in major technology stocks, ahead of the",
+      "published_utc": "2026-02-18T13:43:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8d05fdb57f8743b8229a09566b33d194c80f72390926a4e10815137d3ac4109e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139138523,
+      "datetime": 1771440226
+    },
+    {
+      "title": "Stocks slide as traders assess Walmart earnings, potential Iran conflict: Live updates",
+      "description": "The next key event for markets will be Friday's release of the personal consumption expenditures price index.",
+      "published_utc": "2026-02-18T13:03:25",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=7babae360268cc7d260bc459b79b3fe3101462fea28ea955b63e479de7d02227",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108266901-1771437546575-Traders-OB-Photo-20260218-CC-PRESS-7.jpg?v=1771437734&w=1920&h=1080",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139149825,
+      "datetime": 1771437805
+    },
+    {
+      "title": "SaaS Apocalypse: The Law Of The Strongest Crushing The Weak",
+      "description": "",
+      "published_utc": "2026-02-18T13:00:04",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e914992d9053e5792900ee1bbe9c01e24b65c00cfc496023a0ec8fe5e1593915",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139139773,
+      "datetime": 1771437604
+    },
+    {
+      "title": "Jim Cramer Discusses Salesforce (CRM) Stock",
+      "description": "We recently published 17 Stocks Jim Cramer Talked About. Salesforce Inc (NYSE:CRM) is one of the stocks that Jim Cramer talked about. Salesforce Inc (NYSE:CRM) is a customer relationship management software provider. The shares are down by 42% over the past year and by 25% year-to-date. Stifel reiterated a Buy rating and a $300 share […]",
+      "published_utc": "2026-02-18T12:52:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=210aa1c8e5044b1b98cfc7b9ebc5fc8fe0bc59be808c0d3e749e36739f563937",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139137905,
+      "datetime": 1771437144
+    },
+    {
+      "title": "Salesforce Inks Deal To Acquire Momentum; Financial Terms Not Disclosed",
+      "description": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-momentum/",
+      "published_utc": "2026-02-18T12:03:08",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=1777d402b5f29cc1cc61fc36548c048cbcfcd72c0e00b78a18776bcdd3d897b6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139147507,
+      "datetime": 1771434188
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:18:45.992458+00:00",
+    "cache_key": "news_0f3ca2d92e680d1d5fdd733abb051ada",
+    "count": 5
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Investing the Buffett Way: Lessons for Today's Investors",
+      "description": "We discuss what Buffett's retirement means for Berkshire and investors.",
+      "published_utc": "2025-11-03T16:39:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bd1bd123b18e9ed5d28e21b33164314e43471cdb30040d064d63941693d89454",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137311857,
+      "datetime": 1762205940
+    },
+    {
+      "title": "Nvidia Termed 'Undervalued' By Masayoshi Son Last Year, Now Worth $5 Trillion: Here Is What Japanese Billionaire Investor Said About Ongoing AI Hype",
+      "description": "SoftBank CEO Masayoshi Son&#39;s 2024 prediction that Nvidia was &#34;undervalued&#34; has proven accurate as Jensen Huang&#39;s chipmaking giant surpasses a $5 trillion market cap, validating Son&#39;s bold $9 trillion AI vision.",
+      "published_utc": "2025-11-03T16:28:14",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=e58e29bc2783c5eceb227d941339dc93e29c1c4aa6142c501405719b0f5bf963",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/03/Masayoshi-Son.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138610805,
+      "datetime": 1762205294
+    },
+    {
+      "title": "Apple Expecting Strong Holiday Season",
+      "description": "Apple is set to kick off its 50th year with what's expected to be a nearly $140 billion quarter. Bloomberg's Mark Gurman discusses with Caroline Hyde on \"Bloomberg Tech.\"",
+      "published_utc": "2025-11-03T15:40:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c8514e165bf31124044b2d87fc61ee7ca7b825f7027821dd3b75c7a104846b8f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137311858,
+      "datetime": 1762202443
+    },
+    {
+      "title": "The AI Trade Is Still Strong. Investors Have to Go Along for the Ride.",
+      "description": "Investors that want to beat the S&P 500 likely have to stay invested in big tech while looking to make outsize bets elsewhere.",
+      "published_utc": "2025-11-03T15:31:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=28ec19d1474fb020d82fe100e961d99717ca6ce52c5a5b5fe13050c8c66addf3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137311859,
+      "datetime": 1762201860
+    },
+    {
+      "title": "The Magnificent 7's biggest commonality is growth, Jim Cramer says",
+      "description": "CNBC's Jim Cramer on Monday rejected concerns that market cap is too concentrated in the Magnificent Seven.",
+      "published_utc": "2025-11-03T14:42:16",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=aebe03696a3775f1db7ca88d1d176269e9cb4d07fcb5f8eee8a6471acc10dc89",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/106001819-1562175400451img_0200r.jpg?v=1697581398&w=1920&h=1080",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137334040,
+      "datetime": 1762198936
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:27:17.097507+00:00",
+    "cache_key": "news_21b7373e1cf137e5d75778aae055b68b",
+    "count": 5
+  }
+}

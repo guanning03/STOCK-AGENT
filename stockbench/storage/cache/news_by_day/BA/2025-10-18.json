@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Boeing Gets FAA Green Light To Boost 737 Max Output After Alaska Airlines Door Plug Blowout",
+      "description": "The FAA has approved Boeing to raise 737 Max production to 42 jets per month following Alaska Airlines door plug incident.",
+      "published_utc": "2025-10-18T20:05:43",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=9a65d4044f1a910c2abcef2b271da44cc5e2f7ede3b44c98e375addfa4d4b8ea",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/10/19/Boeing.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138559369,
+      "datetime": 1760832343
+    },
+    {
+      "title": "Boeing Just Received Good 737 MAX News. The Stock Should React Well.",
+      "description": "Friday, the Federal Aviation Administration lifted the cap on Boeing’s 737 MAX production to 42 per month from 38.",
+      "published_utc": "2025-10-18T13:55:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7c54347401eb6b177d9fbeebf6ddeece00058488c64e3bb8b6c470d1e09940df",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137164486,
+      "datetime": 1760810100
+    },
+    {
+      "title": "FIDU: Industrials Dashboard For October",
+      "description": "FIDU offers broad industrial exposure, with transportation undervalued and aerospace overvalued, while XLI shows better liquidity. Learn why FIDU ETF is a hold.",
+      "published_utc": "2025-10-18T03:11:56",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2e7044996c7434b72b1922f9a1c0072ea8d55fda3a46e3232bd232a8d3fedd25",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1442424540/image_1442424540.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137133624,
+      "datetime": 1760771516
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "items": [
+    {
+      "id": "516ab598dc571ba7a7d5f00ac7d5c0a67d5c0d422f61eda732ed9ee8cacc6e57",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Prediction: This Under-The-Radar Opportunity Will Be the Most Important Part of Palantir's Business in 2025",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-14T21:12:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/14/prediction-this-under-the-radar-opportunity-will-b/?source=iedfolrf0000001",
+      "tickers": [
+        "PLTR",
+        "MSFT",
+        "META"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800542/gettyimages-2162363632-1.jpg",
+      "description": "Palantir is quietly dominating the military AI market, with major deals and partnerships with tech giants like Microsoft, Amazon, and Meta. This could be Palantir's biggest catalyst in 2025, as the military AI market is estimated to be over $60 billion.",
+      "keywords": [
+        "Palantir",
+        "military AI",
+        "Microsoft",
+        "Amazon",
+        "Meta"
+      ],
+      "insights": [
+        {
+          "ticker": "PLTR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Palantir's strong position in the military AI market, with major deals and partnerships, indicating the company's growth potential in this area."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Palantir has partnered with Microsoft to integrate its Artificial Intelligence Platform (AIP) into Microsoft's Azure cloud infrastructure, suggesting a mutually beneficial collaboration."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Palantir has partnered with Meta to leverage Palantir's capabilities across Meta's own LLM (Llama), suggesting the company's growing influence in the public sector."
+        }
+      ]
+    },
+    {
+      "id": "a13406fccfd3b446f5521e05a81f641aa493ab35e0b1a8c2ed802b86548344c1",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Unstoppable Stock That Could Join Nvidia, Apple, Microsoft, Amazon, Alphabet, Meta, and Tesla in the $1 Trillion Club",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-14T10:15:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/14/1-stock-nvidia-apple-amazon-meta-tesla-1-trillion/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "META",
+        "TSLA",
+        "ORCL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800665/a-person-looking-at-server-hardware-while-holding-a-laptop-computer.jpg",
+      "description": "Oracle is quickly becoming a leader in artificial intelligence (AI) data center infrastructure, which could catapult the company to a $1 trillion valuation in under a decade. The company's OCI Supercluster technology allows developers to scale up to 65,000 Nvidia GPUs, and it's building new clusters that will support up to 131,000 of Nvidia's latest Blackwell GPUs.",
+      "keywords": [
+        "Oracle",
+        "Nvidia",
+        "AI",
+        "data centers",
+        "trillion-dollar club"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia's GPUs are essential for developing AI, and Oracle's infrastructure is designed to support a large number of Nvidia GPUs, which is seen as a positive for Nvidia's business."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Apple is mentioned as one of the companies that have joined the trillion-dollar club, but the article does not provide any specific insights about Apple's business or stock."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Microsoft is mentioned as one of the companies that have joined the trillion-dollar club, but the article does not provide any specific insights about Microsoft's business or stock."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Amazon is mentioned as one of the companies that have joined the trillion-dollar club, but the article does not provide any specific insights about Amazon's business or stock."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alphabet is mentioned as one of the companies that have joined the trillion-dollar club, but the article does not provide any specific insights about Alphabet's business or stock."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alphabet is mentioned as one of the companies that have joined the trillion-dollar club, but the article does not provide any specific insights about Alphabet's business or stock."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Meta Platforms has developed the world's most popular open-source large language models (LLMs), called Llama, and that the company will shift some of its training workloads to Oracle's infrastructure, which is seen as a positive for Oracle's business."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Tesla is mentioned as one of the companies that have joined the trillion-dollar club, but the article does not provide any specific insights about Tesla's business or stock."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article focuses on Oracle's potential to join the trillion-dollar club, highlighting the company's leadership in AI data center infrastructure and its growing demand for its services. The article suggests that Oracle's stock could double in value if it reaches a $1 trillion valuation."
+        }
+      ]
+    },
+    {
+      "id": "b1a8421933c4c479f773604a28f5acfc121a29b13a2a58e23601453908950480",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "C3.ai Sees AI Momentum, Raises Guidance. Is It Time to Buy the Stock?",
+      "author": "Geoffrey Seiler",
+      "published_utc": "2024-12-14T08:39:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/14/c3ai-ai-momentum-raise-guidance-time-buy-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "AI",
+        "MSFT",
+        "BKR"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800581/gettyimages-1287582736.jpg",
+      "description": "C3.ai reported mixed fiscal Q2 results, with accelerating revenue but negative free cash flow. The company touted a new partnership with Microsoft but is questioning whether to extend an existing partnership with Baker Hughes. The stock has been volatile, up 45% on the year, but the author does not find the valuation attractive due to concerns around the Baker Hughes partnership, high stock compensation, and weak margins.",
+      "keywords": [
+        "C3.ai",
+        "Microsoft",
+        "Baker Hughes",
+        "earnings",
+        "partnership"
+      ],
+      "insights": [
+        {
+          "ticker": "AI",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a mixed view on C3.ai. While the company reported accelerating revenue and a new partnership with Microsoft, it also had negative free cash flow, concerns around the Baker Hughes partnership, high stock compensation, and weak margins. The author does not find the valuation attractive at current levels."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights C3.ai's new partnership with Microsoft, which the author believes has the potential to be a game-changer for the company. The partnership includes C3.ai's solutions being available on Azure and Microsoft salespeople receiving commissions and bonuses on Azure C3 AI sales."
+        },
+        {
+          "ticker": "BKR",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article notes that C3.ai is questioning whether to renew its exclusive marketing agreement with Baker Hughes, as the revenue from this partnership has been diminishing over the years and was just 18% of C3.ai's total revenue in the quarter, down from 35% in fiscal 2023."
+        }
+      ]
+    }
+  ]
+}

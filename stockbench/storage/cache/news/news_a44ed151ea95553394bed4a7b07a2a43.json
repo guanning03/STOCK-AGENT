@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Boeing's Defense Unit Steers to New Heights on Expanding Backlog",
+      "description": "BA's defense unit shines with a surging backlog and revenue growth, helping balance challenges in the commercial unit.",
+      "published_utc": "2025-09-01T10:54:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e9f707f1f208ff58409536010018e7733e329940da46e7aebea84c1b9108cbfb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136604239,
+      "datetime": 1756738440
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:05:15.036016+00:00",
+    "cache_key": "news_a44ed151ea95553394bed4a7b07a2a43",
+    "count": 1
+  }
+}

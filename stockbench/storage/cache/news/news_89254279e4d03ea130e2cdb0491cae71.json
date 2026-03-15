@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Tracking Cliff Asness' AQR Capital Management 13F Portfolio - Q2 2025 Update",
+      "description": "Discover AQR Capital's latest Q2 2025 portfolio movesâtop holdings, stake increases, and insights on their quantitative investment strategy.",
+      "published_utc": "2025-09-21T17:35:01",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=19b42167fd2d6deff26ad7bae002671774d41c2c5187d1c5197b982106447492",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136838830,
+      "datetime": 1758490501
+    },
+    {
+      "title": "The Rush to Return to the Office Is Stalling",
+      "description": "The Rush to Return to the Office Is Stalling",
+      "published_utc": "2025-09-21T17:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=28b30eff2e34c31ed8aa53f2af4c76d91754a0d6c27f404497d6ea9e36403948",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136867088,
+      "datetime": 1758488400
+    },
+    {
+      "title": "Trump’s $100,000 H-1B Visa Fee Sets Off Scramble Across Corporate America",
+      "description": "Companies have urgently ordered workers back to the U.S. before Sunday. The White House is seeking to calm the situation, noting the fee doesn’t apply to current visa holders.",
+      "published_utc": "2025-09-21T17:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c9953e03824a55ec1e2f0e2fc3365eb504123d06cb9b02da825c9504000be9c8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136836385,
+      "datetime": 1758488400
+    },
+    {
+      "title": "Is Having a Position in the Entire Stock Market a Better Option Than Investing in the S&P 500?",
+      "description": "The S&P 500 continues to hit new records, and tracking it may no longer be the safest option for risk-averse investors.",
+      "published_utc": "2025-09-21T10:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=41a91a3aa37bdc22bb49af48135d107e20ecc063012a6e7387b7639e68f676b6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136836371,
+      "datetime": 1758465900
+    },
+    {
+      "title": "Companies rush to issue emergency guidance after Trump launches H-1B visa fee",
+      "description": "Companies are rushing to ensure thousands of employees around the globe do not trigger hefty new immigration fees after Washington announced sweeping changes to the H-1B foreign worker visa.",
+      "published_utc": "2025-09-21T08:58:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7b76b2f972ad93e5e77f4654d9606fbc7d2ddd9abe854bac7b23895ef80df91e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136836388,
+      "datetime": 1758459517
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T04:06:20.862558+00:00",
+    "cache_key": "news_89254279e4d03ea130e2cdb0491cae71",
+    "count": 5
+  }
+}

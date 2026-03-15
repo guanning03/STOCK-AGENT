@@ -1,6 +1,139 @@
 {
   "items": [
     {
+      "title": "Salesforce, Inc. (CRM): Among Mid- And Large-Cap Stocks Insiders Are Buying After Trump’s Tariff Rollout",
+      "description": "We recently published a list of 19 Mid- And Large-Cap Stocks Insiders Are Buying After Trump’s Tariff Rollout. In this article, we are going to take a look at where Salesforce, Inc. (NYSE:CRM) stands against other mid- and large-cap stocks insiders are buying after Trump’s tariff rollout. On April 2, 2025, President Donald Trump declared […]",
+      "published_utc": "2025-04-16T15:13:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=da9c496127994f2de0a6d1a3a2cd003c0a2a7f3a819e975d1a1f17ce4f4d7a4c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133942541,
+      "datetime": 1744830812
+    },
+    {
+      "id": "f58febb1b29af37fee5034dbdc7d2da44b41ea7553871522bcaef81c1a65f391",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Mobile Engagement Automation Market on a Steady Growth Path: Projected to Grow Through 2030 at CAGR 6.4%",
+      "author": "Qks Group",
+      "published_utc": "2025-04-16T15:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/04/16/3062734/0/en/Mobile-Engagement-Automation-Market-on-a-Steady-Growth-Path-Projected-to-Grow-Through-2030-at-CAGR-6-4.html",
+      "tickers": [
+        "ADBE",
+        "AISP",
+        "AISPW",
+        "BRZE",
+        "KVYO",
+        "CRM",
+        "UPLD",
+        "CSCO"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/0c7f2ca9-2c83-4ecc-882d-38dab5dadbb2",
+      "description": "The global Mobile Engagement Automation market is projected to grow at a CAGR of 6.4% through 2030, driven by the increasing adoption of mobile-first strategies and innovations in AI, predictive analytics, and behavioral segmentation.",
+      "keywords": [
+        "Mobile Engagement Automation",
+        "Market Forecast",
+        "Competitive Analysis",
+        "Industry Trends"
+      ],
+      "insights": [
+        {
+          "ticker": "ADBE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists Adobe as one of the key players in the Mobile Engagement Automation market, but does not provide any additional details about the company's position or performance in this market."
+        },
+        {
+          "ticker": "AISP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Airship as one of the key industry players in the Mobile Engagement Automation market, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "AISPW",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Airship as one of the key industry players in the Mobile Engagement Automation market, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "BRZE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists Braze as one of the key players in the Mobile Engagement Automation market, but does not provide any additional details about the company's position or performance in this market."
+        },
+        {
+          "ticker": "KVYO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists Klaviyo as one of the key players in the Mobile Engagement Automation market, but does not provide any additional details about the company's position or performance in this market."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists Salesforce as one of the key players in the Mobile Engagement Automation market, but does not provide any additional details about the company's position or performance in this market."
+        },
+        {
+          "ticker": "UPLD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists Upland Software as one of the key players in the Mobile Engagement Automation market, but does not provide any additional details about the company's position or performance in this market."
+        },
+        {
+          "ticker": "CSCO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Webex as one of the key industry players in the Mobile Engagement Automation market, but does not provide any specific information about the company's performance or outlook."
+        }
+      ]
+    },
+    {
+      "title": "Salesforce Sheds Light On Data Cloud, AI Annual Recurring Revenue",
+      "description": "Software maker Salesforce disclosed that fiscal 2025 annual recurring revenue from its \"Data Cloud\" and artificial intelligence products reached $900 million.",
+      "published_utc": "2025-04-16T14:11:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=da7bb3b4d4e88dfa79634c2896fd5ec5a63f106996e27457585f346b16349cf4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133942542,
+      "datetime": 1744827074
+    },
+    {
+      "title": "Software Stocks Are Way Down, But Shouldn’t Be. Microsoft and 2 More to Buy.",
+      "description": "Software Stocks Are Way Down, But Shouldn’t Be. Microsoft and 2 More to Buy.",
+      "published_utc": "2025-04-16T11:27:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=28e7b64e11cfe4f1b60ce4ae7f0f9799d266c4f5d1ccd5d4c0d327ac5215134f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134147184,
+      "datetime": 1744817220
+    },
+    {
+      "title": "Record-Breaking Growth: Data Cloud & AI Annual Recurring Revenue Reached the $900M Milestone in FY25, Proving Data Cloud’s Role as the Intelligent Activation Layer for Enterprise AI",
+      "description": "Fisher & Paykel, Insulet, Equinix, Maserati among brands using Data Cloud and Agentforce to gain a 360 customer view and deliver smarter customer engagement Gartner and IDC...",
+      "published_utc": "2025-04-16T04:26:11",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=bdbb96899a15600efb0891447456cddf82c1934e2e8afe2994395b80787834d1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133934070,
+      "datetime": 1744791971
+    },
+    {
       "title": "Is Salesforce, Inc. (CRM) The Best American Tech Stock To Buy Now?",
       "description": "We recently compiled a list of the 14 Best American Tech Stocks To Buy Now. In this article, we are going to take a look at where Salesforce, Inc. (NYSE:CRM) stands against the other American tech stocks. American stocks moved up a bit on Monday, April 14 as investors focused on news about tech companies […]",
       "published_utc": "2025-04-16T02:54:15",

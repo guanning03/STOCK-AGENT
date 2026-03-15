@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Markets Settle Mixed on Big Day for Data",
+      "description": "A day of steady reporting on the labor market and goods-producers sent market indexes in different directions today.",
+      "published_utc": "2026-01-07T18:56:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a4d78e0edc910c27da1b28af3363efdaca224ed9e14056100b06eabb7b2a33a1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138032842,
+      "datetime": 1767830160
+    },
+    {
+      "title": "Jamie Dimon's Grip On US Credit Card Dominance Grows As JPMorgan Wins Apple Card Business From Goldman Sachs",
+      "description": "Apple has selected JPMorgan Chase to take over the Apple Card from Goldman Sachs in a deal that will shift more than $20 billion in card balances, bolster JPMorgan&#39;s credit card dominance, and mark another step in Goldman&#39;s retreat from consumer banking.",
+      "published_utc": "2026-01-07T18:20:05",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=be50649bcc4b3adf6c07d38b8ea102e75da2aeffb62468d4824a1d53b80ece17",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/01/07/Iphone-With-Apple-Card-Logo-On-The-Scree.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138591547,
+      "datetime": 1767828005
+    },
+    {
+      "title": "Solana Mobile to airdrop 30% of smartphone token supply",
+      "description": "Solana Mobile's SKR token will launch on January 21. Almost one-third will be distributed via airdrop. Holders will be able to elect \"Guardians\" to curate offerings on the Seeker smartphone app store.",
+      "published_utc": "2026-01-07T18:01:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c344a0e7b9d72929ee8da06ddf6564c3e09cd6ee2ed9622e62208ed3a81420b7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138032864,
+      "datetime": 1767826880
+    },
+    {
+      "title": "Chase to become new issuer of Apple Card",
+      "description": "WILMINGTON, Del., January 07, 2026--Today, Apple and Chase announced that Chase will become the new issuer of Apple Card, with an expected transition in approximately 24 months.",
+      "published_utc": "2026-01-07T17:49:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5892e72936ded59e6d6624d5bb62da4ff8219360da2dc43b35305feb8b0357ab",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138032865,
+      "datetime": 1767826140
+    },
+    {
+      "title": "Stock Market Today: Dow Slips Back Below 49K; Trump Takes On Defense Firms (Live Coverage)",
+      "description": "The Dow Jones index dipped in mixed trade Wednesday after surprise jobs data. Bitcoin stock Strategy jumped.",
+      "published_utc": "2026-01-07T17:12:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=00d24019bb03f34368b23194b5fc40d1aebfe34ff3a9cb9bd6853ed1cbffe1fa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138032848,
+      "datetime": 1767823943
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:11:38.835999+00:00",
+    "cache_key": "news_c55b09111f05167b8d9d9edcf6cb99f4",
+    "count": 5
+  }
+}

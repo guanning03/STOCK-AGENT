@@ -1,0 +1,72 @@
+{
+  "items": [
+    {
+      "id": "778daf1ecc5fb8a841da182c4fbb0dd3f3b8ab8ab27da179b44d45abf57ca0f8",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Looking for Foundational Dividend Stocks to Build Your Portfolio Around? Consider This Dow Jones Passive Income Powerhouse",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-26T23:50:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/26/buy-blue-chip-dividend-stock-passive-income/?source=iedfolrf0000001",
+      "tickers": [
+        "HD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808651/gettyimages-1423548798-1200x800-5b2df79.jpg",
+      "description": "Home Depot is a well-known retailer that has seen a strong stock performance over the years. Despite facing challenges in the current macroeconomic environment, the company's consistent dividend raises and reasonable valuation make it a potential foundational dividend stock for long-term investors.",
+      "keywords": [
+        "Home Depot",
+        "dividend stocks",
+        "passive income",
+        "Dow Jones"
+      ],
+      "insights": [
+        {
+          "ticker": "HD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Home Depot's strong brand, consistent dividend raises, and reasonable valuation, making it a potential foundational dividend stock for long-term investors despite the current macroeconomic challenges."
+        }
+      ]
+    },
+    {
+      "id": "05735481721fb89d1f49f8eeed2ba401923923bc85b1e0c1c0cd8e400f445eb9",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "Home Depot Turns a Corner: New Highs Likely This Year",
+      "author": "Marketbeat.Com",
+      "published_utc": "2025-02-26T14:54:00Z",
+      "article_url": "https://www.investing.com/analysis/home-depot-turns-a-corner-new-highs-likely-this-year-200657746",
+      "tickers": [
+        "HD"
+      ],
+      "amp_url": "https://m.investing.com/analysis/home-depot-turns-a-corner-new-highs-likely-this-year-200657746?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "Home Depot reported solid Q4 2024 results, with positive comp sales growth and margin strength. The company issued cautious 2025 guidance, but analysts are bullish, expecting the stock to hit new highs this year.",
+      "keywords": [
+        "Home Depot",
+        "earnings",
+        "guidance",
+        "stock price"
+      ],
+      "insights": [
+        {
+          "ticker": "HD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Home Depot reported strong Q4 2024 results, with positive comp sales growth and margin strength. The company's cautious 2025 guidance was offset by analyst optimism, with expectations of the stock hitting new highs this year."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T22:25:30.637323+00:00",
+    "cache_key": "news_ef5371435f3f1c03bd167b01e4edaf85",
+    "count": 2
+  }
+}

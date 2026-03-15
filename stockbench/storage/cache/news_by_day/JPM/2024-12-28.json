@@ -1,0 +1,107 @@
+{
+  "items": [
+    {
+      "id": "c1de4f0c7af2a8b63c11a7be584c25283d2e677bc7d41196cc7e6d2f98130d3c",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Want Decades of Passive Income? Buy This Index Fund and Hold It Forever.",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-28T12:17:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/28/want-decades-of-passive-income-buy-this-index-fund/?source=iedfolrf0000001",
+      "tickers": [
+        "VYM",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "XOM",
+        "PG",
+        "AVGO",
+        "CSCO"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802229/relaxed-man-2022.jpg",
+      "description": "The Vanguard High Dividend Yield ETF (VYM) is a low-cost index fund that provides a solid and growing income stream with strong total return potential. It invests in a portfolio of large-cap stocks with above-average dividend yields, offering a 2.7% yield and the potential to build significant wealth over time.",
+      "keywords": [
+        "Vanguard High Dividend Yield ETF",
+        "dividend stocks",
+        "passive income",
+        "portfolio growth"
+      ],
+      "insights": [
+        {
+          "ticker": "VYM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the ETF's ability to provide a solid and growing income stream, as well as its strong total return potential, making it a good long-term investment option."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as one of the top holdings in the Vanguard High Dividend Yield ETF, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as one of the top holdings in the Vanguard High Dividend Yield ETF, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as one of the top holdings in the Vanguard High Dividend Yield ETF, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as one of the top holdings in the Vanguard High Dividend Yield ETF, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as one of the top holdings in the Vanguard High Dividend Yield ETF, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as one of the top holdings in the Vanguard High Dividend Yield ETF, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as one of the top holdings in the Vanguard High Dividend Yield ETF, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase as one of the top holdings in the Vanguard High Dividend Yield ETF, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "XOM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists ExxonMobil as one of the top holdings in the Vanguard High Dividend Yield ETF, but does not provide any additional information about the company."
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Procter & Gamble as one of the top holdings in the Vanguard High Dividend Yield ETF, but does not offer any specific commentary on the company."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article includes Broadcom as one of the tech-focused companies in the Vanguard High Dividend Yield ETF, but does not provide any additional details about the company."
+        },
+        {
+          "ticker": "CSCO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists Cisco Systems as one of the tech-focused companies in the Vanguard High Dividend Yield ETF, but does not offer any further commentary on the company."
+        }
+      ]
+    }
+  ]
+}

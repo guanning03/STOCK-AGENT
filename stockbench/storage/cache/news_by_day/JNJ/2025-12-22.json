@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Sector Update: Health Care Stocks Higher Late Afternoon",
+      "description": "Health care stocks advanced late Monday afternoon with the NYSE Health Care Index rising 0.6% and th",
+      "published_utc": "2025-12-22T15:58:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=08aa068089fdd0fcc73d6be3eaa815ba78548e01586777b0f3dc6477bac3520b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137878238,
+      "datetime": 1766437105
+    },
+    {
+      "title": "Tracking Cliff Asness' AQR Capital Management 13F Portfolio - Q3 2025 Update",
+      "description": "AQR Capital Managementâs Q3 2025 13F portfolio surged to ~$156B. Check out the stake increases and decreases of the portfolio here.",
+      "published_utc": "2025-12-22T15:21:39",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a4fd157bfb3468b443753f8ebf096bfecfaf327d51b3f7f348d33e6c5d937026",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137876493,
+      "datetime": 1766434899
+    },
+    {
+      "title": "Sector Update: Health Care Stocks Higher in Afternoon Trading",
+      "description": "Health care stocks advanced Monday afternoon, with the NYSE Health Care Index up 0.5% and the State",
+      "published_utc": "2025-12-22T13:55:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1cc7ed72c7dcc5b2b6592a62b55a1fe33a455f64f32360dafb4008fcd0087e22",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137874724,
+      "datetime": 1766429752
+    },
+    {
+      "title": "Bet on These Top-Ranked Healthcare ETFs Before 2025 Ends",
+      "description": "XLV and similar healthcare ETFs are gaining momentum as strength in biotech, increased AI adoption, and rising defensive demand position the sector for year-end leadership.",
+      "published_utc": "2025-12-22T13:43:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bee6dba09ba2167d7287ab7869418004609b428f23745336d74cedc44f20a4ef",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137878345,
+      "datetime": 1766428980
+    },
+    {
+      "title": "J&J Stock Trading Above 50- & 200-Day SMA for 6 Months: How to Play",
+      "description": "J&J has been trading above its 50- and 200-day SMAs for six months as strong 2025 execution, new drugs and pipeline progress support bullish momentum.",
+      "published_utc": "2025-12-22T11:21:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eabc3e6b02db0748b813607f57aebe00e2ea17f9a9714bd25b59be61c54d0fcc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137878377,
+      "datetime": 1766420460
+    }
+  ]
+}

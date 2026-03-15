@@ -1,0 +1,212 @@
+{
+  "items": [
+    {
+      "id": "6c5e8a2bc9dd0bd1b6cf31153145f394c1b47aecd84c626c48e601b102fa3314",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "This Is the Top-Performing Vanguard ETF This Year. Should You Buy It for 2025?",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-21T11:50:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/21/this-is-the-top-performing-vanguard-etf-this-year/?source=iedfolrf0000001",
+      "tickers": [
+        "VOOG",
+        "AAPL",
+        "NVDA",
+        "MSFT",
+        "AMZN",
+        "META",
+        "V",
+        "COST"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801173/success-in-workplace-happy-businesswoman-1201x800-5b2df79.jpg",
+      "description": "The Vanguard S&P 500 Growth ETF (VOOG) has had an exceptional year, outperforming the broader market. It provides exposure to new trends in tech and AI, which are expected to be important growth drivers in 2025. While the ETF's heavy weighting toward big tech creates some risk, its diversification across more stable sector stocks helps mitigate the problem.",
+      "keywords": [
+        "Vanguard S&P 500 Growth ETF",
+        "VOOG",
+        "growth stocks",
+        "AI",
+        "tech",
+        "diversification"
+      ],
+      "insights": [
+        {
+          "ticker": "VOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the ETF's exceptional performance this year, beating the broader market, and its promising exposure to AI and tech trends that are expected to drive growth in 2025. The diversification across more stable sector stocks is also seen as a positive factor."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple is mentioned as one of the five largest holdings in the Vanguard S&P 500 Growth ETF, which is seen as a positive factor due to the company's performance and opportunities in AI."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia is mentioned as one of the five largest holdings in the Vanguard S&P 500 Growth ETF, which is seen as a positive factor due to the company's performance and opportunities in AI."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is mentioned as one of the five largest holdings in the Vanguard S&P 500 Growth ETF, which is seen as a positive factor due to the company's performance and opportunities in AI."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon is mentioned as one of the five largest holdings in the Vanguard S&P 500 Growth ETF, which is seen as a positive factor due to the company's performance and opportunities in AI."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Meta Platforms is mentioned as one of the five largest holdings in the Vanguard S&P 500 Growth ETF, which is seen as a positive factor due to the company's performance and opportunities in AI."
+        },
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Visa is mentioned as one of the more stable sector stocks in the Vanguard S&P 500 Growth ETF, which helps balance out the riskier tech stocks and is seen as a positive factor."
+        },
+        {
+          "ticker": "COST",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Costco Wholesale is mentioned as one of the more stable sector stocks in the Vanguard S&P 500 Growth ETF, which helps balance out the riskier tech stocks and is seen as a positive factor."
+        }
+      ]
+    },
+    {
+      "id": "b6c9abd5ae6983a3da5aa40ee155da7b9aed4786401c8f483a7452fec1773321",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "My Top Vanguard Index ETF Pick for 2025",
+      "author": "Na",
+      "published_utc": "2024-12-21T10:15:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/21/my-top-vanguard-index-etf-pick-for-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "VUG",
+        "AAPL",
+        "NVDA",
+        "MSFT",
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "META",
+        "TSLA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801410/gettyimages-1964849486.jpg",
+      "description": "The article discusses the Vanguard Growth ETF (VUG) as a top pick for 2025, citing its strong performance and exposure to AI-focused tech giants like Apple, Nvidia, and Microsoft. The author believes these companies will continue to drive the market forward, supported by a potentially looser regulatory environment and the Federal Reserve's interest rate policy.",
+      "keywords": [
+        "Vanguard Growth ETF",
+        "S&P 500",
+        "AI",
+        "tech stocks"
+      ],
+      "insights": [
+        {
+          "ticker": "VUG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the Vanguard Growth ETF's strong performance, with an average annualized return of 15.6% over the past 10 years, outperforming the S&P 500. The author believes the ETF's exposure to AI-focused tech giants will continue to drive its outperformance in 2025."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Apple as one of the top three holdings of the Vanguard Growth ETF, indicating the author's belief in the company's growth potential."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Nvidia as one of the top three holdings of the Vanguard Growth ETF, indicating the author's belief in the company's growth potential."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Microsoft as one of the top three holdings of the Vanguard Growth ETF, indicating the author's belief in the company's growth potential."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Amazon as one of the top seven holdings of the Vanguard Growth ETF, indicating the author's belief in the company's growth potential."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Alphabet as one of the top seven holdings of the Vanguard Growth ETF, indicating the author's belief in the company's growth potential."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Alphabet as one of the top seven holdings of the Vanguard Growth ETF, indicating the author's belief in the company's growth potential."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Meta Platforms as one of the top seven holdings of the Vanguard Growth ETF, indicating the author's belief in the company's growth potential."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Tesla as one of the top seven holdings of the Vanguard Growth ETF, indicating the author's belief in the company's growth potential."
+        }
+      ]
+    },
+    {
+      "id": "4c6baf0a2441a63f4a43c4a1a4ff320d2d4eb1255cf902d5ca709ed9c38da544",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Heavily Diversified Vanguard ETF That Could Outperform the S&P 500 in 2025",
+      "author": "David Jagielski",
+      "published_utc": "2024-12-21T09:35:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/21/1-heavily-diversified-vanguard-etf-that-could-outp/?source=iedfolrf0000001",
+      "tickers": [
+        "VTI",
+        "AAPL",
+        "MSFT",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801018/investor-at-home-looking-at-multiple-charts.jpg",
+      "description": "The Vanguard Total Stock Market Index ETF (VTI) may outperform the S&P 500 in 2025 due to its broader diversification, which can provide more stability if tech stocks struggle. The ETF has lower exposure to the top three tech giants compared to the S&P 500 ETF, making it less vulnerable to a potential correction in those high-valued holdings.",
+      "keywords": [
+        "Vanguard Total Stock Market Index ETF",
+        "S&P 500",
+        "tech stocks",
+        "diversification"
+      ],
+      "insights": [
+        {
+          "ticker": "VTI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that the Vanguard ETF may outperform the S&P 500 in 2025 due to its broader diversification, which can provide more stability if tech stocks struggle. The lower exposure to the top three tech giants compared to the S&P 500 ETF makes it less vulnerable to a potential correction in those high-valued holdings."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Apple, along with Microsoft and Nvidia, are the three most valuable stocks on the market and account for a significant portion of the S&P 500 ETF's holdings. While the article suggests that investors may want to reduce their exposure to these high-valued stocks, it does not make a strong positive or negative statement about Apple specifically."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Microsoft, along with Apple and Nvidia, are the three most valuable stocks on the market and account for a significant portion of the S&P 500 ETF's holdings. While the article suggests that investors may want to reduce their exposure to these high-valued stocks, it does not make a strong positive or negative statement about Microsoft specifically."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Nvidia, along with Apple and Microsoft, are the three most valuable stocks on the market and account for a significant portion of the S&P 500 ETF's holdings. While the article suggests that investors may want to reduce their exposure to these high-valued stocks, it does not make a strong positive or negative statement about Nvidia specifically."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:46:16.220764+00:00",
+    "cache_key": "news_804363334c485c090579caeaa8d7e8f3",
+    "count": 3
+  }
+}

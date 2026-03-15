@@ -1,0 +1,126 @@
+{
+  "items": [
+    {
+      "id": "2a581ecd80c70f852f97a8457a9f08165407f45cd9b9f862eda52b41fb1eb978",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Purpose Investments Announces the Filing of Preliminary Prospectus for 8 New ETFs",
+      "author": "N/A",
+      "published_utc": "2025-01-26T15:26:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/26/3015239/0/en/Purpose-Investments-Announces-the-Filing-of-Preliminary-Prospectus-for-8-New-ETFs.html",
+      "tickers": [
+        "COST",
+        "PLTR",
+        "UNH",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "COIN",
+        "NFLX",
+        "AVGO"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/a28192cb-6294-4424-8c24-646fee2c81cd",
+      "description": "Purpose Investments is launching eight new yield-focused single-stock ETFs, including ETFs tracking Costco, Palantir, UnitedHealth, JPMorgan, Coinbase, Netflix, Broadcom, and a Tech Innovators ETF. The ETFs aim to provide long-term capital appreciation and distributions through covered call and put option strategies.",
+      "keywords": [
+        "ETFs",
+        "Yield",
+        "Single-stock",
+        "Purpose Investments",
+        "Costco",
+        "Palantir",
+        "UnitedHealth",
+        "JPMorgan",
+        "Coinbase",
+        "Netflix",
+        "Broadcom",
+        "Tech Innovators"
+      ],
+      "insights": [
+        {
+          "ticker": "COST",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Costco is a well-established and successful retail company, which suggests the Costco Yield Shares Purpose ETF could be a stable and potentially profitable investment."
+        },
+        {
+          "ticker": "PLTR",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Palantir is a technology company with a mixed track record, so the sentiment for the Palantir Yield Shares Purpose ETF is neutral, as the performance may be uncertain."
+        },
+        {
+          "ticker": "UNH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "UnitedHealth is a leading healthcare company, which suggests the UnitedHealth Yield Shares Purpose ETF could be a reliable and potentially lucrative investment."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan is a prominent and successful financial institution, which suggests the JPMorgan Yield Shares Purpose ETF could be a stable and potentially profitable investment."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan is a prominent and successful financial institution, which suggests the JPMorgan Yield Shares Purpose ETF could be a stable and potentially profitable investment."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan is a prominent and successful financial institution, which suggests the JPMorgan Yield Shares Purpose ETF could be a stable and potentially profitable investment."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan is a prominent and successful financial institution, which suggests the JPMorgan Yield Shares Purpose ETF could be a stable and potentially profitable investment."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan is a prominent and successful financial institution, which suggests the JPMorgan Yield Shares Purpose ETF could be a stable and potentially profitable investment."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan is a prominent and successful financial institution, which suggests the JPMorgan Yield Shares Purpose ETF could be a stable and potentially profitable investment."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan is a prominent and successful financial institution, which suggests the JPMorgan Yield Shares Purpose ETF could be a stable and potentially profitable investment."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan is a prominent and successful financial institution, which suggests the JPMorgan Yield Shares Purpose ETF could be a stable and potentially profitable investment."
+        },
+        {
+          "ticker": "COIN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Coinbase is a cryptocurrency exchange with a relatively new and volatile market, so the sentiment for the Coinbase Yield Shares Purpose ETF is neutral, as the performance may be uncertain."
+        },
+        {
+          "ticker": "NFLX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Netflix is a leading streaming service with a strong market position, which suggests the Netflix Yield Shares Purpose ETF could be a reliable and potentially lucrative investment."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Broadcom is a successful semiconductor company, which suggests the Broadcom Yield Shares Purpose ETF could be a stable and potentially profitable investment."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:19:39.565931+00:00",
+    "cache_key": "news_63d4bfc15a50510f40d185f33e0b26d9",
+    "count": 1
+  }
+}

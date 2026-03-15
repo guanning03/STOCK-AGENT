@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "The Best Consumer Goods Stock to Hold in Uncertain Times",
+      "description": "Procter & Gamble sells popular everyday products.",
+      "published_utc": "2025-11-29T09:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ab14e2e4716805b624632798238b0efce873d690096c5a258afc93ba8e2a6344",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137649980,
+      "datetime": 1764425100
+    }
+  ]
+}

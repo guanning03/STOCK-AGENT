@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "A Billionaire, a Psychic and a Bad Investment: The Friendship Breakup From Hell",
+      "description": "For over a decade, Taylor Thomson and Ashley Richardson were inseparable. A fight over money destroyed it all.",
+      "published_utc": "2025-08-23T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=86872288b927de6427a4838e0449c3e11230dd64067ae0aa33caaafa7899dde2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136502688,
+      "datetime": 1755997200
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:40:22.401256+00:00",
+    "cache_key": "news_68f658791f30cea439526e436fddae3a",
+    "count": 1
+  }
+}

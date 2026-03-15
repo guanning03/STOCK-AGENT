@@ -1,0 +1,78 @@
+{
+  "items": [
+    {
+      "id": "b1c55c7995bc12b00e7beaf0e3520757884a5a53ecd9756e4b315aa4ebaf10da",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Warren Buffett Stocks That Are No-Brainer Buys in 2025 -- Even in a Historically Pricey Stock Market",
+      "author": "Sean Williams",
+      "published_utc": "2024-12-25T09:21:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/25/3-warren-buffett-stocks-no-brainer-buys-in-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "SIRI",
+        "V",
+        "MA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801934/buffett8-tmf.jpg",
+      "description": "Despite the stock market being historically pricey, the article identifies three Warren Buffett stocks that are considered no-brainer buys for 2025: Sirius XM Holdings, Visa, and Mastercard. These companies are seen as attractive investments due to their strong market positions, subscription-based models, and growth opportunities.",
+      "keywords": [
+        "Warren Buffett",
+        "Sirius XM Holdings",
+        "Visa",
+        "Mastercard",
+        "stock market"
+      ],
+      "insights": [
+        {
+          "ticker": "SIRI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Sirius XM is a legal monopoly in the satellite radio industry, has a subscription-based model that is less affected by economic downturns, and is trading at a low valuation compared to its historical levels."
+        },
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Visa is a payment processing giant that has a sustained double-digit growth opportunity, a strong balance sheet, and is trading at a discount to its historical valuation."
+        },
+        {
+          "ticker": "MA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mastercard is a payment processing giant that has a sustained double-digit growth opportunity, a strong balance sheet, and is trading at a discount to its historical valuation."
+        }
+      ]
+    },
+    {
+      "id": "58e060602d746aeecceb72443abc4b501194de6d1ee9e9b105861198de321a1c",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "ROSEN, TOP-RANKED INVESTOR COUNSEL, Encourages Visa Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm – V",
+      "author": "N/A",
+      "published_utc": "2024-12-25T00:22:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2024/12/25/3001801/673/en/ROSEN-TOP-RANKED-INVESTOR-COUNSEL-Encourages-Visa-Inc-Investors-to-Secure-Counsel-Before-Important-Deadline-in-Securities-Class-Action-First-Filed-by-the-Firm-V.html",
+      "tickers": [
+        "V"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/745335af-3a3a-4fb5-84c0-fdedc9adf092",
+      "description": "Rosen Law Firm is encouraging Visa Inc. investors to secure counsel before the January 21, 2025 lead plaintiff deadline in a securities class action lawsuit. The lawsuit alleges that Visa made materially false and/or misleading statements regarding its compliance with federal antitrust laws.",
+      "keywords": [
+        "Visa Inc.",
+        "securities class action",
+        "antitrust laws"
+      ],
+      "insights": [
+        {
+          "ticker": "V",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article indicates that Visa Inc. is facing a securities class action lawsuit alleging that the company made false and/or misleading statements regarding its compliance with federal antitrust laws, which suggests potential legal and financial issues for the company."
+        }
+      ]
+    }
+  ]
+}

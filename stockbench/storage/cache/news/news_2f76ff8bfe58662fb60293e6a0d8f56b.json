@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "McDonald's Has A New Trick Up Its Sleeve For Loyalty Growth: How Monopoly Will Reward Consumers And The Company",
+      "description": "The return of Monopoly at McDonald&#39;s restaurants could provide a boost to restaurant sales and also to loyalty app usage.",
+      "published_utc": "2025-09-30T11:03:21",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=a917a6b7608b706a245a2a96c159ff548f4ed297e6ddec15beee9fa03f9ff86c",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/09/30/McDonalds-Monopoly-Shutterstock.png?width=2048&height=1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138505938,
+      "datetime": 1759244601
+    },
+    {
+      "title": "Wall Street Lunch: Spotify Top Boss Daniel Ek Transitions To Chairman Role",
+      "description": "Spotify (SPOT) CEO Daniel Ek is ceding his leadership role in the company, transitioning to executive chairman after nearly two decades at the helm.",
+      "published_utc": "2025-09-30T08:52:35",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=90dcaf1641f88f0b89c0b46d177173c039fd559923cfcefd7bf0bbc912e995d9",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1312224946/image_1312224946.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136937391,
+      "datetime": 1759236755
+    },
+    {
+      "title": "Wall Street Breakfast Podcast: Weed Stocks Light Up",
+      "description": "Cannabis stocks rally after Trump posts video touting CBD use for senior healthcare. YouTube to pay Trump $24.5M for suspending account after Capitol riot. McDonald's bets on Monopoly game.",
+      "published_utc": "2025-09-30T03:04:30",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=28f0e113584ba5e94319a4ab08dce263a42973d74eab5d6b129ab1c2e1e4461c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1403074050/image_1403074050.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136935414,
+      "datetime": 1759215870
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T04:39:30.430367+00:00",
+    "cache_key": "news_2f76ff8bfe58662fb60293e6a0d8f56b",
+    "count": 3
+  }
+}

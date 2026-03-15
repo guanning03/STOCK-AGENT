@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Josh Brown: Biotech growth stocks immune to disruption risk",
+      "description": "Josh Brown, CEO of Ritholtz Wealth Management, made a pointed claim on CNBC’s Halftime Report this week about large-cap biotech: “These are growth stocks where you don’t have to worry about disruption. They’re breaking out.” His reasoning is that companies dealing in molecules, proteins, and clinical trials occupy a fundamentally different risk category than software ... Josh Brown: Biotech growth stocks immune to disruption risk",
+      "published_utc": "2026-03-11T12:37:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b437413e9e2d78794adf22d15ec9167007fedea9004485564ec3cc07944adee3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139381075,
+      "datetime": 1773247068
+    },
+    {
+      "title": "Amgen Inc. (AMGN) Presents at Leerink Global Healthcare Conference 2026 Transcript",
+      "description": "Amgen Inc. (AMGN) Leerink Global Healthcare Conference 2026 March 11, 2026 9:20 AM EDTCompany ParticipantsJasper Van GrunsvenPeter Griffith - Executive VP...",
+      "published_utc": "2026-03-11T07:52:20",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1f6207fbd92bb1ce78d4bf96eaaad662f29997da40c435702b632e4b58d5c6d0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139379673,
+      "datetime": 1773229940
+    },
+    {
+      "title": "Regeneron: Fairly Valued Now After A Stellar Upswing",
+      "description": "Regeneron Pharmaceuticals, Inc. is a Buy: Dupixent growth offsets Eylea declines; pipeline/Libtayo impact post-2026; monitor ROIC & SBC. Click for a REGN update.",
+      "published_utc": "2026-03-11T05:47:27",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bcf7d3b87081de4248ff5309fe6b8c0b930d2958a00fdc7bffe13080306325e4",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1386962546/image_1386962546.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139372852,
+      "datetime": 1773222447
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T04:27:10.279273+00:00",
+    "cache_key": "news_472cf4f409dc8d8afdc83498fef6d7b4",
+    "count": 3
+  }
+}

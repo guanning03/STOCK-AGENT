@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Caution: It's Earnings Season, And The Market Has Very High Expectations",
+      "description": "Stocks are priced for earnings to exceed already ambitious forecasts. Read why I strongly advise against aggressive buying at current highs.",
+      "published_utc": "2025-07-13T17:41:13",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=892cad0227b3524f1bf75e1688659452f724ec52332ce9b19235cc515f1503c9",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1997048966/image_1997048966.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135915536,
+      "datetime": 1752442873
+    },
+    {
+      "title": "Trade War Redux",
+      "description": "",
+      "published_utc": "2025-07-13T07:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f3135eb93323b4a45a470f39ef3d73e9a8e0089a81a1e41084e05ca39c0b9363",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135911506,
+      "datetime": 1752406200
+    },
+    {
+      "title": "When You Should (And Shouldn't) Buy DIVO Instead Of SCHD",
+      "description": "Discover why DIVO may make more sense than SCHD for many investors, as well as when it does not make sense.",
+      "published_utc": "2025-07-13T07:14:33",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6d8b4f7a66a1e7a7732f9142068794b68f96bbf2c9f565ccafde5e4266efd0cd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2201143585/image_2201143585.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135911323,
+      "datetime": 1752405273
+    },
+    {
+      "title": "Fiscal Flows, Bank Credit, And The Fed For July",
+      "description": "June 2025 fiscal flows signal short-term caution and likely SPX declines in July, but liquidity unlocks and Fed rate cuts hint at a strong year-end market.",
+      "published_utc": "2025-07-13T06:11:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=753b525a1244744802823bbaca8a5df988af10883f7b0c1ea4697dadf796e490",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2168730229/image_2168730229.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135910430,
+      "datetime": 1752401460
+    },
+    {
+      "title": "A Massive Bear Steepener May Be About To Shock Markets",
+      "description": "Long-term Treasury yields may surge as inflation risks rise and technicals strengthen, setting up a bear steepening. See why a breakout could be near.",
+      "published_utc": "2025-07-13T06:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=543b60048f413d3c660ec4e73ad40187513cf9b79ed13709d01075dc51c5eb99",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/985662772/image_985662772.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135910298,
+      "datetime": 1752400800
+    }
+  ]
+}

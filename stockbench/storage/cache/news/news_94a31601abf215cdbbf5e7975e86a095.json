@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The Zacks Analyst Blog Highlights PayPal, Visa and Mastercard",
+      "description": "PYPL slides 27.5% YTD as rivals V and MA gain, but new AI, ads and crypto tools fuel debate over whether PayPal's slump is a long-term opportunity.",
+      "published_utc": "2025-12-01T11:51:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=608c8a3e1185a0f92a79bfec3d8cad84102459a24d78c22afc073dac11672d6c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137658916,
+      "datetime": 1764607860
+    },
+    {
+      "title": "Tap, Travel, Transact: Is Visa Quietly Crafting the Perfect Growth Mix?",
+      "description": "V's tap-to-pay surge, cross-border rebound and AI-driven fraud tools are powering a potent growth mix for FY26.",
+      "published_utc": "2025-12-01T11:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9ef2803937be21dcdc03801963e7ca8a4fbbaf2ddd53e007f0545bb5a3175856",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137658920,
+      "datetime": 1764604800
+    },
+    {
+      "title": "This Week In Digital Payment - Visa Teams Up With Aquanow For Stablecoin Settlement",
+      "description": "Visa has announced a partnership with Aquanow to enhance its stablecoin settlement capabilities across the Central and Eastern Europe, Middle East, and Africa regions. This collaboration aims to integrate Aquanow’s digital asset infrastructure with Visa's technology, enabling financial institutions to settle transactions using stablecoins like USDC. The partnership is set to reduce costs and settlement times, addressing the growing demand for faster, cost-effective cross-border transactions...",
+      "published_utc": "2025-12-01T07:37:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5eecf8f59e969f41e056d40e223de06eb369d38bbc9569a33bbfd43b76d035c0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137659594,
+      "datetime": 1764592645
+    },
+    {
+      "title": "Payments app Oobit expands with South Africa launch",
+      "description": "Oobit’s decentralised settlement layer is said to support gasless, on-chain payments from user-controlled wallets directly.",
+      "published_utc": "2025-12-01T05:29:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ccafd8f16e2e1eb13060fbee58d239bda25336ae4fdea99dd73e967d07f71d46",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137662195,
+      "datetime": 1764584960
+    },
+    {
+      "title": "Amazon, Visa team on agentic tools",
+      "description": "The retail juggernaut is locking arms with the largest U.S. card network to provide software developers with tools and contacts for creating agentic commerce experiences.",
+      "published_utc": "2025-12-01T05:26:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=efadee41817308b9e19c084c0342278ed47169ceeb7474f8d5571696abec78b4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137659174,
+      "datetime": 1764584760
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:51:16.982145+00:00",
+    "cache_key": "news_94a31601abf215cdbbf5e7975e86a095",
+    "count": 5
+  }
+}

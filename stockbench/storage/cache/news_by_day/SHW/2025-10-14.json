@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "B of A Securities Maintains Sherwin-Williams (SHW) Neutral Recommendation",
+      "description": "",
+      "published_utc": "2025-10-14T08:03:14",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=b0fb90d26cb9a16ea6551c443ecdfc96c9724b78d6c0ac3aa6f80599f80fd3a2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137076351,
+      "datetime": 1760443394
+    },
+    {
+      "title": "B of A Securities Maintains Neutral on Sherwin-Williams, Lowers Price Target to $368",
+      "description": "B of A Securities  analyst Steve Byrne   maintains Sherwin-Williams (NYSE:SHW) with a Neutral and lowers the price target from $375 to $368.",
+      "published_utc": "2025-10-14T03:57:40",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=cffdcea37f1ed29654d4ca99c5e68431ba852b586d88a3f35d77e642d5a85c8b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138872190,
+      "datetime": 1760428660
+    }
+  ]
+}

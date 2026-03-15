@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": "5b5c64af5548ef75309130cdfdabc3ded03e67d8ca3d24bfd51535480a760ca0",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why Caterpillar Stock Topped the Market Today",
+      "author": "Eric Volkman",
+      "published_utc": "2025-01-13T23:18:12Z",
+      "article_url": "https://www.fool.com/investing/2025/01/13/why-caterpillar-stock-topped-the-market-today/?source=iedfolrf0000001",
+      "tickers": [
+        "CAT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803866/person-standing-in-front-of-construction-vehicles.jpg",
+      "description": "Caterpillar's shares rose over 3% on news of an analyst's recommendation upgrade from 'underperform' to 'in-line'. The analyst cited factors such as the recent decline in construction equipment stocks and better-than-expected sector demand as reasons for the upgrade.",
+      "keywords": [
+        "Caterpillar",
+        "construction equipment",
+        "analyst recommendation"
+      ],
+      "insights": [
+        {
+          "ticker": "CAT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article reports that Caterpillar's shares rose over 3% on the news of an analyst's recommendation upgrade from 'underperform' to 'in-line', indicating a positive sentiment towards the company."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:41:22.109088+00:00",
+    "cache_key": "news_6c5a9dfbe86172321e119286cb07a3e7",
+    "count": 1
+  }
+}

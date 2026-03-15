@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Berkshire Hathaway Q3 Earnings Beat, Revenues Miss, Both Rise Y/Y",
+      "description": "Berkshire Hathaway posts a 33.8% surge in Q3 operating earnings, driven by strong insurance and retail gains despite a slight revenue miss.",
+      "published_utc": "2025-11-05T11:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=78d1e672dd4ed3f7b0032a02d83c57d272ffc7de267cd29300729df93dbe54a2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137352235,
+      "datetime": 1762360200
+    },
+    {
+      "title": "Why Travelers (TRV) is a Top Growth Stock for the Long-Term",
+      "description": "Whether you're a value, growth, or momentum investor, finding strong stocks becomes easier with the Zacks Style Scores, a top feature of the Zacks Premium research service.",
+      "published_utc": "2025-11-05T09:45:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=75de75c6f719a02c1bfd933dd4836adb4b3f38ac95ddf68c0ebdfe6ce556f205",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137353775,
+      "datetime": 1762353903
+    },
+    {
+      "title": "Travelers Institute Announces Wednesdays with Woodward® Winter Webinar Schedule",
+      "description": "HARTFORD, Conn., November 05, 2025--The Travelers Institute, the public policy division of The Travelers Companies, Inc. (NYSE: TRV), today announced its Wednesdays with Woodward winter webinar schedule. The event series, hosted by Joan Woodward, President of the Travelers Institute and Executive Vice President of Public Policy at Travelers, features thought leaders from both the public and private sectors discussing topics at the intersection of insurance, business and public policy.",
+      "published_utc": "2025-11-05T09:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1c136178a211ed5ccec8ebb212702e6c21a414591ffcdd441c44b3ddbca403b7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137353776,
+      "datetime": 1762351200
+    }
+  ]
+}

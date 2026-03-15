@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "AI is reimagining work. CEOs must rethink how we prepare future workers",
+      "description": "AI and automation are already reshaping the future of work, but our collective choices will determine whether the disruption leads to decline or renewal.",
+      "published_utc": "2025-11-12T09:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fdbd80ecd9f348a01cade0466a890b75099512e45a9b48d47a6e2076fd68db5e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137458829,
+      "datetime": 1762956000
+    },
+    {
+      "title": "10 Industrials Stocks With Whale Alerts In Today's Session",
+      "description": "",
+      "published_utc": "2025-11-12T08:35:29",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=b4ebae2f8dfa1319e6b64a058c0f3d233c9954ac7806f8c2170c94c3da023ff2",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=2048&height=1536",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138483144,
+      "datetime": 1762954529
+    }
+  ]
+}

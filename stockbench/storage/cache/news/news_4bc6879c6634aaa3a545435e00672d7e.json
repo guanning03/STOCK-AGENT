@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Sector Update: Health Care Stocks Mixed in Late Afternoon Trading",
+      "description": "Health care stocks were mixed late Monday afternoon, with the NYSE Health Care Index fractionally hi",
+      "published_utc": "2025-12-29T15:50:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f094b75bece4944d93b88e2d2c6ed3bfaef7c75473902f8e6a92094e04a74ee0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137935051,
+      "datetime": 1767041447
+    },
+    {
+      "title": "Dogs of the Dow Had a Strong Year. Here Are the 10 Stocks for 2026.",
+      "description": "High-yielding Dow stocks outperformed the broader market this year. Will new Dow dogs Home Depot, Nike, and UnitedHealth keep the streak going?",
+      "published_utc": "2025-12-29T15:09:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cd50e43566d9a9aba8b1e25f1fc787bcfa25e7011508eceb15f5ea3da5f72ed7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137934700,
+      "datetime": 1767038940
+    },
+    {
+      "title": "Jim Cramer’s guide to investing: Pick out the obvious winners",
+      "description": "CNBC's Jim Cramer detailed his approach to investing in high-quality growth stocks.",
+      "published_utc": "2025-12-29T13:31:22",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=2b03909072d772cbaf8c5645cd42ba423e526284d5144fe2ee4e61c14730f6dd",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/104608847-IMG_5164-jim-cramer.jpg?v=1693522825&w=1920&h=1080",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137941475,
+      "datetime": 1767033082
+    },
+    {
+      "title": "Top 5 High-Yield S&P 500 Stocks to Buy for 2026",
+      "description": "High-yield S&P 500 stocks are gaining traction for 2026 as AI investment accelerates and investors seek income amid trade and geopolitical uncertainty.",
+      "published_utc": "2025-12-29T12:26:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=01586c10e95d8e87289b50fb612fee7253dac09b8550af44122d300c42b2c6a6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137933895,
+      "datetime": 1767029160
+    },
+    {
+      "title": "VFMV: FDLO May Be A Better Choice",
+      "description": "",
+      "published_utc": "2025-12-29T11:58:17",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6fb31d62fd690a98a1758c3c3ac0017f02ddb22e9ad5e79579660b04c7eead54",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137935254,
+      "datetime": 1767027497
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T09:22:12.234517+00:00",
+    "cache_key": "news_4bc6879c6634aaa3a545435e00672d7e",
+    "count": 5
+  }
+}

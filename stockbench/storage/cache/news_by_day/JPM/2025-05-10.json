@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Invesco Charter Fund Q1 2025 Commentary",
+      "description": "Outperformance mainly resulted from stock selection in the consumer discretionary, health care and energy sectors.",
+      "published_utc": "2025-05-10T23:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=47c67780031ae9f1e8e62e138a47a2d4e20de28c34c16e13734a28f4ee43325b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1442731840/image_1442731840.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134369645,
+      "datetime": 1746935100
+    },
+    {
+      "title": "Invesco Core Plus Bond Fund Q1 2025 Commentary",
+      "description": "We observe that yield spreads between Treasuries and non-Treasury sectors have been tight, which makes our credit underwriting and security selection even more important.",
+      "published_utc": "2025-05-10T21:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9db7bc797006ae6e3410a0d06a2cd75c9d31f894078c7ccff8a1252487c4d049",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1255522240/image_1255522240.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134369065,
+      "datetime": 1746927300
+    },
+    {
       "title": "For Exhausted Stock Market Pros the Choice Is Buy or Stay Home",
       "description": "(Bloomberg) -- The stock market’s stunning rebound over the last month has largely been driven by Main Street investors buying the dip in everything in sight while professional money managers ditched US stocks, spooked by mounting fears of slowing economic growth and trade war disruptions.Most Read from BloombergAs Trump Reshapes Housing Policy, Renters Face Rollback of RightsIs Trump’s Plan to Reopen the Notorious Alcatraz Prison Realistic?A New Central Park Amenity, Tailored to Its East Harlem",
       "published_utc": "2025-05-10T20:00:07",

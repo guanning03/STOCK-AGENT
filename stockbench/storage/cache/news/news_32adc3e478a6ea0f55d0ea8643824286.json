@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "id": "a0323f095fa1b19e734bf80a806248c395c95ce5521fab42c53cc5a2d263bbb2",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "2 Dividend Stocks to Double Up on Right Now",
+      "author": "Demitri Kalogeropoulos",
+      "published_utc": "2025-01-12T10:47:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/12/2-dividend-stocks-to-double-up-on-right-now/?source=iedfolrf0000001",
+      "tickers": [
+        "MCD",
+        "HD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803585/gettyimages-598258054.jpg",
+      "description": "The article discusses two Dow dividend stocks, McDonald's and Home Depot, that appear primed to deliver strong returns in 2025 despite the recent underperformance of dividend stocks compared to tech stocks. The article suggests that these stocks are attractive long-term investments for income investors.",
+      "keywords": [
+        "McDonald's",
+        "Home Depot",
+        "Dow Jones Industrial Average",
+        "Nasdaq Composite",
+        "dividend stocks",
+        "income investing"
+      ],
+      "insights": [
+        {
+          "ticker": "MCD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights McDonald's strong dividend growth history, with 48 consecutive years of annual dividend increases, and its potential to become a Dividend King in the near future. Despite some recent challenges, the article suggests that McDonald's is a highly profitable and cash-rich business that will likely provide positive long-term returns for shareholders."
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that while Home Depot's results have been impacted by the high interest rate environment, the company's profit margin is holding up well compared to its competitor Lowe's. The article suggests that patience will be rewarded for investors who buy Home Depot stock at around 26 times earnings, as the company is well-positioned to benefit from the eventual recovery in the housing market."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:36:59.874439+00:00",
+    "cache_key": "news_32adc3e478a6ea0f55d0ea8643824286",
+    "count": 1
+  }
+}

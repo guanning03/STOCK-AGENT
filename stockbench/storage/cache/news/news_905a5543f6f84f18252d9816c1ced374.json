@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Dow Jones Tumbles As Trump's Greenland Threats Spur Sell The U.S. Trade; Tesla, Nvidia Skid",
+      "description": "The S&P 500 and Nasdaq broke key support on Trump's Greenland push with his Davos speech on tap. Nvidia, Tesla and other megacaps slumped. Netflix fell late.",
+      "published_utc": "2026-01-20T18:33:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=84b820ef56b230c0be46fb762d97e5038cbf8aedbcea2c608c02fc2bf8db02f2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138190911,
+      "datetime": 1768952022
+    },
+    {
+      "title": "Stocks slide after Trump threatens European allies with tariffs",
+      "description": "U.S. stocks sank on Tuesday following President Trump's weekend threats to impose tariffs on some NATO trading partners.",
+      "published_utc": "2026-01-20T18:31:16",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5fc6330dc5b0cfcda739ce6797af0968aa77c184e9557215c47566bba7e0e554",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138190912,
+      "datetime": 1768951876
+    },
+    {
+      "title": "Why Amazon (AMZN) Dipped More Than Broader Market Today",
+      "description": "The latest trading day saw Amazon (AMZN) settling at $231, representing a -3.4% change from its previous close.",
+      "published_utc": "2026-01-20T17:55:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=98c1a1a1c42b8cba0f2b7a8ca3580c2b1c0679fdf20868241731aaad370f10c8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138191504,
+      "datetime": 1768949703
+    },
+    {
+      "title": "Amazon CEO: Prices have gone up from tariffs",
+      "description": "If your next Amazon order seems more expensive, President Donald Trump’s sweeping tariffs may be partially to blame, Amazon CEO Andy Jassy said Tuesday.",
+      "published_utc": "2026-01-20T17:47:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1fc9eb0bac9c97b107df791916dd002f7af0040bcb067a0f1ac287bb768e0e47",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138190926,
+      "datetime": 1768949230
+    },
+    {
+      "title": "3 Growth Stocks Wall Street Might Be Sleeping On, but I'm Not",
+      "description": "The crowd is underpricing all three of these names, ignoring their likely futures.",
+      "published_utc": "2026-01-20T17:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9d828d9401b449d59c85b2421fcd6071bdd5569bfce7e7e6c808171f5349efd6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138190927,
+      "datetime": 1768947000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:48:04.803172+00:00",
+    "cache_key": "news_905a5543f6f84f18252d9816c1ced374",
+    "count": 5
+  }
+}

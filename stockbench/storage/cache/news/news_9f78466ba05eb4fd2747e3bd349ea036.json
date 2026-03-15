@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Dow, S&P 500 Hit New Peaks as Investors Look Past Geopolitical Risks",
+      "description": "The Dow Jones Industrial Average and the S&P 500 hit fresh all-time highs on Tuesday as investors ap",
+      "published_utc": "2026-01-06T16:43:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=55157a45a6f0607fd74e76038b7e8a4b5d963fea19a8d6c3f57a174a3f2a2c41",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138022666,
+      "datetime": 1767735820
+    },
+    {
+      "title": "Sector Update: Health Care Stocks Gain Late Afternoon",
+      "description": "Health care stocks rose late Tuesday afternoon with the NYSE Health Care Index gaining 1.9% and the",
+      "published_utc": "2026-01-06T15:59:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ea3ff4e730dd028195fbb860f8bcea1780ea8255cd86976cf8a41c9d66b2cef2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138022695,
+      "datetime": 1767733179
+    },
+    {
+      "title": "Are CVS, UnitedHealth, Cigna Hiding Billions In PBM Rebates? New Report Claims They Are",
+      "description": "A new report investigates how the three biggest health care giants in the U.S.are allegedly using shell companies to hide billions of dollars.",
+      "published_utc": "2026-01-06T14:35:47",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=0f998de9862aee5adaf96c0a9670c9897ab9fee822e7fc2bac20db1fa9a5c4b6",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/01/06/Health-Care-Insurance-Is-Smart-Financial.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138425537,
+      "datetime": 1767728147
+    },
+    {
+      "title": "Sector Update: Financial Stocks Advance Tuesday Afternoon",
+      "description": "Financial stocks rose in Tuesday afternoon trading with the NYSE Financial Index gaining 0.3% and th",
+      "published_utc": "2026-01-06T14:10:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c5c0b180f070f32ba7e4bd67d1a4bc3a6e824a132b4b5557ed38891f7f21da1d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138022786,
+      "datetime": 1767726630
+    },
+    {
+      "title": "Equities Rise Intraday as Markets Weigh Services Sector Data",
+      "description": "US benchmark equity indexes were higher after midday Tuesday as investors parsed the latest services",
+      "published_utc": "2026-01-06T13:59:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6a613c6164db6ede023c2b9e222c3a6fc51797b156852601833ad7f06cf5dfbf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138022787,
+      "datetime": 1767725997
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:04:53.766707+00:00",
+    "cache_key": "news_9f78466ba05eb4fd2747e3bd349ea036",
+    "count": 5
+  }
+}

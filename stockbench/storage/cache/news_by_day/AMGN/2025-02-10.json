@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "id": "67e726a4dfecc2559d301d3323e0549a3b0214423d2fb76e4000f61da82228d9",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Investing $1,000 in These 3 Beaten-Down Stocks Could Be a Brilliant Move",
+      "author": "Prosper Junior Bakiny",
+      "published_utc": "2025-02-10T11:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/10/investing-1000-in-these-3-beaten-down-stocks-could/?source=iedfolrf0000001",
+      "tickers": [
+        "CRSP",
+        "AMGN",
+        "REGN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806140/scientist-altering-dna-genome-project.jpg",
+      "description": "The article discusses three biotech companies - CRISPR Therapeutics, Amgen, and Regeneron - that underperformed the market last year but have the potential to recover. It analyzes the prospects of each company and recommends Amgen as the most attractive option, with Regeneron as a close second and CRISPR Therapeutics as the riskier but potentially higher-reward choice.",
+      "keywords": [
+        "biotech",
+        "CRISPR Therapeutics",
+        "Amgen",
+        "Regeneron"
+      ],
+      "insights": [
+        {
+          "ticker": "CRSP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights CRISPR Therapeutics' potential, noting its gene-editing platform and the promising prospects of its first approved product, Casgevy. While the company is still unprofitable, the article suggests that solid clinical and regulatory progress, coupled with increasing revenue from Casgevy, could allow CRISPR Therapeutics to bounce back."
+        },
+        {
+          "ticker": "AMGN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article presents Amgen as an excellent long-term pick, citing its deep product lineup, strong pipeline, and attractive dividend. Despite a recent setback with its weight loss candidate, the article suggests that Amgen is likely to overcome challenges and deliver strong returns to investors."
+        },
+        {
+          "ticker": "REGN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article acknowledges the challenges Regeneron is facing with its Eylea product, but notes that the company's Dupixent drug is still performing well, and that the high-dose formulation of Eylea is making progress. The article suggests that Regeneron can fill the gap left by the original Eylea formulation through innovation and its existing medicines, and that the stock could still deliver strong returns to long-term investors."
+        }
+      ]
+    }
+  ]
+}

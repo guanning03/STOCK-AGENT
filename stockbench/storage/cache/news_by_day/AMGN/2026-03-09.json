@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today: Dow Gains As Trump Says Iran War Is 'Very Complete;' Pharma Stock Dives (Live Coverage)",
+      "description": "The Dow Jones index came off lows on the stock market today. Oil prices surged on the U.S.-Iran war. Nvidia outperformed and Hims popped.",
+      "published_utc": "2026-03-09T15:53:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=443132f9ca6469751e985bcce2ef0349049fa28c379ea238799c760333cbd9df",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139355084,
+      "datetime": 1773086009
+    },
+    {
+      "title": "9 Health Care Stocks With Whale Alerts In Today's Session",
+      "description": "",
+      "published_utc": "2026-03-09T09:35:24",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=ae599d98ad6867cadb0b859e6cae918dd07b7d2d3463dfdd9f926de63336d88e",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_1.jpg?width=2048&height=1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139361806,
+      "datetime": 1773063324
+    },
+    {
+      "title": "Take the Zacks Approach to Beat the Markets: Starbucks, Amgen, Allogene in Focus",
+      "description": "ALLO, SBUX and AMGN highlight how Zacks strategies and portfolio picks are delivering strong gains despite recent market volatility.",
+      "published_utc": "2026-03-09T09:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=93001eed3c3c22f66946fe21eb9269665619c08af04d24539564c7dcf53916f7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139352639,
+      "datetime": 1773061200
+    },
+    {
+      "title": "Q4 Earnings Highs And Lows: Amgen (NASDAQ:AMGN) Vs The Rest Of The Therapeutics Stocks",
+      "description": "Earnings results often indicate what direction a company will take in the months ahead. With Q4 behind us, let’s have a look at Amgen (NASDAQ:AMGN) and its peers.",
+      "published_utc": "2026-03-09T06:02:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f390d9faf2f3370c6cfc9588c813ef270d71528acabb9464e3d3bec153520b94",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139350313,
+      "datetime": 1773050551
+    },
+    {
+      "title": "The first KRAS drugs have been sluggish on the market. Will the next generation fare better?",
+      "description": "The regulatory success of KRAS-targeting therapies marked a watershed moment, but there is room for improvement in the real world.",
+      "published_utc": "2026-03-09T04:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=72376f7342e593c7bf67f9a1ecfabc2b70a2b323cb058f0bd261bafc0e5d0c01",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139351145,
+      "datetime": 1773043200
+    }
+  ]
+}

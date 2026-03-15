@@ -1,6 +1,81 @@
 {
   "items": [
     {
+      "title": "TSMC says tariffs have some impact but AI demand robust",
+      "description": "U.S. tariffs are having some impact but demand for artificial intelligence remains strong and continues to outpace supply, the chief executive of Taiwanese chipmaker TSMC said on Tuesday. ...",
+      "published_utc": "2025-06-02T18:19:08",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=3684dbfc1ede623d8928b94efe92ce4b5118a3d089c2eb9047315ba0c05da60b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134968017,
+      "datetime": 1748902748
+    },
+    {
+      "title": "S&P 500's breakout May was largely a result of Mag 7 gains",
+      "description": "The S&P 500 (^GSPC) clocked its best month of trading in May since 1990, and the majority of the Magnificent Seven — comprised of tech stocks Meta Platforms (META), Microsoft (MSFT), Alphabet (GOOGL, GOOG), Amazon (AMZN), Apple (AAPL), Nvidia (NVDA), Tesla (TSLA) — may be deserving of some of the credit. Yahoo Finance host Julie Hyman recaps the Mag 7 stock gains and how it contributed to the S&P 500's breakout May. Stay up to date on the latest market action, minute-by-minute, with Yahoo Finance's Market Minute.",
+      "published_utc": "2025-06-02T17:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6590fcf7d3a80e62e72db1b7855f8457693929ba5793bc2183bc01a15df7b7e5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134967177,
+      "datetime": 1748899800
+    },
+    {
+      "title": "Apple Appeals EU's Interoperability Mandate",
+      "description": "Apple warns DMA compatibility requirements will erode seamless user experience",
+      "published_utc": "2025-06-02T15:23:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=51217e8afb5d9807e5102b9c314cf25377bee8cffe86cba4143f16e5929e37e9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134968384,
+      "datetime": 1748892185
+    },
+    {
+      "title": "The Magnificent Seven Stocks Staged a Blistering May Rally. What's Next?",
+      "description": "The Magnificent Seven gained more than 13% last month, making the group of big tech stocks one of the best-performing corners of financial markets in May.",
+      "published_utc": "2025-06-02T15:12:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c1ce72df5ac64a7b104222247c8510d5f6e20013673b6b1b31335d19b4aeb72e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134968385,
+      "datetime": 1748891520
+    },
+    {
+      "title": "Apple Stock Has ‘Significant,’ Long-Term Opportunities. The Case for Buying Now.",
+      "description": "BofA Securities analyst Wamsi Mohan sees a ‘significant,’ long term opportunity for Apple investors.",
+      "published_utc": "2025-06-02T14:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=19b0f070885ef40c43cc67aeaacefd8850dfa3bf53e183e4885b35f1fa94124e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134968386,
+      "datetime": 1748887800
+    },
+    {
       "title": "Samsung Nears Wide-Ranging Deal With Perplexity for AI Features",
       "description": "(Bloomberg) -- Samsung Electronics Co. is nearing a wide-ranging deal to invest in Perplexity AI Inc. and put search technology from the artificial intelligence startup at the forefront of the South Korean company’s devices. Most Read from BloombergBillionaire Steve Cohen Wants NY to Expand Taxpayer-Backed FerryWhere the Wild Children’s Museums AreThe Economic Benefits of Paying Workers to MoveNow With Colorful Blocks, Tirana’s Pyramid Represents a Changing AlbaniaNYC Congestion Toll Brings In $",
       "published_utc": "2025-06-02T07:00:00",

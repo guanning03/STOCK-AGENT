@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "id": "83cf874b957dcffc25707d9f5e6b8f1c471dcddadb530bb2556197aa5a3f6fb3",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Best Stocks to Buy Before 2025: Visa Stock vs. Mastercard Stock",
+      "author": "N/A",
+      "published_utc": "2024-12-09T15:25:42Z",
+      "article_url": "https://www.fool.com/investing/2024/12/09/best-stocks-to-buy-before-2025-visa-stock-vs-maste/?source=iedfolrf0000001",
+      "tickers": [
+        "MA",
+        "V"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800326/stock-market-data-with-uptrend-vector.jpg",
+      "description": "The Motley Fool is a financial services company founded in 1993, dedicated to providing investing solutions, personal finance education, and market analysis to millions of people through its various platforms.",
+      "keywords": [
+        "financial services",
+        "investing",
+        "personal finance",
+        "market analysis"
+      ],
+      "insights": [
+        {
+          "ticker": "MA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Motley Fool has positions in and recommends Mastercard, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Motley Fool has positions in and recommends Visa, indicating a positive sentiment towards the company."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:06:21.755873+00:00",
+    "cache_key": "news_422daecac690e9e50e6e2bc8e8b687ee",
+    "count": 1
+  }
+}

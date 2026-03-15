@@ -1,0 +1,196 @@
+{
+  "items": [
+    {
+      "title": "Amazon, Netflix, These Other Stocks Bear Watching As They Approach Buy Points",
+      "description": "Amazon, Netflix, These Other Stocks Bear Watching As They Approach Buy Points",
+      "published_utc": "2025-09-06T04:00:58",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=82ac3da594ed521d0332516694ae234e4776cbc73561b327b730707be2ca1136",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136712785,
+      "datetime": 1757145658
+    },
+    {
+      "title": "September Dogs Of The Dow Unleash One Ideal 'Safer' DiviDog",
+      "description": "Discover why Verizon is the standout Dow Dog for dividends and potential 19%+ returns.",
+      "published_utc": "2025-09-05T22:07:39",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1411b8fdf9d950ed4a557a748e1abc18582b4a5d86b95304b40b97619dfc20dc",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1920872358/image_1920872358.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136654562,
+      "datetime": 1757124459
+    },
+    {
+      "id": "83d9831c4dd6b931ee8980fb5f37437abae239961b02c8284c83fcbe9ac26cdb",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Prediction: This Underrated AI Stock Could Be the Next $4 Trillion Giant",
+      "author": "Geoffrey Seiler",
+      "published_utc": "2025-09-06T16:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/09/06/prediction-this-underrated-ai-stock-could-be-the-n/?source=iedfolrf0000001",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "AAPL",
+        "MSFT",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/831898/gettyimages-1489971344.jpg",
+      "description": "Alphabet overcame antitrust challenges and is positioned for significant growth through AI, search dominance, cloud computing, and emerging technologies like robotaxis and quantum computing.",
+      "keywords": [
+        "AI",
+        "search",
+        "cloud computing",
+        "antitrust",
+        "technology"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong market position, AI innovation, accelerating search revenue, cloud growth, potential for expansion to $4 trillion market cap, and favorable court ruling protecting search advantages"
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong market position, AI innovation, accelerating search revenue, cloud growth, potential for expansion to $4 trillion market cap, and favorable court ruling protecting search advantages"
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Potential expanded partnership with Alphabet for AI integration, mentioned as a potential collaborator"
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a comparative benchmark for valuation metrics"
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned only as a comparative valuation reference"
+        }
+      ]
+    },
+    {
+      "id": "3ce67d84d51750e91cc5f6f61eab5736ac2806136a4f9788a8599571ded72ec6",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Chewy Stock Keeps Beating the Stock Market. Time to Buy?",
+      "author": "Adria Cimino",
+      "published_utc": "2025-09-06T16:10:00Z",
+      "article_url": "https://www.fool.com/investing/2025/09/06/chewy-beats-market-time-to-buy/?source=iedfolrf0000001",
+      "tickers": [
+        "CHWY",
+        "NVDA",
+        "PLTR",
+        "WMT",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/831733/gettyimages-man-with-dog01.jpg",
+      "description": "Chewy, an online pet supplies retailer, has demonstrated strong financial performance with an 8% sales increase, expanding into veterinary services and leveraging customer loyalty through AutoShip and sponsored ads. Despite competitive challenges, the company shows promising long-term growth potential.",
+      "keywords": [
+        "pet supplies",
+        "e-commerce",
+        "veterinary services",
+        "AutoShip",
+        "sponsored ads"
+      ],
+      "insights": [
+        {
+          "ticker": "CHWY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong revenue growth, expanding business model, high customer loyalty, healthy financials, and strategic expansion into veterinary services"
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mentioned as a leading technology company driving market growth through artificial intelligence"
+        },
+        {
+          "ticker": "PLTR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Highlighted as a successful software company contributing to market growth"
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a potential competitor in low-price pet supply retail"
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a potential competitor in low-price pet supply retail"
+        }
+      ]
+    },
+    {
+      "id": "12fc680faa281fece1f645343339f0f6bb60acca8ad0e5b7f7d23b76be34af67",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Will Nvidia Be the First Company to Generate $1 Trillion in Annual Revenue? CEO Jensen Huang Shares Bold Projections for 2030",
+      "author": "Keithen Drury",
+      "published_utc": "2025-09-06T14:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/09/06/will-nvidia-be-the-first-company-to-generate-1-tri/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "AMZN",
+        "WMT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/831512/person-looking-at-computer-screen-in-shock.jpg",
+      "description": "Nvidia's CEO Jensen Huang projects $3-4 trillion AI infrastructure opportunity by 2030, potentially approaching $1 trillion in revenue. However, Amazon and Walmart might reach the $1 trillion milestone first, and significant uncertainties remain about AI investment and growth.",
+      "keywords": [
+        "Nvidia",
+        "AI",
+        "revenue",
+        "infrastructure",
+        "technology",
+        "semiconductors"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong projected growth in AI infrastructure, 56% revenue growth in fiscal 2026 Q2, potential market leadership in AI technology"
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Projected to reach $1 trillion revenue in just over three years, 13% quarterly revenue growth"
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Slower growth rate of 5% quarterly, expected to reach $1 trillion revenue in seven years"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:19:13.679156+00:00",
+    "cache_key": "news_237da5edb346b20d8f770ee3572feaeb",
+    "count": 5
+  }
+}

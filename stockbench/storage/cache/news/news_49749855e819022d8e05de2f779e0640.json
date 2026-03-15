@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "The Blockspace Podcast: Did Jack Dorsey Fix The Bitcoin Merchant Problem?",
+      "description": "Cash App & Square roll out Bitcoin payments at 4M+ merchants. Jack Dorsey leverages Lightning Network to compete with Visa/credit card fees. Plus: the controversial Bitcoin denomination change that's dividing the community.",
+      "published_utc": "2025-11-16T07:40:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8b38d7a327c0ecb19191c032fab5088192c4defd41b02efb6e52a3d5b3f86858",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137501972,
+      "datetime": 1763296800
+    },
+    {
+      "title": "4 Reasons to Buy This Warren Buffett Stock Like There's No Tomorrow",
+      "description": "Note: This list is not exhaustive.",
+      "published_utc": "2025-11-16T06:40:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6fe8e89d78927c97624fc37d53a0a3a88b14cac205397a7a1a9f00ac27e14aa9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137501973,
+      "datetime": 1763293200
+    },
+    {
+      "title": "Everyone Should Watch Capital One (COF), Says Jim Cramer",
+      "description": "We recently published 9 Stocks Jim Cramer Talked About in a Show Where He Advised OpenAI to Slow Down. Capital One Financial Corporation (NYSE:COF) is one of the stocks Jim Cramer discussed on the show. Unlike Block, Cramer has consistently praised Capital One Financial Corporation (NYSE:COF) over the past couple of months. Most of his […]",
+      "published_utc": "2025-11-16T02:44:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=30cc4599e5d76f041e586b7a1c6148a7945ec4dce45cf3f1e190affda3b139b2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137494614,
+      "datetime": 1763279041
+    },
+    {
+      "title": "Visa (V) Beats Q4 Revenue Estimates as Strong U.S. Consumer Spending Drives Card Transactions",
+      "description": "Visa Inc. (NYSE:V) ranks among the best financial stocks to buy according to billionaire Ken Fisher. On October 28, Visa Inc. (NYSE:V) slightly exceeded fourth-quarter earnings predictions and offered an optimistic outlook for the following fiscal year, as strong consumer spending in the United States pushed card transactions up on the company’s network. The payments […]",
+      "published_utc": "2025-11-16T00:12:28",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0a0430cd6e0e69d7aa2a25014ba3f252c66ccb32931aab9f9435efb044c1e001",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137494615,
+      "datetime": 1763269948
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:05:28.268919+00:00",
+    "cache_key": "news_49749855e819022d8e05de2f779e0640",
+    "count": 4
+  }
+}

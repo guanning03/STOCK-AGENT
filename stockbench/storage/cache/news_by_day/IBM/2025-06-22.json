@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "title": "BofA outlines the bull and bear arguments surrounding IBM shares",
+      "description": "Investing.com - Shares in International Business Machines (NYSE:IBM) has surged so far this year, spurred on by hopes around the software group’s artificial intelligence ambitions.",
+      "published_utc": "2025-06-22T06:35:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6996f6e2d010fa8f6c25b0c2bb7201f2171c24283e34b642baead375c780a4c0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135468693,
+      "datetime": 1750588502
+    },
+    {
       "title": "Analysts revamp IBM stock price target after AI-fueled new high",
       "description": "IBM stock hits a new high, but analysts say the rally may just be starting.",
       "published_utc": "2025-06-22T01:17:00",

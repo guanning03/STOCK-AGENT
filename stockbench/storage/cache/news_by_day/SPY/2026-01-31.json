@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "The 1-Minute Market Report, January 31, 2026",
+      "description": "",
+      "published_utc": "2026-01-31T17:45:20",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=76d31f0702015986163f63f7ac5c2b7fa1c57be5ed59b9506bc1063c611a501b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138321102,
+      "datetime": 1769899520
+    },
+    {
+      "title": "3 Emerging Market Stocks Leveraging South America’s Momentum",
+      "description": "Emerging markets have been outperforming the U.S. stock market as commodity strength and a weaker dollar drive capital flows.",
+      "published_utc": "2026-01-31T09:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=85a4f6324a2165b6bad194955114fd56cd0b54ddd4aecba47d13f26eea24755a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138323969,
+      "datetime": 1769868300
+    },
+    {
+      "title": "NIHI: 13% Yielding International Exposure From NEOS, A Clear Buy",
+      "description": "NEOS International High Income ETF offers a 13% yield via tax-efficient contracts and international value equities. See why NIHI ETF is a buy.",
+      "published_utc": "2026-01-31T04:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=826e669aeba9c9fe88a7b3e273c434e219c38b5d05f9901eee36b49fadbaa55b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1214399079/image_1214399079.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138315312,
+      "datetime": 1769850900
+    },
+    {
+      "title": "Investing In A Midterm Election Year",
+      "description": "",
+      "published_utc": "2026-01-31T03:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=15ab6aff3c39c55d926a35013002ee05702e29b7c7ba488bc0160ea05d4b87e0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138314877,
+      "datetime": 1769847300
+    },
+    {
+      "title": "Weekly Indicators: U.S. Dollar Decline Verging On Disorderly",
+      "description": "Track weekly U.S. economic indicators: strong consumer spending and jobs, mixed long leading signals, dollar drop and commodities. Click for the outlook.",
+      "published_utc": "2026-01-31T03:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6ebda06b9276772681ffb2d9df71b938835d6654c7bdd70b2e4be3eb55076aba",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/690369593/image_690369593.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138314847,
+      "datetime": 1769846400
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Weekly Commentary: One Serious Silly Season",
+      "description": "Discover the buzz around meme stocks, market trends, low interest rates, and junk bond gains.",
+      "published_utc": "2025-07-25T23:45:21",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f7fc8ddf741535f1028416b130f51ffb404fbd166993f12253ec83f2293cd298",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/825838354/image_825838354.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136094035,
+      "datetime": 1753501521
+    }
+  ]
+}

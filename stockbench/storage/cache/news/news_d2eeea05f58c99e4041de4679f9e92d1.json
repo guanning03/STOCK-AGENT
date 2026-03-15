@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Is DoorDash's Expanding Partner Base a Sign to Buy the Stock?",
+      "description": "DASH stock benefits from robust order growth and an expanding clientele, positioning it for continued success and future growth.",
+      "published_utc": "2025-04-02T12:27:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c4058ec4370ac222db4fbebdb0c510f8a93851524a2f4d9f352bf4517fb87595",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133669424,
+      "datetime": 1743611220
+    },
+    {
+      "title": "Goldman Sachs, Amazon.com Inc. share gains contribute to Dow's 229-point climb",
+      "description": "Goldman Sachs, Amazon.com Inc. share gains contribute to Dow's 229-point climb",
+      "published_utc": "2025-04-02T11:42:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=9edf30f41937168a3984c8fce44f17c34994380ed110caf7ac8ce94b9b03a7f6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133704637,
+      "datetime": 1743608520
+    },
+    {
+      "title": "Dow's 115-point rally led by gains for Goldman Sachs, Amazon.com Inc. stocks",
+      "description": "Dow's 115-point rally led by gains for Goldman Sachs, Amazon.com Inc. stocks",
+      "published_utc": "2025-04-02T09:50:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=21803cd693484d4c9f4cf02fd33326152e0f47b43694659cabd9512b0a318f89",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133669494,
+      "datetime": 1743601800
+    },
+    {
+      "title": "Home Depot Stock Slips Below Key SMAs: Value Play or Warning Sign?",
+      "description": "HD drives growth through strategic initiatives. Yet, softer consumer spending and high rates pressure profits. We assess whether the stock is a buy at current levels.",
+      "published_utc": "2025-04-02T09:13:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=87d427b8f82c1926de345025a3bb1db4110cd21460e85f1737c656d080fb7b2a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133669426,
+      "datetime": 1743599580
+    },
+    {
+      "title": "Trump's 'Liberation Day' tariffs may send prices for these 3 common household products higher",
+      "description": "Household durable goods could see prices go much higher depending on the severity of new Trump tariffs.",
+      "published_utc": "2025-04-02T09:01:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7d9da1a8823f878e999dcc1857c3d2aafa079945ced916ea44cec17f5a6ba3c3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133669428,
+      "datetime": 1743598906
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T23:05:14.582302+00:00",
+    "cache_key": "news_d2eeea05f58c99e4041de4679f9e92d1",
+    "count": 5
+  }
+}

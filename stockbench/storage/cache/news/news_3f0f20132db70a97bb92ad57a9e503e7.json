@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "3 Observations On Why I'm Not Afraid Of A Crash",
+      "description": "Discover why recent stock market volatility isn't signaling a crash. Learn how to spot buy opportunities amid resilient fundamentals.",
+      "published_utc": "2025-11-15T06:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ab23bfe2338c46545366ea9f9b76c42b253e9d1ddc6d5e15bca223eca1977433",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1451361311/image_1451361311.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137488792,
+      "datetime": 1763206200
+    },
+    {
+      "title": "Weekly Commentary: Last Gasp",
+      "description": "Money market fund assets surged $347 billion, or 25% annualized, over the past 12 weeks. Read more here.",
+      "published_utc": "2025-11-15T03:45:42",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ebd357ed3cd02df3eccb917f65ffb93b37403e2efb0bae7d56e19e50d0fde83a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1262327382/image_1262327382.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137488134,
+      "datetime": 1763196342
+    },
+    {
+      "title": "GPIQ Is Becoming The King Of The Covered Call ETFs",
+      "description": "The GPIQ ETF offers strong income, partial upside, stable payouts and fast AUM growth with a proven strategy. See why GPIQ ETF is a buy.",
+      "published_utc": "2025-11-15T03:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3f54589277d829804328ddddfbc9ceb3f5aadc8616dafae44721bf2dfc5ef340",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1445810162/image_1445810162.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137488104,
+      "datetime": 1763195400
+    },
+    {
+      "title": "The Government Reopened, The Market Sold The News",
+      "description": "The US government shutdown ends after 43 days as the House passes a funding bill to reopen most agencies.",
+      "published_utc": "2025-11-15T03:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1c2af1057f039b4d5e1971e499968958adf48b389d151c960f1b639212990ad3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2245848775/image_2245848775.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137488025,
+      "datetime": 1763194500
+    },
+    {
+      "title": "TBG: This Dividend Growth ETF Beats SCHD",
+      "description": "Compare TBG vs SCHD dividend ETFs: discover key differences in strategy, performance, and diversification.",
+      "published_utc": "2025-11-15T03:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ad9f1980a7bdd18a992677d9589513e8dbff3a72a247e88620116f99e9eb9b6e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1398472101/image_1398472101.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137488024,
+      "datetime": 1763194500
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:04:35.888364+00:00",
+    "cache_key": "news_3f0f20132db70a97bb92ad57a9e503e7",
+    "count": 5
+  }
+}

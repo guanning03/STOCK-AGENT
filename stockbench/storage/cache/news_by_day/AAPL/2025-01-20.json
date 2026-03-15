@@ -1,0 +1,224 @@
+{
+  "items": [
+    {
+      "id": "828366010c7e387752cffa52094d78724a2098b4373a2cdf4f7c0f99d899b969",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Subtle Investing Mistakes I Won't Repeat in 2025 And Beyond",
+      "author": "Alex Carchidi",
+      "published_utc": "2025-01-20T12:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/20/3-subtle-investing-mistakes-i-wont-repeat-in-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "PFE",
+        "COST",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804045/exasperated-investor-consults-tablet.jpg",
+      "description": "The article discusses three investing mistakes the author made in 2024, including failing to update his investment thesis on Pfizer, not doing due diligence on Costco's new CEO, and assuming Apple's growth would continue indefinitely. The author shares lessons learned to help readers avoid similar mistakes.",
+      "keywords": [
+        "investing mistakes",
+        "investment thesis",
+        "Pfizer",
+        "Costco",
+        "Apple"
+      ],
+      "insights": [
+        {
+          "ticker": "PFE",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The author's investment thesis on Pfizer was no longer accurate, as an activist investor group pointed out the company's struggles with R&D efficiency and capital allocation. The stock has underperformed the market over the past three years."
+        },
+        {
+          "ticker": "COST",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The author did not do enough due diligence when Costco's CEO changed, even though the company's leadership transition was successful. The author still has a high level of trust in Costco's board and plans to continue investing in the company."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The author assumed Apple's growth would continue indefinitely, but the company's actual performance, while impressive, has not kept up with some of its competitors. The author plans to do more diligence on Apple to avoid complacency, even though the stock is still a favorable investment."
+        }
+      ]
+    },
+    {
+      "id": "7a2072a8b255e6e6224fcad6803af0e43cc9060bc105a2b06b88feb46c5bc75e",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Could This Growth Stock Have a Meteoric Rise in 2025?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-20T11:17:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/20/could-this-growth-stock-have-meteoric-rise-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "ROKU",
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804334/three-people-on-couch-watching-tv-living-room.jpg",
+      "description": "Roku, a leading smart-TV platform, continues to post solid double-digit revenue growth despite facing competition from tech giants like Alphabet, Amazon, and Apple. The company's growth is driven by the rise of streaming entertainment and digital advertising, and its leading market share in North America makes it a stock worth considering for long-term investors.",
+      "keywords": [
+        "Roku",
+        "streaming",
+        "digital advertising",
+        "competition"
+      ],
+      "insights": [
+        {
+          "ticker": "ROKU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Roku's strong growth trajectory, with 13% year-over-year increase in households and 16% sales gain in Q3 2024. It also notes Roku's leading market share in smart-TV operating systems in North America, which gives it an advantage over its larger competitors. The article suggests Roku is well-positioned to benefit from the rise of streaming entertainment and digital advertising, making it an attractive investment opportunity."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Alphabet as a direct competitor to Roku in the streaming and digital advertising space, but does not provide a clear assessment of Alphabet's performance or outlook."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Alphabet as a direct competitor to Roku in the streaming and digital advertising space, but does not provide a clear assessment of Alphabet's performance or outlook."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article identifies Amazon as a competitor to Roku in the streaming and digital advertising market, but does not offer a detailed analysis of Amazon's performance or position."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists Apple as a direct competitor to Roku in the streaming and digital advertising space, but does not provide any specific insights about Apple's performance or outlook."
+        }
+      ]
+    },
+    {
+      "id": "55fb7e6dbb242ab248441fd73be8556d2703cb8b6543fe60b20003959ad0196d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Nvidia Stock Is Poised to Be a Big Winner From Humanoid Robots, Which Are Coming Faster Than Many People Probably Realize",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-20T10:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/20/nvda-stock-best-humanoid-robots-stocks/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "AAPL",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD",
+        "MS",
+        "MSpA",
+        "MSpE",
+        "MSpF",
+        "MSpI",
+        "MSpK",
+        "MSpL",
+        "MSpO",
+        "MSpP",
+        "MSpQ"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804499/ai-stocks-robots-robotic-stocks-humanoid.png",
+      "description": "Nvidia is well-positioned to benefit from the rapid growth of the humanoid robot market, which is projected to reach $59.2 billion by 2029. The company has developed a comprehensive AI platform for leading humanoid robot companies, making it a prime investment opportunity in this emerging market.",
+      "keywords": [
+        "Nvidia",
+        "humanoid robots",
+        "AI",
+        "market growth"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Nvidia's leadership in providing chips and technology to enable AI capabilities for humanoid robots. The company has ramped up its robotic offerings, including the introduction of its Project GR00T AI foundation model and other initiatives, making it well-positioned to capitalize on the projected growth of the humanoid robot market."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Nvidia is the world's second-largest company by market cap, behind Apple, but does not provide any further insights or commentary on Apple's involvement in the humanoid robot market."
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article cites a report from Goldman Sachs that projects the total addressable market for humanoid robots to reach $38 billion by 2035, up significantly from a previous projection of $6 billion. This indicates that Goldman Sachs is bullish on the growth potential of the humanoid robot market."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article cites a report from Goldman Sachs that projects the total addressable market for humanoid robots to reach $38 billion by 2035, up significantly from a previous projection of $6 billion. This indicates that Goldman Sachs is bullish on the growth potential of the humanoid robot market."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article cites a report from Goldman Sachs that projects the total addressable market for humanoid robots to reach $38 billion by 2035, up significantly from a previous projection of $6 billion. This indicates that Goldman Sachs is bullish on the growth potential of the humanoid robot market."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article cites a report from Goldman Sachs that projects the total addressable market for humanoid robots to reach $38 billion by 2035, up significantly from a previous projection of $6 billion. This indicates that Goldman Sachs is bullish on the growth potential of the humanoid robot market."
+        },
+        {
+          "ticker": "MS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Morgan Stanley is also very bullish on the growth prospects for humanoid robots, projecting that there will be 40,000 humanoids working alongside humans in the U.S. by 2030, and that number will soar to 8 million by 2040 and 63 million by 2025."
+        },
+        {
+          "ticker": "MSpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Morgan Stanley is also very bullish on the growth prospects for humanoid robots, projecting that there will be 40,000 humanoids working alongside humans in the U.S. by 2030, and that number will soar to 8 million by 2040 and 63 million by 2025."
+        },
+        {
+          "ticker": "MSpE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Morgan Stanley is also very bullish on the growth prospects for humanoid robots, projecting that there will be 40,000 humanoids working alongside humans in the U.S. by 2030, and that number will soar to 8 million by 2040 and 63 million by 2025."
+        },
+        {
+          "ticker": "MSpF",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Morgan Stanley is also very bullish on the growth prospects for humanoid robots, projecting that there will be 40,000 humanoids working alongside humans in the U.S. by 2030, and that number will soar to 8 million by 2040 and 63 million by 2025."
+        },
+        {
+          "ticker": "MSpI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Morgan Stanley is also very bullish on the growth prospects for humanoid robots, projecting that there will be 40,000 humanoids working alongside humans in the U.S. by 2030, and that number will soar to 8 million by 2040 and 63 million by 2025."
+        },
+        {
+          "ticker": "MSpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Morgan Stanley is also very bullish on the growth prospects for humanoid robots, projecting that there will be 40,000 humanoids working alongside humans in the U.S. by 2030, and that number will soar to 8 million by 2040 and 63 million by 2025."
+        },
+        {
+          "ticker": "MSpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Morgan Stanley is also very bullish on the growth prospects for humanoid robots, projecting that there will be 40,000 humanoids working alongside humans in the U.S. by 2030, and that number will soar to 8 million by 2040 and 63 million by 2025."
+        },
+        {
+          "ticker": "MSpO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Morgan Stanley is also very bullish on the growth prospects for humanoid robots, projecting that there will be 40,000 humanoids working alongside humans in the U.S. by 2030, and that number will soar to 8 million by 2040 and 63 million by 2025."
+        },
+        {
+          "ticker": "MSpP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Morgan Stanley is also very bullish on the growth prospects for humanoid robots, projecting that there will be 40,000 humanoids working alongside humans in the U.S. by 2030, and that number will soar to 8 million by 2040 and 63 million by 2025."
+        },
+        {
+          "ticker": "MSpQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Morgan Stanley is also very bullish on the growth prospects for humanoid robots, projecting that there will be 40,000 humanoids working alongside humans in the U.S. by 2030, and that number will soar to 8 million by 2040 and 63 million by 2025."
+        }
+      ]
+    }
+  ]
+}

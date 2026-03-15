@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "id": "8110c55b054dca91cf3c83f24d4d5b5d17f7700edaf330ca09de929231418a59",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "How Much Money Did SpaceX Make in 2024?",
+      "author": "Rich Smith",
+      "published_utc": "2025-02-08T12:07:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/08/how-much-money-did-spacex-make-in-2024/?source=iedfolrf0000001",
+      "tickers": [
+        "RKLB",
+        "BA",
+        "BApA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806589/spacex-falcon-9-rocket-trail-on-the-beach.jpg",
+      "description": "SpaceX's Starlink internet service has grown much faster than anticipated, with revenue and subscriber growth exceeding initial forecasts. While SpaceX's launch revenue fell short of expectations, Starlink's strong performance helped the company meet its overall revenue targets.",
+      "keywords": [
+        "SpaceX",
+        "Starlink",
+        "Payload Space",
+        "Rocket Lab",
+        "Boeing"
+      ],
+      "insights": [
+        {
+          "ticker": "RKLB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Rocket Lab as a competitor to SpaceX in the small-rocket space, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article briefly mentions Boeing as a potential competitor to SpaceX in providing space taxi services to the International Space Station, but does not provide any further details about the company's performance or outlook."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article briefly mentions Boeing as a potential competitor to SpaceX in providing space taxi services to the International Space Station, but does not provide any further details about the company's performance or outlook."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:47:39.043730+00:00",
+    "cache_key": "news_02325d8b6543f55b8708871821ae497c",
+    "count": 1
+  }
+}

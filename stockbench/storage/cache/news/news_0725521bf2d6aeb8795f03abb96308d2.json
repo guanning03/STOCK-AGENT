@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "id": "234bd2cd1d188b6b8d36d8689308780322be54ecec8ab41acc215cc9a8127049",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "If You Bought 1 Share of McDonald's at Its IPO, Here's How Many Shares You Would Own Now",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-15T11:12:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/15/if-you-bought-1-share-of-mcdonalds-at-its-ipo-here/?source=iedfolrf0000001",
+      "tickers": [
+        "MCD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802760/shocked-expression-looking-at-laptop-2022.jpg",
+      "description": "If you had bought one share of McDonald's at its IPO in 1965 for $22.50, that share would have become 729 shares today, worth a total of $212,868. McDonald's has also paid dividends since the mid-1970s, providing an additional income stream.",
+      "keywords": [
+        "McDonald's",
+        "IPO",
+        "stock splits",
+        "dividends",
+        "long-term investment"
+      ],
+      "insights": [
+        {
+          "ticker": "MCD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the tremendous growth and returns that an investment in McDonald's since its IPO would have generated, with the initial $22.50 investment turning into over $212,000 worth of shares today. The company's 12 stock splits and consistent dividend payments have contributed to this impressive performance, making it a successful long-term investment."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:50:46.373203+00:00",
+    "cache_key": "news_0725521bf2d6aeb8795f03abb96308d2",
+    "count": 1
+  }
+}

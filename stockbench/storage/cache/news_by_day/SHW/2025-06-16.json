@@ -14,6 +14,21 @@
       "api_source": "finnhub_company",
       "id": 135303237,
       "datetime": 1750076796
+    },
+    {
+      "title": "Top 3 Materials Stocks That Could Blast Off This Month",
+      "description": "",
+      "published_utc": "2025-06-16T04:00:48",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=175ac2b51909c8390a4ddb4db04c5118ecc495187a484ed610d378beb0b165b1",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/06/16/Wall-street-shutter3.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138578202,
+      "datetime": 1750060848
     }
   ]
 }

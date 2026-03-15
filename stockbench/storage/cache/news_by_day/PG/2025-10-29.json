@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "id": "604defacad3d42dcf8c0c12f51d2c5612ebb98ebf086d2368b3c829e0cd4b40a",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "Wayfair Q3 Strength Confirms Bullish Reversal as Tailwinds Align for 2026",
+      "author": "Thomas Hughes",
+      "published_utc": "2025-10-29T17:14:00Z",
+      "article_url": "https://www.investing.com/analysis/wayfair-q3-strength-confirms-bullish-reversal-as-tailwinds-align-for-2026-200669315",
+      "tickers": [
+        "W",
+        "UPS",
+        "TSCO",
+        "PG"
+      ],
+      "amp_url": "https://m.investing.com/analysis/wayfair-q3-strength-confirms-bullish-reversal-as-tailwinds-align-for-2026-200669315?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "Wayfair reported strong Q3 results with 8% revenue growth, improved cash flow, and positive analyst outlook for 2026, driven by potential rate reductions and consumer resilience.",
+      "keywords": [
+        "Wayfair",
+        "Q3 earnings",
+        "revenue growth",
+        "market reversal",
+        "consumer spending"
+      ],
+      "insights": [
+        {
+          "ticker": "W",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Q3 results exceeded expectations with 8% revenue growth, 220% increase in adjusted EPS, improved cash flow, and strong analyst ratings with price target raised to $105"
+        },
+        {
+          "ticker": "UPS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Improved revenue guidance for holiday quarter, indicating potential positive market conditions"
+        },
+        {
+          "ticker": "TSCO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Anticipated strength in organic sales and favorable Q4 guidance"
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned in context of potential Q4 performance, no specific details provided"
+        }
+      ]
+    },
+    {
+      "title": "It’s Time to Go on the Defensive in This Market",
+      "description": "Defensive stocks have been underperforming the market for too long—and they also look reasonably valued. Signs of a comeback are popping up.",
+      "published_utc": "2025-10-29T13:23:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=528d82e5a504d87581eb2025d22fb34071916da46b3e85a8f9e7867a8f511629",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137258460,
+      "datetime": 1761758580
+    },
+    {
+      "title": "20 Years on Wall Street Taught Me: Dividend Blue-Chips You Never Sell",
+      "description": "These are the kind of stocks that growth and income investors can buy now, tomorrow, next week, or next year and hold for the long term.",
+      "published_utc": "2025-10-29T10:42:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=98268f865bbe01c3c9e198d5d2c6320bab18767716d876fdc5838eef43cbda1b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137258426,
+      "datetime": 1761748978
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "id": "ad1fa97643a6c737b5c136ca6c54b19caac9b47d4fcba9255e82f5f9513bbdd6",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Should You Invest $1,000 in Home Depot Stock Right Now and Hold for 10 Years?",
+      "author": "Neil Patel",
+      "published_utc": "2025-01-25T09:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/25/should-you-invest-1000-home-depot-stock-right-now/?source=iedfolrf0000001",
+      "tickers": [
+        "HD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804911/hd.jpg",
+      "description": "Home Depot is the clear leader in the home improvement industry, but has faced a recent slowdown due to higher interest rates and inflationary pressures. However, the company has durable competitive advantages and industry tailwinds that could make it a smart long-term investment, despite its current premium valuation.",
+      "keywords": [
+        "Home Depot",
+        "home improvement industry",
+        "investment",
+        "valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "HD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Home Depot is the clear leader in the home improvement industry, with a strong brand and competitive advantages. Despite recent headwinds, the company is well-positioned to continue growing its revenue and net income in the long term due to industry tailwinds and its ability to return cash to shareholders."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:12:52.397426+00:00",
+    "cache_key": "news_e953ebfef18f31004acda7d146bf2d3b",
+    "count": 1
+  }
+}

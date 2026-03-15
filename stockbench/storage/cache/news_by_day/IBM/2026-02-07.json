@@ -1,0 +1,200 @@
+{
+  "items": [
+    {
+      "id": "3ac359797cac044377291816190ed04b50086b796afdf4997361aef998c98425",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Best Stocks to Invest $5,000 in Right Now",
+      "author": "James Brumley",
+      "published_utc": "2026-02-07T17:23:00Z",
+      "article_url": "https://www.fool.com/investing/2026/02/07/best-stocks-to-invest-5000-in-ibm-fluor-palo-alto/?source=iedfolrf0000001",
+      "tickers": [
+        "FLR",
+        "PANW",
+        "IBM"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F853288%2Ftracking-investments-wealth-family-planning.jpg&w=1200&op=resize",
+      "description": "The article recommends three stocks for a $5,000 investment: Fluor (FLR), a heavy construction company positioned to benefit from infrastructure projects and nuclear power expansion; Palo Alto Networks (PANW), a cybersecurity leader experiencing double-digit growth driven by record data breaches; and IBM, which is gaining traction in AI through mainframe and software sales while maintaining recurring revenue streams.",
+      "keywords": [
+        "stock investment",
+        "infrastructure",
+        "nuclear power",
+        "cybersecurity",
+        "data breaches",
+        "artificial intelligence",
+        "mainframes",
+        "software"
+      ],
+      "insights": [
+        {
+          "ticker": "FLR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Despite recent revenue decline due to economic uncertainty, the company is well-positioned for future growth from deferred infrastructure projects and significant demand for nuclear power facility construction as the U.S. aims to triple nuclear capacity by 2050."
+        },
+        {
+          "ticker": "PANW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Record-breaking data breaches (up 79% since 2020) drive strong demand for cybersecurity services. Company expected to report 14% growth this year and 13% next year, with analyst consensus price target 37% above current price."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Successfully re-entered the AI market with 12% year-over-year revenue growth driven by AI-capable mainframes and software sales. One-third of revenue is recurring, providing stability against potential AI bubble bursting."
+        }
+      ]
+    },
+    {
+      "title": "Big Tech companies are starting to look like IBM in the 1960s",
+      "description": "The race to dominate the burgeoning AI market is pushing tech giants to adopt business models reminiscent of IBM's in the 1960s.",
+      "published_utc": "2026-02-07T10:00:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dce61d8a6ee0a830c486b4d986ce9d182738f18f03de6e54ad181c2edf6dd769",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138385609,
+      "datetime": 1770476430
+    },
+    {
+      "id": "0409eebc1a39106785e8f6d37a86eb0e14c42bc083c27ea3adafbd6aa5e2d035",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Artificial Intelligence (AI) Dark Horse That Wall Street Is Watching",
+      "author": "James Hires",
+      "published_utc": "2026-02-07T08:05:00Z",
+      "article_url": "https://www.fool.com/investing/2026/02/07/the-artificial-intelligence-ai-dark-horse-that-wal/?source=iedfolrf0000001",
+      "tickers": [
+        "PATH",
+        "MSFT",
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "IBM",
+        "SAP"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F852218%2Fgettyimages-2223894979.jpg&w=1200&op=resize",
+      "description": "UiPath, a software company developing agentic AI tools for automating business workflows, has attracted significant institutional investment from Vanguard, BlackRock, Bank of America, and Morgan Stanley in late 2025. Despite a low share price of $12.91 and market cap of $6.9B, the company demonstrates solid growth with Q3 revenue up 16% YoY and ARR at $1.78B (up 11% YoY). Partnerships with tech giants and industrial leaders, combined with strong cash position and growing high-value customer base, position it as a speculative AI opportunity, though it has yet to achieve net profitability.",
+      "keywords": [
+        "artificial intelligence",
+        "agentic AI",
+        "workflow automation",
+        "institutional investment",
+        "software-as-a-service",
+        "recurring revenue"
+      ],
+      "insights": [
+        {
+          "ticker": "PATH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong institutional buying interest, solid revenue and ARR growth (16% and 11% YoY respectively), expanding high-value customer base, strong cash position ($744.1M net cash), and strategic partnerships with major tech and industrial companies support bullish outlook despite lack of profitability."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a technology partner of UiPath but no specific business impact or sentiment drivers discussed in the article."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a technology partner of UiPath but no specific business impact or sentiment drivers discussed in the article."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a technology partner of UiPath but no specific business impact or sentiment drivers discussed in the article."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a technology partner of UiPath but no specific business impact or sentiment drivers discussed in the article."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a business partner of UiPath but no specific business impact or sentiment drivers discussed in the article."
+        },
+        {
+          "ticker": "SAP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a business partner of UiPath but no specific business impact or sentiment drivers discussed in the article."
+        }
+      ]
+    },
+    {
+      "title": "Spotlight On Coca-Cola, Ford, AstraZeneca Earnings",
+      "description": "",
+      "published_utc": "2026-02-07T06:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5ca4aec29dc6a9800394b7db9e74698d9736b0b6f57431b318ce59910f27649d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138385816,
+      "datetime": 1770462000
+    },
+    {
+      "id": "600d423767a8e432cddf589eb08b512e94000565098a6f26abb664f182818828",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Should You Forget IonQ and Buy These 2 Tech Stocks Instead?",
+      "author": "Justin Pope",
+      "published_utc": "2026-02-07T04:13:00Z",
+      "article_url": "https://www.fool.com/investing/2026/02/06/should-you-forget-ionq-and-buy-these-2-tech-stocks/?source=iedfolrf0000001",
+      "tickers": [
+        "IONQ",
+        "IONQ.WS",
+        "MSFT",
+        "IBM"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F853749%2Fscientists-studying-quantum-machine.jpg&w=1200&op=resize",
+      "description": "The article argues that while quantum computing is a promising market expected to reach nearly $100 billion annually, pure-play quantum stocks like IonQ carry high risk due to unproven technology and expensive valuations. Instead, investors should consider Microsoft and IBM, which have diversified businesses and established revenue streams while developing quantum computing capabilities.",
+      "keywords": [
+        "quantum computing",
+        "technology stocks",
+        "investment strategy",
+        "risk management",
+        "diversification"
+      ],
+      "insights": [
+        {
+          "ticker": "IONQ",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Criticized for expensive valuation relative to limited success, pure-play exposure with high risk if quantum technology doesn't materialize as expected, and lack of diversified revenue streams."
+        },
+        {
+          "ticker": "IONQ.WS",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Criticized for expensive valuation relative to limited success, pure-play exposure with high risk if quantum technology doesn't materialize as expected, and lack of diversified revenue streams."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Recommended as a safer alternative with quantum computing as one piece of a much larger diversified tech business; has developed advanced quantum processing chip technology, strong existing customer relationships via Azure and Microsoft 365, and solid legacy businesses with dividend growth."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Positioned as a leading quantum computing company with aggressive development of systems, hardware, and software; already generated over $1 billion in quantum computing revenue; offers consulting services that create enterprise relationships; Qiskit software has 13 million downloads."
+        }
+      ]
+    }
+  ]
+}

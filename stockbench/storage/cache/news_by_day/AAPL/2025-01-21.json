@@ -1,0 +1,232 @@
+{
+  "items": [
+    {
+      "id": "cd3790c3e2123a805a2f9ff48397701fa56e3a5873b2027bedb4527fd70025a0",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Meta Expands AI Wearables With Oakley Smart Glasses, Camera-Equipped Earbuds In Development",
+      "author": "Piero Cingari",
+      "published_utc": "2025-01-21T21:32:09Z",
+      "article_url": "https://www.benzinga.com/25/01/43114842/meta-expands-ai-wearables-with-oakley-smart-glasses-camera-equipped-earbuds-in-development",
+      "tickers": [
+        "META",
+        "AAPL"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/21/Meta-Platforms-Inc-.jpeg?width=1200&height=800&fit=crop",
+      "description": "Meta is expanding its wearable technology lineup, developing Oakley-branded smart glasses, smartwatches, and earbuds with built-in cameras to enhance its AI ecosystem.",
+      "keywords": [
+        "Meta",
+        "Oakley",
+        "smart glasses",
+        "smartwatches",
+        "earbuds",
+        "AI",
+        "wearables"
+      ],
+      "insights": [
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Meta's efforts to expand its wearable technology lineup, which signals the company's continued push into augmented reality and AI-driven computing. The development of new products like Oakley-branded smart glasses, smartwatches, and camera-equipped earbuds suggests that Meta is actively investing in and advancing its wearable technology capabilities."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Meta's camera-equipped earbuds could be a major competitor to Apple's AirPods, which are also reportedly exploring camera-enabled models. This suggests that Apple's position in the wearable technology market may be challenged by Meta's expanding offerings."
+        }
+      ]
+    },
+    {
+      "id": "7391f18972a7aea4d17e93122191b481fb42fc348e4c069c5320e7a77cd6f2ff",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Small Caps Soar, Apple Slips, Treasury Yields Fall On Trump Day 2: What's Driving Markets Tuesday?",
+      "author": "Piero Cingari",
+      "published_utc": "2025-01-21T19:04:11Z",
+      "article_url": "https://www.benzinga.com/news/global/25/01/43109835/small-caps-soar-apple-slips-treasury-yields-fall-on-trump-day-2-whats-driving-markets-tuesday",
+      "tickers": [
+        "AAPL",
+        "IWM",
+        "DIA",
+        "SPY",
+        "QQQ"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/21/Wall-Street-subway-sign.jpeg?width=1200&height=800&fit=crop",
+      "description": "The Russell 2000 index led the market, rallying 1.7%, while other large-cap indices trailed behind. Apple Inc. plunged 4.3% after a downgrade, and Treasury yields fell as investors were convinced by Trump's pledges on inflation control and lower federal spending.",
+      "keywords": [
+        "small caps",
+        "Apple",
+        "Treasury yields",
+        "Trump",
+        "market"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Apple Inc. plunged 4.3%, marking its worst trading day since early August 2024, following a downgrade by Jefferies citing challenges in iPhone sales in China."
+        },
+        {
+          "ticker": "IWM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Russell 2000 index, which tracks small-cap stocks, rallied 1.7%, leading the market as investors bet on more domestic-friendly policies following Donald Trump's inauguration."
+        },
+        {
+          "ticker": "DIA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Dow Jones index, composed of non-tech blue-chip companies, rose by 1.2%."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The S&P 500 index edged up 0.9%."
+        },
+        {
+          "ticker": "QQQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Nasdaq 100 index edged up 0.9%."
+        }
+      ]
+    },
+    {
+      "id": "ac1f9e0ed664b8dd086521f3faef5455ad10c2896948e7315a088002c7b06c3f",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why Apple Fell Even as the Market Rallied Today",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-21T18:44:09Z",
+      "article_url": "https://www.fool.com/investing/2025/01/21/why-apple-fell-hard-today/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "JEF"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804724/gettyimages-1691994671.jpg",
+      "description": "Apple was downgraded by two Wall Street analysts due to weaker-than-expected iPhone sales, particularly in China, where low-priced domestic rivals are gaining market share. The analysts also noted that the anticipated AI-fueled upgrade cycle may not materialize as expected.",
+      "keywords": [
+        "Apple",
+        "iPhone",
+        "China",
+        "AI"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Apple was downgraded by two Wall Street analysts due to weaker-than-expected iPhone sales, particularly in China, where low-priced domestic rivals are gaining market share. The analysts also noted that the anticipated AI-fueled upgrade cycle may not materialize as expected, and Apple's valuation appears expensive for a company with only single-digit growth."
+        },
+        {
+          "ticker": "JEF",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Jefferies analyst Edison Lee downgraded Apple from hold to underperform and lowered the price target, citing weaker iPhone sales."
+        }
+      ]
+    },
+    {
+      "id": "88ce08d99cd5a7f21711b3ba47d4600cfc73ea39f9baaa54cc319f02781cfdfd",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why Oracle Stock Is Soaring Today",
+      "author": "Johnny Rice",
+      "published_utc": "2025-01-21T18:41:15Z",
+      "article_url": "https://www.fool.com/investing/2025/01/21/why-oracle-stock-is-soaring-today/?source=iedfolrf0000001",
+      "tickers": [
+        "ORCL",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804728/oracle-stock-surges-tiktok-ban-delay-ai-regulation-changes.jpg",
+      "description": "Oracle's stock is up 5.7% as President Trump signed an executive order delaying the ban on TikTok, which uses Oracle as its primary cloud provider in the U.S. The order gives TikTok a 75-day reprieve, and investors appear hopeful that a deal can be worked out to reverse the ban permanently.",
+      "keywords": [
+        "Oracle",
+        "TikTok",
+        "executive order",
+        "cloud provider"
+      ],
+      "insights": [
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Oracle's stock is up due to the delay in the TikTok ban, as Oracle is the primary cloud provider for TikTok in the U.S."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Apple is taking a more cautious approach and is still blocking the download of TikTok in its app store."
+        }
+      ]
+    },
+    {
+      "id": "45049402dc34ee3ad2825cf4b15bbed4920811231076f0730c057439308b35ae",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "US Stocks Set To Open On A Positive Note As Trump's Second White House Term Kicks Off: Tesla, Apple, Netflix Among Stocks In Focus",
+      "author": "Rounak Jain",
+      "published_utc": "2025-01-21T12:11:43Z",
+      "article_url": "https://www.benzinga.com/markets/futures/25/01/43093520/us-stocks-set-to-open-on-a-positive-note-as-trumps-second-white-house-term-kicks-off-tesla-apple-",
+      "tickers": [
+        "TSLA",
+        "AAPL",
+        "NFLX",
+        "QQQ",
+        "SPY"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/21/New-York---May-22-New-York-Stock-Exchang.jpeg?width=1200&height=800&fit=crop",
+      "description": "US stocks are expected to open on a positive note as Donald Trump begins his second term as president. Key stocks in focus include Tesla, Apple, Netflix, and others. The market is optimistic about earnings growth prospects for US companies compared to their European counterparts.",
+      "keywords": [
+        "US stocks",
+        "Donald Trump",
+        "Tesla",
+        "Apple",
+        "Netflix",
+        "earnings growth",
+        "European stocks"
+      ],
+      "insights": [
+        {
+          "ticker": "TSLA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Tesla was among the top gainers on Friday, surging 3% during the session."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Apple stock fell nearly 2% after a rare downgrade from Jefferies, citing slowing revenue growth and iPhone demand."
+        },
+        {
+          "ticker": "NFLX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Netflix is mentioned as one of the stocks in focus, but no specific sentiment is provided."
+        },
+        {
+          "ticker": "QQQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Invesco QQQ ETF rose 0.50% in premarket trading, indicating a positive sentiment."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The SPDR S&P 500 ETF Trust gained 0.45% in premarket trading, indicating a positive sentiment."
+        }
+      ]
+    }
+  ]
+}

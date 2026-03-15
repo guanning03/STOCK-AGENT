@@ -1,0 +1,148 @@
+{
+  "items": [
+    {
+      "title": "Is the Goldman Sachs S&P 500 Premium Income ETF a Buy After Guild Investment Scooped Up Shares Worth $2.9 Million?",
+      "description": "The Goldman Sachs S&P 500 Premium Income ETF targets enhanced yield by combining broad U.S. equity exposure with a premium income strategy.",
+      "published_utc": "2026-01-24T17:50:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4407c8082ac61fb9c11312ce68c13e891b5f168a36a4e27db013b24c0a0b5c15",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138248954,
+      "datetime": 1769295002
+    },
+    {
+      "title": "Goldman Sachs Group's (NYSE:GS) five-year total shareholder returns outpace the underlying earnings growth",
+      "description": "The worst result, after buying shares in a company (assuming no leverage), would be if you lose all the money you put...",
+      "published_utc": "2026-01-24T08:00:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d97196908cf8ee181310d13a6eedddb3163538dd06bd5faf2666609ed0dc47ea",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138245142,
+      "datetime": 1769259608
+    },
+    {
+      "title": "Gold Has A New Buyer In Town — And The Old Price Rules No Longer Apply",
+      "description": "For decades, gold followed a familiar rhythm. Prices rose when fear spiked, fell when calm returned. When gold rallied too far, supply or selling pressure would bring it back down. That framework is now breaking. According to a Goldman Sachs report released Thursday, gold has entered a new phase. Private-sector buyers — not just central banks — are becoming a structural force in price formation. For that reason, the investment bank lifted its December 2026 gold forecast from $4,900 to $5,400 an",
+      "published_utc": "2026-01-24T06:46:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=07e7ac3e08fd61d28b17c32e575d148ada318642d5b1f715dc7e14ef0a112a8a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138244364,
+      "datetime": 1769255218
+    },
+    {
+      "title": "Hedge Funds Are Back on Top After a Long ‘Alpha Winter’",
+      "description": "Nearly half of investors plan to increase exposure to hedge funds, according to a Goldman Sachs survey.",
+      "published_utc": "2026-01-23T21:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b986c95050f615f64f3eb2a6276e4f82d2c0dbc473d1186abce8c4dc8fa11561",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138231140,
+      "datetime": 1769220000
+    },
+    {
+      "id": "022e317c0068ec3933aa3b5e889d0bd7978d3437f024b13a7017cf60c9888e4b",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "DIA vs. IWM: DIA Combines Higher Yield With Lower Cost, While IWM Offers Greater Diversification",
+      "author": "Jake Lerch",
+      "published_utc": "2026-01-24T22:28:02Z",
+      "article_url": "https://www.fool.com/coverage/etfs/2026/01/24/dia-vs-iwm-dia-combines-higher-yield-with-lower-cost-while-iwm-offers-greater-diversification/?source=iedfolrf0000001",
+      "tickers": [
+        "DIA",
+        "IWM",
+        "MSFT",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD",
+        "CAT"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Ff2894ef3e59a57033e3d12497757ed4ec0c197b2-1401x1251.png%3Fw%3D1401%26h%3D1251&w=1200&op=resize",
+      "description": "DIA tracks 30 blue-chip stocks with lower costs, higher dividend yield, and less volatility, while IWM provides broader diversification across 1,954 small-cap stocks. DIA showed stronger 5-year returns and risk-adjusted metrics, but IWM delivered higher 1-year returns. The choice depends on investor preference for stability versus diversification.",
+      "keywords": [
+        "ETF comparison",
+        "DIA",
+        "IWM",
+        "blue-chip stocks",
+        "small-cap stocks",
+        "dividend yield",
+        "expense ratio",
+        "volatility",
+        "diversification",
+        "index tracking"
+      ],
+      "insights": [
+        {
+          "ticker": "DIA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "DIA is presented favorably with lower expense ratio (0.16%), higher dividend yield (1.4%), lower volatility (beta 0.91), better 5-year returns ($1,749 vs $1,341), and smaller max drawdown (-20.76% vs -31.91%). The article suggests it appeals to investors seeking stability and established companies."
+        },
+        {
+          "ticker": "IWM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "IWM is presented as a viable alternative with strengths in diversification (1,954 holdings) and higher 1-year returns (20.0% vs 18.1%), but with higher volatility (beta 1.13) and larger drawdowns. It appeals to investors prioritizing broad small-cap exposure over stability."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a top holding in DIA (3.28% position). Neutral mention as it's simply identified as a major constituent without specific performance commentary."
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed as the largest position in DIA (3.75%). Neutral mention as it's identified as a major holding without specific performance evaluation."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed as the largest position in DIA (3.75%). Neutral mention as it's identified as a major holding without specific performance evaluation."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed as the largest position in DIA (3.75%). Neutral mention as it's identified as a major holding without specific performance evaluation."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed as the largest position in DIA (3.75%). Neutral mention as it's identified as a major holding without specific performance evaluation."
+        },
+        {
+          "ticker": "CAT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Identified as a top DIA holding (3.36%). Neutral mention as it's simply listed as a major constituent without commentary on its performance."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:53:44.670314+00:00",
+    "cache_key": "news_2f4d9569dc11b7ec4e543fcefd028b62",
+    "count": 5
+  }
+}

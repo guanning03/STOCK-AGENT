@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Travelers Cos. Inc. stock underperforms Tuesday when compared to competitors despite daily gains",
+      "description": "Travelers Cos. Inc. stock underperforms Tuesday when compared to competitors despite daily gains",
+      "published_utc": "2025-11-11T11:46:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b14216b81b9b5387c9512c1d5507f3c87b42e5fca1c2a777002f0d0d5b4115f5",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137511992,
+      "datetime": 1762879560
+    },
+    {
+      "title": "WRB Stock Near 52-Week High: A Signal for Investors to Hold Tight?",
+      "description": "W.R. Berkley stock gains from higher premiums, lower claims frequency in certain lines of business, effective capital deployment and sufficient liquidity.",
+      "published_utc": "2025-11-11T10:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=22e7b71e4791abead6464c37cd46ce82a3d7c19757b645ade5918058aa5804b5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137449067,
+      "datetime": 1762874400
+    },
+    {
+      "title": "The Zacks Analyst Blog HCA Healthcare, General Motors and The Travelers Companies",
+      "description": "Zacks spotlights HCA Healthcare, General Motors, and Travelers as top-ranked large-cap picks amid a volatile global week for markets",
+      "published_utc": "2025-11-11T01:09:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=749caea98d62ba8a819f5a3d9892d2fee8842a4cc9fe3161c05fb289b6d2641f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137437917,
+      "datetime": 1762841340
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:53:15.633294+00:00",
+    "cache_key": "news_d104d1217f3452821f8cb6d8e1883935",
+    "count": 3
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "id": "9fb78a9270a74372db83c39a39023661259df7844bc4210c18557f730b9db532",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "2 Artificial Intelligence (AI) Stocks to Buy Before They Soar to $4 Trillion in 2025, According to a Wall Street Analyst",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-04T08:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/04/2-ai-stocks-buy-before-soar-to-4-trillion-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802725/growth-12.jpg",
+      "description": "Wall Street analyst Dan Ives predicts that Apple and Microsoft will become the first $4 trillion companies by 2025, driven by their advancements in artificial intelligence. However, the author expresses skepticism about the valuations of these stocks.",
+      "keywords": [
+        "Artificial Intelligence",
+        "Apple",
+        "Microsoft",
+        "Wall Street Analyst"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The author acknowledges the potential of Apple's AI features, but is skeptical about the company's long-term strategy and the current valuation of the stock."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The author recognizes Microsoft's strong presence in cloud computing and AI, but also notes the company's expensive valuation, suggesting investors should wait for a better entry point."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:17:31.224146+00:00",
+    "cache_key": "news_1c08158895ebd9ca37eef59bc52b115f",
+    "count": 1
+  }
+}

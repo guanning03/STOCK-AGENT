@@ -1,8 +1,24 @@
 {
-  "items": [],
+  "items": [
+    {
+      "title": "How Is The Market Feeling About Sherwin-Williams?",
+      "description": "",
+      "published_utc": "2025-06-03T10:00:23",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f393bc04c6f252e58cdc29618066a4f39f78d3df5e34e266d5cb04165337ed49",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138872231,
+      "datetime": 1748959223
+    }
+  ],
   "metadata": {
-    "cached_at": "2025-09-25T07:51:32.798539+00:00",
+    "cached_at": "2026-03-14T00:13:21.049546+00:00",
     "cache_key": "news_d108d45a9b78752183aaaa6762d66ad6",
-    "count": 0
+    "count": 1
   }
 }

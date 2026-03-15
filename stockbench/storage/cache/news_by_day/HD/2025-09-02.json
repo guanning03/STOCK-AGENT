@@ -1,0 +1,99 @@
+{
+  "items": [
+    {
+      "title": "Rate cuts would be boon for 2026 retail spending: Goldman Sachs",
+      "description": "Goldman Sachs will hear from top executives and retail leaders at its 32nd Annual Global Retailing Conference later this week. Goldman Sachs US retail analyst in global investment research Kate McShane shares her 2026 forecast for US consumer spending with Josh Lipton and what interest rate cuts could mean for lower and middle-income Americans. To watch more expert insights and analysis on the latest market action, check out more Market Domination.",
+      "published_utc": "2025-09-02T16:51:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=764d824be8d2bb0904237a3bcb857949aacf23776921a4fb7f34809cd87c72d4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136612903,
+      "datetime": 1756846263
+    },
+    {
+      "id": "f5078df0aab5fb5c736c3a44a85af7e19e90f6c385aad7e792c8226375de9c02",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "These Were the 3 Top-Performing Stocks in the Dow Jones Industrial Average in August 2025",
+      "author": "James Brumley",
+      "published_utc": "2025-09-02T16:10:29Z",
+      "article_url": "https://www.fool.com/investing/2025/09/02/these-were-the-3-top-performing-stocks-in-the-dow/?source=iedfolrf0000001",
+      "tickers": [
+        "UNH",
+        "AAPL",
+        "HD",
+        "AXP"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/830907/rich-millionaire-billionaire-raining-money.jpg",
+      "description": "UnitedHealth, Apple, Home Depot, and American Express were the top-performing Dow stocks in August, driven by investor confidence, strategic investments, and market bullishness.",
+      "keywords": [
+        "Dow Jones",
+        "stock performance",
+        "market analysis",
+        "investment",
+        "manufacturing"
+      ],
+      "insights": [
+        {
+          "ticker": "UNH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Berkshire Hathaway's 5-million-share stake signaled investor confidence despite previous profit guidance reduction"
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong Q3 results and $100 billion investment in US manufacturing capacity drove stock gains"
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Missed Q2 estimates but maintained earnings guidance and showed modest same-store sales growth"
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Healthy Q2 numbers and alignment with broader market bullishness"
+        }
+      ]
+    },
+    {
+      "title": "Home Depot (HD) Extends Tender Offer Expiration for GMS Deal",
+      "description": "The Home Depot, Inc. (NYSE:HD) is one of the top stock picks in Ken Griffin’s portfolio. On August 25, the company extended the expiration date of its tender offer for the proposed acquisition of GMS Inc. for $110 a share. The offer is now set to expire on September 3, 2025. The additional time from […]",
+      "published_utc": "2025-09-02T12:13:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=09a52cccb484358725eb52bbcc1bb4823a1d238b72cd4de0aa8547a69d015354",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136612924,
+      "datetime": 1756829611
+    },
+    {
+      "title": "What the CEOs of Walmart, Best Buy, Home Depot, and others are saying about the nervous consumer",
+      "description": "Also: All the news and watercooler chat from Fortune.",
+      "published_utc": "2025-09-02T06:32:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2a3d32cd10f59140effb203cfc655e0a0e40f2595413568095f08cc0dcbdee15",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136604077,
+      "datetime": 1756809122
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Are Extra Value Meals the Key to McDonald's Traffic Recovery in 2026?",
+      "description": "MCD is betting on $5 and $8 Extra Value Meals to rebuild U.S. traffic into 2026, aiming to reset affordability as pressures persist.",
+      "published_utc": "2026-01-28T08:54:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f33edebf48a3592b427329938eee52fa81b6ca047917d83f84c0a2778e8bae2a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138281515,
+      "datetime": 1769608440
+    },
+    {
+      "title": "Arcos Dorados Provides Restaurant Openings and CapEx Guidance for 2026",
+      "description": "MONTEVIDEO, Uruguay, January 28, 2026--Arcos Dorados Holdings Inc. (NYSE: ARCO) (\"Arcos Dorados\" or the \"Company\"), Latin America’s largest restaurant chain and the world’s largest independent McDonald’s franchisee, today provided guidance for restaurant openings and total capital expenditures for 2026.",
+      "published_utc": "2026-01-28T07:35:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f5b7b045639156aa2b5e449cd662baf078a8754bafe587e4e406bbdf456670a2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138280654,
+      "datetime": 1769603700
+    },
+    {
+      "title": "Empty Towers And Full Plates: China's Office Glut And its Dumpling King",
+      "description": "",
+      "published_utc": "2026-01-28T07:28:04",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=9b8ae48a4d77100e3524bf73f6e32c5fc7cb82872a35fbadceabf0ebc9c3968f",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/01/28/-28-1-2026-13225-thebambooworks-com.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138505855,
+      "datetime": 1769603284
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:13:30.184031+00:00",
+    "cache_key": "news_a2407fa203fc5bd18373ba8e3507fde4",
+    "count": 3
+  }
+}

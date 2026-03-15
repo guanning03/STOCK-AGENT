@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Market will be more volatile than 'patient' on AI CapEx",
+      "description": "US stocks (^DJI, ^IXIC, ^GSPC) are ticking up on Monday to start the shortened trading week. What is Wall Street's market outlook for 2026 as more experts consider the risk tied to certain variables, such as the debt profiles attached to the AI trade? The Wealth Alliance President and Managing Director Eric Diton shares his thoughts. To watch more expert insights and analysis on the latest market action, check out more Market Domination.",
+      "published_utc": "2025-12-22T16:14:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=034bdb4aff5fb3d0592cee6485bae662630e28e825c81d2c30dd1956e065ac4d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137878183,
+      "datetime": 1766438046
+    },
+    {
+      "title": "Sector Update: Tech Stocks Climb Late Afternoon",
+      "description": "Tech stocks were higher late Monday afternoon, with the State Street Technology Select Sector SPDR E",
+      "published_utc": "2025-12-22T15:53:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=50ccf80ebea224ace9f73919a0ee96cee8629128fab2d7b71839d33156afcc4f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137878184,
+      "datetime": 1766436793
+    },
+    {
+      "title": "Is Microsoft Undervalued by Investors? These Tech Stock Experts Think So.",
+      "description": "Microsoft stock has set a number of records this year, and analysts think that trend can continue well into 2026.",
+      "published_utc": "2025-12-22T15:34:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2b817fd764fe1c036e39a67f096a4217c34da96a6d7a3a2e9a60a6fa720e2b14",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137878185,
+      "datetime": 1766435693
+    },
+    {
+      "title": "Tracking Cliff Asness' AQR Capital Management 13F Portfolio - Q3 2025 Update",
+      "description": "AQR Capital Managementâs Q3 2025 13F portfolio surged to ~$156B. Check out the stake increases and decreases of the portfolio here.",
+      "published_utc": "2025-12-22T15:21:39",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a4fd157bfb3468b443753f8ebf096bfecfaf327d51b3f7f348d33e6c5d937026",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137876493,
+      "datetime": 1766434899
+    },
+    {
+      "title": "A Topsy-Turvy Year for Oracle and the Ellisons Will Bleed Into 2026",
+      "description": "Oracle is radically changing its finances as it shifts from software to the cloud. Now its Chairman Larry Ellison is getting his fingers into media.",
+      "published_utc": "2025-12-22T15:19:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=191b279f0f4d257b7ce2e7aff066e0a6e855bc1dd8c8a0740fbc2b202b2f01ff",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137878186,
+      "datetime": 1766434740
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:59:53.145604+00:00",
+    "cache_key": "news_b62c53ccbca303c560ffcb713f17ccb2",
+    "count": 5
+  }
+}

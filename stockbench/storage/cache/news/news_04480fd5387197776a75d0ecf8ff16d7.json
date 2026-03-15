@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Kroger, McDonald’s answer soaring restaurant, grocery prices",
+      "description": "Dining out has always been a luxury, but rising prices forced many Americans to make different choices when it comes to where they eat, or whether they just stay home. My wife and I, for example, generally eat out on Friday or Saturday night, and, with prices higher, we might opt for Longhorn ...",
+      "published_utc": "2026-01-14T13:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ca9f5051ed971f77ac953b5006bd94c237b20d373ae1bd2d5a5e1d6e84299fb2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138114860,
+      "datetime": 1768414200
+    },
+    {
+      "title": "Jollibee Plans US Listing for Global Unit by Late 2027",
+      "description": "Philippine fast-food group aims to spin off international business to tap deeper US investor demand.",
+      "published_utc": "2026-01-14T12:36:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9420a24041f2278cb7515793635b39b48bef01533fe58c63ffe16f1a7d02285c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138113351,
+      "datetime": 1768412173
+    },
+    {
+      "title": "IHG taps McDonald’s VP to guide artificial intelligence strategy",
+      "description": "With deep technology expertise and franchise understanding, Wei Manfredi joins IHG as senior vice president of AI and architecture.",
+      "published_utc": "2026-01-14T04:48:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f5b1c3ca6b5abad263282aade8a06dd2a715f2d8a511420baedbe019c068efd3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138111869,
+      "datetime": 1768384103
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:32:09.403940+00:00",
+    "cache_key": "news_04480fd5387197776a75d0ecf8ff16d7",
+    "count": 3
+  }
+}

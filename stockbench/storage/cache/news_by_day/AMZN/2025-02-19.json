@@ -1,6 +1,295 @@
 {
   "items": [
     {
+      "id": "7b359b2ab3a779a43c081636f56ad17b7bed36bc1f40ee0716c3a1acd8a67a44",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "2 Reasons to Buy Nvidia Stock in the Wake of DeepSeek",
+      "author": "John Ballard",
+      "published_utc": "2025-02-19T23:14:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/19/2-reasons-buy-nvidia-stock-wake-deepseek/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "AMZN",
+        "META"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807630/analyst-stocks.jpg",
+      "description": "Nvidia's data center business remains strong, with top customers like Amazon and Meta Platforms planning to increase spending on AI infrastructure. Additionally, Nvidia's gaming and automotive segments represent significant growth opportunities. Despite concerns about competition in AI, Nvidia's long-term prospects remain promising.",
+      "keywords": [
+        "Nvidia",
+        "Amazon",
+        "Meta Platforms",
+        "AI",
+        "data center",
+        "gaming",
+        "automotive"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Nvidia's strong data center business, with major customers like Amazon and Meta Platforms planning to increase their spending on AI infrastructure. Additionally, the company's gaming and automotive segments are expected to provide significant growth opportunities in the long term, despite near-term concerns about competition in AI."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Amazon, a major customer for Nvidia's data center GPUs, is planning to significantly increase its capital expenditures in 2025, with a focus on technology infrastructure to support cloud and AI services. This is seen as a positive for Nvidia's data center business."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Meta Platforms, another key Nvidia customer, is planning to increase its capital spending this year and expects to invest hundreds of billions of dollars in AI infrastructure over the long term. This is viewed as a positive for Nvidia's data center segment."
+        }
+      ]
+    },
+    {
+      "id": "770fa0d28f032570bd064bf9e5960948e4c288fa7fef7859d15b00428cb8ddf6",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Nvidia Stock Investors Should Not Be Worried About Recent Delay Reports",
+      "author": "Jose Najarro",
+      "published_utc": "2025-02-19T16:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/19/nvidia-stock-investors-should-not-be-worried-about/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808135/nvidia-headquarters-outside-with-black-nvidia-sign-with-nvidia-logo.jpg",
+      "description": "Nvidia, the semiconductor giant, has made some recent changes to its portfolio, selling 4 popular AI stocks and buying 2 others. This move has raised questions about what Nvidia might know that Wall Street doesn't.",
+      "keywords": [
+        "Nvidia",
+        "semiconductor",
+        "artificial intelligence",
+        "portfolio changes"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents Nvidia's portfolio changes as a potential indicator of the company's knowledge, but does not provide a clear positive or negative sentiment towards the company's actions."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that John Mackey, former CEO of Whole Foods Market (an Amazon subsidiary), is a member of The Motley Fool's board of directors, but this information is not directly related to Nvidia's portfolio changes."
+        }
+      ]
+    },
+    {
+      "id": "dca4e64bd0cc30251e555d8e22b9a4df2e9ecc3ee362efaa91e5b922e7d097aa",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "CHOICES & SECRETS is a Faith-Based Thriller Done Right, with Intrigue, Drama, and Complex Relationships",
+      "author": "Karen Humeniuk",
+      "published_utc": "2025-02-19T16:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/19/3028965/0/en/CHOICES-SECRETS-is-a-Faith-Based-Thriller-Done-Right-with-Intrigue-Drama-and-Complex-Relationships.html",
+      "tickers": [
+        "AMZN"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/2643ae58-7c0e-48a5-b46a-9cbc99c11d3b",
+      "description": "Choices & Secrets, the second book in Karen Humeniuk's Chalmers Trilogy, is a faith-based thriller that explores themes of loss, revenge, and redemption. The story follows protagonist Randy Asher as he navigates personal tragedies and questions about God's faithfulness, while also facing a deadly plot from his nemesis Alan.",
+      "keywords": [
+        "faith-based thriller",
+        "intrigue",
+        "drama",
+        "complex relationships",
+        "loss",
+        "revenge",
+        "redemption"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Choices & Secrets is available for purchase on Amazon.com, indicating that the book is likely available on the platform."
+        }
+      ]
+    },
+    {
+      "id": "755431b88ecac5c141850d02d7e2f80b1b9f1125b33789cd7804c60c2603a578",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "4 Stocks and 1 Exchange-Traded Fund (ETF) I Can't Stop Buying",
+      "author": "Mark Roussin, Cpa",
+      "published_utc": "2025-02-19T15:42:30Z",
+      "article_url": "https://www.fool.com/investing/2025/02/19/4-stocks-and-1-etf-i-cant-stop-buying/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "ABBV",
+        "GOOG",
+        "GOOGL",
+        "PLD",
+        "SCHD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/808200/gettyimages-1060161238.jpg",
+      "description": "The Motley Fool, a financial services company, has unveiled five of its top investments, including four stocks and one ETF. One of the stocks is Amazon.",
+      "keywords": [
+        "investing",
+        "stocks",
+        "ETF",
+        "financial services"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon is one of the top investments recommended by The Motley Fool, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "ABBV",
+          "sentiment": "positive",
+          "sentiment_reasoning": "AbbVie is mentioned as one of the investments held by Mark Roussin, CPA, suggesting a positive sentiment towards the company."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet is mentioned as one of the investments held by Mark Roussin, CPA, and also has a representative on The Motley Fool's board of directors, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet is mentioned as one of the investments held by Mark Roussin, CPA, and also has a representative on The Motley Fool's board of directors, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "PLD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Prologis is mentioned as one of the investments held by Mark Roussin, CPA, and The Motley Fool recommends long January 2026 $90 calls on the company, suggesting a positive sentiment."
+        },
+        {
+          "ticker": "SCHD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Schwab U.S. Dividend Equity ETF is mentioned as one of the top investments recommended by The Motley Fool, indicating a positive sentiment towards the ETF."
+        }
+      ]
+    },
+    {
+      "id": "378dbbd2aa9e6070aa76be010317d50dddebec8f8bd1ede8141e7586d1baf160",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Business Intelligence Market to Reach USD 68.72 Billion by 2032 | SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-02-19T15:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/19/3028896/0/en/Business-Intelligence-Market-to-Reach-USD-68-72-Billion-by-2032-SNS-Insider.html",
+      "tickers": [
+        "MSFT",
+        "CRM",
+        "IBM",
+        "SAP",
+        "ORCL",
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "MSTR",
+        "STRK",
+        "TDC",
+        "DOMO",
+        "HTHIY"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The Business Intelligence market is projected to grow at a CAGR of 10.09% from 2024 to 2032, driven by the adoption of AI, analytics, and cloud solutions, as well as rising demand for security, real-time insights, and automation.",
+      "keywords": [
+        "Business Intelligence",
+        "AI",
+        "Analytics",
+        "Cloud",
+        "Security",
+        "Real-time insights",
+        "Automation"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is a major player in the Business Intelligence market, offering solutions like Power BI and Azure Synapse Analytics, which are contributing to the market's growth."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Tableau Software, a Salesforce company, is a leading provider of Business Intelligence solutions like Tableau Desktop and Tableau Server, which are driving the market's expansion."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IBM offers Cognos Analytics and Watson Studio, which are key Business Intelligence products contributing to the market's growth."
+        },
+        {
+          "ticker": "SAP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "SAP's BusinessObjects and Analytics Cloud offerings are driving the Business Intelligence market's expansion."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Oracle's Analytics Cloud and OBIEE solutions are contributing to the growth of the Business Intelligence market."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Google's Looker and BigQuery BI Engine are part of the Business Intelligence market's growth."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Google's Looker and BigQuery BI Engine are part of the Business Intelligence market's growth."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon Web Services' QuickSight and Glue offerings are contributing to the Business Intelligence market's expansion."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce's Tableau and Einstein Analytics are key players in the Business Intelligence market."
+        },
+        {
+          "ticker": "MSTR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "MicroStrategy's ONE and HyperIntelligence solutions are part of the Business Intelligence market's growth."
+        },
+        {
+          "ticker": "STRK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "MicroStrategy's ONE and HyperIntelligence solutions are part of the Business Intelligence market's growth."
+        },
+        {
+          "ticker": "TDC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Teradata's Vantage and Data Lab offerings are contributing to the Business Intelligence market's expansion."
+        },
+        {
+          "ticker": "DOMO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "DOMO's BI and Data Science solutions are driving the growth of the Business Intelligence market."
+        },
+        {
+          "ticker": "HTHIY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Hitachi Vantara's Pentaho and Lumada solutions are part of the Business Intelligence market's expansion."
+        }
+      ]
+    },
+    {
       "title": "Harding Loevner Global Developed Markets Equity Q4 2024 Report",
       "description": "The Harding Loevner Global Developed Markets Equity composite fell 1.0% (gross) in Q4 2024, while the MSCI World Index was about flat. Click here to read more.",
       "published_utc": "2025-02-19T05:40:00",

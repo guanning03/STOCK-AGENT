@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Beyond The S&P 500: Why VEU Could Outperform Again In 2026",
+      "description": "Vanguard FTSE All-World ex-US Index Fund ETF is positioned for potential outperformance versus U.S. equities in 2026. Read why VEU is a Hold.",
+      "published_utc": "2025-12-20T18:59:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7895b59668fe3cf9fbb1f48d8e1d4e5f53076283d661e0647c249c2d8339f97a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2226101114/image_2226101114.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137846274,
+      "datetime": 1766275140
+    },
+    {
+      "title": "The 1-Minute Market Report, December 21, 2025",
+      "description": "Get the latest S&P 500 market update: sector rotation trends, outperformers, and economic signals.",
+      "published_utc": "2025-12-20T18:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fb9527955400f7249c809127b4406e753e4fa1782499ee42c6056b38714d0be8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213764535/image_1213764535.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137845993,
+      "datetime": 1766271600
+    },
+    {
+      "title": "A Different Market Is Coming In 2026: Sector Winners And Losers",
+      "description": "2026 markets may reward ROIC and capex discipline, favoring Utilities and Industrials, while Energy and Discretionary lag. See why this sector shift matters.",
+      "published_utc": "2025-12-20T04:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=35a8d382fc2a47cff61e8bbc5258407c8068685a66c290ad3d4abc5e95cb2f12",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2222307227/image_2222307227.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137840027,
+      "datetime": 1766221200
+    },
+    {
+      "title": "Weekly Indicators: Treading Water",
+      "description": "Discover key economic indicators shaping growth forecasts, market trends, and housing stability. Click for this updated look at the latest data.",
+      "published_utc": "2025-12-20T03:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b2a79b6b1c035fa33cf3d19f89e98a12b5ae5c3074b3b877ff6cb0d04c9250cb",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1320952166/image_1320952166.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137839747,
+      "datetime": 1766217600
+    },
+    {
+      "title": "This ETF Trounced the S&P 500 in 2025. Here's Why It Could Do It Again Next Year",
+      "description": "The semiconductor sector continues to be a big winner.",
+      "published_utc": "2025-12-20T02:50:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0d1f1d39c0deef182512f1206c4355d467f5fdad623d6e4d33e704bf82231f90",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137841290,
+      "datetime": 1766217000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:54:51.957134+00:00",
+    "cache_key": "news_3e3d8fd5ada4fefb4c2f1e6437add3c3",
+    "count": 5
+  }
+}

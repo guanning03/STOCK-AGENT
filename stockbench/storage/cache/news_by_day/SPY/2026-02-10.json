@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Dow Hits New Record: Can The S&P 500 Breakout Pass 7000 And Gain Acceptance?",
+      "description": "",
+      "published_utc": "2026-02-10T15:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=56372a6ba42bdc1564c97024b4fa054c7def97ea1bc048cba373d8136b78e4d8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139037937,
+      "datetime": 1770753900
+    },
+    {
+      "title": "Trump Says He 'Was Right About Everything,' Credits Tariffs For Dow Jones At 50,000, Predicts It Will Reach 100,000 By This Time",
+      "description": "President Donald Trump hailed a historic Wall Street milestone Friday as the Dow Jones Industrial Average closed above 50,000 for the first time, a surge he attributed to his administration's aggressive trade policies. Presidential Victory Lap Writing on Truth Social, the President linked the market’s record performance to his protectionist agenda and national security strategy. \"Record Stock Market, and National Security, driven by our Great TARIFFS,\" Trump posted, following the index’s climb t",
+      "published_utc": "2026-02-10T14:31:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=180d9e065da1c3111493dfebf49cc087ab2960771421800558a562ccd56237e3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139035318,
+      "datetime": 1770751864
+    },
+    {
+      "title": "Japan Nikkei Broke Out: Butterfly Effects On S&P 500",
+      "description": "Nikkei tops 58,000 as reforms lift Japan; JGB yields signal bond shift. Read more macro analysis here.",
+      "published_utc": "2026-02-10T14:00:37",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=482d877dc7b1a1f2d1c6a062fe0f66b2bcee98e24bd2fd276cf02b42a8454c60",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/980619426/image_980619426.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139037570,
+      "datetime": 1770750037
+    },
+    {
+      "title": "'FAA Expects Canada to Announce Gulfstream Approvals This Week'- Bloomberg",
+      "description": "https://www.bloomberg.com/news/articles/2026-02-10/faa-expects-canada-to-announce-gulfstream-approvals-this-week",
+      "published_utc": "2026-02-10T13:53:56",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=edadc571e4f7ba748577b6cd1b00516cb36842798398c3432f3a35faaf2d9f11",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139041941,
+      "datetime": 1770749636
+    },
+    {
+      "title": "Global Markets Crushed US Stocks In 2025 — ETFs Investors Are Watching Now",
+      "description": "International ETFs are gaining momentum as global markets outperform US stocks. Here&#39;s what&#39;s driving the shift and the funds investors are watching.",
+      "published_utc": "2026-02-10T13:01:06",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=bbd7e3269d9ac89099446c9449689b6d647f5359b633869b66373fbbae61eef7",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/02/10/ETFs-soaring.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139041942,
+      "datetime": 1770746466
+    }
+  ]
+}

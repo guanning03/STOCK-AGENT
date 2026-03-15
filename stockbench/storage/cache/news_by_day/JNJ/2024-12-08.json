@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "id": "ba9b3da59b6ce61f4d52271a8183c15f7b12248d8f3e1545cbe287cacce6e97b",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "DARZALEX® (daratumumab) subcutaneous formulation shows 51 percent reduction in risk of progression to active multiple myeloma for patients with high-risk smouldering multiple myeloma",
+      "author": "Janssen-Cilag International Nv",
+      "published_utc": "2024-12-08T16:25:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2024/12/08/2993392/0/en/DARZALEX-daratumumab-subcutaneous-formulation-shows-51-percent-reduction-in-risk-of-progression-to-active-multiple-myeloma-for-patients-with-high-risk-smouldering-multiple-myeloma.html",
+      "tickers": [
+        "JNJ"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/85723da3-163a-4a4d-bb36-0e46ec3998e6",
+      "description": "Janssen-Cilag International NV, a Johnson & Johnson company, announced data from the Phase 3 AQUILA study showing that DARZALEX® (daratumumab) subcutaneous formulation significantly delayed progression from high-risk smouldering multiple myeloma to active multiple myeloma and extended overall survival compared to the current standard of care of active monitoring.",
+      "keywords": [
+        "multiple myeloma",
+        "smouldering multiple myeloma",
+        "daratumumab",
+        "AQUILA study"
+      ],
+      "insights": [
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "As the parent company of Janssen-Cilag International NV, Johnson & Johnson is also mentioned positively in the article for their commitment to exploring the potential of daratumumab for patients with multiple myeloma."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Piper Sandler Maintains Home Depot (HD) Overweight Recommendation",
+      "description": "",
+      "published_utc": "2025-12-10T18:20:00",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=2068b7f4a5113d24ba6f38dc5ac961c5133c8462d5089712e3e5d939126849f1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137752202,
+      "datetime": 1765408800
+    },
+    {
+      "title": "Telsey Advisory Group Maintains Home Depot (HD) Outperform Recommendation",
+      "description": "",
+      "published_utc": "2025-12-10T18:19:58",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=883e84ba168dc7021a6d46c92528e6702c8d13e16215168507960e2f36fbd608",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137752203,
+      "datetime": 1765408798
+    },
+    {
+      "title": "RBC Capital Maintains Home Depot (HD) Sector Perform Recommendation",
+      "description": "",
+      "published_utc": "2025-12-10T18:19:57",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=d62595d8f5709dc825de353f289c2821ea2933b48d2d07e909e0c9fe60697f18",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137752204,
+      "datetime": 1765408797
+    },
+    {
+      "title": "Wells Fargo Maintains Home Depot (HD) Overweight Recommendation",
+      "description": "",
+      "published_utc": "2025-12-10T18:19:55",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=0084455e047e9830abebbaa9fd2938c507bccf09c90a8ce5d6cf884e78e21d26",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137752205,
+      "datetime": 1765408795
+    },
+    {
+      "title": "UBS Maintains Home Depot (HD) Buy Recommendation",
+      "description": "",
+      "published_utc": "2025-12-10T18:19:54",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=ecf82f266bb34d09d2448c0c26a96ef9838fc6e2e9ce5739aa9a40d5654c67d4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137752206,
+      "datetime": 1765408794
+    }
+  ]
+}

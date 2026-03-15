@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Investors in Travelers Companies (NYSE:TRV) have seen solid returns of 118% over the past five years",
+      "description": "Generally speaking the aim of active stock picking is to find companies that provide returns that are superior to the...",
+      "published_utc": "2026-01-10T09:00:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ea9879997cf5c9c9b96ed3b5ff0792ce2a9b036d21ac194ad5b97365ec4c57f3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138069286,
+      "datetime": 1768053625
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:14:42.301662+00:00",
+    "cache_key": "news_3466f1b83352a8b0e0c5823f2b74e652",
+    "count": 1
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "items": [
+    {
+      "id": "e1389fe5df5bf107ca7285045fe6128921e11f03f2c0249705243d95981b96f3",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Tech Stocks Tumble On AI Nightmare, Nvidia Eyes Worst Day Since March 2020, Bitcoin Drops Below $100,000: What's Driving Markets Monday?",
+      "author": "Piero Cingari",
+      "published_utc": "2025-01-27T18:18:42Z",
+      "article_url": "https://www.benzinga.com/economics/macro-economic-events/25/01/43244872/tech-stocks-tumble-on-ai-nightmare-nvidia-eyes-worst-day-since-march-2020-bitcoin",
+      "tickers": [
+        "AAPL",
+        "AVGO",
+        "COIN",
+        "NVDA",
+        "MRVL",
+        "MU",
+        "MSTR",
+        "SOFI",
+        "SOXX",
+        "QQQ",
+        "SPY"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/27/Back-View-Of-Stressed-Young-Businessman-.jpeg?width=1200&height=800&fit=crop",
+      "description": "Tech stocks plummet as China's DeepSeek unveils an AI model outperforming ChatGPT, triggering fears of rising competition. Nvidia loses $450B, leading the Magnificent Seven's $600B market wipeout, marking its worst session since March 2020. Bitcoin drops below $99,000 as risk-off sentiment takes hold.",
+      "keywords": [
+        "tech stocks",
+        "AI",
+        "Nvidia",
+        "Bitcoin"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions a broad selloff in tech stocks, which would likely impact Apple as a major tech company."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article states that Broadcom crashed 17.5% due to the tech selloff."
+        },
+        {
+          "ticker": "COIN",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article notes that crypto-related stocks like Coinbase fell due to the risk-off sentiment, with Coinbase dropping 9.6%."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article highlights that Nvidia lost $450 billion, or 15% of its valuation, marking its worst single-day loss since March 2020."
+        },
+        {
+          "ticker": "MRVL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article states that Marvell Technology crashed 17.5% due to the tech selloff."
+        },
+        {
+          "ticker": "MU",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that Micron Technology sank 11% as part of the broader tech selloff."
+        },
+        {
+          "ticker": "MSTR",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article notes that crypto-related stocks like MicroStrategy fell due to the risk-off sentiment, with MicroStrategy dropping 7.8%."
+        },
+        {
+          "ticker": "SOFI",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article states that SoFi Technologies plummeted 12% due to a downbeat guidance, despite better-than-expected quarterly results."
+        },
+        {
+          "ticker": "SOXX",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article states that the iShares Semiconductor ETF plunged over 7%, eyeing its worst session since the pandemic-driven selloff of March 2020."
+        },
+        {
+          "ticker": "QQQ",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article notes that the Nasdaq 100, represented by the Invesco QQQ Trust, tumbled 3%, eyeing its steepest drop since December 2018."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that the S&P 500, represented by the SPDR S&P 500 ETF, fell 1.8% as part of the broader market selloff."
+        }
+      ]
+    },
+    {
+      "id": "5741f0e003cb7296890009d37c05cc16cc7785f59d081a280ab5a6b44db00c6d",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Market Clubhouse Morning Memo - January 27th, 2025 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META and TSLA)",
+      "author": "Rips",
+      "published_utc": "2025-01-27T15:07:14Z",
+      "article_url": "https://www.benzinga.com/news/large-cap/25/01/43235605/market-clubhouse-morning-memo-january-27th-2025-trade-strategy-for-spy-qqq-aapl-msft-nvda-googl-me",
+      "tickers": [
+        "AAPL",
+        "GOOG",
+        "GOOGL",
+        "META",
+        "MSFT",
+        "NVDA",
+        "SPY",
+        "QQQ",
+        "TSLA"
+      ],
+      "image_url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "description": "The article discusses the current trading levels and strategies for SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, and TSLA. It provides key support and resistance levels, as well as potential price targets for bulls and bears.",
+      "keywords": [
+        "SPY",
+        "QQQ",
+        "AAPL",
+        "MSFT",
+        "NVDA",
+        "GOOGL",
+        "META",
+        "TSLA",
+        "trading strategy",
+        "technical analysis"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article provides both bullish and bearish price targets for Apple, indicating a neutral sentiment as the stock is expected to trade within a range."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article outlines potential support and resistance levels for Alphabet, suggesting a neutral sentiment as the stock is expected to trade within a range."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article outlines potential support and resistance levels for Alphabet, suggesting a neutral sentiment as the stock is expected to trade within a range."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents both bullish and bearish price targets for Meta, indicating a neutral sentiment as the stock is expected to trade within a range."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article provides key support and resistance levels for Microsoft, suggesting a neutral sentiment as the stock is expected to trade within a range."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article outlines potential price targets for both bullish and bearish scenarios for NVIDIA, indicating a neutral sentiment as the stock is expected to trade within a range."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents both bullish and bearish price targets for the SPY ETF, suggesting a neutral sentiment as the ETF is expected to trade within a range."
+        },
+        {
+          "ticker": "QQQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article outlines potential support and resistance levels for the QQQ ETF, indicating a neutral sentiment as the ETF is expected to trade within a range."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article provides both bullish and bearish price targets for Tesla, suggesting a neutral sentiment as the stock is expected to trade within a range."
+        }
+      ]
+    }
+  ]
+}

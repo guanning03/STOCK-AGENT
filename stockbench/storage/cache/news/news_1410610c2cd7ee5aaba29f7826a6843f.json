@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "A Big Market Reversal Might Be Coming In 2025",
+      "description": "We will still likely face a recession. See which investments are poised to outperform amid a potential recession and trade war resolution.",
+      "published_utc": "2025-04-26T04:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7050ea206420403c0c47d08179210238b7f66cf311225db019e11774a0e7864b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2209734748/image_2209734748.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134099521,
+      "datetime": 1745655300
+    },
+    {
+      "title": "Weekly Indicators: Corporate Profits Retreat, While Consumer Spending Remains Positive",
+      "description": "Get timely insights with our weekly economic nowcast. Explore trends in housing, durable goods, sentiment, and indicators signaling market dynamics.",
+      "published_utc": "2025-04-26T04:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=97385e252d470f9295ca2e10492cdb006e90e97a83e5ead87a82f666b69716b9",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1462296278/image_1462296278.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134099431,
+      "datetime": 1745654400
+    },
+    {
+      "title": "Weekly Commentary: Hooked On Hedge Fund Leverage",
+      "description": "Beginning the month at 5.64%, 10-year Treasuries ended February at 6.13% - on the way to a May peak of 7.48% and November high of 8.03%.",
+      "published_utc": "2025-04-26T00:22:20",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b9a2ba42bdb58b209445697becd1a400e1ff8767985ea836e0464bd68e74d3c7",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/902847210/image_902847210.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134098642,
+      "datetime": 1745641340
+    },
+    {
+      "title": "When Debts Come Due",
+      "description": "Congress is in the process of cobbling together a remarkably irresponsible budget resolution",
+      "published_utc": "2025-04-25T23:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d9187df6d5f578243ba9016d86f5f7c14a2e7b5ef2c33ab6b6df6d1f1482e53e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2134503742/image_2134503742.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134098518,
+      "datetime": 1745639100
+    },
+    {
+      "title": "Markets Weekly Outlook - Data Dump Ahead As Tariff Concerns Linger",
+      "description": "",
+      "published_utc": "2025-04-25T20:52:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4fdf6105d7cadd09468ce375b52aee68c7a381686b96613b7f27ef3883719c61",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134097718,
+      "datetime": 1745628720
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T23:31:11.139857+00:00",
+    "cache_key": "news_1410610c2cd7ee5aaba29f7826a6843f",
+    "count": 5
+  }
+}

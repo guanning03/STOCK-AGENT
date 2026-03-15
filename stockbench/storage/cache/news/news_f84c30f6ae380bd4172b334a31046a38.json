@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "3 U.S. software stocks to buy, 2 to avoid: Goldman Sachs",
+      "description": "Investing.com -- Goldman Sachs has assumed coverage of the U.S. software sector, naming three stocks it is bullish on while cautioning against two names amid what it calls the “decade of agentic workflow.”",
+      "published_utc": "2026-01-12T11:45:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c538aa771ac20d01d553e1cae2f1acb77307c54ef73689ade5771c6b7c2947cc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138076353,
+      "datetime": 1768236348
+    },
+    {
+      "title": "Barclays Maintains Overweight on Salesforce, Raises Price Target to $338",
+      "description": "Barclays  analyst Raimo Lenschow   maintains Salesforce (NYSE:CRM) with a Overweight and raises the price target from $330 to $338.",
+      "published_utc": "2026-01-12T11:13:33",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=57ea75f212858dc808299d6ed074f84dd3f32caa63acaba294b74f22316c6438",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138644244,
+      "datetime": 1768234413
+    },
+    {
+      "title": "Google's market cap hits $4 trillion, cementing its status as an AI trade champion",
+      "description": "Google's market cap surpassed the $4 trillion mark.",
+      "published_utc": "2026-01-12T10:52:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=55dc2c1f08c931ac5cf1a52e81e25f71bc1813f90841fc92cb1f06f2151ea0e9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138075076,
+      "datetime": 1768233166
+    },
+    {
+      "title": "SEO Vs. GEO, And Where CRMs Fit: I Am Bullish ZETA",
+      "description": "",
+      "published_utc": "2026-01-12T09:57:51",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=148ddea23bbfd2f1227caf6edbf0dee2ecfe12cb8e7b17442824e59922991dae",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/01/12/Gav-Blaxberg.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138402450,
+      "datetime": 1768229871
+    },
+    {
+      "title": "CloudMasonry Launches Data & AI Practice Under Leadership of Landon Harris",
+      "description": "CloudMasonry (website:https://cloudmasonry.com) today announced the formal launch of its Data & AI Practice, and the appointment of Landon Harris as Practice Lead. This strategic initiative bolsters CloudMasonry's mission to serve as a full-service Salesforce consulting firm by bringing advanced data, analytics and artificial intelligence capabilities to its clients.",
+      "published_utc": "2026-01-12T09:27:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d62fffecf097c4442e13a0c8a62f774d042406e515f62eef392a5558973070af",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138072363,
+      "datetime": 1768228020
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:24:05.227154+00:00",
+    "cache_key": "news_f84c30f6ae380bd4172b334a31046a38",
+    "count": 5
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Sector Update: Financial Stocks Edge Up Late Afternoon",
+      "description": "Financial stocks edged up late Tuesday afternoon trading, with the NYSE Financial Index and the Fina",
+      "published_utc": "2025-11-18T16:01:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=408fb2aac2fea652d7091b0a670e4442d09af66016d4ef67d63e527210220ce8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137543320,
+      "datetime": 1763499696
+    },
+    {
+      "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+      "description": "The S&P 500 on Tuesday closed down for a fourth straight day, its longest losing streak since August, as investors fret about tech stock valuations.",
+      "published_utc": "2025-11-18T14:30:42",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=656fba299ba2b943a5d06d27e6091c6fba5116e7921cc948e8c6c44f2be72641",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108226833-1763392836651-gettyimages-2247138021-mms24410_7zxlkorw.jpeg?v=1763505937&w=1920&h=1080",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137547987,
+      "datetime": 1763494242
+    },
+    {
+      "title": "Sector Update: Financial Stocks Advance Tuesday Afternoon",
+      "description": "Financial stocks were advancing in Tuesday afternoon trading, with the NYSE Financial Index up 0.2%",
+      "published_utc": "2025-11-18T14:02:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c0c57106ddca3fc5fffb92904452dce5aded5f6c6b79e8024e39ed2ac98cd6cb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137543321,
+      "datetime": 1763492537
+    },
+    {
+      "title": "The Shocking Number of Rich People Who Live Paycheck to Paycheck",
+      "description": "Explore why many high-earners, including those making more than $300k, live paycheck to paycheck and can't save regularly due to competing financial priorities.",
+      "published_utc": "2025-11-18T13:06:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b31757e600df722519f6d6c466e7cd67e1e0356f574da011c624573a084bbd42",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137543322,
+      "datetime": 1763489203
+    },
+    {
+      "title": "Cresset Lures $1.8 Billion Advisory Practice From Goldman Sachs",
+      "description": "Jamie Gilbert is bringing his ultrahigh-net-worth practice to Cresset’s Atlanta office with plans to open a new location in Wyoming.",
+      "published_utc": "2025-11-18T07:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=275b69b5e3a7c57882673199c41686b22f986aea41b494fe099de14a40fd7bb8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137538298,
+      "datetime": 1763469000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:13:58.624173+00:00",
+    "cache_key": "news_1e41588cc7fb30674de7952de2902fdd",
+    "count": 5
+  }
+}

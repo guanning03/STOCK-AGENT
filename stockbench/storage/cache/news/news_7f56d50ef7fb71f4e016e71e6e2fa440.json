@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Trump’s power play risks slowing US in AI arms race",
+      "description": "Investing.com -- President Donald Trump’s latest push to shield Americans from higher power bills risks colliding with Washington’s drive to stay ahead in the AI arms race, with Wedbush warning that forcing Big Tech to “pay their own way” on soaring electricity costs could slow the buildout of data centers that underpin the AI boom.",
+      "published_utc": "2026-01-13T17:09:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a6fadf03953ee081ed7be40cde20d9b05a12ffffa24786788cc5b6998959c3ac",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138090852,
+      "datetime": 1768342171
+    },
+    {
+      "title": "Worried About Nvidia’s China Business? CEO Jensen Huang Says This Is the Top Indicator to Watch.",
+      "description": "Nvidia is facing a great deal of uncertainty right now. Here's what to watch in 2026, according to Jensen Huang.",
+      "published_utc": "2026-01-13T16:58:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d5dfec93426a629ab1ad48ec0fcafc76f90c6225c15b64561b17f8551a0a50c0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138090771,
+      "datetime": 1768341520
+    },
+    {
+      "title": "Heard on the Street Recap: Powered Down",
+      "description": "The Dow fell 398 points while the S&P 500 slipped 0.2%.  Oil prices jumped after President Trump appeared to hint at intervening in Iran's continuing internal upheaval.  President Trump wants the tech giants building massive artificial-intelligence data centers to \"pay their own way\" and not have higher energy bills fall on consumers because of booming AI data-center consumption.",
+      "published_utc": "2026-01-13T16:49:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=227c4efdd2a9d38a9d09c91c1609c87d6f6fff3750d63d987eb3d7d35b40311f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138090854,
+      "datetime": 1768340964
+    },
+    {
+      "title": "Billionaire Peter Thiel Made a Big Bet on Two Stocks for 2026 (Hint: It's Not Nvidia)",
+      "description": "Thiel has sold his hedge fund's entire stake in Nvidia.",
+      "published_utc": "2026-01-13T16:25:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=22245f57452d27d9720684462ec974edb0ef1374bf4ca90758e74c176df243e9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138090839,
+      "datetime": 1768339500
+    },
+    {
+      "title": "Google Momentum Continues Amid Apple Deal As Software Stocks Hammered",
+      "description": "Alphabet hit a record high as Wall Street firms raised their price targets on Google stock in the wake of a new AI deal with Apple.",
+      "published_utc": "2026-01-13T16:16:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=788f8a994167d561926d5324c7c35fbcf29bfabf5b0d1253d8fb68dfcec33a8c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138090841,
+      "datetime": 1768338981
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:26:29.059110+00:00",
+    "cache_key": "news_7f56d50ef7fb71f4e016e71e6e2fa440",
+    "count": 5
+  }
+}

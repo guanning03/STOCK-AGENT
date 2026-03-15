@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "id": "30265b1ab59f59589837206490e0416bdefddf19d446f047e0e1273b84e1f39a",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "US Stocks Likely To Open Higher As President Trump Announces $500 Billion AI Project: Oracle, Netflix, Nvidia Among Top Stocks To Watch",
+      "author": "Rounak Jain",
+      "published_utc": "2025-01-22T11:02:59Z",
+      "article_url": "https://www.benzinga.com/25/01/43122112/us-stocks-likely-to-open-higher-as-president-trump-announces-500-billion-ai-project-oracle-netflix-nvidia-among-s",
+      "tickers": [
+        "ORCL",
+        "NFLX",
+        "NVDA",
+        "QQQ",
+        "SPY"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/22/Wall-Street.jpeg?width=1200&height=800&fit=crop",
+      "description": "U.S. stocks are expected to open higher as President Trump announces a $500 billion AI project involving Oracle, Microsoft's OpenAI, and SoftBank. Key stocks to watch include Oracle, Netflix, and Nvidia.",
+      "keywords": [
+        "US stocks",
+        "AI project",
+        "Oracle",
+        "Netflix",
+        "Nvidia"
+      ],
+      "insights": [
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Oracle is part of the $500 billion AI project announced by President Trump, which is expected to have a positive impact on the company's business."
+        },
+        {
+          "ticker": "NFLX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Netflix stock surged over 14% in premarket trading after the company reported strong subscriber growth and a price hike, indicating a positive outlook."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia and other chip stocks gained in premarket trading after the announcement of the AI project, suggesting a positive sentiment for the company."
+        },
+        {
+          "ticker": "QQQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Invesco QQQ ETF, which tracks the Nasdaq-100 index, rose 0.77% in premarket trading, indicating a positive sentiment for the overall tech sector."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The SPDR S&P 500 ETF, which tracks the S&P 500 index, gained 0.37% in premarket trading, suggesting a positive sentiment for the broader market."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:12:13.000919+00:00",
+    "cache_key": "news_e3a80c41c3c39a4d7f9942a846667ac5",
+    "count": 1
+  }
+}

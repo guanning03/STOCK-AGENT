@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "S&P 500: Sick Puppies Dominate, But Here's A Trio Of A-List Stocks To Consider",
+      "description": "Discover why the S&P 500 conceals stock weaknesses & explore 3 healthcare picks from a data-driven analysis.",
+      "published_utc": "2025-08-20T10:55:52",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=20d39b5f35afe6cce3e909d2349678795903093ada48bbb6a9061a93ae5230c7",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1366605148/image_1366605148.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136439471,
+      "datetime": 1755701752
+    },
+    {
+      "title": "Cytokinetics Names Jim Daly to Board of Directors",
+      "description": "SOUTH SAN FRANCISCO, Calif., Aug. 20, 2025 (GLOBE NEWSWIRE) -- Cytokinetics, Incorporated (Nasdaq: CYTK) today announced the appointment of James M. Daly to its Board of Directors effective August 19, 2025. Mr. Daly brings over 30 years of global biopharmaceutical leadership experience with particular expertise in commercialization to the Company’s Board of Directors. “Jim has longstanding expertise leading commercial launches of innovative therapies, coupled with extensive Board experience guid",
+      "published_utc": "2025-08-20T07:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2d1e7a79fd8c23e6d397269af2711d5b3bf26fedd0f929d061cecb807a62edff",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136437612,
+      "datetime": 1755689400
+    },
+    {
+      "title": "3 Dow Jones Dividend Stocks With Above-Average Yields You Can Buy Now and Hold for at Least a Decade",
+      "description": "Some of the highest-yielding stocks in the Dow Jones Industrial Average index look like smart buys for income-seeking investors.",
+      "published_utc": "2025-08-20T05:21:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dfce07ffaad3ededcb6d4b2839b293512e7ba74aee0462f2beb705ec614dcad1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136437516,
+      "datetime": 1755681660
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:31:51.856495+00:00",
+    "cache_key": "news_a51d62cbc6d4eb2b33939470d7f8eb2c",
+    "count": 3
+  }
+}

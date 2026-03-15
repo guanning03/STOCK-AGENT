@@ -1,0 +1,307 @@
+{
+  "items": [
+    {
+      "id": "1470766e85b25567180576446578ef788c08e770c1b2f1f8b4fbdfd1027d768a",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Billionaire Chase Coleman Has Formed His Own \"Magnificent Seven\" and It's Even Better Than the Original",
+      "author": "Keithen Drury",
+      "published_utc": "2025-12-27T17:37:00Z",
+      "article_url": "https://www.fool.com/investing/2025/12/27/chase-coleman-has-formed-his-own-magnificent-seven/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "MSFT",
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "META",
+        "AAPL",
+        "TSLA",
+        "TSM",
+        "AVGO"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F848037%2Fperson-looking-at-computer-screen-in-shock.jpg&w=1200&op=resize",
+      "description": "Billionaire hedge fund manager Chase Coleman has created an alternative \"Magnificent Seven\" portfolio focused on AI, excluding Apple and Tesla while adding Taiwan Semiconductor and Broadcom. Coleman's portfolio is heavily concentrated (46.2%) in AI-related stocks, which the author believes are better positioned for growth than the traditional Magnificent Seven.",
+      "keywords": [
+        "Magnificent Seven",
+        "AI stocks",
+        "hedge fund",
+        "Chase Coleman",
+        "portfolio concentration",
+        "semiconductor stocks"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Included in Coleman's portfolio as a major AI player with strong market position and growth prospects in the AI buildout."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Part of Coleman's concentrated AI portfolio, demonstrating confidence in its AI strategy and market position."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Included in Coleman's portfolio as a key player in the AI market with strong fundamentals."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Included in Coleman's portfolio as a key player in the AI market with strong fundamentals."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Part of Coleman's AI-focused portfolio, benefiting from data center buildout and cloud services."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Included in Coleman's concentrated portfolio, indicating confidence in its AI capabilities and growth."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Excluded from Coleman's new Magnificent Seven due to being an AI laggard with non-existent AI technology and reliance on past innovations rather than groundbreaking developments."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Excluded from the new portfolio due to declining EV market growth, ending government subsidies, and reliance on uncertain future bets like robotaxis rather than current profitability."
+        },
+        {
+          "ticker": "TSM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Added to Coleman's new Magnificent Seven as a key chip provider to AI companies, well-positioned to benefit from continued data center expansion."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Added to Coleman's portfolio as a strong AI competitor with custom AI accelerator chips gaining popularity as alternatives to Nvidia GPUs."
+        }
+      ]
+    },
+    {
+      "id": "38fbec43dedf97e7b54fe1af25e9932031dff9f0268eb85fb278c2f982ca2e0e",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "All-In On AI: What Happens If the Bubble Pops In 2026?",
+      "author": "Erica Kollmann",
+      "published_utc": "2025-12-27T14:01:04Z",
+      "article_url": "https://www.benzinga.com/markets/tech/25/12/49600650/all-in-on-ai-what-happens-if-the-bubble-pops-in-2026?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+      "tickers": [
+        "SPY",
+        "APO",
+        "APOS",
+        "APOpA",
+        "MSFT",
+        "GOOG",
+        "GOOGL",
+        "META",
+        "AMZN",
+        "ORCL",
+        "NVDA"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/12/27/Tech-Bubble-Risk-And-Economic-Technology.jpeg?width=1200&height=800&fit=crop",
+      "description": "Apollo Global Management's chief economist warns that the U.S. economy has become dangerously dependent on AI as a single growth engine, with the top 10 S&P 500 companies comprising over 40% of the index. Hyperscalers are spending record amounts on AI infrastructure capex. If AI demand weakens or fails to deliver productivity gains, Apollo predicts cascading negative consequences including market corrections, infrastructure freezes, and potential recession, with a 30% consensus recession probability for 2026.",
+      "keywords": [
+        "AI bubble",
+        "market concentration",
+        "S&P 500",
+        "hyperscalers",
+        "capex spending",
+        "recession risk",
+        "Magnificent 7",
+        "single point of failure"
+      ],
+      "insights": [
+        {
+          "ticker": "SPY",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article warns of significant downside risk if the AI bubble pops, predicting a potential 20-30% drop in the index leaders could wipe out years of gains. The index is characterized as dangerously concentrated and vulnerable to a market correction."
+        },
+        {
+          "ticker": "APO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Apollo is mentioned as the source of the warning analysis rather than being directly impacted. The company is providing cautionary outlook commentary but is not itself a subject of the risk assessment."
+        },
+        {
+          "ticker": "APOS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Apollo is mentioned as the source of the warning analysis rather than being directly impacted. The company is providing cautionary outlook commentary but is not itself a subject of the risk assessment."
+        },
+        {
+          "ticker": "APOpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Apollo is mentioned as the source of the warning analysis rather than being directly impacted. The company is providing cautionary outlook commentary but is not itself a subject of the risk assessment."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Listed as a hyperscaler heavily dependent on AI narrative and planning record capex spending. Vulnerable to AI sentiment rollover and potential market unwinding of the Magnificent 7."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Identified as a hyperscaler with significant AI capex commitments. Subject to the same risks as other Magnificent 7 companies if AI demand weakens."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Identified as a hyperscaler with significant AI capex commitments. Subject to the same risks as other Magnificent 7 companies if AI demand weakens."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Included among hyperscalers spending record amounts on AI infrastructure. Exposed to potential market correction if AI bubble deflates."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Listed as a hyperscaler with heavy AI capex spending. Vulnerable to the predicted unwinding of the Magnificent 7 if AI sentiment rolls over."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Identified as a hyperscaler investing heavily in AI infrastructure. Subject to the same cascading negative consequences if AI demand signals weaken."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Referenced as the 'King of AI' in the article context. Would be significantly impacted by an AI infrastructure freeze or rollover in AI sentiment."
+        }
+      ]
+    },
+    {
+      "id": "40f4113d49caf7988dc67ee2fa4ec425992c5ab25246254d7bb01952082a45d9",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Got $5,000? 3 Incredible Stocks to Buy for 2026",
+      "author": "Keithen Drury",
+      "published_utc": "2025-12-27T11:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/12/27/got-5000-3-incredible-stocks-to-buy-for-2026/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "TTD",
+        "MELI",
+        "AMZN",
+        "PYPL"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F848350%2Fperson-listening-to-podcast-on-computer.jpg&w=1200&op=resize",
+      "description": "The article recommends three stocks for 2026 investment: Nvidia, expected to benefit from record data center spending; The Trade Desk, a severely undervalued advertising software provider down 70% in 2025; and MercadoLibre, a dominant Latin American e-commerce and fintech platform trading at historically low valuations.",
+      "keywords": [
+        "stock recommendations",
+        "2026 outlook",
+        "artificial intelligence",
+        "data centers",
+        "advertising technology",
+        "e-commerce",
+        "Latin America",
+        "valuation",
+        "growth stocks"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Expected monster growth in 2026 due to record data center capital expenditures by AI hyperscalers; sold out of cloud GPUs with multi-year order backlog; reasonable valuation at 24x 2026 earnings given growth prospects; management projects $3-4 trillion in global data center capex by 2030."
+        },
+        {
+          "ticker": "TTD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Despite being the S&P 500's worst performer in 2025 (down 70%), the company fundamentals remain solid with 18% revenue growth in Q3; stock is now undervalued at less than 18x 2026 earnings; positioned for a comeback in 2026 after the premium valuation was eliminated."
+        },
+        {
+          "ticker": "MELI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Dominant e-commerce and fintech player in Latin America with significant growth runway; trading at historically low valuation of 15x free cash flow; down 20% from all-time high, presenting attractive entry point; expected to return to market-beating performance in 2026."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned only as a comparison point for MercadoLibre's business model; no specific investment recommendation or analysis provided."
+        },
+        {
+          "ticker": "PYPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned only as a comparison point for MercadoLibre's fintech operations; no specific investment recommendation or analysis provided."
+        }
+      ]
+    },
+    {
+      "title": "AI Bubble Risk In Our Cautious 2026 S&P 500 Outlook",
+      "description": "",
+      "published_utc": "2025-12-27T07:17:21",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=093f0804c1fd6f270c65691c8d6272abdcf4583678fe079c3686fd2f22413466",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137916094,
+      "datetime": 1766837841
+    },
+    {
+      "id": "9992a57f54aaf768fd1632669d2052ea6a4433e4de1f697f7a5dda1f2166aedc",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Ultimate Growth Stock to Buy With $2,000 Right Now",
+      "author": "Jeremy Bowman",
+      "published_utc": "2025-12-27T04:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/12/26/the-ultimate-growth-stock-to-buy-with-2000-right-n/?source=iedfolrf0000001",
+      "tickers": [
+        "MELI",
+        "AMZN",
+        "SE"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F848736%2Fmercadolibre-mercadopago.jpg&w=1200&op=resize",
+      "description": "MercadoLibre (MELI), Latin America's e-commerce leader, has fallen 23% from its June peak due to competitive pressures from Amazon, Temu, and Shopee, causing margin compression. However, the article argues the sell-off presents an opportunity, citing the company's 27 consecutive quarters of 30%+ revenue growth, strong competitive advantages like MELI+ membership, and significant growth runway as e-commerce and fintech penetration in Latin America remain in mid-teens. Trading at a P/E of 49, the stock is positioned for recovery as margins are expected to expand in 2026.",
+      "keywords": [
+        "e-commerce",
+        "Latin America",
+        "growth stock",
+        "competitive pressure",
+        "margin compression",
+        "fintech",
+        "market opportunity"
+      ],
+      "insights": [
+        {
+          "ticker": "MELI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Despite recent 23% pullback and margin pressures, the article highlights strong fundamentals including 27 consecutive quarters of 30%+ revenue growth, competitive advantages (MELI+ membership), significant market growth runway in Latin America, and expected margin expansion in 2026. The sell-off is framed as a buying opportunity at a reasonable valuation."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a competitive threat to MercadoLibre in Latin America with renewed market push, but also cited as a comparable business model that MercadoLibre successfully emulates. No specific positive or negative outlook provided."
+        },
+        {
+          "ticker": "SE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a competitive threat through its Shopee platform in Latin America, contributing to margin compression at MercadoLibre. However, no specific analysis or outlook is provided."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Morgan Stanley Lays Off 2,500 Employees Across All Divisions",
+      "description": "The layoffs of 3% of the workforce are tied to shifting business priorities and individual job performance.",
+      "published_utc": "2026-03-04T17:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6e540c7ff224b2555adc4fb7703728478a01dcba5f72f3a5e6ad9a8808bb6a57",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139303072,
+      "datetime": 1772661660
+    },
+    {
+      "title": "HubSpot and Other Software Stocks Are Bouncing Back. Their Next Move Could Come Soon.",
+      "description": "The iShares Expanded Tech-Software Sector Exchange-Traded fund—which owns large software names such as  Microsoft Oracle Salesforce  Adobe, and  Palantir  —is up 12% since late February, after a brutal monthslong selloff.  The market is concerned that the privately-owned AI pioneers Anthropic and OpenAI will take market share from the many software vendors that provide tools to businesses and people.  The industry’s early recovery comes as bargain hunters take a chance on these beaten-down names, betting that some can still thrive despite AI.",
+      "published_utc": "2026-03-04T15:16:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1a01ea75194e0cd0fc7e6e7162162160d3b03780646b5552d08000cb9933a0c8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139302199,
+      "datetime": 1772655360
+    },
+    {
+      "title": "Salesforce Uses Formula 1 Deal To Showcase Agentforce AI Growth Potential",
+      "description": "Salesforce (NYSE:CRM) and Formula 1 are expanding their partnership to launch an AI-powered fan companion agent using Salesforce's Agentforce platform. The new agent is designed to scale and personalize engagement for F1’s global fanbase across digital channels. Formula 1 is also further deploying Agentforce 360 across its digital ecosystem as part of this collaboration. For you as an investor, this move adds practical detail to Salesforce's push into AI driven customer engagement tools...",
+      "published_utc": "2026-03-04T15:12:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8e9df5ae3e40b5c270a1efd7aa11cb9f63b126a19b654b0f69bdda45af1f302e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139302328,
+      "datetime": 1772655122
+    },
+    {
+      "title": "Why Salesforce Stock Might Not Be an AI Loser After All",
+      "description": "AI agents like Claude Cowork have terrified software investors, but Salesforce’s early response looks encouraging.",
+      "published_utc": "2026-03-04T14:57:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f0cf660744d6acc20ee4402a25d3f54d0150f463eff63b2e42080bc9a187c8ce",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139302329,
+      "datetime": 1772654220
+    },
+    {
+      "title": "Salesforce (CRM): Buy, Sell, or Hold Post Q4 Earnings?",
+      "description": "Over the past six months, Salesforce’s shares (currently trading at $195.64) have posted a disappointing 19.8% loss, well below the S&P 500’s 5.7% gain. This might have investors contemplating their next move.",
+      "published_utc": "2026-03-04T13:30:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fca2febb02b35eae9e1ca6d33844d705e2134e12ee3c62f70a3d029b547e56c3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139301081,
+      "datetime": 1772649042
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T04:04:36.080950+00:00",
+    "cache_key": "news_ccd8d77adb6898b28f3f5b37d339b63a",
+    "count": 5
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "The Burger King President Who Took a Bite Out of McDonald’s",
+      "description": "Tom Curtis has gone viral by recording a video of himself chomping on a Whopper and even posting his phone number online.",
+      "published_utc": "2026-03-06T19:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cb29f737489b3d5371f01377664c1ea85e61c7f1932861ccac7a2e6af8b8325a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139329205,
+      "datetime": 1772841600
+    }
+  ]
+}

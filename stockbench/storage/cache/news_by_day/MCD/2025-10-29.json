@@ -1,0 +1,110 @@
+{
+  "items": [
+    {
+      "id": "ec1cf18286b1170bc0bc91586705c588cfa51049c74a512910490ff64bb6901b",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "3 Stocks With Big Dividend Hikes—And Bigger Momentum",
+      "author": "Leo Miller",
+      "published_utc": "2025-10-29T20:27:00Z",
+      "article_url": "https://www.investing.com/analysis/3-stocks-with-big-dividend-hikesand-bigger-momentum-200669326",
+      "tickers": [
+        "MCD",
+        "FIX",
+        "APH"
+      ],
+      "amp_url": "https://m.investing.com/analysis/3-stocks-with-big-dividend-hikesand-bigger-momentum-200669326?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "Three companies - McDonald's, Comfort Systems USA, and Amphenol - recently announced significant dividend increases ranging from 5% to 52%, demonstrating strong financial performance and commitment to shareholder returns.",
+      "keywords": [
+        "dividends",
+        "stock market",
+        "HVAC",
+        "AI",
+        "technology",
+        "interconnects"
+      ],
+      "insights": [
+        {
+          "ticker": "MCD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Delivered solid but unexceptional 8.6% total return, increased quarterly dividend by 5%, maintained 49-year streak of consecutive dividend increases"
+        },
+        {
+          "ticker": "FIX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Delivered 132% total return in 2025, 20% dividend increase, 78% revenue growth, and five consecutive quarterly dividend increases"
+        },
+        {
+          "ticker": "APH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Generated 97% total return in 2025, record $3.6 billion free cash flow, massive 52% dividend increase, strong growth in IT datacom market"
+        }
+      ]
+    },
+    {
+      "title": "McDonald's (MCD) Stock Moves -1.32%: What You Should Know",
+      "description": "McDonald's (MCD) reached $302.35 at the closing of the latest trading day, reflecting a -1.32% change compared to its last close.",
+      "published_utc": "2025-10-29T17:45:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3c80e0a7bc108d7dc86af1790d01daae66aa2e01696f0c5bf1f9c13e3954cfb2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137263686,
+      "datetime": 1761774305
+    },
+    {
+      "title": "Microsoft Says Azure Recovery Underway After Major Outage; AWS Says Services Operating Normally (UPDATED)",
+      "description": "Amazon&#39;s AWS and Microsoft Azure are both experiencing outages on Wednesday.",
+      "published_utc": "2025-10-29T13:19:14",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=7fb35f93077efba41206e82616e16ca65b585ace701eb9f1387e6657d2a74933",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/10/29/Munich--Germany---22--January-2023-Amazo.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138411289,
+      "datetime": 1761758354
+    },
+    {
+      "title": "McDonald's Corp. stock outperforms competitors despite losses on the day",
+      "description": "McDonald's Corp. stock outperforms competitors despite losses on the day",
+      "published_utc": "2025-10-29T12:34:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=be721dda43e47ab153b660fe38d4ab38d5a091352516c5da8951d9b2305f69c2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137317899,
+      "datetime": 1761755640
+    },
+    {
+      "title": "McDonald's (MCD) Earnings Expected to Grow: Should You Buy?",
+      "description": "McDonald's (MCD) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+      "published_utc": "2025-10-29T10:00:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b047653f622c02a4ad8224b3d0c58b31cbc063ac06ff4e285ff9d8ac23c9ce13",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137258581,
+      "datetime": 1761746439
+    }
+  ]
+}

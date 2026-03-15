@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Boeing Gets Order From Uzbekistan Airways for Up to 22 Dreamliner Jets",
+      "description": "Boeing Gets Order From Uzbekistan Airways for Up to 22 Dreamliner Jets",
+      "published_utc": "2025-09-22T13:25:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=d9446964f2850ab56a1b3103da157cb1ce6aff881cad5af37eee13326fe7ccec",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136869111,
+      "datetime": 1758561900
+    },
+    {
+      "title": "GE Aerospace Stock Falls After Labor Deal. A Boeing Staff Dispute Is Ongoing.",
+      "description": "GE Aerospace Stock Falls After Labor Deal. A Boeing Staff Dispute Is Ongoing.",
+      "published_utc": "2025-09-22T12:34:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f65efba1991dddc3197ec999822c70662a173eec4033b04f66f3666b8b98cb36",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136869112,
+      "datetime": 1758558840
+    },
+    {
+      "title": "Airbus: How Is Boeing's Rival Performing On Orders And Deliveries?",
+      "description": "Airbus stock stays strong with rising jet deliveries and order backlog.",
+      "published_utc": "2025-09-22T06:29:18",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6af725a89273b6d76abe28a77428366320fcd4edd0723b47df1a3b2391902a5c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/537880212/image_537880212.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136842596,
+      "datetime": 1758536958
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T04:13:59.149110+00:00",
+    "cache_key": "news_86b5c3aa785de6d657fc6933710da350",
+    "count": 3
+  }
+}

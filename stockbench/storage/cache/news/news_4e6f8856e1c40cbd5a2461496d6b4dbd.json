@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The Market’s Riskier Than It Used to Be—and Investors Love It",
+      "description": "The Market’s Riskier Than It Used to Be—and Investors Love It",
+      "published_utc": "2025-09-13T19:00:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=307f28aeeb7b31d876e6a9943df5685f85e721587d71500410b2ecd55e9e8ff0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136751101,
+      "datetime": 1757804400
+    },
+    {
+      "title": "3 Reasons to Love Microsoft's Dividend",
+      "description": "A small yield can still be a great dividend when it's safe, growing, and backed by a powerhouse business.",
+      "published_utc": "2025-09-13T14:36:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d70bcbd79745789f1f0fcbcbdbc1aaa806607e823d7240538fbb8eea360a1901",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136735773,
+      "datetime": 1757788560
+    },
+    {
+      "title": "Jim Cramer Discusses Microsoft Corporation (MSFT)’s Cloud Business In Detail",
+      "description": "We recently published 10 Stocks Jim Cramer Discussed As He Remained Optimistic About American Ingenuity. Microsoft Corporation (NASDAQ:MSFT) is one of the stocks Jim Cramer recently discussed. Microsoft Corporation (NASDAQ:MSFT)’s cloud computing business is a key focus point for Jim Cramer. In his previous comments, the CNBC TV host has compared the cloud business, called […]",
+      "published_utc": "2025-09-13T13:10:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b1e83aed7d71283d98392ee683faf02eee597f3078ee5b89b594ea7205c233ab",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136735774,
+      "datetime": 1757783419
+    },
+    {
+      "title": "Will Fortive's (FTV) Balanced Capital Strategy and AI Focus Reshape Its Medium-Term Investment Narrative?",
+      "description": "Earlier this week, Fortive presented a confident strategic outlook at Morgan Stanley’s 13th Annual Laguna Conference, emphasizing a balanced capital allocation approach, ongoing AI integration, and normalization of sector headwinds. An important insight from the event is management’s continued focus on shareholder returns through disciplined share buybacks, dividends, and targeted M&A, alongside reinforced commitment to reaching its 2026-2027 financial objectives. We'll explore how Fortive's...",
+      "published_utc": "2025-09-13T10:03:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2ae96e36bfdbcef90bc7d73a35055db0f60c2a25c61f4667d58a1d917d9c0d94",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136735762,
+      "datetime": 1757772210
+    },
+    {
+      "title": "Will ANZ’s (ASX:ANZ) Management Shift Reveal a New Approach to Institutional Capital Strategy?",
+      "description": "ANZ Group Holdings recently announced that Kevin Corbally will step down as Group Chief Risk Officer to become Managing Director, Capital Management Institutional, as the bank advances a major strategic review including planned job reductions and technology platform changes. This leadership transition signals a broader organisational shift, with efforts to embed stronger capital management practices within ANZ’s institutional business amid significant operational restructuring. We'll examine...",
+      "published_utc": "2025-09-13T09:55:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=16e7f698a4b938cd0dda0c0e0531ce02d7306c84a4eace171952e6bc4c34e53f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136735763,
+      "datetime": 1757771754
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:38:51.575725+00:00",
+    "cache_key": "news_4e6f8856e1c40cbd5a2461496d6b4dbd",
+    "count": 5
+  }
+}

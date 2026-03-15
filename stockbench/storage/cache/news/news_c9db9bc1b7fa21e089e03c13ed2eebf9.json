@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Retail spending slows as Budget looms large",
+      "description": "Non-food sales growth slowed to 0.7% against growth of 1.7% last September and below the 12-month average growth of 0.9%, the BRC and KPMG reported.",
+      "published_utc": "2025-10-13T19:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2bff25ea4e2856933de2b20238a8cf8da811abe8eee18934443fc83439d178d0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137074229,
+      "datetime": 1760396460
+    },
+    {
+      "title": "Dow Jones Futures: Trump Tariff Comments Spark Market Gains; Broadcom, Nvidia, Oracle, Tesla Rally",
+      "description": "Dow Jones Futures: Trump Tariff Comments Spark Market Gains; Broadcom, Nvidia, Oracle, Tesla Rally",
+      "published_utc": "2025-10-13T18:25:09",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=89df96b5fa6a8d39fb01cdca4341c0502b990f5a07b601bdc0ee8eb5cd80d9ab",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137077283,
+      "datetime": 1760394309
+    },
+    {
+      "title": "Jefferies Flags Margin Risk For Apple iPhone 17",
+      "description": "Tariffs and base mix pressure Apple profit outlook",
+      "published_utc": "2025-10-13T17:06:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2a6cfa68379c56ddd2b99be9704cdb516e35bdaf151768ffbf6dcfb56966cd05",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137074230,
+      "datetime": 1760389602
+    },
+    {
+      "title": "Apple In Talks To Buy Prompt AI Talent",
+      "description": "Employees urged to apply as transition begins now",
+      "published_utc": "2025-10-13T17:01:28",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fd28b442b41e67d0d5cdb149baf852a1017648fbed85491f8ced1bb2a5fc31f6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137074231,
+      "datetime": 1760389288
+    },
+    {
+      "title": "Top Stock Reports for Apple, Eli Lilly & Visa",
+      "description": "Apple's strong Services growth, Eli Lilly's GLP-1 momentum, and Visa's digital expansion headline today's top stock reports.",
+      "published_utc": "2025-10-13T16:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=61d183e4eb7f53c15fe6741254730a10161bf14157b6958dd1bf953601abb40f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137074232,
+      "datetime": 1760386500
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:18:33.246725+00:00",
+    "cache_key": "news_c9db9bc1b7fa21e089e03c13ed2eebf9",
+    "count": 5
+  }
+}

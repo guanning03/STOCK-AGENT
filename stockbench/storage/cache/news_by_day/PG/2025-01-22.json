@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "id": "5495b327980e579281c904ead630a5b9fa38e778d574c101be2d9618936baf09",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why Procter & Gamble Stock Was Moving Higher Today",
+      "author": "Jeremy Bowman",
+      "published_utc": "2025-01-22T16:29:52Z",
+      "article_url": "https://www.fool.com/investing/2025/01/22/why-procter-gamble-stock-was-moving-higher-today/?source=iedfolrf0000001",
+      "tickers": [
+        "PG"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804848/store-aisle-5-below-dollar-general-dollar-tree-1201x775-6ad09b4.jpg",
+      "description": "Procter & Gamble reported solid earnings, with organic sales growth and volume growth despite flat pricing. The company's guidance for the fiscal year was also better than expected, leading to a 2.7% gain in the stock.",
+      "keywords": [
+        "Procter & Gamble",
+        "earnings",
+        "organic sales",
+        "volume growth",
+        "guidance"
+      ],
+      "insights": [
+        {
+          "ticker": "PG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Procter & Gamble reported better-than-expected earnings, with organic sales growth and volume growth, and provided a positive outlook for the fiscal year. This led to a 2.7% gain in the stock price."
+        }
+      ]
+    },
+    {
+      "id": "1f8b5eff7e1089dc20b77b90b023e0aedf110bd19c22cd894595a74da893bbeb",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Procter & Gamble Earnings Beat Estimates",
+      "author": "Jesterai",
+      "published_utc": "2025-01-22T14:55:57Z",
+      "article_url": "https://www.fool.com/data-news/2025/01/22/procter-gambles-revenue-exceeds-estimates/?source=iedfolrf0000001",
+      "tickers": [
+        "PG"
+      ],
+      "image_url": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/c0407e6a11c690bdc2a2000abb918e4b010a946e-2000x1200.jpg",
+      "description": "Procter & Gamble reported strong Q2 results, with revenue and earnings exceeding analyst estimates. However, the company continues to face challenges from high supply chain costs. The company remains optimistic about its future performance, maintaining its fiscal 2025 guidance.",
+      "keywords": [
+        "Procter & Gamble",
+        "earnings",
+        "supply chain",
+        "guidance"
+      ],
+      "insights": [
+        {
+          "ticker": "PG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Procter & Gamble reported strong financial results, with revenue and earnings exceeding analyst estimates. The company's operating income also saw significant growth, up by 29.5% compared to the prior year. While the company faces challenges with supply chain costs, it remains optimistic about its future performance and has maintained its fiscal 2025 guidance."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "items": [
+    {
+      "title": "Tracking Renaissance Technologies (RenTec) 13F Portfolio - Q2 2025 Update",
+      "description": "",
+      "published_utc": "2025-08-24T16:08:01",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5af03a9d2830ba72b2e198c9657b545ae8d7d8941028d9d6e3cde20a2dffefca",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136504690,
+      "datetime": 1756066081
+    },
+    {
+      "title": "Joe Rogan Says The 'Healthcare Scam Goes Deep,' Calls It A 'Horrible Den Of Vampires'",
+      "description": "Joe Rogan held nothing back in a recent episode of his podcast featuring singer-songwriter Jesse Welles, slamming the U.S. health insurance system and the corporate forces behind it. The two discussed the greed, frustration, and widespread distrust that have come to define the American healthcare experience. Criticism Sparked By A Viral Song The conversation was sparked by Welles' viral Instagram song criticizing health insurance companies, particularly UnitedHealthcare (NYSE:UNH). Rogan praised",
+      "published_utc": "2025-08-24T15:31:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0c32e6e3c6fcb38c13b70b589b956fc9f7b8f13661e09a256fe4784ddfc53da0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136507990,
+      "datetime": 1756063870
+    },
+    {
+      "title": "Some of Wall Street's Most Prominent Billionaires and Hedge Funds Think They Have Found an Asymmetric Opportunity",
+      "description": "Many Wall Street funds and billionaires recently reported their stock holdings, as required, at the end of the second quarter.",
+      "published_utc": "2025-08-24T08:13:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=94e29497cc3a237a151368262bf57dffb2d72aecf19e9247de8488cf409031e2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136502681,
+      "datetime": 1756037580
+    },
+    {
+      "id": "5887f68828d8e66d232ff81cc01dc9cd8e6884c731adb921f99834fd639ae83d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "5 No-Brainer Warren Buffett Stocks to Buy Right Now -- Including Amazon.com",
+      "author": "Selena Maranjian",
+      "published_utc": "2025-08-24T16:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/08/24/5-no-brainer-warren-buffett-stocks-to-buy-now/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "LEN",
+        "LEN.B",
+        "CVX",
+        "UNH",
+        "BRK.A",
+        "BRK.B"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/830404/buffett-the-motley-fool-b.jpg",
+      "description": "The article discusses several stocks in Berkshire Hathaway's portfolio, highlighting potential investment opportunities in Amazon, Lennar, Chevron, UnitedHealth Group, and Berkshire Hathaway itself, with insights into their growth potential and current market positioning.",
+      "keywords": [
+        "investing",
+        "stocks",
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "portfolio",
+        "market analysis"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Large growth potential, dominant online marketplace, strong cloud computing platform, attractively valued with forward P/E ratio of 34"
+        },
+        {
+          "ticker": "LEN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Positioned to benefit from housing market needs, promising long-term outlook, growing dividend, reasonable valuation"
+        },
+        {
+          "ticker": "LEN.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Positioned to benefit from housing market needs, promising long-term outlook, growing dividend, reasonable valuation"
+        },
+        {
+          "ticker": "CVX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Strong dividend yield, positioned in traditional and alternative energy, slightly overvalued with forward P/E of 20"
+        },
+        {
+          "ticker": "UNH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Facing current challenges like DOJ investigation and CEO change, but promising long-term demographics in healthcare"
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Historically strong performance, promising new leadership with Greg Abel, potential for future dividend introduction"
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Historically strong performance, promising new leadership with Greg Abel, potential for future dividend introduction"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:40:35.514599+00:00",
+    "cache_key": "news_f6550d0344f820d4b67b0c3cdf9e0e02",
+    "count": 4
+  }
+}

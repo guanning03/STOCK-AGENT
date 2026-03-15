@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Just in Time for 2026, Boeing Wins $12.8 Billion in 2 Big Defense Contracts",
+      "description": "Boeing makes a lot of money selling aircraft, but Boeing makes even more money after winning the sale.",
+      "published_utc": "2026-01-10T05:25:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a45f17a79dfa1cad12d842f35f7a09029774589c752b4946c5d9ea9345dc559a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138069072,
+      "datetime": 1768040700
+    },
+    {
+      "title": "Rocket Lab: Innovative Company, But Very Expensive Stock",
+      "description": "Rocket Lab (RKLB) surged 188% in 2025, but profits lag its $44B valuation. Neutron rocketâs success is pivotal. See here for a more detailed analysis.",
+      "published_utc": "2026-01-09T21:15:06",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=02318a862a3c64f2e02f3a478d7dedcc41917d5e2abe5f98b4e6de8f4cbf9927",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2110143509/image_2110143509.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138053346,
+      "datetime": 1768011306
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:15:47.824077+00:00",
+    "cache_key": "news_f55ec69d99f7eff9d170eee7d81f5e2d",
+    "count": 2
+  }
+}

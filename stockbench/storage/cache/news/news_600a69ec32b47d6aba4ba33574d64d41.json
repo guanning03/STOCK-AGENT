@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "With these At Home stores closing, Wayfair should pick up some new customers",
+      "description": "With these At Home stores closing, Wayfair should pick up some new customers",
+      "published_utc": "2025-06-18T11:19:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=134b3b0e483d926f93a236b424cb545e2ac63e2d7d4365ae5dcdaee2db9f7636",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135389263,
+      "datetime": 1750259940
+    },
+    {
+      "title": "Will DIY stocks continue to be challenged? Citi weighs in",
+      "description": "Investing.com -- Citi analysts say the do-it-yourself (DIY) segment continues to show signs of weakness in the second quarter, with both Home Depot (NYSE:HD) and Lowe’s (NYSE:LOW) experiencing soft traffic trends and relying increasingly on Pro customer strength to offset declines.",
+      "published_utc": "2025-06-18T09:16:34",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=162f7df48a62ecc9a3ff5b97bd98004216df8ae399a2eaf5da2241449722759f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135357711,
+      "datetime": 1750252594
+    },
+    {
+      "title": "The Home Depot, Inc. (HD) is Attracting Investor Attention: Here is What You Should Know",
+      "description": "Recently, Zacks.com users have been paying close attention to Home Depot (HD). This makes it worthwhile to examine what the stock has in store.",
+      "published_utc": "2025-06-18T09:00:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aab7834f3e94106298923780cbb4338a57be1d53e2ba220933fbc6a9e04da401",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135370802,
+      "datetime": 1750251604
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T00:30:47.788727+00:00",
+    "cache_key": "news_600a69ec32b47d6aba4ba33574d64d41",
+    "count": 3
+  }
+}

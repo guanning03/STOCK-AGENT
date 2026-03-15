@@ -1,0 +1,94 @@
+{
+  "items": [
+    {
+      "title": "Assessing Johnson & Johnson (JNJ) Valuation After Strong Recent Share Price Momentum",
+      "description": "What Johnson & Johnson (JNJ) investors may be watching now Johnson & Johnson (JNJ) shares have recently drawn attention after a strong run, with the stock showing positive moves over the past week, month, and past 3 months, alongside solid reported revenue and net income figures. See our latest analysis for Johnson & Johnson. At a share price of $239.99, Johnson & Johnson has seen strong short term momentum, with a 30 day share price return of 17.42% feeding into a 1 year total shareholder...",
+      "published_utc": "2026-02-08T15:06:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=406ad4041eb7f71643437676697da087412c8acd18ca72d8a512594f9ddbcc91",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138396767,
+      "datetime": 1770581179
+    },
+    {
+      "title": "IVV’s Uninterrupted Dividend Streak Since 2000 Masks The True Income Profile",
+      "description": "The iShares Core S&P 500 ETF (NYSEARCA:IVV) generates income the straightforward way: it holds the stocks of the 500 largest U.S. companies and passes through the dividends they pay. With $763.6 billion in net assets and an expense ratio of just 0.03%, IVV offers efficient exposure to the entire S&P 500. The fund’s dividend safety ... IVV’s Uninterrupted Dividend Streak Since 2000 Masks The True Income Profile",
+      "published_utc": "2026-02-08T12:25:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=514596008f91b4786c5cde66b8a414463c932bcc7200ecb7c5c464cdb0d97f04",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138395418,
+      "datetime": 1770571554
+    },
+    {
+      "title": "Recession-proof Dividend King offers safe 2.2% yield",
+      "description": "Johnson & Johnson reported impressive fourth-quarter results that beat expectations while outlining an aggressive growth strategy. And here's something investors might find appealing: Johnson & Johnson (JNJ) is a Dividend King with 63 consecutive years of dividend increases, making it ...",
+      "published_utc": "2026-02-07T22:06:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e84cc5222ebb15a07e6674a513fdc3bdcea328d7292f68beb0c31fe2677843c0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138390239,
+      "datetime": 1770519960
+    },
+    {
+      "id": "c4b8a4200f91d0cdb7c0bffc71f197013010fa17eda05304b15f37bec68e79cc",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "What is Considered a Good Stock Dividend? 2 Healthcare Stocks That Fit the Bill.",
+      "author": "Matt Dilallo",
+      "published_utc": "2026-02-08T17:09:00Z",
+      "article_url": "https://www.fool.com/investing/2026/02/08/what-is-considered-a-good-stock-dividend-2-healthc/?source=iedfolrf0000001",
+      "tickers": [
+        "JNJ",
+        "MDT"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F853887%2Fjnj.jpg&w=1200&op=resize",
+      "description": "Research shows that dividend growth stocks deliver superior long-term returns compared to high-yield non-growing dividend stocks. Johnson & Johnson and Medtronic are highlighted as exemplary dividend stocks, both offering yields well above the S&P 500 average while maintaining decades-long records of consecutive annual dividend increases, supported by strong financial profiles and strategic growth investments.",
+      "keywords": [
+        "dividend stocks",
+        "dividend yield",
+        "dividend growth",
+        "healthcare stocks",
+        "dividend kings",
+        "long-term returns",
+        "free cash flow"
+      ],
+      "insights": [
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JNJ is praised for its 2.2% dividend yield (nearly double S&P 500 average), 63 consecutive years of dividend increases (Dividend King status), AAA bond rating, strong free cash flow ($20B) covering dividends, and substantial R&D investments ($14.7B) supporting future growth."
+        },
+        {
+          "ticker": "MDT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "MDT is commended for its 2.8% dividend yield, 48 consecutive years of annual dividend increases, healthy free cash flow ($5.2B) covering dividends, strong A-rated balance sheet, and continued R&D investment ($2.7B) with strategic acquisitions supporting dividend growth sustainability."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:48:26.743486+00:00",
+    "cache_key": "news_d28d781872d4f447189ea96a4bbadf3d",
+    "count": 4
+  }
+}

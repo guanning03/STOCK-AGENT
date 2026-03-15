@@ -1,0 +1,241 @@
+{
+  "items": [
+    {
+      "id": "6d889cf00db3f5c8d32a6cd825c7c925e5b56c6d4a4fc46454061e4c5a71c61a",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "These Were the 5 Top-Performing Stocks in the Dow Jones Industrial Average in August 2025",
+      "author": "Patrick Sanders",
+      "published_utc": "2025-09-07T16:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/09/07/these-were-the-5-top-performing-stocks-in-the-dow/?source=iedfolrf0000001",
+      "tickers": [
+        "UNH",
+        "AAPL",
+        "AXP",
+        "AMZN",
+        "HD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/830953/tracking-trends-data-stock-market.jpg",
+      "description": "In August 2025, five Dow Jones stocks outperformed the index's 3.8% monthly gain, including UnitedHealth, Apple, American Express, Amazon, and Home Depot, driven by strong earnings, strategic investments, and positive market developments.",
+      "keywords": [
+        "Dow Jones",
+        "stock performance",
+        "earnings",
+        "investments",
+        "technology",
+        "healthcare",
+        "finance"
+      ],
+      "insights": [
+        {
+          "ticker": "UNH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Received significant investment from Berkshire Hathaway and Michael Burry, reported strong Q2 earnings with 15% projected revenue growth"
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Reported 10% revenue growth, double-digit increases in iPhone, Mac, and Services segments"
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "9% revenue increase, 17% earnings growth, planning to attract younger customers"
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong AWS performance, 23% growth in advertising, record-breaking Prime Day sales"
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "4.9% sales increase, driven by home improvement projects amid struggling home sales"
+        }
+      ]
+    },
+    {
+      "id": "66e8291d4c6bb77b03095bb5b2ba48601d62b0d066501931154413b8e5b78f93",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 No-Brainer Warren Buffett Stocks to Buy Right Now",
+      "author": "Patrick Sanders",
+      "published_utc": "2025-09-07T11:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/09/07/3-no-brainer-warren-buffett-stocks-to-buy-now/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK",
+        "KR"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/831858/buffett3-tmf.jpg",
+      "description": "Warren Buffett, CEO of Berkshire Hathaway, continues to invest in companies with strong management and competitive advantages. His top stock picks include Apple, Bank of America, and Kroger, each demonstrating unique strengths in their respective industries.",
+      "keywords": [
+        "Warren Buffett",
+        "investing",
+        "stocks",
+        "Berkshire Hathaway",
+        "value investing"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mixed performance with strong market position but facing challenges in China and flattening revenue/earnings since 2022"
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Consistent growth with 26 consecutive quarters of net checking account growth, strong digital banking system, and increased dividend"
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Consistent growth with 26 consecutive quarters of net checking account growth, strong digital banking system, and increased dividend"
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Consistent growth with 26 consecutive quarters of net checking account growth, strong digital banking system, and increased dividend"
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Consistent growth with 26 consecutive quarters of net checking account growth, strong digital banking system, and increased dividend"
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Consistent growth with 26 consecutive quarters of net checking account growth, strong digital banking system, and increased dividend"
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Consistent growth with 26 consecutive quarters of net checking account growth, strong digital banking system, and increased dividend"
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Consistent growth with 26 consecutive quarters of net checking account growth, strong digital banking system, and increased dividend"
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Consistent growth with 26 consecutive quarters of net checking account growth, strong digital banking system, and increased dividend"
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Consistent growth with 26 consecutive quarters of net checking account growth, strong digital banking system, and increased dividend"
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Consistent growth with 26 consecutive quarters of net checking account growth, strong digital banking system, and increased dividend"
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Consistent growth with 26 consecutive quarters of net checking account growth, strong digital banking system, and increased dividend"
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Consistent growth with 26 consecutive quarters of net checking account growth, strong digital banking system, and increased dividend"
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Consistent growth with 26 consecutive quarters of net checking account growth, strong digital banking system, and increased dividend"
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Consistent growth with 26 consecutive quarters of net checking account growth, strong digital banking system, and increased dividend"
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Consistent growth with 26 consecutive quarters of net checking account growth, strong digital banking system, and increased dividend"
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Consistent growth with 26 consecutive quarters of net checking account growth, strong digital banking system, and increased dividend"
+        },
+        {
+          "ticker": "KR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong financial performance, raised full-year guidance, and benefiting from economic conditions driving grocery spending"
+        }
+      ]
+    },
+    {
+      "title": "Consumer Tech News (September 1 – September 5): Apple AI Push, Palantir Expands Partnerships, Tesla Robotaxi Surge, NVIDIA's $1.5B Chip Deal - Apple (NASDAQ:AAPL), Amazon.com (NASDAQ:AMZN)",
+      "description": "U.S. jobs stagnation, Fed rate-cut bets, record gold, major earnings, and tech–AI–auto shakeups dominated Wall Street this week.",
+      "published_utc": "2025-09-07T05:40:00",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=175bac8b45da21a15a14f0d3e466a665d8bc864823e9a23d6e5dc080feab0999",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/09/07/Advanced-Technology-Concept-Visualizatio.jpeg?width=1200&height=800&fit=crop",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137333919,
+      "datetime": 1757238000
+    },
+    {
+      "title": "ASG: Discount Presents A Better Opportunity",
+      "description": "ASG trades at an ~8% discount with growth exposure across all caps, now tilted toward mega-cap tech, and offers tax-friendly distributions. See why ASG CEF is a buy.",
+      "published_utc": "2025-09-07T05:26:49",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ca5d19edc77cff22db897285a71a4413bfb04634c12f23212d8159c6c9a4d43f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2216601928/image_2216601928.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136662178,
+      "datetime": 1757237209
+    },
+    {
+      "title": "The BLSH Strategy: The Compounding Machine",
+      "description": "The BLSH strategy uses rules-based signals to buy undervalued blue chips and sell at highs, delivering 14.8% CAGR over 30 years. Learn why this method beats the S&P 500.",
+      "published_utc": "2025-09-07T04:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=71194d83bc202d1f835c72a788ae20fcdcac36539034f341effe3d5c2bc3a2b0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2182715562/image_2182715562.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136661923,
+      "datetime": 1757232900
+    }
+  ]
+}

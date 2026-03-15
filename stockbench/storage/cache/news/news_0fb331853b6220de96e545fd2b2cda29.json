@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "How much are wire transfer fees?",
+      "description": "Wire transfer fees can be expensive, but here are ways to send money for less.",
+      "published_utc": "2026-01-21T16:38:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0d4214fb9e7706e300df0e75e5f8a6dbacf8ecf35606258f26201c52d01ba6f3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138199609,
+      "datetime": 1769031530
+    },
+    {
+      "title": "Sector Update: Financial Stocks Advance Late Afternoon",
+      "description": "Financial stocks rose late Wednesday afternoon trading, with the NYSE Financial Index adding 1% and",
+      "published_utc": "2026-01-21T15:51:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4ff30faba725ec884fde08ddb31f5f7f9242ac2cac7af6b5dcd51b6521923908",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138198913,
+      "datetime": 1769028719
+    },
+    {
+      "title": "Blackstone Weighs $500 Million IPO for Indian Glass Maker",
+      "description": "Private equity firm explores Mumbai listing of PGP Glass at up to a $4 billion valuation.",
+      "published_utc": "2026-01-21T15:21:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f7c139f022369a2debb0ed5cabc94077fc4d1a1dbcc7656a9b299c410ef236e9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138198953,
+      "datetime": 1769026889
+    },
+    {
+      "title": "Market Chatter: Goldman Sachs, Blue Owl in Talks With Hg Over $3 Billion Loan for OneStream Deal",
+      "description": "Goldman Sachs' (GS) alternative investment platform and Blue Owl (OWL) are in discussions with buyou",
+      "published_utc": "2026-01-21T14:45:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dd4b9aa9d59e666f68a7e108484dfab332eb46812db0e203b6b18c993de9fcfd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138198161,
+      "datetime": 1769024742
+    },
+    {
+      "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
+      "description": "The Dow Industrials jumped nearly 590 points Wednesday after President Trump called off new tariffs on Europe.",
+      "published_utc": "2026-01-21T13:22:20",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=c1603404ecf2343b5bbcc46937fc313cdf73ca3fc40e2b65ade4f1f494519567",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108214641-1761048654627-gettyimages-2236871119-ECP_fc1294572.jpeg?v=1761048752&w=1920&h=1080",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138205374,
+      "datetime": 1769019740
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:49:10.081615+00:00",
+    "cache_key": "news_0fb331853b6220de96e545fd2b2cda29",
+    "count": 5
+  }
+}

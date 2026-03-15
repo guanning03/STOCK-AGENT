@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "id": "17d5f81d3d251a0e7566bf82e82b0627423b32ee023e3927c422a6919487169d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Prediction: This Company Will Have a Trillion-Dollar Market Cap by 2040",
+      "author": "Prosper Junior Bakiny",
+      "published_utc": "2025-01-26T12:57:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/26/prediction-this-company-will-have-trillion-dollar/?source=iedfolrf0000001",
+      "tickers": [
+        "ISRG",
+        "SYK",
+        "JNJ",
+        "MDT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804160/physician-shaking-patients-hand.jpg",
+      "description": "Intuitive Surgical, a leading provider of robotic-assisted surgical equipment, has the potential to become a trillion-dollar company by 2040 due to its strong market position, high switching costs, and continued innovation. The article discusses the company's growth prospects, competitive landscape, and the benefits of robotic-assisted surgeries.",
+      "keywords": [
+        "Intuitive Surgical",
+        "robotic-assisted surgery",
+        "trillion-dollar company",
+        "medical device",
+        "healthcare"
+      ],
+      "insights": [
+        {
+          "ticker": "ISRG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article presents Intuitive Surgical as a company with strong growth potential, a leading market position, and the ability to continue innovating in the robotic-assisted surgery market. The article suggests that Intuitive Surgical could become a trillion-dollar company by 2040, indicating a positive outlook for the company."
+        },
+        {
+          "ticker": "SYK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Stryker as a well-established medical device giant that competes with Intuitive Surgical in the robotic-assisted surgery market, but does not provide any specific details or analysis about the company."
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article states that Johnson & Johnson wants to enter the robotic-assisted surgery market, but notes that the company will still need to spend time and money developing and testing its own device, which could give Intuitive Surgical a first-mover advantage."
+        },
+        {
+          "ticker": "MDT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Medtronic also wants to enter the robotic-assisted surgery market, but similar to Johnson & Johnson, the company will need to go through the process of developing and testing its own device, which could benefit Intuitive Surgical's position."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:21:11.393423+00:00",
+    "cache_key": "news_c19526e8cf783617244b9d9afa6a7257",
+    "count": 1
+  }
+}

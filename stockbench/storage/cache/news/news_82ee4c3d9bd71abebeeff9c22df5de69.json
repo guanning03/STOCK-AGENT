@@ -1,0 +1,66 @@
+{
+  "items": [
+    {
+      "id": "db240795a34df107b865ed7c670276d2613017084d183e89bbafd7dc134743f4",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Global Temperature Sensors Market to Hit USD 12,234.2 Million by 2035, Surging Steadily at 4.3% CAGR, Driven by IoT, Wearables, and Industrial Automation | Future Market Insights, Inc.",
+      "author": "Nikhil Kaitwade (Associate Vice President At Future Market Insights, Inc.)",
+      "published_utc": "2025-01-28T00:30:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/28/3016043/0/en/Global-Temperature-Sensors-Market-to-Hit-USD-12-234-2-Million-by-2035-Surging-Steadily-at-4-3-CAGR-Driven-by-IoT-Wearables-and-Industrial-Automation-Future-Market-Insights-Inc.html",
+      "tickers": [
+        "ADI",
+        "TXN",
+        "HON",
+        "NXPI",
+        "APH"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/915d2f9c-7dc6-40c7-995c-2ba168208baa",
+      "description": "The global temperature sensors market is projected to grow from $8,030.3 million in 2025 to $12,234.2 million by 2035, driven by the rise of Industry 4.0, increasing IoT adoption, advancements in wearable technology, and growing demand for precision monitoring in various industries.",
+      "keywords": [
+        "temperature sensors",
+        "IoT",
+        "wearables",
+        "industrial automation",
+        "healthcare",
+        "food safety"
+      ],
+      "insights": [
+        {
+          "ticker": "ADI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Analog Devices as one of the key players in the temperature sensors market, suggesting their involvement and ability to capitalize on the industry's expansion."
+        },
+        {
+          "ticker": "TXN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Texas Instruments is mentioned as a prominent company in the temperature sensors industry, implying their technological expertise and potential to contribute to the market's growth."
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Honeywell International is listed as a leading player in the temperature sensors market, indicating their strong market position and ability to benefit from the industry's expansion."
+        },
+        {
+          "ticker": "NXPI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "NXP Semiconductors N.V. is mentioned as a prominent player in the temperature sensors market, implying their technological expertise and ability to contribute to the industry's expansion."
+        },
+        {
+          "ticker": "APH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amphenol is mentioned as a key player in the temperature sensors market, indicating their involvement and ability to capitalize on the industry's expansion."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:29:16.726194+00:00",
+    "cache_key": "news_82ee4c3d9bd71abebeeff9c22df5de69",
+    "count": 1
+  }
+}

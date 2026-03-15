@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Honeywell International Inc. (HON) Stock Sinks As Market Gains: What You Should Know",
+      "description": "The latest trading day saw Honeywell International Inc. (HON) settling at $211.7, representing a -1.17% change from its previous close.",
+      "published_utc": "2025-09-10T19:15:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3f925ba39579129d51c0404c844eeced19b970d90b9887f6b72e7aad9b14c450",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136689373,
+      "datetime": 1757546101
+    },
+    {
+      "title": "Nvidia Just Placed a $1 Billion Quantum Bet--Here's What's Coming Next",
+      "description": "From Brisbane to Chicago, PsiQuantum's global leap could mark the start of real-world quantum infrastructure",
+      "published_utc": "2025-09-10T15:50:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=77b8c153ef511d9f9faf445435a56320dcb002ff6a8e805e713beccc8c560d70",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136689374,
+      "datetime": 1757533805
+    },
+    {
+      "title": "Honeywell International Inc. stock underperforms Wednesday when compared to competitors",
+      "description": "Honeywell International Inc. stock underperforms Wednesday when compared to competitors",
+      "published_utc": "2025-09-10T12:36:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=60e945f8c5b86e20d15d1c514dcbc2e22b9c8f21fc4fc1c0401cbf191cb26c52",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136753563,
+      "datetime": 1757522160
+    },
+    {
+      "title": "QBTS in Focus Amid Quantum Launches, Competition With IBM, HON",
+      "description": "QBTS stock price likely to rise as the company launches Advantage2, tackles AI and eyes 100K-qubit system amid IBM and Honeywell competition.",
+      "published_utc": "2025-09-10T12:13:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=56f3a81dfbf348468a83f9703ea06054a924a044d267ee1bc6a1f53674306601",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136688879,
+      "datetime": 1757520780
+    },
+    {
+      "title": "Quantum Computing Stocks: Nvidia's Growing Appetite For Startup Investments",
+      "description": "Nvidia's venture capital arm has invested in PsiQuantum and QuEra. Quantum computing stocks have been volatile in 2025 amid controversy.",
+      "published_utc": "2025-09-10T12:01:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9c34018a36ce1f646af3e961655070475e3ce957ccc87801a990d8a36588e2b6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136689222,
+      "datetime": 1757520081
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:37:06.790256+00:00",
+    "cache_key": "news_9daf568dd5c20779c57e781c0c539ab6",
+    "count": 5
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "id": "1dd6df73d421cecb50777dee7d1c8cc592789a278cb9ff9cc8af7c3c7f2f6014",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Peptide Therapeutics Market Size to Reach USD 82.19 Billion by 2032; Surging Requirements for Targeted Medicines in Oncology Augment Market Expansion - SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-12-06T14:10:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/12/06/3201058/0/en/Peptide-Therapeutics-Market-Size-to-Reach-USD-82-19-Billion-by-2032-Surging-Requirements-for-Targeted-Medicines-in-Oncology-Augment-Market-Expansion-SNS-Insider.html",
+      "tickers": [
+        "LLY",
+        "TAK",
+        "AMGN",
+        "PFE"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The global peptide therapeutics market is projected to grow from USD 46.04 billion in 2024 to USD 82.19 billion by 2032, driven by increasing demand for targeted medicines in oncology, metabolic diseases, and infectious diseases, with significant advancements in peptide synthesis and drug delivery technologies.",
+      "keywords": [
+        "peptide therapeutics",
+        "market growth",
+        "oncology",
+        "metabolic disorders",
+        "drug delivery"
+      ],
+      "insights": [
+        {
+          "ticker": "LLY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Confirmed successful installation of a cutting-edge synthetic peptide production facility, demonstrating technological advancement and strategic investment"
+        },
+        {
+          "ticker": "TAK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Signed a global license and collaboration agreement for developing a novel peptide therapy for Polycythemia Vera"
+        },
+        {
+          "ticker": "AMGN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a key market player without specific recent developments highlighted"
+        },
+        {
+          "ticker": "PFE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a key market player without specific recent developments highlighted"
+        }
+      ]
+    },
+    {
+      "title": "BMO Capital Lifts Amgen (AMGN) Price Target as MariTide Outlook Strengthens",
+      "description": "Amgen Inc. (NASDAQ:AMGN) is included among the 15 Blue Chip Dividend Stocks to Build a Passive Income Porfolio. On December 3, BMO Capital’s Evan Seigerman increased the firm’s price target on Amgen Inc. (NASDAQ:AMGN) to $372 from $335 and reiterated an Outperform rating. The analyst noted that the data from the Maritide Phase 2 Part […]",
+      "published_utc": "2025-12-06T13:25:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=72d397fd8ee4bb1ad34b5d2b802fbf9eeb6cc7c0b873a487310da2a82d68f4ee",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137726470,
+      "datetime": 1765045526
+    },
+    {
+      "title": "Jim Cramer on Bristol-Myers’ Recent Stock Gain: “Unbelievable”",
+      "description": "Bristol-Myers Squibb Company (NYSE:BMY) is one of the stocks Jim Cramer commented on along with the recent macro rally. Cramer mentioned the stock during the episode, as he commented: “Then it might be a comeback to the drug stocks. Why? Well, remember, lots of people think the economy is stalled or in a tailspin. They’re […]",
+      "published_utc": "2025-12-06T00:34:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bc52093696b6b59f6be26d1592154b8348731c3f6857af29c20e123a2def2977",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137715586,
+      "datetime": 1764999259
+    }
+  ]
+}

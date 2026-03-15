@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "id": "9e0def5ddf8e0b0772645f62a47d098feb8caf36bf2ec80fd7018070ebf2d678",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "4 Stocks That Turned $1,000 Into $1 Million (or More)",
+      "author": "Justin Pope",
+      "published_utc": "2025-02-08T09:41:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/08/4-stocks-that-turned-1000-into-1-million-or-more/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "WMT",
+        "COST",
+        "HD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806295/cash-million.jpg",
+      "description": "This article highlights four major retailers - Amazon, Walmart, Costco, and Home Depot - that have generated massive returns for long-term investors, with a $1,000 investment in these companies turning into millions of dollars over the decades. The article discusses the key factors behind their success, such as their dominant market positions, efficient business models, and ability to capitalize on the robust U.S. consumer spending.",
+      "keywords": [
+        "Amazon",
+        "Walmart",
+        "Costco",
+        "Home Depot",
+        "retail",
+        "investing",
+        "consumer spending"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Amazon's impressive growth, with a $1,000 investment at its IPO now worth around $2.4 million. It discusses Amazon's dominance in online retail, the potential for further growth in the cloud computing market, and the company's strong ecosystem with Prime and other services."
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article praises Walmart's transformation from a small store in Arkansas to a global entity, with a $1,000 investment in 1972 now worth nearly $7.2 million. It highlights Walmart's competitive advantages, such as its low-price strategy, massive scale, and successful embrace of e-commerce."
+        },
+        {
+          "ticker": "COST",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article describes Costco as a favorite of renowned investor Charlie Munger, with a $1,000 investment in 1982 now worth over $1.1 million. It emphasizes Costco's efficient business model, loyal customer base, and potential for future growth through membership expansion and price increases."
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Home Depot as the most lucrative stock on the list, turning a $1,000 investment into roughly $20 million over 40 years. It attributes the company's success to its large store footprint, broad product selection, and ability to capitalize on the vast residential real estate market in the U.S."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:44:48.585202+00:00",
+    "cache_key": "news_1e892c7ba5eeb29f0c4a0619c3d30b3d",
+    "count": 1
+  }
+}

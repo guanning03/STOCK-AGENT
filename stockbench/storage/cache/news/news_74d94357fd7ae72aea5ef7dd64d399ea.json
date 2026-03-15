@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The Year Of The NarrVol",
+      "description": "Looking ahead at the narratives set to emerge in 2026, two begin to surface when digging through the details - margins and \"NarrVol\" (narrative volatility).",
+      "published_utc": "2025-12-16T18:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1a0ff01183e09d3e9173d49dda5f5c4773b8bb839c0930fd72921c7710b62c9e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2191819979/image_2191819979.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137808266,
+      "datetime": 1765928100
+    },
+    {
+      "title": "One Of The Best Buying Setups I've Ever Seen Is Hiding In Plain Sight",
+      "description": "While markets seem too richly priced to invest in right now, and bonds and cash are too inflation-exposed and/or interest rate sensitive. See more here.",
+      "published_utc": "2025-12-16T18:31:04",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2cad5d443b39b3811f007afe69893d51b458ddf2f79c49cef122efd0e77e6608",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213370681/image_1213370681.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137808191,
+      "datetime": 1765927864
+    },
+    {
+      "title": "All In And More",
+      "description": "US job growth remained sluggish in November, and the unemployment rate rose to a four-year high of 4.6%, up 120 basis points (bps) from the April 2023 low of 3.4%.",
+      "published_utc": "2025-12-16T18:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e3197c91cfdb6c3aabd06aa4e6d3495fe9c8f27630dda0b97c7957d4e09569ba",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2191058725/image_2191058725.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137808133,
+      "datetime": 1765926900
+    },
+    {
+      "title": "The Fed Should Look At Private Sector Jobs Growth And Not Get Distracted By The Massive Federal Government Job Cuts",
+      "description": "Federal government civilian headcount got slashed by 162,000 in October and by 172,000 over the three months of September, October, and November.",
+      "published_utc": "2025-12-16T18:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=20ef17690aa973f012c0a441d98afed57f011a724cfacbf5072082d7d80207c3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1700222492/image_1700222492.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137808035,
+      "datetime": 1765926300
+    },
+    {
+      "title": "Employment Report: 64K Jobs Added In November Followed By October's 105K Loss",
+      "description": "The latest employment report showed that 64,000 jobs were added in November, following the loss of 105,000 in October.",
+      "published_utc": "2025-12-16T15:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6c22d4cc182374e19e08ec3dfa9f64cce60e9dc4c5b6def3ce7dba686b822c06",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1700222492/image_1700222492.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137805719,
+      "datetime": 1765916100
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:45:42.191554+00:00",
+    "cache_key": "news_74d94357fd7ae72aea5ef7dd64d399ea",
+    "count": 5
+  }
+}

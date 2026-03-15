@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Top Stocks to Double Up on Right Now",
+      "description": "If owning some is good, holding more may be even better.",
+      "published_utc": "2025-11-22T19:18:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2f14a8abdfbe76079ed577ab5c4b05ea0f9bf47147bc48eda483ea0c97be203b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137586607,
+      "datetime": 1763857080
+    },
+    {
+      "title": "Billionaire Warren Buffett Owns 6 Dow Jones Stocks. Here's My Top Buy for 2026.",
+      "description": "This dividend-paying growth stock is a top buy for investors seeking a high-quality company at a favorable value.",
+      "published_utc": "2025-11-22T18:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=79959667e7fc9d39e6c5c8bafa4efed6eb9edcf8535f68e556519cb660dd3af9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137586591,
+      "datetime": 1763852700
+    },
+    {
+      "title": "Prediction: This Warren Buffett Stock Will Join Berkshire Hathaway in the $1 Trillion Club by 2030",
+      "description": "Visa's earnings growth could slow, and it could still deliver better returns than the S&P 500.",
+      "published_utc": "2025-11-22T08:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0b99a0824f1c33dedaa15fd69b130247d8734a32115358ddb94fcb0dca876594",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137578759,
+      "datetime": 1763816700
+    },
+    {
+      "title": "Near-Perfect Portfolio Strategy For Today's Uncertain Market",
+      "description": "Read about our \"Near-Perfect\" Strategy portfolio for steady income, growth, and lower risk.",
+      "published_utc": "2025-11-22T03:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=221607b1c54689dba3e4a239f08f65758edde4bc7cb93a602e72e00d6f0d3ffe",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1272926075/image_1272926075.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137577160,
+      "datetime": 1763800200
+    }
+  ]
+}

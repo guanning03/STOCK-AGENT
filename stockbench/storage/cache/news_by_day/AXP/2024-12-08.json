@@ -1,0 +1,145 @@
+{
+  "items": [
+    {
+      "id": "12cce365ecceac29e6ddb859f17c524c200834a81f14f5be4cf296452b894e8a",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "After Berkshire Hathaway Sold 235 Million Shares of Bank of America in Q3, This Is Its New Second-Largest Holding",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-08T12:15:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/08/after-berkshire-sold-235-million-shares-of-bank-of/?source=iedfolrf0000001",
+      "tickers": [
+        "BRK.A",
+        "BRK.B",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK",
+        "AXP"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800025/woman-card-payment-restaurant-getty-2022.jpg",
+      "description": "Berkshire Hathaway has reduced its positions in Apple and Bank of America, making American Express its new second-largest holding. American Express is praised for its strong brand, business model, and resilience during downturns, despite the credit risk it carries.",
+      "keywords": [
+        "Berkshire Hathaway",
+        "Bank of America",
+        "American Express",
+        "credit risk",
+        "brand",
+        "business model"
+      ],
+      "insights": [
+        {
+          "ticker": "BRK.A",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article discusses Berkshire Hathaway's portfolio changes, including reducing its positions in Apple and Bank of America, without making a strong positive or negative assessment of the company."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article discusses Berkshire Hathaway's portfolio changes, including reducing its positions in Apple and Bank of America, without making a strong positive or negative assessment of the company."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has significantly reduced its position in Bank of America, dropping it to the third-largest holding in the portfolio."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has significantly reduced its position in Bank of America, dropping it to the third-largest holding in the portfolio."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has significantly reduced its position in Bank of America, dropping it to the third-largest holding in the portfolio."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has significantly reduced its position in Bank of America, dropping it to the third-largest holding in the portfolio."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has significantly reduced its position in Bank of America, dropping it to the third-largest holding in the portfolio."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has significantly reduced its position in Bank of America, dropping it to the third-largest holding in the portfolio."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has significantly reduced its position in Bank of America, dropping it to the third-largest holding in the portfolio."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has significantly reduced its position in Bank of America, dropping it to the third-largest holding in the portfolio."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has significantly reduced its position in Bank of America, dropping it to the third-largest holding in the portfolio."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has significantly reduced its position in Bank of America, dropping it to the third-largest holding in the portfolio."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has significantly reduced its position in Bank of America, dropping it to the third-largest holding in the portfolio."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has significantly reduced its position in Bank of America, dropping it to the third-largest holding in the portfolio."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has significantly reduced its position in Bank of America, dropping it to the third-largest holding in the portfolio."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has significantly reduced its position in Bank of America, dropping it to the third-largest holding in the portfolio."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has significantly reduced its position in Bank of America, dropping it to the third-largest holding in the portfolio."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has significantly reduced its position in Bank of America, dropping it to the third-largest holding in the portfolio."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article praises American Express for its strong brand, business model, and resilience during downturns, making it Berkshire Hathaway's new second-largest holding."
+        }
+      ]
+    }
+  ]
+}

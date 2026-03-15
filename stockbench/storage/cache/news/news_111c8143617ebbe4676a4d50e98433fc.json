@@ -1,0 +1,104 @@
+{
+  "items": [
+    {
+      "id": "a2d7b3613086e039868884da1ad63a4aa356471623498be3a370f94f0b673271",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Public Safety and Security Market Set for Strong Growth to USD 1472.56 Billion by 2033, Driven by Smart City Investments and Advanced Surveillance Adoption | SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-12-20T14:30:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/12/20/3208841/0/en/Public-Safety-and-Security-Market-Set-for-Strong-Growth-to-USD-1472-56-Billion-by-2033-Driven-by-Smart-City-Investments-and-Advanced-Surveillance-Adoption-SNS-Insider.html",
+      "tickers": [
+        "CSCO",
+        "MSI",
+        "HON",
+        "IBM",
+        "SIEGY",
+        "ERIC",
+        "GD",
+        "LHX",
+        "BAESY",
+        "NECPY",
+        "THLLY"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The global public safety and security market is projected to grow from USD 569.86 billion in 2025 to USD 1472.56 billion by 2033, with a CAGR of 12.60%. Growth is driven by smart city investments, AI/IoT adoption, rising security threats, and increased urbanization. Professional services dominate with 61% revenue share, while managed services and emergency management segments show fastest growth. North America leads with 38% market share, with Asia Pacific expected to grow fastest at 15.53% CAGR.",
+      "keywords": [
+        "public safety",
+        "security market",
+        "AI surveillance",
+        "smart cities",
+        "emergency management",
+        "cybersecurity",
+        "IoT solutions",
+        "critical infrastructure"
+      ],
+      "insights": [
+        {
+          "ticker": "CSCO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Cisco is highlighted as a key player with relevant solutions (Cisco Meraki, Cisco Firepower) and recent positive development with 'AI Defense' solution released in 2025, addressing enterprise security and AI workload protection in a growing market."
+        },
+        {
+          "ticker": "MSI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Motorola Solutions is listed as a major player and specifically mentioned for recent innovation in 2025 with 'Inform' platform that merges video, access control, and sensor data for AI-assisted incident response, directly addressing market growth drivers."
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Honeywell is identified as a key player with relevant security solutions (Galaxy Flex, Pro-Watch) in a market experiencing strong 12.60% CAGR growth driven by increasing security demands."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IBM is listed as a key player offering cybersecurity solutions (QRadar, Resilient) in the expanding public safety and security market with strong growth projections."
+        },
+        {
+          "ticker": "SIEGY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Siemens is identified as a key player with surveillance and control center solutions (Siveillance, Desigo CC) positioned to benefit from market expansion."
+        },
+        {
+          "ticker": "ERIC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Ericsson is listed as a key player with public safety and mobility management solutions in a market experiencing strong growth driven by urbanization and security concerns."
+        },
+        {
+          "ticker": "GD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "General Dynamics is listed as a key player with mission systems and security solutions in a market with strong 12.60% CAGR growth."
+        },
+        {
+          "ticker": "LHX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "L3 Harris is identified as a key player offering P25 radios and public safety communications solutions in a growing market driven by critical infrastructure security needs."
+        },
+        {
+          "ticker": "BAESY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "BAE Systems is listed as a key player with security solutions (NetReveal) positioned to benefit from market expansion."
+        },
+        {
+          "ticker": "NECPY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "NEC is listed as a key player offering biometric and intelligent video analytics solutions (NeoFace) in a market with strong growth driven by advanced surveillance adoption."
+        },
+        {
+          "ticker": "THLLY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Thales is identified as a key player with video surveillance solutions positioned to benefit from the market's projected growth to USD 1.47 trillion by 2033."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:53:33.506626+00:00",
+    "cache_key": "news_111c8143617ebbe4676a4d50e98433fc",
+    "count": 1
+  }
+}

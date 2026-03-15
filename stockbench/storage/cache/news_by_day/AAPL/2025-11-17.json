@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Dow Jones Futures: Apple, Google, Nvidia, Palantir, Tesla Big Movers Amid Stock Market Drop",
+      "description": "Dow Jones Futures: Apple, Google, Nvidia, Palantir, Tesla Big Movers Amid Stock Market Drop",
+      "published_utc": "2025-11-17T17:44:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=e5fcb99e5b3b8e1620c1b38c2c241a7f111b4e50ffbbcc81068c4b004c98f840",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137557213,
+      "datetime": 1763419440
+    },
+    {
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "description": "Find insight on Masimo’s jury verdict against Apple, Sinclair’s stake in E.W. Scripps, Japanese AI-themed stocks and more in the latest Market Talks covering Technology, Media and Telecom.",
+      "published_utc": "2025-11-17T17:09:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=daec3eb255e28ae715c26787d400901849a488e6b3816c183761b9e1443aee5e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137522718,
+      "datetime": 1763417340
+    },
+    {
+      "title": "US Equity Indexes Drop as Volatility Jumps in Broad-Based Sell-Off",
+      "description": "US equity indexes dropped on Monday amid a broad-based sell-off, with volatility surging ahead of Nv",
+      "published_utc": "2025-11-17T17:04:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6f99aa9e595d03f7ea27c413e5558e9a7f743640783d8b447c1d6131e3d13d5d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137522719,
+      "datetime": 1763417059
+    },
+    {
+      "title": "Stocks to Watch Recap: Alphabet, Tesla, Netflix, Zymeworks",
+      "description": "↘️ Netflix (NFLX): The streaming company approved a 10-for-one stock split last month. Trading began on a split-adjusted basis today. Shares fell 0.8%. ↗️ Alphabet (GOOG, GOOGL): Warren Buffett’s Berkshire Hathaway (BRK.",
+      "published_utc": "2025-11-17T16:13:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f31245cd765e687bc3741c9d151310406ba1fe989b6500de8c2b1ca0f6c5af97",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137522723,
+      "datetime": 1763414002
+    },
+    {
+      "title": "Who could succeed Tim Cook as Apple CEO?",
+      "description": "Apple (AAPL) is reportedly planning for CEO Tim Cook to retire, with the iPhone maker considering company insiders to lead the company. Yahoo Finance Tech Editor Dan Howley outlines two Apple insiders who could step up and assume the chief executive mantle. To watch more expert insights and analysis on the latest market action, check out more Market Domination.",
+      "published_utc": "2025-11-17T16:06:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b1ed0e221175c4e8b9e0f2d78024a6f7572e9fd305daea60561cd3465eda93ac",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137522724,
+      "datetime": 1763413601
+    }
+  ]
+}

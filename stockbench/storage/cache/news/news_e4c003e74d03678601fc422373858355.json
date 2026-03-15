@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today, Feb. 9: Oracle Rallies as AI Spending Reframes Its Cloud Growth Story",
+      "description": "Oracle moved higher as AI-related cloud spending strengthened confidence in its long-term expansion plans.",
+      "published_utc": "2026-02-09T18:56:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0e1b025281106f4b865d24a0ef0dd856afb2733adc1dae0ec9743b58107f1fc5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138973885,
+      "datetime": 1770681411
+    },
+    {
+      "title": "Why Microsoft Stock Topped the Market Today",
+      "description": "Several developments, including a bullish new analyst note, gave lift to the beaten-down software giant.",
+      "published_utc": "2026-02-09T18:51:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9e57726d8946fd1aac3c35f782e3beebaeb47bebacd63d426fa4595b773cc55d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138890566,
+      "datetime": 1770681074
+    },
+    {
+      "title": "Trump Weighs Broad Chip Tariffs But Plans To Shield Big Tech Companies Like Amazon, Microsoft And Google Through TSMC-Linked Exemptions: Report",
+      "description": "The Trump administration is weighing broad semiconductor tariffs while planning TSMC-linked exemptions to shield Amazon, Microsoft and Google from higher chip costs as they scale AI data centers, according to a report.",
+      "published_utc": "2026-02-09T18:28:57",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=00b5dc5f69995e23ad28310987d297b0395ba35fb7561b927ca77ced2d0a77c1",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/02/09/Cpu-Computer-central-Processing-Unit-On-.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139029382,
+      "datetime": 1770679737
+    },
+    {
+      "title": "US plans Big Tech carve-out from next wave of chip tariffs",
+      "description": "Donald Trump’s administration intends to spare companies including Amazon, Google and Microsoft from forthcoming tariffs on chips as they race...",
+      "published_utc": "2026-02-09T18:27:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=85971a07f0164944bb022b35f65547c7c991e8a26a0fc4238bde5767a5e27bbb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139027711,
+      "datetime": 1770679646
+    },
+    {
+      "title": "Microsoft Finally Revealed How Many Paying Copilot Customers It Has. The Answer Was Shocking for More Reasons Than One.",
+      "description": "For years, investors have tried to figure out how many users are actually paying for a product that is at the center of Microsoft's artificial intelligence strategy.",
+      "published_utc": "2026-02-09T18:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1f399a7066d874dd0917c48ff645c80871354987e1373148a8a283be6c69e7b8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138890657,
+      "datetime": 1770678300
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:49:05.932233+00:00",
+    "cache_key": "news_e4c003e74d03678601fc422373858355",
+    "count": 5
+  }
+}

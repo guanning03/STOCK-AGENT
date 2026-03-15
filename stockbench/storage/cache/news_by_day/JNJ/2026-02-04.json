@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Nearly 20% of S&P 500 Stocks Hit 52-Week Highs Today",
+      "description": "Nearly 100 stocks in the S&P 500 reached new 52-week intraday highs during Wednesday trading, signaling a broadening of market participation despite a retreat in the technology sector.    While a selloff in tech shares weighed on the market, 92 stocks in the S&P 500 hit one-year peaks, according to Dow Jones Market Data.",
+      "published_utc": "2026-02-04T16:47:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c15c477ae6dcbbbd4d32d8ca759ffd9de7392df978376a778194c807a3998f57",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138359059,
+      "datetime": 1770241647
+    },
+    {
+      "title": "Dozens of Stocks Hitting 52-Week Highs",
+      "description": "A significant number of stocks in the S&P 500 reached new 52-week intraday highs during Wednesday trading, signaling a broadening of market participation despite a retreat in the technology sector.    While a selloff in tech shares weighed on major indexes, 82 stocks in the S&P 500 hit one-year peaks by midday, according to Dow Jones Market Data.",
+      "published_utc": "2026-02-04T13:45:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e01f1d136761bb2691f84a0299f471429f641893aff5949b69367183a6af8d13",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138356585,
+      "datetime": 1770230703
+    },
+    {
+      "title": "Jim Cramer says the tech sell-off proves why this old investing rule still matters",
+      "description": "Tech is not the only investable part of the market, CNBC's Jim Cramer stressed Wednesday.",
+      "published_utc": "2026-02-04T13:27:33",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=1d546014ce60ada270e1a3bfe687a765f12ed3c25264793e497fd0af3b525d6d",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/107113455-NUP_198430_00728r.jpg?v=1697496177&w=1920&h=1080",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138365467,
+      "datetime": 1770229653
+    },
+    {
+      "title": "AbbVie Beats on Q4 Earnings, Stock Down Despite Upbeat '26 View",
+      "description": "ABBV beats Q4 earnings and revenue estimates, but shares slip as Rinvoq and oncology sales miss expectations despite strong 2026 EPS guidance.",
+      "published_utc": "2026-02-04T12:28:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac3b2e61a3ae4ce2ffac95f62d1b24597c7ac06d67a72b2732de3294b6691fb7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138356588,
+      "datetime": 1770226080
+    },
+    {
+      "title": "These hot S&P 500 stocks show where investors are heading as they run away from tech",
+      "description": "These hot S&P 500 stocks show where investors are heading as they run away from tech",
+      "published_utc": "2026-02-04T12:26:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=8cc2dff8aebfbea020d523468c7f72e615de3c3666b93ee130eb854349aeb7dc",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139058740,
+      "datetime": 1770225960
+    }
+  ]
+}

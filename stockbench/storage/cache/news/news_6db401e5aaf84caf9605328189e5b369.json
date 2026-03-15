@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Markets Toast A Half Point Gain On Trade Chill",
+      "description": "",
+      "published_utc": "2025-06-30T17:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=956a05fa98899493c35e959687fdfbb4fa681d940ee714ef16b68b62893092ac",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135677954,
+      "datetime": 1751319000
+    },
+    {
+      "title": "State Street Rebrands Asset Management Business",
+      "description": "- The firm announced the rebrand on Monday. - State Street controls 31% of US ETF trading volume.",
+      "published_utc": "2025-06-30T17:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=944cc5114c1b8f5a2a074729c89965383f19fdf06b6b7a3feaf7fd85af04480d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135678861,
+      "datetime": 1751318100
+    },
+    {
+      "title": "U.S. Fiscal Risk Steady Ahead Of Senate Vote On Massive Spending Bill",
+      "description": "The stakes are high for fiscal risk linked to the spending bill moving through the Senate.",
+      "published_utc": "2025-06-30T16:20:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0189bbe5a54e06c3d9a3f0247950141b7106f3de04066f61c31b24834e68f8cf",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/175399977/image_175399977.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135677235,
+      "datetime": 1751314800
+    },
+    {
+      "title": "Stock market today: S&P 500, Nasdaq jump to fresh records, capping stunning second-quarter comeback",
+      "description": "US stocks climbed to fresh records on Monday amid signs of progress in trade talks, ending one of the most volatile first halves of a year in recent memory.",
+      "published_utc": "2025-06-30T16:11:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ff1b6dfa7126ee42443a66c360d930f86233e835337696ea069f9b4aac681ebf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135676390,
+      "datetime": 1751314260
+    },
+    {
+      "title": "A chaotic 6 months for stocks shows investors are still leaning 'bullish' headed into the second half of 2025",
+      "description": "Investors have continued to come back to buy market dips as many believe the various headwinds facing stocks won't weigh on the growth outlook for corporate profits and the US economy.",
+      "published_utc": "2025-06-30T15:10:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=384f09547e4a3488e5c33a606e039677fb33a04402aba1880fe3677cf4f6705f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135676394,
+      "datetime": 1751310624
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T00:46:31.242532+00:00",
+    "cache_key": "news_6db401e5aaf84caf9605328189e5b369",
+    "count": 5
+  }
+}

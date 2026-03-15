@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "US container imports may have peaked in July, chief of busiest seaport says",
+      "description": "LOS ANGELES (Reuters) -Ocean imports to the United States may have peaked in July after retailers raced to bring in goods from China and elsewhere to avoid potentially hefty tariffs on holiday-related products, logistics executives said on Wednesday.  Containerized imports to the Port of Los Angeles, the nation's busiest and a bellwether for U.S. trade, jumped 8% to 544,000 20-foot equivalent units (TEUs) in July from the same month of 2024.  \"Much of this volume was fueled by importers hustling to bring in cargo ahead of potential tariff hikes later this month and beyond,\" Gene Seroka, the port's executive director, said on Wednesday.",
+      "published_utc": "2025-08-13T14:11:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6965c647bc87c5d54894f98fcf2384bbf99c1c24c77cb38feb403b7efc7ef5b1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136339425,
+      "datetime": 1755108673
+    },
+    {
+      "title": "Why Piper is bullish on home improvement stocks for the rest of 2025",
+      "description": "Investing.com -- Piper Sandler maintained its upbeat outlook on Home Depot and Lowe’s for the remainder of 2025, citing a “high probability of an improved housing backdrop” and the likelihood of multiple Federal Reserve rate cuts.",
+      "published_utc": "2025-08-13T13:09:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=145b92a4c667c2578b50ba71925bc4636c93a99dd24a5f6ab7f32fd4163013ef",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136339432,
+      "datetime": 1755104973
+    },
+    {
+      "title": "As Fed Rate Cut Bets Surge, Wednesday's Homebuilder Rally Signals Housing Market Optimism",
+      "description": "Homebuilder stocks are rallying Wednesday afternoon. The sector is being fueled by growing investor optimism that the Federal Reserve is poised to cut interest rates as soon as next month.",
+      "published_utc": "2025-08-13T11:32:18",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=fb66ec4cee82d8174381731fe729e62a52a3865bec998ce9f590ffe5d315af7a",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/08/13/Woman-Binoculars-Searching.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138455868,
+      "datetime": 1755099138
+    },
+    {
+      "title": "Lowe's, Home Depot Likely to Miss Q2 Comparable Sales Estimates, RBC Says",
+      "description": "Lowe's (LOW) and Home Depot (HD) are likely to miss Q2 comparable sales estimates, with a possible 2",
+      "published_utc": "2025-08-13T11:12:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a63e700787af8440e17434a714dcf9db211d720ec616be4699d3ef7e2bd3648d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136339486,
+      "datetime": 1755097928
+    },
+    {
+      "title": "Shares of housing-related stocks are trading higher in possible reaction to a drop in mortgage rates.",
+      "description": "",
+      "published_utc": "2025-08-13T10:48:18",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=4a32c6f159219e926dab7e584d98223ad995f6ac78bf5660c78a60b15c35ef7b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138406820,
+      "datetime": 1755096498
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:07:25.397151+00:00",
+    "cache_key": "news_c15fd23a6473869ede1319255eec11c2",
+    "count": 5
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures climb as Wall Street braces for Fed decision, Big Tech earnings",
+      "description": "Wall Street is assessing the Federal Reserve and 'magnificent seven' earnings reports in a big week for data releases.",
+      "published_utc": "2026-01-27T18:33:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5b657954295c405a5d2d24bad3393a07199ca26f2db7dfae9a499da535a154b8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138277570,
+      "datetime": 1769556833
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures edge up as Wall Street braces for Fed decision, Big Tech earnings",
+      "description": "Wall Street is assessing the Federal Reserve and 'magnificent seven' earnings reports in a big week for data releases.",
+      "published_utc": "2026-01-27T18:33:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=03042ea6ab128a94a108402137c0b077b6e660e07b14d6a2f06bdc36b6188e11",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138276342,
+      "datetime": 1769556833
+    },
+    {
+      "title": "Stock Market Today, Jan. 27: UnitedHealth Group Plunges Almost 20% After Weak Earnings",
+      "description": "Investors reassess this healthcare giant in wake of profit collapse and Medicare worries, today, Jan. 27, 2026.",
+      "published_utc": "2026-01-27T17:52:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e09c37a56b4c12a4b8a670e7b9182cd35a65b93dcc73834f562a73c534caaa42",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138276380,
+      "datetime": 1769554326
+    },
+    {
+      "title": "Earnings and Home Prices and Confidence - Oh My!",
+      "description": "Markets were mixed today, with the Dow falling on the weight of UNH's drop after Q4 earnings this morning.",
+      "published_utc": "2026-01-27T17:52:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d4bf7f9bae000c46e920a27b9919aef6f5b794e81b85a67396b6a8d54c76033f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138277121,
+      "datetime": 1769554320
+    },
+    {
+      "title": "Stock Market Today, Jan. 27: Dow Sinks As UnitedHealth Plummets, Tech Stocks Boost S&P 500 and Nasdaq",
+      "description": "UnitedHealth’s earnings stumble sent healthcare reeling and left the Dow out of step with tech-fueled records, today, Jan. 27, 2026.",
+      "published_utc": "2026-01-27T17:50:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c309e949bd7b1bfdb381e148fcc6204cb91722ee5bf497ddd2771c594870c326",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138276352,
+      "datetime": 1769554225
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:09:08.465955+00:00",
+    "cache_key": "news_59e6454ac1f49f6103816372a0e0b63f",
+    "count": 5
+  }
+}

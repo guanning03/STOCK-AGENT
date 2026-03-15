@@ -1,0 +1,42 @@
+{
+  "items": [
+    {
+      "id": "580834f00e9ad464f9b37f612675ddd0059fdb8044924edf2f4b58dfa1a61f91",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Down 22%, Here's How Adobe Could Follow in Salesforce's Footsteps to Become a Strong Buy in 2025",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-18T09:23:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/18/down-big-salesforce-adobe-buy-growth-stock-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "ADBE",
+        "CRM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801039/gettyimages-2012746941-1200x800-5b2df79.jpg",
+      "description": "Adobe's stock is down 22% YTD, while Salesforce has surged. Salesforce's AI-driven growth narrative has excited investors, while Adobe lacks a clear roadmap for monetizing AI. However, Adobe's valuation and growth potential make it an attractive long-term investment.",
+      "keywords": [
+        "Adobe",
+        "Salesforce",
+        "AI",
+        "Enterprise software",
+        "Growth stocks"
+      ],
+      "insights": [
+        {
+          "ticker": "ADBE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Despite the recent sell-off, Adobe's valuation and growth potential make it an attractive long-term investment. The company is poised for solid growth in fiscal 2025, with a forward P/E ratio of just 22.5."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce has a compelling AI opportunity with its Agentforce platform, which is expected to contribute significantly to its top and bottom-line growth. Investors are excited about Salesforce's AI-driven growth narrative."
+        }
+      ]
+    }
+  ]
+}

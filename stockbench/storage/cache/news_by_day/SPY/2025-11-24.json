@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Government Data Crawling From The Wreckage",
+      "description": "We are crawling out of the wreckage of the 43-day government shutdown, which began October 1st.",
+      "published_utc": "2025-11-24T16:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=21e908b94ef40d7ffd9138ca8d936e2417099d8bf63e9f79acf640bd6d9386a0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1427537698/image_1427537698.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137599638,
+      "datetime": 1764020400
+    },
+    {
+      "title": "Why Sandisk Shares Are Rallying Monday After Close",
+      "description": "Sandisk is joining the S&amp;P 500 Index, prompting a boost in the share price Monday after market close.",
+      "published_utc": "2025-11-24T13:59:04",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=62bc81439ba7e6cbafd666801b64325a7a9525e3acff00c0f27ce73b337f23ea",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/24/SanDisk-Bangkok--Thailand---February-05-.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138678868,
+      "datetime": 1764010744
+    },
+    {
+      "title": "U.S. Economy: The Labor Picture Is Increasingly Murky",
+      "description": "The latest BLS jobs report was stronger than expected, but fears remain. Learn more about labor market trends, layoffs, and how AI could impact jobs.",
+      "published_utc": "2025-11-24T12:31:22",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=73e8629fa68165d63c13fd6fad1738235945cc01f867577913544645c0da4dd7",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/927930804/image_927930804.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137596714,
+      "datetime": 1764005482
+    },
+    {
+      "title": "11%-Yielding One-Stop-Shop For Retiring On Dividends, With A Catch: SPYI",
+      "description": "Neos S&P 500(R) High Income ETF offers a high monthly yield (~12% annualized) and diversified S&P 500 exposure. Click here to read why SPYI stock is a Hold.",
+      "published_utc": "2025-11-24T11:50:37",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5e8a0c04fdbd85a8cd97b6384e1cbb6bbf88215ab3fcb2b0bcfa8fa54204585e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1346786874/image_1346786874.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137595154,
+      "datetime": 1764003037
+    },
+    {
+      "title": "Markets Rebound For Thanksgiving Week As Fed Comments And Tech Giants Boost Sentiment",
+      "description": "The past week was subject to more rounds of volatility, taking major US Indexes to retest and break below October lows.Hawkish Fed fears and...",
+      "published_utc": "2025-11-24T11:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c8847ce6beb8ec16f38223c6b58d3fab508ae90589ab201cbc79d17c4cb984b0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/835448806/image_835448806.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137594373,
+      "datetime": 1764001800
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "id": "8c55319f140af857c437ac9c017e9f74985d03735a7b892fc80e4ac11a16dd9c",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Netherlands Construction Equipment Market Report 2025: Demand for Material Handling Equipment is Growing due to Rising Wind Power Projects and Development of Warehouses and Logistics Parks",
+      "author": "Na",
+      "published_utc": "2025-01-27T09:45:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/27/3015371/28124/en/Netherlands-Construction-Equipment-Market-Report-2025-Demand-for-Material-Handling-Equipment-is-Growing-due-to-Rising-Wind-Power-Projects-and-Development-of-Warehouses-and-Logistic.html",
+      "tickers": [
+        "CAT",
+        "KMTUY",
+        "VLVLY",
+        "TEX",
+        "KUBTY"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The Netherlands construction equipment market is expected to grow at a CAGR of 5.52% from 2023 to 2029, driven by increasing demand for material handling equipment due to rising wind power projects and warehouse/logistics park development. Earthmoving equipment, especially excavators, account for the largest market share. The market is dominated by major players like Caterpillar, Liebherr, Komatsu, Volvo, and Hitachi Construction Machinery.",
+      "keywords": [
+        "Netherlands",
+        "construction equipment",
+        "material handling",
+        "wind power",
+        "warehouses",
+        "logistics",
+        "earthmoving",
+        "excavators"
+      ],
+      "insights": [
+        {
+          "ticker": "CAT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Caterpillar is identified as one of the front runners in the Netherlands construction equipment market, with a strong market share and diverse product offerings."
+        },
+        {
+          "ticker": "KMTUY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Komatsu is identified as one of the front runners in the Netherlands construction equipment market, with a strong market share and diverse product offerings. The company has also introduced new wheel loader models with improved features."
+        },
+        {
+          "ticker": "VLVLY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Volvo is identified as one of the front runners in the Netherlands construction equipment market, with a strong market share and diverse product offerings."
+        },
+        {
+          "ticker": "TEX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Terex is identified as a niche player in the Netherlands construction equipment market, with a strong presence but low product diversification."
+        },
+        {
+          "ticker": "KUBTY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Kubota is identified as a niche player in the Netherlands construction equipment market, with a strong presence but low product diversification."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:22:43.271173+00:00",
+    "cache_key": "news_1ea87126295f16e217273ed09e838733",
+    "count": 1
+  }
+}

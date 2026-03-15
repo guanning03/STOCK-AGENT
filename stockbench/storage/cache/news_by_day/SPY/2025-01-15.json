@@ -1,0 +1,496 @@
+{
+  "items": [
+    {
+      "id": "e2140b003a26241a974b3621e512a9ad4f90d87587592ea8e5d8679495047a95",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Interest Rate Cuts 'On Hold... If There Are Any At All In 2025' After December's Sticky Consumer Inflation Report: Economists",
+      "author": "Erica Kollmann",
+      "published_utc": "2025-01-15T15:45:09Z",
+      "article_url": "https://www.benzinga.com/25/01/43007213/experts-see-the-fed-on-hold-for-now-if-there-are-any-cuts-at-all-in-2025-after-decembers-sticky-consumer-inflatio",
+      "tickers": [
+        "SPY",
+        "QQQ"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/15/CPI-Shutterstock.jpeg?width=1200&height=800&fit=crop",
+      "description": "Economists believe that interest rate cuts may be on hold or even unlikely in 2025 due to persistent inflation, as indicated by the latest December CPI report. The Federal Reserve will consider this data in its upcoming interest rate decision.",
+      "keywords": [
+        "interest rates",
+        "inflation",
+        "Federal Reserve",
+        "CPI"
+      ],
+      "insights": [
+        {
+          "ticker": "SPY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The SPDR S&P 500 ETF, which tracks the S&P 500 index, opened higher on the news, indicating a positive market reaction."
+        },
+        {
+          "ticker": "QQQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Invesco QQQ Trust, which tracks the Nasdaq 100 index, also opened higher, suggesting a positive market sentiment."
+        }
+      ]
+    },
+    {
+      "id": "7d0e2519fe1f6a475fea91cdc3bb1d598e48b324da5488684583f327b43c3d17",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Stocks Rise On Core Inflation Slowdown, Banks Rally After Strong Q4 Earnings, Treasury Yields Plummet",
+      "author": "Piero Cingari",
+      "published_utc": "2025-01-15T14:27:49Z",
+      "article_url": "https://www.benzinga.com/economics/macro-economic-events/25/01/43003047/stocks-rise-on-core-inflation-slowdown-banks-rally-after-strong-q4-earnings-treas",
+      "tickers": [
+        "AIZ",
+        "AIZN",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "C",
+        "CpN",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD",
+        "WFC",
+        "WFCpA",
+        "WFCpC",
+        "WFCpD",
+        "WFCpL",
+        "WFCpY",
+        "WFCpZ",
+        "BK",
+        "BLK",
+        "DIVB",
+        "KBWB",
+        "KRE",
+        "QQQ",
+        "SPY",
+        "TLT"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/15/Wall-Street-bull.png?width=1200&height=800&fit=crop",
+      "description": "Stocks rallied as December inflation data showed underlying price pressures slowing, reducing fears of a prolonged pause in interest rate cuts by the Federal Reserve. Major banks reported strong Q4 earnings, boosting the financial sector.",
+      "keywords": [
+        "inflation",
+        "interest rates",
+        "earnings",
+        "banks",
+        "treasury yields"
+      ],
+      "insights": [
+        {
+          "ticker": "AIZ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Assurant Inc."
+        },
+        {
+          "ticker": "AIZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Assurant Inc."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase & Co. topped earnings forecasts for the fourth quarter and released upbeat guidance, indicating strong performance in the financial sector."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase & Co. topped earnings forecasts for the fourth quarter and released upbeat guidance, indicating strong performance in the financial sector."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase & Co. topped earnings forecasts for the fourth quarter and released upbeat guidance, indicating strong performance in the financial sector."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase & Co. topped earnings forecasts for the fourth quarter and released upbeat guidance, indicating strong performance in the financial sector."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase & Co. topped earnings forecasts for the fourth quarter and released upbeat guidance, indicating strong performance in the financial sector."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase & Co. topped earnings forecasts for the fourth quarter and released upbeat guidance, indicating strong performance in the financial sector."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase & Co. topped earnings forecasts for the fourth quarter and released upbeat guidance, indicating strong performance in the financial sector."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase & Co. topped earnings forecasts for the fourth quarter and released upbeat guidance, indicating strong performance in the financial sector."
+        },
+        {
+          "ticker": "C",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Citigroup Inc. topped earnings forecasts for the fourth quarter, indicating strong performance in the financial sector."
+        },
+        {
+          "ticker": "CpN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Citigroup Inc. topped earnings forecasts for the fourth quarter, indicating strong performance in the financial sector."
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that The Goldman Sachs Group Inc. topped earnings forecasts for the fourth quarter, indicating strong performance in the financial sector."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that The Goldman Sachs Group Inc. topped earnings forecasts for the fourth quarter, indicating strong performance in the financial sector."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that The Goldman Sachs Group Inc. topped earnings forecasts for the fourth quarter, indicating strong performance in the financial sector."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that The Goldman Sachs Group Inc. topped earnings forecasts for the fourth quarter, indicating strong performance in the financial sector."
+        },
+        {
+          "ticker": "WFC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Wells Fargo & Co. topped earnings forecasts for the fourth quarter, indicating strong performance in the financial sector."
+        },
+        {
+          "ticker": "WFCpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Wells Fargo & Co. topped earnings forecasts for the fourth quarter, indicating strong performance in the financial sector."
+        },
+        {
+          "ticker": "WFCpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Wells Fargo & Co. topped earnings forecasts for the fourth quarter, indicating strong performance in the financial sector."
+        },
+        {
+          "ticker": "WFCpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Wells Fargo & Co. topped earnings forecasts for the fourth quarter, indicating strong performance in the financial sector."
+        },
+        {
+          "ticker": "WFCpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Wells Fargo & Co. topped earnings forecasts for the fourth quarter, indicating strong performance in the financial sector."
+        },
+        {
+          "ticker": "WFCpY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Wells Fargo & Co. topped earnings forecasts for the fourth quarter, indicating strong performance in the financial sector."
+        },
+        {
+          "ticker": "WFCpZ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Wells Fargo & Co. topped earnings forecasts for the fourth quarter, indicating strong performance in the financial sector."
+        },
+        {
+          "ticker": "BK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Bank of New York Mellon Corp. topped earnings forecasts for the fourth quarter, indicating strong performance in the financial sector."
+        },
+        {
+          "ticker": "BLK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that BlackRock Inc. topped earnings forecasts for the fourth quarter, indicating strong performance in the financial sector."
+        },
+        {
+          "ticker": "DIVB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that BlackRock Inc. topped earnings forecasts for the fourth quarter, indicating strong performance in the financial sector."
+        },
+        {
+          "ticker": "KBWB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that the Invesco KBW Bank ETF, which tracks the performance of the banking sector, jumped 4.75%, reflecting the strong performance of major banks."
+        },
+        {
+          "ticker": "KRE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that the SPDR S&P Regional Banking ETF, which tracks the performance of regional banks, jumped 3.11%, reflecting the strong performance of the banking sector."
+        },
+        {
+          "ticker": "QQQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that the Invesco QQQ Trust, Series 1, which tracks the performance of the Nasdaq-100 index, gained 1.62%, boosted by falling Treasury yields."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that the S&P 500 index, as tracked by the SPDR S&P 500 ETF Trust, surged 1.5% in early New York trading, led by financial stocks."
+        },
+        {
+          "ticker": "TLT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that the iShares 20+ Year Treasury Bond ETF gained 1.45% as bond prices rallied due to falling Treasury yields."
+        }
+      ]
+    },
+    {
+      "id": "cd394010ab5053c27ea0aa97853fbf554d194b415986301993dda511743cd290",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "5 Monster Stocks to Hold for the Next 5 Years (and Ideally Beyond) -- Including Nvidia",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-15T12:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/15/5-monster-stocks-to-hold-for-the-next-5-years-and/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "TSM",
+        "ANET",
+        "AAXN",
+        "AXON",
+        "SPY"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802866/getty-lots-of-thumbs-up-teamwork-group-success-winning.jpg",
+      "description": "The article highlights five stocks that have shown exceptional growth over the past decade, including Nvidia, Taiwan Semiconductor Manufacturing, Arista Networks, and Axon Enterprise. It also recommends the SPDR S&P 500 ETF as a less volatile approach to building wealth.",
+      "keywords": [
+        "Nvidia",
+        "Taiwan Semiconductor Manufacturing",
+        "Arista Networks",
+        "Axon Enterprise",
+        "SPDR S&P 500 ETF"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia has been an exceptional performer, averaging annual gains of 87% over the past five years and 75% over the past decade. The article suggests that it still doesn't seem overvalued relative to past years."
+        },
+        {
+          "ticker": "TSM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Taiwan Semiconductor Manufacturing is the world's biggest contract semiconductor chipmaker, making Nvidia chips and many others. It has grown powerfully in recent years, averaging annual gains of 25.6% over the past decade."
+        },
+        {
+          "ticker": "ANET",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Arista Networks is a cloud networking specialist that has averaged annual gains of about 40% over the past decade. However, its stock is currently richly valued, so the article suggests it is more of a hold than a buy for more cautious investors."
+        },
+        {
+          "ticker": "AAXN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Axon Enterprise, a specialist in law enforcement technology, has averaged annual gains of 36% over the past decade. However, its shares seem overvalued, with a recent forward P/E of 95, well above the five-year average of 71. The article suggests it might be best held and not bought at recent levels."
+        },
+        {
+          "ticker": "AXON",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Axon Enterprise, a specialist in law enforcement technology, has averaged annual gains of 36% over the past decade. However, its shares seem overvalued, with a recent forward P/E of 95, well above the five-year average of 71. The article suggests it might be best held and not bought at recent levels."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article includes the SPDR S&P 500 ETF as a less volatile approach to building wealth, noting that the S&P 500 has posted lots of double-digit gains in recent years and can still build wealth even if it only averages 6% or 8% returns."
+        }
+      ]
+    },
+    {
+      "id": "6047eded5de5be1a0678f82045e91db144bd91f4af6fea5f8bc83b0d2123fec3",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "US Stocks To Open Higher Ahead Of December Inflation Data: All Eyes On Banking Stocks As JPMorgan, Goldman, Citi, Wells Fargo Report Quarterly Earnings",
+      "author": "Rishabh Mishra",
+      "published_utc": "2025-01-15T11:03:41Z",
+      "article_url": "https://www.benzinga.com/25/01/42996752/us-stocks-to-open-higher-ahead-of-december-inflation-data-all-eyes-on-baking-earnings-by-jpm-goldman-citi-wells-f",
+      "tickers": [
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "WFC",
+        "WFCpA",
+        "WFCpC",
+        "WFCpD",
+        "WFCpL",
+        "WFCpY",
+        "WFCpZ",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD",
+        "C",
+        "CpN",
+        "APLD",
+        "SGBX",
+        "VMAR",
+        "SPY",
+        "QQQ"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/15/Wall-Street.jpeg?width=1200&height=800&fit=crop",
+      "description": "US stock futures are trading higher ahead of the release of December inflation data. Investors are closely watching the banking sector as major banks like JPMorgan, Goldman Sachs, Citigroup, and Wells Fargo report their quarterly earnings.",
+      "keywords": [
+        "US stocks",
+        "inflation data",
+        "banking stocks",
+        "earnings"
+      ],
+      "insights": [
+        {
+          "ticker": "AMJB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase & Co is expected to report quarterly earnings of $4.04 per share on revenue of $41.56 billion before the opening bell, indicating a positive outlook."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase & Co is expected to report quarterly earnings of $4.04 per share on revenue of $41.56 billion before the opening bell, indicating a positive outlook."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase & Co is expected to report quarterly earnings of $4.04 per share on revenue of $41.56 billion before the opening bell, indicating a positive outlook."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase & Co is expected to report quarterly earnings of $4.04 per share on revenue of $41.56 billion before the opening bell, indicating a positive outlook."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase & Co is expected to report quarterly earnings of $4.04 per share on revenue of $41.56 billion before the opening bell, indicating a positive outlook."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase & Co is expected to report quarterly earnings of $4.04 per share on revenue of $41.56 billion before the opening bell, indicating a positive outlook."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase & Co is expected to report quarterly earnings of $4.04 per share on revenue of $41.56 billion before the opening bell, indicating a positive outlook."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase & Co is expected to report quarterly earnings of $4.04 per share on revenue of $41.56 billion before the opening bell, indicating a positive outlook."
+        },
+        {
+          "ticker": "WFC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Wells Fargo & Co is expected to report quarterly earnings of $1.35 per share on revenue of $20.58 billion, suggesting a positive outlook."
+        },
+        {
+          "ticker": "WFCpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Wells Fargo & Co is expected to report quarterly earnings of $1.35 per share on revenue of $20.58 billion, suggesting a positive outlook."
+        },
+        {
+          "ticker": "WFCpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Wells Fargo & Co is expected to report quarterly earnings of $1.35 per share on revenue of $20.58 billion, suggesting a positive outlook."
+        },
+        {
+          "ticker": "WFCpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Wells Fargo & Co is expected to report quarterly earnings of $1.35 per share on revenue of $20.58 billion, suggesting a positive outlook."
+        },
+        {
+          "ticker": "WFCpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Wells Fargo & Co is expected to report quarterly earnings of $1.35 per share on revenue of $20.58 billion, suggesting a positive outlook."
+        },
+        {
+          "ticker": "WFCpY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Wells Fargo & Co is expected to report quarterly earnings of $1.35 per share on revenue of $20.58 billion, suggesting a positive outlook."
+        },
+        {
+          "ticker": "WFCpZ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Wells Fargo & Co is expected to report quarterly earnings of $1.35 per share on revenue of $20.58 billion, suggesting a positive outlook."
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that analysts expect Goldman Sachs Group Inc to post quarterly earnings of $8.35 per share on revenue of $12.46 billion before the opening bell, indicating a positive outlook."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that analysts expect Goldman Sachs Group Inc to post quarterly earnings of $8.35 per share on revenue of $12.46 billion before the opening bell, indicating a positive outlook."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that analysts expect Goldman Sachs Group Inc to post quarterly earnings of $8.35 per share on revenue of $12.46 billion before the opening bell, indicating a positive outlook."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that analysts expect Goldman Sachs Group Inc to post quarterly earnings of $8.35 per share on revenue of $12.46 billion before the opening bell, indicating a positive outlook."
+        },
+        {
+          "ticker": "C",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Citigroup Inc is expected to post quarterly earnings of $1.24 per share on revenue of $19.51 billion, suggesting a positive outlook."
+        },
+        {
+          "ticker": "CpN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Citigroup Inc is expected to post quarterly earnings of $1.24 per share on revenue of $19.51 billion, suggesting a positive outlook."
+        },
+        {
+          "ticker": "APLD",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that Applied Digital Corp was down 6.21% in premarket trading despite beating the second-quarter revenue and EPS estimates, indicating a negative sentiment."
+        },
+        {
+          "ticker": "SGBX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Safe & Green Holdings Corp was up 122.22% as it decided to acquire 100% of New Asia Holdings, including its subsidiaries Olenox Corp and Machfu.com, suggesting a positive sentiment."
+        },
+        {
+          "ticker": "VMAR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Vision Marine Technologies Inc was up 46.43% after it filed its patent application with the United States Patent and Trademark Office for a Battery Authentication Encryption Technology, indicating a positive sentiment."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that the SPDR S&P 500 ETF Trust was up 0.18% to $583.22 in premarket trading, suggesting a positive sentiment."
+        },
+        {
+          "ticker": "QQQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that the Invesco QQQ Trust ETF rose 0.23% to $506.25 in premarket trading, indicating a positive sentiment."
+        }
+      ]
+    }
+  ]
+}

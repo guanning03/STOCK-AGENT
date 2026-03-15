@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "TSLA, BYND, IBM And More: 5 Stocks That Dominated Investor Buzz This Week",
+      "description": "Retail investors buzzed about 5 stocks, from Oct. 20 to Oct. 24, on X and Reddit&#39;s r/WallStreetBets: TSLA, BYND, RGTI, IBM, AMZN.",
+      "published_utc": "2025-10-25T08:01:32",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=9a780aa4785e6e790fbf23d9a90bf4bf27d03ceece947005589e73a609efd90c",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/10/25/London---May-21-Ibm-Logo-On-The-Ibm-Clie.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138480666,
+      "datetime": 1761393692
+    },
+    {
+      "title": "This Week In Markets: Earnings, Inflation, And Geopolitical Shifts",
+      "description": "Corporate earnings were the primary market driver this week, fueling sector-specific rallies and helping equities reclaim record levels.",
+      "published_utc": "2025-10-24T22:44:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bfc31fe75b5c863d4c55d411cce0ba9692135739721c602056ed365e303b723a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1892797470/image_1892797470.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137205490,
+      "datetime": 1761360240
+    },
+    {
+      "title": "Why AMD Stock Soared Today",
+      "description": "Is AMD about to become the next hot quantum computing stock?",
+      "published_utc": "2025-10-24T20:36:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7ab470abf758e69a02c29fd81e3bb8c6ec610ad6ce1500f4b4c7238a0f9d1815",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137216077,
+      "datetime": 1761352584
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:54:18.893879+00:00",
+    "cache_key": "news_8745bcba3a98867f890fb54b3c336321",
+    "count": 3
+  }
+}

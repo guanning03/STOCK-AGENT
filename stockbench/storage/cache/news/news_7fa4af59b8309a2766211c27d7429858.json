@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Amgen (AMGN) Stock Declines While Market Improves: Some Information for Investors",
+      "description": "In the closing of the recent trading day, Amgen (AMGN) stood at $320.71, denoting a -2.12% move from the preceding trading day.",
+      "published_utc": "2026-01-05T18:00:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ed2725b4ea72d05f34eab4327f9489c9bcb6a4d7b202b20297d1e54dbc85b7ba",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137997849,
+      "datetime": 1767654003
+    },
+    {
+      "title": "Top Midday Decliners",
+      "description": "Zenas BioPharma (ZBIO) reported Monday that a phase 3 trial of obexelimab in immunoglobulin G4-relat",
+      "published_utc": "2026-01-05T14:00:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=671e043ac744a269f9778f21b653fd2928b6b44d750abf5f6751bd521a379338",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137997851,
+      "datetime": 1767639627
+    },
+    {
+      "title": "How New Drug Launches And Patent Risks Are Rewriting The Story For Amgen (AMGN)",
+      "description": "What Changed in the Amgen Story Amgen’s fair value estimate has been adjusted slightly, moving from about US$322.88 per share to roughly US$327.74 per share, with the discount rate and revenue growth assumptions shifting only modestly. This updated view reflects how mixed Street research is being balanced between confidence in Amgen as a core large cap biopharma name and questions around long term earnings visibility as key products approach patent expiry. Stay with this article to see how...",
+      "published_utc": "2026-01-05T13:06:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=85a8ee445bb4a3ddce59e3af5acde81696b89fe21f9c35f778a5a55dfa4902c3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137993300,
+      "datetime": 1767636379
+    },
+    {
+      "title": "Stock Market Today: Dow Up 700 Points After U.S. Ousts Maduro; Reddit Does This As Versant Dives (Live Coverage)",
+      "description": "Stock Market Today: The Dow Jones index rose after the U.S. ousted Venezuelan President Maduro. Nvidia rallied and Reddit tested an entry.",
+      "published_utc": "2026-01-05T12:35:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f2cfd5f1ef9e0e24a1625f893a99280e6a671de8c8d27937a4179f26f2238a2f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137992835,
+      "datetime": 1767634531
+    },
+    {
+      "title": "Zenas BioPharma, A Top 1% Stock, Quadrupled In 2025. Why It Just Collapsed.",
+      "description": "Zenas BioPharma stock collapsed Monday despite technically succeeding in a Phase 3 study of its treatment for a rare autoimmune disorder.",
+      "published_utc": "2026-01-05T12:00:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ed872ae53e9bf9592b760e776ec27f2e665d4aab46a1f3ca2ef4128f1a920a3a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137992463,
+      "datetime": 1767632444
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:00:45.445676+00:00",
+    "cache_key": "news_7fa4af59b8309a2766211c27d7429858",
+    "count": 5
+  }
+}

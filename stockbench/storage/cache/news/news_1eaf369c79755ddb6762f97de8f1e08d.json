@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "id": "01e09b94a0e157d524a35e8461f87e9278a87cb27adbc675a21a86afcd770830",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Don't Like to Pay Taxes? 2 Things to Do That Could Make You Richer.",
+      "author": "Selena Maranjian",
+      "published_utc": "2025-01-27T11:07:00Z",
+      "article_url": "https://www.fool.com/retirement/2025/01/27/dont-like-to-pay-taxes-2-things-to-do-that-could-m/?source=iedfolrf0000001",
+      "tickers": [
+        "BA",
+        "BApA",
+        "NFLX",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804937/getty-arms-crossed-saying-stop-dont-do-it-no-bad-idea.jpg",
+      "description": "The article discusses strategies to reduce tax bills, such as holding investments long-term, contributing to tax-advantaged retirement accounts, and other tax-saving methods. It highlights the importance of being selective and ready to sell underperforming investments.",
+      "keywords": [
+        "taxes",
+        "investing",
+        "retirement accounts",
+        "tax-saving strategies"
+      ],
+      "insights": [
+        {
+          "ticker": "BA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that Boeing, once a respected and solid investment, has experienced various quality issues and a management shake-up in recent years, leading to a decline in earnings and stock price."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that Boeing, once a respected and solid investment, has experienced various quality issues and a management shake-up in recent years, leading to a decline in earnings and stock price."
+        },
+        {
+          "ticker": "NFLX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article uses Netflix as an example of an 'amazing performer' that, if invested in early on in a Roth IRA, could have resulted in a substantial tax-free gain."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Similar to Netflix, the article mentions Nvidia as another example of an 'amazing performer' that, if invested in early on in a Roth IRA, could have resulted in a substantial tax-free gain."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:24:54.456434+00:00",
+    "cache_key": "news_1eaf369c79755ddb6762f97de8f1e08d",
+    "count": 1
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today: Dow, Nasdaq Fall, Set Aside Trump-China Tariff Move; Tesla Clears Entry But This AI Stock Craters",
+      "description": "The Dow Jones index fell despite President Trump making a China tariff move. Tesla cleared an entry on the stock market today. AMC surged but an AI stock cratered.",
+      "published_utc": "2025-08-11T16:51:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0aaedbb5ef722c36dc755c5fc85c9921da17646c4c53da5a7b065b4fef843602",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136316081,
+      "datetime": 1754945504
+    },
+    {
+      "title": "Northpointe Bancshares, Inc. Announces Appointment of Three New Board Members",
+      "description": "GRAND RAPIDS, Mich., August 11, 2025--Northpointe Bancshares, Inc. Announces Appointment of Three New Board Members",
+      "published_utc": "2025-08-11T16:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=95e0d487c728198370c426c478da69371fa72489824e6824b740ceeaca132e16",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136316088,
+      "datetime": 1754943300
+    },
+    {
+      "title": "Stock Market Today: Dow Stays Lower After China Tariff News; ELF Jumps Off The Shelf (Live Coverage)",
+      "description": "The Dow Jones index fell but Nvidia was up amid a Trump-China chip deal. Tesla cleared an entry on the stock market today. AMC stock surged while an AI play rose.",
+      "published_utc": "2025-08-11T15:09:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=20d4e350897362857135481c42a0456a57af1bb268ea7648c9b891fbd385bac1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136310363,
+      "datetime": 1754939392
+    },
+    {
+      "title": "TRC Appoints Casey Werth as Managing Director, North America Sales for Intelligent Grid Solutions",
+      "description": "TRC Companies, Inc. (TRC), a global professional services firm providing integrated strategy, consulting, engineering and applied technologies in support of the energy transition, announced that Casey Werth has joined the company as Managing Director, North American Sales for its Intelligent Grid Solutions business. In this role, Werth will lead sales strategy, client engagement and market growth initiatives across North America as TRC continues to drive innovation in grid modernization, IT/OT i",
+      "published_utc": "2025-08-11T13:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2439ef5db84d72d289e115a8e1098c41f8f4774eb014c6f40eaca24d0b1e9b54",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136310571,
+      "datetime": 1754931780
+    },
+    {
+      "title": "Salesforce, IBM share losses contribute to Dow's nearly 250-point drop",
+      "description": "Salesforce, IBM share losses contribute to Dow's nearly 250-point drop",
+      "published_utc": "2025-08-11T11:52:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=f20bc52ad9d2867846ae9ecf9b494a0c135bab7081cfd24599d1c8682b0e1de8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136331678,
+      "datetime": 1754927520
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:00:39.885833+00:00",
+    "cache_key": "news_357d86766036e3d29b331856d2f46efd",
+    "count": 5
+  }
+}

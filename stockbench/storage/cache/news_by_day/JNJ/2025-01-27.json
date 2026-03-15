@@ -1,0 +1,50 @@
+{
+  "items": [
+    {
+      "id": "56fe9ee72553e1c60f6dabb8edfc82f24dcf30500e8b56f0efe27d0422b2c69c",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Alopecia Treatment Market Size to Surpass USD 5.20 Billion by 2033 | Straits Research",
+      "author": "N/A",
+      "published_utc": "2025-01-27T15:55:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/27/3015782/0/en/Alopecia-Treatment-Market-Size-to-Surpass-USD-5-20-Billion-by-2033-Straits-Research.html",
+      "tickers": [
+        "DSNKY",
+        "JNJ",
+        "MRK"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/0772b43c-9649-415d-a2b8-bd58fd4badd8",
+      "description": "The global alopecia treatment market is expected to grow from $3.62 billion in 2025 to $5.20 billion by 2033, driven by the surge in the geriatric population and growth opportunities in emerging markets.",
+      "keywords": [
+        "alopecia",
+        "hair loss",
+        "treatment",
+        "market size",
+        "forecast",
+        "drivers",
+        "opportunities"
+      ],
+      "insights": [
+        {
+          "ticker": "DSNKY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Daiichi Sankyo Company, Ltd. as one of the key players in the alopecia treatment market, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Johnson & Johnson as one of the key players in the alopecia treatment market, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "MRK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Merck & Co., Inc. as one of the key players in the alopecia treatment market, but does not provide any specific information about the company's performance or outlook."
+        }
+      ]
+    }
+  ]
+}

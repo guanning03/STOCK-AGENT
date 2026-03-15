@@ -1,21 +1,6 @@
 {
   "items": [
     {
-      "title": "Honeywell: The Wait Is Over, It Is Time To Buy",
-      "description": "Honeywell's planned business split simplifies valuation, potentially unlocking significant shareholder value. Learn why HON stock is a Buy.",
-      "published_utc": "2025-02-26T13:39:30",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=c290c3bf5cb59ca60433b5d90fb9c5d2597c22be9e2c36e3f5d8502d7acbe671",
-      "category": "company",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1303252631/image_1303252631.jpg?io=getty-c-w1536",
-      "related_symbols": [
-        "HON"
-      ],
-      "api_source": "finnhub_company",
-      "id": 132876997,
-      "datetime": 1740548370
-    },
-    {
       "id": "dbd868ee4be78b1aa23be8c685c8b298c2a1b394fc241e9cd1484a1dc8185517",
       "publisher": {
         "name": "GlobeNewswire Inc.",
@@ -89,8 +74,8 @@
     }
   ],
   "metadata": {
-    "cached_at": "2025-09-25T11:12:20.390296+00:00",
+    "cached_at": "2026-03-13T22:27:15.427040+00:00",
     "cache_key": "news_13584aba09b0a33c4e0c4a6bb0e7cabf",
-    "count": 2
+    "count": 1
   }
 }

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "AI Disruption Fear Sparks Investor Scrutiny of Software Stocks",
+      "description": "A Morgan Stanley basket of software-as-service stocks has fallen more than 6% this year, compared with an 11% advance for the tech-heavy Nasdaq 100.",
+      "published_utc": "2025-08-25T15:59:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cb82273ae0e1617e020857b7a61b0d871cd2b6eeaec0421dcecf229c27531e34",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136522451,
+      "datetime": 1756151979
+    },
+    {
+      "title": "HUBS' Subscription Revenues Rise: Will the Momentum Continue?",
+      "description": "HubSpot's subscription revenues jumped 16% in Q2, fueled by new customers, AI-driven upgrades, and strong adoption of pro products.",
+      "published_utc": "2025-08-25T14:12:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9e16f580b7490a2ad9867b46a6b5451f5d438ad07d2fb7908f36a15e325af29f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136522452,
+      "datetime": 1756145520
+    },
+    {
+      "title": "Is Emergent’s GSA Contract Expansion Shaping Salesforce’s (CRM) Federal Sector Potential?",
+      "description": "Emergent, LLC recently announced it has added Salesforce solutions and services, including the AI-powered Agentforce platform, to its active GSA Contract, enabling federal agencies to more easily procure advanced CRM and workflow technologies through the GSA schedule as of August 7, 2025. This collaboration strengthens Salesforce's reach in the public sector by providing federal clients streamlined access to FedRAMP-authorized, AI-enhanced technology for unified data management and...",
+      "published_utc": "2025-08-25T06:21:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=038bc6e0a54c57888ba3f5f54773f02b637c172a7a3f2071e396379ee10f7e77",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136508016,
+      "datetime": 1756117286
+    },
+    {
+      "title": "Bull of the Day: IBM (IBM)",
+      "description": "Bedrock of American innovation continues its deep R&D in the AI economy, fueling steady growth",
+      "published_utc": "2025-08-25T05:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=52c8a49fa8c90f413d04f5047faf1b81980b85ee9756c26919ceb49b9eee7514",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136508017,
+      "datetime": 1756113600
+    },
+    {
+      "title": "Software shares are in the doldrums. Blame AI",
+      "description": "Tech companies are giving the world artificial intelligence — but ironically, the tech sector itself is among those now feeling the most pain from AI.",
+      "published_utc": "2025-08-25T05:00:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1c9ca1038314b193868155137243f0b5f5158259e1a016a34415dd96bd60aad8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136508018,
+      "datetime": 1756112443
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:46:02.538031+00:00",
+    "cache_key": "news_c196a5d7580f55a86f8387cd1b25c911",
+    "count": 5
+  }
+}

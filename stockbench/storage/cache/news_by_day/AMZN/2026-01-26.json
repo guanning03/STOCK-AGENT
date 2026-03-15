@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "GameStop’s Original Bull Is Back. CEO Ryan Cohen Has Berkshire-Like Ambitions.",
+      "description": "In buying shares of GameStop, Michael Burry compared Ryan Cohen to Warren Buffett. Here’s what Cohen told Barron’s about his next plans for GameStop.",
+      "published_utc": "2026-01-26T16:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=43615bc516c8a9c0a76108a24da4d594253e833ed799d4b05f90089bd7b8ae63",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138265064,
+      "datetime": 1769463900
+    },
+    {
+      "title": "UPS Earnings Are Arriving. The Dividend, MD-11s, and the Economy Are on the Docket.",
+      "description": "UPS reports fourth-quarter numbers Tuesday morning. Wall Street is looking for earnings per share of $2.20 from sales of $24 billion.",
+      "published_utc": "2026-01-26T16:41:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ae37ae4e56d9423a867fdcd25c65596ef9e003829046cd771e8be43dc5abe31a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138264955,
+      "datetime": 1769463660
+    },
+    {
+      "title": "White Falcon: Q4 2025 Portfolio Positions",
+      "description": "White Falcon Capital highlights its Q4 2025 strategy focused on AMD, NFI Group, and EPAM. Read the full analysis of their portfolio and market outlook.",
+      "published_utc": "2026-01-26T16:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c60b317306aaa8e7b69e16e9a033427014c4870f0f9d299acf467bcc712d94ff",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1304192048/image_1304192048.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138266146,
+      "datetime": 1769462100
+    },
+    {
+      "title": "Microsoft debuts its next-gen AI chip",
+      "description": "Microsoft (MSFT) is debuting its next-generation custom AI chip that will allow it to take on rivals like Google (GOOGL, GOOG), Amazon (AMZN), and Nvidia (NVDA). Yahoo Finance Tech Editor Dan Howley reports on the latest chip. To watch more expert insights and analysis on the latest market action, check out more Market Domination.",
+      "published_utc": "2026-01-26T15:45:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6950d8de1960c922e91a6db57b600ba1b42f2b541cdbcd9782c1c24c6a3a1038",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138264845,
+      "datetime": 1769460329
+    },
+    {
+      "title": "Microsoft's plans for 15 more data centers win approval at former Wisconsin Foxconn site",
+      "description": "Microsoft intends to expand in a place where it's been welcomed, months after backing down on a rezoning attempt in an adjacent village when residents objected.",
+      "published_utc": "2026-01-26T15:39:53",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=25c7eccdc422fc1fc2011c067770e626653edb7f6f9b2b59548a8bce57274c95",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108257323-17694772012026-01-15t050021z_417264257_rc2guga7gf9b_rtrmadp_0_microsoft-carbon-soil.jpeg?v=1769477245&w=1920&h=1080",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138271861,
+      "datetime": 1769459993
+    }
+  ]
+}

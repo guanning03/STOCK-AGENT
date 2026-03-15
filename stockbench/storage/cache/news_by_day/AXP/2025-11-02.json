@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "The Chipotle indicator: Is the economy teetering on a recession or nah?",
+      "description": "Is Chipotle a good economic indicator?",
+      "published_utc": "2025-11-02T08:27:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e159309d31f651e052375fb8330555d1234b251362281d23ef6aab462be242f2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137294718,
+      "datetime": 1762090027
+    }
+  ]
+}

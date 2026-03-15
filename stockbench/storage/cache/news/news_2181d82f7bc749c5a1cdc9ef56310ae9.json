@@ -1,0 +1,107 @@
+{
+  "items": [
+    {
+      "id": "3fbbc6fe98282a3be5dd1de377cc8701e99bf0434bdf16a2706b8c2fadcd8425",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Tesla, Alphabet And Broadcom Are Among Top Large Cap Gainers Last Week (December 9-13): Are The Others In Your Portfolio?",
+      "author": "Lekha Gupta",
+      "published_utc": "2024-12-15T13:30:17Z",
+      "article_url": "https://www.benzinga.com/news/large-cap/24/12/42499355/tesla-alphabet-and-broadcom-are-among-top-large-cap-gainers-last-week-december-9-13-are-the-others",
+      "tickers": [
+        "AVGO",
+        "CIEN",
+        "YPF",
+        "WBD",
+        "TSLA",
+        "RBRK",
+        "RIVN",
+        "BA",
+        "BApA",
+        "GOOG",
+        "GOOGL"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2024/12/15/Why-It-Matters.jpeg?width=1200&height=800&fit=crop",
+      "description": "Several large-cap stocks, including Broadcom, Ciena, YPF Sociedad Anonima, Warner Bros. Discovery, Tesla, Rubrik, Rivian Automotive, Boeing, and Alphabet, were among the top gainers last week. The article discusses the reasons behind the stock price movements.",
+      "keywords": [
+        "large-cap stocks",
+        "stock gains",
+        "Broadcom",
+        "Ciena",
+        "YPF Sociedad Anonima",
+        "Warner Bros. Discovery",
+        "Tesla",
+        "Rubrik",
+        "Rivian Automotive",
+        "Boeing",
+        "Alphabet"
+      ],
+      "insights": [
+        {
+          "ticker": "AVGO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Broadcom shares jumped 25.22% after the company reported better-than-expected Q4 financial results and raised its quarterly common stock dividend."
+        },
+        {
+          "ticker": "CIEN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Ciena stock escalated 21.94% after the company reported better-than-expected fourth-quarter sales results."
+        },
+        {
+          "ticker": "YPF",
+          "sentiment": "positive",
+          "sentiment_reasoning": "YPF Sociedad Anonima shares increased 14.64% after B of A Securities upgraded the stock from Neutral to Buy and raised its price forecast."
+        },
+        {
+          "ticker": "WBD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Warner Bros. Discovery stock upped 13.23% after the board approved the company's plans to implement a new corporate structure."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Tesla stock jumped 12.08% as Wedbush Securities analyst Dan Ives sees the company achieving a $2 trillion market cap by 2025-end in a bull case scenario."
+        },
+        {
+          "ticker": "RBRK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Rubrik shares rose 11.68% after the company announced its security cloud government achieved FedRAMP authorization."
+        },
+        {
+          "ticker": "RIVN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Rivian Automotive stock surged 10.54% last week after an analyst said the company is well-positioned to gain significant share."
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Boeing stock increased 10.21% following reports the company has resumed production of its 737 MAX aircraft after a lengthy halt caused by an employee strike."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Boeing stock increased 10.21% following reports the company has resumed production of its 737 MAX aircraft after a lengthy halt caused by an employee strike."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet stock upped 8.65% following the unveiling of a new quantum computing chip with breakthrough capabilities."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet stock upped 8.65% following the unveiling of a new quantum computing chip with breakthrough capabilities."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:27:24.623735+00:00",
+    "cache_key": "news_2181d82f7bc749c5a1cdc9ef56310ae9",
+    "count": 1
+  }
+}

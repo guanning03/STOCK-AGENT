@@ -1,0 +1,128 @@
+{
+  "items": [
+    {
+      "id": "f192dcb506d0ed0695b6555ba1e73fa3fe1728c1507baee5289b13f722d8101e",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "$2.97 Aerospace Radome Markets, 2020-2025, 2025-2030F, 2035F",
+      "author": "Researchandmarkets.Com",
+      "published_utc": "2026-01-19T15:41:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2026/01/19/3221118/28124/en/2-97-Aerospace-Radome-Markets-2020-2025-2025-2030F-2035F.html",
+      "tickers": [
+        "BA",
+        "BApA",
+        "EADSY",
+        "TDY",
+        "NOC",
+        "LHX"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The aerospace radome market is projected to grow from $2.08 billion in 2025 to $2.97 billion by 2030, with a CAGR of 7.3%. Growth is driven by increased air travel, demand for advanced multi-functional radomes, lightweight composite materials, and stealth-capable technologies. Key players are expanding manufacturing capabilities and pursuing strategic acquisitions to meet rising demand.",
+      "keywords": [
+        "aerospace radome market",
+        "market growth",
+        "composite materials",
+        "aircraft demand",
+        "radar systems",
+        "defense electronics",
+        "manufacturing expansion"
+      ],
+      "insights": [
+        {
+          "ticker": "BA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Boeing is identified as a key market player expanding manufacturing capabilities to meet rising demand for radome systems in commercial and military aircraft."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Boeing is identified as a key market player expanding manufacturing capabilities to meet rising demand for radome systems in commercial and military aircraft."
+        },
+        {
+          "ticker": "EADSY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Airbus is listed as a major competitor expanding manufacturing capabilities to capitalize on the growing aerospace radome market driven by increased aircraft demand."
+        },
+        {
+          "ticker": "TDY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Teledyne acquired aerospace and defense electronics businesses from Excelitas for $710 million in November 2024, strengthening its portfolio in the growing aerospace sector."
+        },
+        {
+          "ticker": "NOC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed as a key company in the radome market but no specific business developments or strategic actions mentioned in the article."
+        },
+        {
+          "ticker": "LHX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Identified as a key market player but no specific business developments or strategic initiatives mentioned in the article."
+        }
+      ]
+    },
+    {
+      "title": "Boeing (BA) Valuation In Focus As Recent Share Gains Contrast With Intrinsic Discount Estimate",
+      "description": "With no single headline event driving the story today, Boeing (BA) is drawing attention for its recent share performance and financial profile, prompting investors to reassess how its current valuation lines up with ongoing business challenges. See our latest analysis for Boeing. At a share price of $247.68, Boeing has seen a 15.7% 30 day share price return and a 44.77% 1 year total shareholder return. This may indicate building momentum as markets reassess its risks and recovery...",
+      "published_utc": "2026-01-19T15:08:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d7faa6327cbabf750b2b599e3c582ae7b70cb72b769e3da89e24dd44ad1b393f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138180953,
+      "datetime": 1768853306
+    },
+    {
+      "title": "Does Delta Air Lines' Q4 Earnings Beat Justify a Buy Decision Today?",
+      "description": "DAL beats Q4 earnings and revenue estimates, driven by international demand and premium sales, but rising labor costs and valuation risks temper buy appeal.",
+      "published_utc": "2026-01-19T12:51:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3a0b5f1568d88f27532d64b4516b2f0b437da7f78b4cb21bc088e941379af709",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138180286,
+      "datetime": 1768845060
+    },
+    {
+      "title": "Starlink, New Leadership And Boeing Widebody Jets: What You Need To Know Before UAL's Earnings",
+      "description": "United Airlines has introduced some changes ahead of its Q4 earnings call amid new executives and luxurious Dreamliner fleet.",
+      "published_utc": "2026-01-19T11:31:15",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=69f6ac21eccd28da80ccc23d2397e73df16bcb9ff72d0d62d0bccb6abddb88f9",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/01/19/United-Airlines-Holdings.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138565912,
+      "datetime": 1768840275
+    },
+    {
+      "title": "EU Eyes Tariffs on €93 Billion of US Goods Over Threat",
+      "description": "The EU is also weighing additional countermeasures beyond the tariffs but will first try to find a diplomatic solution, according to people familiar with the discussions.  Representatives from the EU’s 27 countries met Sunday to begin preparing options.  EU leaders will hold an emergency meeting in Brussels later this week to explore possible retaliatory measures.",
+      "published_utc": "2026-01-19T06:44:45",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=799d16e5fefbe09f800f37cf844b0897294c36ff2fc5de3691698f4dc248ed9f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138177045,
+      "datetime": 1768823085
+    }
+  ]
+}

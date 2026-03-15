@@ -1,0 +1,104 @@
+{
+  "items": [
+    {
+      "title": "Prediction: UnitedHealth Group Stock Will Soar in 2026",
+      "description": "The new year should be a happier one for this beleaguered healthcare giant.",
+      "published_utc": "2025-12-06T12:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e549b2544017188bf1815cf487684639b4506ef91693805086139dba335521b7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137726417,
+      "datetime": 1765040700
+    },
+    {
+      "title": "Salesforce Is One of the Dogs of the Dow. Should You Buy the Dip in CRM Stock Now?",
+      "description": "With Salesforce sinking while the Dow climbs this year, is CRM stock a rare blue-chip bargain or a trap in disguise?",
+      "published_utc": "2025-12-06T09:00:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4faa4565d2712f7f9d77f4fb7294ba445feeb7ea287ee5282ad4c2c05e6d1f8f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137726418,
+      "datetime": 1765029602
+    },
+    {
+      "title": "Investors Keep Eye On Fed Decision While Adobe, Broadcom Set To Report Earnings",
+      "description": "Stay ahead with Wall Street Week Aheadâs preview of key market events, earnings, Fed decisions, and IPOs.",
+      "published_utc": "2025-12-06T06:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5ba65a19769b96f7058184b085ef454d0f742a1f6fb3a574864b7573b70c8621",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137718499,
+      "datetime": 1765018800
+    },
+    {
+      "id": "b7c0992bdf4fcb13b039fcce2074346c0d1591e9786aab71a31ff2456a3f9a6a",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Warren Buffett's Warning to Wall Street has Reached Deafening Levels: 3 Things You Should Do Before 2026.",
+      "author": "Adria Cimino",
+      "published_utc": "2025-12-06T23:10:00Z",
+      "article_url": "https://www.fool.com/investing/2025/12/06/warren-buffetts-warning-to-wall-street-what-to-do/?source=iedfolrf0000001",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "UNH",
+        "CRWV"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F845635%2Fwarren-buffett-4-tmf-may-2014.jpg&w=1200&op=resize",
+      "description": "Warren Buffett has been selling stocks and accumulating cash, signaling potential concerns about current market valuations. He suggests investors diversify portfolios, look for buying opportunities, and maintain cash reserves for strategic investments before 2026.",
+      "keywords": [
+        "Warren Buffett",
+        "stock market",
+        "valuations",
+        "AI stocks",
+        "investment strategy"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett opened a position in Alphabet, considering it one of the cheapest Magnificent Seven tech stocks"
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Buffett opened a position in Alphabet, considering it one of the cheapest Magnificent Seven tech stocks"
+        },
+        {
+          "ticker": "UNH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Buffett opened a position in the health insurance company, suggesting potential recovery and value"
+        },
+        {
+          "ticker": "CRWV",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a potential opportunity for aggressive investors, with recent price pullback"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:05:53.049119+00:00",
+    "cache_key": "news_869c47c80366efacb014b6c2193403eb",
+    "count": 4
+  }
+}

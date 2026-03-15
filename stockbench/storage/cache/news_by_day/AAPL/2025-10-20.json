@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Dow Jones Futures: Apple, Google, Netflix, Tesla Make Bullish Moves, But Oracle Dives",
+      "description": "Dow Jones Futures: Apple, Google, Netflix and Tesla made bullish moves Monday. But Oracle stock continued to sell off.",
+      "published_utc": "2025-10-20T19:49:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e5be15320789135ed0d608edfb5c9668b7c4ab7b3acc45c02a00d0eebdcdaeda",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137173882,
+      "datetime": 1761004162
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures stall as investors eye earnings ahead",
+      "description": "US stock futures were little changed Monday night as Wall Street geared up for a packed week of corporate earnings.",
+      "published_utc": "2025-10-20T19:32:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eceac59a14d6631b0a83da21b6edc9d769bca035ef4d33da464cd17875478c27",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137173883,
+      "datetime": 1761003137
+    },
+    {
+      "title": "AAON, Regal Rexnord, RXO, Universal Logistics, and Tutor Perini Shares Are Soaring, What You Need To Know",
+      "description": "A number of stocks jumped in the afternoon session after positive news on corporate earnings, easing political and trade tensions, and optimism about future interest rate cuts all converged to lift investor sentiment.",
+      "published_utc": "2025-10-20T18:35:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0260a2cf99c5f2fee71d22a70ebd818beb8c9a9eff596f50119c839b333a815b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137173884,
+      "datetime": 1760999750
+    },
+    {
+      "title": "Arrow Electronics, AerSale, Distribution Solutions, Allient, and Enviri Stocks Trade Up, What You Need To Know",
+      "description": "A number of stocks jumped in the afternoon session after positive news on corporate earnings, easing political and trade tensions, and optimism about future interest rate cuts all converged to lift investor sentiment.",
+      "published_utc": "2025-10-20T18:35:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0fc9d09c5d3a1b536dd55e0ee141995e5899e488ec1557375b7fbb7678b39596",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137173885,
+      "datetime": 1760999749
+    },
+    {
+      "title": "Astronics, NN, Kratos, FuelCell Energy, and 3D Systems Shares Skyrocket, What You Need To Know",
+      "description": "A number of stocks jumped in the afternoon session after positive news on corporate earnings, easing political and trade tensions, and optimism about future interest rate cuts all converged to lift investor sentiment.",
+      "published_utc": "2025-10-20T18:35:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bcfa4f51d5fdc7c376c60a92caaf14828a15288eac42ed5e046be475c5dea153",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137173413,
+      "datetime": 1760999742
+    }
+  ]
+}

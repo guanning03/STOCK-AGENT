@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "id": "6c4edd0183cb06d8290f2bff470c6a85498cb4a2b8c2a4bd15f0b8ac169b148d",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Global Biobased Propylene Glycol Market Poised for Steady Growth, Projected to Reach USD 7,956.5 Million by 2035 | Future Market Insights, Inc.",
+      "author": "Future Market Insights, Inc.",
+      "published_utc": "2025-02-12T08:30:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/12/3024764/0/en/Global-Biobased-Propylene-Glycol-Market-Poised-for-Steady-Growth-Projected-to-Reach-USD-7-956-5-Million-by-2035-Future-Market-Insights-Inc.html",
+      "tickers": [
+        "DOW",
+        "BASFY",
+        "ADM",
+        "LYB",
+        "HUN",
+        "REPYY",
+        "PG"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/915d2f9c-7dc6-40c7-995c-2ba168208baa",
+      "description": "The global biobased propylene glycol market is expected to grow from $4.5 billion in 2023 to $8 billion by 2035, driven by rising demand for sustainable personal care products and government regulations supporting eco-friendly alternatives.",
+      "keywords": [
+        "biobased propylene glycol",
+        "sustainable chemicals",
+        "renewable resources",
+        "green technologies"
+      ],
+      "insights": [
+        {
+          "ticker": "DOW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Dow has launched new sustainable varieties of propylene glycol, showcasing the company's commitment to providing eco-friendly solutions and aligning with the industry's shift towards renewable chemicals."
+        },
+        {
+          "ticker": "BASFY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "BASF is a prominent player in the biobased propylene glycol market, demonstrating the company's focus on developing and supplying sustainable chemical products."
+        },
+        {
+          "ticker": "ADM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "ADM is involved in the biobased propylene glycol market, indicating the company's participation in the production and distribution of renewable chemical alternatives."
+        },
+        {
+          "ticker": "LYB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "LyondellBasell is a key player in the biobased propylene glycol market, showcasing the company's efforts to expand its portfolio of sustainable chemical solutions."
+        },
+        {
+          "ticker": "HUN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Huntsman's involvement in the biobased propylene glycol market suggests the company's commitment to developing and offering eco-friendly chemical products."
+        },
+        {
+          "ticker": "REPYY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Repsol's participation in the biobased propylene glycol market indicates the company's focus on diversifying its portfolio to include renewable chemical solutions."
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "P&G Chemicals' involvement in the biobased propylene glycol market suggests the company's commitment to incorporating renewable and eco-friendly ingredients in its products."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T22:06:42.354639+00:00",
+    "cache_key": "news_c5660fea3459c513ab04766c5330ad59",
+    "count": 1
+  }
+}

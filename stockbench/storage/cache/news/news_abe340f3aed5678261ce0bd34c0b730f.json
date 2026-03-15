@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "What To Expect in Markets This Week: Earnings From Palantir, AMD, McDonald’s and More",
+      "description": "Also scheduled: Trade deficit data, Federal Reserve officials' remarks, earnings from Pfizer, Disney, Uber, and additional companies.",
+      "published_utc": "2025-08-03T05:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2a3aef857d82298a4a200cf6b1860e39a7a8786c7864def9a29808e7b9302732",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136195420,
+      "datetime": 1754211600
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:32:17.681257+00:00",
+    "cache_key": "news_abe340f3aed5678261ce0bd34c0b730f",
+    "count": 1
+  }
+}

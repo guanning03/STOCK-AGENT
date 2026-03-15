@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "id": "41be3bb0fe6e5637eddfcf263177065de72a6ee8c6580eb433e732e047ce4c36",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "This Is What Nvidia Says Could Be the Next Big Trend in Artificial Intelligence. These 3 Stocks Could Be Big Winners",
+      "author": "David Jagielski",
+      "published_utc": "2025-01-21T22:07:11Z",
+      "article_url": "https://www.fool.com/investing/2025/01/21/this-is-what-nvidia-says-could-be-the-next-big-tre/?source=iedfolrf0000001",
+      "tickers": [
+        "MSFT",
+        "CRM",
+        "NOW"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804283/futuristic-image-showing-person-conceptualizing-numbers-and-many-ideas.jpg",
+      "description": "Nvidia CEO believes AI agents will be deployed at significant scale this year, opening up growth opportunities for Microsoft, Salesforce, and ServiceNow. These companies are already offering AI agent capabilities to their customers.",
+      "keywords": [
+        "Nvidia",
+        "AI agents",
+        "Microsoft",
+        "Salesforce",
+        "ServiceNow"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft has already launched its AI assistant Copilot, which is available in popular office applications. The company's AI business is expected to surpass $10 billion in annual revenue, indicating strong growth potential."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Salesforce's Agentforce can help provide support to employees and customers, and the company allows users to create their own agents. However, the company's sales growth remains in the single digits, and the stock is trading at a high valuation."
+        },
+        {
+          "ticker": "NOW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "ServiceNow's AI agents can help collaborate and solve problems across a company's entire operations. The company is growing at a fast rate of more than 20%, and the CEO sees a huge opportunity in AI agents, despite the stock's high valuation."
+        }
+      ]
+    },
+    {
+      "id": "ec3adc49096716f80e4edfb76056d1bb68a9648a7256a2343c6e44205d5b9744",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Wall Street Analyst Sees Salesforce Stock Going to $400. Is It a Buy?",
+      "author": "Jeremy Bowman",
+      "published_utc": "2025-01-21T11:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/21/1-wall-street-analyst-sees-salesforce-stock-going/?source=iedfolrf0000001",
+      "tickers": [
+        "CRM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804423/globe-cloud-software-network.jpg",
+      "description": "Salesforce, a pioneer in cloud software, has introduced Agentforce, a breakthrough in agentic AI technology. This new AI tool could superpower the company's next stage of growth, and a Wall Street analyst has upgraded the stock to a buy recommendation.",
+      "keywords": [
+        "Salesforce",
+        "Agentforce",
+        "Agentic AI",
+        "Cloud Software"
+      ],
+      "insights": [
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce has introduced a breakthrough in agentic AI technology with Agentforce, which could drive the company's next stage of growth. A Wall Street analyst has upgraded the stock to a buy recommendation, citing the recent pullback in the stock price and high levels of interest in Agentforce among Salesforce's customer base."
+        }
+      ]
+    }
+  ]
+}

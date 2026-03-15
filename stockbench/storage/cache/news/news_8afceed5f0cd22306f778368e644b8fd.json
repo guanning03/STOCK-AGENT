@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Lowe’s struggles to fix a concerning customer problem",
+      "description": "Lowe's is continuing to battle an alarming consumer trend.",
+      "published_utc": "2025-08-23T13:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=08dcaee8a2fed12f515b4f7ddeb99adf641263ba920df6a92e535197630d266c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136496033,
+      "datetime": 1755970380
+    },
+    {
+      "title": "Can Home Depot Stock Beat the Market Over the Next 5 Years?",
+      "description": "Home Depot should continue to grow, but is that enough to make the stock a buy?",
+      "published_utc": "2025-08-23T09:35:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=04f43bfa9612934cb88461805359ed8af67dd143f5198fc4a2b587c522538e25",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136496034,
+      "datetime": 1755956100
+    },
+    {
+      "title": "3 Dividend Stocks That Could Help You Retire Rich",
+      "description": "Cruise through market volatility with these high-yielding stocks.",
+      "published_utc": "2025-08-23T08:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4262c2f7617e44b0cb2c1bfd47d62adf796c42542c3e6f83cd0b2b84c857f9b5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136496035,
+      "datetime": 1755950400
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:34:54.880295+00:00",
+    "cache_key": "news_8afceed5f0cd22306f778368e644b8fd",
+    "count": 3
+  }
+}

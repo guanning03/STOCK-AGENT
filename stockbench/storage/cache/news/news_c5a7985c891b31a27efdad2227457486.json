@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today: Dow Slips Back Below 49K; Trump Takes On Defense Firms (Live Coverage)",
+      "description": "The Dow Jones index dipped in mixed trade Wednesday after surprise jobs data. Bitcoin stock Strategy jumped.",
+      "published_utc": "2026-01-07T17:12:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=00d24019bb03f34368b23194b5fc40d1aebfe34ff3a9cb9bd6853ed1cbffe1fa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138032848,
+      "datetime": 1767823943
+    },
+    {
+      "title": "Top Stock Reports for Micron Technology, Roche & UnitedHealth",
+      "description": "MU leads today's Zacks Research Daily, with AI-driven memory demand, strong DRAM pricing recovery and solid cash flow powering recent outperformance.",
+      "published_utc": "2026-01-07T16:55:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=630d4529767ca1b6f03ed52aacabd615ac3828698cd62c902084d2b293c8f323",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138033130,
+      "datetime": 1767822900
+    },
+    {
+      "title": "Company News for Jan 7, 2026",
+      "description": "Companies in The News Are: XOM, AIG, STX, UNH",
+      "published_utc": "2026-01-07T09:26:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9aac70da2bac46d3bf1811ecb3bd8af76f97878925c43ed80b377426fd2c55d2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138027086,
+      "datetime": 1767795960
+    },
+    {
+      "title": "RingCentral Appoints Mahmoud ElAssir to Board of Directors",
+      "description": "BELMONT, Calif., January 07, 2026--RingCentral, Inc. (NYSE: RNG), a global leader in agentic voice AI-powered cloud communications, today announced the appointment of Mahmoud ElAssir to its Board of Directors, effective immediately.",
+      "published_utc": "2026-01-07T08:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6b5726173b55b3b842cd6ff7bda6cd8e64dc11151e317aa16d1d141ec5ee74c4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138027146,
+      "datetime": 1767790800
+    },
+    {
+      "title": "Why UnitedHealth Stock Bumped Higher Today",
+      "description": "The company is a powerhouse in its sector, and has weathered numerous challenges recently.",
+      "published_utc": "2026-01-06T20:09:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c2a33930961172307c8bae8c980caeb688ea89026b1cb2ec3bc452f7ba5db797",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138022783,
+      "datetime": 1767748161
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:09:28.181251+00:00",
+    "cache_key": "news_c5a7985c891b31a27efdad2227457486",
+    "count": 5
+  }
+}

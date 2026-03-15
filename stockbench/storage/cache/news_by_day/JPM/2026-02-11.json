@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "New AI Worries End Dow Industrials’ Three-Session Winning Streak",
+      "description": "Financial stocks fall, as Wall Street’s ‘schizophrenic personality’ on artificial intelligence stalls momentum.",
+      "published_utc": "2026-02-11T16:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f1e481545e6bbd1892466826953da95a33c71b4f65e9cc8d5f0cf51d4686f497",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139050523,
+      "datetime": 1770846300
+    },
+    {
+      "title": "Financial service companies are keeping customers in-house with free tax filing",
+      "description": "Freedom Debt Relief is the latest company to partner with AI-powered platform april to provide free tax filing for clients.",
+      "published_utc": "2026-02-11T16:09:50",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=c476a369c38c2ca6812104ce6968a66b314b20b755390a191213a7d2e8c79519",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108264753-1770847328294-gettyimages-1460124878-pi-2756790.jpeg?v=1770847344&w=1920&h=1080",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139064730,
+      "datetime": 1770844190
+    },
+    {
+      "title": "Vatican Bank Is Picking Stocks — And It Likes Meta, Amazon The Most",
+      "description": "The Vatican Bank introduces two equity indexes designed to track companies that adhere to the social doctrine of the Catholic Church.",
+      "published_utc": "2026-02-11T14:52:44",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=9360c1f86f3516d85a65381447bb4975b17e743a64d31bc44a1f93280f75f9db",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/02/11/Symbols-In-Vatican-City.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139055315,
+      "datetime": 1770839564
+    },
+    {
+      "title": "SDOW: Benefits And Risks Of The Leveraged Bear Dow Jones ETF",
+      "description": "The ProShares UltraPro Short Dow30 ETF offers -3X daily exposure to the Dow Jones Industrial Average, primarily serving short-term traders. Click here to learn more.",
+      "published_utc": "2026-02-11T13:22:10",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=eb8a1440101254b79276269c64e31af52876fc07574160bd48fd0e1f4fddb21c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/620925375/image_620925375.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139050295,
+      "datetime": 1770834130
+    },
+    {
+      "title": "JPMorgan bullish on crypto for rest of year as institutional flows set to drive recovery",
+      "description": "After bitcoin fell below its estimated production cost, the bank said stronger fundamentals and rising institutional inflows could lift crypto in 2026.",
+      "published_utc": "2026-02-11T12:34:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e9b60778e4529547afd2ef914c6550ed2d19f2ec94ddc74fdf5a8169b5c0d9ba",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139048013,
+      "datetime": 1770831260
+    }
+  ]
+}

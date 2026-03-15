@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Microsoft Raises Quarterly Dividend by 9.6%",
+      "description": "Microsoft’s pattern of increasing its dividend in September continued as the company raised its quarterly payout to 91 cents a share from 83 cents.",
+      "published_utc": "2025-09-15T19:55:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1c63ed9166e7a842339b9723d3d3732db2d6ffa7982de4534f9d885a3eb26a55",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136768022,
+      "datetime": 1757980500
+    },
+    {
+      "title": "The Japanese Business Philosophy Fueling Microsoft’s AI Transformation",
+      "description": "The Japanese Business Philosophy Fueling Microsoft’s AI Transformation",
+      "published_utc": "2025-09-15T19:45:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=8913d95c9284d681b6faedbcfcc8a03d7a6e37992f0ceec1210a7b0abcc46746",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136775388,
+      "datetime": 1757979900
+    },
+    {
+      "title": "Microsoft announces quarterly dividend increase",
+      "description": "Microsoft Corp. on Monday announced that its board of directors declared a quarterly dividend of $0.91 per share, reflecting an 8 cent or 10% increase over the previous quarter's dividend. The dividend is payable Dec. 11, 2025, to shareholders of record on Nov. 20, 2025. The ex-dividend date will be Nov. 20, 2025.",
+      "published_utc": "2025-09-15T19:12:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5df1b5205046bc4e67218ca438afa7b13dd1033f89f526ed23b83717caa0460c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136768023,
+      "datetime": 1757977920
+    },
+    {
+      "title": "With no DOJ breakup, Alphabet becomes a $3 trillion company",
+      "description": "Investors continue to reward Alphabet's stock after a judge declined to break up Google earlier this month.",
+      "published_utc": "2025-09-15T18:23:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0e69dc00801d1fe0530bac374cad7bcf5976f50f55c223ce410d434350ea88df",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136768011,
+      "datetime": 1757974994
+    },
+    {
+      "title": "Stocks Rally as Bond Yields Fall Before FOMC Meeting",
+      "description": "The S&P 500 Index ($SPX ) (SPY ) on Monday closed up +0.47%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.11%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.84%. September E-mini S&P futures (ESU25 ) rose +0.43%, and September E-mini Nasdaq futures...",
+      "published_utc": "2025-09-15T17:37:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ad787dfd79fcf79bed1068ce210f8605f577ad41fa92c6ae45b67e4d0f1b33fa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136768025,
+      "datetime": 1757972235
+    }
+  ]
+}

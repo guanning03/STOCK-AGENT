@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "U.S.-EU Trade Deal: A One-Sided Affair",
+      "description": "",
+      "published_utc": "2025-07-28T13:48:40",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a74a5c206e62ebda0b52714775dcc6947289ba196441b0e3d7e814429523a36f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136111772,
+      "datetime": 1753724920
+    },
+    {
+      "title": "'Trump blocks Taiwan's President Lai from New York stopover' -Financial Times Report",
+      "description": "https://www.ft.com/content/21575bec-5cdd-47ee-9db2-3031c4ea7ca7",
+      "published_utc": "2025-07-28T12:35:49",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=2c8d5bc3bbee7464110b86171d0539674bde9387611353d7ec645ad45ed47e68",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138816637,
+      "datetime": 1753720549
+    },
+    {
+      "title": "' Medicare Part D Drug Plan Premiums Set to Rise'- WSJ",
+      "description": "https://www.wsj.com/health/healthcare/medicare-part-d-drug-plan-premiums-set-to-rise-16ef919c",
+      "published_utc": "2025-07-28T12:29:42",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f4d104fd5c0747378c270ba33e07c0a9fe919d17edefa30e8e1f2bbd9deabf0c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138790943,
+      "datetime": 1753720182
+    },
+    {
+      "title": "Magnificent 7 Diverge As Peak Earnings Season Puts Spotlight On Big Tech",
+      "description": "Peak earnings season for Q2 2025 begins this week. So far 34% of companies from the S&P 500 index have reported, and the early results bode well for the rest of the season. Read more here...",
+      "published_utc": "2025-07-28T12:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d3fc3c5e315c1cffd8faa7f6424fbbd59419cb37287f073c7dbb9905af254e0c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/500552643/image_500552643.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136109386,
+      "datetime": 1753718700
+    },
+    {
+      "title": "Reuters Cites Letter Saying Major Airlines Oppose Bill To Limit U.S. Transportation Security Administration's Ability To Use Facial Recognition Software At Airports",
+      "description": "",
+      "published_utc": "2025-07-28T12:00:34",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=ffabb7f6ca5da30ffe145272676f3390dc99c559bc17bc0b9a5548fb99bc18cb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138803488,
+      "datetime": 1753718434
+    }
+  ]
+}

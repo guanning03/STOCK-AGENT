@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today, Feb. 10: Microsoft Stock Slips on Melius Downgrade Over AI Spending Risks",
+      "description": "On Feb. 10, 2026, investors weighed fresh AI capex worries against rising long-term earnings forecasts for this software giant.",
+      "published_utc": "2026-02-10T17:34:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=db17ad04927ad1cb5693fe9a191165d731089e79cbbe9d8216e31b1d67f5e56c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139037378,
+      "datetime": 1770762899
+    },
+    {
+      "title": "Walmart Over Amazon: Retailer Wins EBITDA Multiple Foot Race",
+      "description": "Walmart still lags behind its online rival in market cap, even with a $1 trillion valuation, but makes up for it with its EV/EBITDA multiple.",
+      "published_utc": "2026-02-10T17:26:59",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=87c9fba46f05cbcc970338e1562d5dabac9a27b03173b5a0b1cc30e310966a46",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139037373,
+      "datetime": 1770762419
+    },
+    {
+      "title": "Salesforce employees call on CEO Benioff to cancel ICE 'opportunities'",
+      "description": "More than 1,400 Salesforce employees have signed a letter calling on CEO Marc Benioff to cancel all potential business with the U.S. ICE agency.",
+      "published_utc": "2026-02-10T17:12:40",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=21f1237758c1f5bc84aabb4feb80dfb9ce8949fc49201dcb34c1ff0f11c1fcb3",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108264229-1770776276886-gettyimages-2256811761-DAVOS_WEF_2026.jpeg?v=1770776333&w=1920&h=1080",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139045872,
+      "datetime": 1770761560
+    },
+    {
+      "title": "Coke Earnings Show Why Tech Stocks Can Take Off Again",
+      "description": "Coke’s fourth-quarter earnings per share did edge past consensus by two cents, but its revenue fell short of expectations.",
+      "published_utc": "2026-02-10T16:19:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2e3a253d2e2958d4fac4150eebb30d9c88e71262093a66feb042588322a60ab6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139037375,
+      "datetime": 1770758340
+    },
+    {
+      "title": "Here’s how Apple’s stock can surge in the face of rising memory costs",
+      "description": "Here’s how Apple’s stock can surge in the face of rising memory costs",
+      "published_utc": "2026-02-10T15:56:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=054e01fd0b145f7c6fc257453e7800e0b78292bdaaf2440472c1b1ff70a2dffa",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139083314,
+      "datetime": 1770756960
+    }
+  ]
+}

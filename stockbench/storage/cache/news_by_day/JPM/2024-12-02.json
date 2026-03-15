@@ -1,0 +1,101 @@
+{
+  "items": [
+    {
+      "id": "49ac37b5c015abbb1ef5a67bcf2094a2de7e335290c9464145c8138b1fd28ee1",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Stock Market Has Done This Just 10 Times in 30 Years, and It May Signal a Big Move in 2025",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-02T09:30:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/02/stock-market-done-10-times-30-years-big-move-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799488/growth-28.jpg",
+      "description": "The S&P 500 has returned over 20% in a calendar year just 10 times in the last 30 years. History suggests the index could advance another 15% in 2025, but investors should be cautious due to the market's elevated valuation.",
+      "keywords": [
+        "S&P 500",
+        "stock market",
+        "economic outlook",
+        "valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "AMJB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase's less optimistic forecast for the S&P 500 in 2025, but does not provide a strong opinion on the company itself."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase's less optimistic forecast for the S&P 500 in 2025, but does not provide a strong opinion on the company itself."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase's less optimistic forecast for the S&P 500 in 2025, but does not provide a strong opinion on the company itself."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase's less optimistic forecast for the S&P 500 in 2025, but does not provide a strong opinion on the company itself."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase's less optimistic forecast for the S&P 500 in 2025, but does not provide a strong opinion on the company itself."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase's less optimistic forecast for the S&P 500 in 2025, but does not provide a strong opinion on the company itself."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase's less optimistic forecast for the S&P 500 in 2025, but does not provide a strong opinion on the company itself."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions JPMorgan Chase's less optimistic forecast for the S&P 500 in 2025, but does not provide a strong opinion on the company itself."
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article includes Goldman Sachs' forecast for the S&P 500 in 2025, but does not offer a strong opinion on the company."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article includes Goldman Sachs' forecast for the S&P 500 in 2025, but does not offer a strong opinion on the company."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article includes Goldman Sachs' forecast for the S&P 500 in 2025, but does not offer a strong opinion on the company."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article includes Goldman Sachs' forecast for the S&P 500 in 2025, but does not offer a strong opinion on the company."
+        }
+      ]
+    }
+  ]
+}

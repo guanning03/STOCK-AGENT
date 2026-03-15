@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "title": "Best Stock-ing Stuffers For Kids: Roblox, Disney And More Stocks For Jr. Investors",
+      "description": "Gifting stock is a &#34;stock-ing stuffer&#34; for kids and teens that can spark a lifelong interest in financial literacy and investing.",
+      "published_utc": "2025-12-17T13:14:24",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=e075a565cbb38f0306ac917fbcbe3b4edb6c576dd5eef12e9830e068e6ba0550",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/12/17/Young-Girl-Wearing-Santa-Hat-Was-Searchi.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138505878,
+      "datetime": 1765995264
+    },
+    {
+      "title": "2025: A year of bifurcation, bold moves, and big wins",
+      "description": "From Pizza Hut’s potential sale to Cracker Barrel’s logo change controversy, this year was full of surprises",
+      "published_utc": "2025-12-17T13:06:45",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=33855b13b859a145fb5999d3f1c22d1204078225483275a5912e59e66d1c4d8f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137817053,
+      "datetime": 1765994805
+    },
+    {
+      "title": "McDonald's Corp. stock outperforms competitors on strong trading day",
+      "description": "McDonald's Corp. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-12-17T11:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=782f30bd52caa8b3da6a4e12cda9c6c20f44822234a6d0121a10d21141efaa32",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137858968,
+      "datetime": 1765989120
+    },
+    {
+      "id": "b69a1c3bfb96c8271de9aaaca63cf13329e4be56f71c9e83ba2d447585c3fb2f",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is McDonald's an Undervalued Dividend Stock to Buy for 2026?",
+      "author": "Parkev Tatevosian, Cfa",
+      "published_utc": "2025-12-17T15:01:00Z",
+      "article_url": "https://www.fool.com/investing/2025/12/17/is-mcdonalds-an-undervalued-dividend-stock-to-buy/?source=iedfolrf0000001",
+      "tickers": [
+        "MCD"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F847568%2F22-mcdonalds.jpg&w=1200&op=resize",
+      "description": "McDonald's is leveraging technology to improve restaurant operations and sees increased value from food delivery companies, potentially making it an attractive dividend stock for 2026.",
+      "keywords": [
+        "dividend stock",
+        "food delivery",
+        "restaurant technology",
+        "operations improvement"
+      ],
+      "insights": [
+        {
+          "ticker": "MCD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests McDonald's is strategically improving its operations through technology and benefiting from food delivery trends, indicating potential growth and investment value"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:47:13.709028+00:00",
+    "cache_key": "news_9d69a95ea6d9879fa9020e744b7c2339",
+    "count": 4
+  }
+}

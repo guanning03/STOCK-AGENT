@@ -1,0 +1,118 @@
+{
+  "items": [
+    {
+      "id": "d70f221c28a5d693514cb4e13579c451b4a6635c56f6bc92d261a9d6b0d0c426",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Corporate America's Best Earnings In 3 Years: Will Tariffs End Wall Street's Honeymoon?",
+      "author": "Piero Cingari",
+      "published_utc": "2025-02-10T15:24:25Z",
+      "article_url": "https://www.benzinga.com/government/regulations/25/02/43596413/corporate-americas-best-earnings-in-3-years-will-tariffs-end-wall-streets-honeymoon",
+      "tickers": [
+        "AMZN",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "META"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/02/10/Wall-Street-bull.png?width=1200&height=800&fit=crop",
+      "description": "Corporate America reported its strongest earnings growth in 3 years, with S&P 500 companies posting a 16.4% year-over-year increase in Q4 2024. However, concerns over tariffs and their impact on costs and supply chains have dampened investor confidence, leading to muted stock price reactions despite the strong earnings.",
+      "keywords": [
+        "earnings",
+        "tariffs",
+        "S&P 500",
+        "corporate America"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon reported EPS of $1.86, well above the $1.49 estimate, fueling a 24.6% growth in the Consumer Discretionary sector."
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Goldman Sachs reported strong bank results, contributing to a 51.2% earnings growth in the Financials sector."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Goldman Sachs reported strong bank results, contributing to a 51.2% earnings growth in the Financials sector."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Goldman Sachs reported strong bank results, contributing to a 51.2% earnings growth in the Financials sector."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Goldman Sachs reported strong bank results, contributing to a 51.2% earnings growth in the Financials sector."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase reported strong bank results, contributing to a 51.2% earnings growth in the Financials sector."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase reported strong bank results, contributing to a 51.2% earnings growth in the Financials sector."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase reported strong bank results, contributing to a 51.2% earnings growth in the Financials sector."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase reported strong bank results, contributing to a 51.2% earnings growth in the Financials sector."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase reported strong bank results, contributing to a 51.2% earnings growth in the Financials sector."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase reported strong bank results, contributing to a 51.2% earnings growth in the Financials sector."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase reported strong bank results, contributing to a 51.2% earnings growth in the Financials sector."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase reported strong bank results, contributing to a 51.2% earnings growth in the Financials sector."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Meta Platforms reported EPS of $8.02, smashing expectations of $6.76, leading to a 30.2% growth in the Communication Services sector."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:56:10.526411+00:00",
+    "cache_key": "news_7af4a968b2c408a0c65750ad187fe75c",
+    "count": 1
+  }
+}

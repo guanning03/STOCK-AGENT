@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures climb after Dow's record-setting rally",
+      "description": "US stock futures were steady Monday night as investors took time to settle following a record close for the Dow Jones.",
+      "published_utc": "2026-01-05T18:52:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ee172798e03c9bffba6c5b9c93f3a873d59c5591eb0dbce84beb9f59ff7a4e17",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137997505,
+      "datetime": 1767657137
+    },
+    {
+      "title": "Nvidia accelerates AI roadmap: Rubin superchip in full production, 5x faster",
+      "description": "Investing.com -- NVIDIA Corporation (NASDAQ:NVDA) is accelerating its release cycle, announcing at the CES 2026 convention on Monday that its highly anticipated Rubin data center products are in full production and nearing release this year.",
+      "published_utc": "2026-01-05T18:46:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cb9666cf769e3d0b12a7a422949feee103afc656f129cae5ee5c4069116682ce",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137997506,
+      "datetime": 1767656806
+    },
+    {
+      "title": "Microsoft’s Nadella wants us to stop thinking of AI as ‘slop’",
+      "description": "Nadella wants us to think of AI as a human helper instead of a slop-generating job killer. New data for 2026 indicates he could be right.",
+      "published_utc": "2026-01-05T18:09:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f319405cc7fa0f316dcd072d1c981f31cfcca7c0d317ba00e65d7650d2487754",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137997536,
+      "datetime": 1767654596
+    },
+    {
+      "title": "Nvidia launches Vera Rubin, its next major AI platform, at CES 2026",
+      "description": "Nvidia launched its latest Vera Rubin superchip at CES 2026 on Monday.",
+      "published_utc": "2026-01-05T17:57:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2ea820e60f16b2d051416fa582c3b9986bb0fe69eae4e3a19b830d23fdcfba2b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137997540,
+      "datetime": 1767653868
+    },
+    {
+      "title": "Stock Market Today, Jan. 5: Dow Hits Record High on Energy Stocks Rally After Venezuela Developments",
+      "description": "Today, Jan. 5, 2026, energy giants and banks are steering Wall Street higher as traders frame Venezuela's turmoil as an investment opening.",
+      "published_utc": "2026-01-05T17:33:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=92526db3b82f673b282294db9fbd584c4020a60ce5b984a2a1acea33ea45590c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137997557,
+      "datetime": 1767652426
+    }
+  ]
+}

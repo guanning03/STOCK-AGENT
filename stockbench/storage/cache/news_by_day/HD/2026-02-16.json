@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "FDIS: Consumer Discretionary Dashboard For February",
+      "description": "Consumer services look 14% undervalued with strong quality, while autos/components are most overpriced. Read here for an analysis of FDIS ETF.",
+      "published_utc": "2026-02-16T18:13:32",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c9275675632dbc652aa87a63b18518de2c6056e0686a4a6f2e304cc45e117227",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1252468735/image_1252468735.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139119383,
+      "datetime": 1771283612
+    },
+    {
+      "title": "Lowe’s CEO used to make $4.35 an hour working at Target. His secret to climbing the corporate ladder was volunteering for jobs ‘nobody else wanted’",
+      "description": "“I had to find a way to differentiate myself,” Marvin Ellison said.",
+      "published_utc": "2026-02-16T07:54:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8db11a3d02064d0367274178ae6e3051c62d394239df5a7fabb56710a8c3b553",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139115814,
+      "datetime": 1771246444
+    },
+    {
+      "title": "Truist Raises The Home Depot, Inc. (HD) Price Target to $405, Reiterates Buy",
+      "description": "We recently published an article titled 9 Best Lumber Stocks to Invest in Now. The Home Depot, Inc. (NYSE:HD) is among the best lumber stocks to invest in now. On January 16, Truist raised its price target on The Home Depot to $405 from $390 and reiterated a Buy rating, citing stable December sales trends […]",
+      "published_utc": "2026-02-16T07:14:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9dc952764814fbcf85009e15dccf039cc0f32cc5a6088fdd30aad1020872f949",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139114150,
+      "datetime": 1771244047
+    }
+  ]
+}

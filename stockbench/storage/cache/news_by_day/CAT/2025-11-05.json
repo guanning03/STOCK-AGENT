@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Here’s How Markets Closed After the Supreme Court Heard Tariff Arguments",
+      "description": "U.S. indexes finished higher Wednesday afternoon, with a rebound in AI stocks helping lift the Nasdaq composite 0.6%.   Strong earnings and optimism from U.S. companies also spurred gains, with a rally in Amgen and Caterpillar shares lifting the Dow.",
+      "published_utc": "2025-11-05T16:05:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a081b8eee3ed692249af806abc8ec6cbf92992c79d706e78ce1c94b2be623cfa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137345726,
+      "datetime": 1762376727
+    },
+    {
+      "title": "Nvidia, Apple Were Not Among October's Top 3 Dow Stocks",
+      "description": "Dow stocks overall rose 2.5% in October. It was the index's best month since August and extended a win streak to six straight months.",
+      "published_utc": "2025-11-05T14:32:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b8a4d8a0e870c78a9052dcf900b8718d2424590e885df35f482bc1b2d23c754b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137340156,
+      "datetime": 1762371170
+    },
+    {
+      "title": "Chart Master: One buy and one sell",
+      "description": "Carter Worth, Worth Charting, talks what stocks he is looking to buy and what stock he is looking to sell between Roku and Caterpillar based on technical indicators.",
+      "published_utc": "2025-11-05T12:52:46",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=77200407aef587c18949c4260f2333ba6eaf87d0ed90b9bd6cd22914d9e3776b",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108222107-17623829331762382931-42428183614-1080pnbcnews.jpg?v=1762382933&w=1920&h=1080",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137344803,
+      "datetime": 1762365166
+    },
+    {
+      "title": "U.S. Markets Stabilize After Tech Rout",
+      "description": "U.S. Markets Stabilize After Tech Rout",
+      "published_utc": "2025-11-05T11:33:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=a09e465c1c69af00e380dc6ab4c9c18c1f4fe583a64dad4fce84867c28680dee",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137456797,
+      "datetime": 1762360380
+    },
+    {
+      "title": "Caterpillar Stock Is Up. Why Wall Street Is More Optimistic.",
+      "description": "Wall Street appears to be feeling better about Caterpillar stock after the heavy machinery maker’s event for analysts and investors.  The event, held in in Arlington, Texas, on Tuesday, included a tour of  Caterpillar’s  Solar Turbines facility, which manufactures industrial, natural-gas-powered turbines for power generation applications.  Along with product demonstration, Caterpillar management provided 2030 financial targets.",
+      "published_utc": "2025-11-05T10:57:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cdc6eef93a7d68611fb06f7e29975b9aace5356559b6af3e067df00f90f7c8dc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137337682,
+      "datetime": 1762358220
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "AMD earnings, Netflix-Warner Bros. hearing: What to Watch",
+      "description": "Market Domination Overtime Host Josh Lipton previews several of the biggest stories to come tomorrow, Tuesday, February 3, including earnings results from companies like Advanced Micro Devices (AMD), Chipotle Mexican Grill (CMG), Pfizer (PFE), and Merck (MRK), and the Senate hearing on Netflix's (NFLX) proposed bid to acquire Warner Bros. Discovery (WBD). To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.",
+      "published_utc": "2026-02-02T19:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4ee5d7b830f8532018efe43aa21a2c2c8099f91e6a26d7cd230d9a1df55a74d4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138337318,
+      "datetime": 1770076800
+    },
+    {
+      "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session",
+      "description": "The Dow Industrials climbed more than 500 points Monday, as traders managed to look past declines in gold, silver and bitcoin.",
+      "published_utc": "2026-02-02T13:54:54",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=cbae1ceb41ec1561cfbd89c8e0d09e305462e0691852f491940abb97d129358f",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108217779-1761657490524-gettyimages-2226754588-US_STOCKS.jpeg?v=1761657538&w=1920&h=1080",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138343476,
+      "datetime": 1770058494
+    },
+    {
+      "title": "Amgen Stock: Is Wall Street Bullish or Bearish?",
+      "description": "Are Wall Street analysts bullish or bearish on Amgen’s stock prior to its Q4 earnings release?",
+      "published_utc": "2026-02-02T09:00:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=77cb484302eb0b454b33f877b4eadc03bed760e92d0eca190f228a6126c58019",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138333778,
+      "datetime": 1770040837
+    },
+    {
+      "title": "Amgen hands back eczema drug to Kyowa Kirin despite positive late-stage data",
+      "description": "Kyowa Kirin will file for rocatinlimab’s US approval, which was once Amgen’s most late-stage pipeline candidate.",
+      "published_utc": "2026-02-02T06:59:11",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b77d278509f439d1751d65fccabab571cc5f94b917612c250fc3ec35d3f2a32e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138331693,
+      "datetime": 1770033551
+    },
+    {
+      "title": "Exploring Amgen's Earnings Expectations",
+      "description": "",
+      "published_utc": "2026-02-02T06:01:22",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=8cbe7e2d3f489cb20fa6bedb8ae6ab2a0920b1b138248f7b05187d10a0d10193",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/06/earnings_preview_14.jpg?width=2048&height=1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138666506,
+      "datetime": 1770030082
+    }
+  ]
+}

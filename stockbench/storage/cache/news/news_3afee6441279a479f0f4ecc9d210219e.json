@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Trading Rotation Kicks Off 2nd Half of 2025",
+      "description": "Tech stocks lagged after a very strong first half of the year, while healthcare led the way.",
+      "published_utc": "2025-07-01T18:09:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9f001392d0002986a87586a58bfaf4a7ff645f5ecc55740cb69c6ac029fee036",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135699842,
+      "datetime": 1751407740
+    },
+    {
+      "title": "Stock Market Today: Dow jumps; S&P 500 and Nasdaq slip",
+      "description": "President Trump and Elon Musk continue to feud. Nike and Apple boost the Dow.",
+      "published_utc": "2025-07-01T12:11:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6ac22dc656ad94e90e74c223a57e6e0a640156b80dbc5e8dfb30ec9e22b4f313",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135694490,
+      "datetime": 1751386283
+    },
+    {
+      "title": "Investors Heavily Search Amgen Inc. (AMGN): Here is What You Need to Know",
+      "description": "Amgen (AMGN) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+      "published_utc": "2025-07-01T09:00:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=42d8ecd4da11cd1c313dbbc8a12cec42bc6d7092ae956d6ac76736a151eb6f0f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135694217,
+      "datetime": 1751374803
+    },
+    {
+      "title": "Dow up nearly 500 points on gains in Amgen, Merck stocks",
+      "description": "Dow up nearly 500 points on gains in Amgen, Merck stocks",
+      "published_utc": "2025-07-01T08:15:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=1c6d3b4186a76d5225de09218dc8bc43210d3a4778efb05914b4baa6e8a50e47",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135729841,
+      "datetime": 1751372100
+    },
+    {
+      "title": "Dow's 300-point rally highlighted by gains in Amgen, Merck shares",
+      "description": "Dow's 300-point rally highlighted by gains in Amgen, Merck shares",
+      "published_utc": "2025-07-01T07:14:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=d71523d544b94030d53eb6b87630c8a93b7a7ac763b72501532ba7fd0a8134ed",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135729800,
+      "datetime": 1751368440
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T00:47:23.347802+00:00",
+    "cache_key": "news_3afee6441279a479f0f4ecc9d210219e",
+    "count": 5
+  }
+}

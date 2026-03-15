@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures mostly up with Fed decision, slew of Big Tech earnings on deck",
+      "description": "US stock futures made gains with investors eyeing the upcoming Fed policy decision following another record-setting session on Wall Street.",
+      "published_utc": "2025-10-28T18:54:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1f131f0e416eabec751b64f0a1aa466b2018461d3061b779faba0e51f5915f0a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137243114,
+      "datetime": 1761692071
+    },
+    {
+      "title": "New Record Closing Highs Ahead of Fed Cut, Mag 7 Earnings",
+      "description": "Companies reporting earnings Wednesday include Alphabet, Meta, Microsoft, Boeing, Chipotle and Starbucks.",
+      "published_utc": "2025-10-28T18:21:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c16640670783d47cebe5bf287eac7b809930cb30324f660ee14b6c2cf7b198a5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137243115,
+      "datetime": 1761690060
+    },
+    {
+      "title": "Stock Market Today: Dow Ends At Record High; Nvidia Surges As Microsoft Hits Rare Milestone (Live Coverage)",
+      "description": "The Dow and other major indexes closed at record highs on Tuesday. Microsoft joins an elite club of one.",
+      "published_utc": "2025-10-28T17:01:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=684e14bc12d7c0bf3325c53d4462d4ff81b3573126694d66957e80f14cc88c09",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137243116,
+      "datetime": 1761685291
+    },
+    {
+      "title": "Earnings live: Wayfair stock soars following Q3 results, PayPal rises, Royal Caribbean slides",
+      "description": "Third quarter earnings season is ramping up, and analysts expect S&P 500 companies grew their profits by 8% during the quarter.",
+      "published_utc": "2025-10-28T17:01:28",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6062b56a91ddcba739e6af9599195a7f9b6ed2e993c1d2aa553a62f1b23d2e9c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137243117,
+      "datetime": 1761685288
+    },
+    {
+      "title": "US Equities Extend Record Run on Upbeat Earnings Ahead of Fed Decision",
+      "description": "US equity benchmarks notched a third straight session of record highs on Tuesday amid upbeat earning",
+      "published_utc": "2025-10-28T16:58:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a224b7dcf4422c3258fee272fa2243d3f72ef02d61c3bd411c81bd2fdee73de3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137243118,
+      "datetime": 1761685117
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:08:57.199571+00:00",
+    "cache_key": "news_2ad6227533234eda76bc433497f1bca1",
+    "count": 5
+  }
+}

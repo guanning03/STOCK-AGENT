@@ -1,0 +1,107 @@
+{
+  "items": [
+    {
+      "id": "24a597622f9386e7b7b68c96fdda15cfe36a7ed2a6cbe7c9d823ae5b9d259b6e",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Ultimate Growth Stock to Buy With $1,000 Right Now",
+      "author": "Brett Schafer",
+      "published_utc": "2025-10-12T09:11:00Z",
+      "article_url": "https://www.fool.com/investing/2025/10/12/the-ultimate-growth-stock-to-buy-with-1000-right-n/?source=iedfolrf0000001",
+      "tickers": [
+        "LULU",
+        "NKE",
+        "AXP"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/837270/lululemon_logo_on_building_lulu.jpg",
+      "description": "Despite current stock price challenges, Lululemon shows strong potential for global expansion, particularly in China and Europe, with opportunities to grow annual sales to $20-30 billion in the next decade.",
+      "keywords": [
+        "athleisure",
+        "international growth",
+        "stock buyback",
+        "market expansion"
+      ],
+      "insights": [
+        {
+          "ticker": "LULU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong international growth (24% in China), potential for global market expansion, low P/E ratio, aggressive share buyback program, and resilient revenue performance compared to competitors"
+        },
+        {
+          "ticker": "NKE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as experiencing declining sales in North American markets"
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a new marketing partner for Lululemon with potential to drive customer spending"
+        }
+      ]
+    },
+    {
+      "title": "Stocks dip as government shutdown continues, rare earths rally: What to watch this week",
+      "description": "The stock market will enter the second full week of the government shutdown. Investors will also focus on big bank earnings.",
+      "published_utc": "2025-10-12T07:46:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e6b316218fb0482c8842f2365aacd8c0c4f277ac09b91c81d7a59a6b59277ecd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137059337,
+      "datetime": 1760269589
+    },
+    {
+      "title": "What to Expect in Markets This Week: Big Bank Earnings, Fed Speakers, Shutdown Data Delays",
+      "description": "Coming up: reports from JPMorgan and other big banks, a bond market holiday, shutdown-related data delays, and remarks from top Fed and government officials.",
+      "published_utc": "2025-10-12T06:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=90c67e1ae1d4207e24588a03741c7c2208e5478dc664985e3a4f39b13d551e78",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137058812,
+      "datetime": 1760263200
+    },
+    {
+      "title": "Wall Street Week Ahead",
+      "description": "Get the latest on Q3 earnings, U.S.-China trade tensions, and top income investment tips.",
+      "published_utc": "2025-10-12T02:57:44",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a11c5cd6f570b6f227e43353a599775cb9199a9e03d6d94344fb8c8120f5b941",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/530828900/image_530828900.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137057534,
+      "datetime": 1760252264
+    },
+    {
+      "title": "American Express (AXP): Taking Stock of Valuation After a Recent 3% Share Price Dip",
+      "description": "American Express (AXP) shares have been a point of conversation among investors after a modest dip of about 3% over the past month. The company’s steady revenue and net income growth continue to draw close attention from market watchers. See our latest analysis for American Express. Even with American Express’ recent 1-month share price return of -2.8%, the bigger picture shows momentum remains on its side, as shareholders have seen an impressive 15.8% total return over the past year and over...",
+      "published_utc": "2025-10-12T01:12:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2c9f0b5e38580f269732c74adffe0579d819295eef5a1007bb1b00135cacdc2b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137063641,
+      "datetime": 1760245972
+    }
+  ]
+}

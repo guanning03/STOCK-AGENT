@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "We Could Be In For A Flat Market In 2026",
+      "description": "Markets in 2026 could stall if mega-cap âTrillionairesâ fade.",
+      "published_utc": "2026-01-25T18:51:52",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9fb0ac426f854c1b2c59d736c001c7983ab20828da211a53ea54a64f558b4575",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2236585686/image_2236585686.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138258236,
+      "datetime": 1769385112
+    },
+    {
+      "title": "Dow Jones Futures Fall; Trump Tariffs, Government Shutdown, Big Earnings In Focus",
+      "description": "President Donald Trump threatened a 100% tariff on Canada. Government shutdown risks soared. Tesla, Microsoft, Meta, Apple learnings loom.",
+      "published_utc": "2026-01-25T18:40:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d7eac97034f9f0f9fa212be8bd56d54592fd890060b8e3c866961d48b30413e7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138256768,
+      "datetime": 1769384429
+    },
+    {
+      "title": "Stock Futures Are Falling Ahead of Fed Meeting as Shutdown Fears Rise",
+      "description": "Investors are looking forward to a busy week of earnings, including one-fifth of the S&P 500 companies, and four of the Magnificent Seven stocks reporting results this week.",
+      "published_utc": "2026-01-25T18:31:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=797f5b82c67bdc12201e74a6c116d056c3bafc58b9ef025f8da6c32505ece4a6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138257942,
+      "datetime": 1769383860
+    },
+    {
+      "title": "Tracking Baillie Gifford's 13F Portfolio - Q4 2025 Update",
+      "description": "",
+      "published_utc": "2026-01-25T17:56:37",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b3383b9e7185db3ec63aa0b8161e4799d83f1e4e26f1c6a36c00caa6bccdf604",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138257955,
+      "datetime": 1769381797
+    },
+    {
+      "title": "Dow Jones Futures Due With Trump Tariffs, Government Shutdown, Big Earnings In Focus",
+      "description": "President Donald Trump threatened a 100% tariff on Canada. Government shutdown risks soared. Tesla, Microsoft, Meta, Apple learnings loom.",
+      "published_utc": "2026-01-25T14:04:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3dfee4f0f03ade3709bca628ad052b75e740be90e1f536f5b5e7d25a25d958a4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138255790,
+      "datetime": 1769367865
+    }
+  ]
+}

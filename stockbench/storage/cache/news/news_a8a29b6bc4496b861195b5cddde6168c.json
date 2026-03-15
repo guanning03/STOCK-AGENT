@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Primed For A Bear Market Rally",
+      "description": "Steepness of S&P 500 drop pushes past what is sustainable, and S&P 500 should bounce soon. Read why I believe investors should reduce allocation to US equities.",
+      "published_utc": "2025-04-06T19:59:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=22a4b85de8f449422b24d1453f7121a4e4f66f54bf48a3354f05421b22b48f7e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1219980039/image_1219980039.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133734982,
+      "datetime": 1743983940
+    },
+    {
+      "title": "Amid Tariff Hand-Wringing, Jobs Blow Past Expectations",
+      "description": "The Bureau of Labor Statistics reported 228,000 new jobs in March, well surpassing expectations. Read why we expect 2025 Q1 GDP to print somewhere around 1%.",
+      "published_utc": "2025-04-06T17:53:49",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3164d0ec7e5b7ef558e917bbdce05c8cb9c243b7537b8315f272cc64b9ff7429",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2189862167/image_2189862167.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133734512,
+      "datetime": 1743976429
+    },
+    {
+      "title": "Humpty Dumpty Was Pushed",
+      "description": "",
+      "published_utc": "2025-04-06T12:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f0f48796f56b86752066984d6ed3137df9cc015e6d0c9bfdb121668d41ab2668",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133733309,
+      "datetime": 1743955200
+    },
+    {
+      "title": "S&P 500: Stay Safe And React - Week Starting 7th April (Technical Analysis)",
+      "description": "Discover strategies to navigate the S&P 500's rare 10% drop.",
+      "published_utc": "2025-04-06T12:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=05a1a610b9a82ab7b64f655fdc484033ec7600b936e686d44d97b0bb458e4213",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1358927461/image_1358927461.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133733308,
+      "datetime": 1743955200
+    },
+    {
+      "title": "Wall Street Brunch: Can Earnings Season Lure Out Battered Bulls?",
+      "description": "Commentary on tariffs and the consumer will be in the spotlight March core CPI forecast to drop to annual rate of 3% Bill Ackman calls for tariff delay.",
+      "published_utc": "2025-04-06T10:50:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=65fa8baf6bfe43be87b6432720be3c578295b866c4532940489fd303a1257737",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/104271845/image_104271845.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133733094,
+      "datetime": 1743951000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T23:11:34.245393+00:00",
+    "cache_key": "news_a8a29b6bc4496b861195b5cddde6168c",
+    "count": 5
+  }
+}

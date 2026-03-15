@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": "7cca7f29c083eb2c70f750a367d1cd11217e0744f1617281a9803d0e20d45842",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Could Buying Kraft Heinz Stock Today Set You Up for Life?",
+      "author": "Reuben Gregg Brewer",
+      "published_utc": "2025-01-12T17:05:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/12/could-buying-kraft-heinz-stock-today-set-you-up-fo/?source=iedfolrf0000001",
+      "tickers": [
+        "KHC",
+        "PG",
+        "UL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803297/24_07_01-a-person-with-their-hands-out-as-if-weighing-their-options-_mf-dload-gettyimages-1125894475-1199x800-cfc1e94.jpg",
+      "description": "Kraft Heinz is a consumer staples company with a portfolio of iconic brands, but it has struggled with a business turnaround. While the high dividend yield of 5.3% may be attractive, the company's performance has been mixed, and it may take time for the turnaround efforts to pay off. Investors with a long-term horizon may find the stock interesting, but those looking for immediate growth may want to avoid it.",
+      "keywords": [
+        "Kraft Heinz",
+        "consumer staples",
+        "business turnaround",
+        "dividend yield"
+      ],
+      "insights": [
+        {
+          "ticker": "KHC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Kraft Heinz has a compelling core business with iconic brands, but it has struggled with a business turnaround. The company's performance has been mixed, and it may take time for the turnaround efforts to pay off. Investors with a long-term horizon may find the stock interesting, but those looking for immediate growth may want to avoid it."
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that the approach Kraft Heinz is attempting to take is similar to the one that has worked well for peers like Procter & Gamble, suggesting that Kraft Heinz could potentially turn things around if given enough time."
+        },
+        {
+          "ticker": "UL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that the approach Kraft Heinz is attempting to take is similar to the one that has worked well for peers like Unilever, suggesting that Kraft Heinz could potentially turn things around if given enough time."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:39:37.209455+00:00",
+    "cache_key": "news_9f6587f2c3ff28e1f609f007ee6481c9",
+    "count": 1
+  }
+}

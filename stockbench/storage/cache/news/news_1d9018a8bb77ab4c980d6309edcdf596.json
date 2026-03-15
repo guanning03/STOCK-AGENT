@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "3 Beaten-Down Stocks That Could Rebound in 2026",
+      "description": "The Blackstone Group, The Trade Desk and Salesforce stocks have all been beaten down this year. Could 2026 be a turnaround year for them?",
+      "published_utc": "2025-12-31T13:47:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=53447c1f9f32ef9b331c673b604bb4b1e2fc0a69c43b15a50f1238aba505aa92",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137975977,
+      "datetime": 1767206820
+    },
+    {
+      "title": "Salesforce: Top Pick For 2026, The Death Of SaaS Has Been Overstated",
+      "description": "Salesforce (CRM) looks undervalued as Agentforce ARR surges 330% YoY, margins expand, and buybacks continue.",
+      "published_utc": "2025-12-31T13:30:56",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=61845166a2a0efe30171cf22689f6da1c49f6eeaf27231055714b16c2a466ec8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1485563103/image_1485563103.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137953107,
+      "datetime": 1767205856
+    },
+    {
+      "title": "5 Dow Jones Stocks Fell Over 10% in 2025. Here's Why They Are All Contrarian Buys for 2026.",
+      "description": "Buying high-quality companies when they are out of favor can pay off in the long run.",
+      "published_utc": "2025-12-31T12:55:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=38ea0342f30936811f08b060cb7d7e16ead4d62605b4744bcfe87d2af061bb88",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137975978,
+      "datetime": 1767203700
+    },
+    {
+      "title": "Robo-Taxis and Home Runs? 40 Overlooked Bargain Stocks for 2026.",
+      "description": "Uber Technologies and the Braves are on the latest Forgotten Forty list of value stocks from John Boyar.",
+      "published_utc": "2025-12-31T11:34:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=106d5bcf3a9655d8a8a84b6a2e23d6b057765535f1c48e2ed50a93a5818d4936",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137950014,
+      "datetime": 1767198840
+    },
+    {
+      "title": "Atlassian: Strong Fundamentals, Temporary Market Skepticism",
+      "description": "Atlassian Corporation's Q1 2026 shows robust growth as RPO hits $3.3B and AI products expand productivity. Click for more on TEAM stock and its prospects.",
+      "published_utc": "2025-12-31T11:15:24",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=272cbd2d3ce3b1b09e091c47330158805953f242b409a0ab3770c2f8121062cb",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1309520292/image_1309520292.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137952687,
+      "datetime": 1767197724
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T00:47:27.022079+00:00",
+    "cache_key": "news_1d9018a8bb77ab4c980d6309edcdf596",
+    "count": 5
+  }
+}

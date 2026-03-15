@@ -1,36 +1,6 @@
 {
   "items": [
     {
-      "title": "UNH Investor News: Rosen Law Firm Announces Investigation of Breaches of Fiduciary Duties by the Directors and Officers of UnitedHealth Group Incorporated",
-      "description": "Rosen Law Firm, a global investor rights law firm, announces it is investigating potential breaches of fiduciary duties by the directors and officers of UnitedHealth Group Incorporated in connection...",
-      "published_utc": "2025-02-22T21:01:03",
-      "source": "Finnhub",
-      "url": "https://finnhub.io/api/news?id=9cba3a1047def7497d1f0ada0d4ed3133414cf1d7e1a1e5106d5cc818517e168",
-      "category": "company",
-      "image": "",
-      "related_symbols": [
-        "UNH"
-      ],
-      "api_source": "finnhub_company",
-      "id": 132834383,
-      "datetime": 1740229263
-    },
-    {
-      "title": "How To Invest $100,000 In A Near-Perfect Portfolio",
-      "description": "Discover why it's still a good time to invest despite overvalued markets. Click for my selection process to find the absolute best choices for your portfolio.",
-      "published_utc": "2025-02-22T16:00:00",
-      "source": "SeekingAlpha",
-      "url": "https://finnhub.io/api/news?id=688b9ac76254308fe96f2493f510e1390bad96ed59601b1faf5b88eacba60568",
-      "category": "company",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/895853900/image_895853900.jpg?io=getty-c-w1536",
-      "related_symbols": [
-        "UNH"
-      ],
-      "api_source": "finnhub_company",
-      "id": 132833266,
-      "datetime": 1740211200
-    },
-    {
       "id": "860a699f7e688e74e5747dd088d4ed5d0fb87c6c693e409f8ab4e3c83db5a09d",
       "publisher": {
         "name": "GlobeNewswire Inc.",
@@ -165,8 +135,8 @@
     }
   ],
   "metadata": {
-    "cached_at": "2025-09-25T11:32:28.408239+00:00",
+    "cached_at": "2026-03-13T22:20:42.396421+00:00",
     "cache_key": "news_f67bc52c9c5c07f041d87122cde1d683",
-    "count": 4
+    "count": 2
   }
 }

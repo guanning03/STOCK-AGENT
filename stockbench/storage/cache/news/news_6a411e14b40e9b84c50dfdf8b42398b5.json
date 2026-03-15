@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Tracking Baillie Gifford's 13F Portfolio - Q3 2025 Update",
+      "description": "",
+      "published_utc": "2025-11-02T14:11:17",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ea5e3c20b5ccfa274d58b7b664e9b03feeec34f4800c5b88526ec05df6e2a54d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137298578,
+      "datetime": 1762110677
+    },
+    {
+      "title": "Sam Altman says ‘enough’ to questions about OpenAI’s revenue",
+      "description": "OpenAI CEO Sam Altman recently said that the company is doing “well more” than $13 billion in annual revenue — and he sounded a little testy when pressed on how it will pay for its massive spending commitments.",
+      "published_utc": "2025-11-02T12:15:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a1c7f16c7cdece16657408b3f475f2ae21022734a0c22d06f71123956f96c30d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137294356,
+      "datetime": 1762103726
+    },
+    {
+      "title": "Elon Musk Calls Out Sam Altman Over Tesla Roadster Refund: 'This Issue Was Fixed and You Received a Refund Within 24 Hours'",
+      "description": "Elon Musk and Sam Altman are once again in a public spat, this time over a car. The latest clash centers on the OpenAI CEO's canceled reservation for the long-delayed Tesla Inc. (NASDAQ:TSLA) Roadster, reigniting tensions between two of Silicon Valley's most prominent figures. Altman shared a series of screenshots earlier this week showing his attempt to cancel his Roadster order and request a refund. He posted, \"A tale in three acts,\" alongside an email confirming a $45,000 payment from 2018, f",
+      "published_utc": "2025-11-02T11:23:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9ac5e00800f518b131239f5aeb2ec95f8cc3d5e5a08dbdd2043bb0815d56b833",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137294357,
+      "datetime": 1762100581
+    },
+    {
+      "title": "Nvidia is the biggest winner from earnings season — and it hasn’t even reported yet",
+      "description": "Nvidia is the biggest winner from earnings season — and it hasn’t even reported yet",
+      "published_utc": "2025-11-02T11:10:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=b1556e20d493c9f9abf9a4dcb3b20494460c077aa090d3d8a872ae70a5558093",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137316615,
+      "datetime": 1762099800
+    },
+    {
+      "title": "I Got Burned by Crypto: 6 Reasons I’ll Try Again — Even If It’s Begrudgingly",
+      "description": "If you've ever invested in cryptocurrency, chances are you've gotten burned at some point. The volatility can wipe out a large chunk of your portfolio...",
+      "published_utc": "2025-11-02T08:06:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ba5322707c3b6dc33701035cc3f1a9f944d1959827b7bcdef4bd5f622d78c5ec",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137294358,
+      "datetime": 1762088767
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:19:12.684296+00:00",
+    "cache_key": "news_6a411e14b40e9b84c50dfdf8b42398b5",
+    "count": 5
+  }
+}

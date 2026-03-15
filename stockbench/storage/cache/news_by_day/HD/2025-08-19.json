@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures slide after bruising day for tech",
+      "description": "Target earnings and Fed minutes are on deck, watched for clues to prospects for the economy and interest rates.",
+      "published_utc": "2025-08-19T19:08:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=abce68f79278df123d12fdacb5456c7bb004de1281d44f8300e45d9568b75088",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136434922,
+      "datetime": 1755644882
+    },
+    {
+      "title": "Tech Experiences Slight Selloff, Dow Ekes +10 Points",
+      "description": "The Dow closed the session up +10 points, +0.02%, while the Nasdaq shed -314 points on the day, -1.46%.",
+      "published_utc": "2025-08-19T17:53:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4109d7e260c2e7ee8978170c3ab4102d51d830deb117628c08569058879419c7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136435030,
+      "datetime": 1755640380
+    },
+    {
+      "title": "Heard on the Street Recap: Big Tech Stumbles, Markets Fall",
+      "description": "Big tech made its weight felt Tuesday as a notable decline among megacap tech stocks pushed major indexes into the red.  The eight companies valued at more than $1 trillion lost a combined $385 billion in market capitalization for the day.",
+      "published_utc": "2025-08-19T17:30:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9dafc946b7fc0e559f3b265f482650aa7ef1b5c564b9b14cc29458a982bbef1c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136435025,
+      "datetime": 1755639002
+    },
+    {
+      "title": "Tracking Ken Fisher's Fisher Asset Management Portfolio - Q2 2025 Update",
+      "description": "Fisher Asset Management's 13F portfolio grew from ~$231B to ~$252B in Q2 2025. Click here to read more about the trades and holdings in the portfolio.",
+      "published_utc": "2025-08-19T17:28:32",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=56de5e09f1b0932814f7d0569bd9fec38384cffa4afcbb6be4df991a558ee1cd",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136433308,
+      "datetime": 1755638912
+    },
+    {
+      "title": "Case Study Uncovers Major Gap in Sliding Screen Doors",
+      "description": "When industry veteran Steve Tristan, founder of BestCustomScreens.com, set out to answer a simple but persistent homeowner's question—\"Where can I buy an 8-foot fully assembled sliding screen door?\"—he uncovered a revealing gap in the U.S. home improvement market.",
+      "published_utc": "2025-08-19T17:21:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4f146fa2fafb335ccd4a4a387f4cf4885a7c5df4198f35a3cedf2b6f7a73e33b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136434952,
+      "datetime": 1755638460
+    }
+  ]
+}

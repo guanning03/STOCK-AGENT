@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Welcome to the Meme Market",
+      "description": "Take Palantir, the defense-technology company whose shares have more than doubled this year.  Alex Karp, Palantir’s eccentric leader, is known as “Daddy Karp” to many of the company’s followers who call themselves “Palantarians.”  Michael Saylor, leader of crypto-buying machine Strategy, has a similar playbook.",
+      "published_utc": "2025-08-26T12:33:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4d6c2c3d269763713ca66b83d55087efecd0837832f6bf238524f0586227d522",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136530095,
+      "datetime": 1756225989
+    },
+    {
+      "title": "Here's What Investors Must Know Ahead of Williams-Sonoma's Q2 Release",
+      "description": "WSM heads into Q2 earnings with stable estimates, digital expansion and margin gains expected to offset housing headwinds.",
+      "published_utc": "2025-08-26T10:48:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bd04a61178034e1fdbf8de45e1a45df010bc574e1cae09867b0cddd7d2f033dd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136530096,
+      "datetime": 1756219680
+    },
+    {
+      "title": "3 Low-Volatility Stocks That Concern Us",
+      "description": "Low-volatility stocks may offer stability, but that often comes at the cost of slower growth and the upside potential of more dynamic companies.",
+      "published_utc": "2025-08-26T09:35:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4a1c2fca778ca43bf43a5a0689e9adc86fb7d8d53c84e1abb46d10392677e7df",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136530097,
+      "datetime": 1756215301
+    },
+    {
+      "title": "Earnings live: Wolfspeed, Bank of Montreal stocks rise as Nvidia's earnings countdown begins",
+      "description": "The gush of second quarter earnings reports is beginning to slow to a trickle, and with most of the reports in, the results have been mostly positive.",
+      "published_utc": "2025-08-26T08:10:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=26641a1eb461f183dd7ab882a1838d8618348c1bf1fe7234c2b79db3e6b16283",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136524317,
+      "datetime": 1756210246
+    },
+    {
+      "title": "Lowe's Or Home Depot? The Surprise Winner In Home Improvement",
+      "description": "Lowe's (LOW) is more earnings-efficient than Home Depot (HD), with improving margins and strong free cash flow conversion despite revenue growth declines.",
+      "published_utc": "2025-08-26T06:44:15",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f13923a2e13b450d10a813dd355b452ae300593eba16cd29f116b29d9ad87414",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2223553208/image_2223553208.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136525742,
+      "datetime": 1756205055
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:48:39.607351+00:00",
+    "cache_key": "news_02f9f842e00218cb85b326973ef2dfa0",
+    "count": 5
+  }
+}

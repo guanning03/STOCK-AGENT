@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "A Closer Look At Full-Time And Part-Time Employment: July 2025",
+      "description": "In July, the number of full-time workers decreased by 440,000 while the number of part-time workers rose by 247,000.",
+      "published_utc": "2025-08-06T16:50:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9c40750c00143e64997bcce51fdaf035805685f4a37fec719feb404272b0da86",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/800476240/image_800476240.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136243399,
+      "datetime": 1754513400
+    },
+    {
+      "title": "The Fed Put And The Trump Call: Goldilocks Zone For Investors",
+      "description": "Asset prices may be priced for perfection amid a weakening economy. Learn why investors shouldn't panic at today's high valuations.",
+      "published_utc": "2025-08-06T12:02:37",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6e494430b3177ae9c27bea5e96005618cbf7a0da551d84437613d24f7071f9e5",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1146697286/image_1146697286.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136240769,
+      "datetime": 1754496157
+    },
+    {
+      "title": "U.S. Equity ETF Demand Surged Last Week Despite Market Selloff",
+      "description": "Despite a sharp market selloff, U.S. equity ETFs drew $16.3B in inflows last week, led by SPY, IVV, VOO, QQQ and ARKK.",
+      "published_utc": "2025-08-06T11:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c6675dd2e1ebcfd33ab47437c34167968097c8b8fdc66619822a3573371ecf11",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136273820,
+      "datetime": 1754492400
+    },
+    {
+      "title": "'Lula rejects 'humiliation' of calling Trump over US-Brazil tariff'- Reuters Exclusive",
+      "description": "BRASILIA, Aug 6 (Reuters) - As U.S. tariffs on Brazilian goods jumped to 50% on Wednesday, Brazil&#39;s President Luiz Inacio Lula da Silva told Reuters in an interview that he saw no room for direct talks with U.S.",
+      "published_utc": "2025-08-06T10:32:51",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=e78c71b268e694dcf77b760bb664ab95e6cafeea7eaeb73af3526b476c68c86a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138551580,
+      "datetime": 1754490771
+    },
+    {
+      "title": "'Swiss President Set to Leave Washington Without Lower Tariffs'- Bloomberg",
+      "description": "https://www.bloomberg.com/news/articles/2025-08-06/swiss-president-set-to-leave-washington-without-lower-tariffs",
+      "published_utc": "2025-08-06T09:09:13",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=1214a9cf1e23c7cfd9feb5e9d9be1404034e2249a2442a4bf6f06138efefcbc4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138504426,
+      "datetime": 1754485753
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:48:25.767552+00:00",
+    "cache_key": "news_3c4c83dc567e34035bef1eefa0b8e054",
+    "count": 5
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "items": [
+    {
+      "id": "5e5ed2c3302b372ba5aabe0865a6f27db3d0c432b2df7bf26da0e647a8d5c2b8",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Lumen Technologies Stock Undervalued Right Now? What Investors Need to Consider.",
+      "author": "Catie Hogan",
+      "published_utc": "2025-11-29T21:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/11/29/is-lumen-technologies-stock-undervalued-right-now/?source=iedfolrf0000001",
+      "tickers": [
+        "LUMN",
+        "T",
+        "TBB",
+        "TpA",
+        "TpC",
+        "VZ",
+        "MSFT",
+        "PLTR"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F844431%2Fgettyimages-1328650251.jpg&w=1200&op=resize",
+      "description": "Lumen Technologies is undergoing a strategic turnaround, focusing on enterprise AI solutions and reducing debt. The company aims to become a backbone in the AI economy through network connectivity and strategic partnerships, with potential for growth if interest rates fall.",
+      "keywords": [
+        "telecommunications",
+        "turnaround",
+        "AI",
+        "debt reduction",
+        "enterprise solutions"
+      ],
+      "insights": [
+        {
+          "ticker": "LUMN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Company shows progress in debt reduction and strategic repositioning, but faces significant challenges including high debt load and legacy business decline"
+        },
+        {
+          "ticker": "T",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a buyer of Lumen's home-fiber business, indicating a potential strategic transaction"
+        },
+        {
+          "ticker": "TBB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a buyer of Lumen's home-fiber business, indicating a potential strategic transaction"
+        },
+        {
+          "ticker": "TpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a buyer of Lumen's home-fiber business, indicating a potential strategic transaction"
+        },
+        {
+          "ticker": "TpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a buyer of Lumen's home-fiber business, indicating a potential strategic transaction"
+        },
+        {
+          "ticker": "VZ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a larger telecom competitor to Lumen"
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Noted as a new partnership for Lumen in enterprise AI ecosystem"
+        },
+        {
+          "ticker": "PLTR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mentioned as a new partnership supporting Lumen's AI strategy"
+        }
+      ]
+    },
+    {
+      "title": "Tesla gives fans an early Christmas gift",
+      "description": "On the surface, Tesla's $1.35 trillion valuation seems wildly out of whack. As of mid-September, Tesla’s price-to-earnings ratio was between 200 and 209, while its forward P/E ratio was around 140 to 180. For comparison, the average price-to-earnings ratio for the Magnificent 7 stocks — a ...",
+      "published_utc": "2025-11-29T14:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3b082f8c847c59c7b8b1c1fd96ca596c3165385c2ef6987917abd71bc1b05ab5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137649683,
+      "datetime": 1764442980
+    },
+    {
+      "title": "Citizens Initiates Market Outperform on IREN Limited (IREN) as it Shifts Focus from Bitcoin Mining to AI High-Performance Computing",
+      "description": "REN Limited (NASDAQ:IREN) ranks among the best short squeeze stocks to buy right now. On November 19, Citizens began coverage of IREN Limited (NASDAQ:IREN) with a $80 price target and a Market Outperform rating. The firm emphasized IREN’s strategic shift from bitcoin mining to providing services in the AI industry’s high-performance computing (HPC) segment, emphasizing […]",
+      "published_utc": "2025-11-29T13:29:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=18e22a35b1349db5db5b9b56e72aacdc8e9b911088f8ee8294b46c43ce0ce3fc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137649684,
+      "datetime": 1764440945
+    },
+    {
+      "title": "Benzinga Bulls And Bears: Alphabet, Reddit, Oklo — And Markets Bounce Bank On Rate Cut Hopes",
+      "description": "Benzinga examined the prospects for many investors&#39; favorite stocks over the last week — here&#39;s a look at some of our top stories.",
+      "published_utc": "2025-11-29T04:01:56",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=07fd131c63c4c2d4e06b84b0ee0484981e25490ee60a64bce05cb56a4ed15d58",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/29/Bulls-and-Bears-1.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138411338,
+      "datetime": 1764406916
+    },
+    {
+      "title": "It All Could Come Down To Depreciation",
+      "description": "Discover key investment opportunities and hidden risks of the AI Revolution.",
+      "published_utc": "2025-11-29T03:42:34",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cc85681e09368b33d94570507fc8cc47016d15d7750a03373bf0dbe809592eed",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2206554650/image_2206554650.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137636409,
+      "datetime": 1764405754
+    }
+  ]
+}

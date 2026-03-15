@@ -1,0 +1,160 @@
+{
+  "items": [
+    {
+      "id": "da15b8b391944c9a74b67313ff35f725bc58dbe1f35e962fca7875a9d9e1e234",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "American Express Is Spiking Higher -- Here's Why",
+      "author": "Matt Frankel",
+      "published_utc": "2025-01-15T20:55:42Z",
+      "article_url": "https://www.fool.com/investing/2025/01/15/american-express-is-spiking-higher-heres-why/?source=iedfolrf0000001",
+      "tickers": [
+        "WFC",
+        "WFCpA",
+        "WFCpC",
+        "WFCpD",
+        "WFCpL",
+        "WFCpY",
+        "WFCpZ",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD",
+        "C",
+        "CpN",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "AXP"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804139/credit-card-2023.jpg",
+      "description": "The stock market is rallying due to tamer-than-expected inflation data and strong bank earnings. Several big banks reported better-than-expected results for the fourth quarter, and the lower inflation increases the likelihood of the Federal Reserve cutting interest rates in 2025, which could be a catalyst for higher bank profits.",
+      "keywords": [
+        "stock market",
+        "inflation",
+        "bank earnings"
+      ],
+      "insights": [
+        {
+          "ticker": "WFC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Wells Fargo reported better-than-expected results and expects net interest income to rise in 2025."
+        },
+        {
+          "ticker": "WFCpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Wells Fargo reported better-than-expected results and expects net interest income to rise in 2025."
+        },
+        {
+          "ticker": "WFCpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Wells Fargo reported better-than-expected results and expects net interest income to rise in 2025."
+        },
+        {
+          "ticker": "WFCpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Wells Fargo reported better-than-expected results and expects net interest income to rise in 2025."
+        },
+        {
+          "ticker": "WFCpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Wells Fargo reported better-than-expected results and expects net interest income to rise in 2025."
+        },
+        {
+          "ticker": "WFCpY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Wells Fargo reported better-than-expected results and expects net interest income to rise in 2025."
+        },
+        {
+          "ticker": "WFCpZ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Wells Fargo reported better-than-expected results and expects net interest income to rise in 2025."
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Goldman Sachs reported better-than-expected results for the fourth quarter."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Goldman Sachs reported better-than-expected results for the fourth quarter."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Goldman Sachs reported better-than-expected results for the fourth quarter."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Goldman Sachs reported better-than-expected results for the fourth quarter."
+        },
+        {
+          "ticker": "C",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Citigroup reported better-than-expected results for the fourth quarter."
+        },
+        {
+          "ticker": "CpN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Citigroup reported better-than-expected results for the fourth quarter."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase reported better-than-expected results for the fourth quarter."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase reported better-than-expected results for the fourth quarter."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase reported better-than-expected results for the fourth quarter."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase reported better-than-expected results for the fourth quarter."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase reported better-than-expected results for the fourth quarter."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase reported better-than-expected results for the fourth quarter."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase reported better-than-expected results for the fourth quarter."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "JPMorgan Chase reported better-than-expected results for the fourth quarter."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "American Express was up by as much as 5% due to the strong bank earnings and tamer-than-expected inflation data."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "items": [
+    {
+      "title": "'Very constructive' on Asia in 2026, with Chinese stocks tipped for 20% gains: Goldman Sachs",
+      "description": "Kevin Sneader, President of APAC ex‑Japan at Goldman Sachs, speaks with CNBC's Emily Tan on the sidelines of the 19th Asian Financial Forum. He points to investor appetite for AI driving flows into Asian markets, while noting key nuances for standouts such as China and South Korea.",
+      "published_utc": "2026-01-25T16:40:12",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=0a7e1206e196e1cd7786a07944b7cbd0ff9b4e54546f718bcd751f830888bca0",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108256782-17693900411769390037-43685661329-1080pnbcnews.jpg?v=1769390040&w=1920&h=1080",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138262892,
+      "datetime": 1769377212
+    },
+    {
+      "title": "'Historical clock is ticking': A global market correction may be coming, warn experts",
+      "description": "The global market rally may be running on borrowed time after a blistering momentum in 2025, with veterans warning that the odds of a correction are rising.",
+      "published_utc": "2026-01-25T15:51:20",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=5875ea60a66aefbfba40f1139a4f7999f172aa544c3b2b31e5ea29aec9118a98",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108018994-1723447631185-gettyimages-2165032008-20090101240806-99-11343.jpeg?v=1744116733&w=1920&h=1080",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138262893,
+      "datetime": 1769374280
+    },
+    {
+      "title": "CNBC Daily Open: Canada is drawing Trump's ire — and faces a 100% tariff",
+      "description": "Trump threatened Canada with tariffs of 100% if it strikes a deal with China. Trump also withdrew an invitation to the Canada to join his \"Board of Peace.\"",
+      "published_utc": "2026-01-25T15:01:58",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=0371760d21171afa9decfaf17986918eadd17cd35133a9c2f220d2739c1ccdb2",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108256210-17691710632026-01-23t023824z_359957567_rc2m6ja3en04_rtrmadp_0_usa-trump.jpeg?v=1769171091&w=1920&h=1080",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138262842,
+      "datetime": 1769371318
+    },
+    {
+      "id": "5d05adb3d02ac2d0cf0c6f18360675221ebcf3eeea0368ad17725df234a05317",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 \"Magnificent Seven\" Stock That's a Clear Fintech Powerhouse",
+      "author": "Neil Patel",
+      "published_utc": "2026-01-25T10:14:00Z",
+      "article_url": "https://www.fool.com/investing/2026/01/25/1-magnificent-seven-stock-clear-fintech-powerhouse/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "VYLD",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F852104%2Fleft-hand-holding-iphone-with-back-showing_getty.png&w=1200&op=resize",
+      "description": "Apple is identified as a fintech powerhouse leveraging its 1+ billion iPhone user base to offer financial services including Apple Pay, Apple Card, and a savings account. While the company's fintech offerings are successful and valuable, the analyst recommends waiting for a significant stock price pullback before investing due to current expensive valuation.",
+      "keywords": [
+        "fintech",
+        "Apple Pay",
+        "Apple Card",
+        "digital wallet",
+        "financial services",
+        "valuation",
+        "Magnificent Seven"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "While Apple's fintech business is described as dominant and successful with strong competitive advantages (brand loyalty, distribution, user base), the analyst explicitly recommends against buying the stock currently due to expensive valuation, suggesting investors wait for a pullback."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mentioned positively as acquiring Apple Card's $20 billion credit card portfolio from Goldman Sachs, demonstrating the value of access to Apple's customer base."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mentioned positively as acquiring Apple Card's $20 billion credit card portfolio from Goldman Sachs, demonstrating the value of access to Apple's customer base."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mentioned positively as acquiring Apple Card's $20 billion credit card portfolio from Goldman Sachs, demonstrating the value of access to Apple's customer base."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mentioned positively as acquiring Apple Card's $20 billion credit card portfolio from Goldman Sachs, demonstrating the value of access to Apple's customer base."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mentioned positively as acquiring Apple Card's $20 billion credit card portfolio from Goldman Sachs, demonstrating the value of access to Apple's customer base."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mentioned positively as acquiring Apple Card's $20 billion credit card portfolio from Goldman Sachs, demonstrating the value of access to Apple's customer base."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mentioned positively as acquiring Apple Card's $20 billion credit card portfolio from Goldman Sachs, demonstrating the value of access to Apple's customer base."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mentioned positively as acquiring Apple Card's $20 billion credit card portfolio from Goldman Sachs, demonstrating the value of access to Apple's customer base."
+        },
+        {
+          "ticker": "VYLD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mentioned positively as acquiring Apple Card's $20 billion credit card portfolio from Goldman Sachs, demonstrating the value of access to Apple's customer base."
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as the previous holder of Apple Card portfolio that was sold to JPMorgan Chase, indicating a business transition rather than positive or negative performance."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as the previous holder of Apple Card portfolio that was sold to JPMorgan Chase, indicating a business transition rather than positive or negative performance."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as the previous holder of Apple Card portfolio that was sold to JPMorgan Chase, indicating a business transition rather than positive or negative performance."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as the previous holder of Apple Card portfolio that was sold to JPMorgan Chase, indicating a business transition rather than positive or negative performance."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:58:19.710925+00:00",
+    "cache_key": "news_985d8a30ca08c791e2ff367ff172168c",
+    "count": 4
+  }
+}

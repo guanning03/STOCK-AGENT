@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "CNBC's China Connection newsletter: New AI players think global from day one",
+      "description": "Chinese startups rush to launch AI tools for overseas markets.",
+      "published_utc": "2026-03-03T18:02:07",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=ea05e3107eedc16bf287ff8898c7706327bdf01a7d644ae2dfe03e638ea2f7a9",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108271804-1772446487199-gettyimages-2226704590-AFP_67ZW463.jpeg?v=1772446504&w=1920&h=1080",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139299299,
+      "datetime": 1772578927
+    },
+    {
+      "title": "Earnings live: Ross Stores stock jumps on upbeat results, CrowdStrike posts slight top- and bottom-line beats",
+      "description": "The S&P 500 was on track for double-digit earnings growth, with more than half of companies having reported Q4 results so far.",
+      "published_utc": "2026-03-03T17:05:58",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4b9c86667566eaf7e4afe368f8422d42ffa0cb0b0ebcbb9bb88c099f5fae086f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139291801,
+      "datetime": 1772575558
+    },
+    {
+      "title": "Salesforce, Inc. (CRM) Presents at Morgan Stanley Technology, Media & Telecom Conference 2026 Transcript",
+      "description": "Salesforce, Inc. (CRM) Morgan Stanley Technology, Media & Telecom Conference 2026 March 3, 2026 5:35 PM ESTCompany ParticipantsRobin Washington -...",
+      "published_utc": "2026-03-03T16:42:12",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e523ee6cbbcf928d6e902f0e7e57c4d9e299338d4db0c4673b93ba92f5cfcdae",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139292806,
+      "datetime": 1772574132
+    },
+    {
+      "title": "Jim Cramer has a clear message for investors during Iran war: Stay in the game",
+      "description": "Jim Cramer Jim Cramer warns investors not to panic during war-driven market volatility.",
+      "published_utc": "2026-03-03T13:45:15",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=46426c97952f8eb5a2ad36a6a464c7c0a8a3bddaf94b2068ed0b2e1b082f615b",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/104571710-IMG_3286r-jim-cramer.jpg?v=1499377462&w=1920&h=1080",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139299529,
+      "datetime": 1772563515
+    },
+    {
+      "title": "7 Software Stocks Immune To AI That The Market Keeps Beating",
+      "description": "AI-driven software selloff may be mispricing infrastructure stocks.",
+      "published_utc": "2026-03-03T13:23:55",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=60c9df609413438a5e520062d5dea9cb9b75a98ed8cf93a7f68094c95b9ea883",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2219944520/image_2219944520.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139291702,
+      "datetime": 1772562235
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T04:00:00.440812+00:00",
+    "cache_key": "news_fca2bdf3ebf5baba838500e3133d60d5",
+    "count": 5
+  }
+}

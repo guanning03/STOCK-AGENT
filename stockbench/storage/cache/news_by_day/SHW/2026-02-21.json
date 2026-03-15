@@ -1,0 +1,71 @@
+{
+  "items": [
+    {
+      "id": "23222fd504d6f1503f5875e5f6a93a7c261ee6f23d110c271c3d4b5a7071a6c8",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Industrial Coatings Market Size to Surpass USD 176.06 Billion by 2035",
+      "author": "Towards Chemical And Materials",
+      "published_utc": "2026-02-21T14:29:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2026/02/21/3242229/0/en/Industrial-Coatings-Market-Size-to-Surpass-USD-176-06-Billion-by-2035.html",
+      "tickers": [
+        "AXTA",
+        "PPG",
+        "SHW",
+        "RPM",
+        "BASFY",
+        "AKZOY"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "description": "The global industrial coatings market, valued at USD 117.13 billion in 2025, is projected to grow to USD 176.06 billion by 2035 at a CAGR of 4.16%. Asia Pacific dominates with 40.19% market share. The market is driven by sustainability targets, technological innovation, and a shift from solvent-based to low-emission technologies including water-borne, powder, and UV-curable systems. Key trends include electric vehicle integration, smart coatings with self-healing properties, and circular chemistry adoption.",
+      "keywords": [
+        "industrial coatings",
+        "market growth",
+        "sustainability",
+        "low-VOC coatings",
+        "water-borne coatings",
+        "powder coatings",
+        "Asia Pacific",
+        "electric vehicles",
+        "smart coatings",
+        "corrosion resistance"
+      ],
+      "insights": [
+        {
+          "ticker": "AXTA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Announced merger of equals with AkzoNobel in November 2025, positioning the combined entity as a premier global coatings company with broader portfolios and improved competitive dynamics."
+        },
+        {
+          "ticker": "PPG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Major player in the growing industrial coatings market benefiting from increased demand for protective coatings, infrastructure investment, and shift toward sustainable solutions."
+        },
+        {
+          "ticker": "SHW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Key market participant positioned to benefit from strong demand in North America driven by infrastructure refurbishment, energy transition projects, and adoption of high-performance coatings."
+        },
+        {
+          "ticker": "RPM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Listed as a key company in the industrial coatings sector, benefits from market growth driven by sustainability trends and technological innovation."
+        },
+        {
+          "ticker": "BASFY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Listed as a key company in the industrial coatings market. Benefits from growing demand for sustainable coating solutions and technological innovation in the sector."
+        },
+        {
+          "ticker": "AKZOY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Key market player announced an all-stock merger with Axalta in November 2025, creating one of the world's largest coatings entities with enhanced growth prospects and profitability."
+        }
+      ]
+    }
+  ]
+}

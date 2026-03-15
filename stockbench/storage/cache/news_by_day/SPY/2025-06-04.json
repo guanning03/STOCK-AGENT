@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Labor Pains Without The Epidural",
+      "description": "",
+      "published_utc": "2025-06-04T16:25:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=798eb45821a2b353a10f1b6597494be562a07e1322fd93e27db3c939a9e1a940",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135032283,
+      "datetime": 1749068700
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq hum along as Treasury yields sink after weak ADP jobs data",
+      "description": "US stocks inched higher as Wall Street largely shrugged off tariff risks, even as President Trump doubled duties on steel and aluminum imports.",
+      "published_utc": "2025-06-04T16:05:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7cce9a8f7237466b85c5a7102cd5cc573fcdb6469119a5d53cdb1c85b96339fe",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135033849,
+      "datetime": 1749067547
+    },
+    {
+      "title": "Dollar Trends Lower While Loonie Gets Dragged - North American Mid-Week Market Update",
+      "description": "The Dollar index is consolidating below the 100.00 level for the second consecutive week as Tuesdayâs rally in the USD was not strong enough to hold.",
+      "published_utc": "2025-06-04T16:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0e1292c8b77277bae6ec920508fd7c233a5b2662a85f518d63550529a1341d3e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/458630681/image_458630681.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135031048,
+      "datetime": 1749067200
+    },
+    {
+      "title": "SOXQ's Performance May Be Weighted Down By The Broader Semiconductor Market",
+      "description": "Invesco PHLX Semiconductor ETF offers concentrated exposure to semiconductor sector, but much of its portfolio is tied to non-AI markets. Read why SOXQ is a Hold.",
+      "published_utc": "2025-06-04T13:57:25",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=78769f0e04fcb3ba74872ad57a80ff2c851ce38be99bd45f9dd2f239a91e7f3a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2177144898/image_2177144898.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135023959,
+      "datetime": 1749059845
+    },
+    {
+      "title": "SPY Vs. IJR: This Chart Shows It's Time To Buy Small Caps",
+      "description": "Explore why iShares Core S&P Small-Cap ETF offers a compelling investment opportunity compared to SPDRÂ® S&P 500 ETF Trust. Click for more on SPY and IJR.",
+      "published_utc": "2025-06-04T12:20:16",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=425758eb041a0dda53bfb0e4fab6570c1c94feb53548dba03f8b147ee542d972",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1256967959/image_1256967959.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135017977,
+      "datetime": 1749054016
+    }
+  ]
+}

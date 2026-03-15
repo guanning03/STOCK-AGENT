@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Elliott Invests in Hypersonic-Flight Company Stratolaunch",
+      "description": "Elliott Investment Management has made an investment in Stratolaunch, a privately held hypersonic-flight company, according to people familiar with the matter.  Elliott will also gain board representation at Stratolaunch, the people said.  Elliott’s investment is worth several hundred million dollars; the exact size couldn’t be learned.",
+      "published_utc": "2026-01-19T19:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1a6f0b24e679e84a3b5066b49717b3549eb61ff8eabed517ffc6438ee0b4caf4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138181927,
+      "datetime": 1768867200
+    },
+    {
+      "title": "VT: A Core Holding, But Not A Conviction Buy",
+      "description": "VT offers broad global equity exposure with a 62.5% US allocation, high tech and financials concentration. Read when VT ETF will likely continue to perform well.",
+      "published_utc": "2026-01-19T18:22:28",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=de231c6d438955966d3c56f22d38c77203b5121a3f16f2d68c75ab20295f9e79",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1307279916/image_1307279916.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138182762,
+      "datetime": 1768864948
+    },
+    {
+      "title": "Applied Optoelectronics, Inc. (AAOI): A Bull Case Theory",
+      "description": "We came across a bullish thesis on Applied Optoelectronics, Inc. on Make Money, Make Time’s Substack by Oliver | MMMT Wealth. In this article, we will summarize the bulls’ thesis on AAOI. Applied Optoelectronics, Inc.’s share was trading at $34.47 as of January 14th. AAOI’s forward P/E was 84.03 according to Yahoo Finance. Applied Optoelectronics, Inc. (AAOI) is […]",
+      "published_utc": "2026-01-19T17:35:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f089d1771830b04f3e227e34b76926a32a396369c4c3ecb04b331f613c331ef3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138181342,
+      "datetime": 1768862119
+    },
+    {
+      "title": "Origin Digital Achieves Microsoft Advanced Specialization for AI Platform on Azure",
+      "description": "Origin Digital today announced it has achieved the Microsoft Advanced Specialization for AI Platform on Microsoft Azure, a highly selective designation that recognizes partners with proven capabilities, rigorous technical standards, and a track record of successful customer deployments of AI solutions on Azure. The Advanced Specialization for AI Platform on Azure is awarded to Microsoft partners who demonstrate deep technical expertise and verified customer success across advanced AI workloads,",
+      "published_utc": "2026-01-19T17:13:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=60e691a455ac23431264e1b4677dc39da361ef39168130d1486010f6d8c5d962",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138181343,
+      "datetime": 1768860780
+    },
+    {
+      "title": "1 Unstoppable Artificial Intelligence (AI) Stock to Buy Before It Soars More Than 30% in 2026, According to a Wall Street Analyst",
+      "description": "Palantir stock has been one of the top performers of the AI wave for three years and counting.",
+      "published_utc": "2026-01-19T16:25:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=09be9ab60c83aa34acdc17a6524476f914541a80dcfcb00ea507ce26868321b9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138180910,
+      "datetime": 1768857900
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:40:13.518225+00:00",
+    "cache_key": "news_3cad3dad961ee62a59f007ea46865909",
+    "count": 5
+  }
+}

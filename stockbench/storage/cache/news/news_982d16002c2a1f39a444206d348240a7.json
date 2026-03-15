@@ -1,0 +1,83 @@
+{
+  "items": [
+    {
+      "title": "At ASH, Lilly makes case to widen Jaypirca use in leukemia, lymphoma",
+      "description": "In a head-to-head trial, Lilly’s drug was as effective as Imbruvica at inducing responses and displayed certain safety advantages that could make it a preferred treatment in early lines of care.",
+      "published_utc": "2025-12-07T09:42:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=36f3287ab26bebbea0a821819c61c3db9114f37d25cf52ee478a67c7f5ebec70",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137732200,
+      "datetime": 1765118520
+    },
+    {
+      "title": "The Generational Shift I See Now - And My 33 Stocks For What's Coming",
+      "description": "Some suggest quality stocks have underperformed AI-driven leaders. Read more on unnoticed selections for income-focused investors.",
+      "published_utc": "2025-12-07T02:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1ab2bd597ffbe6e14c7e2501a16ea225c6478f648297e19c3747082f54162d00",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2239256494/image_2239256494.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137723903,
+      "datetime": 1765092600
+    },
+    {
+      "id": "f04361908e86f449a82544db39a4f1b70363203e05ff564f2e5903d4f2d7ed80",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Autism Spectrum Disorder Market to Reach USD 4.07 Billion by 2033, Driven by Rising Awareness, Early Diagnosis & Advances in Personalized Therapeutics | SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-12-07T13:43:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/12/07/3201134/0/en/Autism-Spectrum-Disorder-Market-to-Reach-USD-4-07-Billion-by-2033-Driven-by-Rising-Awareness-Early-Diagnosis-Advances-in-Personalized-Therapeutics-SNS-Insider.html",
+      "tickers": [
+        "RHHBY",
+        "JNJ",
+        "PFE"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The global Autism Spectrum Disorder market is projected to grow from USD 2.06 billion in 2025 to USD 4.07 billion by 2033, driven by increasing awareness, early diagnosis, and advances in personalized therapeutics, with a CAGR of 8.89%.",
+      "keywords": [
+        "Autism Spectrum Disorder",
+        "Market Growth",
+        "Therapeutics",
+        "Early Diagnosis",
+        "Personalized Treatment"
+      ],
+      "insights": [
+        {
+          "ticker": "RHHBY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Initiated collaborative research program to identify genetic markers for ASD subtypes, aiming to enhance diagnostic precision"
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a major market participant with no specific recent developments highlighted"
+        },
+        {
+          "ticker": "PFE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a major market participant with no specific recent developments highlighted"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:13:05.366581+00:00",
+    "cache_key": "news_982d16002c2a1f39a444206d348240a7",
+    "count": 3
+  }
+}

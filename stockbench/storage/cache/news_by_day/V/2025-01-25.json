@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "id": "f17dffa4c9164f90e6de8585ae19419c005b670286af4b77aa9987a8dccbcee7",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Payment Security Software Market to Reach USD 94.53B by 2032, Fueled by E-Commerce Growth and Enhanced Security Solutions | Research by SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-01-25T14:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/25/3015200/0/en/Payment-Security-Software-Market-to-Reach-USD-94-53B-by-2032-Fueled-by-E-Commerce-Growth-and-Enhanced-Security-Solutions-Research-by-SNS-Insider.html",
+      "tickers": [
+        "PYPL",
+        "AVGO",
+        "V",
+        "MA",
+        "TRU",
+        "PAYO",
+        "ACIW",
+        "THLLY",
+        "FI"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The payment security software market is rapidly growing due to the increase in digital transactions, e-commerce growth, and the need for advanced security solutions to combat fraud. The market is expected to reach USD 94.53 billion by 2032, driven by the integration of AI and machine learning for fraud detection and the growing trend of mobile commerce.",
+      "keywords": [
+        "payment security software",
+        "e-commerce",
+        "fraud prevention",
+        "digital transactions",
+        "mobile payments"
+      ],
+      "insights": [
+        {
+          "ticker": "PYPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists PayPal as a major player in the payment security software market, indicating its strong presence and offerings in the industry."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article includes Symantec (Broadcom) as a major player in the payment security software market, highlighting its data loss prevention and endpoint protection solutions."
+        },
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Visa's acquisition of Featurespace in December 2024 to improve fraud protection, indicating the company's focus on enhancing its payment security offerings."
+        },
+        {
+          "ticker": "MA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Mastercard's adoption of passwordless payments and biometric authentication in late 2024, showcasing the company's efforts to provide secure and seamless digital transactions."
+        },
+        {
+          "ticker": "TRU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists TransUnion as a major player in the payment security software market, with its fraud detection and credit risk solutions."
+        },
+        {
+          "ticker": "PAYO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Payoneer as a major player in the payment security software market, with its payment gateway and fraud prevention solutions."
+        },
+        {
+          "ticker": "ACIW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions ACI Worldwide as a major player in the payment security software market, with its fraud detection and payments hub solutions."
+        },
+        {
+          "ticker": "THLLY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Thales as a major player in the payment security software market, with its CipherTrust and HSM solutions."
+        },
+        {
+          "ticker": "FI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article includes Fiserv as a major player in the payment security software market, with its fraud detection and payment gateway solutions."
+        }
+      ]
+    }
+  ]
+}

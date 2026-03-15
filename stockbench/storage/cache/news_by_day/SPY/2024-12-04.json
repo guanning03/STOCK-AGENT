@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "id": "c1ac05c8cf6e51d3e9740346beaee7180bde4f223d387062dd3644b5cdf95e3d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Meet the Investment That Billionaires David Shaw, Israel Englander, and Ray Dalio Are Buying That Could Turn $300 per Month Into $1 Million",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-04T10:50:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/04/meet-the-investment-that-billionaires-buying/?source=iedfolrf0000001",
+      "tickers": [
+        "SPY"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799551/happy-person-at-laptop-success-winning-fists-up-victory-yes.jpg",
+      "description": "Billionaire investors David Shaw, Israel Englander, and Ray Dalio have been increasing their positions in the SPDR S&P 500 ETF (SPY), a fund that tracks the S&P 500 index. This move is seen as a sign of confidence in the overall market, as the ETF provides diversified exposure to the top companies driving growth.",
+      "keywords": [
+        "investment",
+        "billionaires",
+        "SPDR S&P 500 ETF",
+        "S&P 500",
+        "long-term investing"
+      ],
+      "insights": [
+        {
+          "ticker": "SPY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights that the SPDR S&P 500 ETF is a long-term investment favored by billionaire investors, as it provides diversified exposure to the top companies driving growth in the economy. The ETF's potential to turn a $300 monthly investment into $1 million over 35 years is also seen as a positive."
+        }
+      ]
+    }
+  ]
+}

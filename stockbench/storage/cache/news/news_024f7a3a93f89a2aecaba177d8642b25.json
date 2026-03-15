@@ -1,0 +1,89 @@
+{
+  "items": [
+    {
+      "title": "Should the New Amex Partnership Prompt a Rethink of UPS’s (UPS) Small Business Growth Strategy?",
+      "description": "On September 10, 2025, American Express and UPS announced an expanded agreement giving small and medium-sized businesses exclusive shipping discounts and service offers ahead of the holiday season, valid through February 2026, via the Amex Business Savings Suite. This partnership highlights UPS's focus on growing its small business segment, which is considered more profitable per package compared to large enterprise clients. We'll examine how targeting small business shipping volume with new...",
+      "published_utc": "2025-09-13T09:41:25",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=678b3da4e68cc38a968b278eb3c56ecbb156c16850b3e485cade4609d6bf9de4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136735817,
+      "datetime": 1757770885
+    },
+    {
+      "title": "Will American Express' (AXP) Canadian Lounge Launch Shift Its Premium Experience Narrative?",
+      "description": "Aspire Executive Lounges previously announced the opening of its first Amex co-branded airport lounge in Canada at YUL Montreal-Trudeau International Airport, offering eligible American Express Cardmembers exclusive experiences, local culinary highlights, and premium amenities designed in partnership with Montreal-based firms. This collaboration marks Amex's entry into the Canadian airport lounge market, underscoring its focus on value-added rewards and unique travel benefits for...",
+      "published_utc": "2025-09-13T09:36:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a55b498fe2aa32c7aabff41009e019378b6f926a9235d31df267d9dbcc594ab5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136736057,
+      "datetime": 1757770575
+    },
+    {
+      "id": "2a73fa2e2e14901fbad924b07361860f8fbe39f9b7f6ee95808c982599bbc036",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "4 Brilliant Warren Buffett Stocks to Buy Now and Hold for the Long Term",
+      "author": "Courtney Carlsen",
+      "published_utc": "2025-09-13T09:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/09/13/4-brilliant-warren-buffett-stocks-to-buy-now-and-h/?source=iedfolrf0000001",
+      "tickers": [
+        "MA",
+        "MCO",
+        "AXP",
+        "AON"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/832618/buffett19-tmf.jpg",
+      "description": "Warren Buffett's investment strategy focuses on companies with competitive advantages, stable revenue, and strong market positions. This article highlights four stocks in Berkshire Hathaway's portfolio that demonstrate resilience and potential for long-term growth.",
+      "keywords": [
+        "Warren Buffett",
+        "investment",
+        "long-term stocks",
+        "financial services",
+        "market strategy"
+      ],
+      "insights": [
+        {
+          "ticker": "MA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong global payment network, 21% market share, asset-light business model, and significant network effects make it an attractive long-term investment"
+        },
+        {
+          "ticker": "MCO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Leading credit rating company with 32% market share, steady income from debt issuance, and diversified revenue through analytics services"
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong brand attracting affluent consumers, best-in-class credit quality, consistent consumer spending, and appeal to younger demographics"
+        },
+        {
+          "ticker": "AON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Capital-light insurance broker model, recurring commissions, expertise in risk management, and potential for growth with economic trends"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:40:23.357351+00:00",
+    "cache_key": "news_024f7a3a93f89a2aecaba177d8642b25",
+    "count": 3
+  }
+}

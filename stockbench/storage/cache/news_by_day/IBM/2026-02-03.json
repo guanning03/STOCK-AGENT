@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Nasdaq, S&P 500 Log Worst Day in 2 Weeks Amid Tech Sell-Off",
+      "description": "The Nasdaq Composite and the S&P 500 fell the most in two weeks on Tuesday as investors dumped techn",
+      "published_utc": "2026-02-03T17:04:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aa9659769647f2e1bbbc0971e85009425246b293424d3accbc908822cbaaea70",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138348105,
+      "datetime": 1770156266
+    },
+    {
+      "title": "US Equity Indexes Slump Amid Sell-Off in Technology, Communication Services",
+      "description": "US equity indexes dropped on Tuesday as investors reduced exposure to sectors such as technology, wh",
+      "published_utc": "2026-02-03T16:54:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0279e239831cbc750c57b113f4d419f6d79e15f3e7decf413c017b65691cca2b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138347331,
+      "datetime": 1770155683
+    },
+    {
+      "title": "IBM CEO reveals when they’ll know if quantum computing is successful",
+      "description": "CNN’s Richard Quest sits down with IBM CEO Arvind Krishna at the World Government Summit in Dubai to discuss the technology company’s big bet on quantum computing.",
+      "published_utc": "2026-02-03T16:26:32",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c9a5e09c7cde15625aba1b202d89f031295308f85d0df764a40c84f6af268917",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138348200,
+      "datetime": 1770153992
+    },
+    {
+      "title": "Technology Sell-Off Pushes US Equity Indexes Lower",
+      "description": "US equity indexes fell ahead of Tuesday's close amid a sell-off in technology, communication service",
+      "published_utc": "2026-02-03T15:50:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7081be32ffc0c1fb6dd7cc2c8571e97e71fa0125b92ae05bee406418c79e8fca",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138347066,
+      "datetime": 1770151823
+    },
+    {
+      "title": "Assessing IBM (IBM) Valuation After Recent Share Price Strength And Mixed Fair Value Signals",
+      "description": "International Business Machines (IBM) has been drawing attention after recent share price moves, with the stock closing at $314.73. For investors, the focus now is on how this level compares with IBM’s fundamentals. See our latest analysis for International Business Machines. That latest move to $314.73 comes on top of a 1-day share price return of 2.62% and a 1-month share price return of 7.97%. The 1-year total shareholder return of 23.83% and very large 5-year total shareholder return...",
+      "published_utc": "2026-02-03T14:14:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b3b34cfcf96e8683d07489e539be5979a14132afa9c0d49d641c4471cf6dffdc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138345605,
+      "datetime": 1770146071
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "XYLD: Gets The Job Done But Underperforms Peers (Rating Downgrade)",
+      "description": "Global X S&P 500 Covered Call ETF's high 12% yield may not offset its weaker returns. XYLD's total return lags vs. peers like GPIX and SPYI. See more here.",
+      "published_utc": "2025-12-02T17:20:18",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ccc7830e81970f8a0fbf595711f329ed60fe45b837c28458b4f184355e7e7cbf",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1150894132/image_1150894132.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137666254,
+      "datetime": 1764714018
+    },
+    {
+      "title": "President Trump Posts On Truth Social \"We had a very productive call with President Lula of Brazil. Among the things discussed were Trade, how our Countries could work together to stop Organized Crime, Sanctions imposed on various Brazilian dignitaries, Tariffs, and various other items. President Lula and I established a relationship at a meeting which took place at the United Nations, and I believe it set the stage for very good dialogue and agreement long into the future. ...\"",
+      "description": "https://truthsocial.com/@realDonaldTrump/posts/115652356733049190",
+      "published_utc": "2025-12-02T13:41:00",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=19029b4924bc745e64afb94f789f3bf68b307df58ec080b44844c0949c2fc3aa",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138551563,
+      "datetime": 1764700860
+    },
+    {
+      "title": "The Real Price of Passive: It’s Not the Expense Ratio",
+      "description": "Is there a structural flaw in market-cap weighted indexing?  Learn why a large index buy has a magnified and cumulative impact on Nvidia (the largest stock) compared to the smallest, how this passive feedback loop is causing massive dispersion in markets, and where advisors and investors should look for opportunities.",
+      "published_utc": "2025-12-02T13:16:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2e311b6e559a5fb4664f8daf38362771036f325ddb0fe85caf5582cc3a27fcfe",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137698159,
+      "datetime": 1764699407
+    },
+    {
+      "title": "PGF: Risks Of A Preferred Stock ETF Focused On Financials",
+      "description": "Discover if Invesco Financial Preferred ETF (PGF) fits your income strategyâcompare its 6% yield, risks, and alternatives like PFXF.",
+      "published_utc": "2025-12-02T12:06:06",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=66a953d83decfd215463bd10da2d7653c6574e6ad106426159320caa02859423",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/814447584/image_814447584.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137664928,
+      "datetime": 1764695166
+    },
+    {
+      "title": "Where The Markets Stand Heading Into 2026",
+      "description": "Another year of stock market gains is almost in the books. Explore AI bubble risks and the gap between consumer sentiment and valuations.",
+      "published_utc": "2025-12-02T11:52:52",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4b0e074621240cfe1a97f2a6a6fac5f18b0100791ab4b458eb835715342e3d06",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2210826806/image_2210826806.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137664901,
+      "datetime": 1764694372
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "2 Dow Jones Stocks Worth Your Attention and 1 We Question",
+      "description": "The Dow Jones (^DJI) is made up of 30 of the most established and influential companies in the market. But even blue-chip stocks can struggle - some are dealing with slowing growth, outdated business models, or increasing competition.",
+      "published_utc": "2025-10-13T07:51:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6bcd5d32b327b88513fa234230b604c488cfce8a6d99b12c5a46f9a63cbfa9f7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137066202,
+      "datetime": 1760356286
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:15:43.252273+00:00",
+    "cache_key": "news_bab89ce6466fb48374b198fbfdeac9c0",
+    "count": 1
+  }
+}

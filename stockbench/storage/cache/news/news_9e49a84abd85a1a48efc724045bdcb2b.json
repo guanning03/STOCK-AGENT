@@ -1,0 +1,47 @@
+{
+  "items": [
+    {
+      "id": "75f4c362b8c8e7280fbb1424df1f9aa6a2285a597c2acc2710d18843bdcea687",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Boeing Stock a Buy Before Jan. 28?",
+      "author": "Lee Samaha",
+      "published_utc": "2025-01-26T17:05:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/26/is-boeing-stock-a-buy-before-jan-28/?source=iedfolrf0000001",
+      "tickers": [
+        "BA",
+        "BApA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804857/top-stocks-to-buy.jpg",
+      "description": "Boeing must deliver on its commercial aerospace backlog, return the defense business to profitability, and reset investor expectations to regain confidence. The company's success hinges on consistent 737 MAX production, progress on the 777X program, and addressing issues in its defense segment.",
+      "keywords": [
+        "Boeing",
+        "737 MAX",
+        "777X",
+        "Defense",
+        "Investor Confidence"
+      ],
+      "insights": [
+        {
+          "ticker": "BA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a balanced view on Boeing's path to recovery, highlighting both the challenges the company faces and the potential for improvement. While the article outlines the operational and financial hurdles Boeing needs to overcome, it also suggests that the company has opportunities to reset investor expectations and turn around its performance."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a balanced view on Boeing's path to recovery, highlighting both the challenges the company faces and the potential for improvement. While the article outlines the operational and financial hurdles Boeing needs to overcome, it also suggests that the company has opportunities to reset investor expectations and turn around its performance."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:20:18.943178+00:00",
+    "cache_key": "news_9e49a84abd85a1a48efc724045bdcb2b",
+    "count": 1
+  }
+}

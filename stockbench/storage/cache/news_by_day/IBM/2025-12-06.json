@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "id": "b2508ca54e1e32bf152981c9acc58c9513801515ad35912647aabb68a5a57558",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Where Will Rigetti Computing Stock Be in 5 Years?",
+      "author": "Will Ebiefung",
+      "published_utc": "2025-12-06T12:10:00Z",
+      "article_url": "https://www.fool.com/investing/2025/12/06/where-will-rigetti-computing-stock-be-in-5-years/?source=iedfolrf0000001",
+      "tickers": [
+        "RGTI",
+        "RGTIW",
+        "GOOG",
+        "GOOGL",
+        "IBM"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F845513%2Fgettyimages-2195012879.jpg&w=1200&op=resize",
+      "description": "Rigetti Computing, a quantum computing startup, experienced a significant stock rally followed by a sharp pullback. Despite potential in quantum computing, the company currently lacks profitability and faces challenges in developing commercially viable technology, with experts suggesting widespread quantum computing adoption might not occur until around 2040.",
+      "keywords": [
+        "quantum computing",
+        "technology",
+        "stock market",
+        "speculative investment",
+        "research and development"
+      ],
+      "insights": [
+        {
+          "ticker": "RGTI",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Reported minimal sales ($1.95 million), significant operating losses ($20.5 million), no clear path to profitability, and uncertain timeline for commercial quantum computing viability"
+        },
+        {
+          "ticker": "RGTIW",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Reported minimal sales ($1.95 million), significant operating losses ($20.5 million), no clear path to profitability, and uncertain timeline for commercial quantum computing viability"
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Developed quantum computing chip and optimistic about commercially viable quantum computers within five years"
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Developed quantum computing chip and optimistic about commercially viable quantum computers within five years"
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Optimistic about quantum computing development within five years"
+        }
+      ]
+    }
+  ]
+}

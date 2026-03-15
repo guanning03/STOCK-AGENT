@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Review & Preview: Banks Take Center Stage",
+      "description": "Not that long ago Oracle was seen as the best way for public-market investors to play red-hot start-up and ChatGPT maker OpenAI, which has committed to buy $300 billion in cloud services from Oracle.  Sure enough, the cost of credit default swaps on Oracle debt, essentially insurance against a potential default, have risen to their highest level since the 2008 financial crisis.  The Nasdaq Composite finished the week down 1.6% after Friday’s 1.1% slide.",
+      "published_utc": "2025-12-12T19:55:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=af4606fc22390e79a5a1b8d6a9866e4372f0ce2b994cd6e6b3cb03bb925b8251",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137792239,
+      "datetime": 1765587300
+    }
+  ]
+}

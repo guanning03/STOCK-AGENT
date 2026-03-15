@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Top Research Reports for JPMorgan, Johnson & Johnson & Applied Materials",
+      "description": "JPMorgan targets 9% NII growth, Johnson and Johnson leans on new drugs and MedTech strength, and Applied Materials rides a semiconductor rebound despite rising risks.",
+      "published_utc": "2026-03-11T16:46:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8a47712aa02cefb41420721fe5ebffc5f0b3364bd4f1ba0e8cc1152a77e9beb1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139383020,
+      "datetime": 1773261960
+    },
+    {
+      "title": "JPMorgan Marks Down Software Loans as Private Credit Risks Emerge",
+      "description": "Bank tightens financing as risks emerge across the private credit market",
+      "published_utc": "2026-03-11T16:34:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=773f04b736c7cb3ab6816b6972720b239e06075714bcaa1f7afd74e48d635101",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139382430,
+      "datetime": 1773261254
+    },
+    {
+      "title": "Treasury Prices Drop After Back-to-Back Weak Auctions",
+      "description": "The war in the Middle East, and its impact on a volatile stock market, should have created conditions for investors to run to Treasuries, a longtime haven.  Investors were awarded 4.217% during the 10-year note sale, which was 0.6 basis points above the yield seen before the bidding deadline.  Higher rates at auctions signal that demand is weak, as the Treasury has to entice investors to buy U.S. debt.",
+      "published_utc": "2026-03-11T16:16:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=42339478225197ab92dc0fc34ae0e6561be19f04454c6997beec26988d031fdd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139382404,
+      "datetime": 1773260160
+    },
+    {
+      "title": "Silgan Holdings (SLGN) Share Price Target Raised By Analysts",
+      "description": "We recently published 9 Best Aluminum and Aluminum Mining Stocks to Invest In. Silgan Holdings Inc. (NYSE:SLGN) is one of the best aluminum and aluminum mining stocks to invest in. Investment bank JPMorgan commented on Silgan Holdings Inc. (NYSE:SLGN)’s shares on March 9th. It raised the share price target to $53 from $44 and kept an […]",
+      "published_utc": "2026-03-11T16:12:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1f5baf8133ff2abbf976112776532a8b2da979476c33dca780e568ed8ec24319",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139382052,
+      "datetime": 1773259927
+    },
+    {
+      "title": "Sector Update: Financial Stocks Fall Late Afternoon",
+      "description": "Financial stocks were lower in late Wednesday afternoon trading, with the NYSE Financial Index falli",
+      "published_utc": "2026-03-11T15:54:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b2030f74bd2d7f9cff818e5224af2dfb5d4659a13274bdd98ae20ee96acf380d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139381800,
+      "datetime": 1773258847
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T04:27:49.482569+00:00",
+    "cache_key": "news_5920c4eb623aa8fefdd8e90663e7965f",
+    "count": 5
+  }
+}

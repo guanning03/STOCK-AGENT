@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
+      "description": "Stocks closed higher on Wednesday as tough questions about tariffs at the Supreme Court lifted names sensitive to the levies, while some AI stocks also rebounded.",
+      "published_utc": "2025-11-05T14:23:15",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=beed374859a2a5268a53aad77cafad2c4699fd0b937f49f87531207bc32f56f5",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108217257-17615783812025-10-27t151808z_1471946823_rc2dkhas5run_rtrmadp_0_usa-stocks.jpeg?v=1761578478&w=1920&h=1080",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137344638,
+      "datetime": 1762370595
+    },
+    {
+      "title": "Fast Money: DAL, ROKU, AAPL, GPCR",
+      "description": "The final trades of the day with CNBC's Melissa Lee and the 'Fast Money' traders.",
+      "published_utc": "2025-11-05T13:08:15",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=f0d269d911bd45932a40ce18535e4d267bb5e81b43715166d2243a826188a2d8",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108222113-17623839881762383986-42428361237-1080pnbcnews.jpg?v=1762383988&w=1920&h=1080",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137344640,
+      "datetime": 1762366095
+    },
+    {
+      "title": "MP Materials Q3 Preview: Rare Earth Stock Down 25% In One Month, Can Earnings Help Spark A Rebound?",
+      "description": "MP Materials and the rare earth minerals sector were hot earlier this year, but have cooled off. Could strong financials help boost the stock and sector again?",
+      "published_utc": "2025-11-05T11:56:22",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=fa36390e3926a3e900bfd56d7c95309efcced920e4f90b35787986e7522a731b",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/05/MP-Materials.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138436565,
+      "datetime": 1762361782
+    },
+    {
+      "title": "Nvidia, Apple Were Not Among October's Top 3 Dow Stocks",
+      "description": "Nvidia, Apple Were Not Among October's Top 3 Dow Stocks",
+      "published_utc": "2025-11-05T09:32:50",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=6702c74579673fe5eb6b5ac6a7e26068ab293c11c15ae25721f53807a5464e01",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137455967,
+      "datetime": 1762353170
+    },
+    {
+      "title": "JMOM: Diversification May Be A Drag For This Momentum ETF",
+      "description": "JPMorgan U.S. Momentum Factor ETF (JMOM) offers a diversified portfolio of 265 large and mid-cap U.S. stocks with a focus on risk-adjusted return. Read the full analysis here.",
+      "published_utc": "2025-11-05T08:47:31",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b6d14bd1e2a855e8dd8dd6d41d7f01f4501656bc248744908bd2ca552ee8d288",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/842447638/image_842447638.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137338135,
+      "datetime": 1762350451
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:36:26.161241+00:00",
+    "cache_key": "news_35577255efc2fef17e3d5e9960008fed",
+    "count": 5
+  }
+}

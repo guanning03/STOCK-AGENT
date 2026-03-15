@@ -1,0 +1,134 @@
+{
+  "items": [
+    {
+      "id": "c3b48873f8d205b035c96e15d277ed7d91278a8fdf1bfb7b23330faf9d31c5f5",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Best Stocks to Invest $50,000 in Right Now",
+      "author": "Adria Cimino",
+      "published_utc": "2024-12-15T23:05:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/15/the-best-stocks-to-invest-50000-in-right-now/?source=iedfolrf0000001",
+      "tickers": [
+        "META",
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800941/gettyimages-1357572936.jpg",
+      "description": "The article discusses four top AI stocks to buy now: Meta Platforms, Alphabet, Amazon, and Nvidia. These companies are leveraging AI to drive growth and improve efficiency, making them attractive investment options.",
+      "keywords": [
+        "AI",
+        "technology stocks",
+        "Meta Platforms",
+        "Alphabet",
+        "Amazon",
+        "Nvidia"
+      ],
+      "insights": [
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Meta Platforms is investing heavily in AI, which could supercharge its growth. The company's social media dominance and reasonable valuation make it an attractive investment option."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet, the owner of Google, is using AI to improve its search and advertising businesses. Its solid earnings track record and low valuation make it a bargain."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet, the owner of Google, is using AI to improve its search and advertising businesses. Its solid earnings track record and low valuation make it a bargain."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon is both a user and a seller of AI, which could boost its e-commerce and cloud computing businesses. Its track record and cost-cutting efforts make it a promising investment."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia is a leading AI chip designer, and the AI market is expected to grow significantly. Its commitment to innovation and strong profitability make it an attractive AI stock to buy."
+        }
+      ]
+    },
+    {
+      "id": "01c6fda7ad5d9bfb7191ab0d24dd82604fc7188af68944cf5aa83189655fb1bb",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Want to Invest in the Nasdaq? This ETF Is a Great Option Heading Into the New Year",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-15T17:30:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/15/want-to-invest-in-the-nasdaq-this-etf-is-a-great-o/?source=iedfolrf0000001",
+      "tickers": [
+        "QQQ",
+        "NVDA",
+        "TSLA",
+        "AMZN",
+        "MSFT",
+        "GOOG",
+        "GOOGL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800765/gettyimages-579980663.jpg",
+      "description": "The article discusses the Invesco QQQ Trust ETF, which tracks the Nasdaq-100 index and has outperformed the S&P 500 since its inception. The ETF is market-cap-weighted, with a handful of megacap tech stocks making up over 52% of the fund. The article highlights the growth prospects of these companies, particularly in the areas of artificial intelligence, cloud computing, and electric vehicles.",
+      "keywords": [
+        "Invesco QQQ Trust ETF",
+        "Nasdaq-100",
+        "artificial intelligence",
+        "cloud computing",
+        "electric vehicles"
+      ],
+      "insights": [
+        {
+          "ticker": "QQQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the strong performance of the Invesco QQQ Trust ETF, which has returned over 930% since its inception and outperformed the S&P 500. It also notes the ETF's reasonable expense ratio and the growth opportunities of its top holdings."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Nvidia as one of the top holdings of the Invesco QQQ Trust ETF, and notes that the company is at the forefront of the artificial intelligence megatrend."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Tesla as the only electric vehicle maker in the top 10 holdings of the Invesco QQQ Trust ETF, and notes the strong growth prospects of the global EV market."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Amazon as a leader in the cloud computing market, with a 31% market share."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Microsoft is a leader in the cloud computing market, with a 20% market share."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Alphabet as a leader in the cloud computing market, with an 11% market share."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Alphabet as a leader in the cloud computing market, with an 11% market share."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:27:38.354017+00:00",
+    "cache_key": "news_b005bab803f2b2786e6d09a48784ba22",
+    "count": 2
+  }
+}

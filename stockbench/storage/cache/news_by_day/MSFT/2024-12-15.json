@@ -1,0 +1,347 @@
+{
+  "items": [
+    {
+      "id": "01c6fda7ad5d9bfb7191ab0d24dd82604fc7188af68944cf5aa83189655fb1bb",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Want to Invest in the Nasdaq? This ETF Is a Great Option Heading Into the New Year",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-15T17:30:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/15/want-to-invest-in-the-nasdaq-this-etf-is-a-great-o/?source=iedfolrf0000001",
+      "tickers": [
+        "QQQ",
+        "NVDA",
+        "TSLA",
+        "AMZN",
+        "MSFT",
+        "GOOG",
+        "GOOGL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800765/gettyimages-579980663.jpg",
+      "description": "The article discusses the Invesco QQQ Trust ETF, which tracks the Nasdaq-100 index and has outperformed the S&P 500 since its inception. The ETF is market-cap-weighted, with a handful of megacap tech stocks making up over 52% of the fund. The article highlights the growth prospects of these companies, particularly in the areas of artificial intelligence, cloud computing, and electric vehicles.",
+      "keywords": [
+        "Invesco QQQ Trust ETF",
+        "Nasdaq-100",
+        "artificial intelligence",
+        "cloud computing",
+        "electric vehicles"
+      ],
+      "insights": [
+        {
+          "ticker": "QQQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the strong performance of the Invesco QQQ Trust ETF, which has returned over 930% since its inception and outperformed the S&P 500. It also notes the ETF's reasonable expense ratio and the growth opportunities of its top holdings."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Nvidia as one of the top holdings of the Invesco QQQ Trust ETF, and notes that the company is at the forefront of the artificial intelligence megatrend."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Tesla as the only electric vehicle maker in the top 10 holdings of the Invesco QQQ Trust ETF, and notes the strong growth prospects of the global EV market."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Amazon as a leader in the cloud computing market, with a 31% market share."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Microsoft is a leader in the cloud computing market, with a 20% market share."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Alphabet as a leader in the cloud computing market, with an 11% market share."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Alphabet as a leader in the cloud computing market, with an 11% market share."
+        }
+      ]
+    },
+    {
+      "id": "e472839756e5b2d61f88b4fffe8ab9fff1eaa91434c5c3db44d23c0a2a56c0be",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Could IonQ Be Your Ticket to Becoming a Millionaire by 2035?",
+      "author": "Keithen Drury",
+      "published_utc": "2024-12-15T12:30:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/15/could-ionq-be-your-ticket-to-becoming-a-millionair/?source=iedfolrf0000001",
+      "tickers": [
+        "IONQ",
+        "IONQ.WS",
+        "GOOG",
+        "GOOGL",
+        "IBM",
+        "MSFT",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799238/image-of-the-ionq-optical-system.jpg",
+      "description": "The article discusses the potential of quantum computing stocks, particularly IonQ, to make investors millionaires. It highlights the advantages and challenges of quantum computing and suggests a diversified approach to investing in this space.",
+      "keywords": [
+        "quantum computing",
+        "IonQ",
+        "Alphabet",
+        "IBM",
+        "Microsoft",
+        "Nvidia"
+      ],
+      "insights": [
+        {
+          "ticker": "IONQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents IonQ as a promising quantum computing company, but also acknowledges the risks and uncertainties involved in the industry. It suggests that IonQ's success is not guaranteed, and investors should approach it with caution."
+        },
+        {
+          "ticker": "IONQ.WS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents IonQ as a promising quantum computing company, but also acknowledges the risks and uncertainties involved in the industry. It suggests that IonQ's success is not guaranteed, and investors should approach it with caution."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Alphabet's recent breakthrough in quantum computing, indicating the company's progress in the field."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Alphabet's recent breakthrough in quantum computing, indicating the company's progress in the field."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists IBM as one of the heavyweights in the quantum computing space, but does not provide a specific assessment of the company."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists Microsoft as one of the heavyweights in the quantum computing space, but does not provide a specific assessment of the company."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists Nvidia as one of the heavyweights in the quantum computing space, but does not provide a specific assessment of the company."
+        }
+      ]
+    },
+    {
+      "id": "618420629e72120917fc0528e07b89203777e59bcd7301e3361ac09514f82e90",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Despite Recent News, Analysts Still Say Artificial Intelligence Stock Nvidia Is a Buy. Here's Why.",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-15T11:30:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/15/analysts-artificial-intelligence-nvidia-nvda-ai/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "AAPL",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800850/gettyimages-2149530993-1200x675-128554e-1.jpg",
+      "description": "Nvidia, a leading supplier of chips for artificial intelligence, has seen its stock price pull back recently. However, Wall Street analysts remain bullish on the company's long-term prospects, citing its dominant position in the AI semiconductor market and the growing demand for AI infrastructure.",
+      "keywords": [
+        "Nvidia",
+        "artificial intelligence",
+        "semiconductor",
+        "stock price"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Wall Street analysts are bullish on Nvidia's long-term prospects, citing its dominant position in the AI semiconductor market and the growing demand for AI infrastructure."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Apple is mentioned as one of the big tech companies that Nvidia briefly fell behind in market cap, but the article does not provide any specific insights about Apple."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Microsoft is mentioned as one of the big tech companies that Nvidia briefly fell behind in market cap, but the article does not provide any specific insights about Microsoft."
+        }
+      ]
+    },
+    {
+      "id": "7b33cce1b9014ff54ef51713c355da1de28a9f2d7296f748d62ff5ce96ea5838",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "IonQ Stock: A Millionaire-Maker in the Making?",
+      "author": "Anders Bylund",
+      "published_utc": "2024-12-15T10:29:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/15/ionq-stock-a-millionaire-maker-in-the-making/?source=iedfolrf0000001",
+      "tickers": [
+        "IONQ",
+        "IONQ.WS",
+        "RGTI",
+        "RGTIW",
+        "QBTS",
+        "QBTS.WS",
+        "GOOG",
+        "GOOGL",
+        "MSFT",
+        "IBM",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800860/thinking-hard-with-a-laptop.jpg",
+      "description": "Quantum computing promises to solve complex problems, but the technology is still in its early stages. IonQ, a leading quantum computing company, has seen its stock price soar, but the author cautions that the long-term success of the company is uncertain due to competition from larger tech giants and the unprofitable nature of the industry.",
+      "keywords": [
+        "quantum computing",
+        "IonQ",
+        "Rigetti",
+        "D-Wave Quantum",
+        "Alphabet",
+        "Microsoft",
+        "IBM",
+        "Nvidia"
+      ],
+      "insights": [
+        {
+          "ticker": "IONQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "IonQ is a leading quantum computing company, but the author cautions that its long-term success is uncertain due to competition from larger tech giants and the unprofitable nature of the industry."
+        },
+        {
+          "ticker": "IONQ.WS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "IonQ is a leading quantum computing company, but the author cautions that its long-term success is uncertain due to competition from larger tech giants and the unprofitable nature of the industry."
+        },
+        {
+          "ticker": "RGTI",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Rigetti is a smaller quantum computing company that faces similar challenges as IonQ."
+        },
+        {
+          "ticker": "RGTIW",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Rigetti is a smaller quantum computing company that faces similar challenges as IonQ."
+        },
+        {
+          "ticker": "QBTS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "D-Wave Quantum is a smaller quantum computing company that faces similar challenges as IonQ and Rigetti."
+        },
+        {
+          "ticker": "QBTS.WS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "D-Wave Quantum is a smaller quantum computing company that faces similar challenges as IonQ and Rigetti."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet, through its subsidiary Google, has made progress in quantum computing development, which is a positive sign for the industry."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet, through its subsidiary Google, has made progress in quantum computing development, which is a positive sign for the industry."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is a large tech company that is investing in quantum computing, which could pose a challenge to smaller players like IonQ."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IBM is a large tech company that is investing in quantum computing, which could pose a challenge to smaller players like IonQ."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia is a large tech company that is investing in quantum computing, which could pose a challenge to smaller players like IonQ."
+        }
+      ]
+    },
+    {
+      "id": "ec0444030c28bcc78f8b27b60499d53bc0c03a5e658106ae434820c9931c3f15",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Could C3.ai Stock Help You Retire a Millionaire?",
+      "author": "Leo Sun",
+      "published_utc": "2024-12-15T09:46:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/15/could-c3ai-stock-help-you-retire-a-millionaire/?source=iedfolrf0000001",
+      "tickers": [
+        "AI",
+        "MSFT",
+        "GOOG",
+        "GOOGL",
+        "CRM",
+        "PATH",
+        "BKR"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800931/illustration-of-a-digital-brain.jpg",
+      "description": "C3.ai, an enterprise AI software provider, has struggled since its IPO, with its stock price dropping significantly. The article discusses the company's challenges, including customer concentration issues, competition from cloud platforms, and management changes. While the company expects revenue growth, it is expected to remain unprofitable, and the author believes it is not a good investment opportunity at this time.",
+      "keywords": [
+        "C3.ai",
+        "enterprise AI",
+        "revenue growth",
+        "profitability",
+        "competition"
+      ],
+      "insights": [
+        {
+          "ticker": "AI",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article highlights C3.ai's significant challenges, including customer concentration issues, competition from cloud platforms, management changes, and lack of profitability. The author believes the company is not a good investment opportunity at this time."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Microsoft's Azure cloud platform as a competitor to C3.ai, but does not provide a clear sentiment on the company."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Alphabet's Google Cloud as a competitor to C3.ai, but does not provide a clear sentiment on the company."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Alphabet's Google Cloud as a competitor to C3.ai, but does not provide a clear sentiment on the company."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Salesforce's diversified big data platforms as a competitor to C3.ai, but does not provide a clear sentiment on the company."
+        },
+        {
+          "ticker": "PATH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions UiPath's robotic process automation (RPA) services as a competitor to C3.ai, but does not provide a clear sentiment on the company."
+        },
+        {
+          "ticker": "BKR",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article highlights C3.ai's customer concentration issues, with Baker Hughes accounting for a significant portion of its revenue. The article also mentions that Baker Hughes has been negotiating lower minimum revenue commitments and reducing its equity stake in C3.ai, which is seen as a negative for the company."
+        }
+      ]
+    }
+  ]
+}

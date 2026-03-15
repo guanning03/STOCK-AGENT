@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Eli Lilly: The Right Long-Term Strategy",
+      "description": "Eli Lilly's innovation and pipeline diversification support long-term growth, despite patent risks and competition. Read more on LLY stock here.",
+      "published_utc": "2025-12-12T23:33:24",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7cbe803f884a8945aad6b83c6a9a2ce67e0afb8f38f6abe0065fab9acd887ad6",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1874681159/image_1874681159.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137774561,
+      "datetime": 1765600404
+    },
+    {
+      "title": "U.S. FDA approves AKEEGA® as the first precision therapy for BRCA2-mutated metastatic castration-sensitive prostate cancer with 54% reduction in disease progression vs standard of care*",
+      "description": "Johnson & Johnson (NYSE:JNJ) announced today the U.S. Food and Drug Administration (FDA) approved the supplemental New Drug Application (sNDA) for AKEEGA® (niraparib and abiraterone acetate dual-action tablet) plus prednisone for the treatment of patients with BRCA2-mutated metastatic castration-sensitive prostate cancer (mCSPC).1 Patients with BRCA mutations often have more aggressive forms of prostate cancer leading to poor prognosis, representing a significant unmet need not addressed by prev",
+      "published_utc": "2025-12-12T20:25:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8f3e653324682f43aa50bc809829ef353188bd4527a81110a6b1a1e4fb36a44d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137792124,
+      "datetime": 1765589100
+    },
+    {
+      "title": "Morgan Stanley Maintains Johnson & Johnson (JNJ) Equal-Weight Recommendation",
+      "description": "",
+      "published_utc": "2025-12-12T19:07:29",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=5df089bd6e6a8e3b44cc5c5719ff8a86672e0111f31ddd25f71b087b46a794ce",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137772401,
+      "datetime": 1765584449
+    }
+  ]
+}

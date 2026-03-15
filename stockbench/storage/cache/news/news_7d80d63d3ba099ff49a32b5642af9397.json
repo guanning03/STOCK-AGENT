@@ -1,0 +1,46 @@
+{
+  "items": [
+    {
+      "id": "4d9cb9aeae68e24e60a3c0e3655f61b89a7d314a34f1d20cda28186911064399",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Fed's Beige Book Shows Slight Growth: Consumer Spending Slips As Prices Rise",
+      "author": "Erica Kollmann",
+      "published_utc": "2025-03-05T19:41:38Z",
+      "article_url": "https://www.benzinga.com/25/03/44149983/feds-beige-book-shows-slight-growth-consumer-spending-decreased",
+      "tickers": [
+        "SPY",
+        "QQQ"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/03/05/Federal-Reserve-Photo-by-Orhan-Cam-on-Sh.jpeg?width=1200&height=800&fit=crop",
+      "description": "The Federal Reserve's Beige Book showed a slight increase in overall economic activity, but consumer spending decreased while price sensitivity for discretionary items increased, particularly among lower-income consumers.",
+      "keywords": [
+        "Federal Reserve",
+        "Beige Book",
+        "consumer spending",
+        "prices"
+      ],
+      "insights": [
+        {
+          "ticker": "SPY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The SPDR S&P 500 ETF, which tracks the S&P 500 index, was up 1.17% at the time of publication, indicating a positive market reaction to the Beige Book release."
+        },
+        {
+          "ticker": "QQQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The Invesco QQQ Trust, which tracks the Nasdaq 100 index, was up 1.43% at the time of publication, also indicating a positive market reaction to the Beige Book release."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T22:35:20.335120+00:00",
+    "cache_key": "news_7d80d63d3ba099ff49a32b5642af9397",
+    "count": 1
+  }
+}

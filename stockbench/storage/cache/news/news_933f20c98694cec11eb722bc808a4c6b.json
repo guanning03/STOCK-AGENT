@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The 1-Minute Market Report, November 23, 2025",
+      "description": "Explore last weekâs S&P 500 decline, sector rotations, and how AI trends impact stocks.",
+      "published_utc": "2025-11-22T15:41:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=96a245b899acb0eb5147c7ee43555644e8ed675bb3f3cc8b63793a378bab0a13",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213764535/image_1213764535.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137580888,
+      "datetime": 1763844060
+    },
+    {
+      "title": "Is The Market Now Just The Mag-7? Investors Call Tech Concentration A Major Risk",
+      "description": "AAII survey confirms growing concern over concentration of mega-cap tech stocks in S&amp;P 500. Sentiment improving but not confident.",
+      "published_utc": "2025-11-22T05:31:34",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=0975b3ee08097a7762b0667ebe027b84463b237878518143ef6fc6e52c3d6f27",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/22/Big-Tech-Stocks-Mirror-Dotcom-Bubble--Sa.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138408067,
+      "datetime": 1763807494
+    },
+    {
+      "title": "Hunting For AI Bubbles? Look Outside Of AI But Stay Invested",
+      "description": "Nvidia delivered a stellar Q3 FY26 report, yet market volatility reflects rising concerns about broader macro fears rather than an AI bubble.",
+      "published_utc": "2025-11-22T04:55:52",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=354eba5003e787d0503267ada86c30907276490d9f4439d9fec1ab5fc4ce3871",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2182789896/image_2182789896.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137577493,
+      "datetime": 1763805352
+    },
+    {
+      "title": "This Looks Like A Bubble: The Alarming Signs Inside The AI Boom",
+      "description": "AI-driven market gains are concentrated in a handful of tech giants like NVIDIA (NVDA), Microsoft (MSFT), and Alphabet (GOOG), fueling bubble concerns.",
+      "published_utc": "2025-11-22T03:38:55",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=77ffdc078074fa2e5169a3c1a9e5651a0dba10521ab0c8f49ea46c62d7db2372",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1485172638/image_1485172638.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137577191,
+      "datetime": 1763800735
+    },
+    {
+      "title": "5 Blue-Chip Dividend Compounders I'm Buying On Discount",
+      "description": "Read my top dividend stock and REIT picks for stability and growth amidst AI stock bubble fears.",
+      "published_utc": "2025-11-22T03:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=293bb7a32af123efe3e4f66cbc423288cabafccd920dec81269c62db23a30175",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1337275668/image_1337275668.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137577092,
+      "datetime": 1763799300
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:27:29.585375+00:00",
+    "cache_key": "news_933f20c98694cec11eb722bc808a4c6b",
+    "count": 5
+  }
+}

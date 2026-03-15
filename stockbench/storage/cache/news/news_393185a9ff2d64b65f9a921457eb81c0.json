@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Prediction: These 2 AI Stocks Will Be Worth More Than Apple by Year-End 2026",
+      "description": "Apple is more expensive and growing slower than these other artificial intelligence (AI) stocks.",
+      "published_utc": "2025-11-23T18:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=863093ea215dd15b89e2aba309d1873dff916dcd48a41e0c349a30ebea9b5eaf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137586560,
+      "datetime": 1763940600
+    },
+    {
+      "title": "Dow Jones Futures, Bitcoin Rise; Nvidia, Apple, Eli Lilly In Focus",
+      "description": "Dow Jones Futures, Bitcoin Rise; Nvidia, Apple, Eli Lilly In Focus",
+      "published_utc": "2025-11-23T18:05:03",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=538e3b9beeb9e548a7fbbeb8e1ea5d03fdb7dd73060507c793e4fd9d0c9c6f9c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137593021,
+      "datetime": 1763939103
+    },
+    {
+      "title": "Mark Gurman Says Tim Cook Likely To Remain As Apple CEO Through At Least Mid-2026",
+      "description": "Bloomberg’s Mark Gurman has shared that Apple Inc. (NASDAQ:AAPL) CEO Tim Cook is likely to retain his position until at least mid-2026, a claim that contradicts earlier reports. What Happened: The Financial Times had earlier reported this month that Apple was gearing up for Cook’s departure “as soon as next year.” This report had triggered speculations about a potential leadership transition ahead of Apple’s annual events. However, Gurman, in his latest \"Power On” report, refuted this claim. Gur",
+      "published_utc": "2025-11-23T15:58:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=de1f4b2c515583f854f6d891ed7cace03e32d854f31f7c19b12e93baa8a41e8e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137586581,
+      "datetime": 1763931531
+    },
+    {
+      "title": "5 Reasons I Still Love Apple Stock, Even After It Soared Higher",
+      "description": "Apple's premium valuation rests on a powerful combination of a strong iPhone cycle and a growing stream of high-margin services revenue.",
+      "published_utc": "2025-11-23T14:41:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=81216dbbbdd36fbecb1f94b04a94c83b7485172d32ad54e26845b32b8e3d7c75",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137586582,
+      "datetime": 1763926860
+    },
+    {
+      "title": "Ranking the Best \"Magnificent Seven\" Stocks to Buy for 2026. Here's My No. 7 Pick.",
+      "description": "These megacap companies have rewarded investors with epic long-term gains, but one -- Tesla -- may now be overextended.",
+      "published_utc": "2025-11-23T13:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b377971afb1c2077d98ffbc25fbde86f06b7eb989fc19572d6913afc59f5f873",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137586568,
+      "datetime": 1763921100
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:31:25.356763+00:00",
+    "cache_key": "news_393185a9ff2d64b65f9a921457eb81c0",
+    "count": 5
+  }
+}

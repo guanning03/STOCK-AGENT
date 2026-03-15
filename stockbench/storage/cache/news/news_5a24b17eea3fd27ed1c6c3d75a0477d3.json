@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "U.S. GDP Is Hot, Consumer's Not",
+      "description": "Get the latest on US economic trends: GDP growth, consumer spending shifts, and job market signals.",
+      "published_utc": "2025-09-28T19:20:41",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f8168c4d3f6dd163d73457b19f7d8ba391c4b1d76b5ec1dc7726842c1ece9997",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2223715503/image_2223715503.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136911337,
+      "datetime": 1759101641
+    },
+    {
+      "title": "Model Portfolio For Capital Appreciation, September 2025",
+      "description": "Discover 20 top stocks & 2 ETFs for capital appreciation.",
+      "published_utc": "2025-09-28T19:13:23",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8f0c4de44ea1f1c1c90b42526ac3e93041074b49a2cd0d6bb87d81a3e8640aad",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/482730527/image_482730527.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136911301,
+      "datetime": 1759101203
+    },
+    {
+      "title": "The 'Pain Trade' Is Higher, Stay Long Through Q3 Earnings Season",
+      "description": "Expect continued volatility and sideways movement in the S&P 500 until Q3 earnings. Read more about the market and why ALAB presents a buying opportunity.",
+      "published_utc": "2025-09-28T17:41:45",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=27bc000a93aad9807fb832f1eebbd1831bca873ba1c7a6676421222c33b67ba4",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/800341504/image_800341504.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136910915,
+      "datetime": 1759095705
+    },
+    {
+      "title": "S&P 500: This Trend Is About To Break (Technical Analysis)",
+      "description": "The S&P 500 holds key support, but a channel break could trigger a correction before the next rally phase. Find out why SPY may soon dip before rebounding.",
+      "published_utc": "2025-09-28T12:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=028e2b06d8f29ef82f74fb02b6689e12d86136cab13da0e0235cddb4e9b45a1d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1956949830/image_1956949830.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136908914,
+      "datetime": 1759075200
+    },
+    {
+      "title": "How To Survive A 30% Market Crash In Retirement",
+      "description": "Sequence of return risk can erode retirement wealth, but dividends offer stability and income growth. Learn why dividend investing helps protect your portfolio.",
+      "published_utc": "2025-09-28T06:40:35",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6c8a0a08057a5dbd0c24b1580cedf5ae7841ce25f7082a4cd7c049c3425e09aa",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/469219010/image_469219010.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136907060,
+      "datetime": 1759056035
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T04:33:23.999693+00:00",
+    "cache_key": "news_5a24b17eea3fd27ed1c6c3d75a0477d3",
+    "count": 5
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Wall Street Bulls Look Optimistic About Caterpillar (CAT): Should You Buy?",
+      "description": "The average brokerage recommendation (ABR) for Caterpillar (CAT) is equivalent to a Buy. The overly optimistic recommendations of Wall Street analysts make the effectiveness of this highly sought-after metric questionable. So, is it worth buying the stock?",
+      "published_utc": "2025-09-08T17:47:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1f2915ea4839ee094d10fbcfdba39020afb55567ae03bcaf5583233f36499a7e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136689002,
+      "datetime": 1757368066
+    },
+    {
+      "title": "Caterpillar: Tariffs Continue To Wreak Havoc On Profitability",
+      "description": "Caterpillar's revenue declines are slowing, with Q2 top line beating expectations and Q3 guidance pointing to a return to growth. Click here to read more.",
+      "published_utc": "2025-09-08T11:11:48",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cdd34dc505732f20c58e3b1e9e5484c35292c0708bbc46bab4633b509058c3fe",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/471533249/image_471533249.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136671578,
+      "datetime": 1757344308
+    },
+    {
+      "title": "Can Deere Maintain Its Dividend Yield Edge Amid Industry Weakness?",
+      "description": "DE continues steady dividend growth and strong shareholder returns, even as sales and earnings face pressure in fiscal 2025.",
+      "published_utc": "2025-09-08T11:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1c85278d64c4c73e2b3efbc5a374b0f4eac6db45d32e09af1f3d013045d0beb6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136689003,
+      "datetime": 1757343780
+    },
+    {
+      "title": "Meta AI Spending Spree Set to Top $600 Billion Over 3 Years. Which Stocks Will Get a Boost.",
+      "description": "Meta CEO Mark Zuckerberg said it was “quite possible” his company could invest more than a planned $600 billion in the U.S. through 2028. Watch these stocks.",
+      "published_utc": "2025-09-08T10:59:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9aea72e3dd9e0b46e0c5489dd40591055375cfa813326d20d513b64718f777cf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136689004,
+      "datetime": 1757343540
+    },
+    {
+      "title": "10 Industrials Stocks Whale Activity In Today's Session",
+      "description": "",
+      "published_utc": "2025-09-08T09:35:30",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=52d30ea4c213edd3caa5fda10379111143eef5cb5f11872fa5d9c78c98b6904e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138664871,
+      "datetime": 1757338530
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:26:00.169710+00:00",
+    "cache_key": "news_4a5b6b8cd9a35cb4729c68b736e7083b",
+    "count": 5
+  }
+}

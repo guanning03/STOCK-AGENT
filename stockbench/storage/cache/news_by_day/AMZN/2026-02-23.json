@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Walmart Lost This Key Title to Amazon for the First Time in Company History. Is It Still a Buy Right Now?",
+      "description": "The change wasn't completely unexpected.",
+      "published_utc": "2026-02-23T17:25:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=af46ef4322ee26cb396ff3bd082cb989f316939a752c5ee9f2fd8a53851c12f6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139188620,
+      "datetime": 1771885500
+    },
+    {
+      "title": "As Wall Street punishes software stocks over AI concerns, Canva gets more acquisitive",
+      "description": "Cavalry offers motion graphics tools for designers, while MangoAI could help Canva provide tools for making new video ads.",
+      "published_utc": "2026-02-23T17:01:01",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=69850b4c5f38608fe756bfe5d9a3b4744437403defc4d1508d9042e0921e099d",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108268860-1771891959703-Handout_Canva_MagicAI_2.png?v=1771901989&w=1920&h=1080",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139197961,
+      "datetime": 1771884061
+    },
+    {
+      "title": "GE and 5 More Stocks That Can Win as AI Shakes Up the Economy",
+      "description": "Manufacturing and aerospace & defense stocks are turning out to be potential havens as artificial intelligence disrupts industries from software to financial technology and professional services.  “AI will enable a structural reduction in the cost of doing business for many commercial aerospace companies, supporting higher through-cycle margins,” wrote Deutsche Bank analyst Scott Deuschle in a Monday note.",
+      "published_utc": "2026-02-23T16:23:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fcf6f99aca54e33e9bac9c610cb7fd88c7a11f1f51cfa05858c14996df345184",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139187922,
+      "datetime": 1771881780
+    },
+    {
+      "title": "Amodei Heads to the Pentagon With Billions on the Line",
+      "description": "After months of tension, Anthropic CEO Dario Amodei will head to the Pentagon Tuesday to dicuss how far Claude could be used in their combat systems.",
+      "published_utc": "2026-02-23T16:16:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f627fb4e7bafb8eac888182cffd6e674845112288a942c6e7265481318fbe203",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139187923,
+      "datetime": 1771881403
+    },
+    {
+      "title": "Amazon shares slip amid $12 billion Louisiana data center bet",
+      "description": "Investing.com -- Amazon.com Inc (NASDAQ:AMZN) shares fell 2.5% in late trading Monday following the announcement of a massive infrastructure expansion in the American South. The tech giant revealed plans to invest $12 billion to establish its first data center campuses in northwest Louisiana to bolster its cloud and artificial intelligence capabilities. The project, spread across Caddo and Bossier Parishes, is expected to create 540 direct full-time jobs and support over 1,700 additional positio",
+      "published_utc": "2026-02-23T16:09:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=36b91cbe00417abd1f572a3f1b2cd1c7bcb31dabc01e09c0a2bfb8b595847e6d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139187924,
+      "datetime": 1771880990
+    }
+  ]
+}

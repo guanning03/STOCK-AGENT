@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": "5431b7b98f7229b12a0821bcb60da66afc9d6156fb2bf139f8c86eecaa09b0bf",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Caterpillar Inc. Maintains Dividend",
+      "author": "Prnewswire",
+      "published_utc": "2024-12-10T21:06:00Z",
+      "article_url": "https://www.benzinga.com/pressreleases/24/12/n42423986/caterpillar-inc-maintains-dividend",
+      "tickers": [
+        "CAT"
+      ],
+      "image_url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+      "description": "Caterpillar Inc. has maintained its quarterly dividend of $1.41 per share, payable on February 20, 2025, to shareholders of record as of January 21, 2025. The company has paid a cash dividend every year since its formation and has increased its annual dividend for 31 consecutive years.",
+      "keywords": [
+        "Caterpillar",
+        "dividend",
+        "earnings"
+      ],
+      "insights": [
+        {
+          "ticker": "CAT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The company has maintained its quarterly dividend, which is a positive sign for investors. Additionally, the company has a long history of paying and increasing its dividends, which is a strong indicator of financial stability and shareholder value."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Goldman Sachs (GS) Rises Higher Than Market: Key Facts",
+      "description": "Goldman Sachs (GS) closed the most recent trading day at $933.73, moving +1.93% from the previous trading session.",
+      "published_utc": "2026-02-18T17:45:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=98ae9a4e8367c01a298674f958bf2e283751b2b32209d15cb252d9708fb54822",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139140963,
+      "datetime": 1771454702
+    },
+    {
+      "title": "Goldman Sachs Board DEI Shift And What It May Mean For Investors",
+      "description": "Goldman Sachs Group (NYSE:GS) plans to remove diversity, equity, and inclusion criteria from its board selection policies. The change follows pressure from an activist shareholder and aligns with broader pullbacks in corporate DEI programs across the US. This move reverses a prior stance in which Goldman Sachs promoted board diversity across companies it worked with. For you as an investor, this shift comes at a time when Goldman Sachs remains a core player in global investment banking,...",
+      "published_utc": "2026-02-18T17:14:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0bbb1982caaa9cbbacfb0257faae827246cd777e192b29cc5649b3f92a2d7554",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139140051,
+      "datetime": 1771452855
+    },
+    {
+      "title": "Stanley Druckenmiller Ditched Meta Platforms Stock. Should You?",
+      "description": "Billionaire investor Stanley Druckenmiller exited his position on Meta Platforms stock. Should you do the same?",
+      "published_utc": "2026-02-18T16:57:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5a13434cbc7fcbe26b8ce1a0b2b2ecacf65e30d0fc3b2389610b90c39c4df413",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139140918,
+      "datetime": 1771451856
+    },
+    {
+      "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session",
+      "description": "The major averages managed to post gains on Wednesday as tech shares rose. It was the third straight positive day for the S&P 500.",
+      "published_utc": "2026-02-18T14:15:50",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=f8f8bd6f6c3498f1514e4bc64d6f4c29c06ca214e9f3e94b88dbecfe0cee2412",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229584-1763680292359-gettyimages-2247092895-WALMART_EARNS.jpeg?v=1771458778&w=1920&h=1080",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139149814,
+      "datetime": 1771442150
+    },
+    {
+      "title": "South Korea's Kospi jumps to record high as regional rally tracks Wall Street gains",
+      "description": "Asia-Pacific markets traded higher on Thursday, with several bourses in the region returning from the Lunar New Year holiday.",
+      "published_utc": "2026-02-18T13:35:58",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=79e61a99dc3989bc08bf65818fc2e2effd04c4ee095c26e12284f720d7037b85",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108071639-1733362710729-gettyimages-998372882-mkc09443.jpeg?v=1771478424&w=1920&h=1080",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139149911,
+      "datetime": 1771439758
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:16:22.074716+00:00",
+    "cache_key": "news_bf72e04a8cab77f91183fddbd5b8c6e0",
+    "count": 5
+  }
+}

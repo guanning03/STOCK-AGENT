@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Is Boeing a Bargain After 7.6% Share Price Dip and Order Surge?",
+      "description": "Wondering whether Boeing is a bargain or overpriced right now? You're not alone, and today we'll break down the real story behind the numbers. Boeing shares have climbed 28.3% over the past year, but dipped 7.6% this past month, showing how quickly sentiment and perceived risk can shift. Recent headlines around increased aircraft orders from major airlines, as well as renewed scrutiny on safety protocols, have contributed to the stock's volatility. These events are shaping both public...",
+      "published_utc": "2025-11-09T17:05:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=08e28183273fd3996093b348f23014104898e6fbf1765bae47e0cc624ee43e49",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137392587,
+      "datetime": 1762725909
+    },
+    {
+      "title": "BAE Systems (LON:BA.) sheds 3.4% this week, as yearly returns fall more in line with earnings growth",
+      "description": "When you buy shares in a company, it's worth keeping in mind the possibility that it could fail, and you could lose...",
+      "published_utc": "2025-11-09T04:19:28",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a20a1a3c4c93d1f77fe6285de42577e700f8e752b3bcd6356360051fe21f026c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137392588,
+      "datetime": 1762679968
+    }
+  ]
+}

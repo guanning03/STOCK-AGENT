@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "title": "Super Bowl 60 recap: Rewatch the ads after Seahawks clinch the championship",
+      "description": "The Seattle Seahawks defeated the New England Patriots in Super Bowl 60. CNBC covered all the top ads and business news from football's biggest night.",
+      "published_utc": "2026-02-08T10:00:01",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=52e39c1e3a46ee4cebf8b92412d0b9e35e7703885fd3814feea359d5f33d09a2",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108263085-1770609011989-gettyimages-2260616438-rm2_2224_mu427qwl.jpeg?v=1770609030&w=1920&h=1080",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138577199,
+      "datetime": 1770562801
+    },
+    {
+      "id": "d81e840ab16eee43a4def32d23fbe0db884bdd103d8853bb20799fb9b352e01a",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Consumer Staples Showdown: Is FSTA or RSPS the Better Buy Right Now?",
+      "author": "Katie Brockman",
+      "published_utc": "2026-02-08T22:01:03Z",
+      "article_url": "https://www.fool.com/coverage/etfs/2026/02/08/consumer-staples-showdown-is-fsta-of-rsps-the-better-buy-right-now/?source=iedfolrf0000001",
+      "tickers": [
+        "FSTA",
+        "COST",
+        "WMT",
+        "PG"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Ff2894ef3e59a57033e3d12497757ed4ec0c197b2-1401x1251.png%3Frect%3D76%2C0%2C1251%2C1251%26w%3D384%26h%3D384%26q%3D75%26fit%3Dcrop%26auto%3Dformat&w=1200&op=resize",
+      "description": "The article compares two consumer staples ETFs: Fidelity's FSTA and Invesco's RSPS. FSTA offers a significantly lower expense ratio (0.08% vs 0.40%), larger assets under management ($1.3B vs $232M), and better 1-year and 5-year returns. However, FSTA is concentrated in mega-cap holdings like Costco, Walmart, and P&G (37% of assets), while RSPS uses equal-weighting across 36 stocks, potentially reducing volatility. The choice depends on investor preferences: FSTA for potential outperformance with larger holdings, or RSPS for more balanced risk distribution.",
+      "keywords": [
+        "consumer staples ETF",
+        "FSTA",
+        "RSPS",
+        "expense ratio",
+        "equal-weight",
+        "dividend yield",
+        "portfolio concentration"
+      ],
+      "insights": [
+        {
+          "ticker": "FSTA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "FSTA demonstrates superior performance with lower expense ratio (0.08%), higher 1-year return (8.34%), better 5-year growth ($1,385 vs $1,067), larger AUM ($1.3B), and lower maximum drawdown (-16.57%). These metrics indicate better value and risk-adjusted returns for investors."
+        },
+        {
+          "ticker": "COST",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Costco is highlighted as a top holding in FSTA, representing a significant portion of the fund's assets. Its inclusion as a major position suggests confidence in its performance as a defensive consumer staples stock."
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Walmart is identified as one of FSTA's top three holdings, accounting for nearly 37% of assets combined with Costco and P&G. Its prominence indicates strong positioning in the consumer staples sector."
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "P&G is listed as one of FSTA's top three concentrated holdings, representing a significant portion of the fund's assets and reflecting its importance in the consumer staples sector."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:48:13.612124+00:00",
+    "cache_key": "news_0cb7b32693d1f64f37689a1091971f9a",
+    "count": 2
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Sector Update: Health Care Stocks Softer Late Afternoon",
+      "description": "Health care stocks fell late Wednesday afternoon with the NYSE Health Care Index easing 0.1% and the",
+      "published_utc": "2025-11-19T15:59:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=447c142df8401b9ee36998045a2cc8d3457ecad3a60bad30d11c5ad7e760d4e7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137552856,
+      "datetime": 1763585948
+    },
+    {
+      "title": "Why big pharma is teaming up with AI giants to speed up drug discovery and make work easier for health care workers",
+      "description": "Eli Lilly and J&J recently announced partnerships with AI chipmaker Nvidia, pointing to a broader trend of tie-ups to advance drug discovery and improve workflows.",
+      "published_utc": "2025-11-19T12:36:12",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9198d300f6680a6b00772b2595cdd6c7dffb617e69103e36274a1ff973038fbd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137553860,
+      "datetime": 1763573772
+    },
+    {
+      "title": "Why Johnson & Johnson's Share Price Is Popping This Month",
+      "description": "Johnson & Johnson had strong Q3 results and reported an important acquisition.",
+      "published_utc": "2025-11-19T12:24:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4c23b55e511aabc13eb4f3cf2a1c482ac5cae020ca377f78be800941105a2f02",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137548652,
+      "datetime": 1763573086
+    },
+    {
+      "title": "Merck Stock Rise as New PAH Drug Winrevair Meets Goal in Another Study",
+      "description": "MRK's Winrevair hits its phase II goal in patients with CpcPH tied to HFpEF, setting up phase III plans and a potential path to broader use. Stock up.",
+      "published_utc": "2025-11-19T10:52:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=908076479ac0577d11ea4f1875a39845e1f30879e5a3ad0d4e4f290650a2f6d5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137548653,
+      "datetime": 1763567520
+    },
+    {
+      "title": "Pfizer: Is This Pharma Giant Finally A Bargain",
+      "description": "Discover why Pfizer stock may be set for a bull run by 2026 with key wins, strong Q3 earnings, and growth drivers.",
+      "published_utc": "2025-11-19T10:51:23",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b14da1ce34287ca7d78d68802417f3d04cb6090b18b3a83f6831d8c2b3047617",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1365641802/image_1365641802.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137549937,
+      "datetime": 1763567483
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:22:41.556820+00:00",
+    "cache_key": "news_fae50327cd7b31ebd7746d0027d98c83",
+    "count": 5
+  }
+}

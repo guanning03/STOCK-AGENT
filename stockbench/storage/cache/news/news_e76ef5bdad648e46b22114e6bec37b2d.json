@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "More Record Closing Highs as Fed Government May Be Closing",
+      "description": "All market indexes closed higher today on renewed exuberance for AI.",
+      "published_utc": "2025-09-30T18:24:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=37e78c0468d9dee66733e3cf7fddfcdbbfd6f8f8e1734508bc758a4b8a7174bc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136944393,
+      "datetime": 1759271040
+    },
+    {
+      "title": "Job Openings Increase Slightly In August, Higher Than Expected",
+      "description": "Job openings increased slightly in August, hitting 7.227 million vacancies according to the latest Job Openings and Labor Turnover Survey (JOLTS)",
+      "published_utc": "2025-09-30T16:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6250171e551c996643d71a336672bf807298ab31cf4fb92452d5e7b816b3ce5d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2111325448/image_2111325448.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136940780,
+      "datetime": 1759264200
+    },
+    {
+      "title": "Labor Market In New Era Of Low Churn, Uneasy Calm, Government Job Losses, And Crackdown On Illegal Immigration",
+      "description": "The red-hot turnover in the labor market has settled down from the chaos and churn in 2021 and 2022.",
+      "published_utc": "2025-09-30T15:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5ed78fc5d0b2a41bb39a1b5dc5295aedd08a498adae7491ca073e46b83cdb7c5",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2111325448/image_2111325448.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136940452,
+      "datetime": 1759260600
+    },
+    {
+      "title": "The Good, The Bad, And The Ugly Of The U.S. Economy",
+      "description": "The U.S. economy grew 3.8% in Q2, with robust momentum expected to continue for Q3. Click here for more information on the U.S. Economy.",
+      "published_utc": "2025-09-30T14:47:12",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c55d9e8d15067b98976979dfa5eb85f05f479c31849b52649a9662dfc4beab89",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/481720878/image_481720878.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136940310,
+      "datetime": 1759258032
+    },
+    {
+      "title": "Buy High Visibility Cash Flows For The Rate Cut Cycle",
+      "description": "Upcoming Fed rate cuts should benefit REITs and utilities most, as their bond-like cash flows are easier to revalue. Click here for more on Market Outlook.",
+      "published_utc": "2025-09-30T13:46:55",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5ffdb153981ae16f5e6d008ffc0dbf98a87cdf612a093ac6b318932d9845dac0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1442650775/image_1442650775.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136939979,
+      "datetime": 1759254415
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T04:42:33.359958+00:00",
+    "cache_key": "news_e76ef5bdad648e46b22114e6bec37b2d",
+    "count": 5
+  }
+}

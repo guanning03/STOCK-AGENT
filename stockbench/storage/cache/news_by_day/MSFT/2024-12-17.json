@@ -1,0 +1,35 @@
+{
+  "items": [
+    {
+      "id": "6c67bd9efd18577e44344b69f3d4e2a6dbe43c5c87c7b6761e754ca0562c8129",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Colorado-Wyoming Climate Resilience Engine Collaborates with Microsoft to Launch Groundbreaking Digital Twins Deployment Accelerator",
+      "author": "N/A",
+      "published_utc": "2024-12-17T15:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2024/12/17/2998409/0/en/Colorado-Wyoming-Climate-Resilience-Engine-Collaborates-with-Microsoft-to-Launch-Groundbreaking-Digital-Twins-Deployment-Accelerator.html",
+      "tickers": [
+        "MSFT"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/6615ebda-2172-48e8-9442-c964ad2cdde2",
+      "description": "The Colorado-Wyoming Climate Resilience Engine (CO-WY Engine) is collaborating with Microsoft's TechSpark program to launch a Digital Twins Deployment Accelerator, a business acceleration program focused on developing and commercializing digital twins technology for climate resiliency applications.",
+      "keywords": [
+        "climate resilience",
+        "digital twins",
+        "business acceleration",
+        "economic development"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft's involvement through its TechSpark program is seen as a significant step forward in harnessing the power of digital twins technology to address environmental challenges, which is a positive collaboration."
+        }
+      ]
+    }
+  ]
+}

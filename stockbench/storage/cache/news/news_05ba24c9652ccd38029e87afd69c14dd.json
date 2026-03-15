@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "XPAY: 20% Managed Distribution On S&P 500 Exposure",
+      "description": "",
+      "published_utc": "2025-04-23T13:18:44",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7751a15952c637c2e95dd1369b84ed8dd2072551831e1cdf59337af80dcac82f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134049146,
+      "datetime": 1745428724
+    },
+    {
+      "title": "VIX Is Still Wild, But Not for Long: 3 Volatility ETFs To Grab Before Calm Returns",
+      "description": "VIX, or the CBOE Volatility Index, is fluctuating around 30, a level that indicates moderately high market stress.",
+      "published_utc": "2025-04-23T11:14:16",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=bfee224e85ad22c5c537e54ca03b58cc6a13fb413d0d50a2995650a8ea5dcd59",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/04/23/Businessman-Pointing-At-Etf-exchange-Tra.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138472889,
+      "datetime": 1745421256
+    },
+    {
+      "title": "Politico Reporter Joshua Siegel Posts On X \"Scooplet: House Natural Resources Committee plans May 6 reconciliation markup. Their portion of GOP mega bill is expected to expand oil and gas lease sales and boost development of new mines for critical minerals\"",
+      "description": "https://subscriber.politicopro.com/article/2025/04/natural-resources-plans-may-6-reconciliation-markup-00306251",
+      "published_utc": "2025-04-23T10:13:25",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=141eb7e23d3bf5bd30167151f2aed25639dc25c51581f546f8615c81a4f9ba5c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138445574,
+      "datetime": 1745417605
+    },
+    {
+      "title": "The Market Is Not Equipped To Handle Trump",
+      "description": "",
+      "published_utc": "2025-04-23T09:35:04",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=54cbe386fa1b859252ea460cd9c8f7f6eb1e1f017457e88c0b613487e2e7846d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134045589,
+      "datetime": 1745415304
+    },
+    {
+      "title": "Stocks Surge On China Tariff Hopes, Tesla Jumps, Gold Loses Shine: What's Driving Markets Wednesday?",
+      "description": "Risk-on sentiment dominated Wall Street on Wednesday, as upbeat earnings reports and conciliatory messages from the Trump administration helped lift investor confidence.",
+      "published_utc": "2025-04-23T09:27:09",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=6c6e906e8326b16478b2ccd93d2eae278929be94e02f9ca02931846ce6f5c1f3",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/04/23/Graph-Chart-Of-Stock-Market-Investment-T_1.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138445993,
+      "datetime": 1745414829
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T23:30:18.861313+00:00",
+    "cache_key": "news_05ba24c9652ccd38029e87afd69c14dd",
+    "count": 5
+  }
+}

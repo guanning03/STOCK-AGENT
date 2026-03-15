@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": "3fbdab4345d23725c4f150bb132b4841156041215b4297cc2592361af1fdc1a7",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Digesting Super Bowl Ads, Dunkin' & Starbucks Plans, and Some Weight Loss Drug News",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-19T18:35:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/19/digesting-super-bowl-ads-dunkin-starbucks-plans-an/?source=iedfolrf0000001",
+      "tickers": [
+        "SBUX",
+        "HIMS",
+        "MCD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807559/dunkin-kendrick-on-offense-at-super-bowl.jpg",
+      "description": "The article discusses the lackluster Super Bowl ads, Dunkin' and Starbucks' marketing strategies, and Hims' weight loss drug advertising. It also covers McDonald's earnings and their approach to value-oriented customers.",
+      "keywords": [
+        "Super Bowl ads",
+        "Dunkin'",
+        "Starbucks",
+        "Hims",
+        "weight loss drugs",
+        "McDonald's"
+      ],
+      "insights": [
+        {
+          "ticker": "SBUX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Starbucks' response to Dunkin's ads, offering free coffee to rewards members, was seen as a brilliant move to connect with customers."
+        },
+        {
+          "ticker": "HIMS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Hims' Super Bowl ad highlighting issues with the healthcare system and positioning themselves as a more affordable solution was considered an effective marketing strategy."
+        },
+        {
+          "ticker": "MCD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "McDonald's Super Bowl ad was considered forgettable, but their earnings report showed mixed results, with revenue down but the company still generating significant cash flow."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T22:17:11.906467+00:00",
+    "cache_key": "news_26e82c291355b702c6ea8b06c4686c0c",
+    "count": 1
+  }
+}

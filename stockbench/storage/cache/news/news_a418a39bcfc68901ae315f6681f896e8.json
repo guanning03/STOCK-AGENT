@@ -1,0 +1,379 @@
+{
+  "items": [
+    {
+      "id": "04080b74ef1cc52637a437366e356eb5c25abb179439d4ff338e5cfed26bebc5",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Trump's Tariff Push Divides Executives: 'Negative Outcomes Are Not Priced Into' Markets",
+      "author": "Hayden Buckfire",
+      "published_utc": "2025-02-04T15:07:07Z",
+      "article_url": "https://www.benzinga.com/news/global/25/02/43465657/trumps-tariff-push-divides-executives-negative-outcomes-are-not-priced-into-markets",
+      "tickers": [
+        "GM",
+        "SHOP",
+        "UBS",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/02/04/Why-Does-Donald-Trump-Want-Migrants-Deta.jpeg?width=1200&height=800&fit=crop",
+      "description": "Executives have mixed reactions to Trump's tariffs, with some citing volatility, inflation, and manufacturing resilience. GM, Shopify, UBS, and JPMorgan CEOs offer differing views on the tariff impact.",
+      "keywords": [
+        "tariffs",
+        "executives",
+        "volatility",
+        "inflation",
+        "manufacturing"
+      ],
+      "insights": [
+        {
+          "ticker": "GM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "GM CEO Mary Barra says the company has prepared for the tariffs and believes Trump wants a strong manufacturing sector."
+        },
+        {
+          "ticker": "SHOP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Shopify CEO Tobi Lutke responded positively to the tariffs, announcing a 'buy local' feature."
+        },
+        {
+          "ticker": "UBS",
+          "sentiment": "negative",
+          "sentiment_reasoning": "UBS CEO Sergio Ermotti says the tariffs could result in 'spikes in volatility' and inflationary pressure that may impact central bank policy."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan CEO Jamie Dimon initially criticized the tariffs but now says critics should 'get over it' and that the tariffs could help with national security."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan CEO Jamie Dimon initially criticized the tariffs but now says critics should 'get over it' and that the tariffs could help with national security."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan CEO Jamie Dimon initially criticized the tariffs but now says critics should 'get over it' and that the tariffs could help with national security."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan CEO Jamie Dimon initially criticized the tariffs but now says critics should 'get over it' and that the tariffs could help with national security."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan CEO Jamie Dimon initially criticized the tariffs but now says critics should 'get over it' and that the tariffs could help with national security."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan CEO Jamie Dimon initially criticized the tariffs but now says critics should 'get over it' and that the tariffs could help with national security."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan CEO Jamie Dimon initially criticized the tariffs but now says critics should 'get over it' and that the tariffs could help with national security."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan CEO Jamie Dimon initially criticized the tariffs but now says critics should 'get over it' and that the tariffs could help with national security."
+        }
+      ]
+    },
+    {
+      "id": "3f53db6a4709b6ccc84f35b58be4dde0ced0ab4f878aef5525e0169fdf7fcf0c",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Smartest Vanguard ETF to Buy With $1,000 Right Now",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-04T11:12:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/04/the-smartest-vanguard-etf-to-buy-with-1000-right-n/?source=iedfolrf0000001",
+      "tickers": [
+        "VFH",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "WFC",
+        "WFCpA",
+        "WFCpC",
+        "WFCpD",
+        "WFCpL",
+        "WFCpY",
+        "WFCpZ",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK",
+        "AXP",
+        "BRK.A",
+        "BRK.B",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD",
+        "MA",
+        "SPGI",
+        "V"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805927/investor-2024.jpg",
+      "description": "The article discusses the potential for the financial sector to be one of the best-performing areas of the stock market in 2025 and beyond, driven by factors such as falling interest rates, looser regulations, and attractive valuations. The Vanguard Financials ETF (VFH) is highlighted as a way to gain exposure to the sector.",
+      "keywords": [
+        "financial sector",
+        "Vanguard Financials ETF",
+        "interest rates",
+        "regulations",
+        "valuations"
+      ],
+      "insights": [
+        {
+          "ticker": "VFH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that the Vanguard Financials ETF could be a great addition to a portfolio due to the potential tailwinds for the financial sector, such as falling interest rates and looser regulations."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that JPMorgan Chase trades at an attractive valuation, less than 14 times trailing-12-month earnings, and is one of the most expensive stocks in its peer group."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that JPMorgan Chase trades at an attractive valuation, less than 14 times trailing-12-month earnings, and is one of the most expensive stocks in its peer group."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that JPMorgan Chase trades at an attractive valuation, less than 14 times trailing-12-month earnings, and is one of the most expensive stocks in its peer group."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that JPMorgan Chase trades at an attractive valuation, less than 14 times trailing-12-month earnings, and is one of the most expensive stocks in its peer group."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that JPMorgan Chase trades at an attractive valuation, less than 14 times trailing-12-month earnings, and is one of the most expensive stocks in its peer group."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that JPMorgan Chase trades at an attractive valuation, less than 14 times trailing-12-month earnings, and is one of the most expensive stocks in its peer group."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that JPMorgan Chase trades at an attractive valuation, less than 14 times trailing-12-month earnings, and is one of the most expensive stocks in its peer group."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that JPMorgan Chase trades at an attractive valuation, less than 14 times trailing-12-month earnings, and is one of the most expensive stocks in its peer group."
+        },
+        {
+          "ticker": "WFC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Wells Fargo, so the sentiment is neutral."
+        },
+        {
+          "ticker": "WFCpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Wells Fargo, so the sentiment is neutral."
+        },
+        {
+          "ticker": "WFCpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Wells Fargo, so the sentiment is neutral."
+        },
+        {
+          "ticker": "WFCpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Wells Fargo, so the sentiment is neutral."
+        },
+        {
+          "ticker": "WFCpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Wells Fargo, so the sentiment is neutral."
+        },
+        {
+          "ticker": "WFCpY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Wells Fargo, so the sentiment is neutral."
+        },
+        {
+          "ticker": "WFCpZ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Wells Fargo, so the sentiment is neutral."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Bank of America, so the sentiment is neutral."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Bank of America, so the sentiment is neutral."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Bank of America, so the sentiment is neutral."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Bank of America, so the sentiment is neutral."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Bank of America, so the sentiment is neutral."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Bank of America, so the sentiment is neutral."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Bank of America, so the sentiment is neutral."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Bank of America, so the sentiment is neutral."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Bank of America, so the sentiment is neutral."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Bank of America, so the sentiment is neutral."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Bank of America, so the sentiment is neutral."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Bank of America, so the sentiment is neutral."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Bank of America, so the sentiment is neutral."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Bank of America, so the sentiment is neutral."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Bank of America, so the sentiment is neutral."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Bank of America, so the sentiment is neutral."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about American Express, so the sentiment is neutral."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Berkshire Hathaway, so the sentiment is neutral."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Berkshire Hathaway, so the sentiment is neutral."
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Goldman Sachs Group, so the sentiment is neutral."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Goldman Sachs Group, so the sentiment is neutral."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Goldman Sachs Group, so the sentiment is neutral."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Goldman Sachs Group, so the sentiment is neutral."
+        },
+        {
+          "ticker": "MA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Mastercard, so the sentiment is neutral."
+        },
+        {
+          "ticker": "SPGI",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about S&P Global, so the sentiment is neutral."
+        },
+        {
+          "ticker": "V",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Visa, so the sentiment is neutral."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:42:11.561830+00:00",
+    "cache_key": "news_a418a39bcfc68901ae315f6681f896e8",
+    "count": 2
+  }
+}

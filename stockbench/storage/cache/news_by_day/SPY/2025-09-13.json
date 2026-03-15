@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "3 Dividend Stocks I'm Buying As Irrational Exuberance Takes Over",
+      "description": "Current market conditions reflect irrational exuberance, with surging valuations in stocks, precious metals, crypto, reminiscent of past bubbles. Read an analysis here.",
+      "published_utc": "2025-09-13T04:10:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bc8bd620a652cd62d0d02459d5db4f80db49335c91cc68bebbf07b2116d4be4f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/813603864/image_813603864.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136733473,
+      "datetime": 1757751000
+    },
+    {
+      "title": "Weekly Indicators: Consumer Spending Continues To Shine",
+      "description": "Get timely U.S. economic forecasts using high-frequency indicators. Discover how mixed signals and consumer trends shape near-term outlooks. Click for the data.",
+      "published_utc": "2025-09-13T04:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a65c5254de011d82089a00c8fbe150e115dab56ea2563cef73642f0420c236e4",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/597267824/image_597267824.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136733441,
+      "datetime": 1757750400
+    },
+    {
+      "title": "Melt-Up Ahead?",
+      "description": "Interest rates are still high relative to where they were in 2021, but that may be about to change in a way that gives this yearâs everything-goes rally another burst of upward movement.",
+      "published_utc": "2025-09-13T00:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fdc91ac7c6b24f60537a3e8b92968ab61654d7d145bd837aeec3fb83f67a4cbf",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1318590411/image_1318590411.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136732602,
+      "datetime": 1757736900
+    }
+  ]
+}

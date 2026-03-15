@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Mega Wall Street dealmakers are having their best year ever",
+      "description": "In 2025, companies have announced 49 global 'mega deals,' the highest such count through the first nine months of any year ever.",
+      "published_utc": "2025-09-30T11:16:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fef850eb10eada523491617e0e14ebec5f461996c04aee00f261948062de6520",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136937582,
+      "datetime": 1759245408
+    },
+    {
+      "title": "Are You a Value Investor? This 1 Stock Could Be the Perfect Pick",
+      "description": "The Zacks Style Scores offers investors a way to easily find top-rated stocks based on their investing style. Here's why you should take advantage.",
+      "published_utc": "2025-09-30T09:40:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c18d4c7ff1e61d0160dc8caab62ba4446386527b7b6af5340d256d53f81d6062",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136937655,
+      "datetime": 1759239602
+    },
+    {
+      "title": "Fed Pivots: What it Means for MS' Capital Markets Business",
+      "description": "The Fed rate cut is set to revive corporate deals and trading, positioning Morgan Stanley's capital markets business for stronger growth.",
+      "published_utc": "2025-09-30T09:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a0259c1ecee3aa186ae2c56889f007d815dccaeaba0678c9f8914382debedbd3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136937583,
+      "datetime": 1759237800
+    },
+    {
+      "title": "Spotify downgraded at Goldman on valuation as growth priced in",
+      "description": "Investing.com -- Goldman Sachs downgraded Spotify Technology to Neutral from Buy, saying much of the music streaming company’s growth potential is already reflected in the share price after a sharp rally over the past year.",
+      "published_utc": "2025-09-30T09:04:46",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9507846908388f2a5df42fa6f31cb5aa0a09575c718e84d439f2cd4c07867f0e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136936122,
+      "datetime": 1759237486
+    },
+    {
+      "title": "Wall Street Braces for Government Shutdown Chaos",
+      "description": "Fitting for 2025, a government shutdown is all but guaranteed to deliver even more uncertainty into the macroeconomic mix.",
+      "published_utc": "2025-09-30T06:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=de92c3246bfc156489fe0ad6f0d9e1b3bbcdf9f3dc8f9fdce2e04105526b9a89",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136937628,
+      "datetime": 1759228200
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T04:38:11.869413+00:00",
+    "cache_key": "news_43091dcc520dfa5a4edbbcdb7cee2aa9",
+    "count": 5
+  }
+}

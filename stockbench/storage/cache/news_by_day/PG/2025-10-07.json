@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Procter & Gamble Co. stock outperforms competitors on strong trading day",
+      "description": "Procter & Gamble Co. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-10-07T12:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=226ed05543e676a3a9bc803b87425c5898152b7eabba26181f44fc5e1c736323",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137007367,
+      "datetime": 1759854720
+    },
+    {
+      "title": "Procter & Gamble cuts operations in Pakistan amid restructuring, report says",
+      "description": "The cuts come after its 2024 organic sales growth slowed to a seven-year low. The company vowed to review sluggish international markets.",
+      "published_utc": "2025-10-07T10:29:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e3250bb247e3758eed191291bcbde781bffd898638a95f30de65117d732cdaf6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136998920,
+      "datetime": 1759847366
+    },
+    {
+      "title": "P&G to Webcast the Procter & Gamble 2025 Virtual Annual Meeting of Shareholders October 14",
+      "description": "CINCINNATI, October 07, 2025--The Procter & Gamble Company (NYSE: PG) will webcast its 2025 Annual Meeting of Shareholders, held virtually via a live audio webcast on Tuesday, October 14, 2025, at 9:00 a.m. Eastern Time at www.virtualshareholdermeeting.com/PG2025.",
+      "published_utc": "2025-10-07T09:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ba1294941479b975918c549ca12ef62eb71a87c49a60d1517a2953a8694c3702",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136998921,
+      "datetime": 1759842900
+    }
+  ]
+}

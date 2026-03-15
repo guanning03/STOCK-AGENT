@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "id": "691a6269a3817549be791d91ecd1d04a24138f8b4e1c6870acecd6f7008ea005",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Can Walgreens Boots Alliance Stock Keep Soaring?",
+      "author": "Cory Renauer",
+      "published_utc": "2025-01-12T17:23:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/12/can-walgreens-boots-alliance-stock-keep-soaring/?source=iedfolrf0000001",
+      "tickers": [
+        "WBA",
+        "CVS",
+        "UNH",
+        "CI"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803691/investor-looks-worried-at-computer-in-a-living-room-setting-getty.jpg",
+      "description": "Walgreens Boots Alliance stock surged 27.5% after reporting better-than-expected fiscal first-quarter results. However, the company still faces challenges from vertically integrated pharmacy benefit managers and low-cost generic drug providers, which have hurt its profit margins.",
+      "keywords": [
+        "Walgreens Boots Alliance",
+        "pharmacy industry",
+        "pharmacy benefit managers",
+        "generic drugs"
+      ],
+      "insights": [
+        {
+          "ticker": "WBA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a mixed outlook for Walgreens Boots Alliance. While the company's recent results were better than expected, it still faces significant challenges in the pharmacy industry, including pressure from vertically integrated pharmacy benefit managers and low-cost generic drug providers. The company's profit margins have declined, and its healthcare segment is still losing money, which could lead to another dividend cut."
+        },
+        {
+          "ticker": "CVS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that CVS Health, along with UnitedHealth Group and Cigna, control a large portion of the pharmacy benefit management (PBM) market. This vertical integration has put pressure on Walgreens, as many of their customers are directed to use the PBM's own mail-order pharmacies. The article suggests that CVS Health's move to a similar low-cost model for its commercial pharmacy contracts could further challenge Walgreens."
+        },
+        {
+          "ticker": "UNH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that UnitedHealth Group, along with CVS Health and Cigna, control a large portion of the pharmacy benefit management (PBM) market. This vertical integration has put pressure on Walgreens, as many of their customers are directed to use the PBM's own mail-order pharmacies."
+        },
+        {
+          "ticker": "CI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Cigna, along with CVS Health and UnitedHealth Group, control a large portion of the pharmacy benefit management (PBM) market. This vertical integration has put pressure on Walgreens, as many of their customers are directed to use the PBM's own mail-order pharmacies."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:37:12.969460+00:00",
+    "cache_key": "news_71f75d875b7df7323174a6e7e56258d0",
+    "count": 1
+  }
+}

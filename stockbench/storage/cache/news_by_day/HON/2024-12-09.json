@@ -1,0 +1,56 @@
+{
+  "items": [
+    {
+      "id": "2a5bf87e2f4a077951d3c3fa66b20dd8c05c194fcd428f965c7fddc0422f5fad",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Air Starter Market is Anticipated to Grow at a CAGR of 4.5%, Reaching a Valuation of USD 695.36 million by 2034 | PMR",
+      "author": "Polaris Market Research",
+      "published_utc": "2024-12-09T11:42:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2024/12/09/2993595/0/en/Air-Starter-Market-is-Anticipated-to-Grow-at-a-CAGR-of-4-5-Reaching-a-Valuation-of-USD-695-36-million-by-2034-PMR.html",
+      "tickers": [
+        "IR",
+        "CAT",
+        "HON",
+        "MAS"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/cf0a808d-3703-43f4-9b34-ec72345f8585",
+      "description": "The global air starter market is expected to grow at a CAGR of 4.5% from 2025 to 2034, driven by increasing demand from offshore rigs, construction equipment, and the aerospace industry. The market is dominated by turbine air starters, with North America being the largest regional market.",
+      "keywords": [
+        "air starter",
+        "market growth",
+        "offshore rigs",
+        "construction equipment",
+        "aerospace industry",
+        "turbine air starters",
+        "North America"
+      ],
+      "insights": [
+        {
+          "ticker": "IR",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists Ingersoll Rand as one of the major players in the air starter market, but does not provide any additional details about the company's involvement or performance."
+        },
+        {
+          "ticker": "CAT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that the growing demand for construction equipment, such as excavators, bulldozers, and loaders, is driving the air starter market, which could benefit Caterpillar as a leading manufacturer of such equipment."
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that the growing demand for air travel and the expansion of the aerospace industry are driving the air starter market, which could benefit Honeywell as a major supplier of aerospace and defense products."
+        },
+        {
+          "ticker": "MAS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists MASCO as one of the major players in the air starter market, but does not provide any additional details about the company's involvement or performance."
+        }
+      ]
+    }
+  ]
+}

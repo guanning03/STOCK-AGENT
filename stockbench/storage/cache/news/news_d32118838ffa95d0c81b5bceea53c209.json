@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Markets Sell Off on Noise About Tariffs, etc.",
+      "description": "We kick off the historically weak trading month of September with the Dow closing -0.55%, the S&P 500 -0.69% and the Nasdaq -0.60%.",
+      "published_utc": "2025-09-02T18:41:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b4aa324ade95cb540fe0aec012a323df7da6bdae96028c3bd527e195f1c48e6c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136613004,
+      "datetime": 1756852860
+    },
+    {
+      "title": "Update: Market Chatter: US Regulators Scale Down Bank Exams as Trump Policies Shift Focus From Non-Core Issues",
+      "description": "(Updates to add Office of the Comptroller of the Currency's response in fourth paragraph.) US reg",
+      "published_utc": "2025-09-02T17:05:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a12b69fe89b9e0e5f971abd1df986e2190fda3c1a91b701a7f99975f5d1063e6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136612863,
+      "datetime": 1756847137
+    },
+    {
+      "title": "Rate cuts would be boon for 2026 retail spending: Goldman Sachs",
+      "description": "Goldman Sachs will hear from top executives and retail leaders at its 32nd Annual Global Retailing Conference later this week. Goldman Sachs US retail analyst in global investment research Kate McShane shares her 2026 forecast for US consumer spending with Josh Lipton and what interest rate cuts could mean for lower and middle-income Americans. To watch more expert insights and analysis on the latest market action, check out more Market Domination.",
+      "published_utc": "2025-09-02T16:51:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=764d824be8d2bb0904237a3bcb857949aacf23776921a4fb7f34809cd87c72d4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136612903,
+      "datetime": 1756846263
+    },
+    {
+      "title": "Sector Update: Financial Stocks Fall Late Afternoon",
+      "description": "Financial stocks dropped in late Tuesday afternoon trading with the NYSE Financial Index falling 1.2",
+      "published_utc": "2025-09-02T16:39:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=12a4e965979f38ce7be050e6155580616b6959b08b4929afc32c3437a4865a24",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136613019,
+      "datetime": 1756845579
+    },
+    {
+      "title": "Sector Update: Financial Stocks Slide in Afternoon Trading",
+      "description": "Financial stocks were retreating in Tuesday afternoon trading, with the NYSE Financial Index falling",
+      "published_utc": "2025-09-02T14:52:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=30ef80498f7552edff145645ae5b499274d02a6c62251e7da01473b2e1ce419a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136613020,
+      "datetime": 1756839128
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:06:33.765794+00:00",
+    "cache_key": "news_d32118838ffa95d0c81b5bceea53c209",
+    "count": 5
+  }
+}

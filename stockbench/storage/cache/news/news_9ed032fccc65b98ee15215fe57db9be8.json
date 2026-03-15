@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "What Happens When The January Effect Meets Midterm Elections?",
+      "description": "To measure the \"election premium,\" traders analyze implied volatility across major index options: the E-mini S&P 500, E-mini Nasdaq-100, and E-mini Russell 2000.",
+      "published_utc": "2026-01-20T18:25:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8d0bc9237cab3f4b1ceaf7640a6414c596b59d13ecb258e243fbba92bb27265d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2242854491/image_2242854491.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138192311,
+      "datetime": 1768951500
+    },
+    {
+      "title": "First Year Of Trump's Second Term In The Books",
+      "description": "Looking back on the past year using our ETF asset class matrix below, the single best-performing assets were precious metals.",
+      "published_utc": "2026-01-20T18:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=bdfa19fb0c16129c408a2d661ed7b7484330a9f090e2d4dcaf22d196ef2a0051",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2223715503/image_2223715503.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138192244,
+      "datetime": 1768950900
+    },
+    {
+      "title": "Rates Spark: Yields Have Spiked, But Levels Are Far From Overly Elevated",
+      "description": "The 'back and forth' on Greenland is an issue. But nothing has actually happened.",
+      "published_utc": "2026-01-20T17:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3718e9b22e452eeea25baeabe713f027d8b4eb57cad2d92ae710bfdafcd8ff48",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1361920704/image_1361920704.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138192033,
+      "datetime": 1768949100
+    },
+    {
+      "title": "World Markets Watchlist: January 20, 2026",
+      "description": "Six of the nine indexes on our world markets watch list posted year-to-date gains through January 20, 2026.",
+      "published_utc": "2026-01-20T14:25:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=526db9924c0f12a42b8cc34a9c1c01ee90578d76b477c90b2ae97dcd04a9e4a9",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2230302163/image_2230302163.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138191157,
+      "datetime": 1768937100
+    },
+    {
+      "title": "Stocks Rebound: Dow Jones And U.S. Stock Index Outlook",
+      "description": "Stock indexes reject their recent highs as trade uncertainty returns.",
+      "published_utc": "2026-01-20T14:10:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=90d03091b6aa8d4aa7dde4e1aacc11868c4d9f805c59522eaacbf7d2b825019c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1040865674/image_1040865674.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138191126,
+      "datetime": 1768936200
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:48:57.030549+00:00",
+    "cache_key": "news_9ed032fccc65b98ee15215fe57db9be8",
+    "count": 5
+  }
+}

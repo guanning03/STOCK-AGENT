@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Dogs Of The Dow Continue Outperforming Broader Market",
+      "description": "Through the end of November, the year-to-date total return of the Dogs of the Dow equals 20.96%, outpacing the Dow Jones Industrial Average (DIA) return of 13.86% and outpacing the broader",
+      "published_utc": "2025-11-28T20:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0aadeff520315f8086db487f91ec1e84a2de77e3a99b87a27a9d43b017e3cfef",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1040865674/image_1040865674.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137634060,
+      "datetime": 1764380700
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "items": [
+    {
+      "id": "99688c855c7a27bcd5be8d214a47df5189842486158ebd5ccb67568162d8946d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Taiwan Semiconductor Stock a Buy Now?",
+      "author": "Anders Bylund",
+      "published_utc": "2024-12-25T16:21:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/25/is-taiwan-semiconductor-stock-a-buy-now/?source=iedfolrf0000001",
+      "tickers": [
+        "TSM",
+        "AAPL",
+        "TSLA",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802003/semiconductor.jpg",
+      "description": "TSMC's stock has doubled in 2024, but its valuation ratios are high. The company is a world-class business, but growth-oriented investors may find the stock's current price reasonable, while value-focused investors may find other chipmakers more appealing.",
+      "keywords": [
+        "TSMC",
+        "semiconductor",
+        "AI",
+        "valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "TSM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "TSMC is a world-class business, but its stock is trading at high valuation ratios. Growth-oriented investors may find the current price reasonable, while value-focused investors may prefer other chipmakers."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Apple is mentioned as a company that spent less on capital investments than TSMC, but the article does not provide a direct sentiment on Apple's stock."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Tesla is mentioned as a company that spent less on capital investments than TSMC, but the article does not provide a direct sentiment on Tesla's stock."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Nvidia is mentioned as a company that spent less on capital investments than TSMC, but the article does not provide a direct sentiment on Nvidia's stock."
+        }
+      ]
+    },
+    {
+      "id": "9a3f0d59fd04b5f847a4ac19febf3f8708ddb99d17979dfe7d00f5acb2321df9",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "35% of Warren Buffett's $296 Billion Portfolio Is Invested in 3 Artificial Intelligence (AI) Stocks",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-25T10:34:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/25/35-warren-buffett-296-billion-invested-3-ai-stocks/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN",
+        "KO",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801917/warren-buffett-looking-at-the-camera.jpg",
+      "description": "Warren Buffett's Berkshire Hathaway has invested in three companies that are integrating AI into their businesses: Amazon, Coca-Cola, and Apple. These investments make up 35% of Buffett's $296 billion portfolio.",
+      "keywords": [
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "Artificial Intelligence",
+        "Amazon",
+        "Coca-Cola",
+        "Apple"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon is using AI in its fulfillment centers and cloud computing platform, which is growing rapidly and contributing to the company's overall success."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Coca-Cola is investing heavily in AI to improve its marketing, supply chain, and productivity, which could add significant value to Berkshire's long-term investment in the company."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple has been experimenting with AI for years and recently launched Apple Intelligence, which introduces new AI-powered features that could encourage customers to upgrade to the latest devices and drive revenue and earnings growth."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:00:05.624862+00:00",
+    "cache_key": "news_813a1fc0bc45f9dec29e848487f5bb09",
+    "count": 2
+  }
+}

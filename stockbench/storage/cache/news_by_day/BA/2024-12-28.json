@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "id": "8fdf18d7e28db837ce3b50e2721b3e0268261e9b8e7cf30e32992ed6bc2c89c7",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "GE Aerospace: Buy, Sell, or Hold?",
+      "author": "Lee Samaha",
+      "published_utc": "2024-12-28T08:14:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/28/ge-aerospace-buy-sell-or-hold/?source=iedfolrf0000001",
+      "tickers": [
+        "GE",
+        "BA",
+        "BApA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801938/successful-investor.jpg",
+      "description": "GE Aerospace has had an excellent year, with strong growth in commercial aerospace services revenue and margins. The market has assigned it a premium valuation due to its dominant position in the aircraft engine industry and the promise of a long-term revenue stream from servicing engines. However, some concerns, such as lower-than-expected defense profit and supply chain issues, may cause investors to pause before buying the stock.",
+      "keywords": [
+        "GE Aerospace",
+        "aircraft engines",
+        "commercial aerospace services",
+        "valuation",
+        "supply chain"
+      ],
+      "insights": [
+        {
+          "ticker": "GE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights GE Aerospace's strong operational performance, dominant position in the aircraft engine industry, and the promise of a long-term revenue stream from servicing engines. This has led to the market assigning it a premium valuation."
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article discusses GE Aerospace's engines powering various Boeing aircraft models, but does not provide any specific sentiment or analysis for Boeing."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article discusses GE Aerospace's engines powering various Boeing aircraft models, but does not provide any specific sentiment or analysis for Boeing."
+        }
+      ]
+    }
+  ]
+}

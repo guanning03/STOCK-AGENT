@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "If I Could Own Only 1 Quantum Computing Stock for 2026, It Would Be This",
+      "description": "The technology sector has a bad habit of switching from one hot investment idea to the next.",
+      "published_utc": "2026-03-03T17:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=59cb98d6576e65a24a07fc7c788c11406a327ff2e3bd3c688e61653757f232b0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139291803,
+      "datetime": 1772575500
+    },
+    {
+      "title": "7 Software Stocks Immune To AI That The Market Keeps Beating",
+      "description": "AI-driven software selloff may be mispricing infrastructure stocks.",
+      "published_utc": "2026-03-03T13:23:55",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=60c9df609413438a5e520062d5dea9cb9b75a98ed8cf93a7f68094c95b9ea883",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2219944520/image_2219944520.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139291702,
+      "datetime": 1772562235
+    },
+    {
+      "title": "If IBM Can Drop 13% In A Day, What Does This Say About These Market Conditions?",
+      "description": "",
+      "published_utc": "2026-03-03T13:22:56",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=50a969df8c46c8dfea754785e87f06a086d4479c3f2c9c7497290a9bb92cfc44",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139291705,
+      "datetime": 1772562176
+    },
+    {
+      "title": "Agentic AI leveraged to upend cloud rivals",
+      "description": "Cloud rivals are leveraging GenAI innovations to make a play for dominance in the cloud wars.",
+      "published_utc": "2026-03-03T11:18:43",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=124fd6341b8cdd1b0fce953c3483ad1fccb6fb49b0a0f7985518e074df284889",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139289805,
+      "datetime": 1772554723
+    },
+    {
+      "title": "10 Information Technology Stocks With Whale Alerts In Today's Session",
+      "description": "",
+      "published_utc": "2026-03-03T08:35:16",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=abb9c38fc3cf1d617e9813e2e7194efedc86b2e00c9aa98c879f1611571cf858",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=2048&height=1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139296252,
+      "datetime": 1772544916
+    }
+  ]
+}

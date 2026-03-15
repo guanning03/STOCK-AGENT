@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "id": "b3d229793089fd06fc9d04203934651a424c671707e9fafc35484a5a207daf94",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Intrusion Detection System Market to USD 11.43 Billion by 2032, Owing to Increasing Demand for Enhanced Security Solutions | Research by SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2024-12-21T14:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2024/12/21/3000932/0/en/Intrusion-Detection-System-Market-to-USD-11-43-Billion-by-2032-Owing-to-Increasing-Demand-for-Enhanced-Security-Solutions-Research-by-SNS-Insider.html",
+      "tickers": [
+        "PANW",
+        "CSCO",
+        "FTNT",
+        "IBM"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The Intrusion Detection System market is experiencing substantial growth due to the rising need for enhanced security measures across industries. The integration of Artificial Intelligence and Machine Learning into IDS technology has transformed the cybersecurity landscape, reducing detection times and enhancing threat detection accuracy.",
+      "keywords": [
+        "Intrusion Detection System",
+        "Cybersecurity",
+        "Artificial Intelligence",
+        "Machine Learning"
+      ],
+      "insights": [
+        {
+          "ticker": "PANW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Palo Alto Networks has launched an updated version of its IDS system, integrating enhanced deep packet inspection (DPI) to detect sophisticated cyberattacks, particularly in cloud environments, indicating the company's efforts to improve its IDS offerings."
+        },
+        {
+          "ticker": "CSCO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Cisco has expanded its portfolio with an AI-powered intrusion detection platform, using machine learning algorithms to detect anomalies and identify emerging threats more effectively, suggesting the company's commitment to advancing its IDS technology."
+        },
+        {
+          "ticker": "FTNT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article includes Fortinet as a major player in the Intrusion Detection System market, but does not mention any recent developments or advancements related to the company's IDS products."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article lists IBM as one of the major players in the Intrusion Detection System market, but does not provide any additional information about the company's IDS solutions or initiatives."
+        }
+      ]
+    }
+  ]
+}

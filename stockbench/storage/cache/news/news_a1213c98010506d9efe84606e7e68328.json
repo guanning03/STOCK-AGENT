@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Wall Street Remains Bullish on ATI Inc (ATI) Despite Revenue Miss",
+      "description": "ATI Inc. (NYSE:ATI) is one of the Best Performing NYSE Stocks According to Analysts. Wall Street is bullish on the stock despite the company missing revenue estimates for FQ2 2025 by $15.80 million. On the bright side, the EPS of $0.74 topped consensus by $0.03. Several analysts have given a bullish rating on the stock […]",
+      "published_utc": "2025-08-31T17:12:36",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0ffba83c581a8047ded829587f19288ffa7fa6916d949e7df902b83362abde0c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136596261,
+      "datetime": 1756674756
+    },
+    {
+      "title": "Powell's Rate Cut Plans, Trump's Investment Strategy And More: This Week In Politics",
+      "description": "Alibaba&#39;s new AI chip, Fed rate cut doubts, Trump&#39;s strategic investments, defense stock surge, and Cracker Barrel&#39;s logo backlash led this weekend&#39;s top headlines.",
+      "published_utc": "2025-08-31T01:00:27",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f2c4de34202035cb598a4d799e19f243ffcb01000578f7a42823ea3bf8f8b2d0",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/08/31/Wilkes-barre--Pa---August-2--2018-Donald_0.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138802120,
+      "datetime": 1756616427
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:00:39.668077+00:00",
+    "cache_key": "news_a1213c98010506d9efe84606e7e68328",
+    "count": 2
+  }
+}

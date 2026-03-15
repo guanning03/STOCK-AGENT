@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "id": "a78fdfd57a638e9af326035bf54dd187f5f86aa56a13c2f7fb13b34f22d3a079",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "A Permabull's Perspective Tends to Outlast All Bearish Predictions",
+      "author": "Ed Yardeni",
+      "published_utc": "2024-12-25T08:35:00Z",
+      "article_url": "https://www.investing.com/analysis/a-permabulls-perspective-tends-to-outlast-all-bearish-predictions-200655609",
+      "tickers": [
+        "MSFT",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD"
+      ],
+      "amp_url": "https://m.investing.com/analysis/a-permabulls-perspective-tends-to-outlast-all-bearish-predictions-200655609?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "The article discusses the author's perspective as a permabull, arguing that his optimistic forecasts have often been proven right over the long term, despite criticism from bearish analysts. The author provides an overview of his forecasting track record and contrasts it with the tendency of permabears to get investors out of the market before significant market tops.",
+      "keywords": [
+        "stock market",
+        "forecasting",
+        "permabull",
+        "permabear",
+        "economic outlook"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Microsoft CoPilot as a source for identifying prominent permabear economists and strategists, but does not provide any specific commentary on the company."
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article criticizes Goldman Sachs' economists for predicting only a 3% annualized return for the S&P 500 over the next 10 years, arguing that this forecast is too pessimistic and fails to account for the potential for higher valuations in the future."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article criticizes Goldman Sachs' economists for predicting only a 3% annualized return for the S&P 500 over the next 10 years, arguing that this forecast is too pessimistic and fails to account for the potential for higher valuations in the future."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article criticizes Goldman Sachs' economists for predicting only a 3% annualized return for the S&P 500 over the next 10 years, arguing that this forecast is too pessimistic and fails to account for the potential for higher valuations in the future."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article criticizes Goldman Sachs' economists for predicting only a 3% annualized return for the S&P 500 over the next 10 years, arguing that this forecast is too pessimistic and fails to account for the potential for higher valuations in the future."
+        }
+      ]
+    }
+  ]
+}

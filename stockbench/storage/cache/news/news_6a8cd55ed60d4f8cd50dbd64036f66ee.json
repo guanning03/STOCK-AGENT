@@ -1,0 +1,127 @@
+{
+  "items": [
+    {
+      "id": "438f27fbdd28a8922c7b22fb3dca5faa99609e5b26522b47fd6021dbec451673",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Industrial Protective Clothing Fabrics Market Size Worth US$ 24,747.6 Billion with 8.1% CAGR by 2034 | Fact.MR Report",
+      "author": "Fact.Mr",
+      "published_utc": "2025-01-08T11:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/08/3006038/0/en/Industrial-Protective-Clothing-Fabrics-Market-Size-Worth-US-24-747-6-Billion-with-8-1-CAGR-by-2034-Fact-MR-Report.html",
+      "tickers": [
+        "MMM",
+        "DD",
+        "HON",
+        "LAKE"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/f482b854-04d1-4f4e-9237-f7c7c6823e10",
+      "description": "The industrial protective clothing fabrics market is expected to grow at a CAGR of 8.1% from 2024 to 2034, driven by increased safety regulations, innovation, and sustainability initiatives. Aramid & blends are the dominant material type, and the oil & gas industry is a key end-user.",
+      "keywords": [
+        "industrial protective clothing fabrics",
+        "safety regulations",
+        "sustainability",
+        "aramid & blends",
+        "oil & gas"
+      ],
+      "insights": [
+        {
+          "ticker": "MMM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "3M is mentioned as a key player in the industrial protective clothing fabrics market, indicating its strong presence and potential to benefit from the market growth."
+        },
+        {
+          "ticker": "DD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "DuPont is mentioned as a key player in the industrial protective clothing fabrics market and has launched a new sustainable product, indicating its commitment to innovation and sustainability in the industry."
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Honeywell International Inc. is mentioned as a key player in the industrial protective clothing fabrics market, indicating its strong presence and potential to benefit from the market growth."
+        },
+        {
+          "ticker": "LAKE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Lakeland Industries, Inc. is mentioned as a key player in the industrial protective clothing fabrics market, indicating its strong presence and potential to benefit from the market growth."
+        }
+      ]
+    },
+    {
+      "id": "71534c19b443677e47d8a7bb1211b8c50f9c2ff2f0f0de459d9e97fd50873315",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Satellite Communication Market to surpass USD 71.5 billion by 2034, Says Global Market Insights inc.",
+      "author": "Global Market Insights Inc.",
+      "published_utc": "2025-01-08T09:30:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/08/3006005/0/en/Satellite-Communication-Market-to-surpass-USD-71-5-billion-by-2034-Says-Global-Market-Insights-inc.html",
+      "tickers": [
+        "SATS",
+        "GD",
+        "GILT",
+        "HON",
+        "IRDM",
+        "LHX",
+        "VSAT"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/6a29379b-a16f-4ee6-9798-26bdadb816f3",
+      "description": "The satellite communication market is expected to grow significantly, driven by the increasing demand for reliable internet connectivity, particularly in remote and underserved areas. The services segment is projected to experience the highest growth, with a CAGR of 12.5% during the forecast period.",
+      "keywords": [
+        "satellite communication",
+        "internet connectivity",
+        "remote areas",
+        "services",
+        "growth"
+      ],
+      "insights": [
+        {
+          "ticker": "SATS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions EchoStar Mobile as one of the companies working in the satellite communication industry, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "GD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions General Dynamics Mission Systems as one of the companies working in the satellite communication industry, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "GILT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Gilat Satellite Networks as one of the companies working in the satellite communication industry, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "HON",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Honeywell as one of the companies working in the satellite communication industry, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "IRDM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Iridium Communications as one of the companies working in the satellite communication industry, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "LHX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions L3Harris Technologies as one of the companies working in the satellite communication industry, but does not provide any specific information about the company's performance or outlook."
+        },
+        {
+          "ticker": "VSAT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Viasat as one of the companies working in the satellite communication industry, but does not provide any specific information about the company's performance or outlook."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:29:33.819614+00:00",
+    "cache_key": "news_6a8cd55ed60d4f8cd50dbd64036f66ee",
+    "count": 2
+  }
+}

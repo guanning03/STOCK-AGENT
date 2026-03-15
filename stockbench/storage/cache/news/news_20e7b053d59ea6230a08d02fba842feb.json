@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Dow Jones Futures: Nvidia Tests Key Level; AppLovin, Apple, Palantir, Tesla In Buy Zones",
+      "description": "Dow Jones Futures: Nvidia Tests Key Level; AppLovin, Apple, Palantir, Tesla In Buy Zones",
+      "published_utc": "2025-12-22T18:11:37",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=6a697f0df60a3c33597f6941fc6e84b0f6963a80d6c8c690d22cffbf7b03c72f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138005194,
+      "datetime": 1766445097
+    },
+    {
+      "title": "Apple (AAPL) Stock Slides as Market Rises: Facts to Know Before You Trade",
+      "description": "Apple (AAPL) closed at $270.83 in the latest trading session, marking a -1.04% move from the prior day.",
+      "published_utc": "2025-12-22T17:45:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0a046dc45c722f5f40f1369ff7dc811267a3bd3bab9459201d258097bb9252ad",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137878165,
+      "datetime": 1766443504
+    },
+    {
+      "title": "Tracking Cliff Asness' AQR Capital Management 13F Portfolio - Q3 2025 Update",
+      "description": "AQR Capital Managementâs Q3 2025 13F portfolio surged to ~$156B. Check out the stake increases and decreases of the portfolio here.",
+      "published_utc": "2025-12-22T15:21:39",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a4fd157bfb3468b443753f8ebf096bfecfaf327d51b3f7f348d33e6c5d937026",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137876493,
+      "datetime": 1766434899
+    },
+    {
+      "title": "Ranking the Best \"Magnificent Seven\" Stocks to Buy for 2026. Here's My No. 7",
+      "description": "The company has a market capitalization near $4 trillion.",
+      "published_utc": "2025-12-22T14:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=735d28afd07ab872ff54bc100656a762f844486b411fd056dce0ce38b381bb7a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137878166,
+      "datetime": 1766431200
+    },
+    {
+      "title": "INTC: Intel Foundry Push and Nvidia Backing Could Drive 2026 Growth",
+      "description": "Intel's Advanced Nodes and Customer Hunt Could Shape Its Market Future",
+      "published_utc": "2025-12-22T13:05:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=36c41ee35e7166998f39a93e88b0290a0911a6c5f66b1225fec4340ddba2b33d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137878167,
+      "datetime": 1766426710
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T09:03:22.894804+00:00",
+    "cache_key": "news_20e7b053d59ea6230a08d02fba842feb",
+    "count": 5
+  }
+}

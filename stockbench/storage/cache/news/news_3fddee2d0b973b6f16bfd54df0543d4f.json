@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Dogs of the Dow Had a Strong Year. Here Are the 10 Stocks for 2026.",
+      "description": "High-yielding Dow stocks outperformed the broader market this year. Will new Dow dogs Home Depot, Nike, and UnitedHealth keep the streak going?",
+      "published_utc": "2025-12-29T15:09:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cd50e43566d9a9aba8b1e25f1fc787bcfa25e7011508eceb15f5ea3da5f72ed7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137934700,
+      "datetime": 1767038940
+    },
+    {
+      "title": "2026 Big Tech Quantum Bets: IBM and Amazon's Edge Over Pure-Plays?",
+      "description": "IBM's diversified quantum roadmap and steady progress could give Big Tech an edge in 2026 as pure-play quantum stocks lose momentum.",
+      "published_utc": "2025-12-29T15:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=14c4d12b8557d2a9fc41a5133e6d45a0453bbeeafd6ea84dd9fdf531a913269d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137938498,
+      "datetime": 1767038400
+    },
+    {
+      "title": "Quantum Is No Longer a Thing of the Future. 4 Stocks to Watch.",
+      "description": "Pure plays and big tech players alike are scrambling to become the first to deliver a ‘useful’ quantum computer.",
+      "published_utc": "2025-12-29T14:49:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=376c8abc1cf636a834f00707bed612db217954846c76627aa0a3d638f82362e2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137934902,
+      "datetime": 1767037740
+    },
+    {
+      "title": "Louis Gerstner Jr., Former CEO Who Transformed IBM, Dies at 83",
+      "description": "The company looked to be in an unfixable decline when he took over in 1993—and changed its focus from hardware to services.",
+      "published_utc": "2025-12-29T14:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=08900520391e006f9da9d9df712867129eac31a064fcff371fec432155c8b0c6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137935063,
+      "datetime": 1767036780
+    },
+    {
+      "title": "Top Research Reports for Apple, Cisco & IBM",
+      "description": "Apple leads today's top research reports, with Services surpassing 1B paid subscribers and expectations for double-digit iPhone growth in fiscal Q1.",
+      "published_utc": "2025-12-29T13:53:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d3e929e9e45ce4db3db17a754022f2bbcf76597e57a52c33a9857764b91aee19",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137934604,
+      "datetime": 1767034380
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T09:20:53.701321+00:00",
+    "cache_key": "news_3fddee2d0b973b6f16bfd54df0543d4f",
+    "count": 5
+  }
+}

@@ -1,6 +1,66 @@
 {
   "items": [
     {
+      "title": "Washington Post investigating cyberattack on journalists' email accounts, source says",
+      "description": "The Washington Post is investigatinga cyberattack on email accounts of some of its journalists, asource familiar with the matter told Reuters on Sunday. There has been a possible...",
+      "published_utc": "2025-06-15T14:06:12",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=9368c6f1d073f8d1b4797f0783205b559702b7b2528cd004437650e57d85cb67",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135287899,
+      "datetime": 1750010772
+    },
+    {
+      "title": "Washington Post investigating cyberattack on journalists, WSJ reports",
+      "description": "A cyberattack on the Washington Postcompromised the email accounts of several journalists and wasmost likely the work of a foreign government, the Wall StreetJournal reported on Sunday. ...",
+      "published_utc": "2025-06-15T11:49:08",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=a52de5789ad29fa02cb13592d61a8495be3388331e660cf5a097ff780a7119ae",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135287095,
+      "datetime": 1750002548
+    },
+    {
+      "title": "TDV: Technology Dashboard For June",
+      "description": "",
+      "published_utc": "2025-06-15T10:32:21",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=dfdcb88eeb2ba4479d427689e094cce86a7c7db84807f4fc1735ee06061f2962",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135286879,
+      "datetime": 1749997941
+    },
+    {
+      "title": "Impax Sustainable Allocation Fund Q1 2025 Commentary",
+      "description": "The Impax Sustainable Allocation Fund underperformed its blended benchmark (60% S&P 500/40% Bloomberg Barclays US Aggregate Bond Index). Read more here.",
+      "published_utc": "2025-06-15T06:21:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ac72484ea92ad51b25b5cb238a33f6161c356f8bfe39e905ad376a756a3b7185",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1036558944/image_1036558944.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135285363,
+      "datetime": 1749982860
+    },
+    {
       "title": "The \"Magnificent Seven\" Are Still Growing Faster Than the Rest of the S&P 500. Here's When That Could Change, According to Wall Street Analysts.",
       "description": "The high valuations of most of the group could be a concern.",
       "published_utc": "2025-06-15T06:00:00",
@@ -14,6 +74,21 @@
       "api_source": "finnhub_company",
       "id": 135274105,
       "datetime": 1749938400
+    },
+    {
+      "title": "Warren Buffett Has $90 Billion Invested in These 9 Artificial Intelligence (AI) Stocks. Here's the Best of the Bunch.",
+      "description": "Berkshire Hathaway owns only two AI stocks.  The best Buffett AI stock should benefit tremendously as organizations build and deploy AI models in the cloud.  Warren Buffett readily admits that he doesn't understand artificial intelligence (AI).",
+      "published_utc": "2025-06-15T05:49:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dc96a2998dff6b6ccacb1637b90cad435c62b2f6706c11eacc6b2464c33980b3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135284896,
+      "datetime": 1749980940
     }
   ]
 }

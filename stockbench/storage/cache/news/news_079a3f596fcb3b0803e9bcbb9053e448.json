@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Markets Weekly Outlook - NFP Forecast, Fed's New Direction, RBA Rate Hike Risk, BoE/ECB Pause And Big Tech Earnings",
+      "description": "A blockbuster week for global markets with wild price swings, geopolitical risk, central bank meetings and a new Fed Chair nominated. Key focus for the week ahead: Alphabet & Amazon earnings",
+      "published_utc": "2026-02-01T18:58:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=94f1ea105c36c8ff9ff9dc1387f92f0d9e5f0618d810c1117e4bc70c0f5d433f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/485774132/image_485774132.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138329049,
+      "datetime": 1769990280
+    },
+    {
+      "title": "Top 15 High-Growth Dividend Stocks For February 2026",
+      "description": "Top 15 dividend growth stocks for Feb 2026: 1.52% yield, 15.48% 5yr dividend growth & ~27% undervalued.",
+      "published_utc": "2026-02-01T17:22:49",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=eb26e59832bc4232f43899980d94571f886c0406589c3527818dd2fd722ea99c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2205041348/image_2205041348.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138328669,
+      "datetime": 1769984569
+    },
+    {
+      "title": "S&P 500: Beware February (Technical Analysis)",
+      "description": "S&P 500 rose 1.4% in January; DeMARK signals, Fed shifts, and a stable dollar suggest a 10% drop risk with a 7050 exit. Find out why 6824 is a key entry level.",
+      "published_utc": "2026-02-01T11:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3da2707c940d4184c7173f3863cc290319e4679520971968082e8e0da4ff6faf",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2254337493/image_2254337493.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138326564,
+      "datetime": 1769961600
+    },
+    {
+      "title": "S&P 500 Vs. Small Caps: Bigger Is Still Better; Why Smaller Stocks Are Useless, For Now",
+      "description": "Small-cap stocks have struggled to deliver alpha. Get an updated take on why large caps dominate and how to trade IWM/RWM short termâread now.",
+      "published_utc": "2026-02-01T06:20:30",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=8e04069a547ca24e5f50b1d5cd5947fc829ceff65151af4a15c3a84c5630fe66",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1455779066/image_1455779066.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138324595,
+      "datetime": 1769944830
+    },
+    {
+      "title": "Treasury Issuance Appears To Be A Problem For Risk Assets",
+      "description": "",
+      "published_utc": "2026-02-01T04:55:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f322baa59abb937ce93fca7caa5c4e03c498a1811db0b277bc2d49dfe4945c32",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138324132,
+      "datetime": 1769939700
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:25:47.022685+00:00",
+    "cache_key": "news_079a3f596fcb3b0803e9bcbb9053e448",
+    "count": 5
+  }
+}

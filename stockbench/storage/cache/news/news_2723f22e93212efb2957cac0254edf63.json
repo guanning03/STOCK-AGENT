@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Oracle Q3 Earnings Call Highlights",
+      "description": "Oracle (NYSE:ORCL) executives said fiscal third-quarter 2026 results exceeded expectations “across the board,” pointing to accelerating growth in cloud applications, rapid expansion in multi-cloud database services, and continued demand that outstrips supply in AI infrastructure. Speaking on the co",
+      "published_utc": "2026-03-10T19:39:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=57c7a43dc1b95c7290f7c75a86a26ea3ef5fbde3f8a1a75e1864bce0d16a5b62",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139368531,
+      "datetime": 1773185981
+    },
+    {
+      "title": "Microsoft backs Anthropic in amicus brief to halt US DOD's 'supply-chain risk' designation",
+      "description": "Microsoft filed on Tuesday a brief in support of Anthropic's lawsuit asking the court to temporarily block the U.S. ‌Department of Defense's designation of the AI startup as a supply-chain ‌risk.  In an amicus brief filing in a federal court in San Francisco, Microsoft backed Anthropic's request ​for a temporary restraining order against the Pentagon order, arguing that its determination should be paused while the court considers the case.  Microsoft, which integrates the AI lab's products and services into technology it provides to the U.S. military, said that ‌it was directly impacted by ⁠the DOD designation.",
+      "published_utc": "2026-03-10T18:07:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e306322e4fc59f1fd651a1641a983bebd0dc1594ea96fcc1dd979860c1827936",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139368476,
+      "datetime": 1773180458
+    },
+    {
+      "title": "Oracle Stock Jumps After Earnings Beat Expectations. Why It ‘Will Not Be’ Disrupted.",
+      "description": "Oracle’s cloud segment, which now represents over half of the company’s sales, grew 44% from a year ago, to $8.9 billion.",
+      "published_utc": "2026-03-10T17:47:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=26047b4eddc801c7b209213ff6c608467424ec9ba9ce1656a5641e7a25d5e7e6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139368477,
+      "datetime": 1773179220
+    },
+    {
+      "title": "1 of Wall Street’s Favorite Stock with Impressive Fundamentals and 2 We Question",
+      "description": "Wall Street is overwhelmingly bullish on the stocks in this article, with price targets suggesting significant upside potential. However, it’s worth remembering that analysts rarely issue sell ratings, partly because their firms often seek other business from the same companies they cover.",
+      "published_utc": "2026-03-10T17:41:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=be58671496d4f2f02dcbb0cd38235383ad4bf0c4c1fa57ceb58c06c02c7029d2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139367858,
+      "datetime": 1773178874
+    },
+    {
+      "title": "Oracle Stock Jumps After Earnings Beat. AI Powers Stronger-Than-Expected Cloud Growth.",
+      "description": "Oracle stock jumped late Tuesday after the enterprise and cloud-computing giant company reported fiscal Q3 results.",
+      "published_utc": "2026-03-10T17:31:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b3d978277c3dfc49f44c1d2024f672545b762ef896a33f0573cc9fc6f2038bbb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139367859,
+      "datetime": 1773178315
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T04:20:47.363022+00:00",
+    "cache_key": "news_2723f22e93212efb2957cac0254edf63",
+    "count": 5
+  }
+}

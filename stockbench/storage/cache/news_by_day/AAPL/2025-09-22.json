@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Dow Jones Futures: Nvidia, Tesla, Apple Are Big Winners; Fed Inflation Data Looms",
+      "description": "Dow Jones Futures: Nvidia, Tesla, Apple Are Big Winners; Fed Inflation Data Looms",
+      "published_utc": "2025-09-22T17:11:04",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=6a1d65bb480eec113c24187cc7cab4df6d6b4e96ddc51838f788bbdb7f3dafb6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136867106,
+      "datetime": 1758575464
+    },
+    {
+      "title": "Google’s Ad Monopoly Under Microscope as Judge Weighs Remedies",
+      "description": "Google’s Ad Monopoly Under Microscope as Judge Weighs Remedies",
+      "published_utc": "2025-09-22T13:29:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=caf859cb163ccd9a504332643bbf1145d1dd874eae9f937531e8920f6fc1efb7",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136867107,
+      "datetime": 1758562140
+    },
+    {
+      "title": "Stock Market Today: Dow Up As Nvidia Pops; EV Play Skids On Warren Buffett Move (Live Coverage)",
+      "description": "Stock Market Today: Dow Up As Nvidia Pops; EV Play Skids On Warren Buffett Move (Live Coverage)",
+      "published_utc": "2025-09-22T12:18:17",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=c51d4d84da1f1c0b763e971c8be10ba47cf230ba7399d2d2e60b8f100cc18adb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136867108,
+      "datetime": 1758557897
+    },
+    {
+      "title": "Apple iPhone 17 Sales Getting Boost From Plain Old Upgrade Cycle",
+      "description": "Apple iPhone 17 Sales Getting Boost From Plain Old Upgrade Cycle",
+      "published_utc": "2025-09-22T12:11:12",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=1e949ff236a4c09490a2d3c53e7715061f0a605af2d3e8be3e11d13e60794fae",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136867109,
+      "datetime": 1758557472
+    },
+    {
+      "title": "Stocks Extend Records, Gold Soars To $3,740: What's Moving Markets Monday?",
+      "description": "Wall Street is on track for its third straight day of gains, with major large-cap indices extending records as investors remain optimistic about corporate earnings and upcoming rate cuts.",
+      "published_utc": "2025-09-22T09:43:26",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f9a6219a294c7247c37d0a4fa5b527a014ea8f17949d429e9e94b1a0e242bcdc",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/09/22/trader-chart-ai.png?width=2048&height=1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138496291,
+      "datetime": 1758548606
+    }
+  ]
+}

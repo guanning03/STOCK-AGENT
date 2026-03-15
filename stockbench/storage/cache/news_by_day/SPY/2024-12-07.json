@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": "3efe91402399e478fd53dd18f62e5af822815f1da98ec23b79839a5b9270103b",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Here's the Smartest Way to Invest in the S&P 500 in December",
+      "author": "Stefon Walters",
+      "published_utc": "2024-12-07T13:15:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/07/heres-the-smartest-way-to-invest-in-the-sp-500-in/?source=iedfolrf0000001",
+      "tickers": [
+        "VOO",
+        "SPY",
+        "IVV"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799710/gettyimages-1460419757.jpg",
+      "description": "The article discusses the benefits of investing in a market-cap-weighted S&P 500 ETF, such as the Vanguard S&P 500 ETF (VOO), as a simple and effective way to invest in the U.S. economy. It highlights the growth opportunities in the ETF's top holdings and the importance of consistent, long-term investing through dollar-cost averaging.",
+      "keywords": [
+        "S&P 500",
+        "ETF",
+        "Vanguard",
+        "SPDR",
+        "iShares",
+        "dollar-cost averaging"
+      ],
+      "insights": [
+        {
+          "ticker": "VOO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article recommends the Vanguard S&P 500 ETF as a good choice for investing in the S&P 500 index, citing its low expense ratio, active trading, and exposure to the top companies in the U.S. economy."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article notes that the SPDR S&P 500 ETF Trust has a significantly higher expense ratio compared to the Vanguard and iShares S&P 500 ETFs, which can result in higher fees over time."
+        },
+        {
+          "ticker": "IVV",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions the iShares Core S&P 500 ETF as another popular option for investing in the S&P 500 index, but does not provide a strong recommendation for or against it."
+        }
+      ]
+    }
+  ]
+}

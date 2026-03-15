@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Prediction: 1 Stock That'll Be Worth More Than Oracle 5 Years From Now",
+      "description": "Oracle's stock has been on fire -- but is it a sustainable surge? If not, this longtime rival could soon eclipse the database giant's market value.",
+      "published_utc": "2025-09-20T06:21:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d55e449053c2727df223c8bceba113aedb8bd6cdfc88b6fb0f8ebd10808a7597",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136828144,
+      "datetime": 1758363660
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "items": [
+    {
+      "id": "c2dd5f2a2143ce11f2a1a1d73336d0596a925534e101f71562ab1226edf5bd8c",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Netflix Stock a Buy After the 10-for-1 Stock Split?",
+      "author": "Will Ebiefung",
+      "published_utc": "2025-11-23T23:10:00Z",
+      "article_url": "https://www.fool.com/investing/2025/11/23/is-netflix-stock-a-buy-after-the-10-for-1-stock-sp/?source=iedfolrf0000001",
+      "tickers": [
+        "NFLX",
+        "DIS",
+        "AMZN",
+        "WBD",
+        "CCZ",
+        "CMCSA"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843875%2Fbuilding-with-netflix-logo-on-top_netflix.jpg&w=1200&op=resize",
+      "description": "Netflix executed a 10-for-1 stock split, maintaining strong growth potential with 17% year-over-year sales increase and strategic expansion plans in international markets, particularly in developing regions like India.",
+      "keywords": [
+        "stock split",
+        "streaming",
+        "Netflix",
+        "international market",
+        "content spending"
+      ],
+      "insights": [
+        {
+          "ticker": "NFLX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong quarterly earnings, 17% sales growth, expanding international market share, significant content investment, and potential strategic acquisitions"
+        },
+        {
+          "ticker": "DIS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a competitor in streaming market without specific performance details"
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a streaming competitor without detailed performance analysis"
+        },
+        {
+          "ticker": "WBD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Potential acquisition target for Netflix, indicating potential strategic interest"
+        },
+        {
+          "ticker": "CCZ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a streaming competitor and potential acquisition competitor"
+        },
+        {
+          "ticker": "CMCSA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a streaming competitor and potential acquisition competitor"
+        }
+      ]
+    },
+    {
+      "id": "3912e8fa816bdee60a998d87c033c9e1190f4acc68b9c08eaf8dc8ec9030fd72",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade",
+      "author": "Keithen Drury",
+      "published_utc": "2025-11-23T22:07:00Z",
+      "article_url": "https://www.fool.com/investing/2025/11/23/3-artificial-intelligence-stocks-to-buy-and-hold/?source=iedfolrf0000001",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "TSM"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F840119%2Finvestor-wathcing-their-stock-rise.jpg&w=1200&op=resize",
+      "description": "The article highlights three AI-focused stocks with strong potential for long-term growth: Alphabet, Amazon, and Taiwan Semiconductor. Each company demonstrates unique strengths in AI technology, cloud computing, and chip manufacturing that position them well for future market success.",
+      "keywords": [
+        "artificial intelligence",
+        "AI stocks",
+        "long-term investing",
+        "technology",
+        "cloud computing",
+        "semiconductors"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong AI search integration, successful Gemini AI model, robust cloud computing growth, and diverse technology portfolio including quantum computing and self-driving cars"
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong AI search integration, successful Gemini AI model, robust cloud computing growth, and diverse technology portfolio including quantum computing and self-driving cars"
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Significant advertising revenue growth, strong AWS cloud computing performance generating 66% of operating profits, and expanding digital services"
+        },
+        {
+          "ticker": "TSM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "World's largest chip foundry, critical to AI chip production, developing innovative 2nm chips with improved power efficiency, and neutral position in the AI technology market"
+        }
+      ]
+    },
+    {
+      "id": "7e9a30702eacdd97c66339b090acf3d3719ac0f7d7b841b7d97e5978855e522b",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Will Alphabet Be the World's Next $5 Trillion Stock?",
+      "author": "Prosper Junior Bakiny",
+      "published_utc": "2025-11-23T17:07:00Z",
+      "article_url": "https://www.fool.com/investing/2025/11/23/will-alphabet-be-the-worlds-next-5-trillion-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "MSFT",
+        "AAPL",
+        "AMZN",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F842309%2Fperson-sitting-and-working-at-a-desk.jpg&w=1200&op=resize",
+      "description": "The article explores Alphabet's potential to become the next $5 trillion company, analyzing its competitive position against other tech giants like Microsoft, Apple, Amazon, and Nvidia in cloud computing, AI, and digital advertising.",
+      "keywords": [
+        "Alphabet",
+        "market capitalization",
+        "AI",
+        "cloud computing",
+        "tech stocks"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong market position in search, cloud computing, and AI, with robust growth prospects and elimination of antitrust risks"
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong market position in search, cloud computing, and AI, with robust growth prospects and elimination of antitrust risks"
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Competitive in cloud and AI, but potentially less favorably valued compared to Alphabet"
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Facing challenges with tariffs, manufacturing in China, and lagging behind in AI strategy"
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Strong in cloud computing but trailing other tech giants in market capitalization"
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Already achieved $5 trillion market cap, demonstrating significant market strength"
+        }
+      ]
+    },
+    {
+      "id": "25a381cca307c4232f03774d040e38e0ef13be7047baabf37eced2edc845d8c9",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Should You Buy Alphabet Stock After Warren Buffett's New $4 Billion Bet?",
+      "author": "Adam Spatacco",
+      "published_utc": "2025-11-23T16:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/11/23/should-you-buy-alphabet-stock-after-warren-buffett/?source=iedfolrf0000001",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "NVDA",
+        "AAPL",
+        "MSFT",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843578%2Fgoogle-logo-on-mobile-phone.jpg&w=1200&op=resize",
+      "description": "Warren Buffett's Berkshire Hathaway purchased $4.3 billion worth of Alphabet stock in Q3, marking a significant investment in the tech giant known for Google, YouTube, and cloud computing services.",
+      "keywords": [
+        "Warren Buffett",
+        "Alphabet",
+        "AI",
+        "tech stocks",
+        "investment"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Buffett invested $4.3 billion, indicating strong confidence in the company's diverse ecosystem, profitability, brand recognition, and potential for growth across advertising, cloud computing, and emerging technologies"
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Buffett invested $4.3 billion, indicating strong confidence in the company's diverse ecosystem, profitability, brand recognition, and potential for growth across advertising, cloud computing, and emerging technologies"
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a competitor in semiconductor industry, but no direct investment commentary from Buffett"
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Part of Buffett's existing portfolio and considered a blue-chip company with steady cash flow"
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as part of cloud computing competition, but no specific investment insights provided"
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Already in Berkshire's portfolio and considered part of diversified tech ecosystem Buffett appreciates"
+        }
+      ]
+    },
+    {
+      "id": "9dd6fb7aa401655e3a3a97d8c19c4bece38d2e91ffca2c980503f5d2f5884ac9",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Ultimate Growth Stock to Buy With $1,000 Right Now",
+      "author": "Rick Munarriz",
+      "published_utc": "2025-11-23T14:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/11/23/the-ultimate-growth-stock-to-buy-with-1000-right-n/?source=iedfolrf0000001",
+      "tickers": [
+        "BABA",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F844268%2Fgettychinesegamer.jpg&w=1200&op=resize",
+      "description": "Alibaba is positioned as a promising growth stock with strong e-commerce and cloud businesses, generating significant revenue and investing in future technologies like AI, while maintaining financial stability through strategic share buybacks.",
+      "keywords": [
+        "Alibaba",
+        "e-commerce",
+        "AI",
+        "growth stock",
+        "stock buyback",
+        "cloud computing"
+      ],
+      "insights": [
+        {
+          "ticker": "BABA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Alibaba's strong financial performance, diverse business segments, consistent profitability, strategic investments in AI and cloud computing, ongoing share buybacks, and potential for future growth despite current economic challenges."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Amazon is mentioned briefly in related article links but not substantively discussed in the main article text"
+        }
+      ]
+    }
+  ]
+}

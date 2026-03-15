@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "id": "ff6138dfe91fae9e582017bbafb83ed34495ab2976081fc7a859c49fa98db60a",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Can the 8 Worst-Performing Dow Jones Stocks in 2024 Beat the S&P 500 in 2025?",
+      "author": "Daniel Foelber",
+      "published_utc": "2025-01-21T10:34:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/21/buy-2024-worst-performing-dow-jones-stocks-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "BA",
+        "BApA",
+        "NKE",
+        "JNJ",
+        "MRK",
+        "AMGN",
+        "UNH",
+        "CVX",
+        "MCD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804186/gettyimages-1389719487-1200x800-5b2df79.jpg",
+      "description": "The article discusses several Dow Jones stocks that could be good buys in 2025, including Boeing, Nike, Johnson & Johnson, Merck, Amgen, UnitedHealth, Chevron, and McDonald's. It analyzes the current state and future prospects of these companies, highlighting their dividend yields and growth potential.",
+      "keywords": [
+        "Dow Jones",
+        "dividend stocks",
+        "value stocks",
+        "healthcare stocks",
+        "turnaround plays"
+      ],
+      "insights": [
+        {
+          "ticker": "BA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Boeing has been underperforming the industrial sector for years due to the COVID-19 pandemic, issues with the 737 MAX, supply chain challenges, and inflation. The article suggests that the stock could turn around if the company can restore faith in its lineup and ability to innovate, but it is currently a pure-play turnaround candidate with no passive-income potential."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Boeing has been underperforming the industrial sector for years due to the COVID-19 pandemic, issues with the 737 MAX, supply chain challenges, and inflation. The article suggests that the stock could turn around if the company can restore faith in its lineup and ability to innovate, but it is currently a pure-play turnaround candidate with no passive-income potential."
+        },
+        {
+          "ticker": "NKE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Nike's multi-decade moat in shoes and athletic apparel is under threat from competitors, and the company has struggled to identify buyer behavior trends. Its sales growth has stalled and its margins are down, as the transition from wholesale distribution to a blend of wholesale and direct-to-consumer has been unsuccessful. The article suggests that investors should only consider the stock if they believe in the brand's long-term growth and are willing to hold through periods of volatility."
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Johnson & Johnson is one of the Dow healthcare stocks that could beat the S&P 500 if investors gravitate toward value and away from growth stocks in 2025. The company has over 60 consecutive years of dividend increases and a high yield of 3.4%, making it an attractive value stock."
+        },
+        {
+          "ticker": "MRK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Merck is a massive pharmaceutical company with reliable earnings, dividend growth, and a current yield of 3.2%. The article suggests that it is one of the best value stocks in the healthcare sector for investors who are confident that its innovation will pay off."
+        },
+        {
+          "ticker": "AMGN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amgen has increased its dividend for 12 straight years and currently yields 3.5%. The article notes that clinical trials for its weight loss drug are going well, which could become a big catalyst for the stock."
+        },
+        {
+          "ticker": "UNH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "UnitedHealth is the most expensive of the four Dow healthcare stocks and has the lowest current yield of the group at 1.6%. The stock got pummeled in December due to controversy about the murder of the then-CEO and regulatory concerns, but the article suggests it could quickly rebound if new management can quell investor concerns."
+        },
+        {
+          "ticker": "CVX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Chevron is a rock-solid dividend stock with 37 consecutive years of dividend increases and a sizable yield of 4.1%. The article notes that the company can raise its dividend no matter the market cycle, thanks to its geographically diverse business and exposure to different aspects of the oil and gas value chain."
+        },
+        {
+          "ticker": "MCD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "McDonald's is an excellent dividend stock to buy and hold over the long term. Its franchise business model makes it highly resistant to recessions, and it has 48 years of consecutive dividend increases and a 2.5% yield, making it an ultrareliable dividend stock."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Amazon (AMZN) Beats Stock Market Upswing: What Investors Need to Know",
+      "description": "In the latest trading session, Amazon (AMZN) closed at $231.43, marking a +1.44% move from the previous day.",
+      "published_utc": "2025-09-15T18:45:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dbced9abeb25ca2a02abf2d4e59423f4b386aab81d5ecb75f1cab04421358b55",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136768032,
+      "datetime": 1757976306
+    },
+    {
+      "title": "Amazon Expects Kuiper to Serve Five Countries by Early 2026",
+      "description": "Ricky Freeman, president of government solutions for the Project Kuiper satellite venture, said Amazon expected to have more than 200 satellites in low-Earth orbit by the end of the year.  Amazon aims to build out a fleet of more than 3,200 satellites, which will offer connectivity to individual customers, businesses and governments.",
+      "published_utc": "2025-09-15T18:42:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=46841794593504f679b5c6aa602c5f79d3ab0d28d0eff775a09a78631101bb56",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136768033,
+      "datetime": 1757976126
+    },
+    {
+      "title": "With no DOJ breakup, Alphabet becomes a $3 trillion company",
+      "description": "Investors continue to reward Alphabet's stock after a judge declined to break up Google earlier this month.",
+      "published_utc": "2025-09-15T18:23:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0e69dc00801d1fe0530bac374cad7bcf5976f50f55c223ce410d434350ea88df",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136768011,
+      "datetime": 1757974994
+    },
+    {
+      "title": "OpenAI Chair Calls AI A Bubble With Real Staying Power",
+      "description": "OpenAI chair likens moment to dot-com boom that birthed giants",
+      "published_utc": "2025-09-15T18:21:28",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cd4148d34661555be3e23faa42a2258b49ef38d31dabce74114c2b6ef5407a86",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136768035,
+      "datetime": 1757974888
+    },
+    {
+      "title": "Stocks Rally as Bond Yields Fall Before FOMC Meeting",
+      "description": "The S&P 500 Index ($SPX ) (SPY ) on Monday closed up +0.47%, the Dow Jones Industrials Index ($DOWI ) (DIA ) closed up +0.11%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +0.84%. September E-mini S&P futures (ESU25 ) rose +0.43%, and September E-mini Nasdaq futures...",
+      "published_utc": "2025-09-15T17:37:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ad787dfd79fcf79bed1068ce210f8605f577ad41fa92c6ae45b67e4d0f1b33fa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136768025,
+      "datetime": 1757972235
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:51:18.062615+00:00",
+    "cache_key": "news_30116b34bf99ca2603bb380c81797c9a",
+    "count": 5
+  }
+}

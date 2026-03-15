@@ -1,0 +1,105 @@
+{
+  "items": [
+    {
+      "title": "Salesforce price target lowered to $345 from $400 at Scotiabank",
+      "description": "Scotiabank lowered the firm’s price target on Salesforce (CRM) to $345 from $400 and keeps an Outperform rating on the shares. With demand trends worsening and recession odds rising, the firm favors market leaders in the software and services sector, specifically those with strong free cash flow that can benefit from AI, the analyst tells investors. Published first on TheFly – the ultimate source for real-time, market-moving breaking financial news. Try Now>> See the top stocks recommended by an",
+      "published_utc": "2025-03-18T09:25:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f90525d78148766a0bdfef49f345db1762a94d05183f2aee47ed977e3d02f59b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133324691,
+      "datetime": 1742304306
+    },
+    {
+      "id": "b21e011d09c7ca721eadde76bc1b44bbdde4b8fbdcb39a1a07c69525665a81f2",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Data Anonymization Tools Market Global Forecast Report 2025-2030 - Transformative Shifts Redefining the Data Anonymization Landscape",
+      "author": "Researchandmarkets.Com",
+      "published_utc": "2025-03-18T15:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/03/18/3044743/28124/en/Data-Anonymization-Tools-Market-Global-Forecast-Report-2025-2030-Transformative-Shifts-Redefining-the-Data-Anonymization-Landscape.html",
+      "tickers": [
+        "CGEMY",
+        "IBM",
+        "INFA",
+        "MA",
+        "MSFT",
+        "OTEX",
+        "ORCL",
+        "CRM",
+        "SAP"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The data anonymization tools market is expected to grow significantly from 2025 to 2030, driven by increasing data privacy regulations and the need for secure data management solutions. The market is segmented by type, deployment, organization size, and end-user, with key players shaping the competitive landscape.",
+      "keywords": [
+        "data anonymization",
+        "data privacy",
+        "data security",
+        "cloud computing",
+        "big data",
+        "IoT"
+      ],
+      "insights": [
+        {
+          "ticker": "CGEMY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Capgemini Services SAS has made significant inroads by offering comprehensive platforms that serve as strategic assets for data protection initiatives."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IBM Corporation has also contributed to the global narrative by focusing on scalable and secure anonymization methods that cater to increasingly complex data environments."
+        },
+        {
+          "ticker": "INFA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Informatica Inc. has added further depth to the market by delivering enhanced integrations and cross-platform capabilities, simplifying the data anonymization process."
+        },
+        {
+          "ticker": "MA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Mastercard International Inc., as a major multinational corporation, has leveraged its extensive technological expertise to drive innovation in the data anonymization space."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft Corporation, as a major multinational corporation, has also leveraged its extensive technological expertise to drive innovation in the data anonymization space."
+        },
+        {
+          "ticker": "OTEX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Open Text Corporation has also carved out a niche with specialized solutions tailored to specific industry needs."
+        },
+        {
+          "ticker": "ORCL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Oracle Corporation, known for its extensive data management systems, has contributed to setting high standards in data protection."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce, Inc. continues to push the envelope by integrating data anonymization into broader business intelligence solutions."
+        },
+        {
+          "ticker": "SAP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "SAP SE continues to push the envelope by integrating data anonymization into broader business intelligence solutions."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T22:48:26.400446+00:00",
+    "cache_key": "news_4b8f5eb0e823329eb56c904d6ee14bd4",
+    "count": 2
+  }
+}

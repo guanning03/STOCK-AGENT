@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Is An Official U.S. Gold Revaluation Coming?",
+      "description": "",
+      "published_utc": "2026-01-27T17:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7dcb9c7f35a9d67712b521adfbcdf5bbf6c9aa841e0b767df884cf06c656b57b",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138277413,
+      "datetime": 1769551500
+    },
+    {
+      "title": "Rates Spark: A Fed Chair Walked Into A Bar",
+      "description": "",
+      "published_utc": "2026-01-27T14:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1e77b7cf0967dae5a7a0a64f8a8f88e6920faa51560a5a8f4432ca864ca7fd60",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138276718,
+      "datetime": 1769542500
+    },
+    {
+      "title": "President Trump Says Working For A Deal On E15; I Would Sign A Bill On It Without Delay",
+      "description": "https://www.youtube.com/watch?v=vaSuPXjteoc",
+      "published_utc": "2026-01-27T13:54:57",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=a87dd94a185946c980e59b81d7a2604d04e44d05ced72e318d3ae448c2481c05",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138929250,
+      "datetime": 1769540097
+    },
+    {
+      "title": "'Reversion To The Mean' Will Eventually Slam The Market",
+      "description": "Market valuations look extreme as Magnificent Seven-driven earnings lift margins. Click here to know more.",
+      "published_utc": "2026-01-27T13:15:53",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1d375cb720ba3f3ff0d82802e0f02ce9b7a16fd45945247c3427835f6d397aa2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/482499870/image_482499870.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138276130,
+      "datetime": 1769537753
+    },
+    {
+      "title": "The 'Brazil Trade' Is Back — Why Analysts See More Upside Ahead",
+      "description": "Brazilian equities are surging in early 2026 as commodities rally and the U.S. dollar weakens, with EWZ delivering its strongest outperformance versus U.S. stocks in over four years.",
+      "published_utc": "2026-01-27T12:53:19",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=84f2ede45bd8d4ce9bc5014fbf6b2a5c974cf1e0bac2873418394d6949de7757",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/01/27/Brazil-Flag-With-Stock-Market-Finance--E.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138459881,
+      "datetime": 1769536399
+    }
+  ]
+}

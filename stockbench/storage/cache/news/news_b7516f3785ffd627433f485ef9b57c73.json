@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "How IBM Soared 13% While Markets Sank in Q1 2025",
+      "description": "IBM's stock defied market trends with a 13% gain in Q1 2025. Here's how Big Blue pulled off this impressive feat while the S&P 500 struggled.",
+      "published_utc": "2025-04-08T13:31:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=130a00af32b3d88e1755725e3aeae21db92741a2c009c1896be1149e6b7ffb60",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133823108,
+      "datetime": 1744133516
+    },
+    {
+      "title": "IBM Boosts Data & AI Consulting Capabilities With Strategic Buyout",
+      "description": "The buyout of data consultancy provider Hakkoda will strengthen IBM's consulting expertise and support its clients' AI transformation initiatives.",
+      "published_utc": "2025-04-08T12:25:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=782b3171ff649413c8c1adb518b04bfe7ae83b6070dbe0ba78febf807050c15b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133794004,
+      "datetime": 1744129500
+    },
+    {
+      "title": "IBM Stock Gains As Tech Giant Unveils Mainframe For 'AI Age'",
+      "description": "IBM stock gained in a bounce-back day for tech stocks. The computing giant is launching an AI-focused update to its mainframe.",
+      "published_utc": "2025-04-08T11:06:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5dca8b647b865ee2ded75128b8810a062d4fa0ee991eecbaaacf50fe7eed00f9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133823449,
+      "datetime": 1744124778
+    },
+    {
+      "title": "3 Buy-rated stocks being defended as tariff fears rip through markets",
+      "description": "Wall Street analysts are out defending some stocks amid a brief reprieve in the Trump tariff-related selling.",
+      "published_utc": "2025-04-08T09:07:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8651c452b540230e5666be424b1e709c58e167c50ec1330ea7bbd0d34afddc3a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133789985,
+      "datetime": 1744117659
+    },
+    {
+      "title": "JPMorgan Goes Big on Quantum Computing. How It Plans to Use the Technology.",
+      "description": "JPMorgan Goes Big on Quantum Computing. How It Plans to Use the Technology.",
+      "published_utc": "2025-04-08T08:43:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=44208923908dcfa08cc4fb64cb642816e52dabc8e4b2bbe67e5ce60bef964f46",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133823891,
+      "datetime": 1744116180
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T23:12:39.728191+00:00",
+    "cache_key": "news_b7516f3785ffd627433f485ef9b57c73",
+    "count": 5
+  }
+}

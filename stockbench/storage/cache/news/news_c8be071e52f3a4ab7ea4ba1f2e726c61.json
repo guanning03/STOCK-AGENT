@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Elizabeth Warren Blasts Amazon For Internet Meltdown, Says 'If A Company Can Break The Entire Internet, They Are Too Big'",
+      "description": "Sen. Elizabeth Warren renewed her call to break up Big Tech after a massive Amazon Web Services outage disrupted major global platforms, saying, &#34;If a company can break the entire internet, they are too big.&#34;",
+      "published_utc": "2025-10-20T17:52:46",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=b6004c3c1778ebc8f5108321b659d9a1dd88900fb668456b4ce4fa4098e6a283",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/10/20/Arlington--Va---February-13--2020-Senato.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138505927,
+      "datetime": 1760997166
+    },
+    {
+      "title": "Amazon Web Services Outage Persists, Hindering Major Sites and Apps",
+      "description": "A major  Amazon  Web Services outage threw much of the internet into disarray on Monday as popular websites and social-media platforms struggled to recover.  The world’s largest cloud provider said in an update at 1:38 p.m. Eastern time that it was seeing “early signs of recovering” across a few availability zones in the Eastern U.S., adding that it was in the process of “applying mitigations…at which point we expect launch errors and network connectivity issues to subside.”  AWS said in an earlier update that it had narrowed down the source of the network connectivity issues.",
+      "published_utc": "2025-10-20T16:42:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=27f7fb0193685a4fae62a41c2ec00a89dfbab763e757dfcf5c669031a1ceed30",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137174220,
+      "datetime": 1760992920
+    },
+    {
+      "title": "Amazon Outage Knocks Out Major Apps -- Stock Pushes Higher On Recovery",
+      "description": "Amazon Shares Rebound As AWS Restores Services Following Major Outage",
+      "published_utc": "2025-10-20T14:06:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a90000ce6e2f48852a668d9cce71a1f500b8978a0ee03f402ce72f3a7a158b58",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137174221,
+      "datetime": 1760983578
+    },
+    {
+      "title": "Outdated GINIs And Narrow-Minded Unemployment Metrics Mask Serious Economic Issues",
+      "description": "Explore why investors should adjust portfolios amid rising wealth inequality and hidden unemployment.",
+      "published_utc": "2025-10-20T09:31:22",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=abf3f1ab35b8a83691558f6cc0ee7a35380148c6456c28b79cae25514f86191a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/137044062/image_137044062.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137168630,
+      "datetime": 1760967082
+    },
+    {
+      "title": "Amazon Web Services Outage Disrupts Social Media, Airlines, Telecom Firms",
+      "description": "Amazon.com's (AMZN) cloud platform, Amazon Web Services, reported a major outage early Monday, disru",
+      "published_utc": "2025-10-20T08:36:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1b2e99d86ba404f219d086224df9d5a4342d909cb424cc3c85ff22695d3199ae",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137168661,
+      "datetime": 1760963795
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:39:03.110300+00:00",
+    "cache_key": "news_c8be071e52f3a4ab7ea4ba1f2e726c61",
+    "count": 5
+  }
+}

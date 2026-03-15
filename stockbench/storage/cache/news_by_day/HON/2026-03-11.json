@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": "f0f89aad3925e1cc2682316e45949bacdcca67d9b1e86b9e5ed660465ddad446",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Interface Systems Strengthens Alarm Monitoring Against Cellular Jamming and Break-Ins",
+      "author": "Not Specified",
+      "published_utc": "2026-03-11T12:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2026/03/11/3253686/0/en/Interface-Systems-Strengthens-Alarm-Monitoring-Against-Cellular-Jamming-and-Break-Ins.html",
+      "tickers": [
+        "HON"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/b4faa525-4d10-47ff-bc4b-ca5e9eefa521",
+      "description": "Interface Systems announced the integration of JamAlert™ cellular jammer detection technology with its TamperShield™ alarm monitoring service. The combined solution detects criminal attempts to disable alarm systems using cellular interference before break-ins occur, providing early warning, continuous monitoring, video verification, and faster law enforcement response for retail, financial, and museum environments.",
+      "keywords": [
+        "alarm monitoring",
+        "cellular jammer detection",
+        "security systems",
+        "break-in prevention",
+        "video monitoring",
+        "managed security services"
+      ],
+      "insights": [
+        {
+          "ticker": "HON",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Honeywell is mentioned as compatible with the new solution but plays a passive role. The integration supports existing Honeywell systems without requiring replacement, which is neither particularly beneficial nor detrimental to the company."
+        }
+      ]
+    },
+    {
+      "title": "Solstice Advanced Materials: Well Armed With Different Arrows In The Quiver",
+      "description": "Discover why Solstice Advanced Materials (SOLS) is outperforming peers: nuclear backlog, data center refrigerants, margin edge, valuation discount &...",
+      "published_utc": "2026-03-11T10:10:05",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9e17db2abc75bef7104455dad758b9b6bfe1f6cf44049f925b0b911605479df0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1226809561/image_1226809561.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139381423,
+      "datetime": 1773238205
+    }
+  ]
+}

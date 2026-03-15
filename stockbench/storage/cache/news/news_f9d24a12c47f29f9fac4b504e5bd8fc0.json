@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "10 Consumer Discretionary Stocks Whale Activity In Today's Session",
+      "description": "This whale alert can help traders discover the next big trading opportunities.\nWhales are entities with large sums of money and we track their transactions here at Benzinga on our options activity scanner.",
+      "published_utc": "2025-09-29T09:35:35",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=ee1dea0eebcc2ddc7d719f77fb2db8a33fd3c92fa990528d37e61eb34c483e50",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138442818,
+      "datetime": 1759152935
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights NVIDIA, Berkshire Hathaway, The Home Depot and BayFirst Financial",
+      "description": "NVDA, BRK.B, HD and BAFN are boasting strong AI growth, diversified operations, retail performance, and regional banking opportunities, respectively.",
+      "published_utc": "2025-09-29T05:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3e84ca2a89eaeb5b430bd228bd66d9f3cd170b6a828f427009777c1f441d9ba3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136913482,
+      "datetime": 1759137000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T04:34:03.258473+00:00",
+    "cache_key": "news_f9d24a12c47f29f9fac4b504e5bd8fc0",
+    "count": 2
+  }
+}

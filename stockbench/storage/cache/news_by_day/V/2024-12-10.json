@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "id": "93ac9400f39a6258c0bd237db8d1d7234ad984f2d33934f91e40081fc8b9892f",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Visa an Undervalued Dividend Stock to Buy?",
+      "author": "Parkev Tatevosian, Cfa",
+      "published_utc": "2024-12-10T14:53:44Z",
+      "article_url": "https://www.fool.com/investing/2024/12/10/is-visa-an-undervalued-dividend-stock-to-buy/?source=iedfolrf0000001",
+      "tickers": [
+        "AVGO",
+        "V"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800479/gettyimages-1319763191.jpg",
+      "description": "Billionaire Ole Andreas Halvorsen, the founder of Viking Global Investors, has sold off the firm's entire stake in Broadcom and invested in a globally dominant company that has seen a nearly 2,400% increase in its stock price since its IPO.",
+      "keywords": [
+        "Broadcom",
+        "Visa"
+      ],
+      "insights": [
+        {
+          "ticker": "AVGO",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that the billionaire investor has sold off the firm's entire stake in Broadcom, suggesting a negative sentiment towards the company."
+        },
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that the billionaire investor has invested in a globally dominant company that has seen a nearly 2,400% increase in its stock price since its IPO, which is likely referring to Visa."
+        }
+      ]
+    },
+    {
+      "id": "94f14028d9ef757eb963e4918904dcf58a3cda24e2eb344cce8a6e66fe37a211",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Warren Buffett Stock That Has Historically Been a Big Winner: Is It Headed Higher?",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-10T11:30:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/10/warren-buffett-stock-winner-headed-higher/?source=iedfolrf0000001",
+      "tickers": [
+        "V",
+        "BRK.A",
+        "BRK.B"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800279/buffett21-tmf.png",
+      "description": "Visa has been a highly successful investment for Warren Buffett's Berkshire Hathaway, with its shares producing a total return of over 2,380% since its IPO in 2008. The article discusses Visa's key strengths, including its growing cashless transaction business, dominant network effects, and high profitability, and suggests the stock is likely to continue performing well despite its current valuation.",
+      "keywords": [
+        "Visa",
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "cashless transactions",
+        "network effects",
+        "profitability"
+      ],
+      "insights": [
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Visa's strong performance, growing business, and dominant market position, suggesting the company is well-positioned for continued success."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Visa's success has benefited Warren Buffett's Berkshire Hathaway, which holds a stake in the company, indicating Berkshire's investment in Visa has been a positive one."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that Visa's success has benefited Warren Buffett's Berkshire Hathaway, which holds a stake in the company, indicating Berkshire's investment in Visa has been a positive one."
+        }
+      ]
+    }
+  ]
+}

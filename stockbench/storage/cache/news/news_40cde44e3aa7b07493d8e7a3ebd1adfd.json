@@ -1,0 +1,95 @@
+{
+  "items": [
+    {
+      "title": "Apple's iPhone 17 Demand, Oracle's Co-Ceo Shuffle, Micron's Earnings Preview And More: This Week In Tech",
+      "description": "Another week has flown by, and it’s time to catch up on the latest news from the tech and stock markets. Here’s a quick recap of the major stories from the weekend.",
+      "published_utc": "2025-09-28T03:02:26",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f99c0ca7883674a7ad7a289401c55f9640ea5817ca6e1a385f9683eac9fab16f",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/09/28/Apple.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138404412,
+      "datetime": 1759042946
+    },
+    {
+      "title": "Goldman Sachs (GS): A Unique Dividend Stock in the Banking Sector",
+      "description": "The Goldman Sachs Group, Inc. (NYSE:GS) is included among the 11 Best Bank Dividend Stocks to Buy. The Goldman Sachs Group, Inc. (NYSE:GS) is an American multinational investment bank and financial services company that offers a wide range of related services and products to its consumers. The Goldman Sachs Group, Inc. (NYSE:GS) runs its business […]",
+      "published_utc": "2025-09-27T21:35:19",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dc8dd2a0e2cd99a22b5d733594bca07a29c85c6ca6dec345776608352fb6d458",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136904074,
+      "datetime": 1759023319
+    },
+    {
+      "id": "28538906fa1bee6f4eb93df012b2e4955ffbbe7f602a1d418b592f6d687a0640",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is Crinetics Pharmaceuticals Stock a Buy?",
+      "author": "George Budwell",
+      "published_utc": "2025-09-28T12:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/09/28/is-crinetics-pharmaceuticals-stock-a-buy/?source=iedfolrf0000001",
+      "tickers": [
+        "CRNX",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/835378/biotech-researcher.jpg",
+      "description": "Crinetics Pharmaceuticals received FDA approval for Palsonify, its first once-daily oral treatment for acromegaly, potentially generating $800 million to $1.5 billion in peak sales. However, commercial execution risks and limited patient pool create uncertainty about the drug's market success.",
+      "keywords": [
+        "FDA approval",
+        "biotech",
+        "acromegaly",
+        "pharmaceutical",
+        "drug development"
+      ],
+      "insights": [
+        {
+          "ticker": "CRNX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mixed potential with significant upside if successful, but substantial risks including limited patient market, high pricing, and complex commercial execution challenges"
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Cautiously valuing Crinetics at 7x conservative peak sales estimate, indicating measured market perspective"
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Cautiously valuing Crinetics at 7x conservative peak sales estimate, indicating measured market perspective"
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Cautiously valuing Crinetics at 7x conservative peak sales estimate, indicating measured market perspective"
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Cautiously valuing Crinetics at 7x conservative peak sales estimate, indicating measured market perspective"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T04:29:01.947900+00:00",
+    "cache_key": "news_40cde44e3aa7b07493d8e7a3ebd1adfd",
+    "count": 3
+  }
+}

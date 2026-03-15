@@ -1,0 +1,42 @@
+{
+  "items": [
+    {
+      "id": "ebbceae40893f8d2ee131e2ee3431e217fcaf346271468032d8fa6433e05e750",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "2 Stocks to Buy if There Is a Market Crash in 2025",
+      "author": "Prosper Junior Bakiny",
+      "published_utc": "2025-02-09T12:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/09/2-stocks-to-buy-if-there-is-a-market-crash-in-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "JNJ",
+        "HCA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806489/doctor-with-patient-talking.jpg",
+      "description": "The article discusses investing in defensive stocks like Johnson & Johnson and HCA Healthcare that can withstand market downturns. It highlights their resilient businesses in the healthcare industry, which is less affected by economic conditions.",
+      "keywords": [
+        "defensive stocks",
+        "healthcare industry",
+        "market volatility",
+        "Johnson & Johnson",
+        "HCA Healthcare"
+      ],
+      "insights": [
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Johnson & Johnson's strong pharmaceutical and medical devices businesses, which are less affected by market downturns. It also mentions the company's consistent financial performance, dividend growth, and ability to navigate legal and regulatory changes, making it a good defensive stock option."
+        },
+        {
+          "ticker": "HCA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article praises HCA Healthcare's resilient hospital business, which remains in high demand regardless of market conditions. It notes the company's ability to gain market share even during the pandemic, as well as its incumbent advantage and the long-term growth in hospital spending, making it a promising defensive stock."
+        }
+      ]
+    }
+  ]
+}

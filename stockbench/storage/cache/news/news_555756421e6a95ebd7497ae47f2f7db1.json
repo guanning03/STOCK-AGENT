@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Boeing (BA) Stock Slides as Market Rises: Facts to Know Before You Trade",
+      "description": "In the most recent trading session, Boeing (BA) closed at $202.54, indicating a -1.38% shift from the previous trading day.",
+      "published_utc": "2025-12-03T17:45:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4f21ea095a350582b95154d61125eaa088f503ef3477024b59b8787d39fa151b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137677991,
+      "datetime": 1764801902
+    },
+    {
+      "title": "Dow Hits 3-Week High as Fresh Data Reinforce Fed Rate Cut Bets",
+      "description": "US equity benchmarks rose on Wednesday, with the Dow Jones Industrial Average notching its highest c",
+      "published_utc": "2025-12-03T16:55:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4f0867d2f5d3db099aa9e32c9cef27abdf28cc5a5cef329f1cc93395bbb2fb72",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137677618,
+      "datetime": 1764798904
+    },
+    {
+      "title": "Boeing Elects Bradley D. Tilden to Board of Directors",
+      "description": "The Boeing Company (NYSE: BA) today announced that its Board of Directors has elected Bradley D. Tilden as its newest member, effective Dec. 3, 2025. Tilden will join the Aerospace Safety and Finance committees.",
+      "published_utc": "2025-12-03T16:51:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=be9a345ecd00c426bce9db1d9f64113efc4c83125e1f9e4f6e34d80a6b7c5985",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137677993,
+      "datetime": 1764798660
+    },
+    {
+      "title": "Equities Rise Intraday as Markets Parse Macro Data",
+      "description": "US benchmark equity indexes were higher intraday as traders evaluated fresh economic data, including",
+      "published_utc": "2025-12-03T13:54:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ac8e5ad34a1cd100bd9063a5a01df5b95a65723713b0f0385da71f3846314d46",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137677966,
+      "datetime": 1764788060
+    },
+    {
+      "title": "Ryanair Issues Impressive Traffic Numbers for November 2025",
+      "description": "RYAAY posts a 6% jump in November traffic with 13.8M passengers, steady load factor, and a lifted fiscal 2026 outlook on strong travel demand.",
+      "published_utc": "2025-12-03T13:29:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5075743239a55b2f2b6fdcf7d94d69a764dd0eaf456f158c48ceeade2c45b0c0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137677995,
+      "datetime": 1764786540
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:03:02.803510+00:00",
+    "cache_key": "news_555756421e6a95ebd7497ae47f2f7db1",
+    "count": 5
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Do Options Traders Know Something About McDonald's Stock We Don't?",
+      "description": "Investors need to pay close attention to McDonald's stock based on the movements in the options market lately.",
+      "published_utc": "2026-01-07T15:36:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d7be24437214c96597d73e23d0b153a6d3d1230a55b80fa45d85ef490f574082",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138033249,
+      "datetime": 1767818160
+    },
+    {
+      "title": "Wayfair upgraded, Instacart initiated: Wall Street's top analyst calls",
+      "description": "Wayfair upgraded, Instacart initiated: Wall Street's top analyst calls",
+      "published_utc": "2026-01-07T09:41:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f20ffbbfc3ec081a5a29c6fb92dfe098f218cd075292cfab435acb6fdf36ab24",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138027184,
+      "datetime": 1767796867
+    },
+    {
+      "title": "Barclays Maintains Overweight on McDonald's, Raises Price Target to $372",
+      "description": "Barclays  analyst Jeffrey Bernstein   maintains McDonald&#39;s (NYSE:MCD) with a Overweight and raises the price target from $358 to $372.",
+      "published_utc": "2026-01-07T09:14:28",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=322238d130d5ac6efcd7da4b64c607bd732de050392eb31444152dad450cd343",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138505866,
+      "datetime": 1767795268
+    },
+    {
+      "title": "10 Consumer Discretionary Stocks Whale Activity In Today's Session",
+      "description": "",
+      "published_utc": "2026-01-07T08:35:20",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=bc76d0dc6f0417eb2d20e12f5213e52ef0458ee5c0862d687533227d025d1fb3",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_3.jpg?width=2048&height=1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138440183,
+      "datetime": 1767792920
+    },
+    {
+      "title": "Here Are Wednesday’s Top Wall Street Analyst Research Calls: Applied Digital, BigBear.ai, Block, Deckers Outdoors, GitLab, Hershey, McDonald’s, Moderna, and More",
+      "description": "Pre-Market Stock Futures: The futures are trading flat on Wednesday after a second strong day for Wall Street, as the Dow Jones Industrial Average hit another record high, closing over $49,000 for the first time at $49,484, up a solid 1.04%. The S&P 500 also posted a record high, closing at 6,947, up 0.66%. The ... Here Are Wednesday’s Top Wall Street Analyst Research Calls: Applied Digital, BigBear.ai, Block, Deckers Outdoors, GitLab, Hershey, McDonald’s, Moderna, and More",
+      "published_utc": "2026-01-07T08:04:47",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c8e30740684dae94b757cde32e39001cc36912b9fe5339c46d8184268afa010e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138027185,
+      "datetime": 1767791087
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:09:15.141170+00:00",
+    "cache_key": "news_5563d4423c2d3411304c9e75ee8da5fa",
+    "count": 5
+  }
+}

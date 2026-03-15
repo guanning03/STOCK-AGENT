@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "U.S. launches Peace Corps-backed ‘Tech Corps’ to help export AI, counter China",
+      "description": "As part of efforts to spread its global AI footprint and counter China, Washington has announced a new \"tech corps.\"",
+      "published_utc": "2026-02-22T16:43:25",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=0c7fe8fbd8663ce857bbfbbab74f751e15403bfa10d6f03a7ace6cbbcc2e7916",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108268257-1771804894736-gettyimages-2149387005-earth-network03.jpeg?v=1771827373&w=1920&h=1080",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139185778,
+      "datetime": 1771796605
+    },
+    {
+      "title": "The next Nvidia growth wave is coming from an unlikely place",
+      "description": "For two years, the Nvidia (NVDA) story has been simple: a handful of massive U.S. cloud providers racing to buy as many of its chips as possible. That story isn't over. But it's no longer the whole story. Nvidia's latest moves in India are pointing to what the next phase of AI demand actually looks ...",
+      "published_utc": "2026-02-22T14:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6e937e72ea9f3d7a2f39f88b960bf8713b1a664e82c431ea00e7a8d2cfac2dff",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139178502,
+      "datetime": 1771788780
+    },
+    {
+      "title": "Dow slides 800 points as sell-off ramps up following Trump's global tariff hike: Live updates",
+      "description": "Wall Street is coming off a volatile session on Friday after the Supreme Court struck down President Donald Trump’s tariffs.",
+      "published_utc": "2026-02-22T13:06:18",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=3b75b9c091756ed4e4919ad422fb0910adebde867d4edc7efb23dfa7ed79daa5",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108267883-1771600340652-gettyimages-2262113458-AFP_98CY9UB.jpeg?v=1771863059&w=1920&h=1080",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139185766,
+      "datetime": 1771783578
+    },
+    {
+      "title": "CoStar Group, Inc. (CSGP) Lauches Homes AI",
+      "description": "CoStar Group, Inc. (NASDAQ:CSGP) is one of the Most Promising Stocks to Invest In Before They Take Off. On February 17, CoStar Group, Inc. (NASDAQ:CSGP) launched a new AI tool called Homes AI. The tool is powered by Microsoft Azure and OpenAI. It allows users to communicate through voice and text, similar to chatting with […]",
+      "published_utc": "2026-02-22T12:09:20",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6442221c679f10e89d94795c0cd484634e5622f7bb7c3017f60aedb449fd5672",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139178065,
+      "datetime": 1771780160
+    },
+    {
+      "title": "‘Money's moving out of tech’: Wall Street weighs stock market winners amid the AI scare trade",
+      "description": "Investors are rotating out of the most popular tech stocks. Here's where they are finding gains.",
+      "published_utc": "2026-02-22T11:00:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=20ccecf36451102e91c34e0d3018a2137df81a28f47d1549c68a2ec61baa3e25",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139177634,
+      "datetime": 1771776024
+    }
+  ]
+}

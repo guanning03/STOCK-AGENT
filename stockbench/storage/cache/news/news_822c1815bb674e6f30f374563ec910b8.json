@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "This ETF Is Proof That the Healthcare Rebound Is Real",
+      "description": "Track healthcare’s 2026 setup: GLP-1 drug adoption, a valuation gap vs. tech, and why VHT offers broad exposure with low fees and dividends.",
+      "published_utc": "2026-01-11T11:03:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=37f4d5b38f1ff502010ff587add70bfce19fea47b3f9d689eddcb7adcf089fbb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138075157,
+      "datetime": 1768147380
+    },
+    {
+      "title": "DLN: Diversified Large Value ETF With Risk Screening",
+      "description": "Explore WisdomTree U.S. LargeCap Dividend Fund (DLN): diversified value dividend ETF, lower volatility vs S&P 500, strong Sharpe.",
+      "published_utc": "2026-01-11T02:23:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f22b9cd12374143fe7f0d9443a755c3efd39b084c1d28926cea65f46dc33a445",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2234934554/image_2234934554.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138062973,
+      "datetime": 1768116180
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:21:15.216683+00:00",
+    "cache_key": "news_822c1815bb674e6f30f374563ec910b8",
+    "count": 2
+  }
+}

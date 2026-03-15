@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session",
+      "description": "The Dow closed at a record high on Tuesday, but the Nasdaq ended the lower as investors shifted away from technology stocks.",
+      "published_utc": "2025-11-11T14:41:12",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=d2a33f68e42c3672fc3c8cf61ae008e4056834c5175828064ac6443cc0bbd1bd",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108220650-1762187355170-Traders-Photo-20251102-KK-PRESS-006.jpg?v=1762187577&w=1920&h=1080",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137460453,
+      "datetime": 1762890072
+    },
+    {
+      "title": "Final Trade: UNH, OIH, AMD, BMY",
+      "description": "The final trades of the day with CNBC's Melissa Lee and the 'Fast Money' traders.",
+      "published_utc": "2025-11-11T13:12:27",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=80b682c433fff604a44f30d0b6c7e49823f86b85a788308ed2ce15f2d0ad1a54",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108224557-1762902684985-1762902616-42510368619-hd.jpg?v=1762902686&w=1920&h=1080",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137460548,
+      "datetime": 1762884747
+    },
+    {
+      "title": "Dow rallies 300 points to new record with shutdown set to end Wednesday: Live updates",
+      "description": "Tuesday saw a tale of two markets emerge — the 30-stock Dow rallied more than 550 points to close at a record high, while the Nasdaq Composite slipped.",
+      "published_utc": "2025-11-11T13:02:31",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=57f37977ae01e1ff16012941b1216d76f5a33692ee85a7dbd95ac41ebbb99d31",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108223050-1762951213250-108223050-1762529069072-gettyimages-2245509844-anotherday142727029_rlpy8e5r.jpg?v=1762951220&w=1920&h=1080",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137460456,
+      "datetime": 1762884151
+    },
+    {
+      "title": "UnitedHealth Group Incorporated (UNH) Presents at UBS Global Healthcare Conference 2025 Transcript",
+      "description": "UnitedHealth Group Incorporated (UNH) UBS Global Healthcare Conference 2025 November 10, 2025 8:45 AM ESTCompany ParticipantsJulie MurphyWayne DeVeydt -...",
+      "published_utc": "2025-11-11T10:41:32",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=97786443df91f73978ef6cc6bbed3a810235fa0b9dc450fa9fa8213c5185641c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137450274,
+      "datetime": 1762875692
+    },
+    {
+      "title": "10 Health Care Stocks With Whale Alerts In Today's Session",
+      "description": "",
+      "published_utc": "2025-11-11T08:35:21",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=d4e3e75653a678ec1636b2483e1463b4200d8825f86299f0a1afef19e5591f86",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=2048&height=1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138555818,
+      "datetime": 1762868121
+    }
+  ]
+}

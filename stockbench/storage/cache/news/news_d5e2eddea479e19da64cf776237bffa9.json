@@ -1,0 +1,162 @@
+{
+  "items": [
+    {
+      "title": "Procter & Gamble (PG) Stock “Just Won’t Quit,” Says Jim Cramer",
+      "description": "We recently published 12 Stocks Jim Cramer Talked About. The Procter & Gamble Company (NYSE:PG) is one of the stocks that Jim Cramer talked about. The Procter & Gamble Company (NYSE:PG) is one of the biggest consumer goods firms in the world. The shares are down by 5.8% over the past year and are up […]",
+      "published_utc": "2026-02-07T10:08:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=923cc05d93ce1a6ac2ae80746a199aa3c56d53ee119f7dc078d34b53d044d9bd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138385692,
+      "datetime": 1770476901
+    },
+    {
+      "id": "b59f2ac2a11cc52bbbddd34f6b60697a81716d323db271fba8815a277dd70091",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "XLP Delivers Pure-Play Staples While IYK Adds Healthcare. Which Strategy Wins?",
+      "author": "Sara Appino",
+      "published_utc": "2026-02-07T15:00:13Z",
+      "article_url": "https://www.fool.com/coverage/etfs/2026/02/07/xlp-delivers-pure-play-staples-while-iyk-adds-healthcare-which-strategy-wins/?source=iedfolrf0000001",
+      "tickers": [
+        "IYK",
+        "WMT",
+        "COST",
+        "PG",
+        "KO",
+        "PM"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F93b56fbcd074a01f33741ab9a66bb5b3e30875ca-1401x1251.png%3Frect%3D76%2C0%2C1251%2C1251%26w%3D384%26h%3D384%26q%3D75%26fit%3Dcrop%26auto%3Dformat&w=1200&op=resize",
+      "description": "The article compares two consumer staples ETFs: XLP offers pure-play exposure to consumer defensive stocks with a low 0.08% expense ratio and 36 holdings anchored by Walmart and Costco, while IYK provides broader diversification with 54 holdings including healthcare and basic materials at a higher 0.38% fee. XLP delivered stronger 5-year returns ($1,302 vs $1,222 on $1,000 invested) despite similar dividend yields, making it the more cost-efficient choice for defensive investors seeking pure sector exposure.",
+      "keywords": [
+        "consumer staples ETF",
+        "defensive investing",
+        "expense ratio comparison",
+        "portfolio diversification",
+        "sector-specific exposure"
+      ],
+      "insights": [
+        {
+          "ticker": "IYK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "IYK is presented as a viable alternative for investors seeking broader diversification beyond pure consumer staples, but is disadvantaged by its significantly higher expense ratio (0.38%), lower 5-year returns, and smaller asset base ($1.2B)."
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Walmart is highlighted as a top holding and anchor in XLP, representing retail dominance and providing strong potential for long-term returns in the consumer staples sector."
+        },
+        {
+          "ticker": "COST",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Costco is featured as a top holding and anchor in XLP alongside Walmart, representing retail dominance and contributing to the fund's strong performance."
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "P&G is a significant holding in both ETFs, representing packaged goods producers and contributing to the consumer staples exposure in both funds."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Coca-Cola is a major holding in IYK (11.70% weight), representing beverage manufacturers in the consumer staples sector."
+        },
+        {
+          "ticker": "PM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Philip Morris is a significant holding in IYK (11.31% weight) but receives no specific commentary regarding performance or outlook."
+        }
+      ]
+    },
+    {
+      "id": "08737cca7fe0ae74d5d01bb06d3789764b5efd6cba72c8862491d35106cb0252",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "VDC vs. PBJ: Does Comprehensive Coverage Beat Concentrated Food Bets?",
+      "author": "Sara Appino",
+      "published_utc": "2026-02-07T14:21:03Z",
+      "article_url": "https://www.fool.com/coverage/etfs/2026/02/07/vdc-vs-pbj-does-comprehensive-coverage-beat-concentrated-food-bets/?source=iedfolrf0000001",
+      "tickers": [
+        "VDC",
+        "PBJ",
+        "WMT",
+        "COST",
+        "PG",
+        "SYY",
+        "MNST",
+        "CTVA"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2Ff2894ef3e59a57033e3d12497757ed4ec0c197b2-1401x1251.png%3Frect%3D76%2C0%2C1251%2C1251%26w%3D384%26h%3D384%26q%3D75%26fit%3Dcrop%26auto%3Dformat&w=1200&op=resize",
+      "description": "The Vanguard Consumer Staples ETF (VDC) outperforms the Invesco Food & Beverage ETF (PBJ) with lower fees (0.09% vs 0.61%), higher dividend yield (2.1% vs 1.7%), and better 1-year and 5-year returns. VDC offers broad diversification across consumer staples with 100+ holdings, while PBJ concentrates on 31 food and beverage companies. VDC's comprehensive approach has proven more resilient, while PBJ's concentrated bet struggled amid rising ingredient costs and shifting consumer preferences in 2025.",
+      "keywords": [
+        "consumer staples ETF",
+        "diversification vs concentration",
+        "expense ratio",
+        "dividend yield",
+        "defensive sector",
+        "food and beverage",
+        "ETF comparison"
+      ],
+      "insights": [
+        {
+          "ticker": "VDC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "VDC demonstrates superior performance with significantly lower expense ratio (0.09%), higher dividend yield (2.1%), stronger 1-year returns (4.6%), better 5-year growth ($1,359 vs $1,279), and broader diversification across 100+ consumer staples holdings including Walmart, Costco, and Procter & Gamble."
+        },
+        {
+          "ticker": "PBJ",
+          "sentiment": "negative",
+          "sentiment_reasoning": "PBJ underperformed with negative 1-year returns (-1.2%), higher expense ratio (0.61%), lower dividend yield (1.7%), and weaker 5-year growth. Its concentrated portfolio of 31 food and beverage stocks struggled amid rising ingredient costs and shifting consumer preferences, failing to justify its significantly higher fees."
+        },
+        {
+          "ticker": "WMT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Walmart is highlighted as a major holding in VDC's diversified portfolio and represents a household name in retail and food, contributing to VDC's strong performance and defensive characteristics."
+        },
+        {
+          "ticker": "COST",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Costco is identified as a top position in VDC's portfolio, representing a major retailer that contributes to the ETF's comprehensive consumer staples exposure and strong performance."
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "P&G is listed as a top holding in VDC, representing a household goods giant that diversifies VDC's portfolio across personal care and consumer staples."
+        },
+        {
+          "ticker": "SYY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Sysco is a top holding in PBJ's concentrated food and beverage portfolio, but the article does not provide specific performance commentary about this individual company."
+        },
+        {
+          "ticker": "MNST",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Monster Beverage is a top holding in PBJ's concentrated portfolio, but the article does not provide specific performance commentary about this individual company."
+        },
+        {
+          "ticker": "CTVA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Corteva is a top holding in PBJ's portfolio, but the article does not provide specific performance commentary about this individual company."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:43:38.900070+00:00",
+    "cache_key": "news_d5e2eddea479e19da64cf776237bffa9",
+    "count": 3
+  }
+}

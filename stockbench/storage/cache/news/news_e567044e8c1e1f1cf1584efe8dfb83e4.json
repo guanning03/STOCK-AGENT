@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "id": "c3809df96341db92bd131395b6eae8341f96855fa4bb57874cb14728959dd469",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Visa Inc. Investors: Please Contact the Portnoy Law Firm to Recover your Losses. January 21, 2025 Deadline to File Lead Plaintiff Motion.",
+      "author": "N/A",
+      "published_utc": "2025-01-21T01:09:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/01/21/3012293/0/en/Visa-Inc-Investors-Please-Contact-the-Portnoy-Law-Firm-to-Recover-your-Losses-January-21-2025-Deadline-to-File-Lead-Plaintiff-Motion.html",
+      "tickers": [
+        "V"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/ea0dd9c0-6e41-4d5a-ad27-b277677af6df",
+      "description": "The U.S. Department of Justice has filed a civil antitrust lawsuit against Visa, alleging that the company is illegally maintaining a monopoly in the debit network markets. This news caused Visa's stock to drop 5.4% on September 24, 2024.",
+      "keywords": [
+        "Visa",
+        "antitrust lawsuit",
+        "debit network markets",
+        "monopoly"
+      ],
+      "insights": [
+        {
+          "ticker": "V",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The U.S. Department of Justice has filed a civil antitrust lawsuit against Visa, alleging that the company is illegally maintaining a monopoly in the debit network markets. This has led to a 5.4% drop in Visa's stock price."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:03:54.443680+00:00",
+    "cache_key": "news_e567044e8c1e1f1cf1584efe8dfb83e4",
+    "count": 1
+  }
+}

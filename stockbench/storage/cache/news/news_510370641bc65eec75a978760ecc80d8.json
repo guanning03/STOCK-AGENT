@@ -1,0 +1,133 @@
+{
+  "items": [
+    {
+      "id": "66d330dc694e489f3e3e51b585aa186c258a558639f85ed8f92261b89ed7b593",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Hedge Fund Sells $25.6 Million in Paramount Group Stock as Rithm's $1.6 Billion Deal Looms",
+      "author": "Jonathan Ponciano",
+      "published_utc": "2025-11-15T14:20:43Z",
+      "article_url": "https://www.fool.com/coverage/filings/2025/11/15/hedge-fund-sells-usd25-6-million-in-paramount-group-stock-as-rithm-s-usd1-6-billion-deal-looms/?source=iedfolrf0000001",
+      "tickers": [
+        "PGRE",
+        "RITM",
+        "RITMpA",
+        "RITMpB",
+        "RITMpC",
+        "RITMpD",
+        "RITMpE",
+        "UNH",
+        "CVS"
+      ],
+      "image_url": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/5a835a403d8e07011d119675ff444b39fb510d2f-1401x1251.png?w=1401&h=1251",
+      "description": "Boston-based Solel Partners fully exited its stake in Paramount Group, selling 4.2 million shares for $25.6 million in Q3, likely due to the pending Rithm Capital acquisition and limited future upside.",
+      "keywords": [
+        "hedge fund",
+        "stock sale",
+        "real estate",
+        "REIT",
+        "merger"
+      ],
+      "insights": [
+        {
+          "ticker": "PGRE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Stock performance is tied to pending Rithm Capital acquisition at $6.60 per share, with limited future growth potential"
+        },
+        {
+          "ticker": "RITM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Announced acquisition of Paramount Group, indicating strategic investment opportunity"
+        },
+        {
+          "ticker": "RITMpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Announced acquisition of Paramount Group, indicating strategic investment opportunity"
+        },
+        {
+          "ticker": "RITMpB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Announced acquisition of Paramount Group, indicating strategic investment opportunity"
+        },
+        {
+          "ticker": "RITMpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Announced acquisition of Paramount Group, indicating strategic investment opportunity"
+        },
+        {
+          "ticker": "RITMpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Announced acquisition of Paramount Group, indicating strategic investment opportunity"
+        },
+        {
+          "ticker": "RITMpE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Announced acquisition of Paramount Group, indicating strategic investment opportunity"
+        },
+        {
+          "ticker": "UNH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Top holding for Solel Partners, indicating strong investor confidence"
+        },
+        {
+          "ticker": "CVS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Top holding for Solel Partners, suggesting stable investment potential"
+        }
+      ]
+    },
+    {
+      "id": "8795babcc1deee30326d33151945e923cfad7acb41c556bab5d563283c3ec3b5",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why One Fund Just Invested $21 Million in This Once High-Flying Software Stock",
+      "author": "Jonathan Ponciano",
+      "published_utc": "2025-11-15T13:23:26Z",
+      "article_url": "https://www.fool.com/coverage/filings/2025/11/15/why-one-fund-just-invested-usd21-million-in-this-once-high-flying-software-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "BRZE",
+        "UNH",
+        "CVS"
+      ],
+      "image_url": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/37a7f80f063688ddbd3b84d74a534e9e7a0367b6-1401x1251.png?w=1401&h=1251",
+      "description": "Boston-based Solel Partners initiated a $21.2 million position in Braze stock during Q3, acquiring 745,900 shares despite the company's stock trading near multi-year lows. The investment suggests potential value in Braze's growing customer base and AI-driven product investments.",
+      "keywords": [
+        "software stock",
+        "investment",
+        "customer engagement platform",
+        "SaaS",
+        "hedge fund"
+      ],
+      "insights": [
+        {
+          "ticker": "BRZE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Company shows promising revenue growth (24% in latest quarter) but is not yet consistently profitable, with ongoing GAAP losses and weakening free cash flow"
+        },
+        {
+          "ticker": "UNH",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Top holding in Solel Partners' portfolio, representing 13.7% of assets under management"
+        },
+        {
+          "ticker": "CVS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Significant portfolio holding representing 10.4% of assets under management"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:01:45.656454+00:00",
+    "cache_key": "news_510370641bc65eec75a978760ecc80d8",
+    "count": 2
+  }
+}

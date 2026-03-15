@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "id": "d9de894d040ab9e773f6d1a747779a4e2b0e7d5ceede65f1d6596a89fe5d6f4c",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Potential Stock Splits in 2025: 2 AI Stocks Up 115% and 350% in 2 Years to Buy Now, According to Wall Street",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-26T09:44:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/26/stock-splits-in-2025-2-ai-stocks-up-350-to-buy-now/?source=iedfolrf0000001",
+      "tickers": [
+        "META",
+        "CRM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805297/growth-30.jpeg",
+      "description": "Meta Platforms and Salesforce have seen significant share price increases in the last two years, making them potential stock split candidates in 2025. Wall Street analysts are bullish on both companies, citing their strong performance in artificial intelligence and customer relationship management software, respectively.",
+      "keywords": [
+        "Meta Platforms",
+        "Salesforce",
+        "AI stocks",
+        "stock splits"
+      ],
+      "insights": [
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Meta Platforms has seen a 350% increase in its share price over the last two years, and Wall Street analysts expect further upside with a target price of $811 per share, implying 25% potential growth. The company is leveraging artificial intelligence to improve user engagement across its social media platforms."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Salesforce has seen a 115% increase in its share price over the last two years, and Wall Street analysts expect further upside with a target price of $440 per share, implying 32% potential growth. The company has recently launched Agentforce, a platform that provides businesses with AI-powered digital labor, which is expected to drive future growth."
+        }
+      ]
+    }
+  ]
+}

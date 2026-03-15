@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Hartford Quality Value ETF Q2 2025 Commentary",
+      "description": "Hartford Quality Value ETF underperformed the Russell 1000 Value Index during the quarter. Read more here.",
+      "published_utc": "2025-08-18T14:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=196e73be509977d2b9507c302fb3061291b526eb75abe75bbe078a5584fa540f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1694138871/image_1694138871.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136412951,
+      "datetime": 1755540000
+    },
+    {
+      "title": "Warren Buffett, Cathie Wood Share 2 Stock Investments In Common: Can You Guess What They Are?",
+      "description": "Cathie Wood looks for growth and companies on their way to big profits. Warren Buffett prefers looking for value and consistent profits. The two investors have two stock investments in common.",
+      "published_utc": "2025-08-18T10:59:58",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=f486f98cfd3d74cf952a3491cf7c66ad5b220ee1a89d60255afb3b78d224ee67",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/08/18/Buffett-SHutterstock-Wood-ARKinvest.png?width=2048&height=1536",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138469426,
+      "datetime": 1755529198
+    },
+    {
+      "title": "Honeywell, Stereolabs partner on AI-powered vision tool for warehouses",
+      "description": "The joint technology aims to eliminate the need for tape measures, scales and handheld devices when gathering dimensions, weight and barcode data to register new SKUs.",
+      "published_utc": "2025-08-18T06:25:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f7a9e78485e1fa1553facfe3c811f24790e7db2753402b22c4e447dd5aa84324",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136408695,
+      "datetime": 1755512714
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:23:48.167421+00:00",
+    "cache_key": "news_10ff2d81934a46c127bc3df99b512eef",
+    "count": 3
+  }
+}

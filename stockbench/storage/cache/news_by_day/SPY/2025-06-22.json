@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Tariffs, Mid-East Turmoil, Now U.S. Involvement, Yet Stocks Go Higher, Why?",
+      "description": "Despite geopolitical tensions and tariff risks, I expect stocks to reach new highs this summer. Read why I'm focusing on technology and growth stocks.",
+      "published_utc": "2025-06-22T18:28:37",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f9e187103e14a8b2ef1998a5a8bc54d609b870784ad758bbd6958904a1a8aec7",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1226873573/image_1226873573.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135468120,
+      "datetime": 1750631317
+    },
+    {
+      "title": "Stocks Playbook for Geopolitical Tensions (Overreacting is Costly)",
+      "description": "Conflict is igniting in the Middle East once again. Geopolitical events like wars, debt downgrades, tariffs, or rate shocks are never fun because uncertainty is unsettling.",
+      "published_utc": "2025-06-22T13:30:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f87d3cfcc682cd5b308270393dd0582e86c79c60c05c8bd8b485f13c243269fb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135467298,
+      "datetime": 1750613406
+    },
+    {
+      "title": "AGD: Hard To Recommend This Fund At Its Current Price",
+      "description": "",
+      "published_utc": "2025-06-22T11:15:38",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b934f19cf4b4a2f71ce8773d6beb2bee8e442f5e9018432e32bbb64ec1bc7fc6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135466200,
+      "datetime": 1750605338
+    },
+    {
+      "title": "S&P 500 Earnings Update: Q2 '25 Earnings Should Be OK; The Attention Turns To Q3 '25 Guidance",
+      "description": "",
+      "published_utc": "2025-06-22T10:25:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=709838477258f2a8cbad3ed17436e862803749eae740d9da78560207a2f7ba99",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135466029,
+      "datetime": 1750602300
+    },
+    {
+      "title": "US strikes escalate Israel-Iran conflict as geopolitics overshadow economics: What to know this week",
+      "description": "Investors will be watching closely for any updates on US involvement in the Iran-Israel conflict. The release of the Fed's preferred inflation gauge, core PCE, will also be in focus.",
+      "published_utc": "2025-06-22T07:35:33",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5a0aa82d37e38f8d8736bb2e327df3c7f7e116611705f57d0f8038f94dc60a44",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135464927,
+      "datetime": 1750592133
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "items": [
+    {
+      "title": "Hartford Balanced Income Fund Q2 2025 Commentary",
+      "description": "Global fixed-income markets posted positive total returns in Q2 2025, as measured by the Bloomberg Global Aggregate Index hedged to US dollars. Read more here.",
+      "published_utc": "2025-08-19T18:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=46f319cd8421060c3441235f82e29e09c0402ff9fd48d54d3bd4d8693e9d7063",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2170553469/image_2170553469.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136433571,
+      "datetime": 1755642600
+    },
+    {
+      "title": "Stryker: Strong Multi-Faceted Growth Continuing To Support The Shares",
+      "description": "Stryker continues to outperform peers with strong revenue growth, margin expansion, and successful product innovation. Learn more on SYK stock here.",
+      "published_utc": "2025-08-19T09:50:18",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=decb67703cc995e9e0df48acbbc74a25d0a291bfd08765daaf6f1fd0b8934898",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/537016810/image_537016810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136430816,
+      "datetime": 1755611418
+    },
+    {
+      "title": "ISRG's International Push for Ion: Strategic Bet or Overstretch?",
+      "description": "Intuitive Surgical expands Ion into Australia and Korea after 52% procedure growth, testing Asia-Pacific adoption despite budget headwinds.",
+      "published_utc": "2025-08-19T08:46:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a1605658b6c738e6d40843c862c28b2e3ca2a2fc610ce866614e1bc59a9d3423",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136430085,
+      "datetime": 1755607560
+    },
+    {
+      "title": "Nilesh Shah joins Illumina as Head of Region, AMEA",
+      "description": "Illumina Inc. (NASDAQ: ILMN), a global leader in DNA sequencing and array-based technologies, announced today the appointment of Nilesh Shah as Head of Region, AMEA, effective immediately.",
+      "published_utc": "2025-08-19T02:14:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a45454e341c9e7ed6288746d98da008f75158ad499847349a4a4e2403bba50ad",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136416880,
+      "datetime": 1755584040
+    },
+    {
+      "id": "80d10455f00651682d4120c127339c0c3f65a7f65611d9235a1e32c01e6c9b53",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Global Tissue Engineering and Regeneration Market Set to Surge at 12.8% CAGR Through 2030",
+      "author": "Bcc Research",
+      "published_utc": "2025-08-19T17:54:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/08/19/3135965/0/en/Global-Tissue-Engineering-and-Regeneration-Market-Set-to-Surge-at-12-8-CAGR-Through-2030.html",
+      "tickers": [
+        "ABBV",
+        "BAX",
+        "JNJ"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/c6629cf3-8bc7-4bae-9bf7-bd5bef48bb25",
+      "description": "The global tissue engineering and regeneration market is projected to grow from $5.4 billion in 2025 to $9.8 billion by 2030, driven by rising demand for regenerative medicine, increased research, and venture capital funding.",
+      "keywords": [
+        "tissue engineering",
+        "regenerative medicine",
+        "biomaterials",
+        "healthcare innovation",
+        "venture capital"
+      ],
+      "insights": [
+        {
+          "ticker": "ABBV",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a market leader without specific performance details"
+        },
+        {
+          "ticker": "BAX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed as a market leader without specific performance context"
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a market leader without specific performance details"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:29:28.052541+00:00",
+    "cache_key": "news_e7d94dafb1ec44e439442539003bd458",
+    "count": 5
+  }
+}

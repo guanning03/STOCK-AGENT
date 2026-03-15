@@ -1,0 +1,274 @@
+{
+  "items": [
+    {
+      "id": "9b772a601dddcc74aeb893ef75ab21921ff6d9b8f404364214746b2c8821996c",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "Constellation Energy Shows Why Reliable Power Is Overtaking Oil in Market Value",
+      "author": "Jeffrey Neal Johnson",
+      "published_utc": "2025-12-16T21:14:00Z",
+      "article_url": "https://www.investing.com/analysis/constellation-energy-shows-why-reliable-power-is-overtaking-oil-in-market-value-200671922",
+      "tickers": [
+        "CEG",
+        "MSFT"
+      ],
+      "amp_url": "https://m.investing.com/analysis/constellation-energy-shows-why-reliable-power-is-overtaking-oil-in-market-value-200671922?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "Bank of America recommends buying Constellation Energy, highlighting a strategic shift in energy investment from traditional oil and gas towards reliable electricity providers, particularly those supporting the AI revolution's power needs.",
+      "keywords": [
+        "nuclear power",
+        "AI infrastructure",
+        "energy transition",
+        "electricity market",
+        "federal tax credits"
+      ],
+      "insights": [
+        {
+          "ticker": "CEG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong growth potential due to nuclear power infrastructure, federal tax credit stability, strategic positioning for AI data center power demands, and planned acquisition of Calpine Corporation"
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a key partner in a 20-year power purchase agreement for the Crane Clean Energy Center restart"
+        }
+      ]
+    },
+    {
+      "id": "39ee9e90320830147aa889a775286a45737cf2f061cad42e25e8c3d97db563b5",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Unstoppable Vanguard ETFs to Buy Even if There's a Stock Market Sell-Off in 2026",
+      "author": "Daniel Foelber",
+      "published_utc": "2025-12-16T20:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/12/16/vanguard-etf-buy-stock-market-sell-off-2026/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "MSFT",
+        "AAPL",
+        "AVGO",
+        "LLY"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F847022%2Fabstract-concept-of-a-bear-market-featuring-various-stock-market-charts.jpg&w=1200&op=resize",
+      "description": "The article discusses three Vanguard ETFs that could be resilient during a potential stock market sell-off in 2026: S&P 500 Growth ETF, Information Technology ETF, and Dividend Appreciation ETF. These funds offer diversification and growth potential across top technology and dividend-increasing companies.",
+      "keywords": [
+        "ETFs",
+        "stock market",
+        "growth stocks",
+        "technology",
+        "dividends"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Highlighted as a key holding in multiple ETFs and considered a market leader in technology and AI"
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Consistently mentioned as a top holding across multiple Vanguard ETFs with strong growth potential"
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Prominent in all three discussed ETFs, viewed as a stable technology company with consistent performance"
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Significant holding across multiple ETFs, indicating strong market position in technology sector"
+        },
+        {
+          "ticker": "LLY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned for its valuable drug portfolio and potential growth, but not a primary focus of the article"
+        }
+      ]
+    },
+    {
+      "id": "aa2b6273e07a9fb32c379196d03f542456d5d63bf414cd54567f66e7bcc7b142",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "Palantir Is Being Valued as AI Infrastructure, Not a Short-Cycle Software Story",
+      "author": "Itai Smidt",
+      "published_utc": "2025-12-16T19:30:00Z",
+      "article_url": "https://www.investing.com/analysis/palantir-is-being-valued-as-ai-infrastructure-not-a-shortcycle-software-story-200671915",
+      "tickers": [
+        "PLTR",
+        "SNOW",
+        "MSFT",
+        "GOOG",
+        "GOOGL"
+      ],
+      "amp_url": "https://m.investing.com/analysis/palantir-is-being-valued-as-ai-infrastructure-not-a-shortcycle-software-story-200671915?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "Palantir is being evaluated as a critical AI infrastructure company with strong government and commercial potential, driven by its advanced data processing platforms and impressive growth metrics in AI-enabled workflows.",
+      "keywords": [
+        "AI",
+        "infrastructure",
+        "government contracts",
+        "data processing",
+        "enterprise software"
+      ],
+      "insights": [
+        {
+          "ticker": "PLTR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong revenue growth (47.23%), expanding commercial segment (121% growth), deep government contracts, high gross margins (80.81%), and strategic positioning in AI infrastructure with multi-year, mission-critical deployments"
+        },
+        {
+          "ticker": "SNOW",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a potential competitor in data infrastructure and analytics, but without detailed performance assessment"
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Noted as a potential competitor with Azure, OpenAI models, and industry solutions, but not evaluated in depth"
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a potential AI platform competitor through Google Cloud and DeepMind, but without specific performance details"
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a potential AI platform competitor through Google Cloud and DeepMind, but without specific performance details"
+        }
+      ]
+    },
+    {
+      "id": "4888820cd173aaac3224c4520dfcea93c17cbb4b93bbd7be1edc339f6e5f790b",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Vanguard ETF I'm Buying in 2026 and Holding Forever",
+      "author": "David Dierking",
+      "published_utc": "2025-12-16T18:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/12/16/1-vanguard-etf-im-buying-in-2026-and-holding/?source=iedfolrf0000001",
+      "tickers": [
+        "VTI",
+        "NVDA",
+        "MSFT",
+        "AAPL",
+        "AMZN",
+        "GOOG",
+        "GOOGL"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F846480%2Fgettyimages-1508977729.jpg&w=1200&op=resize",
+      "description": "The article recommends the Vanguard Total Stock Market ETF (VTI) as an ideal long-term investment due to its broad diversification across 3,500 U.S. stocks, ultra-low expense ratio, and balanced exposure to large, mid, and small-cap stocks.",
+      "keywords": [
+        "ETF",
+        "investing",
+        "long-term",
+        "diversification",
+        "stock market"
+      ],
+      "insights": [
+        {
+          "ticker": "VTI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Recommended as an ideal 'buy and hold forever' investment with broad market coverage, low fees, and potential for long-term growth"
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as one of the large companies in the ETF's portfolio without specific detailed commentary"
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as one of the large companies in the ETF's portfolio without specific detailed commentary"
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as one of the large companies in the ETF's portfolio without specific detailed commentary"
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as one of the large companies in the ETF's portfolio without specific detailed commentary"
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as one of the large companies in the ETF's portfolio without specific detailed commentary"
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as one of the large companies in the ETF's portfolio without specific detailed commentary"
+        }
+      ]
+    },
+    {
+      "id": "f956329db1745ae717b0a28ec2b080211ea6f4568de59d62ebccbbb97b2449a9",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is It Time to Load Up on This Dividend King Poised to Join the $1 Trillion Club in 2026?",
+      "author": "Stefon Walters",
+      "published_utc": "2025-12-16T17:05:00Z",
+      "article_url": "https://www.fool.com/investing/2025/12/16/is-it-time-to-load-up-on-this-dividend-king-poised/?source=iedfolrf0000001",
+      "tickers": [
+        "WMT",
+        "AMZN",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F847201%2Fwmt.jpg&w=1200&op=resize",
+      "description": "Walmart is on track to potentially join the trillion-dollar market cap club in 2026, driven by strong e-commerce growth, innovative advertising revenue, and strategic use of its physical stores as delivery hubs.",
+      "keywords": [
+        "Walmart",
+        "e-commerce",
+        "advertising",
+        "dividend",
+        "market cap",
+        "retail"
+      ],
+      "insights": [
+        {
+          "ticker": "WMT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Walmart's impressive stock performance (up 29% year-to-date), strong e-commerce growth (28% U.S., 27% global), rapidly growing advertising business (53% global growth), and potential to reach trillion-dollar market cap in 2026"
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as Walmart's e-commerce competitor, with Walmart now closing the delivery convenience gap"
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Briefly mentioned in context of stock valuation comparisons"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:41:33.872094+00:00",
+    "cache_key": "news_c1238cd147e4a0850df68323179f07b2",
+    "count": 5
+  }
+}

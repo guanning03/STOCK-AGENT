@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq rise as techs revive, while oil majors jump after US strike in Venezuela",
+      "description": "Wall Street is assessing the US military strike and capture of President Maduro in Venezuela, while hopes for AI demand buoy techs.",
+      "published_utc": "2026-01-04T18:56:34",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=551a6253543b5940924758566834f3eca5252319f2d2dc443bc3c68b81193fb0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137990858,
+      "datetime": 1767570994
+    },
+    {
+      "title": "Jensen Huang To Visit Taiwan As Nvidia Plans Taipei Headquarters Amid TSMC Capacity Strain: Report",
+      "description": "Nvidia CEO Jensen Huang is reportedly set to return to Taiwan this month to announce a new Taipei headquarters as booming AI demand — especially from China — boosts Nvidia&#39;s valuation while putting increasing strain on TSMC&#39;s chipmaking capacity.",
+      "published_utc": "2026-01-04T17:44:09",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=e2f850aa996dc9fa726a53089d7b4ac6107edce06969cacbb4fee4b7ae9d8f5b",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/01/04/Donations--Dinners-And-Optics.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138640194,
+      "datetime": 1767566649
+    },
+    {
+      "title": "Is Apple’s Valuation Still Justified After AI Push and Recent Share Price Drop?",
+      "description": "Wondering if Apple still looks attractive at today's levels, or if most of the upside has already been realized? This breakdown will help you decide whether the current price really matches the story. Despite dipping around 0.9% over the last week and 2.8% over the past month, Apple is still up 11.9% over the last year and 112.2% over three years. This shows that long term holders have been well rewarded even as short term sentiment has wobbled. Recent headlines have focused on Apple's...",
+      "published_utc": "2026-01-04T15:11:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ab28c7934e837f71f46310cbcc6e55cbb24c602ec992665af2933a914fb9d721",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137985579,
+      "datetime": 1767557508
+    },
+    {
+      "title": "The 'cash they have is excessive': Warren Buffett's exit puts spotlight on Berkshire Hathaway's next move",
+      "description": "Warren Buffett has officially stepped down as CEO of Berkshire Hathaway. Investors are focused on what happens to the company's growing cash pile.",
+      "published_utc": "2026-01-04T11:00:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=24e5ed495f8e0353b08b7301686fd07164241109592bac12b0615523e01dddb2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137985580,
+      "datetime": 1767542418
+    },
+    {
+      "title": "Is DFAC ETF Still A Buy After 15% Run?",
+      "description": "The Dimensional U.S. Core Equity 2 ETF (NYSEARCA:DFAC) has delivered a 15% gain over the past year, essentially matching the S&P 500’s return. Investors paid for Dimensional’s factor-based approach and got market performance. DFAC’s 2026 performance will likely depend less on 2025 results and more on what drives 2026 returns. DFAC manages nearly $40 billion ... Is DFAC ETF Still A Buy After 15% Run?",
+      "published_utc": "2026-01-04T09:34:13",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=17184ecc3385cf0029579fefe742270579d3159ecbb2e72774358be33d505d4b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137985572,
+      "datetime": 1767537253
+    }
+  ]
+}

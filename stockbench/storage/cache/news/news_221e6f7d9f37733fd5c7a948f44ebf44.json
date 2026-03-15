@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Dow Jones Leader IBM, AI Giant Broadcom Break Out Past New Buy Points",
+      "description": "Dow Jones leader IBM and AI giant Broadcom are breaking out past new buy points as the stock market rally hits record highs.",
+      "published_utc": "2025-10-28T15:12:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6fdffff9483e9ee77016a371707151e360ec15f10975fcbedd2bd5224c03aeac",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137243177,
+      "datetime": 1761678758
+    },
+    {
+      "title": "IBM’s New Quantum Computing Announcement Is a ‘Big Deal.’ Should You Buy IBM Stock Here?",
+      "description": "IBM is gaining traction in the quantum computing segment and is positioned to benefit from a first-mover advantage following its partnership with AMD.",
+      "published_utc": "2025-10-28T14:45:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fc1e9d34e915ef25cd63ed9b8a159294d41128092ef4b9173d3203af31cebc08",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137243388,
+      "datetime": 1761677135
+    },
+    {
+      "title": "International Business Machines Corporation (IBM) Has A “Commercial Quantum Program,” Says Jim Cramer",
+      "description": "We recently published Jim Cramer’s 12 Fresh Stocks & Quantum Computing Trading Strategy. International Business Machines Corporation (NYSE:IBM) is one of the stocks Jim Cramer recently discussed. International Business Machines Corporation (NYSE:IBM) is one of Cramer’s favorite firms in the quantum computing space. Given the momentum in quantum computing stocks such as Rigetti, the CNBC […]",
+      "published_utc": "2025-10-28T14:17:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2b3c4db24748e94060ed469798d173db42918c6654c1aa15a081a6a392da6902",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137243391,
+      "datetime": 1761675450
+    },
+    {
+      "title": "Jim Cramer Highlights Advanced Micro’s Quantum Work With IBM",
+      "description": "Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the stocks on Jim Cramer’s radar recently. Cramer highlighted the talk of the company’s quantum work. He commented: “AMD, similarly, supply-constrained for much of its product line. CEO Lisa Su never abandoned traditional PCs in her zeal for, to be in GPUs. Smart thinking, that, plus talk […]",
+      "published_utc": "2025-10-28T12:02:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=501b9e438e2868355d3babc0734e239d88afc05fab758d3d07b564eddbd9077e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137243445,
+      "datetime": 1761667373
+    },
+    {
+      "title": "Jim Cramer Says Yes to D-Wave Quantum, But as a Spec",
+      "description": "D-Wave Quantum Inc. (NYSE:QBTS) is one of the stocks on Jim Cramer’s radar recently. With Apple, Palantir, Arthur J. Gallagher, Agnico Eagle Mines, and D-Wave Quantum as their top five holdings, a caller sought Cramer’s opinion on the diversification of their portfolio. He replied: “… As I said, I don’t mind having a spec among […]",
+      "published_utc": "2025-10-28T12:02:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=00938b623e76b0b285215d7360e1cff3d455040bc44dbbd75b1b81d366125822",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137243365,
+      "datetime": 1761667359
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:08:04.943094+00:00",
+    "cache_key": "news_221e6f7d9f37733fd5c7a948f44ebf44",
+    "count": 5
+  }
+}

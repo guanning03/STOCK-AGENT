@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "NEW YORK MARKET CLOSE: Wall Street shakes off criminal probe of Powell",
+      "description": "",
+      "published_utc": "2026-01-12T16:31:21",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=6de8a10734a0b6b60936648a18be0b8cb86e61d813ac1d3f87d3c615029e91ff",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138078733,
+      "datetime": 1768253481
+    },
+    {
+      "title": "Top Stocks With Earnings This Week: TSMC, Big Banks And More",
+      "description": "The fourth-quarter earnings season gets underway this week with TSMC and the big banks set to report.",
+      "published_utc": "2026-01-12T15:20:01",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=670188e15db9c70551b08934bf87f923053211e022108c179d847ef0f3ff8f4d",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/01/12/Earnings-Season.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138446703,
+      "datetime": 1768249201
+    },
+    {
+      "title": "Equities Rise Intraday Amid Probe Into Fed Chair Powell",
+      "description": "US benchmark equity indexes were higher intraday, while gold prices hit new records as markets react",
+      "published_utc": "2026-01-12T14:27:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9a264eff65ac87f1bb67b0065bdb575ee5b15227a65975302c90cf655805aea7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138078019,
+      "datetime": 1768246058
+    },
+    {
+      "title": "Vinson & Elkins Represents JPMorgan Chase & Co. in $450 Million Thermoplastics Divestiture",
+      "description": "By Karen Roman Vinson & Elkins said it represented JPMorgan Chase & Co. (NYSE: JPM) as financial advisor to The Saudi Basic Industries Corporation in the $450 million sale of its regional engineering thermoplastics business in the Americas and Europe to MUTARES. The Saudi Basic Corp. produces polycarbonate, polybutylene terephthalate and other resin and compounds […]",
+      "published_utc": "2026-01-12T14:10:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1f994471d1f9891d1abd15441653ec576b4fa75b7fcf68bdb3c6463bbbf14f19",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138078020,
+      "datetime": 1768245006
+    },
+    {
+      "title": "US Equity Indexes Mixed, Gold Scales New Peak as Powell Labels DoJ Probe 'Pretext' to Influence Policy",
+      "description": "US equity indexes traded mixed while precious metals broke records in midday trading on Monday after",
+      "published_utc": "2026-01-12T13:56:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1f10b4edbbf771613e0c96d72e4de6012f5e61a4d9edd8796b79a51437fd6b42",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138078021,
+      "datetime": 1768244170
+    }
+  ]
+}

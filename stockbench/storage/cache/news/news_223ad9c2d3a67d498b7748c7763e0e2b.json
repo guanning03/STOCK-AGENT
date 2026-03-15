@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "3 Things - Fed Independence, Bonds, Tariffs Endgame",
+      "description": "",
+      "published_utc": "2025-04-20T19:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f9e39a1853cad26e4f4b6ed47d68d5cb649ac304d8c1899763ffd4a08daaf11e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134015740,
+      "datetime": 1745192700
+    },
+    {
+      "title": "S&P 500 Earnings: Pay Attention To Q2 '25 S&P 500 EPS Revisions",
+      "description": "",
+      "published_utc": "2025-04-20T18:55:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=a8007884d05561f55fc2ada6d92aba931237a510ee639a7c47be9afb7154a1a6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134012671,
+      "datetime": 1745189700
+    },
+    {
+      "title": "Market Outlook: Next Week's Most Important Events",
+      "description": "",
+      "published_utc": "2025-04-20T18:51:11",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=61600bbd42f7951ccbe430f64978e84ef57124501b79f5857ee42443a397d9a3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134012722,
+      "datetime": 1745189471
+    },
+    {
+      "title": "Model Portfolio For Income, April 2025",
+      "description": "Generate $10,000 annually with a $106,231 investment.",
+      "published_utc": "2025-04-20T10:27:55",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=aefc8b20d713129d4a3f6a3c52490fc59947d51edd868ee725324c7e3e057b31",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/482730527/image_482730527.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133982829,
+      "datetime": 1745159275
+    },
+    {
+      "title": "Is Risk-Off Positioning Signaling A Market Low?",
+      "description": "",
+      "published_utc": "2025-04-20T08:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5a5076d3fec492b25e0170d9b6b2af4c529454b6364e284d9a8ebfceca939ae6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133979069,
+      "datetime": 1745150700
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T23:26:10.825322+00:00",
+    "cache_key": "news_223ad9c2d3a67d498b7748c7763e0e2b",
+    "count": 5
+  }
+}

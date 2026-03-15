@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stocks Going On Sale, Netflix Fell After Earnings, Others Should Too",
+      "description": "I see high-quality growth stocks like NFLX and META as overbought and at risk of further pullbacks. Read why I believe a mid-course correction is likely.",
+      "published_utc": "2025-07-20T16:55:27",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0ae39d339ad7580abb5b47d2711bd976bc3d3de0fac92472fcf160891b4bc41a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1393651026/image_1393651026.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136021671,
+      "datetime": 1753044927
+    },
+    {
+      "title": "S&P 500: If You Missed It, Be Patient (Technical Analysis)",
+      "description": "The S&P 500âs bullish melt-up may extend, but caution is key as shallow dips lure in late buyers. Read why a 300â400 point correction could follow soon.",
+      "published_utc": "2025-07-20T12:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=55f4ec9729130e6215ebd1a906b93696acc5db09bbbdfc550a8817fbee9947c2",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1956949830/image_1956949830.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136020436,
+      "datetime": 1753027200
+    },
+    {
+      "title": "The 1-Minute Market Report July 20, 2025",
+      "description": "Market rally may face a correction this summer before rebounding by year-end. Discover key trends in sectors like blockchain, gold & defense.",
+      "published_utc": "2025-07-20T08:39:35",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f68b582d8ffc26aea58e007d360ac9d58f6628441f6046af1797f2d5539cbb11",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1213764535/image_1213764535.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136019166,
+      "datetime": 1753015175
+    },
+    {
+      "title": "Total Return Breakouts: Signals Weakening After Record Gains, Nvidia And Semiconductors Key",
+      "description": "Record gains in SOXL semiconductors, Nvidia, and Industrials are highlighted with current selection signals and the latest market updates.",
+      "published_utc": "2025-07-20T08:27:48",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6ac5e84cab8d2098d97092af6136977fbb0ffcb891413f64403d4289d648bc5c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1296135863/image_1296135863.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136019131,
+      "datetime": 1753014468
+    },
+    {
+      "title": "Market Volatility Is Set To Make A Big Return",
+      "description": "Markets face a turning point as earnings and tariffs loom. Find out why volatility may spike and stocks could pull back after Magnificent 7 reports.",
+      "published_utc": "2025-07-20T06:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=76460c6cd4aee0eb0730ccba00041d5f97f052b04473e49b7a2a4ac063a6bfc0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/517384018/image_517384018.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136018658,
+      "datetime": 1753005600
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:08:58.227200+00:00",
+    "cache_key": "news_3f9e86f38ed5738efebadf3b48f05846",
+    "count": 5
+  }
+}

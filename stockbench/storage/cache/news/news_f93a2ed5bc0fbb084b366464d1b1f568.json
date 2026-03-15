@@ -1,0 +1,90 @@
+{
+  "items": [
+    {
+      "title": "Luxury Card Cage Match Heats Up With Rising Perks, Prices",
+      "description": "Credit card issuers are enticing big spenders with luxurious perks and prestige brands, funded in part by fees that are higher than ever.",
+      "published_utc": "2026-02-01T00:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fc00e1a6d4342d3e85abeeee5a548d77265b80a68f5c8668d066f41345c495bd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138323751,
+      "datetime": 1769922060
+    },
+    {
+      "id": "fe012876f0486b3a92126f24ac59ff54605f834fe34101ae2a0ccf4f405a6f52",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is GameStop the Next Berkshire Hathaway?",
+      "author": "Will Healy",
+      "published_utc": "2026-02-01T11:12:00Z",
+      "article_url": "https://www.fool.com/investing/2026/02/01/is-gamestop-the-next-berkshire-hathaway/?source=iedfolrf0000001",
+      "tickers": [
+        "GME",
+        "GME.WS",
+        "BRK.A",
+        "BRK.B",
+        "AXP",
+        "KO"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F853153%2Fshopping-for-gaming-products.jpg&w=1200&op=resize",
+      "description": "Michael Burry has invested in GameStop, betting that CEO Ryan Cohen can become a Warren Buffett-type figure who transforms the company into a conglomerate like Berkshire Hathaway. While Cohen has successfully redefined GameStop's business and made strategic investments in Bitcoin and collectibles, the article cautions that his track record of outside investments remains limited compared to Buffett's major acquisitions, making such comparisons premature.",
+      "keywords": [
+        "GameStop",
+        "Ryan Cohen",
+        "Michael Burry",
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "investment strategy",
+        "CEO leadership",
+        "Bitcoin investment",
+        "business transformation"
+      ],
+      "insights": [
+        {
+          "ticker": "GME",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "While Cohen has successfully turned around the company and outperformed the S&P 500, the article emphasizes that comparing it to Berkshire Hathaway is premature. Cohen lacks a proven track record of major outside investments comparable to Buffett's, warranting a cautious, neutral stance rather than bullish enthusiasm."
+        },
+        {
+          "ticker": "GME.WS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "While Cohen has successfully turned around the company and outperformed the S&P 500, the article emphasizes that comparing it to Berkshire Hathaway is premature. Cohen lacks a proven track record of major outside investments comparable to Buffett's, warranting a cautious, neutral stance rather than bullish enthusiasm."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Used as the benchmark for successful long-term value creation and strategic investment. Buffett's track record of identifying high-quality companies and reinvesting during downturns is presented as the gold standard that Cohen is being compared against."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Used as the benchmark for successful long-term value creation and strategic investment. Buffett's track record of identifying high-quality companies and reinvesting during downturns is presented as the gold standard that Cohen is being compared against."
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Cited as an example of Berkshire Hathaway's successful major investments, representing the type of high-quality company acquisition that Cohen has not yet replicated."
+        },
+        {
+          "ticker": "KO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Referenced as another example of Berkshire's iconic long-term investment success, illustrating the standard Cohen would need to meet to justify Buffett comparisons."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:23:09.962284+00:00",
+    "cache_key": "news_f93a2ed5bc0fbb084b366464d1b1f568",
+    "count": 2
+  }
+}

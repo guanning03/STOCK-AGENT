@@ -1,0 +1,37 @@
+{
+  "items": [
+    {
+      "id": "bd1cb599fd92a37092e0b7a4327b3808a79cb06f219b963f5ecdd91cb7e35731",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "This Dow Jones Dividend King Has a Lot to Prove on Jan. 22. Here's Why Investors Should Take Note.",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-21T13:50:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/21/dow-jones-dividend-king-stock-buy-passive-income/?source=iedfolrf0000001",
+      "tickers": [
+        "PG"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804519/gettyimages-1349321741-1201x808-d335793-1.jpg",
+      "description": "Procter & Gamble, a Dow Jones Dividend King, is facing challenges with slowing sales growth and flat volume growth. Investors should watch for the company's upcoming earnings report on January 22 to see if it can overcome headwinds in its underperforming regions and meet its full-year guidance.",
+      "keywords": [
+        "Procter & Gamble",
+        "Dividend King",
+        "Dow Jones Industrial Average",
+        "sales growth",
+        "volume growth",
+        "earnings report"
+      ],
+      "insights": [
+        {
+          "ticker": "PG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a mixed outlook for Procter & Gamble, with challenges in sales growth and volume growth, but also highlights the company's strong cash flow and ability to return capital to shareholders. The overall sentiment is neutral, as the article suggests investors should watch the upcoming earnings report to see if the company can overcome its headwinds."
+        }
+      ]
+    }
+  ]
+}

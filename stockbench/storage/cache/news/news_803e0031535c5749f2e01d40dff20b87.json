@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "5 Relatively Secure And Cheap Dividend Stocks, Yields Up To 8% (February 2026)",
+      "description": "Read the latest article in our monthly series where we highlight five large-cap, relatively safe, dividend-paying companies offering significant discounts to their historical norms.",
+      "published_utc": "2026-02-07T03:20:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=30c5616273b90ece4a037f60c3885635a35299c037515bbf85fea9969e1a0198",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1249993252/image_1249993252.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138384798,
+      "datetime": 1770452400
+    },
+    {
+      "id": "3d16ad3d3aec3a5ede076828578b6bff402c1acc0969b570843556c9e77b97ea",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Should You Buy CVS Health Stock Before Feb. 10?",
+      "author": "Thomas Niel",
+      "published_utc": "2026-02-07T22:07:00Z",
+      "article_url": "https://www.fool.com/investing/2026/02/07/should-you-buy-cvs-health-stock-before-feb-10/?source=iedfolrf0000001",
+      "tickers": [
+        "CVS",
+        "UNH"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F854270%2Fgetty-health-insurance-medicare-1200x800-5b2df79.jpg&w=1200&op=resize",
+      "description": "CVS Health will report Q4 2025 earnings on Feb. 10, with potential guidance concerns due to lower-than-expected Medicare Advantage payment rate increases (0.9%). While CVS shares fell over 14% on this news, the company's diversified business model (retail pharmacy, PBM, insurance) may be less impacted than pure insurance competitors. Trading at under 11x forward earnings versus UnitedHealth's 16x, CVS could rally on 'better than feared' results despite near-term earnings volatility.",
+      "keywords": [
+        "CVS Health earnings",
+        "Medicare Advantage payment rates",
+        "Q4 2025 results",
+        "healthcare stock",
+        "guidance outlook",
+        "pharmacy benefits management",
+        "valuation multiple"
+      ],
+      "insights": [
+        {
+          "ticker": "CVS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mixed outlook with near-term caution but intact long-term bull case. Stock fell 14% on Medicare news but trades at attractive valuation (11x forward earnings). Diversified business model provides some insulation from insurance headwinds. Earnings beat likely but guidance updates may disappoint."
+        },
+        {
+          "ticker": "UNH",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Released underwhelming 2026 guidance following Medicare Advantage payment rate announcement. Higher valuation (16x forward earnings) leaves stock vulnerable to further declines if results continue to underwhelm. More exposed to insurance segment pressures than CVS."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:41:14.721442+00:00",
+    "cache_key": "news_803e0031535c5749f2e01d40dff20b87",
+    "count": 2
+  }
+}

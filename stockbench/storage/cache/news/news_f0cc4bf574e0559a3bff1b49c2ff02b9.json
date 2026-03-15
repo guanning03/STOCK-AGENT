@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "McDonald’s follows Chipotle in growing new food trend",
+      "description": "As use of GLP-1 receptor agonist drugs like Ozempic and Wegovy continues to rise (the most recent reports show that approximately one in every eight American adults was taking one at the end of 2025), industries ranging from aviation to fast food find themselves having to adapt to a population that ...",
+      "published_utc": "2026-02-16T19:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bc937f70e80eb73b6dc7c9da251d0fb1acfa8b03aae63380470639cb1bcf06a4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139125105,
+      "datetime": 1771286400
+    },
+    {
+      "title": "FDIS: Consumer Discretionary Dashboard For February",
+      "description": "Consumer services look 14% undervalued with strong quality, while autos/components are most overpriced. Read here for an analysis of FDIS ETF.",
+      "published_utc": "2026-02-16T18:13:32",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c9275675632dbc652aa87a63b18518de2c6056e0686a4a6f2e304cc45e117227",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1252468735/image_1252468735.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139119383,
+      "datetime": 1771283612
+    },
+    {
+      "title": "Argus Research Upgrades McDonald's (MCD)",
+      "description": "",
+      "published_utc": "2026-02-16T17:38:40",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=2f60b66a6669f1aa403a4568cf20789cbf4a6ad7e029015ff7aa5cf1044c464c",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139117648,
+      "datetime": 1771281520
+    },
+    {
+      "title": "McDonald's Tests High Protein Menu As GLP-1 Weight-Loss Drug Users Surge",
+      "description": "McDonald’s Corporation (NYSE:MCD) is adapting its menu as a growing number of Americans on GLP-1 weight-loss drugs, such as Ozempic and Wegovy, alter portion sizes, snacking habits, and beverage choices. McDonald's Tests High-Protein Options For GLP-1 Users During a Wednesday earnings call, CEO Chris Kempczinski said McDonald's is testing menu items to appeal to customers taking GLP-1 medications. \"As adoption grows, we know that consumers’ behavior changes,\" Kempczinski said. He noted these cus",
+      "published_utc": "2026-02-16T06:46:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4527af1e6dad85a619f20250adf6f2cb39d1eb206952bf076fa995b63b2d0034",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139113414,
+      "datetime": 1771242369
+    },
+    {
+      "title": "The AI Market Crash Is Just Getting Started",
+      "description": "",
+      "published_utc": "2026-02-16T02:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=865bbc2cf21a3cf9115284e36a7d83e359f44294fd23ecc9b4a30bb57964a7cb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "MCD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139113597,
+      "datetime": 1771226100
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:08:30.448958+00:00",
+    "cache_key": "news_f0cc4bf574e0559a3bff1b49c2ff02b9",
+    "count": 5
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Investing in Salesforce (NYSE:CRM) three years ago would have delivered you a 103% gain",
+      "description": "The most you can lose on any stock (assuming you don't use leverage) is 100% of your money. But if you buy shares in a...",
+      "published_utc": "2025-12-20T06:00:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=95d54baf90dcc17007f8d0658a1c75513467b6a807120fdaef44287ae867d557",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137843320,
+      "datetime": 1766228442
+    },
+    {
+      "title": "Adobe and these 9 fellow tech stocks are rarely this cheap. Are they great deals or value traps?",
+      "description": "Adobe and these 9 fellow tech stocks are rarely this cheap. Are they great deals or value traps?",
+      "published_utc": "2025-12-20T03:00:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=ed23916178d01c9be085340695558f47009e55e26b6ffcd7ec1afa1544fe35fe",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137858885,
+      "datetime": 1766217600
+    },
+    {
+      "title": "I stayed in a $40 capsule hotel as return to office mandates drive workers back to the city",
+      "description": "RTO mandates has workers who don't live in cities scrambling to find inexpensive ways of staying in the city without resorting to hostels.",
+      "published_utc": "2025-12-19T22:53:04",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=835c0f416da6dcbe5d45c3226067456ea51249854ef9edd74cbdce181dfdb804",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108234629-1764614346925-20251117_170200771_iOS_1.jpg?v=1764614410&w=1920&h=1080",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137841152,
+      "datetime": 1766202784
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:52:54.197784+00:00",
+    "cache_key": "news_8a837bd3ebb600acb06bdad28209621b",
+    "count": 3
+  }
+}

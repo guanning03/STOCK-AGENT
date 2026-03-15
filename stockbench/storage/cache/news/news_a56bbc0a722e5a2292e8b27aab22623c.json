@@ -1,0 +1,226 @@
+{
+  "items": [
+    {
+      "id": "e8f956081558e5b0316abfaa4089eb2ae9267bd2eb6eee8f64a5297670a40ede",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Could McDonald's Be a Millionaire-Maker Stock?",
+      "author": "James Brumley",
+      "published_utc": "2025-02-08T23:23:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/08/could-mcdonalds-be-a-millionaire-maker-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "MCD",
+        "AMZN",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806421/fast-food-hamburger-fries-drink.jpg",
+      "description": "McDonald's is a reliable and profitable fast-food giant, with a strong franchise model that generates steady revenue and dividend growth. While not a high-growth stock, its consistent performance and share buybacks have made it a potential millionaire-maker for long-term investors who reinvest its dividends.",
+      "keywords": [
+        "McDonald's",
+        "fast-food",
+        "franchise",
+        "dividend",
+        "share buybacks"
+      ],
+      "insights": [
+        {
+          "ticker": "MCD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights McDonald's as a reliable and profitable fast-food company with a strong franchise model that generates steady revenue and dividend growth. It has the potential to be a 'millionaire-maker' stock for long-term investors who reinvest its dividends."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Amazon as a subsidiary of Whole Foods Market, but does not provide any specific insights about Amazon's performance or outlook."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares McDonald's to Nvidia as a growth stock, but does not provide any further details about Nvidia's performance or outlook."
+        }
+      ]
+    },
+    {
+      "id": "f42c4b5dc946e117222b91eb7ee9bfbbef0abd574209d78648de8833ed04f9f8",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Down 50% With a 5.9% Dividend Yield, Here's Why This Dirt Cheap Value Stock Is Worth Buying in February",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-08T23:05:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/08/down-big-buy-high-yield-value-stock-ups/?source=iedfolrf0000001",
+      "tickers": [
+        "UPS",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806404/gettyimages-1351437852-1200x800-5b2df79-2.jpg",
+      "description": "UPS stock is down 50% from its all-time high, with a 5.9% dividend yield. The company faces challenges, but its focus on healthcare and small/medium businesses, as well as its commitment to the dividend, make it a potential turnaround opportunity for value investors.",
+      "keywords": [
+        "UPS",
+        "dividend yield",
+        "value stock",
+        "turnaround",
+        "healthcare",
+        "small and medium businesses"
+      ],
+      "insights": [
+        {
+          "ticker": "UPS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a balanced view on UPS, acknowledging the company's challenges but also highlighting its potential turnaround opportunities, such as its focus on healthcare and small/medium businesses, as well as its commitment to the dividend."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that UPS is expecting a 50% reduction in delivery volumes from Amazon, its largest customer, by the second half of 2026, which is seen as a challenge for the company."
+        }
+      ]
+    },
+    {
+      "id": "8e1b69559dad57c8bbbaa746c8d6e817f0215ae362f240761d35ce7f9bb258fb",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Elon Musk Just Said Tesla Has a $10 Trillion Opportunity, and It Has Nothing to Do With the Car Business",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-08T21:05:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/08/elon-musk-just-said-tesla-has-a-10-trillion-opport/?source=iedfolrf0000001",
+      "tickers": [
+        "TSLA",
+        "AAPL",
+        "NVDA",
+        "MSFT",
+        "AMZN",
+        "GOOG",
+        "GOOGL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806313/gettyimages-1472958180.jpg",
+      "description": "Elon Musk claims Tesla's humanoid robot Optimus has the potential to be a $10 trillion business, separate from its electric vehicle operations. While the exact revenue potential is uncertain, Optimus could complement Tesla's labor force and unlock significant value in the long run.",
+      "keywords": [
+        "Tesla",
+        "Optimus",
+        "Humanoid robots",
+        "Artificial intelligence"
+      ],
+      "insights": [
+        {
+          "ticker": "TSLA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Tesla's diversification efforts beyond electric vehicles, with the Optimus humanoid robot project presenting a potential $10 trillion opportunity. While the exact revenue potential is uncertain, the article suggests Optimus could complement Tesla's labor force and unlock significant value in the long run."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Apple, but mentions that Elon Musk predicts Tesla will be bigger than Apple, Nvidia, Microsoft, Amazon, and Alphabet combined, suggesting Apple is part of the broader tech landscape that Tesla aims to surpass."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Nvidia, but mentions that Elon Musk predicts Tesla will be bigger than Apple, Nvidia, Microsoft, Amazon, and Alphabet combined, suggesting Nvidia is part of the broader tech landscape that Tesla aims to surpass."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Microsoft, but mentions that Elon Musk predicts Tesla will be bigger than Apple, Nvidia, Microsoft, Amazon, and Alphabet combined, suggesting Microsoft is part of the broader tech landscape that Tesla aims to surpass."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Amazon, but mentions that Elon Musk predicts Tesla will be bigger than Apple, Nvidia, Microsoft, Amazon, and Alphabet combined, suggesting Amazon is part of the broader tech landscape that Tesla aims to surpass."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Alphabet, but mentions that Elon Musk predicts Tesla will be bigger than Apple, Nvidia, Microsoft, Amazon, and Alphabet combined, suggesting Alphabet is part of the broader tech landscape that Tesla aims to surpass."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not provide any specific information about Alphabet, but mentions that Elon Musk predicts Tesla will be bigger than Apple, Nvidia, Microsoft, Amazon, and Alphabet combined, suggesting Alphabet is part of the broader tech landscape that Tesla aims to surpass."
+        }
+      ]
+    },
+    {
+      "id": "23797b4d72f0e5ed4321a2b87bb25b85cc7bd01056d2294ae163aeb1c9f6ffd2",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Should You Buy Shopify Stock Before Feb. 11?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-08T14:40:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/08/should-you-buy-shopify-stock-before-feb-11/?source=iedfolrf0000001",
+      "tickers": [
+        "SHOP",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806682/people-in-a-factory.jpg",
+      "description": "Shopify is a leading e-commerce platform with a large market share in the U.S. The company has been growing its revenue and profitability, and its stock trades at a premium valuation. Investors should consider Shopify's long-term growth potential, but be cautious of any negative news or guidance that could impact the stock price.",
+      "keywords": [
+        "Shopify",
+        "e-commerce",
+        "earnings",
+        "valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "SHOP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Shopify is a dominant player in the growing e-commerce market, with a 30% share of the U.S. platform market. The company has been reporting strong financial results, beating earnings expectations, and is well-positioned for continued growth."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Amazon is the top online retailer in the U.S. with a 38% share of the e-commerce market. The article mentions Amazon's results and outlook, which could impact Shopify, but does not provide a strong opinion on Amazon itself."
+        }
+      ]
+    },
+    {
+      "id": "b8d9bde85426e616f95348c2f6e85cc30e1b0d1f3b031e880b83146aaad5d998",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Should You Buy Amazon Stock Right Now?",
+      "author": "Parkev Tatevosian, Cfa",
+      "published_utc": "2025-02-08T13:04:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/08/should-you-buy-amazon-stock-right-now/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806977/amazon-prime-van-on-street.png",
+      "description": "The article discusses how Amazon is doing an excellent job of lowering its cost to serve customers while improving its delivery speed.",
+      "keywords": [
+        "Amazon",
+        "cost reduction",
+        "delivery speed"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Amazon is doing an excellent job of lowering its cost to serve customers while improving its delivery speed, indicating a positive sentiment towards the company's performance."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:47:52.150876+00:00",
+    "cache_key": "news_a56bbc0a722e5a2292e8b27aab22623c",
+    "count": 5
+  }
+}

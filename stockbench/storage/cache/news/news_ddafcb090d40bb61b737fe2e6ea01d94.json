@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "The Fed's Silent Dissenters",
+      "description": "While only two official dissenters opposed the December rate cut, dot plot projections reveal that six Fed members, including four âsilent dissenters,â were against easing.",
+      "published_utc": "2025-12-17T17:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f077868019e430ca16ed43cb99c5a4a7b58630c44072e35df7c63522d1fd1516",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1339655132/image_1339655132.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137816087,
+      "datetime": 1766011200
+    },
+    {
+      "title": "SCHD: This ETF Stinks",
+      "description": "Read why the SCHD ETF remains a stable choice for dividend growth, despite recent AI-driven underperformance.",
+      "published_utc": "2025-12-17T13:50:41",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=3b6d2a33cb106d0d459e3c8cce8bbdbf79f04cd264a88033ffe937ea315f9e5d",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1364623580/image_1364623580.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137814928,
+      "datetime": 1765997441
+    },
+    {
+      "title": "These 3 Potential 2026 Economic Headwinds Should Be On Your Radar",
+      "description": "Read about the three major economic risks to watch out for in 2026âfrom weak housing to mounting consumer debt. Access the full analysis here.",
+      "published_utc": "2025-12-17T11:20:19",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0b7b17e6bd1a25e84ad9fcecd61ea031e18df4b66805a720c00775cf8f8243de",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2209608322/image_2209608322.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137814458,
+      "datetime": 1765988419
+    },
+    {
+      "title": "'U.S. Federal Reserve Has Told Citigroup It Has Closed Notices That Demanded Bank Improve Counterparty Risk Management' - Reuters Exclusive",
+      "description": "The U.S.",
+      "published_utc": "2025-12-17T11:01:22",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=53e7fdf5a1dcea65a17eef95826d90df18370d00189bb73aa271ba90ff712a87",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138843084,
+      "datetime": 1765987282
+    },
+    {
+      "title": "Massive Breakout in Industrials: 3 Must-Watch Stocks Now",
+      "description": "The industrials sector is showing signs of leadership, with XLI breaking out of a lengthy consolidation and outperforming the broader market in the short term.",
+      "published_utc": "2025-12-17T10:22:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7e7e074b88c78f816548823f2c7c852d2d829bc5434e33ab2580382761dfb2ac",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137822377,
+      "datetime": 1765984920
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:50:16.688614+00:00",
+    "cache_key": "news_ddafcb090d40bb61b737fe2e6ea01d94",
+    "count": 5
+  }
+}

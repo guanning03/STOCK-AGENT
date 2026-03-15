@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Review & Preview: 50,000 Sighs of Relief",
+      "description": "After a tumultuous week, stocks staged an impressive rebound, sending the Dow above 50,000 for the first time ever.",
+      "published_utc": "2026-02-06T19:55:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a4ddbf1eb734759f710132871b803a21b63a2898c567ba0f499c96b93b59c044",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138381723,
+      "datetime": 1770425700
+    },
+    {
+      "title": "The Dow Surged Past 50,000. How Caterpillar and These Other Stocks Got It There.",
+      "description": "The broader market passed a significant milestone thanks to big gains for stocks outside of tech. Goldman Sachs and Caterpillar are examples.",
+      "published_utc": "2026-02-06T15:08:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=173883256409e9c3866072515ae3468d7fea5fbd2746e9d535f472b3aa735587",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138379480,
+      "datetime": 1770408480
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Microsoft says Azure affected after cables cut in the Red Sea",
+      "description": "It's not clear who cut the cables or why.",
+      "published_utc": "2025-09-07T18:31:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=36d202c0ae74abf92596a55d0e1d802822679b6ae4874ee2a1489fbdfc0f80da",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136668904,
+      "datetime": 1757284277
+    },
+    {
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "description": "Mistral AI, the French company behind AI assistant Le Chat and several foundational models, is officially regarded as one of France’s most promising tech startups and is arguably the only European company that could compete with OpenAI. It is reportedly in the process of raising another round that would value it at $14 billion, up […]",
+      "published_utc": "2025-09-07T11:54:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=be3746dde09686a07565d0fdd3fbe0b3227801d9fcc6e5cffe8f1968a94fed26",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136668905,
+      "datetime": 1757260443
+    },
+    {
+      "title": "Is Alexandria Real Estate Equities’ Steady Dividend a Sign of Capital Caution or Strategic Discipline (ARE)?",
+      "description": "Alexandria Real Estate Equities, Inc. announced in early September that its Board of Directors declared a quarterly cash dividend of US$1.32 per common share for the third quarter of 2025, payable October 15 to shareholders of record on September 30. This decision to maintain rather than increase the dividend, diverging from its prior growth rate, highlights a prioritization of financial flexibility while preserving an attractive 7.3% yield for shareholders. Now, we’ll explore what the...",
+      "published_utc": "2025-09-07T08:43:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e7bb0df86405a9361aa408dcd14ea1a8b30f47b241cabd42482697b96ff31ca4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136668906,
+      "datetime": 1757248988
+    },
+    {
+      "title": "The Bull Case For First Interstate BancSystem (FIBK) Could Change Following US$150 Million Buyback and Board Addition",
+      "description": "First Interstate BancSystem announced a share repurchase program authorizing up to US$150 million in buybacks through March 2027, and recently appointed Michael L. Scudder to its board as well as its audit and risk committees. The scale of the buyback reflects management's confidence in the company’s long-term value and capital position, signaling a proactive approach to shareholder returns. We’ll examine how the new US$150 million share buyback plan could shape First Interstate BancSystem’s...",
+      "published_utc": "2025-09-07T08:38:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e136aad3b3b2cb52aabb52004a029fae687e6977b1c71b32cd0ac7df19113113",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136668907,
+      "datetime": 1757248703
+    },
+    {
+      "title": "Trump’s Tariffs Hit PlayStation, Xbox and Switch: See How Much Prices Surged",
+      "description": "Gamers face higher costs as Trump’s tariffs drive up prices on PlayStation, Xbox and Nintendo consoles. See how much more you’ll pay.",
+      "published_utc": "2025-09-07T08:13:01",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1a7305fd83a855b02d00b852fa34c20e8fa91dffd421bbf6a6a3a998a65c2020",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136668908,
+      "datetime": 1757247181
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:20:32.386539+00:00",
+    "cache_key": "news_c8c9c901ca64d020d4a93c7ed69ed4fe",
+    "count": 5
+  }
+}

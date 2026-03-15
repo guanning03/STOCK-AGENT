@@ -1,0 +1,96 @@
+{
+  "items": [
+    {
+      "id": "ab54dcd7b37b87375a3214e2432ac9be86449cc0b9395633718597e59023cc90",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Warren Buffett Is Ending 2024 With Even More of This Energy Stock. Should You Buy It Before 2025?",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-24T09:05:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/24/warren-buffett-ending-2024-energy-stock-buy/?source=iedfolrf0000001",
+      "tickers": [
+        "OXY",
+        "OXY.WS",
+        "BRK.A",
+        "BRK.B",
+        "GOOG",
+        "GOOGL",
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801816/buffett16-tmf.jpg",
+      "description": "Warren Buffett's Berkshire Hathaway has been increasing its stake in Occidental Petroleum, a major energy company. The article discusses Occidental's competitive advantages, the ongoing demand for oil and gas, and Buffett's interest in the company despite the transition to renewable energy.",
+      "keywords": [
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "Occidental Petroleum",
+        "energy",
+        "oil and gas",
+        "renewable energy"
+      ],
+      "insights": [
+        {
+          "ticker": "OXY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Occidental's competitive advantages, such as its expertise in fracking and strategic location in the Permian Basin. It also notes that the company is well-positioned to capitalize on the growing carbon capture industry, and that Buffett continues to increase his stake in the company despite the market environment."
+        },
+        {
+          "ticker": "OXY.WS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Occidental's competitive advantages, such as its expertise in fracking and strategic location in the Permian Basin. It also notes that the company is well-positioned to capitalize on the growing carbon capture industry, and that Buffett continues to increase his stake in the company despite the market environment."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article indicates that Berkshire Hathaway, led by Warren Buffett, has been expanding its position in Occidental Petroleum, suggesting Buffett's confidence in the company's long-term prospects."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article indicates that Berkshire Hathaway, led by Warren Buffett, has been expanding its position in Occidental Petroleum, suggesting Buffett's confidence in the company's long-term prospects."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Alphabet as one of the companies that is falling short of its initial net-zero milestone goals, but this information is provided in the context of discussing the challenges in transitioning to a carbon-free era."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Alphabet as one of the companies that is falling short of its initial net-zero milestone goals, but this information is provided in the context of discussing the challenges in transitioning to a carbon-free era."
+        },
+        {
+          "ticker": "GS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article cites a Goldman Sachs forecast that worldwide oil demand is likely to continue growing before peaking in 2035, supporting the ongoing importance of the oil and gas industry."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article cites a Goldman Sachs forecast that worldwide oil demand is likely to continue growing before peaking in 2035, supporting the ongoing importance of the oil and gas industry."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article cites a Goldman Sachs forecast that worldwide oil demand is likely to continue growing before peaking in 2035, supporting the ongoing importance of the oil and gas industry."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article cites a Goldman Sachs forecast that worldwide oil demand is likely to continue growing before peaking in 2035, supporting the ongoing importance of the oil and gas industry."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:51:45.145700+00:00",
+    "cache_key": "news_7e9a7f4c1efe7a75eec129a481ca2c8e",
+    "count": 1
+  }
+}

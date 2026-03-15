@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": "92c5685fee9661df48574dfd4c49cfde268eba244155c2ba3c498cfda828ae45",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "All It Takes Is $3,500 Invested in Each of These 3 Dow Dividend Stocks to Help Generate $325 in Passive Income in 2025",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-28T09:32:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/28/buy-dow-dividend-stocks-passive-income-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "MCD",
+        "HD",
+        "CVX"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802105/home-depot-hardware-store-lumber-shopping-1200x800-5b2df79-1.jpg",
+      "description": "The article discusses three Dow dividend stocks - McDonald's, Home Depot, and Chevron - that could generate $325 in passive income in 2025 with a $3,500 investment in each. The companies face some near-term challenges, but their long-term growth potential and dividend track records make them balanced buys.",
+      "keywords": [
+        "Dow stocks",
+        "dividend stocks",
+        "passive income",
+        "McDonald's",
+        "Home Depot",
+        "Chevron"
+      ],
+      "insights": [
+        {
+          "ticker": "MCD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Despite recent sales challenges, McDonald's remains a compelling investment opportunity with a long history of dividend growth and a growing loyalty program that can boost engagement without relying on price increases."
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Home Depot is a solid business at a good value with a growing dividend and a track record of market-beating returns, despite near-term uncertainty in the housing market."
+        },
+        {
+          "ticker": "CVX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Chevron has a sizable dividend yield, a history of consecutive dividend raises, and a strong balance sheet that can cover its dividend and capital spending plans even if oil prices fall, making it a compelling high-yield dividend stock to buy now."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:01:32.695927+00:00",
+    "cache_key": "news_07f205aae7e103e918b3f0e430602d4d",
+    "count": 1
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "id": "c79d26b181fc37c24757ef31daba6e4e838ba2dd2185158f91e43c745aec7c5c",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "China Has a 6th-Generation Fighter Jet. What Does It Mean for Boeing, Lockheed Martin, and Northrop Grumman?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-11T12:07:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/11/china-6th-generation-fighter-jet-boeing-lockheed/?source=iedfolrf0000001",
+      "tickers": [
+        "LMT",
+        "BA",
+        "BApA",
+        "NOC"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803120/f-22-raptor-silhouetted-against-a-sunrise.jpg",
+      "description": "China has tested two new sixth-generation fighter jets, while the U.S. is still flying fifth-generation jets. This could lead to an arms race, with the Pentagon needing to fund the development of new sixth-generation fighters by Boeing and Lockheed Martin to keep up with China's advancements.",
+      "keywords": [
+        "China",
+        "fighter jets",
+        "sixth-generation",
+        "Lockheed Martin",
+        "Boeing",
+        "Northrop Grumman",
+        "arms race"
+      ],
+      "insights": [
+        {
+          "ticker": "LMT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Lockheed Martin is the likely favorite to build any new U.S. sixth-generation stealth fighter jets based on its experience with the F-22 and F-35."
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Boeing is still in the running for the U.S. sixth-generation fighter jet contract, but its defense division is currently unprofitable, and it may or may not decide to sell it."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Boeing is still in the running for the U.S. sixth-generation fighter jet contract, but its defense division is currently unprofitable, and it may or may not decide to sell it."
+        },
+        {
+          "ticker": "NOC",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Northrop Grumman has dropped out of the competition to develop the U.S. sixth-generation fighter jet, so it is no longer relevant to this story."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:34:22.453985+00:00",
+    "cache_key": "news_d6d2562b3bf18bf35e6e21aeae17c746",
+    "count": 1
+  }
+}

@@ -46,6 +46,36 @@
       "datetime": 1752036420
     },
     {
+      "title": "Analyst Expectations For Sherwin-Williams's Future",
+      "description": "",
+      "published_utc": "2025-07-09T11:01:01",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=9d9f5e77b7f5097eadc76333aaf153a3b9e883259033071a25109f367044a3c5",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138872221,
+      "datetime": 1752073261
+    },
+    {
+      "title": "UBS Maintains Buy on Sherwin-Williams, Raises Price Target to $410",
+      "description": "UBS  analyst Joshua Spector   maintains Sherwin-Williams (NYSE:SHW) with a Buy and raises the price target from $398 to $410.",
+      "published_utc": "2025-07-09T07:07:32",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=588ce80d2000c5761fb64925cc27b87ed04f243d2c71f1bd0620f85b5c97ec3d",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138872222,
+      "datetime": 1752059252
+    },
+    {
       "id": "edc29db6addc5967a5f2ba3fe8b710cd27b695bf07485087d15160c22503735f",
       "publisher": {
         "name": "Investing.com",

@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Stocks fall to kick off December as bitcoin, tech stocks decline: Live updates",
+      "description": "The S&P 500 and Nasdaq Composite last week ripped higher by 3.7% and 4.9%, respectively, while the Dow advanced 3.2%.",
+      "published_utc": "2025-11-30T13:03:05",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=7becbf7f0332df7e217a14e1154c044b4ff27823b4bf1dbd77bca3dc72306912",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108229973-1764593914692-108229973-1763739699114-gettyimages-2247191142-AFP_84QX376.jpg?v=1764593934&w=1920&h=1080",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137653995,
+      "datetime": 1764525785
+    }
+  ]
+}

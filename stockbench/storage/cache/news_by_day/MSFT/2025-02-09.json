@@ -1,0 +1,330 @@
+{
+  "items": [
+    {
+      "id": "ee3a188324c23a5c64353104b0fc5aa7c0e8c873b5bebba441e52db3e9ae4446",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "AMD's Stock Just Did Something It Hasn't Done Since 2023",
+      "author": "Adam Spatacco",
+      "published_utc": "2025-02-09T17:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/09/amds-stock-just-did-something-it-hasnt-done-since/?source=iedfolrf0000001",
+      "tickers": [
+        "AMD",
+        "NVDA",
+        "META",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806593/getty-price-value.jpg",
+      "description": "The article analyzes AMD's valuation, noting that its data center segment appears undervalued compared to peers like Nvidia. It suggests that AMD's AI capabilities may be underestimated by the market, presenting a potential opportunity for investors.",
+      "keywords": [
+        "AMD",
+        "Nvidia",
+        "data center",
+        "AI",
+        "valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "AMD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that AMD's data center business is undervalued, and that the company's AI capabilities may be underestimated by the market, presenting a potential opportunity for investors."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares AMD's valuation to Nvidia's, noting that Nvidia's compute and networking business is much larger than AMD's, and that Nvidia has seen a historic rise in its share price in recent years."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Meta Platforms is a customer of both AMD and Nvidia, but does not provide any specific analysis or sentiment regarding the company."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article states that AMD is seeing adoption of its MI300 accelerators with cloud hyperscalers such as Microsoft, but does not provide any further analysis or sentiment regarding the company."
+        }
+      ]
+    },
+    {
+      "id": "e9a7b6b0356087dae8601606933b012a834c390f49d1334d1593bf53b9c6fa0b",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Want to Invest in Quantum Computing? 1 Stock That Is a Great Buy Right Now.",
+      "author": "Anders Bylund",
+      "published_utc": "2025-02-09T15:37:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/09/1-great-buy-for-quantum-computing-investing/?source=iedfolrf0000001",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "IBM",
+        "MSFT",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806972/sharing-secrets.jpg",
+      "description": "The article discusses the hype around quantum computing and cautions investors against investing in pure-play quantum computing stocks. Instead, it suggests looking at more mature tech giants like Alphabet that are also working on quantum computing research.",
+      "keywords": [
+        "quantum computing",
+        "technology",
+        "investment",
+        "Alphabet",
+        "IBM",
+        "Microsoft",
+        "Nvidia"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Alphabet is a better investment option than pure-play quantum computing stocks, as it has a bargain-bin valuation and is also working on quantum computing research."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that Alphabet is a better investment option than pure-play quantum computing stocks, as it has a bargain-bin valuation and is also working on quantum computing research."
+        },
+        {
+          "ticker": "IBM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that IBM has more quantum-related technology patents than anybody, but does not provide a specific sentiment on the company."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article states that Microsoft is focusing on making quantum computing systems usable via today's cloud computing platforms, but does not provide a specific sentiment on the company."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Nvidia is building optimized software libraries for quantum-based software development, but does not provide a specific sentiment on the company."
+        }
+      ]
+    },
+    {
+      "id": "468e75a02ec81d7e33fde92a0891e1a5eac4b0438c730fa2cc98a2e9d23d02df",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Where Will Palantir Technologies Stock Be in 1 Year?",
+      "author": "Jake Lerch",
+      "published_utc": "2025-02-09T15:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/09/where-will-palantir-technologies-stock-be-in-1-yea/?source=iedfolrf0000001",
+      "tickers": [
+        "PLTR",
+        "MSFT",
+        "AAPL"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806152/pltr-palantir-technology-stock-market-investment.jpg",
+      "description": "Palantir Technologies, a financial services company, is seen as a potential leader in the growing field of artificial intelligence (AI) software. The company's stock has surged over the past year, and its financial metrics are also on the rise, indicating its strong position in the market.",
+      "keywords": [
+        "Palantir Technologies",
+        "artificial intelligence",
+        "software"
+      ],
+      "insights": [
+        {
+          "ticker": "PLTR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article presents Palantir Technologies as a potential leader in the AI software market, with its stock price and financial metrics surging. The author believes the company could be one of the first great AI software companies, which is expected to grow rapidly in the coming years."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article uses Microsoft's success in the personal computing industry as an analogy for Palantir's potential in the AI software market, suggesting that Palantir could become a dominant player in the field, similar to how Microsoft became the dominant player in the personal computing industry."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Apple as another company that eventually recovered and delivered massive gains for its shareholders, even though Microsoft initially dominated the personal computing industry, suggesting that other companies can also succeed in the AI software market alongside Palantir."
+        }
+      ]
+    },
+    {
+      "id": "ec0e6681c93df51cff51b823afb74b5eeaf7f96ba933d0c365608167da4f4b3c",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Consumer Tech News (Feb 3-Feb 7): Meta Plans Not To Comply With The EU AI Code Of Practice, Apple Raises AppleCare+ Service' Subscription Cost & More",
+      "author": "Lekha Gupta",
+      "published_utc": "2025-02-09T15:15:17Z",
+      "article_url": "https://www.benzinga.com/news/large-cap/25/02/43581128/consumer-tech-news-feb-3-feb-7-meta-plans-not-to-comply-with-the-eu-ai-code-of-practice-apple-rais",
+      "tickers": [
+        "AAPL",
+        "AMD",
+        "AMZN",
+        "GOOG",
+        "GOOGL",
+        "META",
+        "MSFT",
+        "NVDA",
+        "PLTR",
+        "SPOT",
+        "TTWO"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/02/09/Metas-Performance-Based-Cuts.jpeg?width=1200&height=800&fit=crop",
+      "description": "Meta plans to not comply with the EU AI Code of Practice, Apple raises AppleCare+ subscription cost, and other tech news including updates on Alphabet, OpenAI, Spotify, Take-Two, Palantir, and more.",
+      "keywords": [
+        "Meta",
+        "Apple",
+        "Alphabet",
+        "OpenAI",
+        "Spotify",
+        "Take-Two",
+        "Palantir",
+        "Microsoft",
+        "Nvidia",
+        "Samsung"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Apple has increased the monthly subscription cost for its AppleCare+ service across all iPhone models in the U.S."
+        },
+        {
+          "ticker": "AMD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "AMD CEO Lisa Su has addressed DeepSeek's AI advancements and their potential impact on the semiconductor market."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Amazon is gearing up to introduce a major AI upgrade to its Alexa voice assistant."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "A federal appeals court in San Francisco showed skepticism toward Alphabet's efforts to overturn a jury verdict in favor of Fortine-maker Epic Games. Alphabet CEO Sundar Pichai hinted at potential future monetization strategies for Gemini AI."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "A federal appeals court in San Francisco showed skepticism toward Alphabet's efforts to overturn a jury verdict in favor of Fortine-maker Epic Games. Alphabet CEO Sundar Pichai hinted at potential future monetization strategies for Gemini AI."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Meta decided not to comply with the European Union's AI Code of Practice."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Microsoft has quietly removed a workaround that allowed users to install Windows 11 on unsupported PCs. Microsoft has recruited top talent from Google DeepMind."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia's GeForce RTX 5090 and 5080 graphics cards have sold out almost immediately after their release."
+        },
+        {
+          "ticker": "PLTR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Palantir reported fourth-quarter revenue and adjusted earnings that beat analyst estimates."
+        },
+        {
+          "ticker": "SPOT",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Spotify reported fourth-quarter earnings that missed the analyst consensus estimate."
+        },
+        {
+          "ticker": "TTWO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Take-Two reported third-quarter revenue and adjusted earnings that beat analyst estimates."
+        }
+      ]
+    },
+    {
+      "id": "ff5a717d3a1df9f3a62b2d4c40a483e44c7a49e84f3cefc4b5f0b4934b80aa15",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Palantir Technologies Surges to $100: Is This Red-Hot AI Stock Still a Buy? 3 Analysts Weigh In.",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-09T12:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/09/palantir-technologies-surges-to-100-is-this-red-ho/?source=iedfolrf0000001",
+      "tickers": [
+        "PLTR",
+        "MSFT",
+        "AAPL",
+        "META",
+        "NFLX",
+        "NVDA",
+        "MCD",
+        "CSCO",
+        "ADBE"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/806476/pltr-10.jpg",
+      "description": "Palantir Technologies' stock price has surged from $6 to over $100 in just over two years, leading to questions about whether it is still a buy. Three analysts weigh in, with differing views on the company's valuation and growth potential.",
+      "keywords": [
+        "Palantir Technologies",
+        "AI",
+        "stock valuation",
+        "growth potential"
+      ],
+      "insights": [
+        {
+          "ticker": "PLTR",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a mixed view on Palantir Technologies, with one analyst seeing it as a potential industry-defining company, while the other two express concerns about the stock's valuation being too high compared to the company's fundamentals. The overall sentiment is neutral, as the article does not provide a clear recommendation on whether the stock is still a buy at current levels."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article uses Microsoft as an example of a company that has defined a particular business era, suggesting that Palantir Technologies could potentially follow a similar path."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article uses Apple as an example of a company that has defined a particular business era, suggesting that Palantir Technologies could potentially follow a similar path."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article uses Meta Platforms (formerly Facebook) as an example of a company that has defined a particular business era, suggesting that Palantir Technologies could potentially follow a similar path."
+        },
+        {
+          "ticker": "NFLX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article uses Netflix as an example of a company that has defined a particular business era, suggesting that Palantir Technologies could potentially follow a similar path."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article compares Palantir's price-to-book value ratio to Nvidia's, suggesting that Palantir's valuation may be stretched."
+        },
+        {
+          "ticker": "MCD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article uses McDonald's as an example of a highly profitable and successful company with a strong track record, suggesting that Palantir's valuation may be high compared to its current revenue and profits."
+        },
+        {
+          "ticker": "CSCO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article uses Cisco Systems as an example of a highly profitable and successful company with a strong track record, suggesting that Palantir's valuation may be high compared to its current revenue and profits."
+        },
+        {
+          "ticker": "ADBE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article uses Adobe as an example of a highly profitable and successful company with a strong track record, suggesting that Palantir's valuation may be high compared to its current revenue and profits."
+        }
+      ]
+    }
+  ]
+}

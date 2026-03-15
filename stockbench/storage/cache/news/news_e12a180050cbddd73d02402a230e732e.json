@@ -1,0 +1,100 @@
+{
+  "items": [
+    {
+      "id": "38ec1402ec0db589a46d01aefe070ce64d5e2c37f301fdf4a169dbd7013fe8d9",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "This 1 Simple ETF Could Turn $250 a Month Into $260,400",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-14T13:10:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/14/this-1-simple-etf-could-turn-250-a-month-into-2604/?source=iedfolrf0000001",
+      "tickers": [
+        "VYM",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "AVGO",
+        "HD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800843/a-hand-drawing-money-signs-and-an-upward-arrow-on-a-chalkboard.jpg",
+      "description": "The Vanguard High Dividend Yield ETF (VYM) is a great long-term investment option that focuses on high-yielding dividend stocks, which have historically produced solid returns with less volatility. The fund's diversified portfolio and consistent dividend growth make it a suitable core investment for investors seeking to grow their wealth over time.",
+      "keywords": [
+        "Vanguard High Dividend Yield ETF",
+        "dividend stocks",
+        "long-term investment",
+        "diversification"
+      ],
+      "insights": [
+        {
+          "ticker": "VYM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights the Vanguard High Dividend Yield ETF as a great long-term investment option due to its focus on high-yielding dividend stocks, which have historically produced solid returns with less volatility. The fund's diversified portfolio and consistent dividend growth make it a suitable core investment for investors seeking to grow their wealth over time."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is mentioned as an advertising partner of Motley Fool Money, but it is not a central focus of the article."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is mentioned as an advertising partner of Motley Fool Money, but it is not a central focus of the article."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is mentioned as an advertising partner of Motley Fool Money, but it is not a central focus of the article."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is mentioned as an advertising partner of Motley Fool Money, but it is not a central focus of the article."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is mentioned as an advertising partner of Motley Fool Money, but it is not a central focus of the article."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is mentioned as an advertising partner of Motley Fool Money, but it is not a central focus of the article."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is mentioned as an advertising partner of Motley Fool Money, but it is not a central focus of the article."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is mentioned as an advertising partner of Motley Fool Money, but it is not a central focus of the article."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Broadcom is mentioned as a position held by the author, but it is not a central focus of the article."
+        },
+        {
+          "ticker": "HD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Home Depot is mentioned as a position held by the author, but it is not a central focus of the article."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:19:57.973124+00:00",
+    "cache_key": "news_e12a180050cbddd73d02402a230e732e",
+    "count": 1
+  }
+}

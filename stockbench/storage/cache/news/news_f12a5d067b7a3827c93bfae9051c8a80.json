@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Small Stocks Lead Markets Higher",
+      "description": "Smaller firms outperformed recent market leaders like tech and communications stocks.  Stocks’ summer climb showed signs of slowing last week, until a speech from Federal Reserve Chair  Jerome Powell  Friday recharged markets and sent the Dow industrials to a fresh record by opening the door to lower interest rates.  This week, a positive earnings season and hopes of a forthcoming rate cut have lifted the share prices of smaller companies and left some investors turning their attention to recently unloved parts of the market.",
+      "published_utc": "2025-08-26T17:02:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eafc3d4fdb7284ba2312e5322cd320db1d0c550cd89a1bfe9cdcbebeb7d4ad16",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136536580,
+      "datetime": 1756242120
+    },
+    {
+      "title": "These Stocks Moved the Most Today: EchoStar, AT&T, AMD, Lilly, Boeing, DJT, Talen, Semtech, and More",
+      "description": "AT&T intends to buy spectrum licenses from EchoStar for $23 billion, while shares of Advanced Micro Devices receive an upgrade.",
+      "published_utc": "2025-08-26T16:46:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e49e3e193fe6e1c6229b40766cb31e574e11f93ce654fc16950e757d655e34c7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136536310,
+      "datetime": 1756241160
+    },
+    {
+      "title": "US Equity Indexes Rise as Investors Turn to Tech Heavyweights Amid Trump's Move to Oust Fed Governor",
+      "description": "US equity indexes rose at the close of trading on Tuesday, with investors seeking refuge in mega-cap",
+      "published_utc": "2025-08-26T16:31:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1cdf32f0168f9fa029b8b076fb8f63d0f8f3361a4d91bb8bd583ebc7128d9a07",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136536197,
+      "datetime": 1756240260
+    },
+    {
+      "title": "Stock Market Today: Dow Lags S&P 500; This Energy Stock Surges, Nvidia Readies For Earnings (Live Coverage)",
+      "description": "The Dow Jones Industrial Average and other major stock indexes were all in the green Tuesday afternoon.  Meanwhile, a nuclear energy stock jumped on the stock market today, while Nvidia prepared for its much-anticipated earnings.  Blue chips on the Dow dug deep and inched higher 0.1% after wavering between positive and negative territory throughout the session.",
+      "published_utc": "2025-08-26T15:12:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3ee99eb9612cdcfc167a9503fd0dd2e2c583be222bf665e1d790034682246b9f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136529922,
+      "datetime": 1756235529
+    },
+    {
+      "title": "US could seek piece of defense companies, Commerce chief says",
+      "description": "STORY: The Trump administration is considering taking stakes in defense companies and other firms it does business with, including Lockheed Martin and Boeing.That's according to U.S. Commerce Secretary Howard Lutnick, who told CNBC on Tuesday he believes talks are needed around how the government finances its munitions acquisitions, as he defended President Donald Trump's push for a greater government role in American business.Lutnick said Pentagon officials are considering taking pieces of government contractors, including AI powerhouse Palantir Technologies.Boeing declined to comment, and representatives from Lockheed and Palantir did not immediately respond to a request for comment.Lutnick's comments came a day after President Trump said he wants to make more government investments in American companies...having already announced a near-10% stake in Intel and revenue-sharing deals with fellow chipmakers Nvidia and AMD.But critics warn this change could potentially impede these companies' independence, said Liz Miller, president of Summit Place Financial Advisors.\"If President Trump starts this, and promises no interaction, that doesn't tell us at all what future presidents might do.\"Shares of Lockheed Martin, Boeing and Palantir Technologies were all higher in Tuesday morning trading.",
+      "published_utc": "2025-08-26T13:47:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5cbf2275ade7a3b2ffa59ea4e411f4146cfac47268ec04bbfe8b715f61f97360",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136529927,
+      "datetime": 1756230449
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T02:51:29.634435+00:00",
+    "cache_key": "news_f12a5d067b7a3827c93bfae9051c8a80",
+    "count": 5
+  }
+}

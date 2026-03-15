@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "id": "a476d61e6667626aa3c234a8f20116cea3a4b8ed122bd15df404bf461f0a74aa",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "These 3 Warren Buffett Dividend Stocks Have Trounced the Market This Year. Can They Do It Again in 2025?",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-21T10:49:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/21/these-3-warren-buffett-dividend-stocks-have-beaten/?source=iedfolrf0000001",
+      "tickers": [
+        "AXP",
+        "C",
+        "CpN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801655/buffett12-tmf.jpg",
+      "description": "Three Warren Buffett-owned dividend stocks - American Express, Citigroup, and Capitol One Financial - have significantly outperformed the S&P 500 this year. The article analyzes whether these stocks can maintain their strong performance in 2025.",
+      "keywords": [
+        "Warren Buffett",
+        "dividend stocks",
+        "American Express",
+        "Citigroup",
+        "Capitol One Financial"
+      ],
+      "insights": [
+        {
+          "ticker": "AXP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that American Express has delivered an impressive 56% gain so far in 2024, and it believes the company could continue to outperform analysts' expectations in 2025 due to its attractive valuation, potential benefits from deregulation and corporate tax cuts, and new product launches."
+        },
+        {
+          "ticker": "C",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Citigroup is also handily beating the S&P 500 this year, with a 33% gain. It highlights the company's cheap valuation and attractive dividend yield, and believes analysts are correct in their view that Citigroup should keep up its winning ways in 2025."
+        },
+        {
+          "ticker": "CpN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Citigroup is also handily beating the S&P 500 this year, with a 33% gain. It highlights the company's cheap valuation and attractive dividend yield, and believes analysts are correct in their view that Citigroup should keep up its winning ways in 2025."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:44:17.947180+00:00",
+    "cache_key": "news_9e501783b07a1fdbf958388a1b2b3855",
+    "count": 1
+  }
+}

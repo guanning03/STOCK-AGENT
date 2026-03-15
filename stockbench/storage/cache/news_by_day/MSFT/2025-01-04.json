@@ -1,0 +1,172 @@
+{
+  "items": [
+    {
+      "id": "ba60dd0dbc2dfc277df4f91db13e0ac9960ff9116ac9e18c0a9f174fc1bf1a47",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "2 No-Brainer Artificial Intelligence (AI) Stocks to Buy in 2025",
+      "author": "Harsh Chauhan",
+      "published_utc": "2025-01-04T23:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/04/2-no-brainer-artificial-intelligence-ai-stocks-to/?source=iedfolrf0000001",
+      "tickers": [
+        "MSFT",
+        "LRCX"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802552/ai-written-on-smartphone.jpg",
+      "description": "The article discusses two AI stocks, Microsoft and Lam Research, that are expected to benefit from the surge in AI spending. Microsoft's cloud business is poised for strong growth, while Lam Research is set to capitalize on the turnaround in the memory market.",
+      "keywords": [
+        "AI",
+        "cloud computing",
+        "memory market",
+        "Microsoft",
+        "Lam Research"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is well-positioned to capitalize on the growing demand for AI services in the cloud, with its Azure cloud service expected to see significant growth driven by AI adoption. The company's AI business is also on track to surpass $10 billion in annual revenue, indicating its strong potential in the AI space."
+        },
+        {
+          "ticker": "LRCX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Lam Research is expected to benefit from the turnaround in the memory market, with increased spending on DRAM and NAND flash storage driven by the deployment of AI servers and the launch of generative AI-capable devices. The company's semiconductor manufacturing equipment sales to memory makers are expected to drive its growth in the coming year."
+        }
+      ]
+    },
+    {
+      "id": "649b27a8881556b24e751351104b85e133c7b8ca8a4b2db6da4e1b4ad772d6b0",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Microsoft Highlights 6 AI Trends For 2025",
+      "author": "Erica Kollmann",
+      "published_utc": "2025-01-04T21:08:16Z",
+      "article_url": "https://www.benzinga.com/news/large-cap/25/01/42803700/microsoft-highlights-6-ai-trends-for-2025",
+      "tickers": [
+        "MSFT"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/04/microsoft-shutter5.jpeg?width=1200&height=800&fit=crop",
+      "description": "Microsoft expects AI models to become more capable and useful in 2025, enabling advancements in scientific research, energy efficiency, and AI safety.",
+      "keywords": [
+        "AI",
+        "Microsoft",
+        "AI trends",
+        "scientific research",
+        "energy efficiency",
+        "AI safety"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Microsoft's expectations for the advancement of AI technology in 2025, including more capable AI models, useful AI agents and companions, and breakthroughs in scientific research and energy efficiency. This suggests Microsoft is well-positioned to benefit from these AI trends."
+        }
+      ]
+    },
+    {
+      "id": "3ba0e9c71867c6c51b68291e5aa0b9c0fd068546a5624be0ba8e1350aa5babd0",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is IonQ a Buy?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-04T14:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/04/is-ionq-a-buy/?source=iedfolrf0000001",
+      "tickers": [
+        "IONQ",
+        "IONQ.WS",
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799583/ionq-ai-stock-market-investment.jpg",
+      "description": "IonQ is a promising quantum computing company, but it faces significant challenges as a young, unprofitable company. While the potential rewards are significant, the risks are also high, making it a speculative investment not suitable for all investors.",
+      "keywords": [
+        "IonQ",
+        "quantum computing",
+        "investment"
+      ],
+      "insights": [
+        {
+          "ticker": "IONQ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "IonQ is a promising quantum computing company with significant potential, but it is still in the early stages of its lifecycle, is unprofitable, and faces significant technical and financial challenges. The article presents a balanced view, highlighting both the potential rewards and the risks associated with investing in the company."
+        },
+        {
+          "ticker": "IONQ.WS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "IonQ is a promising quantum computing company with significant potential, but it is still in the early stages of its lifecycle, is unprofitable, and faces significant technical and financial challenges. The article presents a balanced view, highlighting both the potential rewards and the risks associated with investing in the company."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alphabet is mentioned as the parent company of Google, which is one of the cloud platforms that provides access to IonQ's quantum computers. The article does not provide any specific commentary on Alphabet's business or investment prospects."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alphabet is mentioned as the parent company of Google, which is one of the cloud platforms that provides access to IonQ's quantum computers. The article does not provide any specific commentary on Alphabet's business or investment prospects."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Amazon Web Services (AWS) is mentioned as one of the cloud platforms that provides access to IonQ's quantum computers. The article does not provide any specific commentary on Amazon's business or investment prospects."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Microsoft's Azure Quantum is mentioned as one of the cloud platforms that provides access to IonQ's quantum computers. The article does not provide any specific commentary on Microsoft's business or investment prospects."
+        }
+      ]
+    },
+    {
+      "id": "9fb78a9270a74372db83c39a39023661259df7844bc4210c18557f730b9db532",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "2 Artificial Intelligence (AI) Stocks to Buy Before They Soar to $4 Trillion in 2025, According to a Wall Street Analyst",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-04T08:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/04/2-ai-stocks-buy-before-soar-to-4-trillion-2025/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802725/growth-12.jpg",
+      "description": "Wall Street analyst Dan Ives predicts that Apple and Microsoft will become the first $4 trillion companies by 2025, driven by their advancements in artificial intelligence. However, the author expresses skepticism about the valuations of these stocks.",
+      "keywords": [
+        "Artificial Intelligence",
+        "Apple",
+        "Microsoft",
+        "Wall Street Analyst"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The author acknowledges the potential of Apple's AI features, but is skeptical about the company's long-term strategy and the current valuation of the stock."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The author recognizes Microsoft's strong presence in cloud computing and AI, but also notes the company's expensive valuation, suggesting investors should wait for a better entry point."
+        }
+      ]
+    }
+  ]
+}

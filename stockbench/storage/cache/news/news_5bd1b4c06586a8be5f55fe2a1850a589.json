@@ -1,0 +1,301 @@
+{
+  "items": [
+    {
+      "id": "65d37e85be30edf9b3485d5753feec810304d22e4d67fcc2a09cef35fdcfe8ec",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Trump Tariffs: You Won't Believe What Top Stock Is Below Its 52-Week Low",
+      "author": "Bram Berkowitz",
+      "published_utc": "2025-03-12T13:08:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/12/trump-tariffs-you-wont-believe-what-top-stock-is-b/?source=iedfolrf0000001",
+      "tickers": [
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/810639/person-computer-1.jpg",
+      "description": "Microsoft's stock has hit a 52-week low as investors are concerned about the company's heavy investments in artificial intelligence (AI) and the lack of tangible results so far. However, analysts remain bullish on the company's long-term prospects, citing its diverse revenue streams and strong financial position.",
+      "keywords": [
+        "Microsoft",
+        "Artificial Intelligence",
+        "Stock Market",
+        "Cloud Computing"
+      ],
+      "insights": [
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents a mixed sentiment towards Microsoft. While the stock has hit a 52-week low due to investor concerns over the company's AI investments and weaker-than-expected cloud business growth, analysts remain bullish on the company's long-term prospects, citing its diverse revenue streams and strong financial position."
+        }
+      ]
+    },
+    {
+      "id": "12932c72151eb68e3a619bdde6cd8d28f3a2097db58f80ca09b1141e216f3ee4",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Is the Fidelity High Dividend ETF the Smartest Investment You Can Make Today?",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-12T10:22:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/12/is-the-fidelity-high-dividend-etf-the-smartest-inv/?source=iedfolrf0000001",
+      "tickers": [
+        "FDVV",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "AAPL",
+        "AVGO",
+        "MSFT",
+        "NVDA",
+        "PG",
+        "V",
+        "VOO",
+        "PM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/810689/getty-smiling-happy-blue-collar-worker-in-hard-hat.jpg",
+      "description": "The article discusses the benefits of investing in dividend-paying stocks during market pullbacks, highlighting the Fidelity High Dividend ETF as a potential option. It provides performance comparisons and details on the ETF's holdings and fees.",
+      "keywords": [
+        "dividend stocks",
+        "market pullback",
+        "Fidelity High Dividend ETF"
+      ],
+      "insights": [
+        {
+          "ticker": "FDVV",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article presents the Fidelity High Dividend ETF as a favorable investment option during market pullbacks, highlighting its strong performance, diversified portfolio, and low expense ratio."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase is an advertising partner of Motley Fool Money, but this information is not directly relevant to the main content of the article."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase is an advertising partner of Motley Fool Money, but this information is not directly relevant to the main content of the article."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase is an advertising partner of Motley Fool Money, but this information is not directly relevant to the main content of the article."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase is an advertising partner of Motley Fool Money, but this information is not directly relevant to the main content of the article."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase is an advertising partner of Motley Fool Money, but this information is not directly relevant to the main content of the article."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase is an advertising partner of Motley Fool Money, but this information is not directly relevant to the main content of the article."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase is an advertising partner of Motley Fool Money, but this information is not directly relevant to the main content of the article."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase is an advertising partner of Motley Fool Money, but this information is not directly relevant to the main content of the article."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Selena Maranjian has positions in Apple, but this information is not directly relevant to the main content of the article."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Selena Maranjian has positions in Broadcom, but this information is not directly relevant to the main content of the article."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Selena Maranjian has positions in Microsoft, but this information is not directly relevant to the main content of the article."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Selena Maranjian has positions in Nvidia, but this information is not directly relevant to the main content of the article."
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Selena Maranjian has positions in Procter & Gamble, but this information is not directly relevant to the main content of the article."
+        },
+        {
+          "ticker": "V",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Selena Maranjian has positions in Visa, but this information is not directly relevant to the main content of the article."
+        },
+        {
+          "ticker": "VOO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions the Vanguard S&P 500 ETF as a comparison to the Fidelity High Dividend ETF, but does not provide a specific sentiment or recommendation."
+        },
+        {
+          "ticker": "PM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that The Motley Fool recommends Philip Morris International, but this information is not directly relevant to the main content of the article."
+        }
+      ]
+    },
+    {
+      "id": "7922c03312151930ad3805decb3b8953179b8de0b2588fce391e709bbfc3565b",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Nvidia Is Down 26% From Its All-Time High -- Here's How Far It Can Fall, Based on Historic Precedent",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-12T08:51:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/12/nvidia-is-down-26-how-far-it-fall-based-on-history/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "GOOG",
+        "GOOGL",
+        "META",
+        "AMZN",
+        "MSFT"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/810501/stock-chart-crash-invest-broker-tablet-crypto-plunge-bubble-getty.jpg",
+      "description": "Nvidia's stock has fallen 26% from its all-time high, and historic precedent suggests it could fall further as the AI bubble bursts. The article analyzes Nvidia's rise and the potential for a significant decline in its stock price.",
+      "keywords": [
+        "Nvidia",
+        "AI",
+        "bubble",
+        "historic precedent",
+        "technology"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that Nvidia's stock could fall significantly further, potentially by over 50%, based on historic precedent of other 'next-big-thing' technologies experiencing bubble bursts. The article cites Nvidia's high valuation and the potential for a ramp-up in production by competitors as factors that could lead to a decline in the company's pricing power and gross margin."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Alphabet (Google) as one of Nvidia's top customers, but does not provide any specific commentary on the company's outlook."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Alphabet (Google) as one of Nvidia's top customers, but does not provide any specific commentary on the company's outlook."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Meta Platforms (Facebook) as one of Nvidia's top customers, but does not provide any specific commentary on the company's outlook."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Amazon as one of Nvidia's top customers, but does not provide any specific commentary on the company's outlook."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Microsoft as one of Nvidia's top customers, but does not provide any specific commentary on the company's outlook."
+        }
+      ]
+    },
+    {
+      "id": "22b8a8d2634564ecb78d5df98930e9933e80db6dd46fa1a6b096af596fac7295",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Nasdaq Correction: This Magnificent Stock Is a Rare Bargain",
+      "author": "Adria Cimino",
+      "published_utc": "2025-03-12T08:02:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/12/nasdaq-correction-stock-rare-bargain/?source=iedfolrf0000001",
+      "tickers": [
+        "NVDA",
+        "GOOG",
+        "GOOGL",
+        "META",
+        "MSFT",
+        "AMZN",
+        "AAPL",
+        "TSLA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/810728/gettyimages-woman-points-at-computer-with-a-pen-to-show-something-to-a-colleague.jpg",
+      "description": "Nvidia, a leading AI chip maker, has seen its stock price decline amid the Nasdaq correction, making it a rare bargain for investors. The company's strong performance, innovative products, and the continued growth of AI technology suggest a positive outlook for Nvidia's future.",
+      "keywords": [
+        "Nvidia",
+        "AI",
+        "Nasdaq correction",
+        "valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Nvidia's strong performance, innovative products, and the continued growth of AI technology, which suggests a positive outlook for the company's future. Despite the recent market correction, the article suggests that Nvidia's stock is currently undervalued, making it a rare bargain for investors."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Alphabet (Google's parent company) has set out plans for tech spending to support its AI goals, which supports the idea of more growth ahead for Nvidia, a key supplier of AI chips."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Alphabet (Google's parent company) has set out plans for tech spending to support its AI goals, which supports the idea of more growth ahead for Nvidia, a key supplier of AI chips."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Meta Platforms (Facebook's parent company) is one of the world's biggest tech companies that flocks to Nvidia for its powerful AI chips, indicating a strong demand for Nvidia's products."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Microsoft is one of the world's biggest tech companies that relies on Nvidia's AI chips, suggesting a positive outlook for Nvidia's business."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not directly mention Amazon, so the sentiment is neutral."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not directly mention Apple, so the sentiment is neutral."
+        },
+        {
+          "ticker": "TSLA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article does not directly mention Tesla, so the sentiment is neutral."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T22:40:34.896195+00:00",
+    "cache_key": "news_5bd1b4c06586a8be5f55fe2a1850a589",
+    "count": 4
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Want to Invest Like Warren Buffett? Remember These 2 Words.",
+      "description": "Considering these words before buying your next stock could help you minimize risk and maximize returns.",
+      "published_utc": "2025-11-01T09:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f79de7f6575fe35b4189cab5c7d2ce7bb0c424628f4d439bc641d268b7b4b7b0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137294625,
+      "datetime": 1762004700
+    },
+    {
+      "title": "U.S. Health Insurer Shares Stumble After Q3 Earnings As Cost Pressures Mount",
+      "description": "Shares in US health insurers struggled after the release of third quarter results, which were marked by rising costs and political uncertainty. Read more here.",
+      "published_utc": "2025-11-01T00:20:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=668fa523da667edcb7a9efd3ed0e40f43e3d0ec56cce853d4c1b32b3bb8d3ac0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/515313856/image_515313856.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137285371,
+      "datetime": 1761970800
+    }
+  ]
+}

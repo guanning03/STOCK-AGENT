@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Dow Jones Futures: Apple Drives Nasdaq To High; Google, Tesla Flash Buy Signals",
+      "description": "The stock market rallied last week, with the Nasdaq hitting a high, but note this budding divergence. Google, Tesla, Apple flashed buy signals.",
+      "published_utc": "2025-08-08T22:36:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9bcdf894cde58eb4c3c0c4195314773e2ca722f3811c1c720aa473759b83d4a9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136276082,
+      "datetime": 1754706977
+    },
+    {
+      "title": "The Eternal Debate Over Valuations",
+      "description": "The US stock marketâs performance since the dark days of April has truly been something to behold.",
+      "published_utc": "2025-08-08T22:25:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4dba2a8d95e8ff5f79c0852e23cf63b4d243ac063ac89baa238e78107d88549b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1169722388/image_1169722388.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136275721,
+      "datetime": 1754706300
+    }
+  ]
+}

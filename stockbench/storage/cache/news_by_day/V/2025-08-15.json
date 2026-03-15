@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Macquarie Maintains a Buy Rating on Visa Inc. (V), Sets a $425 PT",
+      "description": "Visa Inc. (NYSE:V) is one of the best stocks to invest in for beginners. In a report released on July 31, Paul Golding from Macquarie maintained a Buy rating on Visa Inc. (NYSE:V), setting a price target of $425.00. Visa Inc. (NYSE:V) announced its fiscal Q3 2025 results on July 29, reporting a GAAP net […]",
+      "published_utc": "2025-08-15T21:43:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c554252fabfe95604fdf5f8b6e3677568a08274eae04fc6e79cf715a054275af",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136376136,
+      "datetime": 1755308618
+    },
+    {
+      "title": "The Five Rules That Keep Me In The Game",
+      "description": "Read here for 5 essential rules for successful long-term investing. Learn strategies for managing a diversified portfolio and mastering discipline for growth.",
+      "published_utc": "2025-08-15T21:37:47",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=aec0e2caef20eabc4c888636b34b2017d0420ff0ff7741b53a2303d9b9eac8ab",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1070418886/image_1070418886.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "V"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136375070,
+      "datetime": 1755308267
+    }
+  ]
+}

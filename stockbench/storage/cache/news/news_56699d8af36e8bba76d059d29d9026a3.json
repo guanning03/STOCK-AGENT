@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": "06d0bfb7ce2123da4e12afaaafe1afa75dd5780dea5ba18c244c65c0d42371df",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "'American Exceptionalism Trade' Gains Steam As Dollar, S&P 500 Surge In Lockstep: Bank Of America",
+      "author": "Piero Cingari",
+      "published_utc": "2024-12-03T17:13:09Z",
+      "article_url": "https://www.benzinga.com/economics/macro-economic-events/24/12/42297318/american-exceptionalism-trade-gains-steam-as-dollar-sp-500-surge-in-lockstep-bank",
+      "tickers": [
+        "ACWX",
+        "BA",
+        "BApA"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2024/12/03/Wall-Street--New-York.jpeg?width=1200&height=800&fit=crop",
+      "description": "The 'American exceptionalism' trade is making a comeback, with U.S. equities outperforming international stocks and the U.S. dollar rallying since the election. This signals renewed investor confidence in America's economic resilience.",
+      "keywords": [
+        "American exceptionalism",
+        "U.S. equities",
+        "U.S. dollar",
+        "international stocks"
+      ],
+      "insights": [
+        {
+          "ticker": "ACWX",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article mentions that international stocks, as tracked by the iShares MSCI ACWI ex U.S. ETF, have underperformed U.S. equities since the election."
+        },
+        {
+          "ticker": "BA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article briefly mentions the Boeing strike as a temporary factor that may impact the November employment report, but does not provide any further insights on the company."
+        },
+        {
+          "ticker": "BApA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article briefly mentions the Boeing strike as a temporary factor that may impact the November employment report, but does not provide any further insights on the company."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T18:50:20.639543+00:00",
+    "cache_key": "news_56699d8af36e8bba76d059d29d9026a3",
+    "count": 1
+  }
+}

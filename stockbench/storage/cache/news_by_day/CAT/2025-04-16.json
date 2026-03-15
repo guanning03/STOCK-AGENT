@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Caterpillar Inc. stock outperforms competitors despite losses on the day",
+      "description": "Caterpillar Inc. stock outperforms competitors despite losses on the day",
+      "published_utc": "2025-04-16T12:36:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e172a140aa9b42d36c8f3c5ea0c0e2a010b05fa249ce20c5f7de35e53d5df991",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133947483,
+      "datetime": 1744821360
+    },
+    {
+      "title": "Caterpillar Inc. to Announce First-Quarter 2025 Financial Results on April 30",
+      "description": "Caterpillar Inc. (NYSE: CAT) will release first-quarter 2025 financial results at 5:30 a.m. CDT on Wednesday, April 30. The full text of the release will be available at investors.caterpillar.com/financials/quarterly-results and on PR Newswire. The release will be furnished to the U.S. Securities and Exchange Commission (SEC) via a Current Report on Form 8-K in compliance with applicable SEC rules.",
+      "published_utc": "2025-04-16T09:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fc871212c08e722c08792fb6d2a638fa00725859a8459b301fc561037d403372",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133935752,
+      "datetime": 1744808400
+    },
+    {
       "title": "Caterpillar Names COO Joseph Creed as Next CEO",
       "description": "Caterpillar (CAT) on Tuesday named Joseph Creed as the company's next chief executive, succeeding D.",
       "published_utc": "2025-04-16T03:50:04",

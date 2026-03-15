@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "title": "Sherwin-Williams Declares Dividend of $0.79 per Common Share",
+      "description": "The Board of Directors of The Sherwin-Williams Company (NYSE: SHW) today announced a regular quarterly dividend of $0.79 per common share payable on September 5, 2025, to shareholders of record on August 15, 2025.",
+      "published_utc": "2025-07-16T15:21:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=13fbc783d37fd62f6a5a3690d5e3a6a1c22a788225916fe3e3afcaff1e87cfd2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135993932,
+      "datetime": 1752693660
+    },
+    {
+      "title": "The Sherwin-Williams Company Announces Quarterly Dividend, Payable on September 5, 2025",
+      "description": "The Sherwin-Williams Company announced a regular quarterly dividend of $0.79 per common share payable on September 5, 2025, to shareholders of record on August 15, 2025....",
+      "published_utc": "2025-07-16T12:50:54",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=697ce2e26201c402be879776f7679e2e0f01d88ac6069d86753227b325ad75de",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135971112,
+      "datetime": 1752684654
+    },
+    {
+      "title": "Home Depot, Amazon.com Inc. share losses contribute to Dow's 129-point fall",
+      "description": "Home Depot, Amazon.com Inc. share losses contribute to Dow's 129-point fall",
+      "published_utc": "2025-07-16T07:20:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=df6963eb3e84fdaf7ffc1c81ae04485901aac8b5a7febdad1a78def1d2781b9a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135975105,
+      "datetime": 1752664800
+    },
+    {
       "title": "Sherwin-Williams Co. stock outperforms competitors despite losses on the day",
       "description": "Sherwin-Williams Co. stock outperforms competitors despite losses on the day",
       "published_utc": "2025-07-16T00:42:00",

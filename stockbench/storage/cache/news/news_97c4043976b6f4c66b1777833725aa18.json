@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Was Jim Cramer Right About Microsoft (MSFT)?",
+      "description": "We recently published a list of Did Jim Cramer Hit or Miss On These 13 Stock Predictions? In this article, we are going to take a look at where Microsoft Corporation (NASDAQ:MSFT) stands against other stocks that Jim Cramer discussed during the episode of Mad Money on May 1st, 2024. During the Mad Money episode which […]",
+      "published_utc": "2025-05-04T18:22:45",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d1c96fbbe5f03b23dc9b0dddc58799835b598d45ee2828d1dc582b9f0aa7b3f3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134246657,
+      "datetime": 1746397365
+    },
+    {
+      "title": "Don't Sell In May; Hold, And Hedge, Instead",
+      "description": "Panic selling created buying opportunities in tech and communication big-caps. Read why investors should hedge instead of selling in May.",
+      "published_utc": "2025-05-04T17:40:09",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fff53b871e3204ffde0d1a3778c31e1e2116973dd1ceae002ec5710ebd734c57",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1389124950/image_1389124950.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134241989,
+      "datetime": 1746394809
+    },
+    {
+      "title": "Franklin U.S. Focused Growth SMA Q1 2025 Commentary",
+      "description": "Stock markets worldwide were turbulent over 1Q25, with major US equity indexes, the S&P 500 Index, Dow Jones Industrial Average and NASDAQ Composite Index, sustaining overall declines.",
+      "published_utc": "2025-05-04T12:50:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1b03740efc1bd8ea4c599dcaefa2826f679de0406108b4c0d08c7cecf37985e5",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2190217190/image_2190217190.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134240939,
+      "datetime": 1746377400
+    },
+    {
+      "title": "Is \"Magnificent Seven\" Laggard Microsoft Ready to Rally?",
+      "description": "Microsoft turned in a strong quarter and issued upbeat guidance.  Its Azure cloud computing unit once again led the way with revenue growth of 33%.  Azure and AI should continue to help drive growth for the company moving forward.",
+      "published_utc": "2025-05-04T11:41:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=55334b6efb916f311323d488c04043cb7c40b9333ac9ed04b91b4fda3cd3a529",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134246658,
+      "datetime": 1746373260
+    },
+    {
+      "title": "Do Google's Antitrust Woes Make Alphabet Stock a Buy, Sell, or Hold?",
+      "description": "In the past year, Alphabet's Google lost two antitrust cases targeting its core businesses.  Alphabet is investing heavily in AI capabilities, such as in Google Cloud and its self-driving car company, Waymo.  Shareholders of Google's parent Alphabet (NASDAQ: GOOGL)(NASDAQ: GOOG) are going through a rough patch.",
+      "published_utc": "2025-05-04T10:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a02f7d150c3d60c2b81c5641719f1c517454fdc419e6fce122981681389764e2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134246659,
+      "datetime": 1746367200
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T23:39:40.901782+00:00",
+    "cache_key": "news_97c4043976b6f4c66b1777833725aa18",
+    "count": 5
+  }
+}

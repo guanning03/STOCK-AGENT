@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Boeing Stock in Focus -- Inks $289 Million Bomb Deal With Israel",
+      "description": "Latest Contract Marks Third Known Purchase by Israel",
+      "published_utc": "2026-03-11T16:13:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=aca6d97d42881b74067b7c67b9007b7270243a56818dfb3ec5092aa4ad764bfa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139382502,
+      "datetime": 1773260015
+    },
+    {
+      "title": "Boeing Picks Up Another Defense Order",
+      "description": "Israel deal highlights steady weapons demand",
+      "published_utc": "2026-03-11T14:58:44",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a34659587731053c80640e8f51259056efe6179c2212cdd0e3a5e68350655ef0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139381888,
+      "datetime": 1773255524
+    },
+    {
+      "title": "What's Going On With Boeing Stock Wednesday",
+      "description": "Boeing 737 MAX Deliveries Could Slip in Q1. Wiring Flaws Force Rework",
+      "published_utc": "2026-03-11T14:10:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cc19088f2fb3821a207ce74001ba206c6514a9f72008d9af4d1741f1c66732ef",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139381889,
+      "datetime": 1773252651
+    },
+    {
+      "title": "Boeing Lands $298 Million Israel Bomb Contract for Up to 5,000 Small Diameter Bombs",
+      "description": "Direct commercial deal could supply Israel with precision-guided bombs capable of striking targets more than 40 miles away.",
+      "published_utc": "2026-03-11T13:58:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0a411e86dee0da2832268e81348c83f8aaa17b59e1c83990b308de8c6397feff",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139381180,
+      "datetime": 1773251932
+    },
+    {
+      "title": "LATAM Airlines February 2026 Traffic Improves Year Over Year",
+      "description": "LTM posts double-digit February 2026 traffic and capacity growth, signaling growth across all segments along with surge in domestic and international markets.",
+      "published_utc": "2026-03-11T12:14:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6d94e7160c9423d78b4c905cdb5e71efbb32b80e31de72d97b59095d2602bac2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139381181,
+      "datetime": 1773245640
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T04:28:29.223599+00:00",
+    "cache_key": "news_f838160cf53157aa24f02ac4f90ec7ab",
+    "count": 5
+  }
+}

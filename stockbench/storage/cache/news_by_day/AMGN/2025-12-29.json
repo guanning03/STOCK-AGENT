@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Dogs of the Dow Had a Strong Year. Here Are the 10 Stocks for 2026.",
+      "description": "High-yielding Dow stocks outperformed the broader market this year. Will new Dow dogs Home Depot, Nike, and UnitedHealth keep the streak going?",
+      "published_utc": "2025-12-29T15:09:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cd50e43566d9a9aba8b1e25f1fc787bcfa25e7011508eceb15f5ea3da5f72ed7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137934700,
+      "datetime": 1767038940
+    },
+    {
+      "title": "Amgen Inc. (AMGN) Is a Trending Stock: Facts to Know Before Betting on It",
+      "description": "Amgen (AMGN) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
+      "published_utc": "2025-12-29T09:00:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dbb2a6d2bbaf90f40d8cde0ada4e93d4bf88e345e6b731807779c105454c3148",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137931144,
+      "datetime": 1767016804
+    }
+  ]
+}

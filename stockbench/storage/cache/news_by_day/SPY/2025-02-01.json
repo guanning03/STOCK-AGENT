@@ -1,0 +1,80 @@
+{
+  "items": [
+    {
+      "id": "8aa22ab74c6e3ea7fae20f16cead2106b6a1ba8cbb11e607131b296410c3ab86",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Here's How Much You Should Aim to Invest Every Month if You Want a $1 Million Portfolio in 25 Years",
+      "author": "David Jagielski",
+      "published_utc": "2025-02-01T19:20:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/01/heres-how-much-you-should-aim-to-invest-every-mont/?source=iedfolrf0000001",
+      "tickers": [
+        "SPY",
+        "VUG"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805133/a-person-taking-notes-and-looking-at-their-laptop.jpg",
+      "description": "The article discusses the monthly investment needed to build a $1 million portfolio over 25 years, assuming market returns between 8% and 10%. It suggests investing in an S&P 500 ETF or a growth-focused ETF like the Vanguard Growth Index Fund ETF for potentially higher returns.",
+      "keywords": [
+        "investing",
+        "portfolio",
+        "S&P 500",
+        "ETF",
+        "growth stocks"
+      ],
+      "insights": [
+        {
+          "ticker": "SPY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article recommends the SPDR S&P 500 ETF Trust as a default option for investors who want their portfolio to mirror the S&P 500 index at a low cost."
+        },
+        {
+          "ticker": "VUG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests the Vanguard Growth Index Fund ETF as an option for investors willing to take on more risk in exchange for greater upside potential, as it has outperformed the S&P 500 in recent years."
+        }
+      ]
+    },
+    {
+      "id": "32d43246c2dbfcbf7595b4b14c999b70248cdcc553957e305155036955d2a1de",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Some Say the U.S. Is on the Brink of a Retirement Crisis. See Whether You Agree -- and What You Want to Do About It.",
+      "author": "Selena Maranjian",
+      "published_utc": "2025-02-01T11:06:00Z",
+      "article_url": "https://www.fool.com/retirement/2025/02/01/some-say-were-on-the-brink-of-a-retirement-crisis/?source=iedfolrf0000001",
+      "tickers": [
+        "VOO",
+        "SPY"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805471/getty-serious-wondering-thinking-worried-concerned-thoughtful.jpg",
+      "description": "The article discusses the potential retirement crisis in the U.S., with statistics showing that many Americans have not saved enough for retirement. It provides suggestions on how to strengthen one's financial condition and secure a more comfortable retirement, such as saving and investing more, delaying Social Security claims, and building an emergency fund.",
+      "keywords": [
+        "retirement crisis",
+        "retirement savings",
+        "retirement planning",
+        "Social Security",
+        "emergency fund"
+      ],
+      "insights": [
+        {
+          "ticker": "VOO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article recommends investing in a low-fee S&P 500 index fund, such as the Vanguard S&P 500 ETF, as a way to effectively invest for retirement."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article recommends investing in a low-fee S&P 500 index fund, such as the SPDR S&P 500 ETF, as a way to effectively invest for retirement."
+        }
+      ]
+    }
+  ]
+}

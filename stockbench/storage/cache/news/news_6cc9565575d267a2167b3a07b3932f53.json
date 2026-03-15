@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Fed Meeting Marked By Dissents",
+      "description": "The FOMC voted today to cut the Fedâs five policy rates by 25 basis points, as widely expected, the third cut in 2025, after cutting by 100 basis points in 2024.",
+      "published_utc": "2025-12-10T18:55:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d62e4865a1a36a2b187c070fe6e7f092e782b1a2cab4aa3c92b52c3901cead39",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1161083067/image_1161083067.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137753589,
+      "datetime": 1765410900
+    },
+    {
+      "title": "December FOMC: Fed Cuts Rates But Signals A Pause Ahead As Policy Inches Closer To Neutral",
+      "description": "The Fed cut rates by 25 bps to 3.50â3.75%, marking a hawkish cut amid deep FOMC division and persistent uncertainty. Check out the market interpretations here.",
+      "published_utc": "2025-12-10T14:54:55",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9a783d6936a5999e253babe8bdbf128a3c8aa15eefa3af9fac86ce8363af8252",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2035711738/image_2035711738.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137752527,
+      "datetime": 1765396495
+    },
+    {
+      "title": "Fed's Interest Rate Decision: December 10, 2025",
+      "description": "The Federal Reserve concluded its last meeting of the year with a widely anticipated 25 basis point cut to the federal funds rate (FFR), bringing it to a range of 3.50-3.75%.",
+      "published_utc": "2025-12-10T14:15:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=1012f67a6d5194719e402386e6d6dc810c8503f91ddb234725ba90db5f701b76",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1161083067/image_1161083067.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137752352,
+      "datetime": 1765394100
+    },
+    {
+      "title": "Another Fed Cut, But There Is Growing Dissent",
+      "description": "The Federal Reserve has cut the Fed funds target rate range 25bp to 3.5-3.75% as widely expected.",
+      "published_utc": "2025-12-10T14:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fa9a0eb4350b062acbe82987103f6831bd3967cabe10f200f196bf76226de714",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1692418614/image_1692418614.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137752323,
+      "datetime": 1765393200
+    },
+    {
+      "title": "Fed Watch: Recalibrating The 'Recalibration'",
+      "description": "With a third consecutive rate cut bringing the Fed Funds range to 3.50â3.75%, the Fed may pause for now as it reassesses the effectiveness of its ârisk managementâ approach.",
+      "published_utc": "2025-12-10T13:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=c28058c536ef6add4109309524b23518c256d6a12b6fbffab270b1cfef0025c1",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1161083067/image_1161083067.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137752211,
+      "datetime": 1765391700
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:27:02.110272+00:00",
+    "cache_key": "news_6cc9565575d267a2167b3a07b3932f53",
+    "count": 5
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Why Amazon Stock Plummeted Today",
+      "description": "The latest news for the company on the regulatory and analysis fronts wasn't encouraging.",
+      "published_utc": "2025-11-18T18:47:28",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a85c94c27b44bae357d33a37cfb633b89699ccc5d98abd9238eaf7e4a8a5bdcd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137543047,
+      "datetime": 1763509648
+    },
+    {
+      "title": "Energy Department loans $1B to help finance the restart of nuclear reactor on Three Mile Island",
+      "description": "The U.S. Department of Energy said Tuesday that it will loan $1 billion to help finance the restart of the nuclear power plant on Pennsylvania's Three Mile Island that is under contract to supply power to data centers for tech giant Microsoft.  The loan is in line with the priorities of President Donald Trump's administration, including bolstering nuclear power and artificial intelligence.  For Constellation Energy, which owns Three Mile Island's lone functioning nuclear power reactor, the federal loan will lower its financing cost to get the mothballed plant up and running again.",
+      "published_utc": "2025-11-18T18:46:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=793ac1e9208e827537c57b1ca9882fc03b0647a3717792ac57550fb10093f3c9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137543048,
+      "datetime": 1763509568
+    },
+    {
+      "title": "Nvidia, Microsoft Pour $15 Billion Into Anthropic for New AI Alliance",
+      "description": "Under the partnership,  Nvidia  and  Microsoft  will invest up to $15 billion in Anthropic, a competitor to OpenAI whose models are popular with coders and businesses.  Anthropic, in turn, said it would buy $30 billion of computing capacity from Microsoft Azure running on Nvidia AI systems.  The chip company will work with Anthropic on design and engineering.",
+      "published_utc": "2025-11-18T17:28:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5a2f1f4b0ca8200ca3ccd6794305567ecb229c7dc07d992fa565a9a4e8e7c321",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137543049,
+      "datetime": 1763504880
+    },
+    {
+      "title": "Why Amazon (AMZN) Shares Are Trading Lower Today",
+      "description": "Shares of cloud computing and online retail behemoth Amazon (NASDAQ:AMZN) fell 3.4% in the afternoon session after concerns regarding lofty artificial intelligence valuations triggered a pullback in the technology sector.",
+      "published_utc": "2025-11-18T17:25:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2c299011e0c9d77b57f1190d1b8552067738e06fd568afa3922a3f5f8583c05c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137543050,
+      "datetime": 1763504740
+    },
+    {
+      "title": "Technology, Consumer Discretionary Push US Equity Indexes Lower Ahead of Nvidia's Results",
+      "description": "US equity indexes fell on Tuesday as declines in Microsoft (MSFT) and Amazon.com (AMZN) exacerbated",
+      "published_utc": "2025-11-18T17:11:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2cf13cfd82c7da3527bd4e6554579c16b0ab3c509c798001ac524abc5f02ca35",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137543051,
+      "datetime": 1763503881
+    }
+  ]
+}

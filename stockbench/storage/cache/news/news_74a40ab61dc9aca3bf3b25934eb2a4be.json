@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "U.S. Companies Surprise With Strong Sales Results",
+      "description": "Nearly 70% of S&P 500 companies beat sales forecasts in Q3 2025 - the highest share in four years.",
+      "published_utc": "2025-10-29T16:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ab65cc0edf878d36c4b7195c7dbb8fc1b2685ff7ad2020021322e97a9ec05d08",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1040865674/image_1040865674.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137261500,
+      "datetime": 1761768000
+    },
+    {
+      "title": "Fed Cuts Rates By 25bp And Suggests Another In December Is Not A Foregone Conclusion",
+      "description": "The Federal Reserve has cut the Fed funds target rate range by 25bp to 3.75-4% as expected.",
+      "published_utc": "2025-10-29T15:50:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5bd8360b5813eaff3b6b8893651b5ebdd673b43cb3b0b55aab41a0b4d1b1abed",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1692418614/image_1692418614.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137261467,
+      "datetime": 1761767400
+    },
+    {
+      "title": "Fed Watch: 'Risk Management' Continues",
+      "description": "The Federal Reserveâs October rate cut, to 3.75â4%, signals a continued ârisk managementâ approach, with Decemberâs policy path tilting toward another cut.",
+      "published_utc": "2025-10-29T15:25:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=ee8ce4dd5671b2f1aa0bef007e0d73c7885e919c39bea37d7cb74aab56978ec0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2169725063/image_2169725063.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137261369,
+      "datetime": 1761765900
+    },
+    {
+      "title": "October FOMC: Powell Pushes Back On December Cut Expectations",
+      "description": "Get the latest on the Fed's 25bps rate cut, shifting policy stance, market reactions, and what it means for December. Click for more on this latest Fed decision.",
+      "published_utc": "2025-10-29T14:11:37",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7042e1d380d9c6152a79008a4d32fdb6fd8775c160e98d75ebbb6575e8f8d7f8",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1341546270/image_1341546270.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137261141,
+      "datetime": 1761761497
+    },
+    {
+      "title": "President Trump Posts On Truth Social \"South Korea has agreed to pay the USA 350 Billion Dollars for a lowering of the Tariff's charged against them by the United States. Additionally, they have agreed to buy our Oil and Gas in vast quantities, and investments into our Country by wealthy South Korean Companies and Businessmen will exceed $600B. Our Military Alliance is stronger than ever before and, based on that, I have given them approval to build a Nuclear Powered Submarine..\"",
+      "description": "https://truthsocial.com/@realDonaldTrump/posts/115459538588191547",
+      "published_utc": "2025-10-29T13:22:19",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=125fa10d39e19402f99c0e2ee618cb0cb91d4ca87d3789cf98e56260801151d2",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138459904,
+      "datetime": 1761758539
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:14:11.224062+00:00",
+    "cache_key": "news_74a40ab61dc9aca3bf3b25934eb2a4be",
+    "count": 5
+  }
+}

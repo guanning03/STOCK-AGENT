@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Can Float Fuel Berkshire's Long-Term Growth and Value Creation?",
+      "description": "Float's steady rise to $173B is powering BRK.B's long-term growth, despite EPS estimate cuts and a premium valuation.",
+      "published_utc": "2025-06-23T12:20:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c9722245fc5b1dc7ca2762f3ff99660a8d5dfe20838ea53c4d7e184594e8f486",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135486569,
+      "datetime": 1750695600
+    },
+    {
+      "title": "Insurtech company COVU acquires Ford Insurance Agency",
+      "description": "Ford Insurance Agency offers both commercial and personal insurance coverage in Maine, US.",
+      "published_utc": "2025-06-23T11:05:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=333172e17b2fb4a89844875e27c5126c28c0a638981a3c2c0afe463652892ae0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135482089,
+      "datetime": 1750691155
+    },
+    {
       "title": "2025 Travelers Championship Generates More Than $4 Million for Charity",
       "description": "The Travelers Companies, Inc. today announced that the 2025 Travelers Championship – a PGA TOUR Signature Event – generated more than $4 million for over 215 nonprofits, both record...",
       "published_utc": "2025-06-23T04:10:06",

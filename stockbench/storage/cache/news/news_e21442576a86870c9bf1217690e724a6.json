@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "UK Bonds’ Best Run in Two Years Is Winning Over Global Investors",
+      "description": "Gilts posted their best performance in almost two years, and investors including Aberdeen Group Plc, Fidelity International and JPMorgan Asset Management are betting on more gains.  Goldman Sachs Group Inc. analysts have slashed their yield forecasts, citing easing inflation pressures and signs Chancellor Rachel Reeves will announce tough steps needed to get the budget in order.  Expectations for more Bank of England interest-rate cuts are powering the move.",
+      "published_utc": "2025-11-02T10:09:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=55678f97ef1758393e13ad8e5eba714319d54e1efba297a7f6e15a77e7825afe",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137294667,
+      "datetime": 1762096166
+    },
+    {
+      "title": "Even six-figure earners are living paycheck to paycheck as prices soar — why a high income doesn’t cut it anymore",
+      "description": "Even Americans making $500K+ are saying they can’t get ahead. Here’s what’s happening and what to do to overcome it.",
+      "published_utc": "2025-11-02T08:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=677bc740bc9d5818c6e20b181bf7b4b7ce2b0a2210b5a09973ed439a8a470b87",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137294668,
+      "datetime": 1762090200
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:18:59.641764+00:00",
+    "cache_key": "news_e21442576a86870c9bf1217690e724a6",
+    "count": 2
+  }
+}

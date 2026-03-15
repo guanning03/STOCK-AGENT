@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "As Dow Hits Record, High-Yield Dogs of the Dow Still a Bargain",
+      "description": "Since the turn of the century, the Dogs of the Dow have significantly outperformed the overall market. These five are perfect plays for a slowing economy.",
+      "published_utc": "2025-10-28T10:13:45",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dd39d90364f8171177018c77bbce3a9c9f608bfc4db00c04645733ec75563b90",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137237769,
+      "datetime": 1761660825
+    },
+    {
+      "title": "Earnings Preview: Amgen (AMGN) Q3 Earnings Expected to Decline",
+      "description": "Amgen (AMGN) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+      "published_utc": "2025-10-28T10:00:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8100ad386c5141d57ad951b41fb2464b742aea1634570a49cd87fa6a6c818f3f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137243689,
+      "datetime": 1761660007
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:07:12.045190+00:00",
+    "cache_key": "news_c7f37cbdcd704d5aa08216da548d9f17",
+    "count": 2
+  }
+}

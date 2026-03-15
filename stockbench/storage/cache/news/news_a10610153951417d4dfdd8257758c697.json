@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Berkshire Hathaway operating earnings fell nearly 30% in Warren Buffett's final quarter as CEO",
+      "description": "Berkshire Hathaway reported fourth-quarter and full-year 2025 earnings on Saturday.",
+      "published_utc": "2026-02-28T03:31:08",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=623ce1a97db291416982a361fd87b7641a994189b6542db877d9b054494065a3",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108140428-1746279549833-untitled-337-199.jpg?v=1770232722&w=1920&h=1080",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139264795,
+      "datetime": 1772267468
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:46:03.283841+00:00",
+    "cache_key": "news_a10610153951417d4dfdd8257758c697",
+    "count": 1
+  }
+}

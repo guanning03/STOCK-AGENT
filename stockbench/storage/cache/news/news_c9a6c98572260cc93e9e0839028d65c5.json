@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "2 Cash-Producing Stocks for Long-Term Investors and 1 That Underwhelm",
+      "description": "A company that generates cash isn’t automatically a winner. Some businesses stockpile cash but fail to reinvest wisely, limiting their ability to expand.",
+      "published_utc": "2026-01-18T23:38:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a43314c703d940a4c3925769d99469cf127409ea003dab4a936070e2f543ea3f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138176351,
+      "datetime": 1768797487
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:43:03.721730+00:00",
+    "cache_key": "news_c9a6c98572260cc93e9e0839028d65c5",
+    "count": 1
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Amazon, UPS And Intel Lead The Way With Layoffs: Consumer Confidence Takes A Beating As Thousands Of Jobs Face The Ax",
+      "description": "There has been a surge in layoffs across leading U.S.-based companies in recent weeks, signaling growing stress and cracks in the domestic labor market.",
+      "published_utc": "2025-10-28T19:46:17",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=05cf66fd0b590b25e6477803535fda684cafd2a4faee28ebcfee3d8cda8d6dd2",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/10/28/Fired-People--Unemployed-Managers-With-B.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138805767,
+      "datetime": 1761695177
+    },
+    {
+      "title": "Microsoft earnings, Fed decision, Trump-Xi meeting: What to Watch",
+      "description": "Market Domination Overtime host Josh Lipton previews several of the biggest stories to come tomorrow, Wednesday, October 29, including the Federal Reserve's latest decision around interest rates; earnings from Magnificent Seven tech companies Alphabet (GOOG, GOOGL), Meta Platforms (META), and Microsoft (MSFT); and President Trump's meeting with his Chinese counterpart, President Xi Jinping, in South Korea. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.",
+      "published_utc": "2025-10-28T19:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ceb1db97c9f42dc7151bd06f373ea7099e6b01e1d22f4edc32c7b103100abcf7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137243138,
+      "datetime": 1761692400
+    },
+    {
+      "title": "Nvidia will build AI supercomputers for US Energy Department, wants to get back into China",
+      "description": "By Stephen Nellis, Alexandra Alper and Arsheeya Bajwa WASHINGTON (Reuters) -Nvidia CEO Jensen Huang came to Washington on Tuesday with a message for the Trump administration: the U.S. can win the AI",
+      "published_utc": "2025-10-28T18:56:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c4de44067e2e210fa613edc9a3e3b5a8efeef7fcef8f574af1aa874095ca435f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137243139,
+      "datetime": 1761692167
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures mostly up with Fed decision, slew of Big Tech earnings on deck",
+      "description": "US stock futures made gains with investors eyeing the upcoming Fed policy decision following another record-setting session on Wall Street.",
+      "published_utc": "2025-10-28T18:54:31",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1f131f0e416eabec751b64f0a1aa466b2018461d3061b779faba0e51f5915f0a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137243114,
+      "datetime": 1761692071
+    },
+    {
+      "title": "New Record Closing Highs Ahead of Fed Cut, Mag 7 Earnings",
+      "description": "Companies reporting earnings Wednesday include Alphabet, Meta, Microsoft, Boeing, Chipotle and Starbucks.",
+      "published_utc": "2025-10-28T18:21:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c16640670783d47cebe5bf287eac7b809930cb30324f660ee14b6c2cf7b198a5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137243115,
+      "datetime": 1761690060
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:05:27.419658+00:00",
+    "cache_key": "news_448162d61859fba7975c5a9ae3d2f8fe",
+    "count": 5
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Tracking Saudi Sovereign Wealth Fund's 13F Portfolio - Q2 2025 Update",
+      "description": "PIFâs US 13F portfolio value declined to $23.81B, with Uber, Electronic Arts, Lucid, Take-Two, and ARM comprising 77% of assets. See more insights here.",
+      "published_utc": "2025-09-10T19:09:01",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=22e6b64b4657d5735d1a63216963e8b9802f2f4188e3ef18569f68660cb7686c",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2153211726/image_2153211726.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136692857,
+      "datetime": 1757545741
+    },
+    {
+      "title": "AT&T CEO: Apple's iPhone hype days are over —  unless AI can deliver",
+      "description": "AT&T CEO John Stankey warns iPhone super cycles are dead without bold AI moves.",
+      "published_utc": "2025-09-10T18:26:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ce3a42e8e35eded5069283ff99cf1f8cf7cb1e37fd6dd3fd348a6bc57e82198f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136688365,
+      "datetime": 1757543213
+    },
+    {
+      "title": "AI Is Surging to Even Greater Heights. Oracle Is Just 1 Sign.",
+      "description": "Recent headlines from Oracle, CoreWeave, and Microsoft all send the same signal: AI demand continues to accelerate.",
+      "published_utc": "2025-09-10T17:45:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8e9c9911050c50251d96784f0b08425c357941135896a41dcf69400eb86ff0dc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136688351,
+      "datetime": 1757540700
+    },
+    {
+      "title": "Microsoft Corporation (MSFT) Presents At Goldman Sachs Communacopia + Technology Conference 2025 Transcript",
+      "description": "Discover key insights from Microsoft's Jared Spataro on AI trends, Copilot, and the evolving tech stack.",
+      "published_utc": "2025-09-10T17:43:19",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b600b295d56c1fac205285941a440cafe4446cc629fc45cb9a4050b887ce6850",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136688312,
+      "datetime": 1757540599
+    },
+    {
+      "title": "Oracle May Be Having Its Nvidia Moment. Or It Could Be a Repeat of 1999.",
+      "description": "having shocked Wall Street with a massive revenue forecast tied, this time, to demand for its cloud-computing infrastructure.",
+      "published_utc": "2025-09-10T17:42:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5f9146dc4195b75a853db22040344f9f8a1f42a4ca322a2fcf431decde2d82fd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136688352,
+      "datetime": 1757540520
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T03:34:16.684957+00:00",
+    "cache_key": "news_2aeaf79dcc8973a8e576cf349be42fa0",
+    "count": 5
+  }
+}

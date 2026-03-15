@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "What Is Considered a Good Stock Dividend? 3 Healthcare Stocks That Fit the Bill.",
+      "description": "Healthcare stocks in the S&P 500 offer an average dividend yield of 1.8%.",
+      "published_utc": "2025-11-09T11:05:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d97d5d7fe64ac8a7d858be3645ee8e500a7976d72dbde1ad0396d6670ed307d1",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137392527,
+      "datetime": 1762704300
+    },
+    {
+      "title": "Trump: Divert Federal Funds From 'Money Sucking' Health Insurers",
+      "description": "President Donald Trump wrote that \"hundreds of billions\" in federal funding should be shifted from \"money sucking\" health insurers to the public.",
+      "published_utc": "2025-11-09T08:58:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8c3d205a4fad43ad96cbd76af09a3bb7ddff03052930c6f56075e645fd21f09c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137392539,
+      "datetime": 1762696736
+    },
+    {
+      "title": "Virtus SGA Global Growth Q3 2025 Portfolio Positioning",
+      "description": "We made several strategic additions during market weakness including Fast Retailing, Chipotle, Gartner and Adyen. Read more here.",
+      "published_utc": "2025-11-09T08:01:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=4c36a7e00a3a1773bf9b23499b7a54f3c6e5fda0f5a69781c32774d9c765a773",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2208603114/image_2208603114.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137387388,
+      "datetime": 1762693260
+    }
+  ]
+}

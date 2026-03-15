@@ -1,0 +1,241 @@
+{
+  "items": [
+    {
+      "id": "590e57e7e67645d7e3cc06cb3dcd2b8fff3ce99d4fabeeb426d68b179ee75eec",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why C3.ai Stock Is Plummeting Today",
+      "author": "Keith Noonan",
+      "published_utc": "2024-12-11T16:45:06Z",
+      "article_url": "https://www.fool.com/investing/2024/12/11/why-c3ai-stock-is-plummeting-today/?source=iedfolrf0000001",
+      "tickers": [
+        "AI",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800675/gettyimages-1169868458.jpg",
+      "description": "C3.ai stock is down after JPMorgan downgraded the stock and expressed concerns about the company's sales growth and profitability. However, another analyst at Canaccord had a more favorable outlook, though valuation remains a concern.",
+      "keywords": [
+        "C3.ai",
+        "JPMorgan",
+        "Canaccord",
+        "AI"
+      ],
+      "insights": [
+        {
+          "ticker": "AI",
+          "sentiment": "negative",
+          "sentiment_reasoning": "JPMorgan downgraded the stock and expressed concerns about the company's sales growth and profitability, despite Canaccord's more favorable outlook."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan published bearish coverage on C3.ai, but the article notes they are an advertising partner of Motley Fool Money."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan published bearish coverage on C3.ai, but the article notes they are an advertising partner of Motley Fool Money."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan published bearish coverage on C3.ai, but the article notes they are an advertising partner of Motley Fool Money."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan published bearish coverage on C3.ai, but the article notes they are an advertising partner of Motley Fool Money."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan published bearish coverage on C3.ai, but the article notes they are an advertising partner of Motley Fool Money."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan published bearish coverage on C3.ai, but the article notes they are an advertising partner of Motley Fool Money."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan published bearish coverage on C3.ai, but the article notes they are an advertising partner of Motley Fool Money."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan published bearish coverage on C3.ai, but the article notes they are an advertising partner of Motley Fool Money."
+        }
+      ]
+    },
+    {
+      "id": "c7c587902b3f4fdc82e17f882859593415ec1f1e332e31f991442bfb349cdcb2",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Should You Buy Stocks Before the End of the Year? Here's What History Says",
+      "author": "The Motley Fool",
+      "published_utc": "2024-12-11T13:15:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/11/should-you-buy-stocks-before-the-end-of-the-year/?source=iedfolrf0000001",
+      "tickers": [
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "MS",
+        "MSpA",
+        "MSpE",
+        "MSpF",
+        "MSpI",
+        "MSpK",
+        "MSpL",
+        "MSpO",
+        "MSpP",
+        "MSpQ"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/799697/person-turning-a-cube-from-2024-to-2025.jpg",
+      "description": "The article discusses the potential benefits of investing in December and January, including the January Effect and the impact of falling interest rates and optimism about Trump's economic policies. However, it cautions investors to be cautious and stick to safer, reasonably valued stocks in the current market environment.",
+      "keywords": [
+        "investing",
+        "January Effect",
+        "interest rates",
+        "Trump's economic policies",
+        "stock market"
+      ],
+      "insights": [
+        {
+          "ticker": "GS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that analysts at Goldman Sachs are projecting a market rise in 2025, although more muted."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that analysts at Goldman Sachs are projecting a market rise in 2025, although more muted."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that analysts at Goldman Sachs are projecting a market rise in 2025, although more muted."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that analysts at Goldman Sachs are projecting a market rise in 2025, although more muted."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that analysts at JPMorgan Chase are also projecting the S&P 500 to hit 6,500 by the end of 2025, up 6.7% from today."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that analysts at JPMorgan Chase are also projecting the S&P 500 to hit 6,500 by the end of 2025, up 6.7% from today."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that analysts at JPMorgan Chase are also projecting the S&P 500 to hit 6,500 by the end of 2025, up 6.7% from today."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that analysts at JPMorgan Chase are also projecting the S&P 500 to hit 6,500 by the end of 2025, up 6.7% from today."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that analysts at JPMorgan Chase are also projecting the S&P 500 to hit 6,500 by the end of 2025, up 6.7% from today."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that analysts at JPMorgan Chase are also projecting the S&P 500 to hit 6,500 by the end of 2025, up 6.7% from today."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that analysts at JPMorgan Chase are also projecting the S&P 500 to hit 6,500 by the end of 2025, up 6.7% from today."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article notes that analysts at JPMorgan Chase are also projecting the S&P 500 to hit 6,500 by the end of 2025, up 6.7% from today."
+        },
+        {
+          "ticker": "MS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that analysts at Morgan Stanley are forecasting the S&P 500 to reach 6,500 by the end of 2025."
+        },
+        {
+          "ticker": "MSpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that analysts at Morgan Stanley are forecasting the S&P 500 to reach 6,500 by the end of 2025."
+        },
+        {
+          "ticker": "MSpE",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that analysts at Morgan Stanley are forecasting the S&P 500 to reach 6,500 by the end of 2025."
+        },
+        {
+          "ticker": "MSpF",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that analysts at Morgan Stanley are forecasting the S&P 500 to reach 6,500 by the end of 2025."
+        },
+        {
+          "ticker": "MSpI",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that analysts at Morgan Stanley are forecasting the S&P 500 to reach 6,500 by the end of 2025."
+        },
+        {
+          "ticker": "MSpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that analysts at Morgan Stanley are forecasting the S&P 500 to reach 6,500 by the end of 2025."
+        },
+        {
+          "ticker": "MSpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that analysts at Morgan Stanley are forecasting the S&P 500 to reach 6,500 by the end of 2025."
+        },
+        {
+          "ticker": "MSpO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that analysts at Morgan Stanley are forecasting the S&P 500 to reach 6,500 by the end of 2025."
+        },
+        {
+          "ticker": "MSpP",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that analysts at Morgan Stanley are forecasting the S&P 500 to reach 6,500 by the end of 2025."
+        },
+        {
+          "ticker": "MSpQ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that analysts at Morgan Stanley are forecasting the S&P 500 to reach 6,500 by the end of 2025."
+        }
+      ]
+    }
+  ]
+}

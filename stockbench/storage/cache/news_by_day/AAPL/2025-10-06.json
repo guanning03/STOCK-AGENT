@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Apple Supplier Foxconn Sees AI Server Demand Lifting Q4 Growth",
+      "description": "Apple's top assembler hits record Q3 sales as AI demand offsets weak phones",
+      "published_utc": "2025-10-06T15:04:48",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e4aa78a81b45af53b359cbd7f8086040bc0c5499cac98f0898d25ae55a733476",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136988993,
+      "datetime": 1759777488
+    },
+    {
+      "title": "Qualcomm fights $647 million UK lawsuit over smartphone chip royalties",
+      "description": "LONDON (Reuters) -Qualcomm is fighting a 480 million-pound ($646.8 million) London lawsuit brought on behalf of smartphone owners, which alleges the chipmaker has abused its dominant position to force Apple and Samsung to pay inflated royalties.  A British consumers' association that goes by the name of Which?  The group alleges Qualcomm made the manufacturers pay inflated royalties even if its chips are not used in a device under a worldwide so-called no licence, no chips policy.",
+      "published_utc": "2025-10-06T13:18:40",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6076f3a2b62b80624e96b0253aeda43dd6954c68eb637bca2a81f852a797a094",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136988994,
+      "datetime": 1759771120
+    },
+    {
+      "title": "Wall Street analyst sees Bitcoin hitting new highs despite U.S. shutdown",
+      "description": "Standard Chartered analyst Geoffrey Kendrick predicts that Bitcoin will continue to rise during the shutdown.",
+      "published_utc": "2025-10-06T12:39:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e3a60c5565c7a01f3e7a31295764272cac8e5b405782a87e50d06ca62b24bb4e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136988968,
+      "datetime": 1759768746
+    },
+    {
+      "title": "The Third Quarter Was Tranquil. The Fourth Might Not Be.",
+      "description": "The Third Quarter Was Tranquil. The Fourth Might Not Be.",
+      "published_utc": "2025-10-06T12:06:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=652663ece637f74b9c3f1addeffd4fbbad9a6316938b214c4b24b8907ec43300",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136995089,
+      "datetime": 1759766760
+    },
+    {
+      "title": "MicroStrategy Didn’t Buy Bitcoin Last Week. The Stock Is Gaining.",
+      "description": "MicroStrategy Didn’t Buy Bitcoin Last Week. The Stock Is Gaining.",
+      "published_utc": "2025-10-06T11:55:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=2695d72cfd02c6dec372fc1feb70b40bd66ecd62fed8c184ef69f35f00dc6e9a",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136995169,
+      "datetime": 1759766100
+    }
+  ]
+}

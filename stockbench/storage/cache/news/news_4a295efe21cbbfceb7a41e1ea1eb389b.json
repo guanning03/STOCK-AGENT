@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Earnings live: MongoDB stock tumbles, Norwegian Cruise Line sinks, with Target earnings on deck",
+      "description": "The S&P 500 was on track for double-digit earnings growth, with more than half of companies having reported Q4 results so far.",
+      "published_utc": "2026-03-02T16:38:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7df407baa44879298790a0108f6ae8a8c368e8b16865d370f4bbe24313b9aded",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139280490,
+      "datetime": 1772487522
+    },
+    {
+      "title": "Stock Market Today: Dow Dips As Trump Says This On Iran; Warren Buffett Stock Flashes Sell Signal (Live Coverage)",
+      "description": "The Dow Jones index fell and other indexes were mixed after President Trump spoke on Iran. A Warren Buffett stock dived but Palantir popped. Oil and defense stocks rose.",
+      "published_utc": "2026-03-02T16:37:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fe29d5467c5cfa82630e5ebabe24ed39822249cc3b736041d6cd0d779b557ab4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139280701,
+      "datetime": 1772487424
+    },
+    {
+      "title": "One Source of Strength in the Markets Today: Tech Stocks",
+      "description": "Nvidia, Palantir and long-suffering Intuit were among the biggest gainers Monday as investors set aside tech fears.  Investors have fretted in the first months of 2026 about whether the world's biggest tech companies are at risk of overspending on artificial intelligence or whether, conversely, the success of AI will displace more traditional software providers.  Among the hardest hit stocks was Intuit, which dropped to a one-year low beneath $359 on Feb. 24.",
+      "published_utc": "2026-03-02T13:45:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a22c05ec9bc758b26d15ae7f90ac6e10aa32e0ca3bac5102c7ae2f0ea75c8284",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139279827,
+      "datetime": 1772477129
+    },
+    {
+      "title": "Stock Market Today: Dow Lags As Trump Says This On Iran; LNG Stock Clears Entry As Oil Prices Pop (Live Coverage)",
+      "description": "The Dow Jones index was off opening lows on the stock market today after U.S.-Iran attacks. Tesla fell but oil and defense stocks rose.",
+      "published_utc": "2026-03-02T13:29:26",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=780d0a2ed0db5ba05dea8377c31c0b06e7894118d6dc0ada0c6968a82de847bd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139279831,
+      "datetime": 1772476166
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Up After U.S.-Iran Attacks; LNG Stock Clears Entry As Oil Prices Pop (Live Coverage)",
+      "description": "The Dow Jones index was off opening lows on the stock market today after U.S.-Iran attacks. Tesla fell but oil and defense stocks rose.",
+      "published_utc": "2026-03-02T12:43:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=142298bf5a403b0ac85564ee681b22988a9bc7ae741904ef076082dc7c7639cc",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139279060,
+      "datetime": 1772473418
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:53:28.009382+00:00",
+    "cache_key": "news_4a295efe21cbbfceb7a41e1ea1eb389b",
+    "count": 5
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "items": [
+    {
+      "id": "574eb042b06cbcb2a4f635a1106e1ad8ab9f3f4774cb3e1d5bc6fe8ac5cfa848",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Here's How Much You Should Have Invested in the Stock Market Today If You Want to Retire Comfortably in 25 Years",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-11T15:32:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/11/heres-how-much-you-should-have-invested-in-the-sto/?source=iedfolrf0000001",
+      "tickers": [
+        "SPY"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/802847/group-of-seniors-visiting-a-tourist-spot.jpg",
+      "description": "The article discusses the amount of investment needed to retire comfortably in 25 years, considering factors like inflation and expected market returns. It recommends investing in an S&P 500 ETF like SPY as a diversified and long-term investment option.",
+      "keywords": [
+        "retirement planning",
+        "stock market investment",
+        "S&P 500",
+        "ETF"
+      ],
+      "insights": [
+        {
+          "ticker": "SPY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article recommends investing in the SPDR S&P 500 ETF Trust (SPY) as a diversified and long-term investment option that tracks the S&P 500 index, which can be ideal for long-term investors."
+        }
+      ]
+    },
+    {
+      "id": "62fd789724cc88c48a0c3ff67df53a3d41b68893c10db07d3d5f27d0631cd342",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Warren Buffett Owns 2 S&P 500 Index Funds. They Could Soar 153%, According to a Top Wall Street Analyst",
+      "author": "The Motley Fool",
+      "published_utc": "2025-01-11T09:28:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/11/warren-buffett-sp-500-funds-soar-153-wall-street/?source=iedfolrf0000001",
+      "tickers": [
+        "VOO",
+        "SPY",
+        "AAPL",
+        "NVDA",
+        "MSFT",
+        "BRK.A",
+        "BRK.B"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/803282/warren-buffett-smiling-surrounded-by-cameras.jpg",
+      "description": "Warren Buffett's Berkshire Hathaway owns two S&P 500 index funds, the Vanguard S&P 500 ETF and the SPDR S&P 500 ETF Trust, which a top Wall Street analyst believes could see a 153% gain by 2030 due to factors like AI and the prime earning years of millennials and Gen Zers.",
+      "keywords": [
+        "Warren Buffett",
+        "S&P 500 index funds",
+        "Vanguard S&P 500 ETF",
+        "SPDR S&P 500 ETF Trust",
+        "Wall Street analyst",
+        "AI",
+        "millennials",
+        "Gen Zers"
+      ],
+      "insights": [
+        {
+          "ticker": "VOO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests the Vanguard S&P 500 ETF could see a 153% gain by 2030 based on a Wall Street analyst's forecast, and it has a lower expense ratio compared to the SPDR S&P 500 ETF Trust."
+        },
+        {
+          "ticker": "SPY",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests the SPDR S&P 500 ETF Trust could see a 153% gain by 2030 based on a Wall Street analyst's forecast, though it has a slightly higher expense ratio compared to the Vanguard S&P 500 ETF."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple is mentioned as one of the top three holdings in the S&P 500, along with Nvidia and Microsoft, indicating its significant influence on the index's performance."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia is mentioned as one of the top three holdings in the S&P 500, along with Apple and Microsoft, indicating its significant influence on the index's performance."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is mentioned as one of the top three holdings in the S&P 500, along with Apple and Nvidia, indicating its significant influence on the index's performance."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Berkshire Hathaway, Warren Buffett's investment company, owns the two S&P 500 index funds mentioned, indicating Buffett's confidence in the long-term performance of the S&P 500."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article states that Berkshire Hathaway, Warren Buffett's investment company, owns the two S&P 500 index funds mentioned, indicating Buffett's confidence in the long-term performance of the S&P 500."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:35:28.132578+00:00",
+    "cache_key": "news_ed73a2f39c8d093616fc325733f6a86c",
+    "count": 2
+  }
+}

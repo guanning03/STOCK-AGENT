@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise ahead of key inflation data, with Apple and Amazon to report",
+      "description": "Wall Street weighed a new trade deal with South Korea and strong earnings from Meta and Microsoft.",
+      "published_utc": "2025-07-30T19:27:42",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ee4fdb05c590b8dc5da918d1bdcbd95381f30ed8a6acf201a06dd88520724fca",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136148657,
+      "datetime": 1753918062
+    },
+    {
+      "title": "Why Nvidia Could Be the Biggest Tech Winner of the 'One Big Beautiful Bill'",
+      "description": "The One Big Beautiful Bill Act, signed into law in early July, allows companies to deduct certain investments in the year that they're made, an accounting change that may incentivize tech giants to spend even more on Nvidia's top-of-the-line chips.",
+      "published_utc": "2025-07-30T19:05:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e1c1f60f644e49fad16c6b9806c9c55fb178ed2b3b4da8595b00c2571a52ab7e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136148629,
+      "datetime": 1753916704
+    },
+    {
+      "title": "Apple & Amazon earnings, PCE, jobless claims: What to Watch",
+      "description": "Market Domination Overtime host Josh Lipton takes a look at the top stories for investors to watch on Thursday, Jul. 31. Apple (AAPL) and Amazon (AMZN) will report quarterly earnings results after the markets close. Personal Consumption Expenditures (PCE) data for June will be released in the morning. Economists are expecting a slight uptick from May. Initial jobless claims data for the week ending Jul. 26 will be out in the morning, as economists expect an increase from the previous week. To watch more expert insights and analysis on the latest market action, check out more Market Domination Overtime.",
+      "published_utc": "2025-07-30T19:00:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=774620ada1439e9150e02dbbad3daa9126e6bff85379b1db75634652791092b6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136148671,
+      "datetime": 1753916405
+    },
+    {
+      "title": "This Company Could Be the Amazon of Artificial Intelligence (AI) Infrastructure",
+      "description": "Artificial intelligence (AI) infrastructure investments are on the rise, and one Nvidia partner is uniquely positioned to take advantage of the trend.",
+      "published_utc": "2025-07-30T18:55:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4ce649b03f1e9bfe0ba9fe31695b3057e8eb32f40b2f15369a2a522699a9842a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136148631,
+      "datetime": 1753916100
+    },
+    {
+      "title": "Trump Ends the ‘De Minimis’ Tax Exemption Globally. What It Means for Retail Stocks.",
+      "description": "President Donald Trump broadly ended the de minimis exemption that allowed people to buy low-value imported items without paying duty and import taxes.  Trump said he was ending the exemption to close a loophole that allowed people to evade tariffs and funnel deadly synthetic opioids to the U.S. market.  Trump claims shippers have been exploiting the de minimis exemption because such packages typically draw less scrutiny.",
+      "published_utc": "2025-07-30T18:11:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8e21e69c563e1dfac52f8f314a7cf92af7af58065d9f09fda0a9c02a10dcb847",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136148428,
+      "datetime": 1753913460
+    }
+  ]
+}

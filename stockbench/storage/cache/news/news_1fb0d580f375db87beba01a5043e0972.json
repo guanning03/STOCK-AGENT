@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Dogs of the Dow Had a Strong Year. Here Are the 10 Stocks for 2026.",
+      "description": "High-yielding Dow stocks outperformed the broader market this year. Will new Dow dogs Home Depot, Nike, and UnitedHealth keep the streak going?",
+      "published_utc": "2025-12-29T15:09:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cd50e43566d9a9aba8b1e25f1fc787bcfa25e7011508eceb15f5ea3da5f72ed7",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137934700,
+      "datetime": 1767038940
+    },
+    {
+      "title": "Jim Cramer’s guide to investing: Pick out the obvious winners",
+      "description": "CNBC's Jim Cramer detailed his approach to investing in high-quality growth stocks.",
+      "published_utc": "2025-12-29T13:31:22",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=2b03909072d772cbaf8c5645cd42ba423e526284d5144fe2ee4e61c14730f6dd",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/104608847-IMG_5164-jim-cramer.jpg?v=1693522825&w=1920&h=1080",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137941475,
+      "datetime": 1767033082
+    },
+    {
+      "title": "S&P 500 is little changed as index tries to avoid 3-day losing streak: Live updates",
+      "description": "The S&P 500 was relatively unchanged on Tuesday, a day after the index posted back-to-back losses.",
+      "published_utc": "2025-12-29T13:06:21",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=6b4984f6329c2af948168b5fa023d22ed99673df9889482c9d7cc529f4c9b47b",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108246250-1767021860581-Traders-Photo-20251229-KK-PRESS-008.jpg?v=1767022020&w=1920&h=1080",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137941572,
+      "datetime": 1767031581
+    },
+    {
+      "title": "Home Depot Expands Pro Market With GMS and SRS Pairing",
+      "description": "HD deepens its pro market footprint as SRS Distribution acquires GMS, adding $900M in Q3 sales and boosting its FY25 outlook.",
+      "published_utc": "2025-12-29T09:32:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b433a725e917bd1def36d5e45f55d216b27eb990eb77bade16767484278dbf7c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137930966,
+      "datetime": 1767018720
+    },
+    {
+      "title": "The Home Depot, Inc. (HD) is Attracting Investor Attention: Here is What You Should Know",
+      "description": "Home Depot (HD) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
+      "published_utc": "2025-12-29T09:00:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9d779e2cb274ad851a620235c881669fcc0bda3f734117070fa11ca6ae00a999",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137930967,
+      "datetime": 1767016806
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T09:18:29.537618+00:00",
+    "cache_key": "news_1fb0d580f375db87beba01a5043e0972",
+    "count": 5
+  }
+}

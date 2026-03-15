@@ -1,0 +1,261 @@
+{
+  "items": [
+    {
+      "id": "75caa85bd784fb9fbacbca096c3aaf82e5a98f291a7c0ac732e83c464b087c92",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "If You'd Invested $10,000 in Amazon Stock 25 Years Ago, Here's How Much You'd Have Today",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-10T19:07:54Z",
+      "article_url": "https://www.fool.com/investing/2025/03/10/if-invested-10000-amazon-stock-years-today/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/810435/accountant-with-calculator.jpg",
+      "description": "Amazon's stock has seen an incredible 6,300% return over the past 25 years, demonstrating the potential for a successful idea executed at the right time. However, such exceptional performance is rare, and investors should be cautious when seeking the 'next Amazon'.",
+      "keywords": [
+        "Amazon",
+        "stock investment",
+        "e-commerce",
+        "technology",
+        "growth"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights Amazon's remarkable stock performance, growing from a $10,000 investment to over $627,000 over 25 years, a 6,300% return. This demonstrates the company's success in capitalizing on the growth of the internet and e-commerce."
+        }
+      ]
+    },
+    {
+      "id": "debec63f6efd5505b8a7bd6dfb3eb117e2cb697f24f3b8844675ba7fb33e6418",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Nasdaq Sell-Off: It's Finally Time to Buy This Market Darling Again",
+      "author": "Anders Bylund",
+      "published_utc": "2025-03-10T18:34:06Z",
+      "article_url": "https://www.fool.com/investing/2025/03/10/nasdaq-sell-off-buy-market-soundhound-ai/?source=iedfolrf0000001",
+      "tickers": [
+        "SOUN",
+        "SOUNW",
+        "GOOG",
+        "GOOGL",
+        "AMZN",
+        "AAPL",
+        "MSFT",
+        "NVDA"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/810625/working-thinking-looking-at-screen.jpg",
+      "description": "SoundHound AI, an AI company with a song-identification app and voice assistant technology, is now a buy again after a long pause. The Nasdaq sell-off has made the stock more reasonably priced, and the company's business prospects remain promising despite a meme-stock surge and retreat in 2024.",
+      "keywords": [
+        "SoundHound AI",
+        "AI",
+        "Nasdaq",
+        "stock market"
+      ],
+      "insights": [
+        {
+          "ticker": "SOUN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that SoundHound AI is a promising AI company with a growing business and a reasonable valuation after the recent Nasdaq sell-off, making it a good investment opportunity."
+        },
+        {
+          "ticker": "SOUNW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article suggests that SoundHound AI is a promising AI company with a growing business and a reasonable valuation after the recent Nasdaq sell-off, making it a good investment opportunity."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Alphabet as one of the role models for SoundHound AI, but does not provide a specific sentiment or evaluation of Alphabet's business."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Alphabet as one of the role models for SoundHound AI, but does not provide a specific sentiment or evaluation of Alphabet's business."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Amazon as one of the role models for SoundHound AI, but does not provide a specific sentiment or evaluation of Amazon's business."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Apple as one of the role models for SoundHound AI, but does not provide a specific sentiment or evaluation of Apple's business."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions Microsoft as one of the role models for SoundHound AI, but does not provide a specific sentiment or evaluation of Microsoft's business."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Nvidia made a small investment in SoundHound AI's stock, but does not provide a specific sentiment or evaluation of Nvidia's business."
+        }
+      ]
+    },
+    {
+      "id": "4f12bae24965c54695c8aa5cb5b18a1533f259c0a58d8194f70025dd2fef03db",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Artificial Intelligence (AI) Stock Gen Z Should Buy Today and Hold for Decades",
+      "author": "James Brumley",
+      "published_utc": "2025-03-10T13:37:06Z",
+      "article_url": "https://www.fool.com/investing/2025/03/10/artificial-intelligence-ai-stock-gen-z-buy-hold/?source=iedfolrf0000001",
+      "tickers": [
+        "PLTR",
+        "GOOG",
+        "GOOGL",
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/810285/young-investor-sitting-at-desk.jpg",
+      "description": "Palantir Technologies is a leading provider of AI-powered decision-making platforms, catering to enterprise and government clients. Despite its steep valuation, the company's long-term growth potential is promising as AI adoption accelerates across industries.",
+      "keywords": [
+        "Palantir Technologies",
+        "artificial intelligence",
+        "AI adoption",
+        "enterprise software"
+      ],
+      "insights": [
+        {
+          "ticker": "PLTR",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Palantir is a dominant player in the AI software market, providing enterprise-level platforms that help organizations make data-driven decisions. The article highlights the company's long-term growth potential as AI adoption increases, despite its current high valuation."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alphabet's Gemini is mentioned as an impressive personal chatbot, but it lacks the enterprise-level capabilities of Palantir's platform."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Alphabet's Gemini is mentioned as an impressive personal chatbot, but it lacks the enterprise-level capabilities of Palantir's platform."
+        },
+        {
+          "ticker": "AMZN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article draws a comparison between Palantir's growth potential and Amazon's trajectory since its IPO, suggesting that Palantir could take years or decades to grow into its current valuation, similar to Amazon."
+        }
+      ]
+    },
+    {
+      "id": "91d79e81b5e27362fdee5b611181e7dc0ad1d50a481937705702b69e7f242b78",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "United States Podcasting Market Report 2025: Growth Trends and Opportunities to 2030 Featuring Analysis of Amazon, Apple, iHeartMedia, Pandora Media, Audacy & More",
+      "author": "Researchandmarkets.Com",
+      "published_utc": "2025-03-10T11:48:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/03/10/3039649/28124/en/United-States-Podcasting-Market-Report-2025-Growth-Trends-and-Opportunities-to-2030-Featuring-Analysis-of-Amazon-Apple-iHeartMedia-Pandora-Media-Audacy-More.html",
+      "tickers": [
+        "AMZN",
+        "AAPL",
+        "IHRT"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The United States podcasting market is expected to grow significantly, driven by factors like high internet penetration, smartphone adoption, and a thriving creator community. However, legal and copyright issues pose challenges. The involvement of celebrities and influencers is a key trend, boosting listenership and monetization opportunities.",
+      "keywords": [
+        "podcasting",
+        "United States",
+        "market growth",
+        "legal challenges",
+        "celebrity involvement"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon is mentioned as one of the key players in the U.S. podcasting market, indicating its involvement and potential growth opportunities in this space."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple is also listed as a key player, suggesting its strong presence and influence in the U.S. podcasting market through platforms like Apple Podcasts."
+        },
+        {
+          "ticker": "IHRT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "iHeartMedia is highlighted as a major player in the U.S. podcasting market, indicating its significant role and potential for growth in this industry."
+        }
+      ]
+    },
+    {
+      "id": "ac22c21f2d86b5ebb1bfba8e029960404f1c340e44cbd5e8b2e4f016b8005e51",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Nasdaq Stock Correction: 4 Magnificent Artificial Intelligence (AI) Stocks That Make for Slam-Dunk Buys Right Now",
+      "author": "The Motley Fool",
+      "published_utc": "2025-03-10T08:06:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/10/nasdaq-stock-correction-4-ai-stocks-buy-right-now/?source=iedfolrf0000001",
+      "tickers": [
+        "AMZN"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/810305/nyse-floor-trader-stock-market-invest-buy-sell-fed-wall-street-getty.jpg",
+      "description": "The Nasdaq Composite has fallen 10% into correction territory, presenting opportunities to buy four AI stocks: Amazon, Alphabet, Baidu, and Meta Platforms. These companies are leveraging AI to drive growth in their cloud, advertising, and other key business segments.",
+      "keywords": [
+        "Nasdaq",
+        "Artificial Intelligence",
+        "AI stocks",
+        "Amazon",
+        "Alphabet",
+        "Baidu",
+        "Meta Platforms"
+      ],
+      "insights": [
+        {
+          "ticker": "AMZN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Amazon's cloud infrastructure service platform Amazon Web Services (AWS) is aggressively incorporating generative AI solutions, and the company's advertising and subscription service segments are also expected to contribute to growth."
+        },
+        {
+          "ticker": "GOOG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet's cloud infrastructure service platform Google Cloud is expected to drive revenue growth, and the company's dominant position in internet search and advertising provides a strong base for profitability."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Alphabet's cloud infrastructure service platform Google Cloud is expected to drive revenue growth, and the company's dominant position in internet search and advertising provides a strong base for profitability."
+        },
+        {
+          "ticker": "BIDU",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Baidu is the dominant internet search engine in China and is expanding its cloud infrastructure service with AI solutions, which should accelerate enterprise cloud spending."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Meta Platforms is leveraging AI to enhance its ad-based platforms, and the company is well-positioned to monetize new platforms like virtual reality and the metaverse in the future."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T22:39:42.448488+00:00",
+    "cache_key": "news_3d6fbd587a44674f5a2d0baa57d7ecd1",
+    "count": 5
+  }
+}

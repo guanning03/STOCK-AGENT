@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "100-year-old Dow stock is surprising AI play",
+      "description": "Caterpillar is a leading manufacturer of construction and mining equipment worldwide, renowned for its heavy machinery, industrial gas turbines, and off-highway diesel and natural gas engines. Always seen tied to construction cycles, Caterpillar is now breaking out of the mold with its Q3 2025 ...",
+      "published_utc": "2025-10-29T18:33:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2e14696695501dccb56aba4dfc3fc18e5500a1e4808fbff3fba05a4b74aeac9e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137263669,
+      "datetime": 1761777180
+    },
+    {
+      "title": "Why Caterpillar Stock Jumped to Record High Today",
+      "description": "Artificial intelligence (AI) is a potent growth driver.",
+      "published_utc": "2025-10-29T18:31:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=268479d368014c303b5346138f8712ed1ab05f2175d71373b9a34b8219fc263c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137263670,
+      "datetime": 1761777060
+    },
+    {
+      "title": "Caterpillar Roars Again: Generators, Not Excavators, Power Its Growth",
+      "description": "Caterpillar just crushed Q3 earnings, up 11% in a day, thanks to a record $39.8B backlog. Click here to read more about CAT stock and why it is a Hold.",
+      "published_utc": "2025-10-29T17:50:29",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=59d64ca778c0e856df7c3438c639c288c647be37a3ea2df0693fbe6491e86bbe",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/463302769/image_463302769.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137262097,
+      "datetime": 1761774629
+    },
+    {
+      "title": "Why Is Caterpillar Stock Popping This Week?",
+      "description": "Caterpillar revealed a new revenue stream that drove its share price sharply higher.",
+      "published_utc": "2025-10-29T17:18:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3e2e87ca392f984e848d6a661311c361147a2c6b1b455c9807d201153152c71e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137263671,
+      "datetime": 1761772704
+    },
+    {
+      "title": "Dow Falls From Record Level as Powell Dampens December Rate Cut Bets",
+      "description": "The Dow Jones Industrial Average fell from Tuesday's record high level after Federal Reserve Jerome",
+      "published_utc": "2025-10-29T17:16:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=775c80c02568706d1e51e2ae251e3aa023e480b80af26401dfab884e32cd10f5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137263519,
+      "datetime": 1761772615
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:10:54.987623+00:00",
+    "cache_key": "news_d307042a05db48e63f0c72ceb93f51c9",
+    "count": 5
+  }
+}

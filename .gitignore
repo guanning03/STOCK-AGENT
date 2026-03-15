@@ -12,9 +12,10 @@ build/
 venv/
 env/
 
-# Storage - LLM response cache and output reports (not reusable assets)
+# Storage - LLM response cache, output reports, and runtime state (not reusable assets)
 stockbench/storage/cache/llm/
 stockbench/storage/reports/
+stockbench/storage/.download_checkpoint.json
 
 # Logs
 *.log

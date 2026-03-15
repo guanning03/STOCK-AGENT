@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Boeing, Northrop Grumman Stocks Poised To Move On Key Government Approvals",
+      "description": "Boeing and Northrop Grumman turned around two regulatory issues that had previously risked derailing their latest plans.",
+      "published_utc": "2026-02-18T12:45:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dcaf891398972e03de97f9118438246d37359bcbf4f29b8b19e084a5a821f7f3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139137901,
+      "datetime": 1771436755
+    },
+    {
+      "title": "BWX Technologies to Report Q4 Results: What's in Store for the Stock?",
+      "description": "BWXT's government and commercial units show solid revenue momentum, but earnings pressure could test the stock's near-term trajectory.",
+      "published_utc": "2026-02-18T11:44:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7636cec9f22caea310178e0a2e412b500eac40d67ddbe93edb17190827e5c52f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139138101,
+      "datetime": 1771433040
+    },
+    {
+      "title": "Boeing Co. stock underperforms Wednesday when compared to competitors",
+      "description": "Boeing Co. stock underperforms Wednesday when compared to competitors",
+      "published_utc": "2026-02-18T11:35:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=6dd25d3fb8688c2c3ff9ce7078d316394a16c7ee266c7afc824d932e647b0da4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139213636,
+      "datetime": 1771432500
+    },
+    {
+      "title": "SkyGrid and Wisk Release 'Enabling Scalable Urban Air Mobility Through Automated Flight Rules' Paper",
+      "description": "SkyGrid, an Advanced Air Mobility (AAM) Third-Party Service Provider (TSP), and Wisk Aero, an autonomous aviation company, have released a new white paper, Enabling Scalable Urban Air Mobility Through Automated Flight Rules, outlining how Automated Flight Rules (AFR) can enable the safe and scalable integration of Urban Air Mobility (UAM) operations into global airspace.",
+      "published_utc": "2026-02-18T10:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=10ca7a2cbff9db9ee04a6eac0409fb663634eb0ab8a1b09f65e447a0d689291a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139136666,
+      "datetime": 1771426800
+    },
+    {
+      "title": "Boeing Names St. Louis Facility As Headquarters For Its Defense, Space & Security Business",
+      "description": "https://www.boeing.com/features/2026/02/boeing-defense-space-and-security-headquarters-returns-to-st-louis",
+      "published_utc": "2026-02-18T09:57:18",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=833b67a2d245b32dcb7edcff256a7b91af8d8a1f0eda029bc4284ce55d702ed4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139147008,
+      "datetime": 1771426638
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:19:38.282904+00:00",
+    "cache_key": "news_7939a3f5f352764fe65da2b7f843076e",
+    "count": 5
+  }
+}

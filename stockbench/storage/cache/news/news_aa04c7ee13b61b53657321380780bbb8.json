@@ -1,0 +1,240 @@
+{
+  "items": [
+    {
+      "id": "038e5d8e5f24903dd53b9aed417cf4d3270fbfb8e72875a4d54c436a6d09c1e4",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "DeepSeek Just Changed Generative Artificial Intelligence (AI) Forever. 2 Surprising Winners From Its Innovation.",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-02T17:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/02/deepseek-just-changed-generative-artificial-intell/?source=iedfolrf0000001",
+      "tickers": [
+        "AAPL",
+        "META"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805587/gettyimages-artificial-intelligence-ai-chatbot-phone-agent.jpg",
+      "description": "DeepSeek, a Chinese AI startup, has developed a highly efficient AI model that can match the performance of industry-leading models at a fraction of the cost. This could have significant implications for companies like Apple and Meta Platforms, which are focused on on-device AI and scaling AI capabilities, respectively.",
+      "keywords": [
+        "DeepSeek",
+        "Generative AI",
+        "Apple",
+        "Meta Platforms"
+      ],
+      "insights": [
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple could adopt DeepSeek's methods to make the iPhone more capable of handling AI inference, leading to improved features like a more conversational Siri, faster translation, and better productivity tools. This could boost Apple's iPhone sales and services revenue."
+        },
+        {
+          "ticker": "META",
+          "sentiment": "positive",
+          "sentiment_reasoning": "DeepSeek's efficient AI model could help Meta scale its AI capabilities and expand AI features to more parts of its business, unlocking huge profits. Reducing the cost of AI inference could be a significant benefit for Meta, which has been working on this challenge."
+        }
+      ]
+    },
+    {
+      "id": "2cc32f8e6960428c0a575e4c993be83d49d3340ee649c70aab12736d2b1aa8ef",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Does Billionaire Warren Buffett Know Something Wall Street Doesn’t? Here's 1 Possible Warning Sign From the Oracle of Omaha.",
+      "author": "The Motley Fool",
+      "published_utc": "2025-02-02T15:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/02/billionaire-warren-buffett-wall-street-warning/?source=iedfolrf0000001",
+      "tickers": [
+        "BRK.A",
+        "BRK.B",
+        "AAPL",
+        "BAC",
+        "BACpB",
+        "BACpE",
+        "BACpK",
+        "BACpL",
+        "BACpM",
+        "BACpN",
+        "BACpO",
+        "BACpP",
+        "BACpQ",
+        "BACpS",
+        "BMLpG",
+        "BMLpH",
+        "BMLpJ",
+        "BMLpL",
+        "MERpK"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805427/holding-warning-sign-attention-please.jpg",
+      "description": "Warren Buffett's Berkshire Hathaway has been selling stocks and accumulating cash, which could signal concerns about the market's high valuation. The article discusses the CAPE ratio and its historical relationship with future stock market returns.",
+      "keywords": [
+        "Warren Buffett",
+        "Berkshire Hathaway",
+        "CAPE ratio",
+        "stock market valuation"
+      ],
+      "insights": [
+        {
+          "ticker": "BRK.A",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has been selling stocks and accumulating a large cash position, which could indicate that Warren Buffett is concerned about the current market valuation."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has been selling stocks and accumulating a large cash position, which could indicate that Warren Buffett is concerned about the current market valuation."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has been selling its stake in Apple, which could suggest Buffett's concerns about the market's high valuation."
+        },
+        {
+          "ticker": "BAC",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has been selling its stake in Bank of America, which could suggest Buffett's concerns about the market's high valuation."
+        },
+        {
+          "ticker": "BACpB",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has been selling its stake in Bank of America, which could suggest Buffett's concerns about the market's high valuation."
+        },
+        {
+          "ticker": "BACpE",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has been selling its stake in Bank of America, which could suggest Buffett's concerns about the market's high valuation."
+        },
+        {
+          "ticker": "BACpK",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has been selling its stake in Bank of America, which could suggest Buffett's concerns about the market's high valuation."
+        },
+        {
+          "ticker": "BACpL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has been selling its stake in Bank of America, which could suggest Buffett's concerns about the market's high valuation."
+        },
+        {
+          "ticker": "BACpM",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has been selling its stake in Bank of America, which could suggest Buffett's concerns about the market's high valuation."
+        },
+        {
+          "ticker": "BACpN",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has been selling its stake in Bank of America, which could suggest Buffett's concerns about the market's high valuation."
+        },
+        {
+          "ticker": "BACpO",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has been selling its stake in Bank of America, which could suggest Buffett's concerns about the market's high valuation."
+        },
+        {
+          "ticker": "BACpP",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has been selling its stake in Bank of America, which could suggest Buffett's concerns about the market's high valuation."
+        },
+        {
+          "ticker": "BACpQ",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has been selling its stake in Bank of America, which could suggest Buffett's concerns about the market's high valuation."
+        },
+        {
+          "ticker": "BACpS",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has been selling its stake in Bank of America, which could suggest Buffett's concerns about the market's high valuation."
+        },
+        {
+          "ticker": "BMLpG",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has been selling its stake in Bank of America, which could suggest Buffett's concerns about the market's high valuation."
+        },
+        {
+          "ticker": "BMLpH",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has been selling its stake in Bank of America, which could suggest Buffett's concerns about the market's high valuation."
+        },
+        {
+          "ticker": "BMLpJ",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has been selling its stake in Bank of America, which could suggest Buffett's concerns about the market's high valuation."
+        },
+        {
+          "ticker": "BMLpL",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has been selling its stake in Bank of America, which could suggest Buffett's concerns about the market's high valuation."
+        },
+        {
+          "ticker": "MERpK",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire Hathaway has been selling its stake in Bank of America, which could suggest Buffett's concerns about the market's high valuation."
+        }
+      ]
+    },
+    {
+      "id": "7c7dd5e23b5489b07426819b96583d69bc617233f04104122121ba54174a894a",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "This High-Powered Vanguard Fund Has Generated 160% Returns Since 2020. Here's Why It Can Still Go Higher.",
+      "author": "David Jagielski",
+      "published_utc": "2025-02-02T11:30:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/02/this-high-powered-vanguared-fund-has-generated-160/?source=iedfolrf0000001",
+      "tickers": [
+        "VGT",
+        "AAPL",
+        "NVDA",
+        "MSFT",
+        "AVGO"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/805132/business-person-giving-a-thumbs-up.jpg",
+      "description": "The Vanguard Information Technology Index Fund (VGT) has outperformed the S&P 500 by a wide margin since 2020, generating around 160% in returns. The fund's focus on top tech stocks like Apple, Nvidia, and Microsoft has benefited from the growth in artificial intelligence. While the fund's heavy concentration in a few stocks could make it vulnerable to a correction, the continued growth opportunities in AI suggest the fund can still go higher.",
+      "keywords": [
+        "Vanguard Information Technology Index Fund",
+        "ETF",
+        "artificial intelligence",
+        "tech stocks"
+      ],
+      "insights": [
+        {
+          "ticker": "VGT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The fund has generated strong returns of around 160% since 2020, outperforming the S&P 500, due to its focus on top tech stocks that have benefited from the growth in artificial intelligence. While the fund's heavy concentration in a few stocks could make it vulnerable to a correction, the continued growth opportunities in AI suggest the fund can still go higher."
+        },
+        {
+          "ticker": "AAPL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Apple is one of the top holdings in the Vanguard Information Technology Index Fund, accounting for a significant portion of the fund's portfolio. The article suggests that the fund's exposure to tech giants like Apple has contributed to its strong performance."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Nvidia is another top holding in the Vanguard Information Technology Index Fund, and the article indicates that the fund's exposure to companies benefiting from the growth in artificial intelligence, such as Nvidia, has been a key driver of its performance."
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Microsoft is the third-largest holding in the Vanguard Information Technology Index Fund, and the article suggests that the fund's exposure to tech giants like Microsoft has contributed to its strong returns."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Broadcom is the fourth-largest holding in the Vanguard Information Technology Index Fund, accounting for around 6% of the fund's portfolio. The article does not provide any specific commentary on Broadcom's performance or its impact on the fund."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:38:54.515968+00:00",
+    "cache_key": "news_aa04c7ee13b61b53657321380780bbb8",
+    "count": 3
+  }
+}

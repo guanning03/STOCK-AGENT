@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Sector Update: Health Care Stocks Mixed Late Afternoon",
+      "description": "Health care stocks were mixed late Monday afternoon, with the NYSE Health Care Index up 0.1% and the",
+      "published_utc": "2026-01-12T15:50:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fd5dc118c4b0d053ffd18ef054451f38454fbf354f52b37019a24cf16f0a5a96",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138083266,
+      "datetime": 1768251000
+    },
+    {
+      "title": "Stocks to Watch Monday Recap: Capital One, UnitedHealth, Walmart, Exxon",
+      "description": "↘️ American Express (AXP), Bank of America (BAC): Shares of the biggest U.S. banks and credit-card companies dropped after President Trump called for credit-card interest rates to be capped. Shares in Synchrony Financial (SYF) slid 8.",
+      "published_utc": "2026-01-12T14:32:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4b0f30bc4ebc2832115b1b9df92f6cd0600416c0b067a6d725739e9d1c01acf6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138083181,
+      "datetime": 1768246329
+    },
+    {
+      "title": "Health Care Down on Health-Insurance Concerns -- Health Care Roundup",
+      "description": "Health Care Down on Health-Insurance Concerns -- Health Care Roundup",
+      "published_utc": "2026-01-12T12:40:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=ea7faf99cfcc9564d781f196d10765d0ee37cadf2856cccbca0a19dd0a5aa2d6",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138124597,
+      "datetime": 1768239600
+    },
+    {
+      "title": "Update: Market Chatter: Senate Report Finds UnitedHealth Used Aggressive Tactics to Collect Medicare Payments",
+      "description": "(Updated with UnitedHealth's response to a request for comment.) UnitedHealth Group (UNH) impleme",
+      "published_utc": "2026-01-12T10:22:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e33fd69639bd61b1986ffe32efe1716a3781ae3aa4017639cfe5003583c12a3e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138075220,
+      "datetime": 1768231371
+    },
+    {
+      "title": "UnitedHealth Stock Falls on Senate Report Over Medicare Tactics",
+      "description": "UnitedHealth Faces Scrutiny: Medicare Advantage Practices Under Fire",
+      "published_utc": "2026-01-12T10:08:15",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ce539c084216c6952b3b8602a82a5e1c77d811032b924ff90b71ffc1c4906a80",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138075221,
+      "datetime": 1768230495
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today, Dec. 16: Pfizer Falls After Cutting 2025 Revenue Forecast",
+      "description": "Today, Dec. 16, 2025, Pfizer's shrinking COVID cash flows could mean little growth next year as M&A bets will take time to deliver.",
+      "published_utc": "2025-12-16T18:03:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c9796abd71cdb84504ea07bde9c430766b017d06e13c0c8755cc60745cfbb2e8",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137806038,
+      "datetime": 1765926221
+    },
+    {
+      "title": "Stocks give up gain, Nasdaq drops led by Oracle: Live updates",
+      "description": "The S&P 500 and the Dow Industrials each booked a third consecutive losing session on Tuesday.",
+      "published_utc": "2025-12-16T13:04:28",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=f0faf42cebaf4dfa3c7b9de88672f9540dad03d4136332d143e65d9a8d6be474",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108228366-17635699152025-11-19t162534z_731137566_rc2pzhamtgbu_rtrmadp_0_usa-stocks.jpeg?v=1765986357&w=1920&h=1080",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137812219,
+      "datetime": 1765908268
+    },
+    {
+      "title": "Pharma M&A deal value up 31% YoY in 2025YTD amid return of mega-deals",
+      "description": "Large M&A transactions and bidding wars for Metsera and Avadel announced in H2 2025 reflect a need for large pharma companies to replenish pipelines through M&A ahead of looming patent cliffs.",
+      "published_utc": "2025-12-16T13:01:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=88e1f2697af7376f8d72c454a340650825068bf11ea9693bf371bc1d064e3e69",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137806039,
+      "datetime": 1765908089
+    },
+    {
+      "title": "Dow falls nearly 250 points on losses in shares of UnitedHealth, Johnson & Johnson",
+      "description": "Dow falls nearly 250 points on losses in shares of UnitedHealth, Johnson & Johnson",
+      "published_utc": "2025-12-16T10:31:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=440e803a6d0a5edb00a6ab503fe110690aa20d96a8b104bcd24b94a49e488d95",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137858134,
+      "datetime": 1765899060
+    },
+    {
+      "title": "3 Healthcare Giants Just Raised Dividends—Here’s Who Pays the Most",
+      "description": "Healthcare behemoths, including the biggest name of them all, are increasing their dividends. Additionally, AMGN's dividend yield now sits solidly above 3%.",
+      "published_utc": "2025-12-16T09:17:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=9cd8737da98198d4adb0874e5e3ba292854fd719e179fe9cc6fa12f9c11a0030",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JNJ"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137816785,
+      "datetime": 1765894620
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:45:29.128694+00:00",
+    "cache_key": "news_ffbf431085a4d63a2fd28acdb5564f0d",
+    "count": 5
+  }
+}

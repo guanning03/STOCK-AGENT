@@ -1,0 +1,55 @@
+{
+  "items": [
+    {
+      "id": "6fac6d04520ece5a0331ee21481261f6dfce97b50f2fb9b5b1b6646de36b3628",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "US, Russia Begin Ukrainian Peace Talks, Intel Shares Surge: What's Driving Markets Tuesday?",
+      "author": "Erica Kollmann",
+      "published_utc": "2025-02-18T17:47:12Z",
+      "article_url": "https://www.benzinga.com/25/02/43791431/whats-driving-markets-tuesday",
+      "tickers": [
+        "SPY",
+        "AVGO",
+        "INTC",
+        "TSM"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/02/18/New-York-City---May-1-The-New-York-Stock.jpeg?width=1200&height=800&fit=crop",
+      "description": "US and Russia begin peace talks on the Ukraine war, raising hopes for reduced geopolitical risks. Intel shares surge on reports of potential bids from Broadcom and TSMC.",
+      "keywords": [
+        "Ukraine",
+        "Russia",
+        "Intel",
+        "Broadcom",
+        "TSMC",
+        "geopolitical risks"
+      ],
+      "insights": [
+        {
+          "ticker": "SPY",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The S&P 500 index is little changed, indicating a neutral market sentiment."
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Broadcom is reportedly considering a bid for parts of Intel, indicating a positive sentiment towards the company."
+        },
+        {
+          "ticker": "INTC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Intel shares surged on reports of potential bids from Broadcom and TSMC, suggesting a positive sentiment towards the company."
+        },
+        {
+          "ticker": "TSM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "TSMC is reportedly considering a bid for parts of Intel, indicating a positive sentiment towards the company."
+        }
+      ]
+    }
+  ]
+}

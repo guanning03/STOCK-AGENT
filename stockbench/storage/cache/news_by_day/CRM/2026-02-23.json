@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures edge up after AI-fueled sell-off as new Trump tariff kicks in",
+      "description": "Tariff insecurity and AI disruption are the flavors of the week as a sharp sell-off kick-started the final week of February",
+      "published_utc": "2026-02-23T18:40:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=dce46ea1c5d1e7fe165cbb95b4cadac9f65a425916d622d36022fba02c1db259",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139193248,
+      "datetime": 1771890004
+    },
+    {
+      "title": "Stock Market Today, Feb. 23: Nvidia Earnings Loom as Tariff Concerns Drive Dow 800 Points Lower",
+      "description": "AI jitters, tariff shock, and looming Nvidia results have investors fleeing growth for perceived safety, today, Feb. 23, 2026.",
+      "published_utc": "2026-02-23T17:31:55",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ba8070610858ab3a8f211085a882dbfd79b64fee552fb6198f8fbcb9f815e6eb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139188619,
+      "datetime": 1771885915
+    },
+    {
+      "title": "Adobe Looks Like A Value Trap",
+      "description": "",
+      "published_utc": "2026-02-23T17:30:17",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7ed3cd2f06e3b37f7d3123292785c7edcf34e8d59e6398bba16bd7ca4dd47c5f",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139190093,
+      "datetime": 1771885817
+    },
+    {
+      "title": "As Wall Street punishes software stocks over AI concerns, Canva gets more acquisitive",
+      "description": "Cavalry offers motion graphics tools for designers, while MangoAI could help Canva provide tools for making new video ads.",
+      "published_utc": "2026-02-23T17:01:01",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=69850b4c5f38608fe756bfe5d9a3b4744437403defc4d1508d9042e0921e099d",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108268860-1771891959703-Handout_Canva_MagicAI_2.png?v=1771901989&w=1920&h=1080",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139197961,
+      "datetime": 1771884061
+    },
+    {
+      "title": "Earnings live: Hims & Hers stock slides, Domino's rises as investors await crucial update from Nvidia",
+      "description": "The S&P 500 was on track for double-digit earnings growth, with more than half of companies having reported Q4 results so far.",
+      "published_utc": "2026-02-23T16:59:05",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=bb898e471c15ea4c6cd696a6e8e3730411424d23b5f3aa3b6929fdbe581ac117",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139187898,
+      "datetime": 1771883945
+    }
+  ]
+}

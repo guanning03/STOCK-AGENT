@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Does IBM’s Major $11 Billion Deal for Confluent Make Its Stock a Buy, Sell, or Hold?",
+      "description": "The data streaming platform's shares soared 29% following the announcement of the deal.",
+      "published_utc": "2025-12-10T12:08:30",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d7b37f6fd20b5ec63cee9ba6a642f8ea1cde9625babd84537a334da3dc365ae6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137749751,
+      "datetime": 1765386510
+    },
+    {
+      "title": "ANET vs. IBM: Which Hybrid Cloud Stock is the Better Buy for 2026?",
+      "description": "IBM edges out Arista as the better hybrid cloud pick for 2026, thanks to valuation appeal and multi-cloud momentum.",
+      "published_utc": "2025-12-10T09:19:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2c99a78d4eb285e98da57aeae515bb3f2802921a18174455de02193ea994db55",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137750020,
+      "datetime": 1765376340
+    },
+    {
+      "title": "How Quantum Computing Could Put IBM Back on Top Again",
+      "description": "Big Blue has been working on the next-gen technology for decades, and now has major breakthroughs in its sights. We get a look behind the scenes.",
+      "published_utc": "2025-12-10T09:13:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=061541a33f20ea7d10a5fd455329a6403318aecebd88a29e9c2d9b7b42d1a3f4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137750021,
+      "datetime": 1765375980
+    },
+    {
+      "title": "BQP CEO Abhishek Chopra Honored with Venture Deal of the Year at 2025 Upstate Capital Awards",
+      "description": "Abhishek Chopra, Founder and CEO of BQP (formerly BosonQ Psi), has been awarded 'Venture Deal of the Year' at the 2025 Upstate Capital Awards Night, recognizing the company's strategic funding round and contributions to establishing Syracuse as a quantum innovation hub.",
+      "published_utc": "2025-12-10T08:39:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=24a5466117de93280c5345f5b816b1884ecbcda0b559d3a4539636f55f2b7c60",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137750022,
+      "datetime": 1765373940
+    },
+    {
+      "title": "IBM, Toast, AppLovin And An Industrial Stock On CNBC's 'Final Trades'",
+      "description": "Stephanie Link loves IBM&#39;s acquisition of Confluent for $11B, Joshua Brown picked Toast, JP Morgan upgraded Toast, Brian Belski chose TopBuild, and Joseph M. Terranova has high hopes for AppLovin&#39;s all-time high.",
+      "published_utc": "2025-12-10T03:51:52",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=e83faa932c3d6c76a724aa3eedb35f01ace99793f9c67ecfa9dfcdd55bad56cd",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/12/10/Side-View-Of-Concentrated-Crypto-Trader-.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138482353,
+      "datetime": 1765356712
+    }
+  ]
+}

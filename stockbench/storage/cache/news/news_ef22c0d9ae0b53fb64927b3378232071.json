@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Jim Cramer on Home Depot: “I Would Buy More”",
+      "description": "The Home Depot, Inc. (NYSE:HD) is one of the stocks Jim Cramer shared his take on. Noting that the stock is down despite Fed rate cuts, a caller inquired if they should add to their position, sell, or hold. Cramer stated: “Yes, I would buy more. It’s a big position for my Charitable Trust. Why […]",
+      "published_utc": "2025-12-28T11:16:17",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=43228e119cc013da174a57cf51c137ee049e2d0d0ba647d49d68f1c4abba3a25",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137930969,
+      "datetime": 1766938577
+    },
+    {
+      "title": "How I'm Betting Big On A High-Growth, High-Inflation World",
+      "description": "Will inflation stay high? Read more on how investors should position a portfolio in 2026.",
+      "published_utc": "2025-12-28T02:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=2a44ec1e11df81e05112a6947940605e08b04c68c13775a392a58990d6a5d63e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2207362066/image_2207362066.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137921956,
+      "datetime": 1766907000
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T09:13:54.648973+00:00",
+    "cache_key": "news_ef22c0d9ae0b53fb64927b3378232071",
+    "count": 2
+  }
+}

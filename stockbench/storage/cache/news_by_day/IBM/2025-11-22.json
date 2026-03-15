@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "title": "Quantum Computing Stocks: How the Quantum Computing Players Stack Up by Patents (Yes, Nvidia Has Such Patents)",
+      "description": "IBM, Alphabet, and Microsoft (in that order) had the most U.S. quantum computing patents awarded in 2024.",
+      "published_utc": "2025-11-22T12:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5b81af29d428361512ac40bc8c77c2e3814a8f4dc18cda67294dfb52d5d28801",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137578601,
+      "datetime": 1763830800
+    },
+    {
+      "title": "Is Now the Right Time to Reassess IBM’s Value After AI Partnership Announcements?",
+      "description": "Wondering if International Business Machines (IBM) stock is still a smart buy? You are not alone. The company has a reputation as a tech giant and a history of innovation. IBM’s stock has surged an impressive 35.2% year-to-date and a remarkable 208.0% over the last five years. However, it has seen a slight pullback of 2.7% in the past week. Investor enthusiasm has grown recently following announcements about IBM’s expanding AI partnerships and its strategic moves in cloud computing and...",
+      "published_utc": "2025-11-22T11:09:57",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cf3157f665dc39734c78631a32a5ecb58dcbdb2b1585285e158e0c533f94b137",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137578847,
+      "datetime": 1763827797
+    },
+    {
+      "title": "Jim Cramer Highlights International Business Machines As One of the Profitable Companies With Quantum Computing",
+      "description": "International Business Machines Corporation (NYSE:IBM) is one of the stocks on Jim Cramer’s radar recently. Cramer had some positive things to say about the company’s quantum computing solutions. The Mad Money host remarked: “Now, I know that many of you can’t resist the quantum computing stocks even after they sold off hard over the past […]",
+      "published_utc": "2025-11-22T02:29:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2cb5799e94b236e5ad8ce7ca89ee67f37c12d7bf4fbb6237a1c785b7d51e1793",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137578685,
+      "datetime": 1763796589
+    }
+  ]
+}

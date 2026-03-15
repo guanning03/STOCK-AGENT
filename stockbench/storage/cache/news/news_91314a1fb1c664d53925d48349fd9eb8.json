@@ -1,0 +1,89 @@
+{
+  "items": [
+    {
+      "id": "f7f1644d39a93d633f902dd75b85878f467d2ba3eb9059e1ca8c7bec31b43f69",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "1 Top Cryptocurrency to Buy Right Now (Hint: It's Not Bitcoin)",
+      "author": "Dominic Basulto",
+      "published_utc": "2025-01-22T09:31:00Z",
+      "article_url": "https://www.fool.com/investing/2025/01/22/1-top-cryptocurrency-to-buy-right-now-hint-its-not/?source=iedfolrf0000001",
+      "tickers": [
+        "GSOL",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/804560/gettyimages-1530017962.jpg",
+      "description": "Solana has emerged as a premier challenger to Ethereum, with faster speeds, lower costs, and a thriving ecosystem. The potential launch of Solana ETFs and its mobile crypto strategy could drive significant growth, making it a cryptocurrency to buy right now.",
+      "keywords": [
+        "Solana",
+        "Ethereum",
+        "Cryptocurrency",
+        "ETFs",
+        "Mobile crypto"
+      ],
+      "insights": [
+        {
+          "ticker": "GSOL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights several catalysts that could drive significant growth for Solana, including its position as a challenger to Ethereum, the potential launch of Solana ETFs, and its mobile crypto strategy. The article suggests that Solana could be worth significantly more than its current $125 billion valuation if these factors play out."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase recently suggested that as much as $6 billion of new investor money could flow into Solana ETFs, but this is presented as a neutral fact rather than a positive or negative sentiment."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase recently suggested that as much as $6 billion of new investor money could flow into Solana ETFs, but this is presented as a neutral fact rather than a positive or negative sentiment."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase recently suggested that as much as $6 billion of new investor money could flow into Solana ETFs, but this is presented as a neutral fact rather than a positive or negative sentiment."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase recently suggested that as much as $6 billion of new investor money could flow into Solana ETFs, but this is presented as a neutral fact rather than a positive or negative sentiment."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase recently suggested that as much as $6 billion of new investor money could flow into Solana ETFs, but this is presented as a neutral fact rather than a positive or negative sentiment."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase recently suggested that as much as $6 billion of new investor money could flow into Solana ETFs, but this is presented as a neutral fact rather than a positive or negative sentiment."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase recently suggested that as much as $6 billion of new investor money could flow into Solana ETFs, but this is presented as a neutral fact rather than a positive or negative sentiment."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that JPMorgan Chase recently suggested that as much as $6 billion of new investor money could flow into Solana ETFs, but this is presented as a neutral fact rather than a positive or negative sentiment."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T21:10:28.052333+00:00",
+    "cache_key": "news_91314a1fb1c664d53925d48349fd9eb8",
+    "count": 1
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "items": [
+    {
+      "title": "5 Insightful Analyst Questions From Amgen’s Q2 Earnings Call",
+      "description": "Amgen’s second quarter results outpaced Wall Street’s expectations, with management emphasizing strong demand for its portfolio and notable volume growth, particularly in general medicine, rare diseases, and oncology. CEO Robert Bradway highlighted that 15 products achieved double-digit sales growth, attributing momentum to broad-based execution and continued expansion in both established and emerging therapeutic areas. However, despite these operational highlights, management acknowledged the o",
+      "published_utc": "2025-08-12T23:59:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=608df5bb49678c3692311fca7ecf98451b9712f6bc1593da7861b971ed77aaf4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136328394,
+      "datetime": 1755057548
+    },
+    {
+      "title": "AMGN Q2 Deep Dive: Volume Growth, Pipeline Progress, and Guidance Raise Meet Investor Skepticism",
+      "description": "Biotech company Amgen (NASDAQ:AMGN) beat Wall Street’s revenue expectations in Q2 CY2025, with sales up 9.4% year on year to $9.18 billion. The company’s full-year revenue guidance of $35.5 billion at the midpoint came in 0.5% above analysts’ estimates. Its non-GAAP profit of $6.02 per share was 14.1% above analysts’ consensus estimates.",
+      "published_utc": "2025-08-12T23:43:39",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5ff4ced6c820f72acbd33083d5af4b407adabc123186c90542c1a490f56e9772",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136328395,
+      "datetime": 1755056619
+    },
+    {
+      "title": "Vertex Pharmaceuticals: The Stock Hasn't Dropped Enough Yet",
+      "description": "Read the latest analysis on Vertex stock and its recent earnings report here.",
+      "published_utc": "2025-08-12T10:34:19",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=457a1ccd7b4be1b5d342bea5428a17588b135225edd16dc75e6355592dcbb4c3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2148319783/image_2148319783.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136321094,
+      "datetime": 1755009259
+    },
+    {
+      "id": "de67d560b59a2a509ac1a83718f45b92c485c1c22695c39ceab13c02cac223e3",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Ligand Announces Pricing of $400 Million Convertible Senior Notes Offering",
+      "author": "Ligand Pharmaceuticals",
+      "published_utc": "2025-08-12T03:46:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/08/12/3131390/0/en/Ligand-Announces-Pricing-of-400-Million-Convertible-Senior-Notes-Offering.html",
+      "tickers": [
+        "LGND",
+        "AMGN",
+        "MRK",
+        "PFE"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/1fe91aa2-494e-4b30-89e8-cad771bbaabf",
+      "description": "Ligand Pharmaceuticals plans to issue $400 million in convertible senior notes due in 2030, with an option to increase the offering by $60 million. The notes will have a 0.75% interest rate and can be converted into common stock under certain conditions.",
+      "keywords": [
+        "convertible notes",
+        "financing",
+        "stock offering",
+        "pharmaceutical",
+        "investment"
+      ],
+      "insights": [
+        {
+          "ticker": "LGND",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The company is raising capital through a standard convertible notes offering, which suggests financial strategy and potential growth without indicating significant positive or negative market implications"
+        },
+        {
+          "ticker": "AMGN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a partner, with no specific context suggesting positive or negative impact"
+        },
+        {
+          "ticker": "MRK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a partner, with no specific context suggesting positive or negative impact"
+        },
+        {
+          "ticker": "PFE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a partner, with no specific context suggesting positive or negative impact"
+        }
+      ]
+    },
+    {
+      "title": "Puerto Rico’s ongoing journey from manufacturing hub to innovation enterprise",
+      "description": "Biotechs are coming to the island as tariffs threaten overseas drug exports, and finding Puerto Rico is more than just a leading manufacturing hub.",
+      "published_utc": "2025-08-12T02:57:38",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=18e0825ddcf3a73b36aaf4db3edfe28c1dc6e27844d9a3c8b70ef5ce0c7c83b0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136315977,
+      "datetime": 1754981858
+    }
+  ]
+}

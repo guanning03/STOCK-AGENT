@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "US Equity Markets Mixed as Bank Earnings Shine, US Government Shutdown Drags On",
+      "description": "US equity indexes were mixed on Wednesday as major banks reported strong earnings, while the US gove",
+      "published_utc": "2025-10-15T16:23:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=72fc3bfeaa2abc1769047f62fc077979f3e416c7553b95ccc735e46001db0f94",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137101966,
+      "datetime": 1760559817
+    },
+    {
+      "title": "Procter & Gamble Co. stock underperforms Wednesday when compared to competitors",
+      "description": "Procter & Gamble Co. stock underperforms Wednesday when compared to competitors",
+      "published_utc": "2025-10-15T12:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=ccfdfb2b0a0cab8593c621e8f4e033b7e09cfde88d44a11333b784a338008127",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137108594,
+      "datetime": 1760545920
+    },
+    {
+      "title": "Looking At Procter & Gamble's Recent Unusual Options Activity",
+      "description": "",
+      "published_utc": "2025-10-15T10:01:45",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=80e73a8a6ee7f08746670c65efc888ba96c7f0c42c97efcbaf6aae1813542918",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138973841,
+      "datetime": 1760536905
+    },
+    {
+      "title": "Charmin Just Dropped Its Biggest Roll Yet Nationwide – 1,700 Sheets and Lasts Up to One Month 2",
+      "description": "CINCINNATI, October 15, 2025--Bathroom-goers everywhere know that moment of pure dread that comes with an empty toilet paper roll. In fact, 82% of people even say it’s one of the most frustrating bathroom scenarios1. But fear not weary wipers, Charmin is here to flush that problem away... forever.",
+      "published_utc": "2025-10-15T10:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6ea118ed5f4cb4466befdd14b35711ac6adef140a25e7c3e7c82cdfc7bed0818",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137093957,
+      "datetime": 1760536800
+    },
+    {
+      "title": "Herbal Essences Unveils \"Scent Traps\" Campaign Featuring Amaya Espinal: Turning Scent Into the Ultimate Dating Hack",
+      "description": "CINCINNATI, October 15, 2025--Get ready to turn heads and spark memories! Herbal Essences is excited to introduce its latest campaign, \"Scent Traps,\" starring the charismatic Amaya Espinal from Love Island. Inspired by that feeling of wanting to stay on your crush’s mind, this innovative campaign highlights the enchanting power of scent—showing that what lingers in your hair can linger in someone’s heart. With the iconic fragrance of Herbal Essences, you can use the power of scent to stir up mem",
+      "published_utc": "2025-10-15T09:40:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1052f3a6ba85e2545c559ed55dba67f29243577ebb2546bd29c429d36bb3e4da",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137093958,
+      "datetime": 1760535600
+    }
+  ]
+}

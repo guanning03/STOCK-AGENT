@@ -1,6 +1,36 @@
 {
   "items": [
     {
+      "title": "Dividend Kings Of The Future Continued",
+      "description": "Discover 8 companies on track to become Dividend Kings with yields from 0.80%-4.5% & average 10-year growth of 8.6%. Click here to read the picks.",
+      "published_utc": "2025-03-19T10:15:37",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0626d7151c3616faa3800e17120ce2f387b42e75b12184d34805a9072bc7f838",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1202614610/image_1202614610.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133258730,
+      "datetime": 1742393737
+    },
+    {
+      "title": "Q4 Earnings Outperformers: Armstrong World (NYSE:AWI) And The Rest Of The Building Materials Stocks",
+      "description": "Wrapping up Q4 earnings, we look at the numbers and key takeaways for the building materials stocks, including Armstrong World (NYSE:AWI) and its peers.",
+      "published_utc": "2025-03-19T05:07:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=149039c0851ce34c6c3684d9f2d0774768a7faa973871bbaa9376261ad2be56b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SHW"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133325834,
+      "datetime": 1742375249
+    },
+    {
       "title": "Sherwin-Williams Co. stock underperforms Tuesday when compared to competitors",
       "description": "Sherwin-Williams Co. stock underperforms Tuesday when compared to competitors",
       "published_utc": "2025-03-19T00:40:00",

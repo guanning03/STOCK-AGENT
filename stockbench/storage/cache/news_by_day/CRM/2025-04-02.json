@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "title": "Oy Vey, My Worst Quarter In Years",
+      "description": "Q1 2025 was highly volatile, mainly due to high exposure to tech stocks. Click here to find out more about Portfolio Strategy.",
+      "published_utc": "2025-04-02T10:08:49",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=87c51ab8caa6dfa1403808930525670a38becfed2af3147635d92b9a6b35906b",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1402306256/image_1402306256.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133669150,
+      "datetime": 1743602929
+    },
+    {
+      "title": "Salesforce, Inc. (NYSE:CRM) Shares Could Be 35% Below Their Intrinsic Value Estimate",
+      "description": "Key Insights Using the 2 Stage Free Cash Flow to Equity, Salesforce fair value estimate is US$415 Salesforce is...",
+      "published_utc": "2025-04-02T07:00:45",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5bc5a109526d4f94d3d2b4c2f75581f659df25b12e1716353857232974ce4289",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133666113,
+      "datetime": 1743591645
+    },
+    {
+      "title": "TCW Relative Value Large Cap Fund Q4 2024 Commentary",
+      "description": "The Fed lowered rates by 25 bps at its December meeting but forecasted fewer cuts (two versus four) in 2025 due to inflation concerns. Read more here.",
+      "published_utc": "2025-04-02T05:52:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7bcd232a6d2fbaae424ef3abf40065a9310ba1661af00829ef549546cee155b4",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2182047027/image_2182047027.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133668391,
+      "datetime": 1743587520
+    },
+    {
       "title": "Salesforce (CRM): Among The Best US Stocks To Buy For Foreign Investors",
       "description": "We recently published a list of 10 Best US Stocks To Buy For Foreign Investors. In this article, we are going to take a look at where Salesforce, Inc. (NYSE:CRM) stands against other best American stocks to buy. In the coming week, the resilience of the US stock market will be challenged as President Trump’s […]",
       "published_utc": "2025-04-02T05:50:01",
@@ -14,6 +59,36 @@
       "api_source": "finnhub_company",
       "id": 133658216,
       "datetime": 1743544201
+    },
+    {
+      "title": "Salesforce: I Am Backing Up The Truck",
+      "description": "Salesforce drives CRM innovation with AI-powered tools like Agentforce, strong financial growth, and market leadership. Read more about CRM stock here.",
+      "published_utc": "2025-04-02T05:13:05",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=5cfda70206608a301a5d2c8c7241563a3076d6edd7a44baf8ec3bbd9fa762b27",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1169487862/image_1169487862.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133668302,
+      "datetime": 1743585185
+    },
+    {
+      "title": "TCW Concentrated Large Cap Growth Fund Q4 2024 Commentary",
+      "description": "TCW Concentrated Large Cap Growth Fund generated a net return of +5.78% during the fourth quarter, underperforming the Russell 1000 Growth Index return of +7.07%.",
+      "published_utc": "2025-04-02T02:47:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=e2e80e42333985d0561d016f452932996e5e71986eb3e409889e25440e2dffaf",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1367307622/image_1367307622.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133665387,
+      "datetime": 1743576420
     }
   ]
 }

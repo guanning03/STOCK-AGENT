@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "April's Prices Rose, But Inflation Cooled Overall",
+      "description": "After slight deflation in March, prices rose again in April. The Bureau of Labor Statistics (BLS) reports that the Consumer Price Index (CPI) increased 0.2 percent last month.",
+      "published_utc": "2025-05-13T16:45:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=68e993b804901bc8d50946147e6672c8ad7e40a6cfe24dbced266ecc3ac4cf25",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/499730392/image_499730392.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134427446,
+      "datetime": 1747169100
+    },
+    {
+      "title": "A Welcome Trade Policy U-Turn",
+      "description": "",
+      "published_utc": "2025-05-13T16:30:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=cf14f75ed689aea2faab3e20e4d3f27a91c6263d3cd81e62fe7f57ded871ec46",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134426320,
+      "datetime": 1747168200
+    },
+    {
+      "title": "April CPI Looking Good",
+      "description": "The ex-shelter version of the CPI has increased by 2.3% or less for the past 24 months (since May 2023), and it has averaged a mere 1.7% per year for almost two years.",
+      "published_utc": "2025-05-13T16:20:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=7e9e7b2cbe68657c08658f9c00ae104f02a51c525b0a2f19021ebad5c49275ae",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1341832130/image_1341832130.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134426399,
+      "datetime": 1747167600
+    },
+    {
+      "title": "Consumer Price Index: Inflation Cools To 2.3% In April, Lower Than Expected",
+      "description": "According to the Bureau of Labor Statistics, the headline figure for the Consumer Price Index was at 2.3% year-over-year, down from 2.4% in March and lower than the expected 2.4% growth.",
+      "published_utc": "2025-05-13T16:10:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=dc0ae65fb25e58bbd984ff78b5aaec163ab12a3a3234c34c98e78a44132a161a",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/499730392/image_499730392.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 134425350,
+      "datetime": 1747167000
+    },
+    {
+      "title": "CPI Undershoots But Core Inflation Stays Stubborn: JP Morgan",
+      "description": "U.S. inflation rose 2.3% annually in April, with shelter costs up and key goods like used cars and apparel posting monthly price declines.",
+      "published_utc": "2025-05-13T13:47:30",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=8e009604f3801169cd982d7804b7f7e89ae53fd31fe530fe894aea5b06650f9b",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/05/13/Frozen-American-Usd-Money-In-Ice-Cube-On.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138498250,
+      "datetime": 1747158450
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T23:48:23.438716+00:00",
+    "cache_key": "news_8fadac9eedd1017dd9ec302d130c39f9",
+    "count": 5
+  }
+}

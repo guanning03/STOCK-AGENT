@@ -1,0 +1,102 @@
+{
+  "items": [
+    {
+      "title": "Solstice Advanced Materials: Well Armed With Different Arrows In The Quiver",
+      "description": "Discover why Solstice Advanced Materials (SOLS) is outperforming peers: nuclear backlog, data center refrigerants, margin edge, valuation discount &...",
+      "published_utc": "2026-03-11T10:10:05",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9e17db2abc75bef7104455dad758b9b6bfe1f6cf44049f925b0b911605479df0",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1226809561/image_1226809561.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139381423,
+      "datetime": 1773238205
+    },
+    {
+      "title": "Reported Earlier, Honeywell Aerospace Prices $16B Multi-Tranche Senior Notes Offering Across Nine Maturities From 2028 To 2066 In Connection With Planned Spin-Off",
+      "description": "",
+      "published_utc": "2026-03-10T22:37:59",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=87135bf4e33139ecdbfc56e1495956ef634a1f97d7d1951119c8d4d08816197e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139378401,
+      "datetime": 1773196679
+    },
+    {
+      "title": "Deutsche Bank Sees Higher Value in Honeywell (HON), Raises Price Target",
+      "description": "Honeywell International Inc. (NASDAQ:HON) is included among the 14 Best American Dividend Stocks to Invest in. On March 4, Deutsche Bank raised its price recommendation on Honeywell International Inc. (NASDAQ:HON) to $292 from $273. It reiterated a Buy rating on the stock. The firm said the change reflects an updated sum-of-the-parts valuation for the company. […]",
+      "published_utc": "2026-03-10T21:17:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=23bf870c4bdc31993126c61a58f7eb075c597f9a3b4f3748d84e0609b2dc6ef9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139369229,
+      "datetime": 1773191829
+    },
+    {
+      "title": "HONEYWELL ANNOUNCES PRICING OF HONEYWELL AEROSPACE'S OFFERING OF SENIOR NOTES IN CONNECTION WITH PLANNED SPIN-OFF",
+      "description": "Honeywell (NASDAQ: HON) today announced that, in connection with the previously announced plan to spin-off (the \"Spin-Off\") Honeywell Aerospace Inc. (\"Aerospace\") from Honeywell, Aerospace has priced a private offering of $1,250,000,000 aggregate principal amount of 3.900% senior notes due 2028 (the \"2028 notes\"), $1,250,000,000 aggregate principal amount of 4.000% senior notes due 2029 (the \"2029 notes\"), $500,000,000 aggregate principal amount of floating rate senior notes due 2029 (the \"2029",
+      "published_utc": "2026-03-10T20:21:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b075d031b6370fc84ac20934d4ac19985a61b87415ba3c651374edc927164d4b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139369230,
+      "datetime": 1773188460
+    },
+    {
+      "id": "f0f89aad3925e1cc2682316e45949bacdcca67d9b1e86b9e5ed660465ddad446",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Interface Systems Strengthens Alarm Monitoring Against Cellular Jamming and Break-Ins",
+      "author": "Not Specified",
+      "published_utc": "2026-03-11T12:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2026/03/11/3253686/0/en/Interface-Systems-Strengthens-Alarm-Monitoring-Against-Cellular-Jamming-and-Break-Ins.html",
+      "tickers": [
+        "HON"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/b4faa525-4d10-47ff-bc4b-ca5e9eefa521",
+      "description": "Interface Systems announced the integration of JamAlert™ cellular jammer detection technology with its TamperShield™ alarm monitoring service. The combined solution detects criminal attempts to disable alarm systems using cellular interference before break-ins occur, providing early warning, continuous monitoring, video verification, and faster law enforcement response for retail, financial, and museum environments.",
+      "keywords": [
+        "alarm monitoring",
+        "cellular jammer detection",
+        "security systems",
+        "break-in prevention",
+        "video monitoring",
+        "managed security services"
+      ],
+      "insights": [
+        {
+          "ticker": "HON",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Honeywell is mentioned as compatible with the new solution but plays a passive role. The integration supports existing Honeywell systems without requiring replacement, which is neither particularly beneficial nor detrimental to the company."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T04:28:15.635069+00:00",
+    "cache_key": "news_2747e03b235de42046218b1d71738b4f",
+    "count": 5
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "items": [
+    {
+      "title": "Tracking Jeremy Grantham's GMO Capital Portfolio - Q4 2025 Update",
+      "description": "",
+      "published_utc": "2026-03-01T17:17:46",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=105cfa4f2c60233cfdbd389b225b15c00915b9ad94ece48b3e16c1469ab3f7b4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139273187,
+      "datetime": 1772403466
+    },
+    {
+      "id": "ec61c342a7b8babdf3e469370d061e4de5faaa27004d55c74e8cad4855a1e11d",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Warren Buffett Retires With a $187 Billion Warning to Investors. History Says the Stock Market Will Do This Next.",
+      "author": "Trevor Jennewine",
+      "published_utc": "2026-03-01T08:12:00Z",
+      "article_url": "https://www.fool.com/investing/2026/03/01/warren-buffett-warning-stock-market-do-this-next/?source=iedfolrf0000001",
+      "tickers": [
+        "GOOG",
+        "GOOGL",
+        "UNH",
+        "NYT",
+        "BRK.A",
+        "BRK.B"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F858209%2Fmarket-red-6.jpg&w=1200&op=resize",
+      "description": "Warren Buffett's retirement marks a significant warning to investors as Berkshire Hathaway has been a net seller of stocks for 13 consecutive quarters, totaling $187 billion in sales. With the S&P 500's CAPE ratio at 39.8 in February 2026—the highest since the dot-com crash—historical data suggests the index could decline by 30% over the next three years if valuations don't improve or earnings don't grow substantially.",
+      "keywords": [
+        "Warren Buffett retirement",
+        "stock market valuation",
+        "CAPE ratio",
+        "market correction",
+        "Berkshire Hathaway",
+        "net seller",
+        "S&P 500",
+        "investment warning"
+      ],
+      "insights": [
+        {
+          "ticker": "GOOG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire initiated a position in Alphabet despite the broader market concerns, suggesting selective confidence in this company despite overall market caution."
+        },
+        {
+          "ticker": "GOOGL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire initiated a position in Alphabet despite the broader market concerns, suggesting selective confidence in this company despite overall market caution."
+        },
+        {
+          "ticker": "UNH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire started a position in UnitedHealth Group, indicating selective investment despite the company's overall net-selling stance in the market."
+        },
+        {
+          "ticker": "NYT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Berkshire initiated a position in The New York Times, showing selective buying despite broader market valuation concerns."
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire has been a net seller of stocks for 13 straight quarters with $187 billion in sales, indicating management's concern about elevated market valuations and difficulty finding reasonably priced investments."
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Berkshire has been a net seller of stocks for 13 straight quarters with $187 billion in sales, indicating management's concern about elevated market valuations and difficulty finding reasonably priced investments."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:49:58.718009+00:00",
+    "cache_key": "news_4665dc6b91c602d6d6a2360b82c05159",
+    "count": 2
+  }
+}

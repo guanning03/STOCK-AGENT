@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Companies rush to issue emergency guidance after Trump launches H-1B visa fee",
+      "description": "Companies are rushing to ensure thousands of employees around the globe do not trigger hefty new immigration fees after Washington announced sweeping changes to the H-1B foreign worker visa.",
+      "published_utc": "2025-09-21T08:58:37",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7b76b2f972ad93e5e77f4654d9606fbc7d2ddd9abe854bac7b23895ef80df91e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136836388,
+      "datetime": 1758459517
+    },
+    {
+      "title": "Does Goldman Sachs' (GS) Latest Debt Issuance Reveal a Shift in Long-Term Capital Strategy?",
+      "description": "In the past week, Goldman Sachs Group announced a broad series of fixed-income offerings, including new callable senior notes and unsecured corporate bonds with maturities ranging from 2029 to 2045 and coupon rates between 4.02% and 5.55%. This flurry of capital market activity coincided with investment conferences and comes during a period of heightened optimism, reflecting the firm's ongoing focus on expanding its debt structure to support growth, liquidity, and long-term client...",
+      "published_utc": "2025-09-21T07:54:50",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=998dcc5c6fe9ede509e673bdb00fd387b6aab5228b8b5871cb5a974afb9dd2da",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "GS"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136836568,
+      "datetime": 1758455690
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T04:06:07.808490+00:00",
+    "cache_key": "news_9ca8e17390569d60418731506b62a0e7",
+    "count": 2
+  }
+}

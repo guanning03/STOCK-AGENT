@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "id": "ecc6bb23ecde995c04032ef445d77f679cbb7ca183e56f7d32c7bbbf99f5963e",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Does Warren Buffett Know Something Wall Street Doesn't? He Just Made a Shocking Move That Could Be a Warning for Investors.",
+      "author": "Adria Cimino",
+      "published_utc": "2025-02-16T17:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/02/16/does-warren-buffett-know-something-wall-street-doe/?source=iedfolrf0000001",
+      "tickers": [
+        "SPY",
+        "VOO",
+        "STZ"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/807883/buffett11-tmf.jpg",
+      "description": "Warren Buffett's recent move to sell his positions in S&P 500 index funds could be a warning sign for investors, as he may be anticipating a market correction. However, Buffett's long-term belief in the strength of American companies and the S&P 500 index suggests that this decision should not be interpreted as a reason to avoid these investments entirely.",
+      "keywords": [
+        "Warren Buffett",
+        "S&P 500",
+        "market correction",
+        "value investing"
+      ],
+      "insights": [
+        {
+          "ticker": "SPY",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Buffett closed out his position in this S&P 500 index fund, which could be a sign that he expects the market to decline in the near future."
+        },
+        {
+          "ticker": "VOO",
+          "sentiment": "negative",
+          "sentiment_reasoning": "Buffett also closed out his position in this S&P 500 index fund, suggesting he may be anticipating a market correction."
+        },
+        {
+          "ticker": "STZ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Buffett bought a new position in Constellation Brands, indicating he sees value in this individual stock."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T22:11:44.114547+00:00",
+    "cache_key": "news_03dcaec5ecd024f71fe3c5be6fe55314",
+    "count": 1
+  }
+}

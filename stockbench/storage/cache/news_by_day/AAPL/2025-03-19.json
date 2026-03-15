@@ -133,6 +133,51 @@
       ]
     },
     {
+      "title": "BlackRock Advantage Large Cap Core V.I. Fund Q4 2024 Commentary",
+      "description": "BlackRock Advantage Large Cap Core V.I. Fund posted a return of 1.83% (Class I shares) for the fourth quarter of 2024. Read more here.",
+      "published_utc": "2025-03-19T17:48:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=88b9e83ec40291e85d337a6332101fd723b5ce7094d35e318fc3c558596d127e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1479375885/image_1479375885.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133263515,
+      "datetime": 1742420880
+    },
+    {
+      "title": "BlackRock Global Dividend Fund Q4 2024 Commentary",
+      "description": "BlackRock Global Dividend Fund posted returns of -4.66% (Institutional shares) and -4.64% (Investor A shares, without sales charge) for the fourth quarter of 2024.",
+      "published_utc": "2025-03-19T17:21:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=fe11fccefad920397ae12f7f4e4eda84c9f64cb98b126478d861edcec76868c3",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/96502248/image_96502248.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133263378,
+      "datetime": 1742419260
+    },
+    {
+      "title": "Congo conflict is double trouble for global tin market: Andy Home",
+      "description": "Alphamin Resources'decision to suspend operations at the Bisie tin mine in theDemocratic Republic of Congo underscores the fragility of tin'sglobal supply chain. Just as one of the...",
+      "published_utc": "2025-03-19T17:00:00",
+      "source": "Finnhub",
+      "url": "https://finnhub.io/api/news?id=8cc78431db457b9aea1b7460d84f2592165a5f83794e4b52a1245d6f2caa94b3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133263281,
+      "datetime": 1742418000
+    },
+    {
       "id": "9fd46739bd749a95ebdb435c7398fbb010379f94a4d967f5175b71bdf27a4e2b",
       "publisher": {
         "name": "The Motley Fool",
@@ -199,6 +244,36 @@
           "sentiment_reasoning": "The article mentions Microsoft as one of the largest holdings in the Vanguard S&P 500 ETF, but does not provide any specific commentary on the company."
         }
       ]
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Jumps On Subtle Fed Policy Shift; Dow Up 383 Points, Aims To Retake Key Chart Level (Live Coverage)",
+      "description": "Stock Market Today: Nasdaq Jumps On Subtle Fed Policy Shift; Dow Up 383 Points, Aims To Retake Key Chart Level (Live Coverage)",
+      "published_utc": "2025-03-19T12:39:33",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=e270d327e3cab83cfcf33a848c7162cbf52f74e3bf5fd1bdfb3f2ab0831576eb",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133264238,
+      "datetime": 1742402373
+    },
+    {
+      "title": "Shares of technology companies are trading higher in sympathy with overall market sentiment after the Fed policy decision to keep rates unchanged.",
+      "description": "AVDX, FORTY, GFS, RGTI, SWKSAVDX, FORTY, GFS, RGTI, SWKS",
+      "published_utc": "2025-03-19T10:36:58",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=88762f98e641740ee6537102363a792e657448e6ab11b5af3541a164d54ffaca",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138417705,
+      "datetime": 1742395018
     },
     {
       "id": "134a792c940c6ad89e23a9940c66ed4e92bf0f4b06f5ecca75ff8be9d90c7155",

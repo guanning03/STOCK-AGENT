@@ -1,21 +1,6 @@
 {
   "items": [
     {
-      "title": "NVIDIA Corp., Goldman Sachs share losses contribute to Dow's 112-point drop",
-      "description": "NVIDIA Corp., Goldman Sachs share losses contribute to Dow's 112-point drop",
-      "published_utc": "2025-02-25T18:21:00",
-      "source": "MarketWatch",
-      "url": "https://finnhub.io/api/news?id=5d8df69001a368cc7564e41276706e3c6f14d30e3f24dff7a91759150b66c268",
-      "category": "company",
-      "image": "",
-      "related_symbols": [
-        "CRM"
-      ],
-      "api_source": "finnhub_company",
-      "id": 132881259,
-      "datetime": 1740478860
-    },
-    {
       "id": "f477999fdc1b825b666e9e4a53fd05b369382b2544645f659cd1313099761e09",
       "publisher": {
         "name": "GlobeNewswire Inc.",
@@ -148,8 +133,8 @@
     }
   ],
   "metadata": {
-    "cached_at": "2025-09-25T11:11:42.736133+00:00",
+    "cached_at": "2026-03-13T22:24:25.189670+00:00",
     "cache_key": "news_53e0881967712b954dc19ea916b0cd52",
-    "count": 3
+    "count": 2
   }
 }

@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "These 2 Finance Stocks Could Beat Earnings: Why They Should Be on Your Radar",
+      "description": "Investors looking for ways to find stocks that are set to beat quarterly earnings estimates should check out the Zacks Earnings ESP.",
+      "published_utc": "2025-09-23T09:00:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=6ed287011602287ff15b4074546bc3627b9f6d13130d8ee9dfb91f0118208385",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136851341,
+      "datetime": 1758632402
+    },
+    {
+      "title": "Cyber Threats Remain a Top Business Concern in Travelers Risk Index",
+      "description": "HARTFORD, Conn., September 23, 2025--The Travelers Companies, Inc. (NYSE: TRV) today released the results of its 2025 Travelers Risk Index, with survey participants from large- and medium-sized companies ranking cyber threats as the top overall business concern. The survey also indicated that, compared with last year, a much smaller percentage of respondents believe that the current business environment is becoming more risky.",
+      "published_utc": "2025-09-23T09:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=015a73df598253229f862939e0aa7615cee11dcf91597921b58085346eaf159d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136851342,
+      "datetime": 1758632400
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T04:17:28.469902+00:00",
+    "cache_key": "news_4398af99c7f2f6276157e81d1e984265",
+    "count": 2
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "items": [
+    {
+      "title": "Are online pharmacies cheaper than your local drugstore? How to decide what’s best for your healthcare — and your wallet.",
+      "description": "Are online pharmacies cheaper than your local drugstore? How to decide what’s best for your healthcare — and your wallet.",
+      "published_utc": "2025-10-15T12:03:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=635d72935f9bad89709cd79cdd60f27087715588e53690e43c73b238c5d50e84",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137108125,
+      "datetime": 1760544180
+    },
+    {
+      "title": "UnitedHealth: Headwinds Overshadow Low Multiples",
+      "description": "Medicare Advantage declines may limit UnitedHealth's market and profit growth. Read more about UNH stock and discover why its low valuation is justified.",
+      "published_utc": "2025-10-15T10:43:05",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=96ed7117929998f3057c845184c4b7c8c4b4c1551f5de74565f10a8ec8e2a92f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2164256964/image_2164256964.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "UNH"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137095344,
+      "datetime": 1760539385
+    },
+    {
+      "id": "f8a93fd14db53b30f54ec84096a52f5c5e29c8fee6f054107279875e7fd484bb",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Davenport & Company Buys Another $47 Million Worth of UnitedHealth Group (NYSE: UNH) Stock",
+      "author": "Josh Kohn-Lindquist",
+      "published_utc": "2025-10-15T18:34:54Z",
+      "article_url": "https://www.fool.com/coverage/filings/2025/10/15/davenport-and-company-buys-another-usd47-million-worth-of-united-healthcare-nyse-unh-stock/?source=iedfolrf0000001",
+      "tickers": [
+        "UNH",
+        "BRK.A",
+        "BRK.B",
+        "BN",
+        "BNH",
+        "BNJ",
+        "MSFT"
+      ],
+      "image_url": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/3945ae2b0ba0a7f6f92694b2cd89bcffa40cc180-600x400.jpg?w=600&h=400",
+      "description": "Davenport & Company purchased 155,551 shares of UnitedHealth Group in Q3 2025, valued at approximately $47.04 million, increasing its total holdings to 739,525 shares despite recent stock challenges.",
+      "keywords": [
+        "healthcare",
+        "stock purchase",
+        "investment",
+        "insurance"
+      ],
+      "insights": [
+        {
+          "ticker": "UNH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Stock has experienced significant decline (40.6% drop), facing medical cost challenges and regulatory pressures, but still considered a dominant health insurer with attractive valuation metrics"
+        },
+        {
+          "ticker": "BRK.A",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Recently invested $1.6 billion in UnitedHealth Group, signaling confidence in the company's long-term potential"
+        },
+        {
+          "ticker": "BRK.B",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Recently invested $1.6 billion in UnitedHealth Group, signaling confidence in the company's long-term potential"
+        },
+        {
+          "ticker": "BN",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as Davenport's top holding, with no specific performance details provided"
+        },
+        {
+          "ticker": "BNH",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as Davenport's top holding, with no specific performance details provided"
+        },
+        {
+          "ticker": "BNJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as Davenport's top holding, with no specific performance details provided"
+        },
+        {
+          "ticker": "MSFT",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed as one of Davenport's top holdings with no specific performance context"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T05:25:31.484739+00:00",
+    "cache_key": "news_af3de75b721c702eedaad91865acf004",
+    "count": 3
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "items": [
+    {
+      "title": "Procter & Gamble Company (The) (PG) Is a Trending Stock: Facts to Know Before Betting on It",
+      "description": "P&G (PG) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+      "published_utc": "2025-03-26T09:00:10",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f9e7db147f797390b361306d3785fcf16280968c5285cb438a97f7ddb0267d88",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133457201,
+      "datetime": 1742994010
+    },
+    {
+      "title": "Chevron, McDonald's share gains contribute to Dow's 118-point jump",
+      "description": "Chevron, McDonald's share gains contribute to Dow's 118-point jump",
+      "published_utc": "2025-03-26T07:18:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=5dc775908e4183e81d2ef577dbfde84a64b6fce93c1704e497f60bc002ac4b94",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "PG"
+      ],
+      "api_source": "finnhub_company",
+      "id": 133463167,
+      "datetime": 1742987880
+    },
+    {
+      "id": "ff45a5153d5cf98a7ab7e57e26b931bbd18a5622f0d687aeb2ef29231b29c84a",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Could Investing $10,000 in SoundHound AI Stock Make You a Millionaire?",
+      "author": "Keithen Drury",
+      "published_utc": "2025-03-26T11:45:00Z",
+      "article_url": "https://www.fool.com/investing/2025/03/26/could-investing-10000-in-soundhound-ai-stock-make/?source=iedfolrf0000001",
+      "tickers": [
+        "SOUN",
+        "SOUNW",
+        "NVDA",
+        "NFLX",
+        "COST",
+        "PG",
+        "CRM",
+        "ADBE"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/809567/three-people-debating-on-stock-data-information.jpg",
+      "description": "SoundHound AI, an AI company focused on audio inputs, has seen its stock price drop 60% from its all-time high. While it may not turn a $10,000 investment into $1 million, the company's impressive revenue growth and large backlog suggest it could still be a successful investment if it continues its growth trajectory.",
+      "keywords": [
+        "SoundHound AI",
+        "AI",
+        "audio inputs",
+        "revenue growth",
+        "backlog"
+      ],
+      "insights": [
+        {
+          "ticker": "SOUN",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights SoundHound AI's impressive revenue growth, large backlog of contracts, and potential for continued success, despite the stock price drop. The author believes the company could still be a successful investment if it maintains its growth trajectory."
+        },
+        {
+          "ticker": "SOUNW",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article highlights SoundHound AI's impressive revenue growth, large backlog of contracts, and potential for continued success, despite the stock price drop. The author believes the company could still be a successful investment if it maintains its growth trajectory."
+        },
+        {
+          "ticker": "NVDA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article mentions that Nvidia purchased a stake in SoundHound AI, which helped the stock gain fame, but later sold its entire stake, which contributed to the stock's downfall."
+        },
+        {
+          "ticker": "NFLX",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article uses Netflix as an example of a $400 billion company, which is the size SoundHound AI would need to reach to turn a $10,000 investment into $1 million, a task the author considers difficult."
+        },
+        {
+          "ticker": "COST",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article uses Costco as an example of a $400 billion company, which is the size SoundHound AI would need to reach to turn a $10,000 investment into $1 million, a task the author considers difficult."
+        },
+        {
+          "ticker": "PG",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article uses Procter & Gamble as an example of a $400 billion company, which is the size SoundHound AI would need to reach to turn a $10,000 investment into $1 million, a task the author considers difficult."
+        },
+        {
+          "ticker": "CRM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article uses Salesforce as an example of a software company that has not yet reached the $400 billion market cap threshold, which is the size SoundHound AI would need to reach to turn a $10,000 investment into $1 million, a task the author considers difficult."
+        },
+        {
+          "ticker": "ADBE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article uses Adobe as an example of a software company that has not yet reached the $400 billion market cap threshold, which is the size SoundHound AI would need to reach to turn a $10,000 investment into $1 million, a task the author considers difficult."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T22:59:20.473796+00:00",
+    "cache_key": "news_28ad861ae1182e7547c2b63493de2882",
+    "count": 3
+  }
+}

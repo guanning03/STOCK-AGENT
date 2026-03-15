@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Stock Market Today: Dow Slips Back Below 49K; Trump Takes On Defense Firms (Live Coverage)",
+      "description": "The Dow Jones index dipped in mixed trade Wednesday after surprise jobs data. Bitcoin stock Strategy jumped.",
+      "published_utc": "2026-01-07T17:12:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=00d24019bb03f34368b23194b5fc40d1aebfe34ff3a9cb9bd6853ed1cbffe1fa",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138032848,
+      "datetime": 1767823943
+    },
+    {
+      "title": "S&P 500, Dow Jones Slid From Peaks Amid Sell-Off in Old Economy Sectors, Mounting Geopolitical Crisis",
+      "description": "US equity indexes closed mixed on Wednesday, with the S&P 500 and the Dow Jones Industrial Average r",
+      "published_utc": "2026-01-07T17:12:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=38558d276be5a29ce4312eef987aaaf167632e68a80d803eb4b0b4346318ad99",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138033017,
+      "datetime": 1767823927
+    },
+    {
+      "title": "AMGEN TO PRESENT AT THE 44TH ANNUAL J.P. MORGAN HEALTHCARE CONFERENCE",
+      "description": "Amgen (NASDAQ:AMGN) will present at the 2026 J.P. Morgan Healthcare Conference at 3:45 p.m. PT on Monday, January 12, 2026. Robert A. Bradway, chairman and chief executive officer at Amgen, will present at the conference. The webcast will be broadcast over the internet simultaneously and will be available to members of the news media, investors and the general public.",
+      "published_utc": "2026-01-07T16:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b706d451590ef9e5b468a0a0e38c4e8554bc7c109d45d3bb20b2031ffcf36a1b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138033314,
+      "datetime": 1767819660
+    },
+    {
+      "title": "ALMS Surges as Envudeucitinib Meets Goals in Plaque Psoriasis Studies",
+      "description": "Alumis shares jump 95% after envudeucitinib meets all endpoints in two phase III plaque psoriasis studies, showing strong skin clearance.",
+      "published_utc": "2026-01-07T11:52:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=29e6f6561909fbf0b2c0dc028a2550561913d05d7bc4f855dfc8b1c6e524906c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138033316,
+      "datetime": 1767804720
+    },
+    {
+      "title": "Amgen Inc. stock outperforms competitors on strong trading day",
+      "description": "Amgen Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2026-01-07T11:35:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=2dfc6c82f6a4b4c12b076eaaa27ccb1bb20252e9b655392938f43135fa510cd0",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138074718,
+      "datetime": 1767803700
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T01:09:54.270402+00:00",
+    "cache_key": "news_f342b7cd147f9f36224134344a00cd4c",
+    "count": 5
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Nearly 20% of S&P 500 Stocks Hit 52-Week Highs Today",
+      "description": "Nearly 100 stocks in the S&P 500 reached new 52-week intraday highs during Wednesday trading, signaling a broadening of market participation despite a retreat in the technology sector.    While a selloff in tech shares weighed on the market, 92 stocks in the S&P 500 hit one-year peaks, according to Dow Jones Market Data.",
+      "published_utc": "2026-02-04T16:47:27",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c15c477ae6dcbbbd4d32d8ca759ffd9de7392df978376a778194c807a3998f57",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138359059,
+      "datetime": 1770241647
+    },
+    {
+      "title": "Dozens of Stocks Hitting 52-Week Highs",
+      "description": "A significant number of stocks in the S&P 500 reached new 52-week intraday highs during Wednesday trading, signaling a broadening of market participation despite a retreat in the technology sector.    While a selloff in tech shares weighed on major indexes, 82 stocks in the S&P 500 hit one-year peaks by midday, according to Dow Jones Market Data.",
+      "published_utc": "2026-02-04T13:45:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e01f1d136761bb2691f84a0299f471429f641893aff5949b69367183a6af8d13",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138356585,
+      "datetime": 1770230703
+    },
+    {
+      "title": "Trading names at key levels: Cisco, Netflix and more",
+      "description": "CNBC's \"Fast Money\" team talk about the key levels to trade certain names at, including Netflix, Deere, Cisco and more.",
+      "published_utc": "2026-02-04T13:10:39",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=6c5615bb74ea94fa6b1f9481d88e4cd552ffaf151f108efc3fe2329e5224c936",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108261679-17702464621770246459-43852959340-1080pnbcnews.jpg?v=1770246461&w=1920&h=1080",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138365537,
+      "datetime": 1770228639
+    },
+    {
+      "title": "Today's Market: Dow Climbs 350 Points, Nasdaq Falls 1% as Tech Stocks Struggle",
+      "description": "AMD Forecast Miss Hits Shares. Broadcom and Micron Also Slide",
+      "published_utc": "2026-02-04T12:21:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=86319fd94a17d228f4c56add62c4e9d2bf7eb998e1de5730684500d3143c581f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138355213,
+      "datetime": 1770225668
+    },
+    {
+      "title": "Caterpillar (CAT) Price Target Increased by 11.05% to 675.88",
+      "description": "",
+      "published_utc": "2026-02-04T11:15:49",
+      "source": "Fintel",
+      "url": "https://finnhub.io/api/news?id=756189f3161c44220b2b6ce2f1185817eec47e9a8f69350b71e5db20303bdbc8",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138354354,
+      "datetime": 1770221749
+    }
+  ]
+}

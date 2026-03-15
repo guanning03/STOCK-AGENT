@@ -1,0 +1,53 @@
+{
+  "items": [
+    {
+      "id": "6a3fce289941a798aab9ec59f92e3986951cabf3a123edd0cacc415235d2f457",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Targeted Alpha Therapy Market, Drugs Approval, Proprietary Technologies & Clinical Trials: 20+ Drugs of Targeted Alpha Therapy In Clinical Trials",
+      "author": "Researchandmarkets.Com",
+      "published_utc": "2024-12-16T15:53:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2024/12/16/2997669/28124/en/Targeted-Alpha-Therapy-Market-Drugs-Approval-Proprietary-Technologies-Clinical-Trials-20-Drugs-of-Targeted-Alpha-Therapy-In-Clinical-Trials.html",
+      "tickers": [
+        "ATNM",
+        "JNJ",
+        "CATX",
+        "TLX"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/908fb457-7f8e-4a08-9081-5565e3dfb3d7",
+      "description": "The article discusses the growing field of targeted alpha therapy, a novel approach in radiopharmaceuticals that utilizes alpha emitters to precisely target and eliminate diseased tissues. It highlights the approval of Xofigo, the first approved alpha-emitting radiopharmaceutical, and the surge of innovative preclinical and clinical candidates in development by various companies.",
+      "keywords": [
+        "Targeted Alpha Therapy",
+        "Radiopharmaceuticals",
+        "Cancer Treatment",
+        "Clinical Trials"
+      ],
+      "insights": [
+        {
+          "ticker": "ATNM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions Actinium Pharma as one of the companies active in the targeted alpha therapy market, indicating their involvement in this growing field."
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article lists Johnson & Johnson as one of the companies active in the targeted alpha therapy market, indicating their involvement in this growing field."
+        },
+        {
+          "ticker": "CATX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Perspective Therapeutics is listed as one of the companies in the competitive landscape, suggesting their participation in the targeted alpha therapy market."
+        },
+        {
+          "ticker": "TLX",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Telix Pharmaceuticals is included in the list of companies mentioned in the competitive landscape, suggesting their involvement in the targeted alpha therapy market."
+        }
+      ]
+    }
+  ]
+}

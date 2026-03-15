@@ -1,0 +1,223 @@
+{
+  "items": [
+    {
+      "title": "JPMorgan Chase-Backed Propel Launches $20M SNAP Relief Fund As Millions Of Families Wait For Food Benefits During Government Shutdown",
+      "description": "Fintech company Propel launched an emergency fund on Oct. 28 to deliver direct cash assistance to families affected by the government shutdown's disruption of $8 billion in monthly Supplemental Nutrition Assistance Program payments. The company aims to raise $20 million to help low-income households bridge the gap while federal food benefits remain delayed. Propel said the relief effort will channel immediate $50 transfers to eligible SNAP recipients through its app, providing short-term support",
+      "published_utc": "2025-11-09T16:01:06",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ce56b9f34bd63026f7af9cf467b6aca5a3772291f6b66e41f76672d6dc1801c3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137392490,
+      "datetime": 1762722066
+    },
+    {
+      "title": "AVLV: Diversified Value ETF With A Tilt To Quality",
+      "description": "Discover AVLV ETF: a low-cost, diversified fund delivering strong value and profitability. Outperforms benchmarksâideal for quality-focused value investors.",
+      "published_utc": "2025-11-09T05:57:18",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=11a000aa806b030f8822bbf00f1f29aa9950fd88e0dd3f1ebf094331075b3ab4",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2223416632/image_2223416632.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137386751,
+      "datetime": 1762685838
+    },
+    {
+      "id": "bfa7042242f0d0aff80902520516cb9f6f9f326fef363e30771a570e172274a9",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Vanguard VYM Offers Broader Diversification Than NOBL",
+      "author": "Cory Renauer",
+      "published_utc": "2025-11-09T23:09:04Z",
+      "article_url": "https://www.fool.com/coverage/etfs/2025/11/09/vanguard-vym-offers-broader-diversification-than-nobl/?source=iedfolrf0000001",
+      "tickers": [
+        "VYM",
+        "NOBL",
+        "AVGO",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "VYLD",
+        "XOM"
+      ],
+      "image_url": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/4b6a9939b46a276b9784defa8a93f75a3b94203d-5472x3424.jpg?w=5472&h=3424",
+      "description": "The Vanguard High Dividend Yield ETF (VYM) provides broader diversification and lower fees compared to the ProShares S&P 500 Dividend Aristocrats ETF (NOBL), with VYM holding 589 stocks and outperforming NOBL over the past five years.",
+      "keywords": [
+        "ETF",
+        "dividend",
+        "investment",
+        "diversification",
+        "yield"
+      ],
+      "insights": [
+        {
+          "ticker": "VYM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Lower expense ratio (0.06%), broader stock holdings (589 stocks), higher 5-year return (98.5%), and higher dividend yield (2.5%)"
+        },
+        {
+          "ticker": "NOBL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Higher expense ratio (0.35%), narrower stock selection (70 stocks), lower 5-year return (53.1%), and lower dividend yield (2.1%)"
+        },
+        {
+          "ticker": "AVGO",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a top holding in VYM without specific performance commentary"
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a top holding in VYM without specific performance commentary"
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a top holding in VYM without specific performance commentary"
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a top holding in VYM without specific performance commentary"
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a top holding in VYM without specific performance commentary"
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a top holding in VYM without specific performance commentary"
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a top holding in VYM without specific performance commentary"
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a top holding in VYM without specific performance commentary"
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a top holding in VYM without specific performance commentary"
+        },
+        {
+          "ticker": "VYLD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a top holding in VYM without specific performance commentary"
+        },
+        {
+          "ticker": "XOM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a top holding in VYM without specific performance commentary"
+        }
+      ]
+    },
+    {
+      "id": "e6e09f6f9bea86e5c824170fb1ba5a9525b3a5b4109d2908b93fb678c0d5650a",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "JPMorgan Chase CEO Jamie Dimon Enforces Phone‑Free Meetings To Maximize Focus, Criticizes Workplace Distractions",
+      "author": "Mohd Haider",
+      "published_utc": "2025-11-09T05:25:35Z",
+      "article_url": "https://www.benzinga.com/news/psychology/25/11/48741609/jpmorgan-chase-ceo-jamie-dimon-enforces-phone%E2%80%91free-meetings-to-maximize-focus-criticizes-workplac?utm_source=benzinga_taxonomy&utm_medium=rss_feed_free&utm_content=taxonomy_rss&utm_campaign=channel",
+      "tickers": [
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "VYLD"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/11/09/Jpmorgan-Chase-Logo-In-Front-Of-Company-.jpeg?width=1200&height=800&fit=crop",
+      "description": "JPMorgan Chase CEO Jamie Dimon advocates for distraction-free workplace meetings by implementing a strict no-phone policy, emphasizing complete focus and professional etiquette during work interactions.",
+      "keywords": [
+        "workplace productivity",
+        "digital distraction",
+        "meeting etiquette",
+        "focus",
+        "technology"
+      ],
+      "insights": [
+        {
+          "ticker": "AMJB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article portrays the company's leadership as proactive in promoting workplace efficiency and professional standards through Dimon's disciplined approach to meetings and technology use"
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article portrays the company's leadership as proactive in promoting workplace efficiency and professional standards through Dimon's disciplined approach to meetings and technology use"
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article portrays the company's leadership as proactive in promoting workplace efficiency and professional standards through Dimon's disciplined approach to meetings and technology use"
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article portrays the company's leadership as proactive in promoting workplace efficiency and professional standards through Dimon's disciplined approach to meetings and technology use"
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article portrays the company's leadership as proactive in promoting workplace efficiency and professional standards through Dimon's disciplined approach to meetings and technology use"
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article portrays the company's leadership as proactive in promoting workplace efficiency and professional standards through Dimon's disciplined approach to meetings and technology use"
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article portrays the company's leadership as proactive in promoting workplace efficiency and professional standards through Dimon's disciplined approach to meetings and technology use"
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article portrays the company's leadership as proactive in promoting workplace efficiency and professional standards through Dimon's disciplined approach to meetings and technology use"
+        },
+        {
+          "ticker": "VYLD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article portrays the company's leadership as proactive in promoting workplace efficiency and professional standards through Dimon's disciplined approach to meetings and technology use"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T06:44:31.236293+00:00",
+    "cache_key": "news_89611370c7dd32f7a1f2ac23a4b3db82",
+    "count": 4
+  }
+}

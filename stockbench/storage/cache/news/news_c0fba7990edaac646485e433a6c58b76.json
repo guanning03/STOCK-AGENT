@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Dow Jones Futures Rise; Dow Above 50K With Apple, Boeing, These AI Stocks New Buys. But Market Is Still Divided.",
+      "description": "The Dow has topped 50,000 for the first time, with JPMorgan, Apple and Boeing in buy areas. The Nasdaq is still below key support, but these AI stocks are reviving.",
+      "published_utc": "2026-02-08T18:49:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=99e787ea32080842023f2fca142b17fe46b48d4492faceff35004c16423a5b80",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138397518,
+      "datetime": 1770594569
+    },
+    {
+      "title": "Dow Jones Futures Rise; Dow Above 50K With Apple, Boeing, AI Stocks In Buy Areas. But Market Is Still Divided.",
+      "description": "Dow Jones Futures Rise; Dow Above 50K With Apple, Boeing, AI Stocks In Buy Areas. But Market Is Still Divided.",
+      "published_utc": "2026-02-08T18:00:08",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=f7661b9ec91c7940b342957bb820cacc861818e353628d6004399f867cea38e3",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139059286,
+      "datetime": 1770591608
+    },
+    {
+      "title": "Apple (AAPL) Should Be Up Again, Says Jim Cramer",
+      "description": "We recently published 12 Stocks on Jim Cramer’s Radar. Apple Inc. (NASDAQ:AAPL) is one of the stocks on Jim Cramer’s radar. Consumer electronics giant Apple Inc. (NASDAQ:AAPL) is one of Jim Cramer’s favorite stocks. The CNBC TV host continues to hold the opinion that viewers and listeners should own the shares and not trade them. […]",
+      "published_utc": "2026-02-08T13:30:09",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=e443a607711abfec6cff14d4e4634ba2ea3ffa5d0a282f86b59d5482d7632292",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138395420,
+      "datetime": 1770575409
+    },
+    {
+      "title": "Qualcomm’s (QCOM) Hurt By Memory, Says Jim Cramer",
+      "description": "We recently published 12 Stocks on Jim Cramer’s Radar. QUALCOMM Incorporated (NASDAQ:QCOM) is one of the stocks on Jim Cramer’s radar. QUALCOMM Incorporated (NASDAQ:QCOM) is one of the largest semiconductor designers in the world. Its products are used in smartphones, cars, and other products. QUALCOMM Incorporated (NASDAQ:QCOM)’s shares are down by 18% over the past […]",
+      "published_utc": "2026-02-08T13:29:35",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5a9c96332e8f6dfb90562c0d2e99995176d379146dedcb1c502aa6e19441ac81",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138395374,
+      "datetime": 1770575375
+    },
+    {
+      "title": "IVV’s Uninterrupted Dividend Streak Since 2000 Masks The True Income Profile",
+      "description": "The iShares Core S&P 500 ETF (NYSEARCA:IVV) generates income the straightforward way: it holds the stocks of the 500 largest U.S. companies and passes through the dividends they pay. With $763.6 billion in net assets and an expense ratio of just 0.03%, IVV offers efficient exposure to the entire S&P 500. The fund’s dividend safety ... IVV’s Uninterrupted Dividend Streak Since 2000 Masks The True Income Profile",
+      "published_utc": "2026-02-08T12:25:54",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=514596008f91b4786c5cde66b8a414463c932bcc7200ecb7c5c464cdb0d97f04",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AAPL"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138395418,
+      "datetime": 1770571554
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T02:48:00.496787+00:00",
+    "cache_key": "news_c0fba7990edaac646485e433a6c58b76",
+    "count": 5
+  }
+}

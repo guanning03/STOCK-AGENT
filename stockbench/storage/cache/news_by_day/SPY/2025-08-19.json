@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "CPI And GDP Update",
+      "description": "The thing to remember is that the source of the past several years' inflation is the enormous growth in the M2 money supply.",
+      "published_utc": "2025-08-19T17:00:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=d5210f3e0e2ef031b4549ed60aa78538ef174afa9f7c6a6c4bc9276103ea3a40",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/472553066/image_472553066.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136433183,
+      "datetime": 1755637200
+    },
+    {
+      "title": "Jackson Hole: The Moment Of Truth For The US Economy",
+      "description": "Explore the mixed state of the US economy, from inflation and labor market resilience to Fed policies, and their potential impact on the stock market...",
+      "published_utc": "2025-08-19T15:40:49",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=f02d7a701dce101146c4e8d3cbf07eaebb52e06e55db1c429625df4b3cd4066e",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1456853728/image_1456853728.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136432897,
+      "datetime": 1755632449
+    },
+    {
+      "title": "The Government Takeover Of The Chip Business",
+      "description": "The U.S. government is poised to take a 10% stake in Intel, signaling renewed intervention in key commercial enterprises. Read what investors need to know.",
+      "published_utc": "2025-08-19T12:11:52",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9850afde4c109f94ae60517bbe8381db4457ef141b8883fffb5915d81bbeb240",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1223792889/image_1223792889.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136431811,
+      "datetime": 1755619912
+    },
+    {
+      "title": "'Mexico to Propose Joint Steel Committee With US to Bolster Ties'- Bloomberg",
+      "description": "https://www.bloomberg.com/news/articles/2025-08-19/mexico-to-propose-joint-steel-committee-with-us-to-bolster-ties",
+      "published_utc": "2025-08-19T12:11:30",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=dd064044924058899f3cf21b52b5d197fdb3b10dcab3fb0bb304f3ef193f2b25",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138507565,
+      "datetime": 1755619890
+    },
+    {
+      "title": "The Downfall Of The U.S. Dollar - Peter Schiff's Prediction",
+      "description": "In the MoneyShow MoneyMasters Podcast, Peter Schiff, Chief Global Strategist at Euro Pacific Asset Management, returns with his most urgent warning yet about US dollar and the bond market.",
+      "published_utc": "2025-08-19T11:05:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=782d25d42a4fccbc9dd62a0c2ab38335fc3a2ca34e914cf9ddffd34aec30488f",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2199578213/image_2199578213.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136431333,
+      "datetime": 1755615900
+    }
+  ]
+}

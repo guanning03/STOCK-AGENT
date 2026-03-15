@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Top Stock Reports for IBM, Micron & Abbott",
+      "description": "IBM posts strong Q3 results as Watsonx and quantum bets boost growth, while Micron rides AI-driven memory demand and Abbott expands on device strength.",
+      "published_utc": "2025-10-29T16:53:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=66d6ff70cff2870f8f34d5af00456cc254c912835238afe943c05ee87556cb6b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137262375,
+      "datetime": 1761771180
+    },
+    {
+      "title": "This Canadian Electronics Stock Keeps Surging On AI Spend",
+      "description": "Canadian electronics manufacturer Celestica kept rising Wednesday after an exceptional earnings report earlier this week.  On Wednesday Celestica stock jumped 3.5%.  In the third quarter, it outperformed analyst expectations across the board.",
+      "published_utc": "2025-10-29T15:19:18",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3a2b6f6162ad10692889e3f18f52654fb1a912b9678f0431c43f612dc79c9732",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137259258,
+      "datetime": 1761765558
+    },
+    {
+      "title": "International Business Machines Corp. stock underperforms Wednesday when compared to competitors",
+      "description": "International Business Machines Corp. stock underperforms Wednesday when compared to competitors",
+      "published_utc": "2025-10-29T12:32:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=0972894c0039b81612e80a89fdf728f9b259d63b094e07808287bc508da8c7ae",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137317478,
+      "datetime": 1761755520
+    },
+    {
+      "title": "Seagate's Q1 Earnings & Sales Top, Product Uptake & Pricing Lift Margins",
+      "description": "STX's strong fiscal Q1 2026 results, powered by cloud demand and Mozaic HAMR drive growth, set the stage for higher revenue and margins ahead.",
+      "published_utc": "2025-10-29T09:40:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=eefd4b7d3535c26f54dd6f402f291ea85c69ef7e7967f44d342133cc5fbf983c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137258544,
+      "datetime": 1761745200
+    },
+    {
+      "title": "Stock Market Today: Dow Rises Ahead Of Fed Rate Decision, Powell; Nvidia Surges To New Highs (Live Coverage)",
+      "description": "Stock Market Today: The Dow Jones index rose Wednesday ahead of the Fed decision and Powell. Nvidia stock surged to new highs.",
+      "published_utc": "2025-10-29T08:54:52",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1a700a4c73e24a985edc59cb154409a1a5b7403391b1e0747a068f640ec30fad",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137247660,
+      "datetime": 1761742492
+    }
+  ]
+}

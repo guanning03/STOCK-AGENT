@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "id": "f53be8775d52d268af9e044bb9d4dd8449845eac66ccf7d93c94de9eb25de770",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Managed Network Services Market Size to Surpass USD 122.77 Billion by 2032| SNS Insider",
+      "author": "Sns Insider",
+      "published_utc": "2025-02-17T15:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/02/17/3027291/0/en/Managed-Network-Services-Market-Size-to-Surpass-USD-122-77-Billion-by-2032-SNS-Insider.html",
+      "tickers": [
+        "IBM",
+        "CSCO",
+        "ERIC",
+        "VZ"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/d6272c2e-d204-41b8-b545-a6e2e24f85c2",
+      "description": "The Managed Network Services Market is growing as businesses adopt outsourced solutions for secure, reliable, and cost-effective network management and optimization. The market is expected to reach $122.77 Billion by 2032, driven by increasing demands for secure, scalable, and cost-effective networking solutions.",
+      "keywords": [
+        "Managed Network Services",
+        "SD-WAN",
+        "Cybersecurity",
+        "Cloud-based services"
+      ],
+      "insights": [
+        {
+          "ticker": "IBM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "IBM is a major player in the managed network services market, offering solutions like IBM Managed Network Services and IBM Cloud Pak for Network Automation."
+        },
+        {
+          "ticker": "CSCO",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Cisco is a leading provider of managed network services, offering solutions like Cisco SD-WAN and Cisco Meraki Managed Network."
+        },
+        {
+          "ticker": "ERIC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Ericsson is a prominent player in the managed network services market, offering solutions like Ericsson Managed Network Services and Ericsson Dynamic Orchestration."
+        },
+        {
+          "ticker": "VZ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Verizon is a major provider of managed network services, offering solutions like Verizon Managed SD-WAN and Verizon Secure Cloud Interconnect."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T22:14:21.437818+00:00",
+    "cache_key": "news_b0a75994a3dbd58eb66d1ce2ac15b455",
+    "count": 1
+  }
+}

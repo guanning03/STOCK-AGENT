@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "CNBC Daily Open: An AI and 'everything else' market in play in the U.S.",
+      "description": "What investors would really like is if fork in the markets merges into one. That tends to be the safer path to take.",
+      "published_utc": "2025-11-12T15:03:34",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=8dfb84cd22a425b78883f27dbc4ad88abdcee8c305b31e7cf57a85eaef390e34",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108225075-1762983659755-gettyimages-2246411413-anotherday145729039_tk8f0xkw.jpeg?v=1762983736&w=1920&h=1080",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137469678,
+      "datetime": 1762977814
+    },
+    {
+      "title": "Here's How Much $100 Invested In Caterpillar 10 Years Ago Would Be Worth Today",
+      "description": "",
+      "published_utc": "2025-11-12T14:45:31",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=26bf688e3a5e06022241c072e9322e754a9a9e8029a8b6e6f83cfbc0d799ec24",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138929400,
+      "datetime": 1762976731
+    },
+    {
+      "title": "Dow pulls back from record, falls 400 points in broad market sell-off: Live updates",
+      "description": "Stocks retreated Thursday, with technology stocks weighing on the major averages even as a broader rotation occurs beneath the surface.",
+      "published_utc": "2025-11-12T13:02:09",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=f281d3de841e85e7b238093aaf57dec6d9f9eb068a32248b2dbc0c6361995261",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108225069-1762983331815-gettyimages-2246411283-anotherday145729141_igxdmzs6.jpeg?v=1762983459&w=1920&h=1080",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137469609,
+      "datetime": 1762970529
+    },
+    {
+      "title": "The Gaza War Has Been Big Business for U.S. Companies",
+      "description": "Two years on, Israel’s war in Gaza might be finally drawing to a close.  Sales of U.S. weapons to Israel have surged since October 2023, with Washington approving more than $32 billion in armaments, ammunition and other equipment to the Israeli military over that time, according to a Wall Street Journal analysis of State Department disclosures.",
+      "published_utc": "2025-11-12T12:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=74ce85952518e0c9111c8c92c9d86bef61a10cb461664fec82fcd49e3e908f05",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137466908,
+      "datetime": 1762966800
+    },
+    {
+      "title": "Enterprises Are Adopting Data and Governance Frameworks and Talent Strategies for Agentic AI, ISG Says",
+      "description": "STAMFORD, Conn., November 12, 2025--Enterprise leaders will join the ISG AI Impact Summit, November 17–18 in New York, to discuss adopting, scaling and governing AI business solutions.",
+      "published_utc": "2025-11-12T12:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2b2eb0d8363a46f3ba33ad32d3ac05ed7b3fcea6ab9294b9653e9a925bb294ed",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137460181,
+      "datetime": 1762966800
+    }
+  ]
+}

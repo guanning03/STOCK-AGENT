@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures steady as Wall Street cements in rate-cut hopes",
+      "description": "Investors remain laser-focused on the Dec. 10 policy update from the Fed.",
+      "published_utc": "2025-12-03T18:52:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=8263416e2f40c071ddb0c27333859051a474b37f180921fe8163d71340efef20",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137677879,
+      "datetime": 1764805934
+    },
+    {
+      "title": "Salesforce CEO vies to overcome investors' AI skepticism while touting company's quarterly numbers",
+      "description": "After riding the artificial intelligence craze to new heights, business software maker Salesforce has been pummeled by a wave of investor skepticism that’s intensified the pressure on its persuasive CEO Marc Benioff to reverse the tide.  Benioff, who helped spearhead the transition to cloud computing after founding Salesforce in 1999, got a chance to try to change the AI narrative late Wednesday with the release of his company’s latest quarterly results.  The key numbers covering August through October eclipsed the analyst projections that help steer the stock market, providing Benioff with some material to support his contention that Salesforce’s big bets on AI will yield a jackpot.",
+      "published_utc": "2025-12-03T18:19:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=12f5a143dd59bf23d29138e50d24389f7ef531d2349edf6f1079344fad7c840a",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137677880,
+      "datetime": 1764803944
+    },
+    {
+      "title": "Salesforce Q3: The Agentforce Inflection Point",
+      "description": "Salesforce Q3 earnings beat forecasts with AI-driven growth and raised guidance.",
+      "published_utc": "2025-12-03T18:18:24",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=906beac2d8bb74e35926207b9bd11552d8b3e68b07a79b0efcebb391f8deb723",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2242210690/image_2242210690.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137675851,
+      "datetime": 1764803904
+    },
+    {
+      "title": "Markets Gain on Fed Rate Cut Likelihood - CRM, FIVE Beat & Raise",
+      "description": "Weak jobs figures from ADP has helped solidify the belief that another 25 basis-point (bps) rate cut is coming next week.",
+      "published_utc": "2025-12-03T18:17:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ecb94e81babb550cbeb391b4c9c40bcd07c08b8e6648283a4ea0b9f9ec837ae9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137677881,
+      "datetime": 1764803820
+    },
+    {
+      "title": "Salesforce Raises Forecast as Agentforce Sales Top $500 Million",
+      "description": "The customer-relationship management platform lifted its full-year revenue outlook to $41.45 billion to $41.55 billion and posted a third-quarter profit of $2.09 billion.",
+      "published_utc": "2025-12-03T18:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b875e63546e4149952e413ff254182985b6fecd68dc463b424447ff749abbc52",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137677882,
+      "datetime": 1764803400
+    }
+  ]
+}

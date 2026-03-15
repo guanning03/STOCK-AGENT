@@ -1,0 +1,83 @@
+{
+  "items": [
+    {
+      "id": "78f1f9334a303e90afeee94f21766ca1e4823085e7dc766ea2197d29a4486b90",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Markets Tank After Trump Confirms More Tariffs: Here's What Wall Street Is Saying",
+      "author": "Erica Kollmann",
+      "published_utc": "2025-03-03T23:38:02Z",
+      "article_url": "https://www.benzinga.com/general/social-media/25/03/44098232/markets-tank-after-trump-confirms-more-tariffs-heres-what-wall-street-is-saying",
+      "tickers": [
+        "SPY",
+        "QQQ",
+        "TSM"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/03/03/Why-It-Matters_3.jpeg?width=1200&height=800&fit=crop",
+      "description": "Stocks fell sharply after President Trump announced plans to impose 25% tariffs on imports from Canada, Mexico, and an additional 20% tariff on goods from China, raising concerns about the impact on the US economy.",
+      "keywords": [
+        "tariffs",
+        "trade war",
+        "stock market",
+        "economy"
+      ],
+      "insights": [
+        {
+          "ticker": "SPY",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The SPDR S&P 500 ETF, which tracks the S&P 500 index, closed down 1.75% due to the market's negative reaction to the tariff announcements."
+        },
+        {
+          "ticker": "QQQ",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The Invesco QQQ Trust, which tracks the Nasdaq 100 index, ended the session 2.14% lower, reflecting the broader market decline."
+        },
+        {
+          "ticker": "TSM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Despite the market's negative reaction, some experts, such as Anthony Pompliano, highlighted Taiwan Semiconductor Manufacturing Company's announcement of a $100 billion investment in the US, which could be seen as a positive outcome of the trade policies."
+        }
+      ]
+    },
+    {
+      "id": "e3fb4f0b2932f664eaf5d9b7e501c192932806846a2ec6ab6bb8e1b52844948e",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Trump's Tariffs Threaten Canada, Mexico, China — And American Wallets",
+      "author": "Adam Eckert",
+      "published_utc": "2025-03-03T20:33:16Z",
+      "article_url": "https://www.benzinga.com/news/25/03/44092335/trumps-tariffs-threaten-canada-mexico-china-and-american-wallets",
+      "tickers": [
+        "SPY"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/03/03/Markets-Rocked-By-Trumps-Tariffs.jpeg?width=1200&height=800&fit=crop",
+      "description": "President Trump plans to impose 25% tariffs on imports from Canada and Mexico, as well as 20% tariffs on China, starting Tuesday. These tariffs could increase costs for Americans and put further pressure on inflation.",
+      "keywords": [
+        "tariffs",
+        "trade war",
+        "inflation",
+        "Federal Reserve"
+      ],
+      "insights": [
+        {
+          "ticker": "SPY",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The SPDR S&P 500 ETF is facing heavy selling pressure due to the impending tariffs, which could negatively impact the broader market."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T22:31:50.647206+00:00",
+    "cache_key": "news_ba6d2948c420dc88aa1dc1f715f9bcdf",
+    "count": 2
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Home Depot (HD) Stock Declines While Market Improves: Some Information for Investors",
+      "description": "Home Depot (HD) reached $383.04 at the closing of the latest trading day, reflecting a -2.05% change compared to its last close.",
+      "published_utc": "2026-02-17T17:45:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=34ba08da3e26456a4c89bcd179f28e86829f7fa94975c87e58ea1135bc286134",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139128211,
+      "datetime": 1771368303
+    },
+    {
+      "title": "Forget AI—Tax Refunds Could Give Retail Stocks a Lift",
+      "description": "Artificial-intelligence anxiety has driven sharp moves in retail stocks, but rising tax refunds could provide a more durable tailwind for select companies this spring.",
+      "published_utc": "2026-02-17T13:48:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=3493853b31f65bb319b984d384cda00f7ec7a89f8ace264c39c26d3b3773495b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139126554,
+      "datetime": 1771354080
+    },
+    {
+      "title": "Best Consumer Stock to Buy Right Now: Costco or Home Depot?",
+      "description": "Both companies dominate within their respective retailing segments.",
+      "published_utc": "2026-02-17T13:35:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b1923cb5489dcd03f95757bf9412a25b723e0df1c5b6b21a6cac078cb7847567",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139125863,
+      "datetime": 1771353300
+    },
+    {
+      "title": "HD Jumps 17% in 3 Months: Should You Buy, Hold or Sell the Stock?",
+      "description": "Home Depot stock climbs 17% in three months, but premium valuation, estimate cuts and housing headwinds complicate its near-term outlook.",
+      "published_utc": "2026-02-17T11:58:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=97b7b531007be700d6233647936960199bac82badf6f7cae5ddd8931e0c26673",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139125867,
+      "datetime": 1771347480
+    },
+    {
+      "title": "Home Depot's Capital Discipline Drives Long-Term Shareholder Value",
+      "description": "HD reinforces long-term growth with disciplined capital allocation, balancing $900M in Q3 investments with steady dividends and strong cash flow.",
+      "published_utc": "2026-02-17T11:53:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cfca8d0255bce70edef32dc3e4c45bc6a50250ef94054407252e12e2b9b0fce5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139125868,
+      "datetime": 1771347180
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:12:13.141370+00:00",
+    "cache_key": "news_e5b92f37c2e35846398206078098103f",
+    "count": 5
+  }
+}

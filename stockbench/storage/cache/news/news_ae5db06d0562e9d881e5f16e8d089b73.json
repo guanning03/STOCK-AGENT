@@ -1,0 +1,89 @@
+{
+  "items": [
+    {
+      "id": "0e6eb2f689d8154846754cf70b5bd925c3205afa5e7b6e86ee72dae1cd8631f0",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "Why Super Micro Computer Stock Sank This Week",
+      "author": "Keith Noonan",
+      "published_utc": "2024-12-16T10:15:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/16/why-super-micro-computer-stock-sank-this-week/?source=iedfolrf0000001",
+      "tickers": [
+        "SMCI",
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/801084/gettyimages-155351397.jpg",
+      "description": "Supermicro is reportedly exploring raising funds through new stock sales and debt, which could have a diluting impact on existing shareholders and raise questions about the company's profitability and working capital foundations. JPMorgan Chase maintains an underweight rating on the stock, citing concerns about the company's ability to meet financial filing deadlines and the potential for significant restatements.",
+      "keywords": [
+        "Supermicro",
+        "JPMorgan Chase",
+        "fundraising",
+        "stock offering",
+        "financial filings"
+      ],
+      "insights": [
+        {
+          "ticker": "SMCI",
+          "sentiment": "negative",
+          "sentiment_reasoning": "The article suggests that Supermicro's potential fundraising moves, including selling new stock and taking on debt, could have a diluting impact on existing shareholders and raise questions about the company's profitability and working capital foundations. Additionally, there are concerns about the company's ability to meet financial filing deadlines and the potential for significant restatements, which could further negatively impact the stock price."
+        },
+        {
+          "ticker": "AMJB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is mentioned as the investment firm that maintains an underweight rating on Supermicro's stock, citing concerns about the company's outlook. The article does not provide any additional information about JPMorgan Chase's own performance or outlook."
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is mentioned as the investment firm that maintains an underweight rating on Supermicro's stock, citing concerns about the company's outlook. The article does not provide any additional information about JPMorgan Chase's own performance or outlook."
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is mentioned as the investment firm that maintains an underweight rating on Supermicro's stock, citing concerns about the company's outlook. The article does not provide any additional information about JPMorgan Chase's own performance or outlook."
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is mentioned as the investment firm that maintains an underweight rating on Supermicro's stock, citing concerns about the company's outlook. The article does not provide any additional information about JPMorgan Chase's own performance or outlook."
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is mentioned as the investment firm that maintains an underweight rating on Supermicro's stock, citing concerns about the company's outlook. The article does not provide any additional information about JPMorgan Chase's own performance or outlook."
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is mentioned as the investment firm that maintains an underweight rating on Supermicro's stock, citing concerns about the company's outlook. The article does not provide any additional information about JPMorgan Chase's own performance or outlook."
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is mentioned as the investment firm that maintains an underweight rating on Supermicro's stock, citing concerns about the company's outlook. The article does not provide any additional information about JPMorgan Chase's own performance or outlook."
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "JPMorgan Chase is mentioned as the investment firm that maintains an underweight rating on Supermicro's stock, citing concerns about the company's outlook. The article does not provide any additional information about JPMorgan Chase's own performance or outlook."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T19:31:22.764551+00:00",
+    "cache_key": "news_ae5db06d0562e9d881e5f16e8d089b73",
+    "count": 1
+  }
+}

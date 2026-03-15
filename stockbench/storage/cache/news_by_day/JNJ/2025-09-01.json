@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": "dc691385738cb3eb4bf9a982ef522b668cc36763fa30dffff365ec65e5e41646",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Acne Medicine Market Size Projected to Reach USD 23.33 Billion by 2034",
+      "author": "Towards Healthcare",
+      "published_utc": "2025-09-01T14:00:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/09/01/3142183/0/en/Acne-Medicine-Market-Size-Projected-to-Reach-USD-23-33-Billion-by-2034.html",
+      "tickers": [
+        "GSK",
+        "BHC",
+        "JNJ",
+        "PFE"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/01eb1f79-0c67-420b-b423-376619f975cd",
+      "description": "The global acne medication market is expected to grow from USD 14.86 billion in 2025 to USD 23.33 billion by 2034, with a 5.14% CAGR. North America dominates the market, driven by high acne prevalence, innovative treatments, and strong pharmaceutical presence.",
+      "keywords": [
+        "acne medication",
+        "dermatology",
+        "pharmaceutical market",
+        "skincare",
+        "medical treatments"
+      ],
+      "insights": [
+        {
+          "ticker": "GSK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Part of key market players in a growing acne medication market with significant expansion potential"
+        },
+        {
+          "ticker": "BHC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Recently launched new topical prescription acne treatment, indicating active market participation and innovation"
+        },
+        {
+          "ticker": "JNJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Identified as a key player in both North American and Asia Pacific markets with strategic market presence"
+        },
+        {
+          "ticker": "PFE",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Listed among market players without specific highlighted innovations or market-specific strategies"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "How Lemonade's Investment Income Shapes Its Financial Health",
+      "description": "LMND's growing investment income is emerging as a critical driver of its capital-light strategy and long-term growth.",
+      "published_utc": "2025-12-10T12:57:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=21cb1d3be0efcde54f819d455bcea7c557360d193e5b88302e39b1e712d46f7b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137750386,
+      "datetime": 1765389420
+    },
+    {
+      "title": "5 Top-Ranked Stocks From the Thriving P&C Insurance Industry for 2026",
+      "description": "Five top-ranked P&C insurers, including TRV, RNR, ALL, MCY and HGTY stand out as stronger pricing and prudent underwriting lift the industry.",
+      "published_utc": "2025-12-10T07:04:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=68d7062ef36b4f67eaca2383c2be9d5cdced0b4979937304931dd157cceb655f",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137750597,
+      "datetime": 1765368240
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T08:24:51.348405+00:00",
+    "cache_key": "news_46d019fe7b4f1300f42e1c51cbc44959",
+    "count": 2
+  }
+}

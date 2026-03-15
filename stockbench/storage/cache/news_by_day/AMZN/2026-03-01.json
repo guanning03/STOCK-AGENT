@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Palantir Billionaire Peter Thiel Just Made a Shocking Move, Delivering a $74 Million Warning to Wall Street. Should You Listen?",
+      "description": "Interest in AI stocks has ebbed and flowed in recent weeks.",
+      "published_utc": "2026-03-01T18:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0f7f5021366c6a89728f265269ad020128d6f4871b54428ab96a31eb8b3f3db4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139272432,
+      "datetime": 1772407800
+    },
+    {
+      "title": "Amazon Confirms Fire And Power Shutdown At AWS UAE Facility Amid Amid Iran Retaliatory Attacks",
+      "description": "Amazon&#39;s AWS suffered a power outage at a UAE data center after a strike-linked fire disrupted a key Availability Zone, impacting cloud services as regional tensions escalated following Iran&#39;s retaliatory attacks and President Donald Trump&#39;s announcement of Ayatollah Ali Khamenei&#39;s death.",
+      "published_utc": "2026-03-01T17:44:06",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=0d39d1a5cb706f5517c54ed243a6eb160cf57a48e5960f04942870956024ed67",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/03/01/Toronto--On--Canada--August-1--2024-View.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139277273,
+      "datetime": 1772405046
+    },
+    {
+      "title": "Tracking Jeremy Grantham's GMO Capital Portfolio - Q4 2025 Update",
+      "description": "",
+      "published_utc": "2026-03-01T17:17:46",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=105cfa4f2c60233cfdbd389b225b15c00915b9ad94ece48b3e16c1469ab3f7b4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139273187,
+      "datetime": 1772403466
+    },
+    {
+      "title": "This Is How Yield-Chasing Can Wreck Your Retirement Portfolio",
+      "description": "",
+      "published_utc": "2026-03-01T16:29:14",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=9572f41ff7575ce37f794839e8bc1f4589cfad6d7c1524e1fb1788aa43f1e078",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139273036,
+      "datetime": 1772400554
+    },
+    {
+      "title": "Amazon India slashes seller referral fees in retail growth push",
+      "description": "March 2 (Reuters) - Amazon will stop charging sellers in India referral fees for products under 1,000 rupees ($10.98), the company said on Monday, as it looks to attract more merchants to its online",
+      "published_utc": "2026-03-01T15:31:49",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=09e8f13bcb6ff5905ca4f719835ffea4343c15670e729dd2ae914c7b1ca27cd5",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139272442,
+      "datetime": 1772397109
+    }
+  ]
+}

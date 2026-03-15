@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Industrials Stocks Finish in the Green -- Industrials Roundup",
+      "description": "Industrials Stocks Finish in the Green -- Industrials Roundup",
+      "published_utc": "2025-11-24T13:55:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=13ef6523b04130af83a755c6364b44e0d5d62e320bdc2a58922a497bd403f6c1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137700971,
+      "datetime": 1764010500
+    },
+    {
+      "title": "NASA and Boeing Scale Back Starliner Missions After Fumbled Astronaut Flight",
+      "description": "The space vehicle will launch again, without astronauts, in April on a cargo mission to the International Space Station.",
+      "published_utc": "2025-11-24T13:49:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=a04255bad0526804c4e67da0e4ce2d0ee953fb55031d1a7e7994c8dbd36bd4eb",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137592767,
+      "datetime": 1764010140
+    },
+    {
+      "title": "This Aerospace Stock Is About to Take Off",
+      "description": "The best stock to play the next phase of the aerospace recovery is one that benefits from growing aircraft production rates.",
+      "published_utc": "2025-11-24T13:30:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f722e7185f12cd600b7e93b8907c2fa6fa868594fb45ae71d7e63299a811e4ec",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137592768,
+      "datetime": 1764009000
+    },
+    {
+      "title": "BAE Systems Names Brad Pelachyk Senior Vice President and Chief Global Supply Chain Officer",
+      "description": "FALLS CHURCH, Va., November 24, 2025--BAE Systems has named Brad Pelachyk as its senior vice president and chief global supply chain officer.",
+      "published_utc": "2025-11-24T10:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=88554d8f85c268d515290b4ae2df3cb4b39b3a0a87b92f7c0bf70cfef00fba43",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137591537,
+      "datetime": 1763996400
+    },
+    {
+      "title": "Wall Street Bulls Look Optimistic About Boeing (BA): Should You Buy?",
+      "description": "The average brokerage recommendation (ABR) for Boeing (BA) is equivalent to a Buy. The overly optimistic recommendations of Wall Street analysts make the effectiveness of this highly sought-after metric questionable. So, is it worth buying the stock?",
+      "published_utc": "2025-11-24T09:30:02",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=afccf6497bf43351e92dc9b7312baaae9ddd8d3f3e7c3ce94ddbf145f0d05daf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "BA"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137591538,
+      "datetime": 1763994602
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:35:33.740128+00:00",
+    "cache_key": "news_cc61ca83c43ca84f53c256adee065f4c",
+    "count": 5
+  }
+}

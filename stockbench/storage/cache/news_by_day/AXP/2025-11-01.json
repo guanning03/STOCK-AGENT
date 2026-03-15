@@ -1,0 +1,93 @@
+{
+  "items": [
+    {
+      "id": "46af6b016d5d6e089cdde7b24fde2e35a4c5b7d8688f404dd04a7068bdc9c984",
+      "publisher": {
+        "name": "GlobeNewswire Inc.",
+        "homepage_url": "https://www.globenewswire.com",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/globenewswire.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/globenewswire.ico"
+      },
+      "title": "Credit Card Casinos 2025: BetWhale Shines with Mastercard, Amex, Visa & Flexepin & Many More",
+      "author": "Not Specified",
+      "published_utc": "2025-11-01T16:50:00Z",
+      "article_url": "https://www.globenewswire.com/news-release/2025/11/01/3178759/0/en/Credit-Card-Casinos-2025-BetWhale-Shines-with-Mastercard-Amex-Visa-Flexepin-Many-More.html",
+      "tickers": [
+        "V",
+        "MA",
+        "AXP"
+      ],
+      "image_url": "https://ml.globenewswire.com/Resource/Download/b56bb463-acfb-42b3-a6cd-d2926fe7864d",
+      "description": "BetWhale Casino emerges as a top online gambling platform in 2025, offering secure credit card transactions, instant deposits, and a user-friendly interface for US players across multiple states.",
+      "keywords": [
+        "online gambling",
+        "credit card casino",
+        "payment methods",
+        "US gaming",
+        "digital payments"
+      ],
+      "insights": [
+        {
+          "ticker": "V",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Described as a widely accepted payment method with robust network, fast deposits, and reliable fraud protection"
+        },
+        {
+          "ticker": "MA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Portrayed as a convenient, secure payment method with high approval rates and international support"
+        },
+        {
+          "ticker": "AXP",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a premium card option with higher limits and rewards, but with potentially stricter approval processes"
+        }
+      ]
+    },
+    {
+      "title": "Berkshire profit rises, cash soars to record",
+      "description": "Berkshire Hathaway on Saturday reported a 34% increase in quarterly operating profit, helped by improved underwriting in its insurance operations, in its last financial report before Warren Buffett bows out as chief executive.",
+      "published_utc": "2025-11-01T10:02:22",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=1431946a9db4ee9bc304b244f7043b6ac47bb77ad63cad2e20e33c6aef40e346",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137294349,
+      "datetime": 1762005742
+    },
+    {
+      "title": "Berkshire's Big Q3 Fueled By Over 200% Underwriting Surge",
+      "description": "Berkshire&#39;s underwriting profit surges 216%, operating earnings up 34%, Buffett hands off to Greg Abel; OxyChem deal advances amid succession.",
+      "published_utc": "2025-11-01T07:12:37",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=dde888ac7d1d44e28208a3d5fe198a7033196fbb79b47e805ebda7617277a73b",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/01/Berkshire-Hathaway-Company_0.jpeg?width=2048&height=1536",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138694120,
+      "datetime": 1761995557
+    },
+    {
+      "title": "Why I'm canceling my $895-a-year Amex Business Platinum after a decade of loyalty",
+      "description": "I'll miss Centurion Lounge access, but I have a plan to replace other key benefits.",
+      "published_utc": "2025-11-01T05:15:01",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=987e44ac893f0db0568cb78bcd38ff676f3ca127d78ae1c38ad41672e2ac7263",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108216643-1761320455119-gettyimages-1284898903-1w3a1584.jpeg?v=1761320463&w=1920&h=1080",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137334848,
+      "datetime": 1761988501
+    }
+  ]
+}

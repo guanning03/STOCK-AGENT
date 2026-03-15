@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "title": "Is American Express Stock Outperforming the Dow?",
+      "description": "American Express is outpacing the Dow Jones over the past year, yet analysts remain moderately bullish on the stock’s growth potential.",
+      "published_utc": "2025-09-01T08:22:29",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4151ddb29db097de2e55f6d3908a4a9d7dac684c5281df4f2806e076119c6d2d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AXP"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136604233,
+      "datetime": 1756729349
+    }
+  ]
+}

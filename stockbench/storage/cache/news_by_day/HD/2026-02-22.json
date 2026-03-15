@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip as fallout from Trump's tariff reversal unsettles market",
+      "description": "Wall Street has been buffeted by the winds of Trump's tariffs over the weekend. A SCOTUS ruling was quickly refuted by the president in a fast-developing situation.",
+      "published_utc": "2026-02-22T18:44:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=49a3997d06fc584727b2572a2420687076e8a35c024fdab509e168eb841de5ca",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139183036,
+      "datetime": 1771803893
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures slide amid Trump tariff fallout, with Iran-US talks on deck",
+      "description": "Wall Street has been buffeted by the winds of Trump's tariffs over the weekend. A SCOTUS ruling was quickly refuted by the president in a fast-developing situation.",
+      "published_utc": "2026-02-22T18:44:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0cefa8cfea114346193c9642f5353713e9669b00bab2e9d9f56f393acb5634c3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139182322,
+      "datetime": 1771803893
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip amid Trump tariff fallout, with Iran-US talks on deck",
+      "description": "Wall Street has been buffeted by the winds of Trump's tariffs over the weekend. A SCOTUS ruling was quickly refuted by the president in a fast-developing situation.",
+      "published_utc": "2026-02-22T18:44:53",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c33344c5acc79b7c8f8ce6828a6b00f6601577edff141b3e29fa21634f61e33d",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139179304,
+      "datetime": 1771803893
+    },
+    {
+      "title": "Tariff costs and refunds take the spotlight as Home Depot, TJX and other retailers report earnings this week",
+      "description": "Tariff costs and refunds take the spotlight as Home Depot, TJX and other retailers report earnings this week",
+      "published_utc": "2026-02-22T15:57:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=e911b54db243217c46c5026725fa33c4e124e11871fc1a6d11c6e8afaf7bdd84",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139251046,
+      "datetime": 1771793820
+    },
+    {
+      "title": "Retail crime wave hits CVS, Walmart, Home Depot, luxury stores",
+      "description": "While people debate exactly how much crime has been committed against retailers and exactly who's committing it, the numbers remain stark. \"Retailers reported an 18% increase in the average number of shoplifting incidents per year in 2024 versus 2023, and threats or acts of violence during ...",
+      "published_utc": "2026-02-22T15:47:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=cdcceb77339e95299bba4e9804d6370f9c7d05745120353eb5ac7a2373f06b63",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HD"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139178925,
+      "datetime": 1771793220
+    }
+  ]
+}

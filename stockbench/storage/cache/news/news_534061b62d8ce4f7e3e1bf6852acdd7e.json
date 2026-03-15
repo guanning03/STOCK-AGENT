@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "Palantir, Advanced Micro, Walt Disney, Pfizer, ZoomInfo, and More Stocks to Watch This Week",
+      "description": "We’ll see another busy week for earnings , with reports also coming from BioNTech, GlobalFoundries, Rivia, Occidental, and many more.",
+      "published_utc": "2025-08-03T14:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2939a553e91318816706b250e7e46cfc88ef6dad2418596ea73da23493d7d60b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136193951,
+      "datetime": 1754244000
+    },
+    {
+      "title": "Job market concerns take center stage as earnings season rolls on: What to watch this week",
+      "description": "Concerns over US economic growth have taken center stage despite a solid corporate earnings season from S&P 500 companies.",
+      "published_utc": "2025-08-03T07:36:08",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=0bfdf8612462e8d57b88eb80a79f6a12bf075baec06386daffa11cc7ad2fba63",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136195353,
+      "datetime": 1754220968
+    },
+    {
+      "title": "Wall Street Week Ahead",
+      "description": "Get market insights: Jobs report fallout, earnings highlights from Disney & AMD, and income investing strategies with Seeking Alpha's expert webinars.",
+      "published_utc": "2025-08-03T03:22:57",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=70f59260e9b7058e80bbaada2393a2721ad6afe72ff4056000cce8a604d3cd61",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/547167450/image_547167450.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CAT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 136189631,
+      "datetime": 1754205777
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T01:31:25.276160+00:00",
+    "cache_key": "news_534061b62d8ce4f7e3e1bf6852acdd7e",
+    "count": 3
+  }
+}

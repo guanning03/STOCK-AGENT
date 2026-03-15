@@ -1,0 +1,194 @@
+{
+  "items": [
+    {
+      "title": "Wall Street banks scramble to assess fallout from hack of real-estate data firm",
+      "description": "Hackers stole a trove of data from a company used by major Wall Street banks for real-estate loans and mortgages, setting off a scramble to determine what was taken and which banks were affected, according to people familiar with the investigation and a statement from the firm.",
+      "published_utc": "2025-11-23T14:37:21",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=da9a5688824088a533155e38c57c625f474ac02e87ac702df04f4126576fef95",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137586708,
+      "datetime": 1763926641
+    },
+    {
+      "id": "f35010cebbfeac0aea9af2a405054f64161e9f4b23aca65a4b70791d7385d02e",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "What's the Chance of 3% Mortgage Rates Returning?",
+      "author": "Lee Samaha",
+      "published_utc": "2025-11-23T14:15:00Z",
+      "article_url": "https://www.fool.com/investing/2025/11/23/whats-the-chance-of-3-mortgage-rates-returning/?source=iedfolrf0000001",
+      "tickers": [
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "VYLD"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F838683%2Fgettyimages-1416942489-1200x800-5b2df79.jpg&w=1200&op=resize",
+      "description": "The article discusses the low probability of mortgage rates returning to 3% in the near future, highlighting market inflation expectations and the current 'locked-in' effect where homeowners are reluctant to sell due to existing low-rate mortgages.",
+      "keywords": [
+        "mortgage rates",
+        "housing market",
+        "inflation",
+        "affordability",
+        "housing starts"
+      ],
+      "insights": [
+        {
+          "ticker": "AMJB",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a research source providing insights about mortgage borrowers and housing market dynamics, without explicit positive or negative commentary"
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a research source providing insights about mortgage borrowers and housing market dynamics, without explicit positive or negative commentary"
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a research source providing insights about mortgage borrowers and housing market dynamics, without explicit positive or negative commentary"
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a research source providing insights about mortgage borrowers and housing market dynamics, without explicit positive or negative commentary"
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a research source providing insights about mortgage borrowers and housing market dynamics, without explicit positive or negative commentary"
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a research source providing insights about mortgage borrowers and housing market dynamics, without explicit positive or negative commentary"
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a research source providing insights about mortgage borrowers and housing market dynamics, without explicit positive or negative commentary"
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a research source providing insights about mortgage borrowers and housing market dynamics, without explicit positive or negative commentary"
+        },
+        {
+          "ticker": "VYLD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "Mentioned as a research source providing insights about mortgage borrowers and housing market dynamics, without explicit positive or negative commentary"
+        }
+      ]
+    },
+    {
+      "id": "4e73747372dba86e386f8475462f2c4d8eb1fe36911edf826b5bc345f1ab34ed",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "3 Reasons to Buy Bitcoin Before the End of the Year",
+      "author": "Dominic Basulto",
+      "published_utc": "2025-11-23T03:29:00Z",
+      "article_url": "https://www.fool.com/investing/2025/11/22/3-reasons-to-buy-bitcoin-before-the-end-of-the-yea/?source=iedfolrf0000001",
+      "tickers": [
+        "AMJB",
+        "JPM",
+        "JPMpC",
+        "JPMpD",
+        "JPMpJ",
+        "JPMpK",
+        "JPMpL",
+        "JPMpM",
+        "VYLD"
+      ],
+      "image_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F843343%2Fbitcoin-bouncing-higher.jpg&w=1200&op=resize",
+      "description": "Despite a 25% drop in Bitcoin's price since October, the article suggests buying the cryptocurrency due to continued institutional adoption, historical resilience, and long-term price potential, with predictions of reaching $1 million by 2030.",
+      "keywords": [
+        "Bitcoin",
+        "cryptocurrency",
+        "crypto market",
+        "institutional adoption",
+        "market sentiment"
+      ],
+      "insights": [
+        {
+          "ticker": "AMJB",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Suggested Bitcoin could hit $170,000 within 12 months and is viewed as supportive of cryptocurrency market"
+        },
+        {
+          "ticker": "JPM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Suggested Bitcoin could hit $170,000 within 12 months and is viewed as supportive of cryptocurrency market"
+        },
+        {
+          "ticker": "JPMpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Suggested Bitcoin could hit $170,000 within 12 months and is viewed as supportive of cryptocurrency market"
+        },
+        {
+          "ticker": "JPMpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Suggested Bitcoin could hit $170,000 within 12 months and is viewed as supportive of cryptocurrency market"
+        },
+        {
+          "ticker": "JPMpJ",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Suggested Bitcoin could hit $170,000 within 12 months and is viewed as supportive of cryptocurrency market"
+        },
+        {
+          "ticker": "JPMpK",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Suggested Bitcoin could hit $170,000 within 12 months and is viewed as supportive of cryptocurrency market"
+        },
+        {
+          "ticker": "JPMpL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Suggested Bitcoin could hit $170,000 within 12 months and is viewed as supportive of cryptocurrency market"
+        },
+        {
+          "ticker": "JPMpM",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Suggested Bitcoin could hit $170,000 within 12 months and is viewed as supportive of cryptocurrency market"
+        },
+        {
+          "ticker": "VYLD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Suggested Bitcoin could hit $170,000 within 12 months and is viewed as supportive of cryptocurrency market"
+        }
+      ]
+    },
+    {
+      "title": "Amazon Visa Review: Earn cash back at Amazon, gas stations, restaurants and more",
+      "description": "The Amazon Visa is a great way for Amazon shoppers to earn on all purchases without having to pay an annual fee.",
+      "published_utc": "2025-11-23T03:08:02",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=4477e622d73175f84e0c827dd63469965daeb82529e7e7c5e95c62fac5d46eed",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108227727-1763496510067-gettyimages-2240823913-0d2a0709.jpeg?v=1763496516&w=1920&h=1080",
+      "related_symbols": [
+        "JPM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137584093,
+      "datetime": 1763885282
+    }
+  ]
+}

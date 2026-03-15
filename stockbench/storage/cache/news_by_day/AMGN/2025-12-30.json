@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "1 Safe-and-Steady Stock to Keep an Eye On and 2 We Question",
+      "description": "Stability is great, but low-volatility stocks may struggle to deliver market-beating returns over time as they sometimes underperform during bull markets.",
+      "published_utc": "2025-12-30T23:34:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f86347a2d2cb6ec56ee4937b75831d5b4f200eaaaf9aae714e98b208e024b889",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137950361,
+      "datetime": 1767155696
+    },
+    {
+      "title": "Amgen (AMGN): Buy, Sell, or Hold Post Q3 Earnings?",
+      "description": "Amgen’s 17.6% return over the past six months has outpaced the S&P 500 by 6.3%, and its stock price has climbed to $328.43 per share. This was partly due to its solid quarterly results, and the performance may have investors wondering how to approach the situation.",
+      "published_utc": "2025-12-30T23:01:07",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=d1b728babcac3ec2d823adb28420a198e450fff944b139d5d8948d78dbe34048",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMGN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137979579,
+      "datetime": 1767153667
+    }
+  ]
+}

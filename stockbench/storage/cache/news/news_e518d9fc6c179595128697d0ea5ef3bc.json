@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "CData Collaborates with Microsoft to Enable Enterprise AI Agents with Real-Time, Semantic-Rich Access to Hundreds of Enterprise Data Sources Through Model Context Protocol Integration",
+      "description": "CData Software, a leading provider of enterprise data connectivity solutions, today announced availability of Model Context Protocol (MCP) connectivity through its Connect AI platform directly within Microsoft Copilot Studio and Microsoft Agent 365. This integration enables enterprises to rapidly build and deploy AI agents that can securely read, write, and act on real-time data across 350+ enterprise systems including Salesforce, Snowflake, NetSuite, SAP, and ServiceNow.",
+      "published_utc": "2025-11-18T15:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=14ba4be6682bbfc1b5181250ffdf0ddae8c4b8641213a4d1b11218a029a21959",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137543326,
+      "datetime": 1763496060
+    },
+    {
+      "title": "Varonis Announces New Microsoft Purview DSPM Integration",
+      "description": "The integration between Varonis and Purview helps organizations see and understand their critical data—wherever it livesMIAMI and SAN FRANCISCO, Nov. 18, 2025 (GLOBE NEWSWIRE) -- IGNITE 2025 – Varonis Systems, Inc. (Nasdaq: VRNS), announces its DSPM integration with Microsoft Purview. By integrating Varonis signals into Purview, data security teams gain unified visibility into sensitive data across third-party platforms like Salesforce alongside their Microsoft data. “This security integration b",
+      "published_utc": "2025-11-18T15:00:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=41f8bb3547f85311d0d2abf2b63fd2d2ac57486c5f233dc23f54b6346632a2db",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137543327,
+      "datetime": 1763496000
+    },
+    {
+      "title": "Tracking Jeremy Grantham's GMO Capital Portfolio - Q3 2025 Update",
+      "description": "GMO's Q3 2025 13F portfolio rose to $35.46B, with Microsoft, Alphabet, Meta, Apple, and Lam Research as top holdings. Learn more about the portfolio here.",
+      "published_utc": "2025-11-18T14:29:30",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=b05438074d046bb3e4c76ce9412b9f313458cdfe24056dbddb7b2b3d89563f27",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/186805810/image_186805810.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137541605,
+      "datetime": 1763494170
+    },
+    {
+      "title": "Intuit Stock Gains on OpenAI Deal. ChatGPT Is Coming to TurboTax.",
+      "description": "Intuit will be deepening its use of OpenAI’s models in its own AI operating system to help power artificial intelligence agents.",
+      "published_utc": "2025-11-18T11:06:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=7d9db8ff79fb3a3fc99d805aeeccf3ba88ed50dafd813f702b375d28deca94a3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137543328,
+      "datetime": 1763481960
+    },
+    {
+      "title": "Microsoft launches tracker to manage autonomous AI in the workplace",
+      "description": "SAN FRANCISCO (Reuters) -In Microsoft's view, humans are not the only ones to manage in a workplace.​ Artificial intelligence needs a manager, too.  The software maker on Tuesday announced Microsoft ‌Agent 365, a program for its customers to track what it expects to be 1.3 billion ‌agents automating office work by 2028.  Microsoft and other companies are actively marketing agent software.",
+      "published_utc": "2025-11-18T11:00:51",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f68b17ac6f6ee3bb2d8c2a69e285dca228c5e9397f24e8da293c0e3f0893642e",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "CRM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137543329,
+      "datetime": 1763481651
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:16:22.457772+00:00",
+    "cache_key": "news_e518d9fc6c179595128697d0ea5ef3bc",
+    "count": 5
+  }
+}

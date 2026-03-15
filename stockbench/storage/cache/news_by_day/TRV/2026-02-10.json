@@ -1,0 +1,118 @@
+{
+  "items": [
+    {
+      "title": "Review & Preview: Consumers Show Strain",
+      "description": "While the Dow notched its seventh record of the year, the broader S&P 500 slipped. Plus, retail sales weaken.",
+      "published_utc": "2026-02-10T19:55:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=13af846bd91057c04cabc17f7395d7f70832384efb210c6a246c059150c5b978",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139038314,
+      "datetime": 1770771300
+    },
+    {
+      "id": "c718e8e1ca6375080a65584cb4a885f1fd7444238cb77b556c164908690ec6b2",
+      "publisher": {
+        "name": "Investing.com",
+        "homepage_url": "https://www.investing.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/investing.png",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/investing.ico"
+      },
+      "title": "3 Insurance Stocks Hitting 52-Week Highs With More Room to Run",
+      "author": "Dan Schmidt",
+      "published_utc": "2026-02-10T13:12:00Z",
+      "article_url": "https://www.investing.com/analysis/3-insurance-stocks-hitting-52week-highs-with-more-room-to-run-200674765",
+      "tickers": [
+        "TRV",
+        "AFL",
+        "HIG",
+        "HIGpG"
+      ],
+      "amp_url": "https://m.investing.com/analysis/3-insurance-stocks-hitting-52week-highs-with-more-room-to-run-200674765?ampMode=1",
+      "image_url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+      "description": "Three major insurance stocks—Travelers Companies, Aflac, and The Hartford—have broken out to 52-week highs in February 2026, driven by benign weather conditions, pricing power, expanding net investment income from higher interest rates, and AI-driven efficiency improvements. All three companies reported strong Q4 2025 earnings, increased capital returns to shareholders, and technical indicators suggest further upside potential.",
+      "keywords": [
+        "insurance stocks",
+        "52-week highs",
+        "interest rate tailwinds",
+        "catastrophe losses",
+        "underwriting efficiency",
+        "AI implementation",
+        "dividend growth",
+        "technical breakout"
+      ],
+      "insights": [
+        {
+          "ticker": "TRV",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Strong Q4 2025 earnings beat (EPS $11.13 vs $8.34 expected), low catastrophe losses, improved combined ratio of 80.2%, $5 billion share repurchase authorization, and 22nd consecutive year of dividend increases. Technical indicators show bullish MACD crossover with strong support levels."
+        },
+        {
+          "ticker": "AFL",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Breaking out from 15-month range-bound pattern following Q4 2025 earnings showing U.S. premium growth and YOY EPS expansion. 44 consecutive years of dividend increases with 13% annualized growth over five years. Technical confirmation via MACD and RSI supports the breakout."
+        },
+        {
+          "ticker": "HIG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Q4 2025 earnings beat driven by nearly 15% YOY increase in investment income and 8% premium growth. Cantor Fitzgerald raised price target to $165 (15% upside). Technical breakout confirmed with bullish MACD cross and 200-day SMA support."
+        },
+        {
+          "ticker": "HIGpG",
+          "sentiment": "positive",
+          "sentiment_reasoning": "Q4 2025 earnings beat driven by nearly 15% YOY increase in investment income and 8% premium growth. Cantor Fitzgerald raised price target to $165 (15% upside). Technical breakout confirmed with bullish MACD cross and 200-day SMA support."
+        }
+      ]
+    },
+    {
+      "title": "Travelers Cos. Inc. stock outperforms competitors on strong trading day",
+      "description": "Travelers Cos. Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2026-02-10T11:46:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=05b910df4ab6440e62e073dd96bbc502ec4ff34fec00596c6659f04a78aa494e",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139065674,
+      "datetime": 1770741960
+    },
+    {
+      "title": "CNA Financial Q4 Earnings & Revenues Miss Estimates, Dividend Raised",
+      "description": "CNA's Q4 results reflect higher premiums, improved investment income, and decreased catastrophe losses, partially offset by lower underlying underwriting income.",
+      "published_utc": "2026-02-10T10:41:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=720925bc1fa8e113fb8cbbce1326d4fa00f382a3dd2b09de81d1531c770a1e63",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139033643,
+      "datetime": 1770738060
+    },
+    {
+      "title": "Principal Financial Q4 Earnings Miss, Revenues & Premiums Rise Y/Y",
+      "description": "PFG's Q4 results reflect improved revenues across most of the segments, offset by higher expenses.",
+      "published_utc": "2026-02-10T10:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=176c74614fda4a0004959ee289ca25605591227c917c3e9a9acfa0df855d7dd6",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "TRV"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139033644,
+      "datetime": 1770736200
+    }
+  ]
+}

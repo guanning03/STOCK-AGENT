@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Charts Of Interest",
+      "description": "The situation today suggests that the dollar is trading on the weak side of where it would normally be given the current level of real yields.",
+      "published_utc": "2025-07-14T19:40:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=0f004c44a322947dead3eabf909a2640606f8b376c75f0a223c0302d5a9d9b07",
+      "category": "company",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1427537698/image_1427537698.jpg?io=getty-c-w1536",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135933089,
+      "datetime": 1752536400
+    },
+    {
+      "title": "World Markets Watchlist: July 14, 2025",
+      "description": "",
+      "published_utc": "2025-07-14T16:35:00",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=efed0223a07952dc639db4d9ff6f05a9ee9f5142ffc748fb8fe79327358cb569",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135931805,
+      "datetime": 1752525300
+    },
+    {
+      "title": "'Trump Moves to Impose 17% Tariff on Most Mexican Tomato Imports'- Bloomberg",
+      "description": "https://www.bloomberg.com/news/articles/2025-07-14/trump-moves-to-impose-17-tariff-on-most-mexican-tomato-imports",
+      "published_utc": "2025-07-14T13:38:20",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=1aa117de91ca822c1088e3235e5c78d39e07bba67ba834b556cdc400888e3464",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138507578,
+      "datetime": 1752514700
+    },
+    {
+      "title": "Tariffs, Inflation, And Policy",
+      "description": "",
+      "published_utc": "2025-07-14T12:46:40",
+      "source": "SeekingAlpha",
+      "url": "https://finnhub.io/api/news?id=6b4122053fcbbe94a3ab21c527ecea6c1f9183c6867281c77fe9100bd147ff08",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135930736,
+      "datetime": 1752511600
+    },
+    {
+      "title": "BSGM Engages CXG to Acquire FINRA/SEC-Registered Broker-Dealer to Expand Publicly Traded RWA Tokenization Operations",
+      "description": "Los Angeles, USA, July 14th, 2025, Chainwire",
+      "published_utc": "2025-07-14T12:35:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f15f30293ea0f9e2e792190c604b0eb4748f1f79cc883f57aaa5278902e6abc9",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "SPY"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135931789,
+      "datetime": 1752510900
+    }
+  ]
+}

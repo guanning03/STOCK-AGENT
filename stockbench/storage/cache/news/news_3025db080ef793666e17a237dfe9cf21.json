@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "PNC Launches New Digital Direct Deposit: A Move to Boost Fee Income?",
+      "description": "Can PNC Financial's new mobile direct deposit feature boost fee income and strengthen customer relationships? Read on to explore more.",
+      "published_utc": "2025-07-09T12:42:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=17ea53fbb80f84cdac540da102be261b8fdacaf62066a3e42a0b1c25cb521004",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135837831,
+      "datetime": 1752079320
+    },
+    {
+      "title": "Photonics, Satellites, Repeaters: Is IonQ Building the Next Cloud?",
+      "description": "IONQ's bold push into quantum networking, with satellites, photonics, and repeaters, signals its bid to power a quantum-secure Internet.",
+      "published_utc": "2025-07-09T11:32:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=44d9fe288460db08cf60c9c821cce8c1c6eb00a01532e840a186449a33dbd1f2",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135835773,
+      "datetime": 1752075120
+    },
+    {
+      "title": "IBM introduces Power11 servers for AI operations",
+      "description": "IBM's Power11 is built to provide simplified, always-on operations with hybrid cloud flexibility.",
+      "published_utc": "2025-07-09T10:16:56",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=b88713f7d44d165dc7c33dab0fbc3be21dcd0da367740d0d912bf8591020752c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135835774,
+      "datetime": 1752070616
+    },
+    {
+      "title": "Data Integration Market worth $33.24 billion by 2030 - Exclusive Report by MarketsandMarkets™",
+      "description": "The report for Data Integration Market is slated to expand from USD 17.58 billion in 2025 to USD 33.24 billion by 2030, at a CAGR of 13.6% over the forecast period, according to a new report by MarketsandMarkets™.",
+      "published_utc": "2025-07-09T10:15:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=04a7b50716d5556e2107d75c81bdb0d6bb044ab7e868c65745f97a38e769caf0",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135835715,
+      "datetime": 1752070500
+    },
+    {
+      "title": "Can IBM Power11 Server Redefine Business Application Processes?",
+      "description": "IBM Power11's AI-ready design and 55% core performance boost promise to streamline business workloads at scale.",
+      "published_utc": "2025-07-09T10:01:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f9665d36ff2d099b08e32d8663a690c2386b611aa81c152687cfc175a3b14744",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "IBM"
+      ],
+      "api_source": "finnhub_company",
+      "id": 135835776,
+      "datetime": 1752069660
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T00:56:59.068736+00:00",
+    "cache_key": "news_3025db080ef793666e17a237dfe9cf21",
+    "count": 5
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "id": "60e67a2ccfc808a25e193dca8fb2ae1d2386c421b2d92586846c44cb9b6b0575",
+      "publisher": {
+        "name": "The Motley Fool",
+        "homepage_url": "https://www.fool.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/themotleyfool.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/themotleyfool.ico"
+      },
+      "title": "The Stock Market Has Only Seen 4 Periods Like This in 100 Years -- and History Couldn't Be Less Clear About What Happens Next",
+      "author": "Bram Berkowitz",
+      "published_utc": "2024-12-17T09:55:00Z",
+      "article_url": "https://www.fool.com/investing/2024/12/17/stock-market-seen-4-periods-like-this-100-years/?source=iedfolrf0000001",
+      "tickers": [
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD"
+      ],
+      "image_url": "https://g.foolcdn.com/editorial/images/800538/person-computer-5.jpg",
+      "description": "The stock market has seen only 4 periods in the last 100 years where it has gained over 20% for two consecutive years. History is unclear on what happens next, with past periods showing mixed results, from a 12% drop to continued gains. The article discusses potential factors that could impact the market's performance in 2025.",
+      "keywords": [
+        "stock market",
+        "S&P 500",
+        "economic growth",
+        "interest rates",
+        "inflation"
+      ],
+      "insights": [
+        {
+          "ticker": "GS",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Goldman Sachs expects U.S. GDP to grow 2.5% in 2025, which could be a positive factor for the stock market."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Goldman Sachs expects U.S. GDP to grow 2.5% in 2025, which could be a positive factor for the stock market."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Goldman Sachs expects U.S. GDP to grow 2.5% in 2025, which could be a positive factor for the stock market."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "positive",
+          "sentiment_reasoning": "The article mentions that Goldman Sachs expects U.S. GDP to grow 2.5% in 2025, which could be a positive factor for the stock market."
+        }
+      ]
+    }
+  ]
+}

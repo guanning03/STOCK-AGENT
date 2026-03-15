@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Barry Diller’s IAC Agrees to Sell Care.com",
+      "description": "The media conglomerate’s shares have been trading poorly and it has been streamlining itself to focus on core assets.",
+      "published_utc": "2026-03-02T17:10:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=5a4b40fef1bb4c9482873ee8c9dd317a6a04ab681b008c25687a3e1a63ad78bd",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139281187,
+      "datetime": 1772489400
+    },
+    {
+      "title": "OpenAI's Altman admits defense deal 'looked opportunistic and sloppy' amid backlash",
+      "description": "Sam Altman says that OpenAI \"shouldn't have rushed\" its deal with the Defense Department and was making \"some additions.\"",
+      "published_utc": "2026-03-02T16:50:16",
+      "source": "CNBC",
+      "url": "https://finnhub.io/api/news?id=8ac92d097c844f97bd5a18d2f23e302a37d0b7f77cdfd101bcaec8c7d55bb118",
+      "category": "company",
+      "image": "https://image.cnbcfm.com/api/v1/image/108272501-1772510587771-gettyimages-2236544097-STARGATE_DATA_CENTER.jpeg?v=1772510627&w=1920&h=1080",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139289151,
+      "datetime": 1772488216
+    },
+    {
+      "title": "Stock Market Today: Dow Dips As Trump Says This On Iran; Warren Buffett Stock Flashes Sell Signal (Live Coverage)",
+      "description": "The Dow Jones index fell and other indexes were mixed after President Trump spoke on Iran. A Warren Buffett stock dived but Palantir popped. Oil and defense stocks rose.",
+      "published_utc": "2026-03-02T16:37:04",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=fe29d5467c5cfa82630e5ebabe24ed39822249cc3b736041d6cd0d779b557ab4",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139280701,
+      "datetime": 1772487424
+    },
+    {
+      "title": "Are the Magnificent Seven Stocks Losing Steam? Should You Buy, Hold, or Sell?",
+      "description": "After powering the S&P 500 for years, the Magnificent Seven stocks are suddenly lagging in 2026. The smart play might be to do what the crowd isn’t doing.",
+      "published_utc": "2026-03-02T16:12:24",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=ef5a08b4cc4dde02d2d6a4114861e45c42601708b5d1f9ac49c6915f3a20cc1c",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139281906,
+      "datetime": 1772485944
+    },
+    {
+      "title": "Sable Offshore Stock Has Tanked 70% This Past Year, and One Fund Just Sold Off $6 Million in Shares",
+      "description": "Operating three offshore platforms in California, Sable Offshore Corp. supplies crude oil and natural gas to U.S. customers.",
+      "published_utc": "2026-03-02T15:50:03",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=2dece0f2553fa3db6c979d14174f0ae2880fb5d3f56229492899ec10b78f01ab",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "MSFT"
+      ],
+      "api_source": "finnhub_company",
+      "id": 139280512,
+      "datetime": 1772484603
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-15T03:53:14.922595+00:00",
+    "cache_key": "news_074f767eb32e0d46feea9cb126b3f44f",
+    "count": 5
+  }
+}

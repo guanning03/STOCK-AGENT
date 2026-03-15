@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise as Wall Street looks to continue rally",
+      "description": "Futures markets climbed following a strong start to February trade.",
+      "published_utc": "2026-02-02T18:52:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=4bb7764e3df3bdbf474a7e70cc89b9d519dc48de934146f2da1e96b39da4cee3",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138340003,
+      "datetime": 1770076334
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures climb as Wall Street looks to continue rally to start month",
+      "description": "Futures markets climbed following a strong start to February trade.",
+      "published_utc": "2026-02-02T18:52:14",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=092defdc1d2af99f56fd8c97860900d028c74295168823002402bc452a5e9b47",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138337185,
+      "datetime": 1770076334
+    },
+    {
+      "title": "Rivian Stock: The EV Recovery Play to Watch​",
+      "description": "Rivian has the cash it needs to build it, but are mass market consumers going to buy the R2?",
+      "published_utc": "2026-02-02T18:25:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=f4057e04f5bc82ff787eddc0776ee70e18cd83e58f3330b1d6f168619beb9c82",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138337206,
+      "datetime": 1770074700
+    },
+    {
+      "title": "Big Tech and Pharma Earnings: What to Watch This Week",
+      "description": "Earnings season marches on this week. Two more Magnificent Seven tech companies—Alphabet and Amazon—will report, following on the heels of disappointing results from Microsoft that helped send software stocks tumbling last week.",
+      "published_utc": "2026-02-02T18:02:23",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=c28a9c55f89b6e4ee3a2cc078c7c5c981f88e6e147d5c4b3cf134c4c4ad2d164",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138337200,
+      "datetime": 1770073343
+    },
+    {
+      "title": "Saks Global Unsecured Creditors Committee Comes Together",
+      "description": "Amazon, Chanel and other big creditors are advocating for their interests in the case.",
+      "published_utc": "2026-02-02T17:39:41",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=03c4b71911e6e2676accc9353312d2a406ba95c935193b1821ddb498157e0caf",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "AMZN"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138337208,
+      "datetime": 1770071981
+    }
+  ]
+}

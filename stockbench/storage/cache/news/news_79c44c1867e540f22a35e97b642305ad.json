@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "title": "Trump’s Pardon for Cocaine Juan",
+      "description": "Trump’s Pardon for Cocaine Juan",
+      "published_utc": "2025-12-02T12:51:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=7b74fb5d30c88609ff01ee422491f81b1d25d36c891b30f55b823a59b24c3aa1",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137684575,
+      "datetime": 1764697860
+    },
+    {
+      "title": "Honeywell International Inc. stock outperforms competitors on strong trading day",
+      "description": "Honeywell International Inc. stock outperforms competitors on strong trading day",
+      "published_utc": "2025-12-02T11:39:00",
+      "source": "MarketWatch",
+      "url": "https://finnhub.io/api/news?id=9b2368b1c9feff92c32e7f69d2c208a63ee32be85f203dd0f123814f673d9dd5",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137684594,
+      "datetime": 1764693540
+    },
+    {
+      "title": "Insiders Swarm Vertical Aerospace Stock Ahead of Make-or-Break Reveal",
+      "description": "A wave of insider buying and an upcoming global aircraft reveal suggest Vertical Aerospace is poised for a major valuation reset in December.",
+      "published_utc": "2025-12-02T11:18:00",
+      "source": "Yahoo",
+      "url": "https://finnhub.io/api/news?id=05d9d34f6d9c5c35d63ca425d7a8df18179a9ed2a89975c914d7695f6da5356b",
+      "category": "company",
+      "image": "https://s.yimg.com/rz/stage/p/yahoo_finance_en-US_h_p_finance_2.png",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137672830,
+      "datetime": 1764692280
+    },
+    {
+      "title": "Former Honduran President Walks Out of Prison After Trump Pardon",
+      "description": "Former Honduran President Walks Out of Prison After Trump Pardon",
+      "published_utc": "2025-12-02T10:25:00",
+      "source": "DowJones",
+      "url": "https://finnhub.io/api/news?id=a81f3ca03f49dce2e7cc9078e9ed7237fc3b881b8c669c50633a421d869d85f4",
+      "category": "company",
+      "image": "",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 137684576,
+      "datetime": 1764689100
+    },
+    {
+      "title": "10 Industrials Stocks With Whale Alerts In Today's Session",
+      "description": "",
+      "published_utc": "2025-12-02T08:35:29",
+      "source": "Benzinga",
+      "url": "https://finnhub.io/api/news?id=a7d0c4573b77680af8fb323fa42462f4de8f8e9e408a52b8edf4b5a0dd53cd48",
+      "category": "company",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/06/aggregated_options_2.jpg?width=2048&height=1536",
+      "related_symbols": [
+        "HON"
+      ],
+      "api_source": "finnhub_company",
+      "id": 138517040,
+      "datetime": 1764682529
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-14T07:58:15.329737+00:00",
+    "cache_key": "news_79c44c1867e540f22a35e97b642305ad",
+    "count": 5
+  }
+}

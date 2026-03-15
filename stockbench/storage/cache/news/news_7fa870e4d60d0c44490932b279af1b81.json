@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "id": "51883695638fbbfdbe2bcf0864a75e7688e6da4f0c607b019695afe5eb7f5f85",
+      "publisher": {
+        "name": "Benzinga",
+        "homepage_url": "https://www.benzinga.com/",
+        "logo_url": "https://s3.polygon.io/public/assets/news/logos/benzinga.svg",
+        "favicon_url": "https://s3.polygon.io/public/assets/news/favicons/benzinga.ico"
+      },
+      "title": "Oil Could Hit $90, Goldman Sachs Says: 'Trump May Not Ease Sanctions' On Russia",
+      "author": "Piero Cingari",
+      "published_utc": "2025-01-13T15:10:55Z",
+      "article_url": "https://www.benzinga.com/25/01/42948649/goldman-sachs-warns-of-90-oil-risk-trump-may-not-ease-sanctions-once-he-takes-office",
+      "tickers": [
+        "GS",
+        "GSpA",
+        "GSpC",
+        "GSpD"
+      ],
+      "image_url": "https://cdn.benzinga.com/files/images/story/2025/01/13/Increasing-Oil-Stock-Price--Oil-Price-Up.jpeg?width=1200&height=800&fit=crop",
+      "description": "Goldman Sachs warns that oil prices could surge to $90 per barrel under a worst-case scenario of simultaneous supply disruptions from Russia and Iran, as the Biden administration imposes new sanctions on Russia's energy sector.",
+      "keywords": [
+        "oil prices",
+        "sanctions",
+        "Russia",
+        "Iran",
+        "supply disruptions"
+      ],
+      "insights": [
+        {
+          "ticker": "GS",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents Goldman Sachs' analysis and scenarios for oil prices, but does not indicate a positive or negative sentiment towards the company itself."
+        },
+        {
+          "ticker": "GSpA",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents Goldman Sachs' analysis and scenarios for oil prices, but does not indicate a positive or negative sentiment towards the company itself."
+        },
+        {
+          "ticker": "GSpC",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents Goldman Sachs' analysis and scenarios for oil prices, but does not indicate a positive or negative sentiment towards the company itself."
+        },
+        {
+          "ticker": "GSpD",
+          "sentiment": "neutral",
+          "sentiment_reasoning": "The article presents Goldman Sachs' analysis and scenarios for oil prices, but does not indicate a positive or negative sentiment towards the company itself."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "cached_at": "2026-03-13T20:40:16.566519+00:00",
+    "cache_key": "news_7fa870e4d60d0c44490932b279af1b81",
+    "count": 1
+  }
+}
