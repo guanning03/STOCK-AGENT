@@ -937,6 +937,7 @@ class BacktestEngine:
 		dates = pd.date_range(start=start, end=end, freq="B")
 		nav = []
 		trade_rows = []
+		per_symbol_position_rows = []
 		# Create portfolio, prioritize using portfolio.total_cash
 		portfolio_cash = float(self.cfg.get("portfolio", {}).get("total_cash", 1_000_000))
 		pf = Portfolio(cash=float(self.cfg.get("backtest", {}).get("cash", portfolio_cash)))
@@ -1351,6 +1352,19 @@ class BacktestEngine:
 			logger.info(f"=== Daily NAV Calculation Completed ===\n")
 			
 			nav.append({"date": d, "nav": daily_nav})
+			position_row = {"date": d}
+			for s in symbols:
+				pos = pf.positions.get(s)
+				if pos is None or pos.shares == 0:
+					position_row[s] = 0.0
+					continue
+				px = open_map.get(s)
+				if px is None and previous_open_map:
+					px = previous_open_map.get(s)
+				if px is None:
+					px = pos.avg_price
+				position_row[s] = float(pos.shares * px)
+			per_symbol_position_rows.append(position_row)
 			
 			# Record executed decisions after all trading is complete
 			if hasattr(strategy, 'record_executed_decisions'):
@@ -1398,10 +1412,23 @@ class BacktestEngine:
 					output_dir = f"storage/reports/backtest"
 				self._save_trading_logs(trade_records, portfolio_snapshots, output_dir)
 			
-			return {"nav": nav_df, "trades": trades, "metrics": metrics}
+			return {
+				"nav": nav_df,
+				"trades": trades,
+				"metrics": metrics,
+				"initial_cash": self.initial_cash,
+				"trade_records": trade_records,
+				"portfolio_snapshots": portfolio_snapshots,
+				"per_symbol_position_values": pd.DataFrame([]),
+			}
 
 		nav_df = pd.DataFrame(nav).set_index("date")["nav"].astype(float)
 		trades = pd.DataFrame(trade_rows)
+		per_symbol_position_values = (
+			pd.DataFrame(per_symbol_position_rows).set_index("date").astype(float)
+			if per_symbol_position_rows
+			else pd.DataFrame([])
+		)
 
 		# Benchmark and metrics (maintain original logic, and add per-symbol buy&hold benchmark)
 		benchmark_nav: pd.Series | None = None
@@ -1498,7 +1525,6 @@ class BacktestEngine:
 
 		# New: Save trade records
 		if self.enable_detailed_logging:
-			# Save detailed records directly in main report directory, avoiding creating subdirectories
 			if run_id:
 				output_dir = f"storage/reports/backtest/{run_id}"
 			else:
@@ -1510,9 +1536,11 @@ class BacktestEngine:
 			"trades": trades,
 			"metrics": metrics,
 			"benchmark_nav": benchmark_nav,
+			"initial_cash": self.initial_cash,
 			# New: Return detailed records
 			"trade_records": trade_records,
 			"portfolio_snapshots": portfolio_snapshots,
+			"per_symbol_position_values": per_symbol_position_values,
 			# New: per-symbol buy and hold benchmark
 			"per_symbol_benchmark_nav": per_symbol_bh_nav_df,
 			"per_symbol_benchmark_metrics": per_symbol_bh_metrics,

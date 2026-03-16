@@ -7,6 +7,7 @@ from stockbench.backtest.datasets import Datasets
 from stockbench.backtest.engine import BacktestEngine
 from stockbench.backtest.slippage import Slippage
 from stockbench.backtest.reports import write_outputs
+from stockbench.backtest.wandb_logging import log_to_wandb
 from stockbench.agents.backtest_report_llm import generate_backtest_report
 
 
@@ -25,6 +26,12 @@ def run_backtest(cfg: Dict, strategy, start: str, end: str, symbols: List[str], 
         pass
     out_dir = write_outputs(result, run_id=run_id, cfg=cfg)
     result["output_dir"] = out_dir
+    actual_run_id = os.path.basename(out_dir)
+    # W&B logging (primary output)
+    try:
+        log_to_wandb(result, cfg=cfg, run_id=actual_run_id)
+    except Exception as _e:
+        print(f"[W&B] logging failed: {_e}")
     # Backtest natural language summary (as part of the backtest process)
     try:
         enable_llm = bool((cfg or {}).get("backtest", {}).get("summary_llm", False))
@@ -43,7 +50,7 @@ def run_backtest(cfg: Dict, strategy, start: str, end: str, symbols: List[str], 
             "summary_text": summary_text,
             "period": {"start": start, "end": end},
             "timespan": effective_timespan,
-            "run_id": run_id or os.path.basename(out_dir),
+            "run_id": actual_run_id,
             "symbols": symbols,
         }
         # Get LLM profile name from configuration
@@ -60,7 +67,7 @@ def run_backtest(cfg: Dict, strategy, start: str, end: str, symbols: List[str], 
         except Exception:
             pass
             
-        text = generate_backtest_report(payload, cfg=cfg, run_id=run_id, profile_name=profile_name)
+        text = generate_backtest_report(payload, cfg=cfg, run_id=actual_run_id, profile_name=profile_name)
         nl_path = os.path.join(out_dir, "nl_summary.txt")
         with open(nl_path, "w", encoding="utf-8") as f:
             f.write(text)
