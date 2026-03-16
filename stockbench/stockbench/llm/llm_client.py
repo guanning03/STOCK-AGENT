@@ -49,33 +49,47 @@ class LLMConfig:
     budget_completion_tokens: int = 200_000
     # New: Whether authentication is required (vLLM can be auth-free by default)
     auth_required: Optional[bool] = None
+    api_key_env: str = "OPENAI_API_KEY"
 
 
 class LLMClient:
     def __init__(self, api_key_env: str = "OPENAI_API_KEY", cache_dir: Optional[str] = None) -> None:
-        self.api_key = os.getenv(api_key_env) or os.getenv("LLM_API_KEY", "")
+        self.default_api_key_env = api_key_env
         self.cache_dir = cache_dir or os.path.join(os.getcwd(), "storage", "cache", "llm")
         ensure_dir(self.cache_dir)
-        self._client: Optional[httpx.Client] = None
-        self._openai_client: Optional[openai.OpenAI] = None  # Add OpenAI client
+        self._clients: Dict[Tuple[str, float], httpx.Client] = {}
+        self._openai_clients: Dict[Tuple[str, float, str, str], openai.OpenAI] = {}
         self._prompt_tokens_used = 0
         self._completion_tokens_used = 0
         self.llm_logger = get_llm_logger()  # Get LLM-specific logger
 
+    def _resolve_api_key_env(self, cfg: Optional[LLMConfig] = None) -> str:
+        return getattr(cfg, "api_key_env", None) or self.default_api_key_env
+
+    def _resolve_api_key(self, cfg: Optional[LLMConfig] = None) -> str:
+        api_key_env = self._resolve_api_key_env(cfg)
+        return os.getenv(api_key_env) or os.getenv("LLM_API_KEY", "")
+
     def _get_openai_client(self, cfg: LLMConfig) -> openai.OpenAI:
         """Get OpenAI official client"""
-        if self._openai_client is None:
-            self._openai_client = openai.OpenAI(
-                api_key=self.api_key,
-                base_url=cfg.base_url,
-                timeout=cfg.timeout_sec
+        api_key = self._resolve_api_key(cfg)
+        base_url = (cfg.base_url or "").rstrip("/")
+        cache_key = (base_url, float(cfg.timeout_sec), self._resolve_api_key_env(cfg), api_key)
+
+        if cache_key not in self._openai_clients:
+            self._openai_clients[cache_key] = openai.OpenAI(
+                api_key=api_key,
+                base_url=base_url or None,
+                timeout=cfg.timeout_sec,
             )
-        return self._openai_client
+        return self._openai_clients[cache_key]
 
     def _get_client(self, base_url: str, timeout_sec: float) -> httpx.Client:
-        if self._client is None:
-            self._client = httpx.Client(base_url=base_url, timeout=timeout_sec)
-        return self._client
+        normalized_base_url = base_url.rstrip("/")
+        cache_key = (normalized_base_url, float(timeout_sec))
+        if cache_key not in self._clients:
+            self._clients[cache_key] = httpx.Client(base_url=normalized_base_url, timeout=timeout_sec)
+        return self._clients[cache_key]
 
     def _cache_path(self, key: str, run_id: Optional[str] = None, role: Optional[str] = None) -> str:
         # If no run_id provided, try to get from environment variable
@@ -792,16 +806,18 @@ class LLMClient:
         need_auth = cfg.auth_required if cfg.auth_required is not None else (provider not in {"vllm", "openai-compatible-no-auth", "llama.cpp", "none"})
         
         # Record authentication info
-        self.llm_logger.debug(f"🔐 Authentication check - Provider: {provider}, Needs auth: {need_auth}")
-        
+        api_key_env = self._resolve_api_key_env(cfg)
+        api_key = self._resolve_api_key(cfg)
+        self.llm_logger.debug(f"🔐 Authentication check - Provider: {provider}, Needs auth: {need_auth}, Env: {api_key_env}")
+
         headers: Dict[str, str] = {"Content-Type": "application/json"}
         if need_auth:
-            if self.api_key:
-                headers["Authorization"] = f"Bearer {self.api_key}"
+            if api_key:
+                headers["Authorization"] = f"Bearer {api_key}"
                 self.llm_logger.debug(f"🔑 Add authentication header")
             else:
-                self.llm_logger.error(f"❌ Authentication required but no API key provided - {provider}")
-                return None, {**meta, "reason": "no_api_key"}
+                self.llm_logger.error(f"❌ Authentication required but no API key provided - {provider} (env: {api_key_env})")
+                return None, {**meta, "reason": f"no_api_key:{api_key_env}"}
 
         body: Dict[str, Any] = {
             "model": cfg.model,

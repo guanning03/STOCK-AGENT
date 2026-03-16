@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 from dataclasses import dataclass, field
-from typing import Dict, List, Tuple
+from typing import Any, Callable, Dict, List, Tuple
 import json
 from datetime import datetime, timezone
 
@@ -914,7 +914,16 @@ class BacktestEngine:
 		filtered = buy_orders + sell_orders
 		return filtered
 
-	def run(self, strategy, start: str, end: str, symbols: List[str], timespan: str = "day", run_id: str = None) -> Dict:
+	def run(
+		self,
+		strategy,
+		start: str,
+		end: str,
+		symbols: List[str],
+		timespan: str = "day",
+		run_id: str = None,
+		progress_logger: Callable[[Dict[str, Any]], None] | None = None,
+	) -> Dict:
 		"""
 		Backtesting main loop.
 
@@ -1210,6 +1219,8 @@ class BacktestEngine:
 					break  # No rejected orders, proceed with execution
 			
 			# Execute acceptable orders
+			today_trade_count = 0
+			today_trade_notional = 0.0
 			for od in acceptable_orders:
 				try:
 					sym = od.get("symbol")
@@ -1296,6 +1307,8 @@ class BacktestEngine:
 						sym, qty, exec_px, float(ref_px_i), filled, net_cost, pf, open_map, d
 					)
 					trade_records.append(trade_record)
+					today_trade_count += 1
+					today_trade_notional += abs(float(filled)) * float(exec_px)
 					
 					trade_rows.append({
 						"ts": d,
@@ -1396,6 +1409,35 @@ class BacktestEngine:
 				# If next trading day cannot be found, use current day's opening prices
 				portfolio_snapshot = self._create_portfolio_snapshot(pf, d, open_map, previous_open_prices=previous_open_map)
 			portfolio_snapshots.append(portfolio_snapshot)
+
+			if callable(progress_logger):
+				try:
+					nav_so_far = pd.DataFrame(nav).set_index("date")["nav"].astype(float)
+					trades_so_far = pd.DataFrame(trade_rows)
+					progress_metrics = evaluate(nav_so_far, trades_so_far)
+					position_values = {
+						symbol: float(value)
+						for symbol, value in position_row.items()
+						if symbol != "date"
+					}
+					progress_logger({
+						"step": len(nav_so_far) - 1,
+						"date": d,
+						"nav": daily_nav,
+						"drawdown": progress_metrics.get("max_drawdown"),
+						"cash": pf.cash,
+						"cash_ratio": (pf.cash / total_equity) if total_equity > 0 else 0.0,
+						"total_equity": total_equity,
+						"total_position_value": mark_to_market,
+						"unrealized_pnl": portfolio_snapshot.unrealized_pnl,
+						"holdings_count": sum(1 for pos in pf.positions.values() if pos.shares != 0),
+						"trades_count_today": today_trade_count,
+						"trades_notional_today": today_trade_notional,
+						"position_values": position_values,
+						"metrics": progress_metrics,
+					})
+				except Exception as exc:
+					logger.warning(f"[W&B] Failed to emit progress update: {exc}")
 
 		# Summary output
 		if not nav:

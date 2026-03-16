@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import json
 import os
+import re
 from datetime import datetime
 from typing import Dict, Any
 import sys
@@ -11,8 +12,19 @@ import pandas as pd
 from stockbench.utils.io import ensure_dir
 
 
+_RUN_ID_TIME_SUFFIX_RE = re.compile(r"_\d{8}_\d{6}_\d{6}$")
+
+
 def _default_run_id() -> str:
     return datetime.now().strftime("%Y%m%d_%H%M%S")
+
+
+def _append_run_timestamp(run_id: str) -> str:
+    """Ensure each run_id ends with a UTC timestamp suffix for uniqueness."""
+    if _RUN_ID_TIME_SUFFIX_RE.search(run_id):
+        return run_id
+    ts = datetime.utcnow().strftime("%Y%m%d_%H%M%S_%f")
+    return f"{run_id}_{ts}"
 
 
 def _unique_run_dir(root: str, run_id: str) -> tuple[str, str]:
@@ -26,6 +38,27 @@ def _unique_run_dir(root: str, run_id: str) -> tuple[str, str]:
     ts = datetime.now().strftime("%Y%m%d_%H%M%S_%f")
     rid = f"{run_id}_{ts}"
     return os.path.join(root, rid), rid
+
+
+def resolve_run_id(run_id: str | None = None, cfg: Dict[str, Any] | None = None) -> str:
+    """Resolve the concrete backtest run_id before outputs are written."""
+    if run_id is None:
+        strategy_name = "unknown"
+        if cfg and isinstance(cfg, dict):
+            strategy_name = cfg.get("strategy", {}).get("name", "unknown")
+            if not strategy_name:
+                if cfg.get("backtest", {}).get("enable_detailed_logging"):
+                    strategy_name = "detailed"
+                else:
+                    strategy_name = "standard"
+
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        run_id = f"{strategy_name}_{timestamp}"
+
+    run_id = _append_run_timestamp(run_id)
+    root = os.path.join(os.getcwd(), "storage", "reports", "backtest")
+    _, resolved_run_id = _unique_run_dir(root, run_id)
+    return resolved_run_id
 
 
 # New: recursively clean NaN/Inf in objects to None, ensuring valid JSON
@@ -140,23 +173,8 @@ Detailed explanations for other metrics included in metrics.json:
 
 
 def write_outputs(result: Dict, run_id: str | None = None, cfg: Dict[str, Any] | None = None) -> str:
-    # Improve run_id generation logic to make it clearer
-    if run_id is None:
-        # Extract strategy information from configuration
-        strategy_name = "unknown"
-        if cfg and isinstance(cfg, dict):
-            strategy_name = cfg.get("strategy", {}).get("name", "unknown")
-            if not strategy_name:
-                # Try to infer strategy from other configurations
-                if cfg.get("backtest", {}).get("enable_detailed_logging"):
-                    strategy_name = "detailed"
-                else:
-                    strategy_name = "standard"
-        
-        # Generate timestamp with strategy name
-        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        run_id = f"{strategy_name}_{timestamp}"
-    
+    run_id = resolve_run_id(run_id=run_id, cfg=cfg)
+
     root = os.path.join(os.getcwd(), "storage", "reports", "backtest")
     base, run_id = _unique_run_dir(root, run_id)
     ensure_dir(base)

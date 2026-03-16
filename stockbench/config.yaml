@@ -94,6 +94,18 @@ llm_profiles:
       max_retries: 3
       backoff_factor: 0.5
 
+  qingyuntop:
+    provider: "openai"
+    base_url: "https://api.qingyuntop.top/v1"
+    model: "deepseek-v3.1"
+    backtest_report_model: "deepseek-v3.1"
+    api_key_env: "QINGYUNTOP_API_KEY"
+    auth_required: true
+    timeout_sec: 180
+    retry:
+      max_retries: 3
+      backoff_factor: 0.5
+
   deepseek-v3.1:
     provider: "openai"
     base_url: ""
