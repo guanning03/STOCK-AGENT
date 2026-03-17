@@ -418,6 +418,51 @@ def align_with_strategy_nav(bench_nav: pd.Series, dates: pd.DatetimeIndex, reind
 		return pd.Series(dtype=float)
 
 
+def build_benchmark_nav_series(cfg: Dict, datasets, dates: pd.DatetimeIndex) -> pd.Series:
+	"""Build aligned benchmark NAV series for a given set of strategy dates."""
+	if dates is None or len(dates) == 0:
+		return pd.Series(dtype=float)
+
+	bench_cfg = (cfg.get("backtest", {}) or {}).get("benchmark")
+	if not isinstance(bench_cfg, dict):
+		return pd.Series(dtype=float)
+
+	reindex_mode = str(bench_cfg.get("reindex", "inner_join")).lower()
+	fill_mode = str(bench_cfg.get("fill", "ffill")).lower()
+	fill_limit_raw = bench_cfg.get("fill_limit", 0)
+	try:
+		fill_limit = int(fill_limit_raw) if fill_limit_raw is not None else 0
+	except Exception:
+		fill_limit = 0
+
+	try:
+		series_dict = load_benchmark_components(bench_cfg, datasets, dates, field="adjusted_close")
+		if not series_dict:
+			return pd.Series(dtype=float)
+		ret_df = price_to_returns(series_dict)
+		if ret_df.empty:
+			return pd.Series(dtype=float)
+
+		if isinstance(bench_cfg.get("basket"), list) and len(bench_cfg.get("basket", [])) > 0:
+			reb = str(bench_cfg.get("rebalance", "daily")).lower()
+			r_b = aggregate_with_rebalance(ret_df, bench_cfg.get("basket", []), freq=reb)
+			benchmark_nav = (1.0 + r_b).cumprod()
+		else:
+			price = list(series_dict.values())[0].reindex(ret_df.index).ffill()
+			benchmark_nav = price / max(price.iloc[0], 1e-12)
+
+		return align_with_strategy_nav(
+			benchmark_nav,
+			dates,
+			reindex=reindex_mode,
+			fill=fill_mode,
+			fill_limit=fill_limit,
+		)
+	except Exception as exc:
+		logger.warning(f"Benchmark series build failed: {exc}")
+		return pd.Series(dtype=float)
+
+
 class BacktestEngine:
 	def __init__(self, cfg: Dict, datasets, slippage_model: Slippage) -> None:
 		self.cfg = cfg
@@ -966,6 +1011,8 @@ class BacktestEngine:
 				self._cached_dividends[s] = None
 				self._cached_splits[s] = None
 
+		benchmark_nav_progress = build_benchmark_nav_series(self.cfg, self.datasets, dates)
+
 		for i, d in enumerate(dates):
 			# Check if it's a trading day; if not, skip processing and recording
 			from stockbench.core.data_hub import is_trading_day
@@ -1378,6 +1425,17 @@ class BacktestEngine:
 					px = pos.avg_price
 				position_row[s] = float(pos.shares * px)
 			per_symbol_position_rows.append(position_row)
+
+			benchmark_nav_today = None
+			if isinstance(benchmark_nav_progress, pd.Series) and len(benchmark_nav_progress) > 0:
+				try:
+					raw_bench = benchmark_nav_progress.get(d)
+					if isinstance(raw_bench, pd.Series):
+						raw_bench = raw_bench.iloc[-1] if len(raw_bench) > 0 else None
+					if raw_bench is not None and pd.notna(raw_bench):
+						benchmark_nav_today = float(raw_bench)
+				except Exception:
+					benchmark_nav_today = None
 			
 			# Record executed decisions after all trading is complete
 			if hasattr(strategy, 'record_executed_decisions'):
@@ -1404,17 +1462,52 @@ class BacktestEngine:
 			if next_trading_date is not None:
 				# Use next trading day's opening prices
 				next_open_map = self._get_next_day_open_prices(next_trading_date, symbols)
-				portfolio_snapshot = self._create_portfolio_snapshot(pf, d, next_open_map, previous_open_prices=open_map)
+				portfolio_snapshot = self._create_portfolio_snapshot(
+					pf,
+					d,
+					next_open_map,
+					benchmark_nav=0.0 if benchmark_nav_today is None else benchmark_nav_today,
+					previous_open_prices=open_map,
+				)
 			else:
 				# If next trading day cannot be found, use current day's opening prices
-				portfolio_snapshot = self._create_portfolio_snapshot(pf, d, open_map, previous_open_prices=previous_open_map)
+				portfolio_snapshot = self._create_portfolio_snapshot(
+					pf,
+					d,
+					open_map,
+					benchmark_nav=0.0 if benchmark_nav_today is None else benchmark_nav_today,
+					previous_open_prices=previous_open_map,
+				)
 			portfolio_snapshots.append(portfolio_snapshot)
 
 			if callable(progress_logger):
 				try:
 					nav_so_far = pd.DataFrame(nav).set_index("date")["nav"].astype(float)
 					trades_so_far = pd.DataFrame(trade_rows)
-					progress_metrics = evaluate(nav_so_far, trades_so_far)
+					benchmark_so_far = pd.Series(dtype=float)
+					excess_return_cum_today = None
+					if isinstance(benchmark_nav_progress, pd.Series) and len(benchmark_nav_progress) > 0:
+						benchmark_so_far = benchmark_nav_progress[benchmark_nav_progress.index.isin(nav_so_far.index)]
+					progress_metrics = evaluate(
+						nav_so_far,
+						trades_so_far,
+						benchmark_so_far if len(benchmark_so_far) > 0 else None,
+					)
+					if len(benchmark_so_far) > 0:
+						try:
+							aligned = pd.concat(
+								[nav_so_far.rename("strategy"), benchmark_so_far.rename("benchmark")],
+								axis=1,
+							).dropna()
+							if len(aligned) >= 2:
+								excess_series = (
+									aligned["strategy"].pct_change().fillna(0.0)
+									- aligned["benchmark"].pct_change().fillna(0.0)
+								).cumsum()
+								if len(excess_series) > 0 and pd.notna(excess_series.iloc[-1]):
+									excess_return_cum_today = float(excess_series.iloc[-1])
+						except Exception:
+							excess_return_cum_today = None
 					position_values = {
 						symbol: float(value)
 						for symbol, value in position_row.items()
@@ -1434,6 +1527,8 @@ class BacktestEngine:
 						"trades_count_today": today_trade_count,
 						"trades_notional_today": today_trade_notional,
 						"position_values": position_values,
+						"benchmark_nav": benchmark_nav_today,
+						"excess_return_cum": excess_return_cum_today,
 						"metrics": progress_metrics,
 					})
 				except Exception as exc:
@@ -1536,26 +1631,7 @@ class BacktestEngine:
 					# Continue execution, allowing users to get old benchmarks simultaneously
 				reindex_mode = str(bench_cfg.get("reindex", "inner_join")).lower()
 				fill_mode = str(bench_cfg.get("fill", "ffill")).lower()
-			fill_limit_raw = bench_cfg.get("fill_limit", 0)
-			try:
-				fill_limit = int(fill_limit_raw) if fill_limit_raw is not None else 0
-			except Exception:
-				fill_limit = 0
-			# Daily benchmark
-			series_dict = load_benchmark_components(bench_cfg, self.datasets, nav_df.index, field="adjusted_close")
-			if series_dict:
-				ret_df = price_to_returns(series_dict)
-				if not ret_df.empty:
-					if isinstance(bench_cfg.get("basket"), list) and len(bench_cfg.get("basket", [])) > 0:
-						reb = str(bench_cfg.get("rebalance", "daily")).lower()
-						r_b = aggregate_with_rebalance(ret_df, bench_cfg.get("basket", []), freq=reb)
-						benchmark_nav = (1.0 + r_b).cumprod()
-					else:
-						# Single benchmark: normalize by price
-						price = list(series_dict.values())[0].reindex(ret_df.index).ffill()
-						benchmark_nav = price / max(price.iloc[0], 1e-12)
-					# Align to strategy NAV index
-					benchmark_nav = align_with_strategy_nav(benchmark_nav, nav_df.index, reindex=reindex_mode, fill=fill_mode, fill_limit=fill_limit)
+			benchmark_nav = build_benchmark_nav_series(self.cfg, self.datasets, nav_df.index)
 		except Exception as e:
 			logger.warning(f"Benchmark calculation failed: {e}")
 			benchmark_nav = None
