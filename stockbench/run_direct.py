@@ -48,11 +48,11 @@ if LLM_MODEL:
     print(f"[INFO] Overriding profile model with: {LLM_MODEL}")
 
 symbols = cfg.get("symbols_universe", [])
-run_id = f"{LLM_PROFILE.upper()}_{START}_{END}".replace("-", "")
-if LLM_MODEL:
-    model_slug = re.sub(r"[^A-Za-z0-9]+", "_", LLM_MODEL).strip("_").upper()
-    if model_slug:
-        run_id = f"{LLM_PROFILE.upper()}_{model_slug}_{START}_{END}".replace("-", "")
+effective_model = cfg.get("llm", {}).get("model", "")
+run_id = f"{START}_{END}".replace("-", "")
+model_slug = re.sub(r"[^A-Za-z0-9]+", "_", effective_model).strip("_").upper()
+if model_slug:
+    run_id = f"{model_slug}_{START}_{END}".replace("-", "")
 run_id = resolve_run_id(run_id=run_id, cfg=cfg)
 
 print(f"[INFO] Backtest: {START} → {END}, {len(symbols)} symbols, run_id={run_id}")

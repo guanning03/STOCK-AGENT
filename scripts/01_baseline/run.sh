@@ -10,7 +10,7 @@ LLM_MODEL="${LLM_MODEL:-deepseek-v3.1}"
 ts=$(date -u +%Y%m%d_%H%M%S)
 safe_model="${LLM_MODEL//\//_}"
 safe_model="${safe_model//./_}"
-log="/home/azanette/code/STOCK-AGENT/scripts/01_baseline/logs/${LLM_PROFILE}_${safe_model}_${ts}.log"
+log="/home/azanette/code/STOCK-AGENT/scripts/01_baseline/logs/${safe_model}_${ts}.log"
 
 echo "LOG=$log"
 

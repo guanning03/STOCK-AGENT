@@ -1,0 +1,220 @@
+model,knowledge_cutoff_normalized,knowledge_cutoff_status,knowledge_cutoff_raw_reply,network_status
+gpt-5.2-codex,2021-09,ok,我的知识截止到 2021 年 9 月。,不能联网
+gpt-5.3-codex-xhigh,2021-09,ok,我的知识截止到2021年9月。,不能联网
+llama-3-8b,2022,ok,"I'm an AI trained by Meta AI, and my knowledge cutoff is up to 2022. I have been trained on a massive dataset of text from the internet, books, and other sources, and my training data is current up to 2022. However, please note that my knowledge may not be exhaustive or up-to-date on very recent events or developments.",不能联网
+qwen2.5-7b-instruct,2022-12,ok,我的知识截止日期是2022年12月，之后的内容可能无法提供最新信息。,不能联网
+SparkDesk-v1.1,2023-04,ok,"我的知识截止到2023年4月。我是设计来随着时间的推移不断学习和进化的，这意味着我会不断地从新的数据中获取信息，以提高性能和准确性。
+
+例如，如果有关最新科技发展、全球事件或任何其他领域的新知识出现，我的系统会尝试更新这些信息以反映最新的事实。这种持续学习的能力使我能够提供更准确和及时的回答。",不能联网
+gemini-2.5-flash-nothinking,2023-04,ok,我的知识截止到2023年4月。,不能联网
+gemini-2.5-pro,2023-04,ok,我的知识截止到2023年4月。,不能联网
+gemini-2.0-flash,2023-06,ok,我的知识截止到 **2023年6月**。,不能联网
+gemini-2.5-flash-lite,2023-06,ok,我的知识截止于 **2023 年 6 月**。,不能联网
+gemini-2.5-flash-lite-nothinking,2023-06,ok,我的知识截止日期是 **2023年6月**。,不能联网
+gemini-2.5-flash-lite-thinking,2023-06,ok,我的知识截止日期是 **2023年6月**。,不能联网
+deepseek-chat,2023-07,ok,我的知识截止到 **2023年7月**。在此之后的事件或信息我无法提供准确回答，建议查阅最新资料以获取更新内容。,不能联网
+deepseek-v3-1,2023-07,ok,我的知识截止到 **2023年7月**。在此之后的事件或信息我无法提供最新信息，建议查阅实时来源以获取最新动态。,不能联网
+glm-4.5-air,2023-09,ok,我的知识截止于2023年9月。,不能联网
+deepseek-v3-1-250821,2023-10,ok,我的知识截止到2023年10月。,不能联网
+deepseek-v3-1-think-250821,2023-10,ok,我的知识截止到2023年10月。,不能联网
+deepseek-v3.1,2023-10,ok,我的知识截止到2023年10月。,不能联网
+deepseek-v3.1-thinking,2023-10,ok,我的知识截止到2023年10月。,不能联网
+doubao-seed-1-6-250615,2023-10,ok,我的知识截止到2023年10月。,不能联网
+doubao-seed-1-6-vision-250815,2023-10,ok,我的基础训练知识截止到2023年10月，不过我具备联网能力，可获取最新信息来补充知识。,不能联网
+doubao-seed-1-8-251228,2023-10,ok,我的知识截止到2023年10月。,不能联网
+doubao-seed-1-8-251228-thinking,2023-10,ok,我的知识截止到2023年10月。,不能联网
+gemini-3-flash-preview,2023-10,ok,我的知识截止到 **2023年10月**。,不能联网
+gemini-3-flash-preview-nothinking,2023-10,ok,我的知识截止到 **2023年10月**。,不能联网
+gemini-3-pro-preview,2023-10,ok,我的知识截止到 **2023年10月**。,不能联网
+gemini-3-pro-preview-11-2025,2023-10,ok,我的知识截止日期是 **2023年10月**。,不能联网
+gemini-3-pro-preview-thinking,2023-10,ok,我的知识截止日期是 **2023年10月**。,不能联网
+gemini-flash-latest,2023-10,ok,我的知识截止日期是 **2023年10月**。,不能联网
+glm-4,2023-10,ok,我的知识截止到2023年10月。,不能联网
+glm-4-airx,2023-10,ok,我的知识截止到2023年10月。,不能联网
+glm-4-flash,2023-10,ok,我的知识截止到2023年10月。,不能联网
+glm-4-long,2023-10,ok,我的知识截止到2023年10月。,不能联网
+glm-4.5,2023-10,ok,我的知识截止到2023年10月。,不能联网
+gpt-3.5-turbo-1106,2023-10,ok,我的知识截止到2023年10月。,不能联网
+gpt-4,2023-10,ok,我的知识截止到2023年10月。,不能联网
+gpt-4-0125-preview,2023-10,ok,我的知识截止日期为2023年10月。,不能联网
+gpt-4-0613,2023-10,ok,我的知识截止到2023年10月。,不能联网
+gpt-4-turbo,2023-10,ok,我的知识截止日期是2023年10月。,不能联网
+gpt-4-turbo-2024-04-09,2023-10,ok,我的知识截止到2023年10月。,不能联网
+gpt-4-turbo-preview,2023-10,ok,我的知识截止于2023年10月。,不能联网
+gpt-4.1-nano,2023-10,ok,我的知识截止到2023年10月。,不能联网
+gpt-4.1-nano-2025-04-14,2023-10,ok,我的知识截止到2023年10月。,不能联网
+gpt-4o,2023-10,ok,我的知识截止到2023年10月。,不能联网
+gpt-4o-2024-05-13,2023-10,ok,我的知识截止到2023年10月。,不能联网
+gpt-4o-2024-08-06,2023-10,ok,我的知识截止到2023年10月。,不能联网
+gpt-4o-2024-11-20,2023-10,ok,我的知识截止到2023年10月。,不能联网
+gpt-4o-mini,2023-10,ok,我的知识截止到2023年10月。,不能联网
+gpt-4o-mini-2024-07-18,2023-10,ok,我的知识截止到2023年10月。,不能联网
+grok-3,2023-10,ok,我的知识截止到2023年10月。有什么问题，我很乐意帮忙！,不能联网
+grok-3-mini,2023-10,ok,我的知识截止到2023年10月。,不能联网
+grok-4-1-fast-non-reasoning,2023-10,ok,我的知识截止到2023年10月。,不能联网
+grok-4-1-fast-reasoning,2023-10,ok,2023年10月。,不能联网
+grok-4-fast-reasoning,2023-10,ok,我的知识截止到2023年10月。,不能联网
+kimi-k2,2023-10,ok,我的知识截止到2023年10月。,不能联网
+kimi-k2-0711-preview,2023-10,ok,我的知识截止到2023年10月。,不能联网
+kimi-k2-0905,2023-10,ok,2023年10月,不能联网
+kimi-k2-250905,2023-10,ok,我的知识截止到2023年10月。,不能联网
+kimi-k2-instruct,2023-10,ok,我的知识截止到2023年10月。,不能联网
+kimi-k2-thinking,2023-10,ok,我的知识截止到2023年10月。,不能联网
+llama-2-13b,2023-10,ok,我的知识截止到2023年10月。,不能联网
+llama-2-70b,2023-10,ok,我的知识截止到2023年10月。,不能联网
+llama-3-sonar-large-32k-chat,2023-10,ok,我的知识截止到2023年10月。,不能联网
+llama-3.1-405b,2023-10,ok,我的知识截止到2023年10月。,不能联网
+llama-3.1-405b-instruct,2023-10,ok,我的知识截止到2023年10月。,不能联网
+llama-3.1-70b-instruct,2023-10,ok,我的知识截止到2023年10月。,不能联网
+meta-llama/llama-4-maverick,2023-10,ok,我的知识截止到2023年10月。,不能联网
+meta-llama/llama-4-scout,2023-10,ok,我的知识截止到2023年10月。,不能联网
+o1,2023-10,ok,我对2023年10月以前的信息有所了解。,不能联网
+o1-mini,2023-10,ok,我的知识截止到2023年10月。,不能联网
+o1-mini-2024-09-12,2023-10,ok,我的知识截止时间是2023年10月。,不能联网
+o1-preview-2024-09-12,2023-10,ok,我的知识截止到 2023 年 10 月。,不能联网
+o3-mini,2023-10,ok,我的知识截止到2023年10月。,不能联网
+o3-mini-2025-01-31,2023-10,ok,我的知识截止到2023年10月。,不能联网
+qwen2.5-coder-7b-instruct,2023-10,ok,我的知识截止到2023年10月。有什么我可以帮你的吗？,不能联网
+claude-3-5-sonnet-20241022,2023-11,ok,我的知识截止到2023年11月。,不能联网
+gpt-4-gizmo-*,2023-11,ok,我的知识截止到 2023 年 11 月。,不能联网
+gemini-3.1-flash-image-preview,2023-12,ok,我的知识截止到2023年12月。,不能联网
+glm-4.7-thinking,2023-12,ok,我的知识截止到 2023 年 12 月。,不能联网
+llama-2-7b,2023-12,ok,我的知识截止到2023年12月。,不能联网
+llama-3-70b,2023-12,ok,我的知识截止到2023年12月。,不能联网
+llama-3-sonar-small-32k-chat,2023-12,ok,我的知识截止到2023年12月。,不能联网
+llama-3.1-70b,2023-12,ok,我的知识截止到2023年12月。,不能联网
+llama-3.2-3b-instruct,2023-12,ok,我的知识截止到2023年12月。,不能联网
+llama-3.3-70b-instruct,2023-12,ok,我的知识截止到2023年12月。,不能联网
+gemini-3.1-flash-lite-preview,2024-01,ok,我的知识截止日期是 **2024年1月**。,不能联网
+qwen3-coder,2024-03,ok,我的知识更新截止到2024年3月。,不能联网
+glm-5,2024-04,ok,我的知识截止于2024年4月。,不能联网
+mimo-v2-flash,2024-04,ok,"我的知识库截止到 **2024年4月**。
+
+对于在此之后发生的事件或新发布的信息，我可能无法提供帮助。",不能联网
+MiniMax-M2.5,2024-06,ok,"<think>用户用中文问我简洁地告诉ta我的知识截止到什么时候。
+
+我应该简洁地回答这个问题。
+</think>
+
+我的知识截止到 **2024年6月**。",不能联网
+claude-3-7-sonnet-20250219,2024-06,ok,我的知识截止到2024年6月。,不能联网
+claude-3-7-sonnet-20250219-thinking,2024-06,ok,我的知识截止到2024年6月。,不能联网
+claude-sonnet-4-20250514,2024-06,ok,我的知识截止到2024年6月。,不能联网
+claude-sonnet-4-20250514-thinking,2024-06,ok,我的知识截至到2024年6月。,不能联网
+claude-sonnet-4-5-20250929,2024-06,ok,我的知识截止到2024年6月。,不能联网
+claude-sonnet-4-5-20250929-thinking,2024-06,ok,我的知识截止到2024年6月。,不能联网
+deepseek-v3,2024-06,ok,我的知识截止到**2024年6月**。之后的事件或信息我无法提供。有需要帮助的可以随时问我！,不能联网
+deepseek-v3-250324,2024-06,ok,我的知识截止到**2024年6月**。之后的事件或信息我无法提供。如果有需要，我会尽力基于已有知识帮助你！,不能联网
+deepseek-v3-fast,2024-06,ok,我的知识截止到**2024年6月**。之后的事件或信息我无法提供。有什么可以帮你的？,不能联网
+gpt-4.1,2024-06,ok,我的知识截止到2024年6月。,不能联网
+gpt-4.1-2025-04-14,2024-06,ok,我的知识截止到2024年6月。,不能联网
+gpt-4.1-mini,2024-06,ok,我的知识截止到2024年6月。,不能联网
+gpt-4.1-mini-2025-04-14,2024-06,ok,我的知识截止到2024年6月。,不能联网
+gpt-5-mini-2025-08-07,2024-06,ok,我的知识截止到2024年6月。,不能联网
+gpt-5-nano-2025-08-07,2024-06,ok,我的知识截止到2024年6月。此后发生的事件或更新可能不够了解，请以最新信息为准。,不能联网
+gpt-5.2-chat,2024-06,ok,我的知识截止到 **2024年6月**。,不能联网
+gpt-5.3-codex,2024-06,ok,我的知识截止到 **2024年6月**。,不能联网
+gpt-5.3-codex-high,2024-06,ok,"<think>**Providing concise knowledge cutoff**</think>
+
+我的知识截止到 **2024年6月**。",不能联网
+gpt-5.3-codex-medium,2024-06,ok,我的知识截止时间是 **2024年6月**。,不能联网
+gpt-oss-120b,2024-06,ok,我的知识截至2024年6月。,不能联网
+gpt-oss-20b,2024-06,ok,我的知识截止到2024年6月。,不能联网
+minimax-m2.1,2024-06,ok,我的知识截止到2024年6月。,不能联网
+o3,2024-06,ok,我的知识更新到 2024 年 6 月。,不能联网
+o3-2025-04-16,2024-06,ok,我的知识更新至 2024 年 6 月。,不能联网
+o3-mini-all,2024-06,ok,我的知识截止到2024年6月。,不能联网
+o4-mini,2024-06,ok,我的知识截止到2024年6月。,不能联网
+o4-mini-2025-04-16,2024-06,ok,我的知识截止到2024年6月。,不能联网
+deepseek-r1-250528,2024-07,ok,您好！我的知识截止日期是2024年7月。对于时效性强的问题，建议您使用联网功能获取最准确的信息。,不能联网
+deepseek-r1-distill-qwen-7b,2024-07,ok,您好！我的知识截止日期是2024年7月。对于时效性较强的问题，建议您使用联网功能获取最准确的信息。,不能联网
+deepseek-v3-0324,2024-07,ok,我的知识截止到2024年7月。,不能联网
+deepseek-v3.1-fast,2024-07,ok,我的知识截止到 **2024年7月**。,不能联网
+deepseek-v3.2-exp-thinking,2024-07,ok,我的知识截止到 **2024年7月**。,不能联网
+seed-oss-36b-instruct,2024-07,ok,我的知识截止到2024年7月。,不能联网
+gpt-4-vision-preview,2024-10,ok,我的知识截止到2024年10月。,不能联网
+gpt-5,2024-10,ok,我的知识截止到2024年10月。,不能联网
+gpt-5-2025-08-07,2024-10,ok,我的知识截止到2024年10月。,不能联网
+gpt-5-high,2024-10,ok,我的知识截止到2024年10月。,不能联网
+gpt-5-low,2024-10,ok,我的知识截至2024年10月。,不能联网
+gpt-5-minimal,2024-10,ok,我的知识截止到2024年10月。,不能联网
+gpt-5.1,2024-10,ok,我的知识截止到 2024 年 10 月。,不能联网
+gpt-5.1-2025-11-13,2024-10,ok,我的知识更新到 **2024 年 10 月**。,不能联网
+gpt-5.1-chat,2024-10,ok,我的知识截止到 2024 年 10 月。,不能联网
+gpt-5.1-chat-latest,2024-10,ok,我的知识截止到 2024 年 10 月。,不能联网
+gpt-5.1-high,2024-10,ok,我的知识截止时间是：**2024 年 10 月**。,不能联网
+gpt-5.1-medium,2024-10,ok,我的知识更新到 **2024 年 10 月**。,不能联网
+qwen-plus-2025-12-01,2024-10,ok,我的知识截止时间是2024年10月。,不能联网
+qwen3-14b,2024-10,ok,我的知识截止到2024年10月。,不能联网
+qwen-vl-max-latest,2024-12,ok,我的知识截止到2024年12月。,不能联网
+qwen2.5-vl-32b-instruct,2024-12,ok,我的训练数据截至2024年12月，因此我能够提供该时间点之前的知识和信息。如果你有任何问题或需要帮助，请随时告诉我！ 😊,不能联网
+qwen3-235b-a22b-instruct-2507,2024-12,ok,我的知识截止到2024年12月。,不能联网
+qwen3-vl-32b-instruct,2024-12,ok,我的知识截止到2024年12月。,不能联网
+qwen3-vl-8b-instruct,2024-12,ok,我的知识截止到2024年12月。,不能联网
+gemini-3-pro-image-preview,2025-01,ok,我的知识截止到2025年1月。,不能联网
+gemini-3.1-pro-preview,2025-01,ok,我的知识截止到2025年1月。,不能联网
+gpt-5.2-chat-latest,2025-08,ok,我的知识截止到 **2025年8月**。,不能联网
+gpt-5.3-chat-latest,2025-08,ok,我的知识截止时间是 **2025年8月**。如果需要，我也可以基于已有知识帮你推测或解释之后可能发生的情况，但无法保证最新性。,不能联网
+gpt-5.2,2025-09,ok,我的知识截止到 **2025 年 9 月**。,不能联网
+gpt-5.2-2025-12-11,2025-09,ok,我的知识截止到 **2025年9月**。,不能联网
+qwen-plus,2026,ok,我的知识截止到 2026 年。,不能联网
+qwen3-30b-a3b-think,2026,ok,我的知识截止到 2026 年。,不能联网
+qwq-32b,2026,ok,我的知识截止时间为 2026 年。,不能联网
+gemini-2.5-pro-thinking,实时更新,ok,我的知识截止日期是持续更新的，但通常反映的是我上次训练数据的信息。,不能联网
+SparkDesk-v2.1,N.A,ok,(empty reply),不能联网
+SparkDesk-v3.1,N.A,ok,(empty reply),不能联网
+claude-3-opus-20240229,N.A,ok,"I am Claude, an AI assistant made by Anthropic. I cannot disclose this information.",不能联网
+claude-opus-4-20250514,N.A,ok,"I am Claude, an AI assistant made by Anthropic. I cannot disclose this information.",不能联网
+claude-opus-4-20250514-thinking,N.A,ok,"I am Claude, an AI assistant made by Anthropic. I cannot disclose this information.",不能联网
+claude-opus-4-5-20251101,N.A,ok,"I am Claude, an AI assistant made by Anthropic. I cannot disclose this information.",不能联网
+claude-opus-4-5-20251101-thinking,N.A,ok,"I am Claude, an AI assistant made by Anthropic. I cannot disclose this information.",不能联网
+claude-opus-4-6,N.A,ok,"I am Claude, an AI assistant made by Anthropic. I cannot disclose this information.",不能联网
+claude-sonnet-4-6,N.A,TimeoutError,The read operation timed out,不能联网
+claude-sonnet-4-6-thinking,N.A,ok,"I am Claude, an AI assistant made by Anthropic. I cannot disclose this information.",不能联网
+deepseek-ocr,N.A,ok,简洁的告诉我你的知识截止到什么时候简洁的告诉我你的知识截止到2023年。,不能联网
+deepseek-r1-distill-qwen-32b,N.A,ok,您好！我是由中国的深度求索（DeepSeek）公司独立开发的智能助手DeepSeek-R1，有关模型和产品的详细内容请参考官方文档。,不能联网
+deepseek-v3.2,N.A,TimeoutError,The read operation timed out,不能联网
+deepseek-v3.2-fast,N.A,http_error_429,"{""error"":{""message"":""Model tpm limit exceeded. Please try again later. (request id: 20260317221102955766777YcCffy5C)"",""type"":""new_api_error"",""param"":"""",""code"":""bad_response_status_code""}}",不能联网
+deepseek-v3.2-thinking,N.A,TimeoutError,The read operation timed out,不能联网
+doubao-seed-1-6-251015,N.A,TimeoutError,The read operation timed out,不能联网
+doubao-seed-1-6-flash-250828,N.A,TimeoutError,The read operation timed out,不能联网
+doubao-seed-1-6-thinking-250615,N.A,TimeoutError,The read operation timed out,不能联网
+doubao-seed-1-6-thinking-250715,N.A,TimeoutError,The read operation timed out,不能联网
+flux-pro-max,N.A,TimeoutError,The read operation timed out,不能联网
+gemini-2.5-flash,N.A,ok,我的知识截止到2023年初。,不能联网
+gemini-2.5-flash-image,N.A,ok,我的知识截止到2023年。,不能联网
+gemini-2.5-flash-image-preview,N.A,ok,我的知识截止到2023年。,不能联网
+gemini-2.5-flash-lite-preview-09-2025,N.A,TimeoutError,The read operation timed out,不能联网
+gemini-2.5-pro-nothinking,N.A,ok,我的知识截止到2023年初。,不能联网
+gemini-3.1-pro-preview-thinking,N.A,TimeoutError,The read operation timed out,不能联网
+glm-4.6,N.A,ok,我的知识截止到2023年初。,不能联网
+glm-4.6-thinking,N.A,ok,我的知识库主要涵盖到2023年初。但我可以访问实时信息来回答一些最新问题。,不能联网
+glm-4.7,N.A,ok,我的知识截止到2023年底。,不能联网
+grok-4-fast-non-reasoning,N.A,ok,我的知识截止到2023年。,不能联网
+qwen-flash,N.A,TimeoutError,The read operation timed out,不能联网
+qwen-max-latest,N.A,ok,我的知识截止到2026年。,不能联网
+qwen-plus-latest,N.A,ok,我的知识截止到2026年。,不能联网
+qwen-turbo,N.A,ok,我的知识截止到2026年。,不能联网
+qwen-vl-max,N.A,ok,我的知识截止到2026年。,不能联网
+qwen2-vl-72b-instruct,N.A,TimeoutError,The read operation timed out,不能联网
+qwen2-vl-7b-instruct,N.A,ok,我的知识截止到2021年。,不能联网
+qwen2.5-14b-instruct-1m,N.A,TimeoutError,The read operation timed out,不能联网
+qwen2.5-32b-instruct,N.A,ok,我的知识截止到2026年。,不能联网
+qwen2.5-3b-instruct,N.A,TimeoutError,The read operation timed out,不能联网
+qwen2.5-72b-instruct,N.A,ok,我的知识截止到2026年。,不能联网
+qwen2.5-math-72b-instruct,N.A,ok,作为一个人工智能语言模型，我的知识来自于训练所用的数据集，数据集的来源比较多样，没有一个具体的截止时间。但是，我的知识随着时间的推移而不断更新和增加。在每次训练过程中，我都会学习到新的信息和模式，从而提高我的理解和生成能力。,不能联网
+qwen2.5-vl-72b-instruct,N.A,ok,我的知识截止到2023年。,不能联网
+qwen2.5-vl-7b-instruct,N.A,ok,我的知识更新至2019年，之后的信息我可能无法提供准确的答案或信息。如果您有其他问题，请随时提问！,不能联网
+qwen3-235b-a22b,N.A,ok,我的知识截止到2026年。,不能联网
+qwen3-235b-a22b-thinking-2507,N.A,TimeoutError,The read operation timed out,不能联网
+qwen3-30b-a3b-instruct-2507,N.A,ok,我的知识截止于2024年。,不能联网
+qwen3-32b,N.A,ok,我的知识截止到2026年。,不能联网
+qwen3-coder-flash,N.A,TimeoutError,The read operation timed out,不能联网
+qwen3-coder-plus,N.A,ok,我的知识截止到2026年。,不能联网
+qwen3-max,N.A,ok,我的知识截止时间为2026年。,不能联网
+qwen3-next-80b-a3b-instruct,N.A,ok,我的知识截止到2026年。,不能联网
+qwen3-vl-32b-thinking,N.A,TimeoutError,The read operation timed out,不能联网
+qwen3-vl-flash,N.A,TimeoutError,The read operation timed out,不能联网
+qwen3-vl-plus,N.A,ok,我的知识截止到2026年。,不能联网
+qwen3.5-397b-a17b,N.A,TimeoutError,The read operation timed out,不能联网
+qwq-72b-preview,N.A,ok,我的知识截止到2026年。,不能联网
