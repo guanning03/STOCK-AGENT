@@ -215,8 +215,8 @@ def log_progress_to_wandb(
 
     scalar_mappings = {
         "core-curves/strategy_nav": progress.get("nav"),
-        "core-curves/strategy_vs_benchmark/strategy_nav": progress.get("nav"),
-        "core-curves/strategy_vs_spy/strategy_nav": progress.get("nav"),
+        "strategy_vs_benchmark/strategy_nav": progress.get("nav"),
+        "strategy_vs_spy/strategy_nav": progress.get("nav"),
         "core-curves/drawdown": progress.get("drawdown"),
         "core-curves/cash_ratio": progress.get("cash_ratio"),
         "portfolio/total_equity": progress.get("total_equity"),
@@ -226,8 +226,8 @@ def log_progress_to_wandb(
         "portfolio/holdings_count": progress.get("holdings_count"),
         "trading/trades_count_today": progress.get("trades_count_today"),
         "trading/trades_notional_today": progress.get("trades_notional_today"),
-        "core-curves/strategy_vs_benchmark/benchmark_nav": progress.get("benchmark_nav"),
-        "core-curves/strategy_vs_spy/spy_nav": progress.get("benchmark_nav"),
+        "strategy_vs_benchmark/benchmark_nav": progress.get("benchmark_nav"),
+        "strategy_vs_spy/spy_nav": progress.get("benchmark_nav"),
         "core-curves/excess_return_cum": progress.get("excess_return_cum"),
     }
     for key, value in scalar_mappings.items():
@@ -238,6 +238,8 @@ def log_progress_to_wandb(
     metric_mappings = {
         "core-metrics/cum_return": metrics.get("cum_return"),
         "core-metrics/max_drawdown": metrics.get("max_drawdown"),
+        "core-metrics/sharpe": metrics.get("sharpe_stepwise", metrics.get("sharpe")),
+        "core-metrics/sharpe_annual": metrics.get("sharpe_annual"),
         "core-metrics/sortino": metrics.get("sortino"),
         "core-metrics/sortino_annual": metrics.get("sortino_annual"),
         "core-metrics/volatility_daily": metrics.get("volatility_daily"),
@@ -268,10 +270,10 @@ def log_progress_to_wandb(
             run.summary["last_completed_date"] = row["progress/date"]
         if "core-curves/strategy_nav" in row:
             run.summary["latest_nav"] = row["core-curves/strategy_nav"]
-        if "core-curves/strategy_vs_benchmark/benchmark_nav" in row:
-            run.summary["latest_benchmark_nav"] = row["core-curves/strategy_vs_benchmark/benchmark_nav"]
-        if "core-curves/strategy_vs_spy/spy_nav" in row:
-            run.summary["latest_benchmark_nav"] = row["core-curves/strategy_vs_spy/spy_nav"]
+        if "strategy_vs_benchmark/benchmark_nav" in row:
+            run.summary["latest_benchmark_nav"] = row["strategy_vs_benchmark/benchmark_nav"]
+        if "strategy_vs_spy/spy_nav" in row:
+            run.summary["latest_benchmark_nav"] = row["strategy_vs_spy/spy_nav"]
     except Exception as exc:
         print(f"[W&B] incremental logging failed: {exc}")
 
@@ -340,6 +342,8 @@ def log_to_wandb(
             "sortino",
             "sortino_annual",
             "sharpe",
+            "sharpe_stepwise",
+            "sharpe_annual",
             "volatility",
             "volatility_daily",
             "trades_count",
@@ -444,13 +448,13 @@ def log_to_wandb(
                 strategy_nav = _get(nav_s)
                 if strategy_nav is not None:
                     row["core-curves/strategy_nav"] = strategy_nav
-                    row["core-curves/strategy_vs_benchmark/strategy_nav"] = strategy_nav
-                    row["core-curves/strategy_vs_spy/strategy_nav"] = strategy_nav
+                    row["strategy_vs_benchmark/strategy_nav"] = strategy_nav
+                    row["strategy_vs_spy/strategy_nav"] = strategy_nav
 
                 benchmark_nav = _get(bench_s)
                 if benchmark_nav is not None:
-                    row["core-curves/strategy_vs_benchmark/benchmark_nav"] = benchmark_nav
-                    row["core-curves/strategy_vs_spy/spy_nav"] = benchmark_nav
+                    row["strategy_vs_benchmark/benchmark_nav"] = benchmark_nav
+                    row["strategy_vs_spy/spy_nav"] = benchmark_nav
 
                 excess_cum = _get(excess_cum_s)
                 if excess_cum is not None:

@@ -132,6 +132,7 @@ Each backtest run creates a unique directory with comprehensive results:
   - `README.md`: Analysis methodology and interpretation guide
 - **`benchmark_comparisons/`**: Strategy vs various benchmark comparisons
   - `strategy_vs_spy/`: Comparison with S&P 500
+  - `strategy_vs_benchmark/`: Comparison with configured benchmark
   - `strategy_vs_simple_avg/`: Comparison with simple average
   - `strategy_vs_weighted_avg/`: Comparison with weighted average
 - **`aggregated_cumreturn_analysis.png`**: Cumulative return analysis

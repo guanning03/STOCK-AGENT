@@ -33,7 +33,17 @@ def _rolling_ratio(excess: pd.Series, window: int) -> float:
 
 def evaluate(nav_series: pd.Series, trades: pd.DataFrame, benchmark_nav: Optional[pd.Series] = None) -> Dict:
     if nav_series is None or len(nav_series) == 0:
-        base = {"cum_return": 0.0, "max_drawdown": 0.0, "volatility_daily": 0.0, "sortino": 0.0}
+        base = {
+            "cum_return": 0.0,
+            "max_drawdown": 0.0,
+            "volatility_daily": 0.0,
+            "sortino": 0.0,
+            "sharpe": 0.0,
+            "sharpe_annual": 0.0,
+            "sharpe_stepwise": 0.0,
+            "sortino_annual": 0.0,
+            "volatility": 0.0,
+        }
         # Trading statistics
         trades_count = int(0 if trades is None else len(trades))
         trades_notional = float(0.0)
@@ -54,6 +64,9 @@ def evaluate(nav_series: pd.Series, trades: pd.DataFrame, benchmark_nav: Optiona
     downside_ret = ret[ret < 0]
     downside_vol = float(downside_ret.std()) if len(downside_ret) > 0 else 0.0
     sortino = float(ret.mean() / downside_vol) if downside_vol > 0 else 0.0
+
+    # Sharpe ratio: expose both stepwise (daily-scale) and annualized versions.
+    sharpe_stepwise = float(ret.mean() / vol_daily) if vol_daily > 0 else 0.0
     
     # Annualized metrics (suitable for long-term, less reference value for short-term)
     sharpe_annual = float((ret.mean() * 252) / vol_annual) if vol_annual > 0 else 0.0
@@ -77,12 +90,14 @@ def evaluate(nav_series: pd.Series, trades: pd.DataFrame, benchmark_nav: Optiona
         "cum_return": cum_return, 
         "max_drawdown": mdd, 
         "volatility_daily": vol_daily,
+        "sharpe_stepwise": sharpe_stepwise,
         "sortino": sortino,
         "trades_count": trades_count, 
         "trades_notional": trades_notional,
         # Annualized metrics (long-term reference)
         "volatility": vol_annual,
         "sharpe": sharpe_annual,
+        "sharpe_annual": sharpe_annual,
         "sortino_annual": sortino_annual,
     }
 
