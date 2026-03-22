@@ -19,6 +19,7 @@ import pandas as pd
 
 from stockbench.core.executor import decide_batch as unified_decide_batch
 from stockbench.core import data_hub
+from stockbench.core.features import build_news_events_section
 
 
 class Strategy:
@@ -44,6 +45,11 @@ class Strategy:
         self.cfg = cfg
         self.news_lookback_days = int((cfg or {}).get("news", {}).get("lookback_days", 7))
         self.page_limit = int((cfg or {}).get("news", {}).get("page_limit", 50))
+        news_enabled = ((cfg or {}).get("news", {}) or {}).get("enabled", True)
+        if isinstance(news_enabled, str):
+            self.news_enabled = news_enabled.strip().lower() not in {"false", "0", "no", "none", "off"}
+        else:
+            self.news_enabled = bool(news_enabled)
         self.warmup_days = int((cfg or {}).get("backtest", {}).get("warmup_days", 60))
         # Agent mode: "dual" (dual-agent) or "single" (single-agent), default single-agent
         agents_mode = (cfg or {}).get("agents", {}).get("mode")
@@ -205,6 +211,7 @@ class Strategy:
                     history_record = {
                         "date": entry["date"],
                         "action": decision.get("action", "hold"),
+                        "target_state": decision.get("target_state"),
                         "cash_change": decision.get("cash_change", 0.0),
                         "target_cash_amount": decision.get("target_cash_amount", 0.0),
                         "shares": decision.get("shares", 0.0),
@@ -479,20 +486,25 @@ class Strategy:
                 # If making decisions on May 1st with lookback_days=3, should fetch news from April 28-30
                 news_end_date = end_date  # Pass decision date directly, let get_news() handle bias prevention
                 news_start_date = end_date - pd.Timedelta(days=self.news_lookback_days)  # Go back lookback days
-                
-                logger.debug(f"[DEBUG] News fetching parameter correction:")
-                logger.debug(f"[DEBUG]   Decision date: {end_date.strftime('%Y-%m-%d')}")
-                logger.debug(f"[DEBUG]   News fetching range: {news_start_date.strftime('%Y-%m-%d')} to {news_end_date.strftime('%Y-%m-%d')}")
-                
-                news_result = data_hub.get_news(
-                    symbol, 
-                    news_start_date.strftime("%Y-%m-%d"), 
-                    news_end_date.strftime("%Y-%m-%d"),
-                    limit=page_limit
-                )
-                if news_result is not None:
-                    news_raw, _ = news_result
+
+                if self.news_enabled:
+                    logger.debug(f"[DEBUG] News fetching parameter correction:")
+                    logger.debug(f"[DEBUG]   Decision date: {end_date.strftime('%Y-%m-%d')}")
+                    logger.debug(f"[DEBUG]   News fetching range: {news_start_date.strftime('%Y-%m-%d')} to {news_end_date.strftime('%Y-%m-%d')}")
+
+                    news_result = data_hub.get_news(
+                        symbol,
+                        news_start_date.strftime("%Y-%m-%d"),
+                        news_end_date.strftime("%Y-%m-%d"),
+                        limit=page_limit,
+                        cfg=self.cfg,
+                    )
+                    if news_result is not None:
+                        news_raw, _ = news_result
+                    else:
+                        news_raw = []
                 else:
+                    logger.info(f"[NEWS_DISABLED] Skip news retrieval for {symbol}")
                     news_raw = []
                 
                 # Handle different news data formats
@@ -647,25 +659,13 @@ class Strategy:
                 "shares": round(float(getattr(position, "shares", 0) or 0), 2)
             }
             
-            # Convert news_items to simple title+description format
-            simple_news_list = []
-            if news_items:
-                for news_item in news_items:
-                    if isinstance(news_item, dict):
-                        title = news_item.get("title", "")
-                        description = news_item.get("description", "")
-                        if title:
-                            # Format: "title - description" if both exist, otherwise just title
-                            if description and description.strip():
-                                news_text = f"{title} - {description}"
-                            else:
-                                news_text = title
-                            simple_news_list.append(news_text)
-                    elif isinstance(news_item, str) and news_item.strip():
-                        simple_news_list.append(news_item)
-            
-            if not simple_news_list:
-                simple_news_list = ["No news available"]
+            news_events_section = build_news_events_section(
+                news_items=news_items,
+                news_top_k=int(self.cfg.get("news", {}).get("top_k_event_count", 5)),
+                symbol=symbol,
+                news_enabled=self.news_enabled,
+                config=self.cfg,
+            )
             
             # Build historical close_7d price series correctly
             close_7d = []
@@ -713,9 +713,10 @@ class Strategy:
                 "symbol": symbol,
                 "features": {
                     "market_data": {"ticker": symbol, "open": ref_price, "close_7d": close_7d},
-                    "news_events": {"top_k_events": simple_news_list},
+                    "news_events": news_events_section,
                     "position_state": position_state
                 },
+                "raw_news_items": news_items,
                 "market_ctx": {"daily_drawdown_pct": float(ctx.get("daily_drawdown_pct") or 0.0)}
             }
             
@@ -793,20 +794,34 @@ class Strategy:
             # Get news data (extract from original features to avoid duplicate API calls)
             news_items = []
             try:
-                # Extract news data from already built features
-                if "features" in fi and "news_events" in fi["features"]:
+                if isinstance(fi.get("raw_news_items"), list) and fi.get("raw_news_items"):
+                    news_items = fi.get("raw_news_items", [])
+                # Fallback: reconstruct from already built features
+                elif "features" in fi and "news_events" in fi["features"]:
                     top_k_events = fi["features"]["news_events"].get("top_k_events", [])
+                    image_inputs = fi["features"]["news_events"].get("image_inputs", [])
+                    image_lookup = {}
+                    for entry in image_inputs:
+                        if isinstance(entry, dict):
+                            event_index = entry.get("event_index")
+                            if isinstance(event_index, int):
+                                image_lookup[event_index] = entry
+
                     # Convert news events to simple news_items format for decision agent
                     if isinstance(top_k_events, list) and top_k_events and top_k_events[0] != "No news data available":
-                        for event in top_k_events:
+                        for idx, event in enumerate(top_k_events, start=1):
                             if isinstance(event, str) and event.strip():
                                 # Since top_k_events is already in title+description format from analysis,
                                 # we can use it directly as title for the decision agent
-                                news_items.append({
+                                rebuilt_item = {
                                     "title": event,  # This already contains "title - description"
                                     "description": "",  # Keep empty since title already has full info
                                     "published_utc": ctx["date"].strftime("%Y-%m-%dT00:00:00Z")
-                                })
+                                }
+                                image_entry = image_lookup.get(idx)
+                                if image_entry:
+                                    rebuilt_item["image"] = image_entry.get("image_url", "")
+                                news_items.append(rebuilt_item)
             except Exception as e:
                 logger.warning(f"Failed to extract news data from features {symbol}: {e}")
             
@@ -980,10 +995,11 @@ class Strategy:
             for symbol, decision in decisions_map.items():
                 if symbol != "__meta__":
                     action = decision.get("action", "unknown")
+                    target_state = decision.get("target_state", "N/A")
                     target_cash = decision.get("target_cash_amount", 0.0)
                     cash_change = decision.get("cash_change", 0.0)
                     confidence = decision.get("confidence", 0.0)
-                    logger.debug(f"[PENDING_SAVE]   {symbol} - action={action}, target_cash_amount={target_cash}, cash_change={cash_change}, confidence={confidence}")
+                    logger.debug(f"[PENDING_SAVE]   {symbol} - action={action}, target_state={target_state}, target_cash_amount={target_cash}, cash_change={cash_change}, confidence={confidence}")
         
         logger.info(f"[PENDING_SAVE] Pending decisions stored, waiting for recording after trade execution")
         logger.info(f"=== Store Pending Decisions Completed ===\n")

@@ -20,6 +20,133 @@ except ImportError:
 # Set up logger
 logger = logging.getLogger(__name__)
 
+
+def _is_news_image_input_enabled(config: Dict | None) -> bool:
+    try:
+        value = (((config or {}).get("news", {}) or {}).get("include_image_inputs", True))
+        if isinstance(value, str):
+            return value.strip().lower() not in {"false", "0", "no", "none", "off"}
+        return bool(value)
+    except Exception:
+        return True
+
+
+def _max_news_images_per_symbol(config: Dict | None) -> int:
+    try:
+        value = int((((config or {}).get("news", {}) or {}).get("max_image_count_per_symbol", 1)))
+        return max(value, 0)
+    except Exception:
+        return 1
+
+
+def _extract_news_image_url(item: Dict | None) -> str:
+    if not isinstance(item, dict):
+        return ""
+
+    candidates = [
+        item.get("image"),
+        item.get("image_url"),
+    ]
+
+    thumbnail = item.get("thumbnail")
+    if isinstance(thumbnail, dict):
+        candidates.append(thumbnail.get("url"))
+
+    media = item.get("media")
+    if isinstance(media, dict):
+        candidates.append(media.get("url"))
+
+    for candidate in candidates:
+        if isinstance(candidate, str) and candidate.strip():
+            return candidate.strip()
+
+    return ""
+
+
+def build_news_events_section(
+    news_items: List[Dict] | None,
+    news_top_k: int,
+    symbol: str,
+    news_enabled: bool,
+    config: Dict | None = None,
+) -> Dict[str, List]:
+    """Build a prompt-friendly news section while preserving optional image inputs."""
+    top_events: List[str] = []
+    image_inputs: List[Dict[str, object]] = []
+    max_images = _max_news_images_per_symbol(config) if _is_news_image_input_enabled(config) else 0
+
+    if not news_enabled:
+        logger.info(f"📰 [NEWS_DISABLED] News disabled for {symbol}, skip news processing")
+        return {"top_k_events": [], "image_inputs": []}
+
+    if not news_items:
+        logger.warning(f"⚠️ [NEWS_PROCESSING] No news data available for {symbol}")
+        return {"top_k_events": ["No news available"], "image_inputs": []}
+
+    logger.info(f"📰 [NEWS_PROCESSING] Processing {len(news_items)} news items for {symbol}, target: {news_top_k}")
+
+    for item in news_items[:news_top_k]:
+        event_text = ""
+        title = ""
+        source = ""
+        image_url = ""
+
+        if isinstance(item, dict):
+            title = str(item.get("title", "")).strip()
+            description = str(item.get("description", "")).strip()
+            source = str(item.get("source", "")).strip()
+            image_url = _extract_news_image_url(item)
+
+            if title and description:
+                event_text = f"{title} - {description}"
+            elif title:
+                event_text = title
+        elif isinstance(item, str):
+            event_text = item.strip()
+            title = event_text
+
+        if not event_text:
+            logger.warning(f"⚠️ [NEWS_PROCESSING] Empty news item for {symbol}: {item}")
+            continue
+
+        top_events.append(event_text)
+
+        if image_url and len(image_inputs) < max_images:
+            image_inputs.append(
+                {
+                    "symbol": symbol,
+                    "event_index": len(top_events),
+                    "title": title or event_text,
+                    "source": source,
+                    "image_url": image_url,
+                }
+            )
+
+    if not top_events:
+        logger.warning(f"⚠️ [NEWS_PROCESSING] No valid news content available for {symbol}")
+        return {"top_k_events": ["No news available"], "image_inputs": []}
+
+    if len(top_events) < news_top_k:
+        logger.warning(
+            f"⚠️ [NEWS_DATA_INSUFFICIENT] Only got {len(top_events)} news events for {symbol}, expected {news_top_k}"
+        )
+
+    logger.info(
+        f"✅ [NEWS_PROCESSING] Processed {len(top_events)} news events for {symbol}; "
+        f"preserved {len(image_inputs)} image inputs"
+    )
+    return {"top_k_events": top_events, "image_inputs": image_inputs}
+
+
+def _is_news_enabled(config: Dict | None) -> bool:
+    try:
+        value = (((config or {}).get("news", {}) or {}).get("enabled", True))
+        if isinstance(value, str):
+            return value.strip().lower() not in {"false", "0", "no", "none", "off"}
+        return bool(value)
+    except Exception:
+        return True
+
 def _compute_stock_indicators(ticker: str, date: str, current_price: float) -> Dict[str, float]:
     """Calculate key stock indicator features
     
@@ -191,6 +318,7 @@ def build_features_for_prompt(
         history_cfg = features_cfg.get("history", {})
         news_cfg = features_cfg.get("news", {})
         position_cfg = features_cfg.get("position", {})
+        news_enabled = _is_news_enabled(config)
         
         # Historical data window configuration
         price_series_days = int(history_cfg.get("price_series_days", 7))
@@ -322,51 +450,25 @@ def build_features_for_prompt(
         
         
         # Process news data
-        top_events = []
         try:
-            if news_items:
-                logger.info(f"📰 [NEWS_PROCESSING] Processing {len(news_items)} news items for {symbol}, target: {news_top_k}")
-                if enable_debug:
-                    logger.debug(f"Original news data count: {len(news_items)}")
-                    logger.debug(f"Using top_k_event_count: {news_top_k}")
-                
-                # Prioritize title+description combination mode (Mode B), fall back to title-only mode (Mode A) when description is missing
-                for i, item in enumerate(news_items[:news_top_k]):
-                    title = item.get("title", "")
-                    description = item.get("description", "")
-                    
-                    if title and description and description.strip():
-                        # Mode B: Title + description combination
-                        combined_content = f"{title.strip()} - {description.strip()}"
-                        top_events.append(combined_content)
-                        if enable_debug:
-                            logger.debug(f"Using mode B (title+description) [{i+1}]: {title[:50]}...")
-                    elif title:
-                        # Mode A: Title-only fallback
-                        top_events.append(title.strip())
-                        if enable_debug:
-                            logger.debug(f"Using mode A (title only) [{i+1}]: {title[:50]}...")
-                    else:
-                        logger.warning(f"⚠️ [NEWS_PROCESSING] Empty news item [{i+1}] for {symbol}: {item}")
-                    
-                logger.info(f"✅ [NEWS_PROCESSING] Processed {len(top_events)} news events for {symbol} (target: {news_top_k})")
-                if enable_debug:
-                    logger.debug(f"Number of processed news events: {len(top_events)}")
-                    for i, event in enumerate(top_events):
-                        logger.debug(f"Event {i+1}: {event[:100]}...")
-                        
-                # Warn if we didn't get enough news
-                if len(top_events) < news_top_k:
-                    logger.warning(f"⚠️ [NEWS_DATA_INSUFFICIENT] Only got {len(top_events)} news events for {symbol}, expected {news_top_k}")
-            else:
-                logger.warning(f"⚠️ [NEWS_PROCESSING] No news data available for {symbol}")
-                if enable_debug:
-                    logger.debug("No news data")
+            if enable_debug:
+                logger.debug(f"Original news data count: {len(news_items) if news_items else 0}")
+                logger.debug(f"Using top_k_event_count: {news_top_k}")
+
+            news_events_section = build_news_events_section(
+                news_items=news_items,
+                news_top_k=news_top_k,
+                symbol=symbol,
+                news_enabled=news_enabled,
+                config=config,
+            )
+            top_events = list(news_events_section.get("top_k_events", []))
         except Exception as e:
             logger.error(f"❌ [NEWS_PROCESSING] Error processing news data for {symbol}: {e}")
             if enable_debug:
                 logger.debug(f"Error processing news data: {e}")
-            top_events = []
+            news_events_section = {"top_k_events": ["No news available"] if news_enabled else [], "image_inputs": []}
+            top_events = list(news_events_section.get("top_k_events", []))
         
         # Check all possible None values before building feature structure
         if enable_debug:
@@ -517,9 +619,7 @@ def build_features_for_prompt(
         # Build feature data, conditionally include fundamental_data
         feature_sections = {
             "market_data": market_data,
-            "news_events": {
-                "top_k_events": top_events if top_events else ["No news available"]
-            },
+            "news_events": news_events_section,
             "position_state": {
                 "current_position_value": float(position_state.get("current_position_value", 0.0)) if isinstance(position_state, dict) else 0.0,
                 "holding_days": int(position_state.get("holding_days", 0)) if isinstance(position_state, dict) else 0,
@@ -575,7 +675,8 @@ def build_features_for_prompt(
         default_feature_sections = {
             "market_data": market_data,
             "news_events": {
-                "top_k_events": ["No news available"]
+                "top_k_events": [] if not _is_news_enabled(config) else ["No news available"],
+                "image_inputs": []
             },
             "position_state": {
                 "current_position_value": 0.0,
@@ -600,4 +701,3 @@ def build_features_for_prompt(
             "symbol": "UNKNOWN",
             "features": default_feature_sections
         }
-

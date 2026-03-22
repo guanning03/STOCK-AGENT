@@ -74,6 +74,8 @@ def generate_backtest_report(payload: Dict[str, Any], cfg: Dict | None = None, r
         budget_completion_tokens=int(llm_cfg_raw.get("max_tokens", 16_000)),
         auth_required=llm_cfg_raw.get("auth_required"),
         api_key_env=str(llm_cfg_raw.get("api_key_env", "OPENAI_API_KEY")),
+        supports_image_input=llm_cfg_raw.get("supports_image_input"),
+        max_input_images=int(llm_cfg_raw.get("max_input_images", 8)),
     )
     # Read global cache.mode and refine read/write switches
     cache_mode = str((cfg or {}).get("cache", {}).get("mode", "full")).lower()

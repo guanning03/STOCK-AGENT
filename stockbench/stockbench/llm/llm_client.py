@@ -5,7 +5,7 @@ import time
 import json
 import re
 from dataclasses import dataclass
-from typing import Any, Dict, Optional, Tuple
+from typing import Any, Dict, List, Optional, Tuple
 from datetime import datetime, timedelta
 
 import httpx
@@ -50,6 +50,8 @@ class LLMConfig:
     # New: Whether authentication is required (vLLM can be auth-free by default)
     auth_required: Optional[bool] = None
     api_key_env: str = "OPENAI_API_KEY"
+    supports_image_input: Optional[bool] = None
+    max_input_images: int = 8
 
 
 class LLMClient:
@@ -179,7 +181,188 @@ class LLMClient:
         except Exception:
             pass
 
-    def _make_cache_key(self, role: str, cfg: LLMConfig, system_prompt: str, user_prompt: str) -> str:
+    def _prompt_to_text(self, prompt: Any) -> str:
+        if isinstance(prompt, str):
+            return prompt
+        if isinstance(prompt, (dict, list)):
+            return json.dumps(prompt, ensure_ascii=False, sort_keys=True)
+        if prompt is None:
+            return ""
+        return str(prompt)
+
+    def _prompt_length(self, prompt: Any) -> int:
+        return len(self._prompt_to_text(prompt))
+
+    def _find_first_complete_json_object(self, text: str) -> Optional[str]:
+        first_brace = text.find("{")
+        if first_brace == -1:
+            return None
+
+        stack: List[str] = []
+        in_string = False
+        escape_next = False
+
+        for i in range(first_brace, len(text)):
+            char = text[i]
+
+            if escape_next:
+                escape_next = False
+                continue
+
+            if char == "\\":
+                escape_next = True
+                continue
+
+            if char == '"' and not escape_next:
+                in_string = not in_string
+                continue
+
+            if in_string:
+                continue
+
+            if char == "{":
+                stack.append(char)
+            elif char == "}":
+                if stack:
+                    stack.pop()
+                    if not stack:
+                        return text[first_brace:i + 1]
+
+        return None
+
+    def _extract_prompt_object(self, prompt: Any) -> Optional[Any]:
+        if isinstance(prompt, (dict, list)):
+            return prompt
+
+        if not isinstance(prompt, str):
+            return None
+
+        text = prompt.strip()
+        if not text:
+            return None
+
+        try:
+            return json.loads(text)
+        except Exception:
+            pass
+
+        candidate = self._find_first_complete_json_object(text)
+        if candidate:
+            try:
+                return json.loads(candidate)
+            except Exception:
+                return None
+        return None
+
+    def _normalize_image_input(self, item: Any) -> Optional[Dict[str, str]]:
+        if not isinstance(item, dict):
+            return None
+
+        url = str(item.get("image_url") or item.get("url") or "").strip()
+        if not url:
+            return None
+
+        symbol = str(item.get("symbol") or "").strip()
+        title = str(item.get("title") or "").strip()
+        source = str(item.get("source") or "").strip()
+        event_index = item.get("event_index")
+
+        label_parts = []
+        if symbol:
+            label_parts.append(symbol)
+        if isinstance(event_index, int) and event_index > 0:
+            label_parts.append(f"event {event_index}")
+        if title:
+            label_parts.append(title[:160])
+        elif source:
+            label_parts.append(source)
+
+        return {
+            "url": url,
+            "label": " | ".join(label_parts) if label_parts else "Supplemental news image",
+        }
+
+    def _collect_image_inputs(self, payload: Any, max_images: int) -> List[Dict[str, str]]:
+        images: List[Dict[str, str]] = []
+        seen_urls = set()
+
+        def visit(node: Any) -> None:
+            if len(images) >= max_images:
+                return
+
+            if isinstance(node, dict):
+                image_inputs = node.get("image_inputs")
+                if isinstance(image_inputs, list):
+                    for item in image_inputs:
+                        normalized = self._normalize_image_input(item)
+                        if not normalized:
+                            continue
+                        url = normalized["url"]
+                        if url in seen_urls:
+                            continue
+                        seen_urls.add(url)
+                        images.append(normalized)
+                        if len(images) >= max_images:
+                            return
+
+                for value in node.values():
+                    visit(value)
+                    if len(images) >= max_images:
+                        return
+            elif isinstance(node, list):
+                for item in node:
+                    visit(item)
+                    if len(images) >= max_images:
+                        return
+
+        visit(payload)
+        return images
+
+    def _supports_image_input(self, cfg: LLMConfig) -> bool:
+        if cfg.supports_image_input is not None:
+            return bool(cfg.supports_image_input)
+
+        model = str(cfg.model or "").lower()
+        if "deepseek" in model:
+            return False
+        if "gpt-4o" in model:
+            return True
+        if "gemini" in model:
+            return True
+        return False
+
+    def _build_user_message_content(self, cfg: LLMConfig, user_prompt: Any) -> Any:
+        if isinstance(user_prompt, list):
+            return user_prompt
+
+        text_prompt = self._prompt_to_text(user_prompt)
+        if not self._supports_image_input(cfg):
+            return text_prompt
+
+        prompt_object = self._extract_prompt_object(user_prompt)
+        if prompt_object is None:
+            return text_prompt
+
+        image_inputs = self._collect_image_inputs(prompt_object, max(int(cfg.max_input_images or 0), 0))
+        if not image_inputs:
+            return text_prompt
+
+        content: List[Dict[str, Any]] = [{"type": "text", "text": text_prompt}]
+        content.append(
+            {
+                "type": "text",
+                "text": (
+                    "Supplemental news images are attached below. They correspond to the "
+                    "`news_events.image_inputs` entries in the same order."
+                ),
+            }
+        )
+        for image in image_inputs:
+            content.append({"type": "text", "text": image["label"]})
+            content.append({"type": "image_url", "image_url": {"url": image["url"]}})
+        return content
+
+    def _make_cache_key(self, role: str, cfg: LLMConfig, system_prompt: str, user_prompt: Any) -> str:
         ident = {
             "role": role,
             "provider": getattr(cfg, "provider", "openai-compatible"),
@@ -190,6 +373,8 @@ class LLMClient:
             "seed": cfg.seed,
             "system_prompt": system_prompt,
             "user_prompt": user_prompt,
+            "supports_image_input": cfg.supports_image_input,
+            "max_input_images": cfg.max_input_images,
         }
         return sha256_text(canonical_json(ident))
 
@@ -613,7 +798,7 @@ class LLMClient:
         
         return None
 
-    def _make_cache_key_with_date(self, role: str, cfg: LLMConfig, system_prompt: str, user_prompt: str, trade_date: str = None, retry_attempt: int = 0) -> str:
+    def _make_cache_key_with_date(self, role: str, cfg: LLMConfig, system_prompt: str, user_prompt: Any, trade_date: str = None, retry_attempt: int = 0) -> str:
         """Generate cache key including date and retry attempt"""
         base_params = {
             "role": role,
@@ -624,6 +809,8 @@ class LLMClient:
             "seed": cfg.seed,
             "system_prompt": system_prompt,
             "user_prompt": user_prompt,
+            "supports_image_input": cfg.supports_image_input,
+            "max_input_images": cfg.max_input_images,
         }
         
         if trade_date:
@@ -643,7 +830,7 @@ class LLMClient:
             else:
                 return base_key
 
-    def _cache_payload(self, cache_key: str, payload: Dict[str, Any], role: str, cfg: LLMConfig, system_prompt: str, user_prompt: str, run_id: Optional[str] = None, raw_response: Optional[Dict] = None, retry_attempt: int = 0) -> None:
+    def _cache_payload(self, cache_key: str, payload: Dict[str, Any], role: str, cfg: LLMConfig, system_prompt: str, user_prompt: Any, run_id: Optional[str] = None, raw_response: Optional[Dict] = None, retry_attempt: int = 0) -> None:
         """Cache LLM response - Enhanced version, save complete input/output data"""
         if not cfg.cache_enabled or not self.cache_dir:
             return
@@ -669,7 +856,7 @@ class LLMClient:
                     "system_prompt": system_prompt,
                     "user_prompt": user_prompt,
                     "system_prompt_length": len(system_prompt),
-                    "user_prompt_length": len(user_prompt)
+                    "user_prompt_length": self._prompt_length(user_prompt)
                 },
                 "output": {
                     "parsed_response": payload,  # Parsed JSON response
@@ -690,7 +877,7 @@ class LLMClient:
                 "provider": getattr(cfg, "provider", "openai-compatible"),
                 "cache_key": cache_key,
                 "system_prompt_length": len(system_prompt),
-                "user_prompt_length": len(user_prompt),
+                "user_prompt_length": self._prompt_length(user_prompt),
                 "response_length": len(str(payload)),
                 "cached": True,
                 "retry_attempt": retry_attempt,  # Add retry info to index
@@ -782,18 +969,24 @@ class LLMClient:
         except Exception:
             return None
 
-    def generate_json(self, role: str, cfg: LLMConfig, system_prompt: str, user_prompt: str, trade_date: str = None, run_id: Optional[str] = None, retry_attempt: int = 0) -> Tuple[Optional[Dict[str, Any]], Dict[str, Any]]:
+    def generate_json(self, role: str, cfg: LLMConfig, system_prompt: str, user_prompt: Any, trade_date: str = None, run_id: Optional[str] = None, retry_attempt: int = 0) -> Tuple[Optional[Dict[str, Any]], Dict[str, Any]]:
         """Generate JSON format response"""
         meta = {"role": role, "cached": False, "latency_ms": 0, "usage": {}}
         
         # Record LLM call start
         self.llm_logger.info(f"🤖 {role} - Model: {cfg.model}")
         
+        user_content = self._build_user_message_content(cfg, user_prompt)
+        if isinstance(user_content, list):
+            meta["input_image_count"] = sum(1 for item in user_content if isinstance(item, dict) and item.get("type") == "image_url")
+        else:
+            meta["input_image_count"] = 0
+
         # Check cache
         cache_read = cfg.cache_read_enabled if cfg.cache_read_enabled is not None else cfg.cache_enabled
         if cache_read and self.cache_dir:
             # Prioritize using date-included cache key
-            cache_key = self._make_cache_key_with_date(role, cfg, system_prompt, user_prompt, trade_date, retry_attempt)
+            cache_key = self._make_cache_key_with_date(role, cfg, system_prompt, user_content, trade_date, retry_attempt)
             cached = self.get_cached_payload(cache_key, run_id, role)
             if cached:
                 meta["cached"] = True
@@ -823,7 +1016,7 @@ class LLMClient:
             "model": cfg.model,
             "messages": [
                 {"role": "system", "content": system_prompt},
-                {"role": "user", "content": user_prompt},
+                {"role": "user", "content": user_content},
             ],
             "temperature": cfg.temperature,
             "max_tokens": cfg.max_tokens,
@@ -843,7 +1036,7 @@ class LLMClient:
                 
                 # Prioritize using OpenAI official client (unless other provider explicitly specified)
                 if provider in ["openai", "openai-official"] or provider not in ["vllm", "llama.cpp", "none", "openai-compatible", "openai-compatible-no-auth"]:
-                    result = self._call_openai_official(cfg, system_prompt, user_prompt)
+                    result = self._call_openai_official(cfg, system_prompt, user_content)
                     
                     if result["status_code"] == 200:
                         end_ts = time.time()
@@ -878,8 +1071,8 @@ class LLMClient:
                             self.llm_logger.debug(f"📊 Direct JSON parsing successful")
                             cache_write = cfg.cache_write_enabled if cfg.cache_write_enabled is not None else cfg.cache_enabled
                             if cache_write and self.cache_dir:
-                                cache_key = self._make_cache_key_with_date(role, cfg, system_prompt, user_prompt, trade_date, retry_attempt)
-                                self._cache_payload(cache_key, parsed, role, cfg, system_prompt, user_prompt, run_id, response_data, retry_attempt)
+                                cache_key = self._make_cache_key_with_date(role, cfg, system_prompt, user_content, trade_date, retry_attempt)
+                                self._cache_payload(cache_key, parsed, role, cfg, system_prompt, user_content, run_id, response_data, retry_attempt)
                             return parsed, meta
                         except json.JSONDecodeError:
                             # Direct parsing failed, try to extract JSON from <DECISION> tags
@@ -892,16 +1085,16 @@ class LLMClient:
                                 self.llm_logger.debug(f"✅ JSON extraction successful")
                                 cache_write = cfg.cache_write_enabled if cfg.cache_write_enabled is not None else cfg.cache_enabled
                                 if cache_write and self.cache_dir:
-                                    cache_key = self._make_cache_key_with_date(role, cfg, system_prompt, user_prompt, trade_date, retry_attempt)
-                                    self._cache_payload(cache_key, extracted_json, role, cfg, system_prompt, user_prompt, run_id, response_data, retry_attempt)
+                                    cache_key = self._make_cache_key_with_date(role, cfg, system_prompt, user_content, trade_date, retry_attempt)
+                                    self._cache_payload(cache_key, extracted_json, role, cfg, system_prompt, user_content, run_id, response_data, retry_attempt)
                                 return extracted_json, meta
                             
                             # Return original content
                             self.llm_logger.warning(f"⚠️ JSON extraction failed, returning original content")
                             cache_write = cfg.cache_write_enabled if cfg.cache_write_enabled is not None else cfg.cache_enabled
                             if cache_write and self.cache_dir:
-                                cache_key = self._make_cache_key_with_date(role, cfg, system_prompt, user_prompt, trade_date, retry_attempt)
-                                self._cache_payload(cache_key, {"raw_content": content}, role, cfg, system_prompt, user_prompt, run_id, response_data, retry_attempt)
+                                cache_key = self._make_cache_key_with_date(role, cfg, system_prompt, user_content, trade_date, retry_attempt)
+                                self._cache_payload(cache_key, {"raw_content": content}, role, cfg, system_prompt, user_content, run_id, response_data, retry_attempt)
                             return {"raw_content": content}, meta
                     
                     elif result["status_code"] == 401:
@@ -980,8 +1173,8 @@ class LLMClient:
                             self.llm_logger.debug(f"📊 JSON parsing successful")
                             cache_write = cfg.cache_write_enabled if cfg.cache_write_enabled is not None else cfg.cache_enabled
                             if cache_write and self.cache_dir:
-                                cache_key = self._make_cache_key_with_date(role, cfg, system_prompt, user_prompt, trade_date, retry_attempt)
-                                self._cache_payload(cache_key, parsed, role, cfg, system_prompt, user_prompt, run_id, response_data, retry_attempt)
+                                cache_key = self._make_cache_key_with_date(role, cfg, system_prompt, user_content, trade_date, retry_attempt)
+                                self._cache_payload(cache_key, parsed, role, cfg, system_prompt, user_content, run_id, response_data, retry_attempt)
                             return parsed, meta
                         except json.JSONDecodeError as e:
                             self.llm_logger.warning(f"⚠️ JSON parsing failed, trying to extract: {str(e)[:50]}")
@@ -1039,16 +1232,16 @@ class LLMClient:
                             if extracted_json:
                                 cache_write = cfg.cache_write_enabled if cfg.cache_write_enabled is not None else cfg.cache_enabled
                                 if cache_write and self.cache_dir:
-                                    cache_key = self._make_cache_key_with_date(role, cfg, system_prompt, user_prompt, trade_date, retry_attempt)
-                                    self._cache_payload(cache_key, extracted_json, role, cfg, system_prompt, user_prompt, run_id, response_data, retry_attempt)
+                                    cache_key = self._make_cache_key_with_date(role, cfg, system_prompt, user_content, trade_date, retry_attempt)
+                                    self._cache_payload(cache_key, extracted_json, role, cfg, system_prompt, user_content, run_id, response_data, retry_attempt)
                                 return extracted_json, meta
                             
                             # If still fails, return original content
                             self.llm_logger.warning(f"⚠️ All JSON extraction methods failed, returning original content (length: {len(content)})")
                             cache_write = cfg.cache_write_enabled if cfg.cache_write_enabled is not None else cfg.cache_enabled
                             if cache_write and self.cache_dir:
-                                cache_key = self._make_cache_key_with_date(role, cfg, system_prompt, user_prompt, trade_date, retry_attempt)
-                                self._cache_payload(cache_key, {"raw_content": content}, role, cfg, system_prompt, user_prompt, run_id, response_data, retry_attempt)
+                                cache_key = self._make_cache_key_with_date(role, cfg, system_prompt, user_content, trade_date, retry_attempt)
+                                self._cache_payload(cache_key, {"raw_content": content}, role, cfg, system_prompt, user_content, run_id, response_data, retry_attempt)
                             return {"raw_content": content}, meta
                     
                     except Exception as e:
@@ -1095,7 +1288,7 @@ class LLMClient:
         self.llm_logger.error(f"❌ {role} failed - Reason: max_retries_exceeded")
         return None, {**meta, "reason": "max_retries_exceeded"} 
 
-    def _call_openai_official(self, cfg: LLMConfig, system_prompt: str, user_prompt: str) -> Dict[str, Any]:
+    def _call_openai_official(self, cfg: LLMConfig, system_prompt: str, user_content: Any) -> Dict[str, Any]:
         """Call API using OpenAI official client"""
         self.llm_logger.debug(f"🔗 Call OpenAI official API - {cfg.model}")
         
@@ -1105,7 +1298,7 @@ class LLMClient:
                 model=cfg.model,
                 messages=[
                     {"role": "system", "content": system_prompt},
-                    {"role": "user", "content": user_prompt}
+                    {"role": "user", "content": user_content}
                 ],
                 temperature=cfg.temperature,
                 max_tokens=cfg.max_tokens,

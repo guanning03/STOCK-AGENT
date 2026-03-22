@@ -56,6 +56,7 @@ class AnalyzerOutput(_ConfigBase):
 class DecisionOutput(_ConfigBase):
     schema_version: str = "v2"
     action: Literal["increase", "hold", "decrease", "close"]
+    target_state: Optional[str] = None
     target_cash_amount: float = 0.0  # Target position cash amount
     cash_change: float = 0.0  # Cash change amount (positive for buy amount, negative for sell amount)
     reasons: List[str] = Field(default_factory=list)
@@ -69,4 +70,3 @@ class Order(_ConfigBase):
     limit: Optional[float] = None
     slice: int = 1
     twap_slices: int = 1
-

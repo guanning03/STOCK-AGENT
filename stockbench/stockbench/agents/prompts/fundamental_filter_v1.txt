@@ -20,6 +20,9 @@ Input:
 
     [news_events]  
     - top_k_events: News headlines/descriptions, type List[str]  
+    - image_inputs: Optional news image descriptors, type List[object]
+      * Each item may include symbol, event_index, title, source, image_url
+      * The same user message may include the corresponding image attachments in this order
 
     [position_state]  
     - current_position_value: Current position value (amount)  
@@ -46,6 +49,7 @@ Input:
      * Corporate events (earnings, guidance, M&A, regulatory changes)
      * Industry developments requiring fundamental context
      * Market-moving news that technical analysis alone cannot assess
+     * If image attachments are present for news_events.image_inputs, use them as supplemental evidence only
    
    - Position Risk: Assess position_state and portfolio concentration risks
      * Large position exposure requiring fundamental risk validation

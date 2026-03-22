@@ -81,6 +81,7 @@ def _build_history_from_previous_decisions(previous_decisions: Optional[Dict] = 
             history_record = {
                 "date": history_date,
                 "action": action,
+                "target_state": decision.get("target_state"),
                 "cash_change": cash_change,
                 "target_cash_amount": target_cash_amount,
                 "reasons": decision.get("reasons", []),
@@ -168,6 +169,8 @@ def filter_stocks_needing_fundamental(features_list: List[Dict], cfg: Dict | Non
         budget_completion_tokens=int(llm_cfg_raw.get("budget", {}).get("max_completion_tokens", 200_000)),
         auth_required=llm_cfg_raw.get("auth_required"),
         api_key_env=str(llm_cfg_raw.get("api_key_env", "OPENAI_API_KEY")),
+        supports_image_input=llm_cfg_raw.get("supports_image_input"),
+        max_input_images=int(llm_cfg_raw.get("max_input_images", 8)),
     )
 
     # Refine LLM read/write switches based on cache.mode

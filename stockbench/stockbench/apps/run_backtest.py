@@ -34,6 +34,7 @@ def main(
     # LLM profile switching
     llm_profile: str = typer.Option(None, help="Select LLM profile to override llm section: openai|gpt-oss-20b (corresponds to config.llm_profiles)"),
     # News sentiment aggregation
+    news_enabled: Optional[str] = typer.Option(None, help="Whether to provide news data: true|false (use config if empty)"),
     news_agg: str = typer.Option(None, help="News sentiment aggregation: mean|median|trimmed_mean (use config if empty)"),
     news_trim_alpha: float = typer.Option(None, help="News sentiment trimmed mean parameter alpha (0.0~0.49, use config if empty)"),
     # Backtest summary (natural language)
@@ -123,6 +124,8 @@ def main(
     config.setdefault("backtest", {})["timespan"] = "day"
 
     # News aggregation/ablation
+    if news_enabled is not None:
+        config.setdefault("news", {})["enabled"] = str(news_enabled).lower() not in ("false", "0", "no", "none", "off")
     if news_agg:
         config.setdefault("news", {})["agg"] = str(news_agg)
     if news_trim_alpha is not None:

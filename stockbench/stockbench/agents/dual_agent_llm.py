@@ -32,6 +32,433 @@ def _prompt_version(name: str) -> str:
     return base.replace("_", "/")
 
 
+_DEFAULT_DISCRETE_TARGET_STATES = {
+    "flat": 0.0,
+    "pilot": 0.04,
+    "core": 0.08,
+    "conviction": 0.15,
+}
+
+
+def _get_decision_space_config(cfg: Dict | None) -> Dict[str, object]:
+    raw_cfg = ((cfg or {}).get("decision_space") or {})
+    mode = str(raw_cfg.get("mode", "continuous")).strip().lower()
+    if mode not in {"continuous", "discrete_target_state"}:
+        logger.warning(f"[DECISION_SPACE] Unknown mode '{mode}', falling back to continuous")
+        mode = "continuous"
+
+    discrete_cfg = (raw_cfg.get("discrete_target_state") or {})
+    raw_states = discrete_cfg.get("states") or _DEFAULT_DISCRETE_TARGET_STATES
+    state_weights: Dict[str, float] = {}
+    for name, value in raw_states.items():
+        try:
+            state_weights[str(name).strip().lower()] = max(0.0, float(value))
+        except Exception:
+            logger.warning(f"[DECISION_SPACE] Invalid state weight ignored: {name}={value}")
+
+    if "flat" not in state_weights:
+        state_weights["flat"] = 0.0
+
+    ordered_states = sorted(state_weights.items(), key=lambda item: item[1])
+
+    return {
+        "mode": mode,
+        "state_weights": state_weights,
+        "ordered_states": ordered_states,
+        "keep_hold": bool(discrete_cfg.get("keep_hold", True)),
+        "quantize_fallback": str(discrete_cfg.get("quantize_fallback", "direction_aware")).strip().lower(),
+        "prompt_name": str(discrete_cfg.get("prompt", "decision_agent_discrete_target_state_v1.txt")).strip(),
+    }
+
+
+def _resolve_decision_prompt_name(cfg: Dict | None, decision_space_cfg: Dict[str, object]) -> str:
+    if decision_space_cfg.get("mode") == "discrete_target_state":
+        return str(decision_space_cfg.get("prompt_name") or "decision_agent_discrete_target_state_v1.txt")
+    return str(
+        (cfg or {}).get("agents", {}).get("dual_agent", {}).get("decision_agent", {}).get("prompt", "decision_agent_v1.txt")
+    )
+
+
+def _append_active_decision_space_note(system_prompt: str, decision_space_cfg: Dict[str, object]) -> str:
+    if decision_space_cfg.get("mode") != "discrete_target_state":
+        return system_prompt
+
+    ordered_states = decision_space_cfg.get("ordered_states") or []
+    lines = [
+        "",
+        "<ACTIVE DECISION SPACE>",
+        "You are operating in GLOBAL decision mode: discrete_target_state.",
+        "You MUST output decisions using the `target_state` field.",
+        "You MUST NOT output `target_cash_amount` or any free-form allocation value.",
+        "Allowed target_state values:",
+    ]
+    for state_name, weight in ordered_states:
+        lines.append(f'- "{state_name}": target portfolio weight {float(weight):.0%}')
+    lines.append('- "hold": keep the current position unchanged')
+    lines.append("</ACTIVE DECISION SPACE>")
+    return system_prompt.rstrip() + "\n\n" + "\n".join(lines)
+
+
+def _append_portfolio_constraint_note(system_prompt: str, cfg: Dict | None) -> str:
+    portfolio_cfg = (cfg or {}).get("portfolio", {}) or {}
+    backtest_cfg = (cfg or {}).get("backtest", {}) or {}
+
+    min_cash_ratio = max(0.0, float(portfolio_cfg.get("min_cash_ratio", 0.0) or 0.0))
+    raw_max_positions = backtest_cfg.get("max_positions", 999999)
+    try:
+        max_positions = int(raw_max_positions)
+    except Exception:
+        max_positions = 999999
+
+    lines = [
+        "",
+        "<ACTIVE PORTFOLIO CONSTRAINTS>",
+        f"- Maintain at least {min_cash_ratio:.0%} cash after rebalancing.",
+    ]
+    if max_positions < 999999:
+        lines.append(f"- Target no more than {max_positions} active positions.")
+    lines.append("- When budget is tight, keep lower-priority names at flat instead of spreading exposure too thin.")
+    lines.append("- Prioritize higher-confidence names before lower-confidence names.")
+    lines.append("</ACTIVE PORTFOLIO CONSTRAINTS>")
+    return system_prompt.rstrip() + "\n\n" + "\n".join(lines)
+
+
+def _coerce_reasons(raw_reasons: object) -> List[str]:
+    if isinstance(raw_reasons, list):
+        cleaned = [str(item) for item in raw_reasons if str(item).strip()]
+        return cleaned or ["No specific reason"]
+    if raw_reasons is None:
+        return ["No specific reason"]
+    text = str(raw_reasons).strip()
+    return [text] if text else ["No specific reason"]
+
+
+def _coerce_confidence(raw_confidence: object) -> float:
+    try:
+        return max(0.0, min(1.0, float(raw_confidence)))
+    except Exception:
+        return 0.5
+
+
+def _derive_action_from_target_cash(target_cash_amount: float, current_position_value: float, total_assets: float) -> str:
+    tolerance = max(float(total_assets) * 0.001, abs(float(current_position_value)) * 0.01, 50.0)
+    if abs(float(target_cash_amount) - float(current_position_value)) <= tolerance:
+        return "hold"
+    if float(target_cash_amount) <= tolerance:
+        return "close"
+    return "increase" if float(target_cash_amount) > float(current_position_value) else "decrease"
+
+
+def _quantize_target_state_from_legacy(
+    action: str,
+    desired_weight: Optional[float],
+    current_weight: float,
+    ordered_states: List[tuple[str, float]],
+) -> str:
+    if not ordered_states:
+        return "hold"
+
+    action = str(action).strip().lower()
+    eps = 1e-9
+
+    if action == "hold":
+        return "hold"
+    if action == "close":
+        return "flat"
+
+    if action == "increase":
+        higher_states = [(name, weight) for name, weight in ordered_states if weight > current_weight + eps]
+        if not higher_states:
+            return ordered_states[-1][0]
+        if desired_weight is not None:
+            for name, weight in higher_states:
+                if weight >= desired_weight - eps:
+                    return name
+            return higher_states[-1][0]
+        return higher_states[0][0]
+
+    if action == "decrease":
+        lower_states = [(name, weight) for name, weight in ordered_states if weight < current_weight - eps]
+        if not lower_states:
+            return "flat"
+        if desired_weight is not None:
+            chosen = None
+            for name, weight in lower_states:
+                if weight <= desired_weight + eps:
+                    chosen = name
+            if chosen is not None:
+                return chosen
+            return lower_states[0][0]
+        return lower_states[-1][0]
+
+    if desired_weight is None:
+        return "hold"
+    return min(ordered_states, key=lambda item: abs(item[1] - desired_weight))[0]
+
+
+def _normalize_symbol_decision(
+    symbol: str,
+    symbol_decision: Dict,
+    symbol_features: Dict,
+    total_assets: float,
+    decision_space_cfg: Dict[str, object],
+) -> Dict[str, object]:
+    current_position_value = float((symbol_features.get("position_state") or {}).get("current_position_value", 0.0))
+    reasons = _coerce_reasons(symbol_decision.get("reasons"))
+    confidence = _coerce_confidence(symbol_decision.get("confidence", 0.5))
+
+    if decision_space_cfg.get("mode") != "discrete_target_state":
+        action = str(symbol_decision.get("action", "hold")).lower().strip()
+        if action not in {"increase", "hold", "decrease", "close"}:
+            raise ValueError(f"{symbol}: unsupported action '{action}'")
+        if action == "hold" and "target_cash_amount" not in symbol_decision:
+            target_cash_amount = current_position_value
+        else:
+            target_cash_amount = float(symbol_decision.get("target_cash_amount", current_position_value if action == "hold" else 0.0))
+        target_cash_amount = max(0.0, target_cash_amount)
+        return {
+            "action": action,
+            "target_cash_amount": target_cash_amount,
+            "cash_change": target_cash_amount - current_position_value,
+            "target_state": str(symbol_decision.get("target_state")).strip().lower() if symbol_decision.get("target_state") is not None else None,
+            "reasons": reasons,
+            "confidence": confidence,
+        }
+
+    state_weights = decision_space_cfg.get("state_weights") or {}
+    ordered_states = decision_space_cfg.get("ordered_states") or []
+    target_state_raw = symbol_decision.get("target_state")
+
+    if target_state_raw is not None:
+        target_state = str(target_state_raw).strip().lower()
+        if target_state == "hold":
+            target_cash_amount = current_position_value
+        elif target_state in state_weights:
+            target_cash_amount = max(0.0, float(total_assets) * float(state_weights[target_state]))
+        else:
+            raise ValueError(f"{symbol}: unsupported target_state '{target_state}'")
+    else:
+        if "action" not in symbol_decision and "target_cash_amount" not in symbol_decision:
+            raise ValueError(f"{symbol}: missing target_state in discrete_target_state mode")
+        legacy_action = str(symbol_decision.get("action", "hold")).strip().lower()
+        raw_target_cash = symbol_decision.get("target_cash_amount")
+        desired_cash = None
+        if raw_target_cash not in (None, ""):
+            desired_cash = max(0.0, float(raw_target_cash))
+
+        current_weight = current_position_value / float(total_assets) if float(total_assets) > 0 else 0.0
+        desired_weight = desired_cash / float(total_assets) if desired_cash is not None and float(total_assets) > 0 else None
+        target_state = _quantize_target_state_from_legacy(
+            legacy_action,
+            desired_weight,
+            current_weight,
+            ordered_states,
+        )
+        if target_state == "hold":
+            target_cash_amount = current_position_value
+        else:
+            target_cash_amount = max(0.0, float(total_assets) * float(state_weights.get(target_state, 0.0)))
+
+    action = _derive_action_from_target_cash(target_cash_amount, current_position_value, total_assets)
+    return {
+        "action": action,
+        "target_cash_amount": max(0.0, float(target_cash_amount)),
+        "cash_change": float(target_cash_amount) - current_position_value,
+        "target_state": target_state,
+        "reasons": reasons,
+        "confidence": confidence,
+    }
+
+
+def _build_hold_decision(current_position_value: float, reason: str, decision_space_cfg: Dict[str, object]) -> Dict[str, object]:
+    decision = {
+        "action": "hold",
+        "target_cash_amount": float(current_position_value),
+        "cash_change": 0.0,
+        "reasons": [reason],
+        "confidence": 0.5,
+        "timestamp": datetime.now().isoformat(),
+    }
+    if decision_space_cfg.get("mode") == "discrete_target_state":
+        decision["target_state"] = "hold"
+    return decision
+
+
+def _decision_cash_tolerance(total_assets: float, reference_cash: float = 0.0) -> float:
+    return max(float(total_assets) * 0.001, abs(float(reference_cash)) * 0.01, 50.0)
+
+
+def _allocator_priority_score(decision: Dict[str, object], current_position_value: float, total_assets: float) -> float:
+    desired_cash = max(0.0, float(decision.get("target_cash_amount", 0.0) or 0.0))
+    desired_weight = desired_cash / float(total_assets) if float(total_assets) > 0 else 0.0
+    current_weight = float(current_position_value) / float(total_assets) if float(total_assets) > 0 else 0.0
+    confidence = _coerce_confidence(decision.get("confidence", 0.5))
+    existing_bonus = 0.015 if current_position_value > _decision_cash_tolerance(total_assets, current_position_value) else 0.0
+    persistence_bonus = min(current_weight, desired_weight) * 0.10
+    return desired_weight + (0.05 * confidence) + existing_bonus + persistence_bonus
+
+
+def _build_allocator_levels(
+    decision: Dict[str, object],
+    current_position_value: float,
+    total_assets: float,
+    ordered_states: List[tuple[str, float]],
+) -> List[tuple[str, float]]:
+    tolerance = _decision_cash_tolerance(total_assets, current_position_value)
+    requested_state = str(decision.get("target_state", "") or "").strip().lower()
+    desired_cash = max(0.0, float(decision.get("target_cash_amount", current_position_value) or 0.0))
+
+    levels: List[tuple[str, float]] = []
+
+    def _append_level(level_name: str, level_cash: float) -> None:
+        normalized_cash = max(0.0, float(level_cash))
+        for _, existing_cash in levels:
+            if abs(existing_cash - normalized_cash) <= tolerance:
+                return
+        levels.append((str(level_name).strip().lower(), normalized_cash))
+
+    if requested_state == "hold":
+        _append_level("hold", current_position_value)
+        for state_name, weight in sorted(ordered_states, key=lambda item: item[1], reverse=True):
+            state_cash = float(total_assets) * float(weight)
+            if state_cash < float(current_position_value) - tolerance:
+                _append_level(str(state_name), state_cash)
+    else:
+        _append_level(requested_state or "hold", desired_cash)
+        for state_name, weight in sorted(ordered_states, key=lambda item: item[1], reverse=True):
+            state_cash = float(total_assets) * float(weight)
+            if state_cash < float(desired_cash) - tolerance:
+                _append_level(str(state_name), state_cash)
+
+    _append_level("flat", 0.0)
+    return levels or [("flat", 0.0)]
+
+
+def _apply_allocator_level(
+    decision: Dict[str, object],
+    level_name: str,
+    target_cash_amount: float,
+    current_position_value: float,
+    total_assets: float,
+) -> None:
+    normalized_state = str(level_name).strip().lower() or "flat"
+    normalized_cash = max(0.0, float(target_cash_amount))
+    decision["target_state"] = normalized_state
+    decision["target_cash_amount"] = normalized_cash
+    decision["cash_change"] = normalized_cash - float(current_position_value)
+    decision["action"] = _derive_action_from_target_cash(normalized_cash, current_position_value, total_assets)
+
+
+def _enforce_discrete_allocator_constraints(
+    normalized_decisions: Dict[str, Dict[str, object]],
+    symbols: Dict[str, Dict],
+    total_assets: float,
+    min_cash_ratio: float,
+    max_positions: int,
+    decision_space_cfg: Dict[str, object],
+) -> tuple[Dict[str, Dict[str, object]], Dict[str, object]]:
+    if decision_space_cfg.get("mode") != "discrete_target_state" or not normalized_decisions:
+        return normalized_decisions, {}
+
+    ordered_states = list(decision_space_cfg.get("ordered_states") or [])
+    tolerance = _decision_cash_tolerance(total_assets, 0.0)
+    safe_max_positions = max(0, int(max_positions)) if max_positions < 999999 else 999999
+    max_invested = max(0.0, float(total_assets) * (1.0 - max(0.0, float(min_cash_ratio))))
+
+    level_options: Dict[str, List[tuple[str, float]]] = {}
+    level_indices: Dict[str, int] = {}
+    priority_scores: Dict[str, float] = {}
+    current_position_values: Dict[str, float] = {}
+    original_targets: Dict[str, tuple[str, float]] = {}
+
+    for symbol, decision in normalized_decisions.items():
+        current_position_value = float((symbols.get(symbol, {}).get("features", {}).get("position_state") or {}).get("current_position_value", 0.0))
+        current_position_values[symbol] = current_position_value
+        level_options[symbol] = _build_allocator_levels(decision, current_position_value, total_assets, ordered_states)
+        level_indices[symbol] = 0
+        priority_scores[symbol] = _allocator_priority_score(decision, current_position_value, total_assets)
+        original_targets[symbol] = (
+            str(decision.get("target_state", "hold") or "hold").strip().lower(),
+            max(0.0, float(decision.get("target_cash_amount", current_position_value) or 0.0)),
+        )
+
+    def _current_target_cash(symbol: str) -> float:
+        _, level_cash = level_options[symbol][level_indices[symbol]]
+        return float(level_cash)
+
+    def _current_target_state(symbol: str) -> str:
+        level_name, _ = level_options[symbol][level_indices[symbol]]
+        return str(level_name)
+
+    def _active_symbols() -> List[str]:
+        return [symbol for symbol in normalized_decisions.keys() if _current_target_cash(symbol) > tolerance]
+
+    def _invested_total() -> float:
+        return sum(_current_target_cash(symbol) for symbol in normalized_decisions.keys())
+
+    adjustment_notes: List[str] = []
+
+    if safe_max_positions < 999999:
+        active_symbols = _active_symbols()
+        if len(active_symbols) > safe_max_positions:
+            symbols_to_close = sorted(
+                active_symbols,
+                key=lambda symbol: (priority_scores.get(symbol, 0.0), original_targets[symbol][1], symbol),
+            )[: len(active_symbols) - safe_max_positions]
+            for symbol in symbols_to_close:
+                level_indices[symbol] = len(level_options[symbol]) - 1
+                adjustment_notes.append(f"{symbol}: forced to flat due to max_positions={safe_max_positions}")
+
+    while _invested_total() > max_invested + tolerance:
+        reducible_symbols = [
+            symbol
+            for symbol in normalized_decisions.keys()
+            if level_indices[symbol] + 1 < len(level_options[symbol])
+        ]
+        if not reducible_symbols:
+            break
+
+        symbol_to_reduce = min(
+            reducible_symbols,
+            key=lambda symbol: (
+                priority_scores.get(symbol, 0.0),
+                _current_target_cash(symbol),
+                symbol,
+            ),
+        )
+        previous_state = _current_target_state(symbol_to_reduce)
+        level_indices[symbol_to_reduce] += 1
+        adjustment_notes.append(
+            f"{symbol_to_reduce}: reduced from {previous_state} to "
+            f"{level_options[symbol_to_reduce][level_indices[symbol_to_reduce]][0]} for budget"
+        )
+
+    allocator_adjustments = 0
+    for symbol, decision in normalized_decisions.items():
+        current_position_value = current_position_values[symbol]
+        original_state, original_cash = original_targets[symbol]
+        final_state, final_cash = level_options[symbol][level_indices[symbol]]
+        _apply_allocator_level(decision, final_state, final_cash, current_position_value, total_assets)
+
+        if abs(float(final_cash) - float(original_cash)) > tolerance or final_state != original_state:
+            allocator_adjustments += 1
+            reasons = _coerce_reasons(decision.get("reasons"))
+            reasons.append(
+                f"Allocator adjusted target from {original_state} to {final_state} to satisfy portfolio cash and concentration limits"
+            )
+            decision["reasons"] = reasons
+
+    final_invested = _invested_total()
+    final_cash = max(0.0, float(total_assets) - float(final_invested))
+    return normalized_decisions, {
+        "adjustments": allocator_adjustments,
+        "active_positions": len(_active_symbols()),
+        "final_cash": final_cash,
+        "final_cash_ratio": (final_cash / float(total_assets)) if float(total_assets) > 0 else 0.0,
+        "notes": adjustment_notes[-10:],
+    }
+
+
 def _filter_hallucination_decisions(decisions_data: dict, valid_symbols: set) -> dict:
     """
     Filter out hallucinated decisions, keeping only actual input stock symbols
@@ -145,24 +572,24 @@ def decide_batch_dual_agent(features_list: List[Dict], cfg: Dict | None = None, 
     results: Dict[str, Dict] = {}
     meta_agg: Dict[str, object] = {"calls": 0, "cache_hits": 0, "parse_errors": 0, "latency_ms_sum": 0, 
                                   "tokens_prompt": 0, "tokens_completion": 0, "prompt_version": None}
+    decision_space_cfg = _get_decision_space_config(cfg)
     
     # If LLM not enabled, directly fallback to hold
     if not enable_llm:
         for item in features_list:
             symbol = item.get("symbol", "UNKNOWN")
             current_position_value = float((item.get("features", {}).get("position_state") or {}).get("current_position_value", 0.0))
-            hold_decision = {
-                "action": "hold",
-                "target_cash_amount": current_position_value,
-                "cash_change": 0.0,
-                "reasons": [f"LLM not enabled, {symbol} maintains current position"],
-                "confidence": 0.5,
-                "timestamp": datetime.now().isoformat(),
+            hold_decision = _build_hold_decision(
+                current_position_value,
+                f"LLM not enabled, {symbol} maintains current position",
+                decision_space_cfg,
+            )
+            hold_decision.update({
                 "analysis_excerpt": "",
                 "tech_score": 0.5,
                 "sent_score": 0.0,
                 "event_risk": "normal"
-            }
+            })
             results[symbol] = round_numbers_in_obj(hold_decision, 2)
         results["__meta__"] = meta_agg
         return results
@@ -218,18 +645,31 @@ def decide_batch_dual_agent(features_list: List[Dict], cfg: Dict | None = None, 
                     # For stocks needing fundamental data, preserve existing news data from original features
                     # to avoid losing news information during feature rebuilding
                     original_news_events = features.get("news_events", {}).get("top_k_events", [])
+                    original_image_inputs = features.get("news_events", {}).get("image_inputs", [])
                     preserved_news_items = []
-                    
+                    image_lookup = {}
+
+                    for entry in original_image_inputs:
+                        if isinstance(entry, dict):
+                            event_index = entry.get("event_index")
+                            if isinstance(event_index, int):
+                                image_lookup[event_index] = entry
+
                     if original_news_events and original_news_events != ["No news data available"]:
                         # Convert existing news events back to news_items format for rebuild
-                        for event in original_news_events:
+                        for idx, event in enumerate(original_news_events, start=1):
                             if isinstance(event, dict):
                                 preserved_news_items.append(event)
                             elif isinstance(event, str):
-                                preserved_news_items.append({"title": event, "description": ""})
-                    
-                    # Use preserved news items if available, otherwise fall back to bars_data news
-                    news_items_for_rebuild = preserved_news_items or original_data.get("news_items", [])
+                                rebuilt_item = {"title": event, "description": ""}
+                                image_entry = image_lookup.get(idx)
+                                if image_entry:
+                                    rebuilt_item["image"] = image_entry.get("image_url", "")
+                                preserved_news_items.append(rebuilt_item)
+
+                    # Prefer raw news items because they preserve image metadata and source fields.
+                    raw_news_items = original_data.get("news_items", [])
+                    news_items_for_rebuild = raw_news_items or preserved_news_items
                     
                     # Check configuration for include_current_price setting
                     include_current_price = (cfg or {}).get("features", {}).get("include_current_price", False)
@@ -296,9 +736,14 @@ def decide_batch_dual_agent(features_list: List[Dict], cfg: Dict | None = None, 
         logger.info(f"🎯 [DUAL_AGENT] Step 3: Calling decision agent with enhanced features")
         
         # Use the decision agent prompt from config
-        prompt_name = (cfg or {}).get("agents", {}).get("dual_agent", {}).get("decision_agent", {}).get("prompt", "decision_agent_v1.txt")
+        prompt_name = _resolve_decision_prompt_name(cfg, decision_space_cfg)
         system_prompt = _load_prompt(prompt_name)
-        meta_agg["prompt_version"] = _prompt_version(prompt_name)
+        system_prompt = _append_active_decision_space_note(system_prompt, decision_space_cfg)
+        system_prompt = _append_portfolio_constraint_note(system_prompt, cfg)
+        prompt_version = _prompt_version(prompt_name)
+        if decision_space_cfg.get("mode") == "discrete_target_state":
+            prompt_version = f"{prompt_version}[discrete_target_state]"
+        meta_agg["prompt_version"] = prompt_version
         
         # Get LLM configuration for decision agent
         # Use the already selected llm config (processed by --llm-profile in run_backtest.py)
@@ -333,6 +778,8 @@ def decide_batch_dual_agent(features_list: List[Dict], cfg: Dict | None = None, 
             budget_completion_tokens=int(llm_cfg_raw.get("budget", {}).get("max_completion_tokens", 200_000)),
             auth_required=llm_cfg_raw.get("auth_required"),
             api_key_env=str(llm_cfg_raw.get("api_key_env", "OPENAI_API_KEY")),
+            supports_image_input=llm_cfg_raw.get("supports_image_input"),
+            max_input_images=int(llm_cfg_raw.get("max_input_images", 8)),
         )
 
         # Refine LLM cache read/write switches based on cache.mode
@@ -376,18 +823,17 @@ def decide_batch_dual_agent(features_list: List[Dict], cfg: Dict | None = None, 
         for item in features_list:
             symbol = item.get("symbol", "UNKNOWN")
             current_position_value = float((item.get("features", {}).get("position_state") or {}).get("current_position_value", 0.0))
-            hold_decision = {
-                "action": "hold",
-                "target_cash_amount": current_position_value,
-                "cash_change": 0.0,
-                "reasons": [f"Dual-agent error ({str(e)[:50]}), {symbol} maintains current position"],
-                "confidence": 0.5,
-                "timestamp": datetime.now().isoformat(),
+            hold_decision = _build_hold_decision(
+                current_position_value,
+                f"Dual-agent error ({str(e)[:50]}), {symbol} maintains current position",
+                decision_space_cfg,
+            )
+            hold_decision.update({
                 "analysis_excerpt": "",
                 "tech_score": 0.5,
                 "sent_score": 0.0,
                 "event_risk": "normal"
-            }
+            })
             results[symbol] = round_numbers_in_obj(hold_decision, 2)
         results["__meta__"] = meta_agg
         return results
@@ -400,6 +846,7 @@ def _decide_batch_portfolio_dual_agent(features_list: List[Dict], llm_cfg: LLMCo
                                       rejected_orders: Optional[List[Dict]] = None) -> Dict[str, Dict]:
     """Dual-agent batch portfolio decision making with comprehensive retry mechanism"""
     results = {}
+    decision_space_cfg = _get_decision_space_config(cfg)
     
     # Build input format conforming to prompt template
     symbols = {}
@@ -433,8 +880,12 @@ def _decide_batch_portfolio_dual_agent(features_list: List[Dict], llm_cfg: LLMCo
         remaining_cash_ratio = available_cash / total_assets if total_assets > 0 else 0.0
         available_cash_ratio = remaining_cash_ratio
     
-    # Get minimum cash ratio requirement
+    # Get portfolio-wide constraint requirements
     min_cash_ratio = portfolio_cfg.get("min_cash_ratio", 0.0)
+    try:
+        max_positions = int(((cfg or {}).get("backtest", {}) or {}).get("max_positions", 999999))
+    except Exception:
+        max_positions = 999999
     
     # Build historical decision records
     if decision_history:
@@ -652,14 +1103,11 @@ def _decide_batch_portfolio_dual_agent(features_list: List[Dict], llm_cfg: LLMCo
                 logger.error(f"[DUAL_AGENT_UNIFIED_RETRY] All {max_unified_retries} attempts failed due to invalid data format (engine: {engine_retry_count}, llm: {retry_count})")
                 for symbol in symbols.keys():
                     current_position_value = symbols[symbol]["features"].get("position_state", {}).get("current_position_value", 0.0)
-                    hold_decision = {
-                        "action": "hold",
-                        "target_cash_amount": current_position_value,
-                        "cash_change": 0.0,
-                        "reasons": [f"Dual-agent retry failed: invalid data format after {max_unified_retries} attempts"],
-                        "confidence": 0.5,
-                        "timestamp": datetime.now().isoformat()
-                    }
+                    hold_decision = _build_hold_decision(
+                        current_position_value,
+                        f"Dual-agent retry failed: invalid data format after {max_unified_retries} attempts",
+                        decision_space_cfg,
+                    )
                     results[symbol] = round_numbers_in_obj(hold_decision, 2)
                 results["__meta__"] = meta_agg
                 return results
@@ -706,14 +1154,11 @@ def _decide_batch_portfolio_dual_agent(features_list: List[Dict], llm_cfg: LLMCo
                     logger.error(f"[DUAL_AGENT_UNIFIED_RETRY] All {max_unified_retries} attempts failed due to unparseable data (engine: {engine_retry_count}, llm: {retry_count})")
                 for symbol in symbols.keys():
                     current_position_value = symbols[symbol]["features"].get("position_state", {}).get("current_position_value", 0.0)
-                    hold_decision = {
-                        "action": "hold",
-                        "target_cash_amount": current_position_value,
-                        "cash_change": 0.0,
-                        "reasons": [f"Dual-agent retry failed: unparseable data after {max_unified_retries} attempts"],
-                        "confidence": 0.5,
-                        "timestamp": datetime.now().isoformat()
-                    }
+                    hold_decision = _build_hold_decision(
+                        current_position_value,
+                        f"Dual-agent retry failed: unparseable data after {max_unified_retries} attempts",
+                        decision_space_cfg,
+                    )
                     results[symbol] = round_numbers_in_obj(hold_decision, 2)
                 results["__meta__"] = meta_agg
                 return results
@@ -726,25 +1171,25 @@ def _decide_batch_portfolio_dual_agent(features_list: List[Dict], llm_cfg: LLMCo
         cash_shortage_detected = False
         cash_ratio_violation = False
         invalid_decisions = []
+        normalized_decisions: Dict[str, Dict[str, object]] = {}
         
-        # Calculate predicted cash usage and validate constraints
-        predicted_cash_usage = 0.0
-        
+        # Validate logic and normalize decisions first
         for symbol in symbols.keys():
             symbol_decision = decisions_data.get(symbol)
             
             if isinstance(symbol_decision, dict):
                 try:
-                    action = str(symbol_decision.get("action", "hold")).lower().strip()
-                    
-                    # For hold action, if no target_cash_amount, use current position value
-                    if action == "hold" and "target_cash_amount" not in symbol_decision:
-                        target_cash_amount = symbols[symbol]["features"].get("position_state", {}).get("current_position_value", 0.0)
-                    else:
-                        target_cash_amount = float(symbol_decision.get("target_cash_amount", 0.0))
-                    
-                    # Get current position value
                     current_position_value = symbols[symbol]["features"].get("position_state", {}).get("current_position_value", 0.0)
+                    normalized_decision = _normalize_symbol_decision(
+                        symbol,
+                        symbol_decision,
+                        symbols[symbol]["features"],
+                        total_assets,
+                        decision_space_cfg,
+                    )
+                    normalized_decisions[symbol] = normalized_decision
+                    action = str(normalized_decision.get("action", "hold")).lower().strip()
+                    target_cash_amount = float(normalized_decision.get("target_cash_amount", current_position_value))
                     
                     # Validate decision logic using the same function as single agent
                     if not _validate_decision_logic(action, target_cash_amount, current_position_value):
@@ -753,7 +1198,8 @@ def _decide_batch_portfolio_dual_agent(features_list: List[Dict], llm_cfg: LLMCo
                             "symbol": symbol,
                             "action": action,
                             "target_cash_amount": target_cash_amount,
-                            "current_position_value": current_position_value
+                            "current_position_value": current_position_value,
+                            "target_state": normalized_decision.get("target_state"),
                         })
                         logger.warning(f"🚨 [DUAL_AGENT_UNIFIED_RETRY] Attempt {retry_count + 1}: {symbol} {action} operation logic unreasonable")
                         
@@ -764,17 +1210,50 @@ def _decide_batch_portfolio_dual_agent(features_list: List[Dict], llm_cfg: LLMCo
                         "error": str(e)
                     })
                     logger.warning(f"🚨 [DUAL_AGENT_UNIFIED_RETRY] Attempt {retry_count + 1}: {symbol} decision parsing failed: {e}")
-                    
-                # Calculate cash usage for this decision
+
+        allocator_meta: Dict[str, object] = {}
+        if not logic_validation_failed and decision_space_cfg.get("mode") == "discrete_target_state":
+            normalized_decisions, allocator_meta = _enforce_discrete_allocator_constraints(
+                normalized_decisions,
+                symbols,
+                total_assets,
+                min_cash_ratio,
+                max_positions,
+                decision_space_cfg,
+            )
+            if allocator_meta.get("adjustments"):
+                logger.info(
+                    f"[ALLOCATOR] Applied {allocator_meta.get('adjustments')} adjustments, "
+                    f"active_positions={allocator_meta.get('active_positions')}, "
+                    f"final_cash_ratio={float(allocator_meta.get('final_cash_ratio', 0.0)):.3f}"
+                )
+                for note in allocator_meta.get("notes", []):
+                    logger.info(f"[ALLOCATOR] {note}")
+
+        # Calculate predicted cash usage and validate constraints after allocation
+        predicted_cash_usage = 0.0
+        predicted_final_position_value = 0.0
+        for symbol, symbol_data in symbols.items():
+            current_position_value = float(symbol_data["features"].get("position_state", {}).get("current_position_value", 0.0))
+            normalized_decision = normalized_decisions.get(symbol)
+            target_cash_amount = current_position_value
+            if isinstance(normalized_decision, dict):
                 try:
-                    cash_change = target_cash_amount - current_position_value
-                    if cash_change > 0:  # Only count positive cash changes (purchases)
-                        predicted_cash_usage += cash_change
-                except:
-                    pass
+                    target_cash_amount = max(0.0, float(normalized_decision.get("target_cash_amount", current_position_value)))
+                except Exception:
+                    target_cash_amount = current_position_value
+            predicted_final_position_value += target_cash_amount
+
+        for symbol, normalized_decision in normalized_decisions.items():
+            try:
+                cash_change = float(normalized_decision.get("cash_change", 0.0))
+                if cash_change > 0:
+                    predicted_cash_usage += cash_change
+            except Exception:
+                pass
         
         # Check fund constraints
-        available_cash_after = available_cash - predicted_cash_usage
+        available_cash_after = total_assets - predicted_final_position_value
         predicted_remaining_ratio = available_cash_after / total_assets if total_assets > 0 else 0.0
         
         if available_cash_after < 0:
@@ -786,65 +1265,48 @@ def _decide_batch_portfolio_dual_agent(features_list: List[Dict], llm_cfg: LLMCo
         # If validation passed, process and return results
         if not logic_validation_failed and not cash_shortage_detected and not cash_ratio_violation:
             logger.info(f"✅ [DUAL_AGENT_UNIFIED_RETRY] Attempt {retry_count + 1}: All validations passed, processing results")
+            if allocator_meta:
+                meta_agg["allocator_adjustments"] = int(allocator_meta.get("adjustments", 0))
+                meta_agg["allocator_active_positions"] = int(allocator_meta.get("active_positions", 0))
+                meta_agg["allocator_final_cash_ratio"] = float(allocator_meta.get("final_cash_ratio", predicted_remaining_ratio))
             
             # Process each decision
             for symbol, symbol_data in symbols.items():
                 current_position_value = symbol_data["features"].get("position_state", {}).get("current_position_value", 0.0)
                 
                 # Get decision for this symbol
-                symbol_decision = decisions_data.get(symbol)
+                symbol_decision = normalized_decisions.get(symbol)
                 
                 if isinstance(symbol_decision, dict):
                     try:
-                        action = str(symbol_decision.get("action", "hold")).lower()
-                        
-                        # For hold action, if no target_cash_amount, use current position value
-                        if action == "hold" and "target_cash_amount" not in symbol_decision:
-                            target_cash_amount = current_position_value
-                        else:
-                            target_cash_amount = float(symbol_decision.get("target_cash_amount", current_position_value))
-                        
-                        reasons = symbol_decision.get("reasons", ["No specific reason"])
-                        if not isinstance(reasons, list):
-                            reasons = [str(reasons)]
-                        
-                        confidence = float(symbol_decision.get("confidence", 0.5))
-                        target_cash_amount = max(0.0, target_cash_amount)
-                        confidence = max(0.0, min(1.0, confidence))
-                        
-                        cash_change = target_cash_amount - current_position_value
-                        
-                        results[symbol] = round_numbers_in_obj({
-                            "action": action,
-                            "target_cash_amount": target_cash_amount,
-                            "cash_change": cash_change,
-                            "reasons": reasons,
-                            "confidence": confidence,
-                            "timestamp": datetime.now().isoformat()
-                        }, 2)
+                        normalized_result = {
+                            "action": str(symbol_decision.get("action", "hold")).lower(),
+                            "target_cash_amount": max(0.0, float(symbol_decision.get("target_cash_amount", current_position_value))),
+                            "cash_change": float(symbol_decision.get("cash_change", 0.0)),
+                            "reasons": _coerce_reasons(symbol_decision.get("reasons")),
+                            "confidence": _coerce_confidence(symbol_decision.get("confidence", 0.5)),
+                            "timestamp": datetime.now().isoformat(),
+                        }
+                        if symbol_decision.get("target_state") is not None:
+                            normalized_result["target_state"] = str(symbol_decision.get("target_state"))
+                        results[symbol] = round_numbers_in_obj(normalized_result, 2)
                         
                     except Exception as e:
                         # Parsing failed, use hold decision
                         meta_agg["parse_errors"] = int(meta_agg["parse_errors"]) + 1
-                        hold_decision = {
-                            "action": "hold",
-                            "target_cash_amount": current_position_value,
-                            "cash_change": 0.0,
-                            "reasons": [f"Dual-agent decision parsing error: {str(e)[:50]}"],
-                            "confidence": 0.5,
-                            "timestamp": datetime.now().isoformat()
-                        }
+                        hold_decision = _build_hold_decision(
+                            current_position_value,
+                            f"Dual-agent decision parsing error: {str(e)[:50]}",
+                            decision_space_cfg,
+                        )
                         results[symbol] = round_numbers_in_obj(hold_decision, 2)
                 else:
                     # No decision for this symbol, use hold
-                    hold_decision = {
-                        "action": "hold",
-                        "target_cash_amount": current_position_value,
-                        "cash_change": 0.0,
-                        "reasons": ["No decision provided by dual-agent"],
-                        "confidence": 0.5,
-                        "timestamp": datetime.now().isoformat()
-                    }
+                    hold_decision = _build_hold_decision(
+                        current_position_value,
+                        "No decision provided by dual-agent",
+                        decision_space_cfg,
+                    )
                     results[symbol] = round_numbers_in_obj(hold_decision, 2)
             
             results["__meta__"] = meta_agg
@@ -895,14 +1357,11 @@ def _decide_batch_portfolio_dual_agent(features_list: List[Dict], llm_cfg: LLMCo
             logger.error(f"[DUAL_AGENT_UNIFIED_RETRY] All {max_unified_retries} attempts failed due to validation errors (engine: {engine_retry_count}, llm: {retry_count})")
             for symbol in symbols.keys():
                 current_position_value = symbols[symbol]["features"].get("position_state", {}).get("current_position_value", 0.0)
-                hold_decision = {
-                    "action": "hold",
-                    "target_cash_amount": current_position_value,
-                    "cash_change": 0.0,
-                    "reasons": [f"Dual-agent validation failed after {max_unified_retries} attempts"],
-                    "confidence": 0.5,
-                    "timestamp": datetime.now().isoformat()
-                }
+                hold_decision = _build_hold_decision(
+                    current_position_value,
+                    f"Dual-agent validation failed after {max_unified_retries} attempts",
+                    decision_space_cfg,
+                )
                 results[symbol] = round_numbers_in_obj(hold_decision, 2)
             results["__meta__"] = meta_agg
             return results
@@ -911,14 +1370,11 @@ def _decide_batch_portfolio_dual_agent(features_list: List[Dict], llm_cfg: LLMCo
     logger.error(f"[DUAL_AGENT_UNIFIED_RETRY] Unexpected exit from retry loop, using hold decisions")
     for symbol in symbols.keys():
         current_position_value = symbols[symbol]["features"].get("position_state", {}).get("current_position_value", 0.0)
-        hold_decision = {
-            "action": "hold",
-            "target_cash_amount": current_position_value,
-            "cash_change": 0.0,
-            "reasons": ["Dual-agent unexpected error, maintaining current position"],
-            "confidence": 0.5,
-            "timestamp": datetime.now().isoformat()
-        }
+        hold_decision = _build_hold_decision(
+            current_position_value,
+            "Dual-agent unexpected error, maintaining current position",
+            decision_space_cfg,
+        )
         results[symbol] = round_numbers_in_obj(hold_decision, 2)
     results["__meta__"] = meta_agg
     return results
@@ -975,6 +1431,7 @@ def _build_history_from_previous_decisions(previous_decisions: Optional[Dict] = 
             history_record = {
                 "date": history_date,
                 "action": action,
+                "target_state": decision.get("target_state"),
                 "cash_change": cash_change,
                 "target_cash_amount": target_cash_amount,
                 "reasons": decision.get("reasons", []),

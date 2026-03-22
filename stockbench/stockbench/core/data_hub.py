@@ -65,6 +65,18 @@ def _effective_data_mode(cfg: Optional[Dict] = None) -> str:
 def _is_offline_only(cfg: Optional[Dict] = None) -> bool:
     return _effective_data_mode(cfg) == "offline_only"
 
+
+def _is_news_enabled(cfg: Optional[Dict] = None) -> bool:
+    try:
+        if isinstance(cfg, dict):
+            value = (((cfg.get("news", {}) or {}).get("enabled", True)))
+            if isinstance(value, str):
+                return value.strip().lower() not in {"false", "0", "no", "none", "off"}
+            return bool(value)
+    except Exception:
+        pass
+    return True
+
 # Global variable to ensure statistics are shown only once
 _cache_stats_shown = False
 
@@ -814,6 +826,10 @@ def get_news(ticker: str, gte: str, lte: str, limit: int = 100, page_token: Opti
     Note: To avoid lookahead bias, automatically advance end date by one day
     """
     try:
+        if not _is_news_enabled(cfg):
+            logger.info(f"[NEWS_DISABLED] News disabled by configuration, skip fetching for {ticker}")
+            return [], None
+
         # Record function call parameters
         logger.info(f"📋 Start getting news - Stock: {ticker}, GTE: {gte}, LTE: {lte}, limit: {limit}, page_token: {page_token}")
         

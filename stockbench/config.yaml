@@ -42,14 +42,30 @@ features:
 
 # News configuration
 news:
+  enabled: true        # Whether to provide news data to the strategy/LLM
   lookback_days: 2      # Lookback days for fetching news (excluding the backtest day)
   page_limit: 100       # Page limit for fetching news
   top_k_event_count: 5  # Select the top K most important news events
+  include_image_inputs: false  # Keep image input support available, but do not attach images unless explicitly enabled
+  max_image_count_per_symbol: 1  # Limit attached news images per symbol to control prompt size
 
 # Portfolio configuration
 portfolio:
   total_cash: 100000  # Total capital
-  min_cash_ratio: 0.0  # Minimum cash reserve ratio
+  min_cash_ratio: 0.00  # Minimum cash reserve ratio
+
+# Global decision-space configuration
+decision_space:
+  mode: continuous  # continuous | discrete_target_state
+  discrete_target_state:
+    prompt: "decision_agent_discrete_target_state_v1.txt"
+    states:
+      flat: 0.00
+      pilot: 0.04
+      core: 0.08
+      conviction: 0.15
+    keep_hold: true
+    quantize_fallback: direction_aware
 
 # Agent configuration
 agents:
@@ -288,7 +304,7 @@ backtest:
   commission_bps: 1.0
   slippage_bps: 2.0
   fill_ratio: 1.0
-  max_positions: 20  
+  max_positions: 10  
   rebalance_at_open: false
   summary_llm: true
 
