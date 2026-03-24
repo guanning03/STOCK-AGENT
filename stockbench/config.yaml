@@ -67,6 +67,20 @@ decision_space:
     keep_hold: true
     quantize_fallback: direction_aware
 
+# Lightweight Top-K shortlisting before the decision agent
+top_k_shortlist:
+  enabled: false
+  k: 5
+  score_weights:
+    existing_position: 2.5
+    news_count: 1.25
+    news_direction: 1.25
+    price_move: 1.0
+    volatility: 0.75
+    range_extreme: 0.75
+    recent_decision: 0.75
+    holding_days: 0.5
+
 # Agent configuration
 agents:
   mode: "dual"      # Dual-agent mode

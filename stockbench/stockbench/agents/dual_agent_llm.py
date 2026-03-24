@@ -4,6 +4,7 @@ import logging
 from typing import Dict, List, Optional
 import os
 import json
+import re
 from datetime import datetime
 
 logger = logging.getLogger(__name__)
@@ -69,6 +70,292 @@ def _get_decision_space_config(cfg: Dict | None) -> Dict[str, object]:
         "quantize_fallback": str(discrete_cfg.get("quantize_fallback", "direction_aware")).strip().lower(),
         "prompt_name": str(discrete_cfg.get("prompt", "decision_agent_discrete_target_state_v1.txt")).strip(),
     }
+
+
+def _coerce_bool(value: object, default: bool = False) -> bool:
+    if value is None:
+        return default
+    if isinstance(value, bool):
+        return value
+    text = str(value).strip().lower()
+    if text == "":
+        return default
+    return text not in {"false", "0", "no", "none", "off"}
+
+
+def _get_top_k_shortlist_config(cfg: Dict | None) -> Dict[str, object]:
+    raw_cfg = ((cfg or {}).get("top_k_shortlist") or {})
+    weights_raw = raw_cfg.get("score_weights") or {}
+    default_weights = {
+        "existing_position": 2.5,
+        "news_count": 1.25,
+        "news_direction": 1.25,
+        "price_move": 1.0,
+        "volatility": 0.75,
+        "range_extreme": 0.75,
+        "recent_decision": 0.75,
+        "holding_days": 0.5,
+    }
+    weights: Dict[str, float] = {}
+    for name, default_value in default_weights.items():
+        try:
+            weights[name] = float(weights_raw.get(name, default_value))
+        except Exception:
+            weights[name] = float(default_value)
+
+    try:
+        k_value = max(0, int(raw_cfg.get("k", 0) or 0))
+    except Exception:
+        k_value = 0
+
+    enabled = _coerce_bool(raw_cfg.get("enabled"), default=False) and k_value > 0
+    return {
+        "enabled": enabled,
+        "k": k_value,
+        "weights": weights,
+    }
+
+
+def _clean_close_series(raw_series: object) -> List[float]:
+    cleaned: List[float] = []
+    if not isinstance(raw_series, list):
+        return cleaned
+    for value in raw_series:
+        try:
+            price = float(value)
+        except Exception:
+            continue
+        if price > 0:
+            cleaned.append(price)
+    return cleaned
+
+
+def _extract_news_texts(features: Dict) -> List[str]:
+    news_events = (features.get("news_events") or {}).get("top_k_events") or []
+    cleaned: List[str] = []
+    for event in news_events:
+        text = str(event).strip()
+        if not text or text.lower() in {"no news available", "no news data available"}:
+            continue
+        cleaned.append(text)
+    return cleaned
+
+
+def _clip(value: float, lower: float = 0.0, upper: float = 1.5) -> float:
+    return max(lower, min(upper, float(value)))
+
+
+def _score_directional_news(news_texts: List[str]) -> float:
+    if not news_texts:
+        return 0.0
+
+    positive_keywords = {
+        "beat", "beats", "approval", "approved", "upgrade", "upgraded", "raise", "raises", "raised",
+        "growth", "strong", "surge", "surges", "win", "wins", "record", "outperform", "buyback",
+        "bullish", "expands", "expansion", "launch", "launches", "guidance raised", "profit jumps",
+    }
+    negative_keywords = {
+        "miss", "misses", "cut", "cuts", "downgrade", "downgraded", "lawsuit", "probe", "investigation",
+        "warning", "warns", "slump", "decline", "drops", "drop", "recall", "weak", "bearish", "delay",
+        "delays", "guidance cut", "layoff", "tariff", "fraud", "charge", "charges",
+    }
+
+    score = 0.0
+    for text in news_texts:
+        normalized = re.sub(r"[^a-z0-9\s]+", " ", str(text).lower())
+        for keyword in positive_keywords:
+            if keyword in normalized:
+                score += 1.0
+        for keyword in negative_keywords:
+            if keyword in normalized:
+                score -= 1.0
+    return score
+
+
+def _build_shortlist_scorecard(
+    symbol: str,
+    features: Dict,
+    history_records: Optional[List[Dict]],
+    total_assets: float,
+    shortlist_cfg: Dict[str, object],
+) -> Dict[str, object]:
+    weights = shortlist_cfg.get("weights") or {}
+    market_data = features.get("market_data") or {}
+    position_state = features.get("position_state") or {}
+
+    current_position_value = max(0.0, float(position_state.get("current_position_value", 0.0) or 0.0))
+    current_weight = current_position_value / float(total_assets) if float(total_assets) > 0 else 0.0
+    holding_days = max(0, int(position_state.get("holding_days", 0) or 0))
+
+    close_series = _clean_close_series(market_data.get("close_7d"))
+    latest_price = close_series[-1] if close_series else 0.0
+
+    recent_move = 0.0
+    if len(close_series) >= 4 and close_series[-4] > 0:
+        recent_move = max(recent_move, abs((close_series[-1] / close_series[-4]) - 1.0))
+    if len(close_series) >= 2 and close_series[0] > 0:
+        recent_move = max(recent_move, abs((close_series[-1] / close_series[0]) - 1.0))
+
+    daily_returns: List[float] = []
+    for left, right in zip(close_series[:-1], close_series[1:]):
+        if left > 0:
+            daily_returns.append((right / left) - 1.0)
+    volatility = 0.0
+    if daily_returns:
+        mean_ret = sum(daily_returns) / len(daily_returns)
+        variance = sum((value - mean_ret) ** 2 for value in daily_returns) / len(daily_returns)
+        volatility = variance ** 0.5
+
+    range_extreme = 0.0
+    if close_series:
+        price_high = max(close_series)
+        price_low = min(close_series)
+        if price_high > price_low:
+            normalized_pos = (latest_price - price_low) / (price_high - price_low)
+            range_extreme = 2.0 * abs(normalized_pos - 0.5)
+
+    news_texts = _extract_news_texts(features)
+    news_count = len(news_texts)
+    news_direction_raw = _score_directional_news(news_texts)
+    news_direction_signal = 0.0
+    if news_count > 0:
+        news_direction_signal = abs(news_direction_raw) / max(news_count, 1)
+
+    latest_history = history_records[0] if history_records else {}
+    recent_decision_signal = 0.0
+    latest_action = str((latest_history or {}).get("action", "") or "").strip().lower()
+    latest_target_state = str((latest_history or {}).get("target_state", "") or "").strip().lower()
+    if latest_action in {"increase", "decrease", "close"} or (
+        latest_target_state and latest_target_state not in {"hold", "flat"}
+    ):
+        recent_decision_signal = 1.0
+
+    position_signal = _clip(current_weight / 0.08, upper=2.0)
+    holding_days_signal = _clip((holding_days / 20.0) if current_position_value > 0 else 0.0)
+    news_count_signal = _clip(news_count / 5.0)
+    news_direction_signal = _clip(news_direction_signal)
+    price_move_signal = _clip(recent_move / 0.08, upper=2.0)
+    volatility_signal = _clip(volatility / 0.03, upper=2.0)
+    range_extreme_signal = _clip(range_extreme)
+
+    score = (
+        float(weights.get("existing_position", 0.0)) * position_signal
+        + float(weights.get("news_count", 0.0)) * news_count_signal
+        + float(weights.get("news_direction", 0.0)) * news_direction_signal
+        + float(weights.get("price_move", 0.0)) * price_move_signal
+        + float(weights.get("volatility", 0.0)) * volatility_signal
+        + float(weights.get("range_extreme", 0.0)) * range_extreme_signal
+        + float(weights.get("recent_decision", 0.0)) * recent_decision_signal
+        + float(weights.get("holding_days", 0.0)) * holding_days_signal
+    )
+
+    rationale_parts: List[str] = []
+    if current_weight > 0:
+        rationale_parts.append(f"existing position {current_weight:.1%}")
+    if news_count > 0:
+        rationale_parts.append(f"{news_count} recent news items")
+    if news_direction_signal >= 0.35:
+        rationale_parts.append("clear directional news flow")
+    if recent_move >= 0.03:
+        rationale_parts.append(f"recent price move {recent_move:.1%}")
+    if range_extreme_signal >= 0.65:
+        rationale_parts.append("price near 7-day extreme")
+    if recent_decision_signal > 0:
+        rationale_parts.append("recent active decision history")
+    if not rationale_parts:
+        rationale_parts.append("routine monitoring only")
+
+    return {
+        "symbol": symbol,
+        "score": float(score),
+        "current_position_value": current_position_value,
+        "current_weight": current_weight,
+        "news_count": news_count,
+        "rationale": ", ".join(rationale_parts[:4]),
+    }
+
+
+def _prepare_top_k_shortlist(
+    features_list: List[Dict],
+    decision_history: Optional[Dict[str, List[Dict]]],
+    cfg: Dict | None,
+    ctx: Dict | None = None,
+) -> Dict[str, object]:
+    shortlist_cfg = _get_top_k_shortlist_config(cfg)
+    symbols = [item.get("symbol", "UNKNOWN") for item in features_list]
+    default_result = {
+        "enabled": bool(shortlist_cfg.get("enabled")),
+        "k": int(shortlist_cfg.get("k", 0) or 0),
+        "selected_symbols": list(symbols),
+        "skipped_symbols": [],
+        "scorecards": [],
+    }
+
+    if not shortlist_cfg.get("enabled") or len(features_list) <= int(shortlist_cfg.get("k", 0) or 0):
+        return default_result
+
+    total_current_position = 0.0
+    for item in features_list:
+        features = item.get("features", {})
+        total_current_position += float((features.get("position_state") or {}).get("current_position_value", 0.0) or 0.0)
+
+    portfolio_cfg = (cfg or {}).get("portfolio", {}) or {}
+    if ctx and "portfolio" in ctx:
+        total_assets = float(getattr(ctx["portfolio"], "cash", 0.0) or 0.0) + total_current_position
+    else:
+        total_assets = float(portfolio_cfg.get("total_cash", 100000) or 100000)
+
+    scorecards: List[Dict[str, object]] = []
+    for item in features_list:
+        symbol = item.get("symbol", "UNKNOWN")
+        scorecards.append(
+            _build_shortlist_scorecard(
+                symbol,
+                item.get("features", {}) or {},
+                (decision_history or {}).get(symbol, []),
+                total_assets,
+                shortlist_cfg,
+            )
+        )
+
+    scorecards.sort(
+        key=lambda card: (
+            -float(card.get("score", 0.0)),
+            -float(card.get("current_position_value", 0.0)),
+            str(card.get("symbol", "")),
+        )
+    )
+
+    shortlist_k = min(len(scorecards), int(shortlist_cfg.get("k", 0) or 0))
+    selected_symbols = [str(card.get("symbol")) for card in scorecards[:shortlist_k]]
+    skipped_symbols = [str(card.get("symbol")) for card in scorecards[shortlist_k:]]
+    return {
+        "enabled": True,
+        "k": shortlist_k,
+        "selected_symbols": selected_symbols,
+        "skipped_symbols": skipped_symbols,
+        "scorecards": scorecards,
+    }
+
+
+def _build_shortlist_hold_decision(
+    symbol: str,
+    current_position_value: float,
+    shortlist_meta: Dict[str, object],
+    decision_space_cfg: Dict[str, object],
+) -> Dict[str, object]:
+    score_lookup = {
+        str(card.get("symbol")): card for card in shortlist_meta.get("scorecards", []) if isinstance(card, dict)
+    }
+    card = score_lookup.get(symbol, {})
+    rationale = str(card.get("rationale", "lower urgency than the shortlisted names")).strip()
+    hold_decision = _build_hold_decision(
+        current_position_value,
+        f"Outside Top-K shortlist; {rationale}",
+        decision_space_cfg,
+    )
+    hold_decision["confidence"] = 0.55 if current_position_value > 0 else 0.5
+    return hold_decision
 
 
 def _resolve_decision_prompt_name(cfg: Dict | None, decision_space_cfg: Dict[str, object]) -> str:
@@ -597,10 +884,36 @@ def decide_batch_dual_agent(features_list: List[Dict], cfg: Dict | None = None, 
     logger.info(f"🚀 [DUAL_AGENT] Starting dual-agent decision process for {len(features_list)} stocks")
     
     try:
+        shortlist_meta = _prepare_top_k_shortlist(features_list, decision_history, cfg, ctx)
+        shortlisted_symbols = list(shortlist_meta.get("selected_symbols", []))
+        skipped_symbols = set(shortlist_meta.get("skipped_symbols", []))
+        shortlisted_symbol_set = set(shortlisted_symbols)
+
+        if shortlist_meta.get("enabled") and shortlisted_symbols:
+            logger.info(
+                f"🎯 [TOPK_SHORTLIST] Enabled with k={shortlist_meta.get('k')}: "
+                f"{shortlisted_symbols}"
+            )
+            preview_cards = shortlist_meta.get("scorecards", [])[: min(8, len(shortlist_meta.get("scorecards", [])))]
+            for card in preview_cards:
+                logger.info(
+                    f"[TOPK_SHORTLIST] {card.get('symbol')}: score={float(card.get('score', 0.0)):.2f}, "
+                    f"rationale={card.get('rationale')}"
+                )
+            working_features_list = [
+                item for item in features_list if item.get("symbol", "UNKNOWN") in shortlisted_symbol_set
+            ]
+            working_bars_data = {
+                symbol: payload for symbol, payload in (bars_data or {}).items() if symbol in shortlisted_symbol_set
+            }
+        else:
+            working_features_list = list(features_list)
+            working_bars_data = dict(bars_data or {})
+
         # Step 1: Fundamental Filter Agent - determines which stocks need fundamental analysis
         logger.info(f"📊 [DUAL_AGENT] Step 1: Calling fundamental filter agent")
         filter_result = filter_stocks_needing_fundamental(
-            features_list=features_list,
+            features_list=working_features_list,
             cfg=cfg,
             enable_llm=enable_llm,
             run_id=run_id,
@@ -612,14 +925,17 @@ def decide_batch_dual_agent(features_list: List[Dict], cfg: Dict | None = None, 
         stocks_need_fundamental = filter_result.get("stocks_need_fundamental", [])
         reasoning = filter_result.get("reasoning", {})
         
-        logger.info(f"✅ [DUAL_AGENT] Filter completed: {len(stocks_need_fundamental)}/{len(features_list)} stocks need fundamental analysis")
+        logger.info(
+            f"✅ [DUAL_AGENT] Filter completed: {len(stocks_need_fundamental)}/{len(working_features_list)} "
+            f"stocks need fundamental analysis"
+        )
         logger.info(f"📋 [DUAL_AGENT] Stocks needing fundamental: {stocks_need_fundamental}")
         
         # Step 2: Enhanced Feature Construction - build features with/without fundamental data
         logger.info(f"🔧 [DUAL_AGENT] Step 2: Building enhanced features based on filtering results")
         enhanced_features_list = []
         
-        for item in features_list:
+        for item in working_features_list:
             symbol = item.get("symbol", "UNKNOWN")
             features = item.get("features", {})
             
@@ -628,9 +944,9 @@ def decide_batch_dual_agent(features_list: List[Dict], cfg: Dict | None = None, 
             rebuild_success = False
             
             # Check if bars_data is available for rebuilding
-            if bars_data and symbol in bars_data:
+            if working_bars_data and symbol in working_bars_data:
                 try:
-                    original_data = bars_data.get(symbol, {})
+                    original_data = working_bars_data.get(symbol, {})
                     
                     # Validate required data components
                     required_keys = ["bars_day", "snapshot", "position_state"]
@@ -725,6 +1041,10 @@ def decide_batch_dual_agent(features_list: List[Dict], cfg: Dict | None = None, 
         logger.info(f"✅ [DUAL_AGENT] Enhanced features built for {len(enhanced_features_list)} stocks:")
         logger.info(f"   📊 {stocks_with_fundamental} stocks WITH fundamental data: {list(stocks_need_fundamental)}")
         logger.info(f"   🎯 {stocks_without_fundamental} stocks WITHOUT fundamental data")
+        if shortlist_meta.get("enabled"):
+            logger.info(
+                f"   ✂️ Top-K shortlist kept {len(enhanced_features_list)} symbols and skipped {len(skipped_symbols)}"
+            )
         
         # Log feature optimization for monitoring
         if stocks_with_fundamental > 0:
@@ -800,20 +1120,51 @@ def decide_batch_dual_agent(features_list: List[Dict], cfg: Dict | None = None, 
         
         client = LLMClient()
         
-        return _decide_batch_portfolio_dual_agent(
+        shortlisted_results = _decide_batch_portfolio_dual_agent(
             enhanced_features_list,
             llm_cfg,
             system_prompt,
             client,
             meta_agg,
             cfg,
-            bars_data,
+            working_bars_data,
             run_id,
             previous_decisions,
             decision_history,
             ctx,
             rejected_orders,
         )
+
+        if not shortlist_meta.get("enabled"):
+            return shortlisted_results
+
+        combined_results: Dict[str, Dict] = {}
+        meta = {}
+        if isinstance(shortlisted_results, dict):
+            meta = dict(shortlisted_results.get("__meta__", {}) or {})
+
+        meta["shortlist_enabled"] = True
+        meta["shortlist_k"] = int(shortlist_meta.get("k", 0) or 0)
+        meta["shortlist_selected_count"] = len(shortlisted_symbols)
+        meta["shortlist_skipped_count"] = len(skipped_symbols)
+        meta["shortlist_selected_symbols"] = shortlisted_symbols
+
+        shortlisted_lookup = {symbol: value for symbol, value in (shortlisted_results or {}).items() if symbol != "__meta__"}
+        for item in features_list:
+            symbol = item.get("symbol", "UNKNOWN")
+            current_position_value = float(
+                ((item.get("features", {}) or {}).get("position_state") or {}).get("current_position_value", 0.0) or 0.0
+            )
+            if symbol in shortlisted_lookup:
+                combined_results[symbol] = shortlisted_lookup[symbol]
+            else:
+                combined_results[symbol] = round_numbers_in_obj(
+                    _build_shortlist_hold_decision(symbol, current_position_value, shortlist_meta, decision_space_cfg),
+                    2,
+                )
+
+        combined_results["__meta__"] = meta
+        return combined_results
     
     except Exception as e:
         logger.error(f"❌ [DUAL_AGENT] Error during dual-agent processing: {e}")

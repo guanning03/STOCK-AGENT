@@ -1,0 +1,77 @@
+{
+  "full_year_period": {
+    "start": "20250301",
+    "end": "20260228"
+  },
+  "exclude_tokens": [
+    "DISCRETE",
+    "TOPK",
+    "WEEKLY",
+    "EVERY_2"
+  ],
+  "primary_runs": [
+    {
+      "label": "DeepSeek-V3.1 (A)",
+      "run_id": "DEEPSEEK_V3_1_20250301_20260228_20260323_112403_151183",
+      "selection_note": "Selected DeepSeek run for the main report set."
+    },
+    {
+      "label": "DeepSeek-V3.1 (B)",
+      "run_id": "QINGYUNTOP_DEEPSEEK_V3_1_20250301_20260228_20260316_180813_499016",
+      "selection_note": "Selected DeepSeek run for the main report set."
+    },
+    {
+      "label": "GPT-4o-mini (A)",
+      "run_id": "GPT_4O_MINI_20250301_20260228_20260323_112403_111189",
+      "selection_note": "Selected GPT run for the main report set."
+    },
+    {
+      "label": "GPT-4o-mini (B)",
+      "run_id": "QINGYUNTOP_GPT_4O_MINI_20250301_20260228_20260317_160908_493500",
+      "selection_note": "Selected GPT run for the main report set."
+    },
+    {
+      "label": "Gemini-3-Flash-Preview (A)",
+      "run_id": "GEMINI_3_FLASH_PREVIEW_NOTHINKING_20250301_20260228_20260319_120313_855260",
+      "selection_note": "Selected Gemini run for the main report set."
+    },
+    {
+      "label": "Gemini-3-Flash-Preview (B)",
+      "run_id": "QINGYUNTOP_GEMINI_3_FLASH_PREVIEW_NOTHINKING_20250301_20260228_20260317_161410_845317",
+      "selection_note": "Selected Gemini run for the main report set."
+    },
+    {
+      "label": "Claude-Sonnet-4.5 (A)",
+      "run_id": "CLAUDE_SONNET_4_5_20250929_20250301_20260228_20260319_115408_150353",
+      "selection_note": "Selected Claude run for the main report set."
+    },
+    {
+      "label": "Claude-Sonnet-4.5 (B)",
+      "run_id": "QINGYUNTOP_CLAUDE_SONNET_4_5_20250929_20250301_20260228_20260317_161506_822529",
+      "selection_note": "Selected Claude run for the main report set."
+    },
+    {
+      "label": "GLM-4-Flash (A)",
+      "run_id": "GLM_4_FLASH_20250301_20260228_20260323_070859_671665",
+      "selection_note": "Selected GLM run for the main report set."
+    },
+    {
+      "label": "GLM-4-Flash (B)",
+      "run_id": "GLM_4_FLASH_20250301_20260228_20260323_071303_379632",
+      "selection_note": "Selected GLM run for the main report set."
+    }
+  ],
+  "repeatability_groups": [
+    {
+      "label": "DeepSeek-V3.1",
+      "run_ids": [
+        "QINGYUNTOP_DEEPSEEK_V3_1_20250301_20260228_20260316_180733_050749",
+        "QINGYUNTOP_DEEPSEEK_V3_1_20250301_20260228_20260316_180739_938734",
+        "QINGYUNTOP_DEEPSEEK_V3_1_20250301_20260228_20260316_180747_705304",
+        "QINGYUNTOP_DEEPSEEK_V3_1_20250301_20260228_20260316_180805_661091",
+        "QINGYUNTOP_DEEPSEEK_V3_1_20250301_20260228_20260316_180813_499016",
+        "DEEPSEEK_V3_1_20250301_20260228_20260323_112403_151183"
+      ]
+    }
+  ]
+}

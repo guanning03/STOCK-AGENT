@@ -76,9 +76,62 @@ class Strategy:
         self.pending_decisions: Dict[str, Dict] = {}
         self.pending_meta: Dict = {}
         
+        trading_frequency_cfg = ((cfg or {}).get("backtest", {}) or {}).get("trading_frequency", {})
+        self.trading_frequency = self._parse_trading_frequency_mode(trading_frequency_cfg)
+        self._trading_day_counter = 0
+        self._last_rebalance_week_key = None
+        
         logger.debug(f"[DEBUG] Strategy initialization: Long-term historical record system enabled")
         logger.debug(f"[DEBUG] Strategy initialization: Maximum {self.max_records_per_symbol} historical records per symbol")
         logger.debug(f"[DEBUG] Strategy initialization: Maximum {self.max_history_days} days of historical records")
+        logger.debug(f"[DEBUG] Strategy initialization: trading_frequency={self.trading_frequency}")
+
+    @staticmethod
+    def _parse_trading_frequency_mode(raw_frequency) -> str:
+        if isinstance(raw_frequency, dict):
+            raw_frequency = raw_frequency.get("mode")
+        text = str(raw_frequency or "daily").strip().lower()
+        aliases = {
+            "daily": "daily",
+            "every2": "every_2_trading_days",
+            "every_2": "every_2_trading_days",
+            "every_2_trading_days": "every_2_trading_days",
+            "weekly": "weekly",
+        }
+        normalized = aliases.get(text, text)
+        if normalized not in {"daily", "every_2_trading_days", "weekly"}:
+            raise ValueError(
+                f"Unsupported backtest trading frequency '{raw_frequency}'. "
+                "Expected one of: daily, every_2_trading_days, weekly"
+            )
+        return normalized
+
+    def _should_generate_decisions_for_date(self, trade_date: pd.Timestamp) -> bool:
+        if self.trading_frequency == "daily":
+            return True
+
+        if self.trading_frequency == "every_2_trading_days":
+            should_trade = (self._trading_day_counter % 2) == 0
+            logger.info(
+                "[TRADING_FREQUENCY] %s mode=every_2_trading_days trading_day_index=%s should_trade=%s",
+                trade_date.strftime("%Y-%m-%d"),
+                self._trading_day_counter,
+                should_trade,
+            )
+            self._trading_day_counter += 1
+            return should_trade
+
+        iso_calendar = trade_date.isocalendar()
+        week_key = (int(iso_calendar.year), int(iso_calendar.week))
+        should_trade = week_key != self._last_rebalance_week_key
+        logger.info(
+            "[TRADING_FREQUENCY] %s mode=weekly week=%s should_trade=%s",
+            trade_date.strftime("%Y-%m-%d"),
+            week_key,
+            should_trade,
+        )
+        self._last_rebalance_week_key = week_key
+        return should_trade
     
     def _add_decision_to_history(self, date: str, decisions: Dict[str, Dict], meta: Dict = None, clear_date_first: bool = False):
         """Add decision results to long-term historical records
@@ -729,16 +782,28 @@ class Strategy:
         Generate daily orders: First construct features, then have LLM generate target positions, finally convert to buy/sell orders.
         ctx: {date, symbols, open_map/open_price_map, ref_price_map, portfolio, cfg, datasets, rejected_orders, ...}
         """
+        current_date = ctx["date"].strftime("%Y-%m-%d")
+        if not self._should_generate_decisions_for_date(ctx["date"]):
+            logger.info(
+                "[TRADING_FREQUENCY] %s skipped LLM decision generation under mode=%s",
+                current_date,
+                self.trading_frequency,
+            )
+            self.pending_decisions = {}
+            self.pending_meta = {}
+            return []
+
         # Call LLM to generate decisions
         open_map = ctx["open_map"]
         if not open_map:
+            self.pending_decisions = {}
+            self.pending_meta = {}
             return []
         
         # 1) Feature construction
         features_list = self._build_features_for_day(ctx)
         
         # 2) Clean up expired historical records
-        current_date = ctx["date"].strftime("%Y-%m-%d")
         self._cleanup_old_history(current_date)
         
         # 3) Build historical decision records for LLM call

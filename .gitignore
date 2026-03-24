@@ -36,3 +36,11 @@ logs/
 .DS_Store
 Thumbs.db
 stockbench/wandb/
+
+wandb/
+storage/
+tmp*
+simulated results/
+hint.txt
+plan.md
+.pytest_cache/
